@@ -15,7 +15,7 @@ UNIVERSALIS-OS is intended to provide a portable, local-first, vendor- and devic
 
 ## Current status
 
-<badge>Architecture baseline proposed</badge>
+**Status:** Proposed architecture baseline.
 
 The default `main` branch contains only the initial repository README. The architecture baseline is being developed on `foundation/architecture-baseline-2026-11-19`. No kernel, runtime, system service, installer, or bootable image is claimed implemented. No public license or release is asserted.
 
