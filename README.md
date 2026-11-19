@@ -16,6 +16,8 @@ UNIVERSALIS-OS is intended to provide a portable, local-first, vendor- and devic
 
 - `docs/architecture/SOURCE_PLACEMENT_AND_MIGRATION_REGISTER_v0.1.0.md` — initial source inventory and migration controls; partial audit, no transfer authorized.
 
+- `docs/architecture/PLATFORM_STRATEGY_RESEARCH_v0.1.0.md` — preliminary platform strategy comparison; not an ADR or platform selection.
+
 ## Current status
 
 **Status:** Proposed architecture baseline.
