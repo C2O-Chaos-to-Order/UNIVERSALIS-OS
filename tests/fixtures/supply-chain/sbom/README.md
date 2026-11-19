@@ -49,3 +49,10 @@ A JSON parser success is only syntax validation. It is not CycloneDX schema vali
 | Completeness / provenance / license verification | NOT RUN | Outside this preliminary syntax/graph check |
 
 The negative fixture is intentionally syntactically valid JSON with an invalid `bomFormat` enum value. Its expected schema rejection is a test expectation, not an observed validator result. Do not mark either fixture as CycloneDX-schema-validated until the official Draft 7 schema validator run is recorded.
+
+
+## Pinned official schema source
+
+The official CycloneDX 1.7 JSON Schema is vendored at `schemas/cyclonedx-bom-1.7.schema.json` for offline, reproducible validation. It is copied unchanged from the CycloneDX specification repository at commit `5fee6af48d43c751dc6a5b31138f06af2b10bac5` (schema Git blob SHA-1: `1ca17a2e3f1f684dfcbe66b4f182d6ea21464278`). The schema declares JSON Schema Draft 7. Upstream source: https://github.com/CycloneDX/specification/blob/5fee6af48d43c751dc6a5b31138f06af2b10bac5/schema/bom-1.7.schema.json . The schema source identifies Apache-2.0 licensing; retain this attribution when redistributing the schema.
+
+**Important:** vendoring and pinning the schema is a source-control/provenance step, not a validation result. Positive and negative fixture validation remains **NOT RUN** until a Draft 7 validator is executed and its version, command, output, exit codes, and environment are recorded.
