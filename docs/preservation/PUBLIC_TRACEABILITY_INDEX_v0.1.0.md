@@ -24,6 +24,10 @@ This is a navigation map, not an architecture decision, implementation report or
 
 Public-source subject taxonomy and its crosswalk to the UNIVERSALIS ontology still require source and scope review. No private inventories or Human Tablet materials are included in this public view. Do not infer or publish unrecovered designs.
 
+### Public-safe evaluation prompts
+
+| ID | Public-safe concern | Owner | Evidence required |
+|---|---|---|---|
 | UXR-06 | Public-safe evaluation of energy use and useful service | UNIVERSALIS-OS; future public specification only after independent review | State the functional unit and system boundary; compare useful output with energy input; account for lifecycle effects, uncertainty and rebound; preserve safety, reliability and service quality. This is a coverage prompt, not a performance claim or accepted contract. |
 | UXR-07 | Public-safe evaluation of lifecycle cost | UNIVERSALIS-OS; future public specification only after independent review | Distinguish purchase price, total cost of ownership, lifecycle and externalized costs; assess quality, safety and sustainability alongside cost over a declared horizon. This is a coverage prompt, not a savings claim or accepted contract. |
 | UXR-08 | Public-safe evaluation of non-nuclear interaction effects | UNIVERSALIS-OS; future public specification only after independent review | Exclude nuclear reactions and nuclear-energy processes; distinguish emergent interaction from aggregation or additive effects; assess coupling, complexity and failure risks. This is a coverage prompt, not an accepted contract or verified effect. |
