@@ -33,6 +33,10 @@ This record lets a qualified successor resume UNIVERSALIS-OS work without relyin
 - Keep private and public systems independently governed and independently operable. Public documents must not disclose private C2O source details.
 - Verify every migration by provenance, rights/privacy review, read-back, and applicable acceptance evidence before recommending any source repository for closure.
 
+## RM-08 continuity checkpoint
+
+- This public record contains no new public Alchemy candidate definition or adoption from the private preservation review. Continue the independent public OS/App formalization using public, rights-cleared sources and the public review process.
+
 ## Next action
 
 Next: continue UNIVERSALIS-App requirements and OS contracts, then map public source artifacts to one canonical OS or App destination. Public W3C XR/IoT and industrial robotics materials were reviewed as research references; the public index remains a generic coverage prompt, not an accepted design. Any future public specification requires its own source provenance, rights, privacy, hazard, and release review. This note contains no private C2O record, definition, source path, or operational evidence.
@@ -50,3 +54,5 @@ Next: continue UNIVERSALIS-App requirements and OS contracts, then map public so
 - 2026-11-19 — Recorded a generic continuity checkpoint that future public-facing influence/support features need independent review of agency, refusal, consent, authority, and release boundaries. No private C2O record was copied and no public definition or implementation was created.
 
 - 2026-11-19 — Rechecked public XR/device/robotics coverage against current public standards and recorded them only as research references. No private C2O material, design, or operational evidence was added to this public repository.
+
+- 2026-11-19 — Rechecked the public OS scope after a separate private candidate-review section. No private candidate recommendation or source material was copied into this public repository.
