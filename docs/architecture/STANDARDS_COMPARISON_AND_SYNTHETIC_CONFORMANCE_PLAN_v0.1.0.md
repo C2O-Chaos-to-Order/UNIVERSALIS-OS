@@ -177,3 +177,28 @@ Statuses remain separate: PROPOSED, FIXTURE_DRAFTED, IMPLEMENTED, EXECUTED, PASS
 ## 10. Current disposition
 
 This document is a public-interface research baseline and proposed test plan. No SBOM format is finally selected. Two synthetic CycloneDX 1.7 fixture documents (one intended positive and one intentionally invalid) and their fixture README have been drafted in each OS repository. JSON syntax and positive dependency-reference closure were checked; official CycloneDX Draft 7 schema validation, completeness checks, provenance verification, and license verification were NOT RUN. No production keys, schema implementation, verifier, updater or conformance suite is implemented. No public release or cross-OS exchange is authorized. Next: pin the official schema, run an appropriate Draft 7 validator, reconcile the synthetic dependency graph, and then evaluate SPDX 3.0.1 tooling.
+
+
+## 11. SPDX 3.0.1 tooling and schema-pin research update
+
+Research update: 2026-11-19. The SPDX project identifies `spdx/tools` as the legacy Java tools repository and states that it is no longer maintained; it was archived on 2025-10-07. The replacement `spdx/tools-java` README states support for SPDX 2.0, 2.1, 2.2, 2.3 and 3.0.1, with JSON-LD as the SPDX 3.0.1 serialization alongside Tag, RDF/XML, spreadsheet, JSON, XML and YAML formats. Its CLI includes conversion, comparison, viewing and verification operations. The README's executable example names release `2.0.7`; the repository's current development POM identifies `2.0.8-SNAPSHOT`, which is not a release and must not be treated as one.
+
+### Tooling disposition
+
+- **Primary candidate for SPDX 3.0.1 CLI experiments:** the released `spdx/tools-java` distribution, pinned to a specific release/tag and artifact digest before use. Do not build against the archived `spdx/tools` repository for new work.
+- **Serialization caution:** SPDX 3.0.1 uses JSON-LD; do not confuse ordinary SPDX 2.x JSON with SPDX 3.0.1 JSON-LD. The format/version pairing must be explicit in every test vector.
+- **Libraries:** SPDX's tooling catalogue lists community-supported Java, Python and Go libraries, but language availability alone does not establish that each library supports SPDX 3.0.1. Verify each language implementation's exact release and profile coverage before selecting it.
+- **Online validation:** SPDX Online Tools can be useful for synthetic interoperability checks, but private C2O content, credentials, proprietary inventories and incident evidence must never be uploaded to a third-party web service. Prefer local CLI/library validation for private data.
+- **Conversion fidelity:** any SPDX 2.x ↔ SPDX 3.0.1 conversion must be treated as a potentially lossy transformation until fields, relationships, external references, licensing, provenance and annotations are compared with round-trip tests.
+
+### Primary tool references
+
+- Current SPDX tools catalogue: https://spdx.dev/use/spdx-tools/
+- Current Java CLI: https://github.com/spdx/tools-java
+- Java CLI releases: https://github.com/spdx/tools-java/releases
+- Archived legacy Java tools: https://github.com/spdx/tools
+- SPDX specification and serialization details: https://spdx.github.io/spdx-spec/v3.0.1/
+
+### Schema pin status
+
+The official CycloneDX 1.7 Draft 7 schema is now vendored in this repository at `tests/fixtures/supply-chain/sbom/schemas/cyclonedx-bom-1.7.schema.json`, copied from upstream commit `5fee6af48d43c751dc6a5b31138f06af2b10bac5` with upstream Git blob SHA-1 `1ca17a2e3f1f684dfcbe66b4f182d6ea21464278`. This is a pinned schema source, **not** a completed validation run. Both fixture validation outcomes remain NOT RUN.
