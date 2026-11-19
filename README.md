@@ -15,6 +15,7 @@ UNIVERSALIS-OS is intended to provide a portable, local-first, vendor- and devic
 - `docs/architecture/SOURCE_PLACEMENT_AND_MIGRATION_REGISTER_v0.1.0.md` — initial source inventory and migration controls; partial audit, no transfer authorized.
 - `docs/architecture/PLATFORM_STRATEGY_RESEARCH_v0.1.0.md` — preliminary platform strategy comparison; not an ADR or platform selection.
 - `docs/architecture/COMPONENT_TRACEABILITY_MATRIX_v0.1.0.md` — initial requirement-to-component, source, interface, implementation, verification and acceptance traceability; proposed and incomplete.
+- `docs/architecture/PUBLIC_INTEROPERABILITY_CONTRACT_REGISTER_v0.1.0.md` — proposed public-contract catalogue, independent governance, private-data firewall, optional adapter rules, and standalone conformance tests; no public release or exchange authorized.
 - `docs/audits/UNIVERSALIS_SOURCE_REPOSITORY_AUDIT_2026-11-19.md` — partial file/tree and integration-branch audit of the legacy UNIVERSALIS source repository; no files transferred.
 - `docs/audits/UNIVERSALIS_RESEARCH_SOURCE_AUDIT_2026-11-19.md` — partial audit of Reports 13–15, the 15 proposed requirements, research gaps, and the changed OS implementation target.
 
@@ -32,4 +33,4 @@ The default `main` branch contains only the initial repository README. The archi
 - Require ADRs, tests, threat models, reproducible builds, dependency provenance, and independent review.
 - Clear licensing, provenance, privacy, and security before public release.
 
-See [Architecture Baseline](docs/architecture/ARCHITECTURE_BASELINE_v0.1.0.md), [Implementation Sequence](docs/IMPLEMENTATION_SEQUENCE_v0.1.0.md), the [Source Repository Audit](docs/audits/UNIVERSALIS_SOURCE_REPOSITORY_AUDIT_2026-11-19.md), and the [Research Source Audit](docs/audits/UNIVERSALIS_RESEARCH_SOURCE_AUDIT_2026-11-19.md).
+See [Architecture Baseline](docs/architecture/ARCHITECTURE_BASELINE_v0.1.0.md), [Implementation Sequence](docs/IMPLEMENTATION_SEQUENCE_v0.1.0.md), the [Public Interoperability Contract Register](docs/architecture/PUBLIC_INTEROPERABILITY_CONTRACT_REGISTER_v0.1.0.md), the [Source Repository Audit](docs/audits/UNIVERSALIS_SOURCE_REPOSITORY_AUDIT_2026-11-19.md), and the [Research Source Audit](docs/audits/UNIVERSALIS_RESEARCH_SOURCE_AUDIT_2026-11-19.md).
