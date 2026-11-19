@@ -176,7 +176,7 @@ Statuses remain separate: PROPOSED, FIXTURE_DRAFTED, IMPLEMENTED, EXECUTED, PASS
 
 ## 10. Current disposition
 
-This document is a public-interface research baseline and proposed test plan. No SBOM format is finally selected. Two synthetic CycloneDX 1.7 fixture documents (one intended positive and one intentionally invalid) and their fixture README have been drafted in each OS repository. JSON syntax and positive dependency-reference closure were checked; official CycloneDX Draft 7 schema validation, completeness checks, provenance verification, and license verification were NOT RUN. No production keys, schema implementation, verifier, updater or conformance suite is implemented. No public release or cross-OS exchange is authorized. Next: pin the official schema, run an appropriate Draft 7 validator, reconcile the synthetic dependency graph, and then evaluate SPDX 3.0.1 tooling.
+This document is a public-interface research baseline and proposed test plan. No SBOM format is finally selected. Two synthetic CycloneDX 1.7 fixture documents (one intended positive and one intentionally invalid) and their fixture README have been drafted in each OS repository. JSON syntax and positive dependency-reference closure were checked; official CycloneDX Draft 7 schema validation, completeness checks, provenance verification, and license verification were NOT RUN. No production keys, schema implementation, verifier, updater or conformance suite is implemented. No public release or cross-OS exchange is authorized. The official schema and external schema dependencies are now pinned; an offline Draft 7 validation harness and GitHub Actions workflow have been added. The first CI attempts failed without retrievable job-step logs, so schema validation remains NOT VERIFIED. A separate structural dependency-graph closure check passed (4 nodes, 3 edges). Continue by diagnosing the CI execution failure and capturing actual validator output before changing evidence status.
 
 
 ## 11. SPDX 3.0.1 tooling and schema-pin research update
@@ -202,3 +202,20 @@ Research update: 2026-11-19. The SPDX project identifies `spdx/tools` as the leg
 ### Schema pin status
 
 The official CycloneDX 1.7 Draft 7 schema is now vendored in this repository at `tests/fixtures/supply-chain/sbom/schemas/cyclonedx-bom-1.7.schema.json`, copied from upstream commit `5fee6af48d43c751dc6a5b31138f06af2b10bac5` with upstream Git blob SHA-1 `1ca17a2e3f1f684dfcbe66b4f182d6ea21464278`. This is a pinned schema source, **not** a completed validation run. Both fixture validation outcomes remain NOT RUN.
+
+
+## 12. SBOM schema-validation execution update — 2026-11-19
+
+The official CycloneDX 1.7 Draft 7 schema and all three external schema files referenced by it are pinned under `tests/fixtures/supply-chain/sbom/schemas/`, copied from upstream CycloneDX specification commit `5fee6af48d43c751dc6a5b31138f06af2b10bac5`. The main schema Git blob SHA-1 is `1ca17a2e3f1f684dfcbe66b4f182d6ea21464278`; dependency schema blob SHAs are recorded in the SBOM fixture README.
+
+An offline validation script (`tools/validate_sbom_fixtures.py`) and a branch/PR GitHub Actions workflow (`.github/workflows/sbom-fixture-validation.yml`) have been added. The script pins `jsonschema==4.23.0` in the workflow and is designed to report the validator version, validate the positive fixture, require the negative fixture to fail specifically at the `bomFormat` enum, and check dependency graph closure.
+
+### Observed run result
+
+- C2O-OS Actions run: not applicable in this repository section.
+- UNIVERSALIS-OS Actions run: [`44564611940`](https://github.com/C2O-Chaos-to-Order/UNIVERSALIS-OS/actions/runs/44564611940).
+- Both corresponding GitHub Actions runs reported `failure` within seconds of creation. The connector returned no job-step records; the job-log download endpoint returned HTTP 404 (BlobNotFound). The reason for failure is unresolved.
+- Consequently, the validator version banner, exact runtime command output, schema-validation results, and process exit code were **not observed**. Do not claim that either fixture passed or failed schema validation.
+- A separate structural graph-closure check performed against the fetched positive fixture passed: 4 distinct nodes (metadata component plus 3 components), 4 dependency entries, 3 edges, 0 missing nodes, 0 unknown references. JSON parsing succeeded for both fixtures. These checks are not substitutes for schema validation.
+
+**Disposition:** SBOM schema conformance remains **NOT VERIFIED**. Next action is to diagnose why GitHub Actions produced no retrievable job-step output, then obtain a real Draft 7 validator run and preserve its complete output and exit code. No implementation acceptance or release claim follows from the current result.
