@@ -57,4 +57,4 @@ Next: continue UNIVERSALIS-App requirements and OS contracts, then map public so
 
 - 2026-11-19 — Rechecked the public OS scope after a separate private candidate-review section. No private candidate recommendation or source material was copied into this public repository.
 
-- 2026-11-19 — A private preservation status decision was recorded for research classification; no candidate definition, private detail, or public OS requirement was added to UNIVERSALIS-OS. Public acceptance remains an independent process.
+- 2026-11-19 — Rechecked public OS scope after a research checkpoint; no new public Alchemy candidate definitions, contracts, or requirements were accepted. Public acceptance remains an independent process.
