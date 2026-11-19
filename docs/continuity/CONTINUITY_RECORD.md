@@ -21,7 +21,7 @@ This record lets a qualified successor resume UNIVERSALIS-OS work without relyin
 ## Work recorded in this repository
 
 - PR #1 contains a proposed UNIVERSALIS-OS architecture baseline, implementation sequence, component and contract traceability, platform/standards research, source audits, public interoperability material, and SBOM fixtures/validator.
-- PR #2 contains a public-safe traceability index for OS/App responsibilities and evaluation topics.
+- PR #2 contains a public-safe traceability index for OS/App responsibilities and evaluation topics, including UXR-12, a generic prompt for future public-safe Alchemy specifications and workflows. It includes no private catalogue content.
 - These PRs remain drafts. Their contents do not claim owner acceptance, successful SBOM execution, completed migration, or implemented OS functionality.
 
 ## Open work
@@ -35,8 +35,9 @@ This record lets a qualified successor resume UNIVERSALIS-OS work without relyin
 
 ## Next action
 
-Reconcile the existing OS architecture and source-placement documents with the approved four-destination migration plan, then complete the public-safe research and contract gaps before migrating public source artifacts.
+Next: formalize UNIVERSALIS-App requirements and OS contracts, then map public source artifacts to one canonical OS or App destination. Any Alchemy content needs separate provenance, rights, privacy, and public-release review.
 
 ## Change history
 
 - 2026-11-19 — Initial public-safe record created from a read-only review of existing PRs. No legacy content migration or owner acceptance is claimed.
+- 2026-11-19 — Updated after Section 2 readback to record the generic UXR-12 prompt and next public-safe formalization work. No private catalogue content was copied.
