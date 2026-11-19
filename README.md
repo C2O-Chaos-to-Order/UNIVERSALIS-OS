@@ -12,11 +12,9 @@ UNIVERSALIS-OS is intended to provide a portable, local-first, vendor- and devic
 
 - `docs/architecture/ARCHITECTURE_BASELINE_v0.1.0.md` — proposed layered architecture and unresolved platform decisions.
 - `docs/IMPLEMENTATION_SEQUENCE_v0.1.0.md` — gated implementation sequence and target layout.
-
-
 - `docs/architecture/SOURCE_PLACEMENT_AND_MIGRATION_REGISTER_v0.1.0.md` — initial source inventory and migration controls; partial audit, no transfer authorized.
-
 - `docs/architecture/PLATFORM_STRATEGY_RESEARCH_v0.1.0.md` — preliminary platform strategy comparison; not an ADR or platform selection.
+- `docs/audits/UNIVERSALIS_SOURCE_REPOSITORY_AUDIT_2026-11-19.md` — partial file/tree and integration-branch audit of the legacy UNIVERSALIS source repository; no files transferred.
 
 ## Current status
 
@@ -32,4 +30,4 @@ The default `main` branch contains only the initial repository README. The archi
 - Require ADRs, tests, threat models, reproducible builds, dependency provenance, and independent review.
 - Clear licensing, provenance, privacy, and security before public release.
 
-See [Architecture Baseline](docs/architecture/ARCHITECTURE_BASELINE_v0.1.0.md) and [Implementation Sequence](docs/IMPLEMENTATION_SEQUENCE_v0.1.0.md).
+See [Architecture Baseline](docs/architecture/ARCHITECTURE_BASELINE_v0.1.0.md), [Implementation Sequence](docs/IMPLEMENTATION_SEQUENCE_v0.1.0.md), and the [Source Repository Audit](docs/audits/UNIVERSALIS_SOURCE_REPOSITORY_AUDIT_2026-11-19.md).
