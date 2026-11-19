@@ -1,7 +1,7 @@
 # Synthetic CycloneDX 1.7 SBOM fixtures
 
 **Fixture set:** SYN-SBOM-CDX17-001  
-**Status:** Drafted; JSON syntax verified; official CycloneDX schema validation NOT RUN  
+**Status:** Drafted; JSON syntax and dependency-reference closure checked; official CycloneDX schema validation NOT RUN  
 **Data classification:** Entirely synthetic; no private or production data
 
 ## Dependency graph
@@ -34,3 +34,18 @@ A JSON parser success is only syntax validation. It is not CycloneDX schema vali
 4. Record validator name/version, schema digest, command, output, exit code, and environment.
 5. Reconcile the positive fixture's dependency graph against the graph above.
 6. Preserve all failures and rerun records; do not overwrite the original evidence.
+
+## Recorded preliminary checks
+
+**Run ID:** SBOM-EXP-001  
+**Date:** 2026-11-19
+
+| Check | Result | Scope |
+|---|---|---|
+| Positive fixture JSON parsing | PASS | Valid JSON syntax only |
+| Negative fixture JSON parsing | PASS | Valid JSON syntax only |
+| Positive dependency-reference closure | PASS | Every `ref` and `dependsOn` entry resolves to the declared root/component set |
+| Official CycloneDX 1.7 Draft 7 schema validation | NOT RUN | Official schema was not locally pinned and CycloneDX CLI was not available in the execution environment |
+| Completeness / provenance / license verification | NOT RUN | Outside this preliminary syntax/graph check |
+
+The negative fixture is intentionally syntactically valid JSON with an invalid `bomFormat` enum value. Its expected schema rejection is a test expectation, not an observed validator result. Do not mark either fixture as CycloneDX-schema-validated until the official Draft 7 schema validator run is recorded.
