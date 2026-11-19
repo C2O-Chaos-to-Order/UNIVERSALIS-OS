@@ -14,6 +14,7 @@ UNIVERSALIS-OS is intended to provide a portable, local-first, vendor- and devic
 - `docs/IMPLEMENTATION_SEQUENCE_v0.1.0.md` — gated implementation sequence and target layout.
 - `docs/architecture/SOURCE_PLACEMENT_AND_MIGRATION_REGISTER_v0.1.0.md` — initial source inventory and migration controls; partial audit, no transfer authorized.
 - `docs/architecture/PLATFORM_STRATEGY_RESEARCH_v0.1.0.md` — preliminary platform strategy comparison; not an ADR or platform selection.
+- `docs/architecture/COMPONENT_TRACEABILITY_MATRIX_v0.1.0.md` — initial requirement-to-component, source, interface, implementation, verification and acceptance traceability; proposed and incomplete.
 - `docs/audits/UNIVERSALIS_SOURCE_REPOSITORY_AUDIT_2026-11-19.md` — partial file/tree and integration-branch audit of the legacy UNIVERSALIS source repository; no files transferred.
 - `docs/audits/UNIVERSALIS_RESEARCH_SOURCE_AUDIT_2026-11-19.md` — partial audit of Reports 13–15, the 15 proposed requirements, research gaps, and the changed OS implementation target.
 
