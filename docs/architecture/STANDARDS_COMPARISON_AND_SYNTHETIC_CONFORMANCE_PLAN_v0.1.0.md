@@ -14,7 +14,7 @@ Every public schema and fixture must be reproducible by an independent implement
 
 ## 2. Standards comparison
 
-Research snapshot: 2026-11-19. Recheck upstream versions and schemas before implementation.
+Research snapshot: 2026-11-19. Recheck upstream versions and schemas before implementation. **Schema-dialect control:** the official CycloneDX 1.7 JSON Schema declares Draft 7; do not validate it as JSON Schema 2020-12. Each schema validator must honor the dialect declared by the schema.
 
 | Domain | Standard/reference | Strength and fit | Limits / implementation caution | Proposed UNIVERSALIS disposition |
 |---|---|---|---|---|
