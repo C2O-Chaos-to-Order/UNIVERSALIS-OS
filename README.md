@@ -13,6 +13,9 @@ UNIVERSALIS-OS is intended to provide a portable, local-first, vendor- and devic
 - `docs/architecture/ARCHITECTURE_BASELINE_v0.1.0.md` — proposed layered architecture and unresolved platform decisions.
 - `docs/IMPLEMENTATION_SEQUENCE_v0.1.0.md` — gated implementation sequence and target layout.
 
+
+- `docs/architecture/SOURCE_PLACEMENT_AND_MIGRATION_REGISTER_v0.1.0.md` — initial source inventory and migration controls; partial audit, no transfer authorized.
+
 ## Current status
 
 **Status:** Proposed architecture baseline.
