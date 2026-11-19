@@ -17,6 +17,8 @@ UNIVERSALIS-OS is intended to provide a portable, local-first, vendor- and devic
 - `docs/architecture/COMPONENT_TRACEABILITY_MATRIX_v0.1.0.md` — initial requirement-to-component, source, interface, implementation, verification and acceptance traceability; proposed and incomplete.
 - `docs/architecture/PUBLIC_INTEROPERABILITY_CONTRACT_REGISTER_v0.1.0.md` — proposed public-contract catalogue, independent governance, private-data firewall, optional adapter rules, and standalone conformance tests; no public release or exchange authorized.
 - `docs/architecture/CONTRACT_ACCEPTANCE_AND_CONFORMANCE_MATRIX_v0.1.0.md` — proposed standards-aligned public contract requirements, negative tests, acceptance evidence and open decisions; no contract is adopted, implemented or released.
+
+- `docs/architecture/STANDARDS_COMPARISON_AND_SYNTHETIC_CONFORMANCE_PLAN_v0.1.0.md` — public standards research and independently reproducible synthetic SBOM, provenance, signature, TUF and capability conformance plan; no fixtures or implementation claimed.
 - `docs/audits/UNIVERSALIS_SOURCE_REPOSITORY_AUDIT_2026-11-19.md` — partial file/tree and integration-branch audit of the legacy UNIVERSALIS source repository; no files transferred.
 - `docs/audits/UNIVERSALIS_RESEARCH_SOURCE_AUDIT_2026-11-19.md` — partial audit of Reports 13–15, the 15 proposed requirements, research gaps, and the changed OS implementation target.
 
