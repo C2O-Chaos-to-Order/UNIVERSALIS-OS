@@ -55,7 +55,7 @@ The inspected main tree and PR #23 integration tree contain meaningful Python ut
 
 ### 4.2 Repository role is now inconsistent with the new two-OS plan
 
-The main README still describes this repository as the source home for the UNIVERSALIS product, including implementation code, specifications, tests, workflows, packages, and release artifacts. That conflicts with the new decision that UNIVERSALIS-OS is the implementation target. Do not silently change the legacy README or move/delete content yet. A separately reviewed transition plan must define this repository's future status, source-of-truth rules, release continuity, and how users will find the new OS project.
+At this audit snapshot, the main README described this repository as the UNIVERSALIS product source home, including implementation code, specifications, tests, workflows, packages, and release artifacts. That conflicts with the decision to make UNIVERSALIS-OS the system implementation target. A later owner-approved migration plan establishes the four OS/App destinations and artifact-level batch gates. The detailed per-file destination map, licensing/provenance review, release continuity, and legacy README transition remain open. Do not change the legacy README or move/delete content until the relevant batch is reviewed and verified.
 
 ### 4.3 Construction Engine has a boundary and filesystem review issue
 
