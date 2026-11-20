@@ -7,7 +7,7 @@
 
 ## Governing rule
 
-Build UNIVERSALIS-OS in this repository as the independently governed public system implementation target. Under MPR-053/054, migrate all eligible public UNIVERSALIS artifacts into one canonical UNIVERSALIS-OS or UNIVERSALIS-App home by system versus user-facing responsibility, using artifact-level move/adapt/split/link decisions and preserving source provenance/history. Exclude C2O-private material. Until a destination batch is accepted and verified, the legacy repository remains the source of origin and an untouched history snapshot. Do not create a parallel permanent software product in a legacy research repository.
+Build UNIVERSALIS-OS in this repository as the independently governed public system implementation target. Under the approved UNIVERSALIS OS/App migration direction, migrate all eligible public UNIVERSALIS artifacts into one canonical UNIVERSALIS-OS or UNIVERSALIS-App home by system versus user-facing responsibility, using artifact-level move/adapt/split/link decisions and preserving source provenance/history. Exclude C2O-private material. Until a destination batch is accepted and verified, the legacy repository remains the source of origin and an untouched history snapshot. Do not create a parallel permanent software product in a legacy research repository.
 
 ## Work sequence and exit gates
 
