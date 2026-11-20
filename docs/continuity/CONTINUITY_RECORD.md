@@ -58,3 +58,5 @@ Next: continue UNIVERSALIS-App requirements and OS contracts, then map public so
 - 2026-11-19 — Rechecked the public OS scope after a separate private candidate-review section. No private candidate recommendation or source material was copied into this public repository.
 
 - 2026-11-19 — Rechecked public OS scope after a research checkpoint; no new public Alchemy candidate definitions, contracts, or requirements were accepted. Public acceptance remains an independent process.
+
+- 2026-11-19 — Recorded the bounded synthetic SBOM fixture structural readback in the fixture README on the OS architecture branch: both fixtures parse as JSON, and the positive dependency graph has four unique references, four dependency entries, and three edges with no duplicate, missing, or unknown references. This does not validate CycloneDX Draft 7 schema conformance; schema validation remains unverified. No private operational details are included.
