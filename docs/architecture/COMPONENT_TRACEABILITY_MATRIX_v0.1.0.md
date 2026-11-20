@@ -122,7 +122,7 @@ Each component needs:
 ## 9. Open blockers
 
 - All UNI-001–UNI-015 remain PROPOSED in the source register.
-- The source product repo still describes itself as the implementation home; transition to UNIVERSALIS-OS needs a separately reviewed plan.
+- The legacy product repo still describes itself as the implementation home. The approved migration direction establishes UNIVERSALIS-OS and UNIVERSALIS-App as public destinations; detailed per-file allocation, rights/provenance checks, release continuity, and a verified README transition remain open.
 - Legacy product PR #23 and research PR #14 remain draft/unmerged; held workflows are not approved.
 - Full per-file licensing, NOTICE, provenance, dependency and security review is outstanding.
 - G13-A, G13-B and G13-C remain open.
