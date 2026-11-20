@@ -31,13 +31,9 @@ An organization inventory returned 31 repositories on 2026-11-19. One GAIA-named
 
 ## 4. Private C2O sources are excluded by default
 
-The following are not public UNIVERSALIS source dependencies:
-- `Research-for-the-C2O-Ecosystem`, including the private governing Research Plan and private Technical/Human Tablet collections;
-- `The-C2O-Ecosystem` and private C2O governance, infrastructure, credentials, policies, and internal tools;
-- `The-C2O-Encyclopedias` and any private research branch;
-- C2O knowledge, ontology, human, and intelligence repositories.
+Private C2O source repositories, policies, accounts, credentials, personal data, and infrastructure are excluded by default from UNIVERSALIS source dependencies.
 
-Private C2O material may not be copied, mirrored, linked as a required dependency, or exposed through build workflows. A public-safe derivative requires source-specific provenance, rights/license, privacy, security, IP, and owner release review. A private source locator must not appear in public build metadata or public test fixtures.
+Private material may not be copied, mirrored, linked as a required dependency, or exposed through build workflows. A public-safe derivative requires source-specific provenance, rights/license, privacy, security, IP, and owner release review. Do not publish private repository names or locators in public build metadata or public test fixtures.
 
 ## 5. Placement rules inside UNIVERSALIS-OS
 
