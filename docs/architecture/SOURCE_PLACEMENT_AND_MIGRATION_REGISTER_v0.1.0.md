@@ -2,7 +2,7 @@
 
 **Record ID:** UOS-SRC-001  
 **Version:** 0.1.0  
-**Status:** Partial public-source inventory; controlled artifact migration to the four OS/App destinations is approved by C2O-OS MPR-053/054; this register does not claim any source artifact has yet been transferred.  
+**Status:** Partial public-source inventory; controlled artifact migration to the approved UNIVERSALIS-OS and UNIVERSALIS-App destinations is in progress; this register does not claim any source artifact has yet been transferred.  
 **Snapshot:** 2026-11-19  
 **Target:** UNIVERSALIS-OS
 
@@ -10,7 +10,7 @@
 
 This register identifies existing public UNIVERSALIS material that may contribute to UNIVERSALIS-OS. It prevents duplication, loss of provenance, unreviewed licensing assumptions, and accidental import of private C2O material.
 
-UNIVERSALIS-OS and UNIVERSALIS-App are the public UNIVERSALIS destinations under MPR-053/054. Legacy repositories preserve origin, history, and provenance during transition; they are not permanent canonical destinations after an artifact is accepted in its assigned OS or App home. Route each public artifact by system/platform responsibility (UNIVERSALIS-OS) or user-facing product/workflow responsibility (UNIVERSALIS-App), using move, adapt, split, or link as appropriate. Keep C2O-private information excluded. Migration is controlled per artifact and batch; no bulk copy, deletion, merge, or publication is authorized by this register. Retain an untouched source snapshot until each destination batch is accepted and verified. A legacy repository becomes only a closure candidate after its full manifest, provenance, links, rights, and verification are reconciled and the owner is informed.
+UNIVERSALIS-OS and UNIVERSALIS-App are the public UNIVERSALIS destinations under the approved product migration direction. Legacy repositories preserve origin, history, and provenance during transition; they are not permanent canonical destinations after an artifact is accepted in its assigned OS or App home. Route each public artifact by system/platform responsibility (UNIVERSALIS-OS) or user-facing product/workflow responsibility (UNIVERSALIS-App), using move, adapt, split, or link as appropriate. Keep C2O-private information excluded. Migration is controlled per artifact and batch; no bulk copy, deletion, merge, or publication is authorized by this register. Retain an untouched source snapshot until each destination batch is accepted and verified. A legacy repository becomes only a closure candidate after its full manifest, provenance, links, rights, and verification are reconciled and the owner is informed.
 
 ## 2. Audit coverage and limits
 
