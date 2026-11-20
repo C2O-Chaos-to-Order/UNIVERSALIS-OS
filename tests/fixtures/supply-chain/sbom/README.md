@@ -74,3 +74,9 @@ An offline validator script is provided at `tools/validate_sbom_fixtures.py`; it
 **Execution record — 2026-11-19:** GitHub Actions created run `44564611940` for the pull-request event. The run conclusion was `failure`. The GitHub connector returned no job-step records; downloading the job log returned HTTP 404 (BlobNotFound). Therefore no validator version banner, command output, schema-validation result, or process exit code could be observed. The failure cause is unresolved. Do not interpret this as a positive or negative fixture-validation result; both remain **NOT VERIFIED**.
 
 A separate structural check of the positive synthetic fixture was performed against the repository contents: JSON parsed; four distinct component references were found (metadata application plus three components); all four had dependency entries; all three dependency edges resolved; no unknown references or missing nodes were found. This graph-closure check is recorded separately from JSON Schema validation and does not establish schema conformance.
+
+## Bounded structural readback — 2026-11-19
+
+A separate readback was run against the repository fixture contents using Node.js v24.11.0. Both the positive and negative fixture parsed as JSON. The positive fixture contained four unique component references (metadata root plus three components), four dependency entries, and three edges; there were zero duplicate refs, missing nodes, or unknown refs. The structural check process exited with code 0.
+
+This check did **not** execute `tools/validate_sbom_fixtures.py`, the pinned Python `jsonschema==4.23.0` Draft 7 validator, or validate either fixture against the CycloneDX schema. Schema validation remains **NOT VERIFIED**. The expected positive-pass/negative-`bomFormat`-failure outcomes remain expectations until the official validator run records its own version, command, output, and exit code.
