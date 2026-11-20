@@ -2,7 +2,7 @@
 
 **Record ID:** UOS-SRC-001  
 **Version:** 0.1.0  
-**Status:** Initial inventory and placement proposal — partial audit; no transfer authorized  
+**Status:** Partial public-source inventory; controlled artifact migration to the four OS/App destinations is approved by C2O-OS MPR-053/054; this register does not claim any source artifact has yet been transferred.  
 **Snapshot:** 2026-11-19  
 **Target:** UNIVERSALIS-OS
 
@@ -10,7 +10,7 @@
 
 This register identifies existing public UNIVERSALIS material that may contribute to UNIVERSALIS-OS. It prevents duplication, loss of provenance, unreviewed licensing assumptions, and accidental import of private C2O material.
 
-UNIVERSALIS-OS is the independent implementation target for the public UNIVERSALIS operating system. Historical and specialist repositories remain source repositories unless a specific artifact is reviewed and deliberately integrated. This register does not authorize bulk copying, deletion, merging, publication, or source transfer.
+UNIVERSALIS-OS and UNIVERSALIS-App are the public UNIVERSALIS destinations under MPR-053/054. Legacy repositories preserve origin, history, and provenance during transition; they are not permanent canonical destinations after an artifact is accepted in its assigned OS or App home. Route each public artifact by system/platform responsibility (UNIVERSALIS-OS) or user-facing product/workflow responsibility (UNIVERSALIS-App), using move, adapt, split, or link as appropriate. Keep C2O-private information excluded. Migration is controlled per artifact and batch; no bulk copy, deletion, merge, or publication is authorized by this register. Retain an untouched source snapshot until each destination batch is accepted and verified. A legacy repository becomes only a closure candidate after its full manifest, provenance, links, rights, and verification are reconciled and the owner is informed.
 
 ## 2. Audit coverage and limits
 
@@ -22,8 +22,8 @@ An organization inventory returned 31 repositories on 2026-11-19. One GAIA-named
 
 | Source repository | Observed role/state | UNIVERSALIS-OS disposition | Transfer status |
 |---|---|---|---|
-| `The-UNIVERSALIS-Ecosystem` | Public product repository with LICENSE (Apache-2.0), NOTICE, architecture contracts, Engineering Doctor, registry, knowledge validator, prototype, scaffold, tests, and workflows. Main tree observed at 220 entries, including 94 code/config/test paths. | Primary existing software source to assess for selective porting or adaptation. Candidate components include Engineering Doctor, registry/validators, knowledge records, research scaffold, and prototype modules. They are not automatically OS components. | Strongest implementation source candidate; per-file license/provenance/dependency/security/test and architecture review required before migration. |
-| `Research-for-the-UNIVERSALIS-Ecosystem` | Public research repository with charter, requirements, evidence, and Reports 13–15 (“What to Build” and “How to Build”). Main tree observed at 31 entries. | Research and requirements source. Accepted requirements and public-safe specifications may be re-authored or referenced in UNIVERSALIS-OS with exact provenance. | No bulk transfer. Reconcile report status, PR history, and requirements first. |
+| `The-UNIVERSALIS-Ecosystem` | Public product repository with LICENSE (Apache-2.0), NOTICE, architecture contracts, Engineering Doctor, registry, knowledge validator, prototype, scaffold, tests, and workflows. Main tree observed at 220 entries, including 94 code/config/test paths. | Origin source during transition. Route platform/system services and contracts to UNIVERSALIS-OS and user-facing product behavior to UNIVERSALIS-App. | Candidate artifacts require exact-ref, per-file license/NOTICE, provenance, dependency, security, and test review before controlled migration; no transfer recorded yet. |
+| `Research-for-the-UNIVERSALIS-Ecosystem` | Public research repository with charter, requirements, evidence, and Reports 13–15 (“What to Build” and “How to Build”). Main tree observed at 31 entries. | Origin and provenance source during transition. Route system-level requirements, architecture, research, and evidence to UNIVERSALIS-OS; route user-facing workflows and product requirements to UNIVERSALIS-App. | No artifact transfer recorded yet; per-artifact manifest, status reconciliation, license/provenance review, and batch verification remain required. |
 | `The-UNIVERSALIS-Ontology` | Public document repository containing a master Human/Intelligence ontology DOCX and Markdown plus README; no root license was observed in the inspected tree. | Candidate ontology/data source, not executable code. Validate rights, definitions, scope, source provenance, legacy terminology, and schema before import. | Not cleared for import. |
 | `The-UNIVERSALIS-Human-Knowledge`, `The-UNIVERSALIS-Human-Capabilities`, `The-UNIVERSALIS-Human-Skills`, `The-UNIVERSALIS-Human-Powers` | Public document repositories with Markdown/DOCX content and README; no root license was observed in inspected trees. | Candidate Human-domain knowledge/content packages. Not kernel or system-service code. | Not cleared for import. |
 | `The-UNIVERSALIS-Intelligence-Knowledge`, `The-UNIVERSALIS-Intelligence-Capabilities`, `The-UNIVERSALIS-Intelligence-Skills`, `The-UNIVERSALIS-Intelligence-Powers` | Public document repositories with Markdown/DOCX content and README; one has an additional capability architecture document; no root license was observed in inspected trees. | Candidate Intelligence-domain content and capability specifications. Runtime services must be implemented independently inside UNIVERSALIS-OS. | Not cleared for import. |
