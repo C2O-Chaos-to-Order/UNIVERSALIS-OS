@@ -55,7 +55,7 @@ The five primary labels, 31 compositions, seven transformation operations, and i
 - record provenance, uncertainty, failures, and review state;
 - avoid asserting universal applicability from a single domain's test.
 
-The canonical research records remain in the approved research/encyclopedia repository. UNIVERSALIS-OS contains the portable implementation, tests, adapters, and public-facing contracts only after provenance, licensing, privacy, and security review. A reference to a private C2O repository is not a public dependency.
+During transition, legacy public UNIVERSALIS repositories remain the origin and history for their existing artifacts; private C2O sources remain excluded. Under the approved four-destination mandate (C2O-OS MPR-053/054), each public artifact must be moved, adapted, split, or linked into one canonical UNIVERSALIS-OS or UNIVERSALIS-App destination by responsibility, with exact source provenance and rights recorded. UNIVERSALIS-OS owns platform/system architecture, services, contracts, and implementation; UNIVERSALIS-App owns user-facing workflows and app-specific behavior. Any source reuse requires per-artifact provenance, licensing, privacy, and security review. No artifact transfer is claimed by this baseline; retain source snapshots until destination batches are accepted and verified.
 
 ## 5. Security and independence boundaries
 
