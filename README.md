@@ -12,7 +12,7 @@ UNIVERSALIS-OS is intended to provide a portable, local-first, vendor- and devic
 
 - `docs/architecture/ARCHITECTURE_BASELINE_v0.1.0.md` — proposed layered architecture and unresolved platform decisions.
 - `docs/IMPLEMENTATION_SEQUENCE_v0.1.0.md` — gated implementation sequence and target layout.
-- `docs/architecture/SOURCE_PLACEMENT_AND_MIGRATION_REGISTER_v0.1.0.md` — partial source inventory; public artifact migration is governed by the approved MPR-053/054 process; no legacy artifact transfer is yet recorded.
+- `docs/architecture/SOURCE_PLACEMENT_AND_MIGRATION_REGISTER_v0.1.0.md` — partial public-source inventory; artifact migration follows the reviewed UNIVERSALIS source-to-destination process; no legacy artifact transfer is yet recorded.
 - `docs/architecture/PLATFORM_STRATEGY_RESEARCH_v0.1.0.md` — preliminary platform strategy comparison; not an ADR or platform selection.
 - `docs/architecture/COMPONENT_TRACEABILITY_MATRIX_v0.1.0.md` — initial requirement-to-component, source, interface, implementation, verification and acceptance traceability; proposed and incomplete.
 - `docs/architecture/PUBLIC_INTEROPERABILITY_CONTRACT_REGISTER_v0.1.0.md` — proposed public-contract catalogue, independent governance, private-data firewall, optional adapter rules, and standalone conformance tests; no public release or exchange authorized.
