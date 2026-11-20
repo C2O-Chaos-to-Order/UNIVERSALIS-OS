@@ -1,0 +1,14 @@
+{
+  "bomFormat": "CycloneDX-Not-A-Valid-Format",
+  "specVersion": "1.7",
+  "serialNumber": "urn:uuid:7f1a8c20-4d31-4e92-9b63-5a8d0c2e1f41",
+  "version": 1,
+  "metadata": {
+    "component": {
+      "type": "application",
+      "bom-ref": "urn:example:component:invalid-demo-app",
+      "name": "Example Invalid Demo Application",
+      "version": "1.0.0"
+    }
+  }
+}
