@@ -623,3 +623,141 @@ A future implementation claiming support for any of these Alchemies must demonst
 - **Research limitation:** This intake analyzes the supplied Trait Manipulation page and cross-checks its adjacent concepts against related Superpower Wiki entries. It is not a complete crawl of every linked page in the wiki.
 
 **Intake conclusion:** Trait-Manipulation Alchemy was already present and is retained. Fourteen explicitly named child/specialization Alchemies are now added or instantiated, including separate creation, bestowal, insertion, removal, naturalization, and expression operations. The taxonomy now distinguishes legitimate trait modelling and voluntary development from coercive, discriminatory, deceptive, or biologically unsafe manipulation.
+
+
+---
+
+# Research Intake Addendum — Accelerated Power Use
+
+**Intake ID:** RIA-APU-001  
+**Source:** https://powerlisting.fandom.com/wiki/Trait:Accelerated_Power_Use  
+**Research status:** Source reviewed; taxonomy classification proposed  
+**Change status:** Added as a distinct capability Alchemy and decomposed into operational specializations. This does not imply implementation or extraordinary real-world capability.
+
+## A. Source interpretation
+
+The source defines Accelerated Power Use as using an existing power or ability at an accelerated rate. It states that acceleration can affect execution and the speed of controlling, preparing, or charging the capability. It lists “Ability/Power Acceleration” and “Accelerated Skill” as alternate names. Its associations include Ability Mastering/Intuition/Transcendence, Absolute Speed, Accelerated Tasking, Accelerated Thought Process, Charging Acceleration, Enhanced Speed, Supernatural Speed, and Superpower Manipulation.
+
+The page is part of a fictional/community superpower taxonomy. It is used as a conceptual source for classifying capability timing and performance, not as evidence that fictional powers or impossible physical speeds are real.
+
+## B. Canonical classification decision
+
+**Accelerated-Power-Use Alchemy** is a distinct canonical Alchemy. It concerns reducing the time required to prepare, activate, control, charge, execute, or transition between uses of an existing capability, subject to correctness, safety, resource, policy, and physical limits.
+
+It is not synonymous with:
+- Trait-Manipulation Alchemy, which concerns characteristics or traits.
+- Accelerated-Tasking Alchemy, which concerns the rate of completing tasks generally.
+- Accelerated-Thought-Process Alchemy, which concerns cognitive processing speed.
+- Enhanced-Speed Alchemy, which concerns movement or speed as a broader physical/kinematic capability.
+- Automatic-Power-Use Alchemy, which concerns autonomous or automatic activation rather than faster user-directed activation.
+- Power-Manipulation Alchemy, which concerns changing or controlling powers themselves.
+
+### B1. Alchemies to add or explicitly instantiate
+
+| Stable ID | Canonical Alchemy | Classification | Definition / boundary |
+|---|---|---|---|
+| APU-001 | Accelerated-Power-Use Alchemy | Canonical parent Alchemy | Reduce the time needed to use an existing capability while preserving authorization, intended function, correctness, safety, and bounded resource use. |
+| APU-002 | Power-Activation-Acceleration Alchemy | Child of APU-001 | Reduce latency between an authorized request and the start of a capability or operation. |
+| APU-003 | Power-Preparation-Acceleration Alchemy | Child of APU-001 | Reduce setup, initialization, readiness, context-loading, or precondition-evaluation time without bypassing required checks. |
+| APU-004 | Power-Charging-Acceleration Alchemy | Child of APU-001 | Reduce the time required to accumulate, allocate, or prepare required energy, compute, data, or other resources. Preserve capacity limits and avoid unsafe overcharging or resource starvation. |
+| APU-005 | Power-Control-Acceleration Alchemy | Child of APU-001 | Reduce control-loop, command, parameter-adjustment, or response latency during capability use while preserving stability and precision. |
+| APU-006 | Power-Execution-Acceleration Alchemy | Child of APU-001 | Reduce the time required to execute the authorized capability itself, subject to correctness, ordering, physical constraints, and safe operating limits. |
+| APU-007 | Power-Transition-Acceleration Alchemy | Child of APU-001 | Reduce delay when switching between valid modes, stages, or successive uses of a capability without losing state integrity or violating interlocks. |
+| APU-008 | Power-Use-Latency-Optimization Alchemy | Supporting specialization of APU-001 | Measure and optimize end-to-end delay across request, authorization, preparation, activation, control, execution, and completion. |
+| APU-009 | Power-Use-Throughput-Optimization Alchemy | Related supporting specialization | Improve the rate of completed valid uses over time without treating concurrency, throughput, and single-operation latency as the same metric. |
+| APU-010 | Power-Use-Synchronization Alchemy | Related supporting specialization | Coordinate timing among dependent capabilities, processes, devices, or assistants while preserving ordering, consistency, and safe synchronization. |
+| APU-011 | Power-Use-Precision-Preservation Alchemy | Protective/complementary specialization | Preserve accuracy, control fidelity, and intended output as operation speed increases; detect and prevent speed-induced degradation. |
+| APU-012 | Power-Use-Rate-Limiting Alchemy | Protective/countermeasure specialization | Bound use rates, burst sizes, and acceleration when required by safety, fairness, capacity, policy, or external constraints. |
+| APU-013 | Power-Use-Cooldown-Management Alchemy | Supporting/protective specialization | Model, enforce, and optimize mandatory recovery intervals, thermal limits, rate limits, or other cooldown constraints; never remove a safety-critical cooldown merely to increase speed. |
+
+The first seven entries decompose the source's core idea into distinct operational stages. Entries APU-008 through APU-013 make measurable performance and safety requirements explicit for a real operating system and application taxonomy. They are proposed engineering specializations, not terms claimed to appear verbatim on the source page.
+
+## C. Existing Alchemies retained and cross-linked
+
+The following existing taxonomy entries remain distinct and should be connected to APU-001 where appropriate:
+
+- Trait-Manipulation Alchemy — capability characteristic or trait changes; not execution acceleration itself.
+- Accelerated-Tasking Alchemy — general task completion rate.
+- Accelerated-Thought-Process Alchemy — cognitive processing rate.
+- Enhanced-Speed Alchemy; Supernatural-Speed Alchemy; Absolute-Speed Alchemy — broader speed domains, with fictional/absolute levels kept as speculative modelling.
+- Charging-Acceleration Alchemy — related resource-preparation concept; link to Power-Charging-Acceleration rather than duplicate it.
+- Ability-Mastering Alchemy; Ability-Intuition Alchemy; Ability-Transcendence Alchemy — capability understanding or mastery, not necessarily faster execution.
+- Power-Manipulation Alchemy; Superpower-Manipulation Alchemy — alteration/control of capabilities.
+- Automatic-Power-Use Alchemy — automatic or autonomous triggering; separate from faster explicit use.
+- Accelerated-Activity Alchemy; Accelerated-Tasking Alchemy — general activity/task speed, broader than power-use timing.
+- Activation-and-Deactivation Alchemy — activation state control; related to, but not the same as, activation latency optimization.
+
+## D. Four-repository applicability and responsibility matrix
+
+| Alchemy | C2O-OS | C2O-App | UNIVERSALIS-OS | UNIVERSALIS-App |
+|---|---|---|---|---|
+| Accelerated-Power-Use | Private runtime scheduling, execution boundaries, resource controls and audit | User-facing orchestration and capability workflows | Open runtime contracts, scheduling interfaces and enforceable limits | Open orchestration and capability workflows |
+| Power-Activation-Acceleration | Authorized dispatch, queueing and activation latency | Clear activation controls and feedback | Open dispatch interfaces and policy hooks | User-directed activation experience |
+| Power-Preparation-Acceleration | Initialization, dependency readiness, validation and preflight services | Preparation workflow and readiness feedback | Open initialization and validation services | Preparation and readiness experience |
+| Power-Charging-Acceleration | Resource allocation, quotas, thermal/energy/compute limits | Show resource state and constraints | Open resource interfaces and limit contracts | Explain and present resource state |
+| Power-Control-Acceleration | Real-time scheduling, control-loop boundaries and safety interlocks | Safe control surfaces and user feedback | Open control interfaces and safety hooks | User-facing control experience |
+| Power-Execution-Acceleration | Process scheduling, execution isolation, prioritization and enforcement | Request and monitor authorized execution | Open process/execution contracts | Initiate and monitor authorized operations |
+| Power-Transition-Acceleration | State transitions, synchronization and invariant enforcement | Mode switching and transition feedback | Open state-transition contracts | User-facing mode and workflow transitions |
+| Power-Use-Latency-Optimization | Instrumentation, profiling and policy-constrained optimization | Display meaningful latency information | Open metrics and optimization interfaces | Present latency and responsiveness |
+| Power-Use-Throughput-Optimization | Queueing, concurrency and capacity management | Batch/workflow orchestration | Open throughput and concurrency contracts | Batch and workflow experiences |
+| Power-Use-Synchronization | Scheduling, ordering, IPC and consistency controls | Coordinated workflows | Open synchronization interfaces | Coordinated user workflows |
+| Power-Use-Precision-Preservation | Integrity checks, validation, control stability and fail-safe behavior | Communicate degraded precision or constraints | Open validation and safety interfaces | Present precision and confidence information |
+| Power-Use-Rate-Limiting | Enforce quotas, safety limits and bounded rates | Explain limits and allow authorized settings | Open rate-limit interfaces and policy hooks | User-facing rate and quota controls |
+| Power-Use-Cooldown-Management | Enforce recovery intervals and physical/resource safety limits | Display cooldown/readiness state | Open cooldown and limit contracts | Present readiness and recovery state |
+
+The same conceptual Alchemies apply to all four repositories. C2O may implement private governance and proprietary enforcement; UNIVERSALIS must expose independently operable open interfaces and implementations. Shared taxonomy does not transfer private C2O authority, keys, policies, or incident data to UNIVERSALIS.
+
+## E. Relationship matrix
+
+| Primary Alchemy | Relationship | Connected Alchemies |
+|---|---|---|
+| Accelerated-Power-Use | Parent of | Power-Activation-Acceleration; Power-Preparation-Acceleration; Power-Charging-Acceleration; Power-Control-Acceleration; Power-Execution-Acceleration; Power-Transition-Acceleration |
+| Accelerated-Power-Use | Depends on | Authorization; Capability-Identification; Resource-Management; Scheduling; State-Management; Observability; Safety-Engineering |
+| Accelerated-Power-Use | Optimized by | Power-Use-Latency-Optimization; Power-Use-Throughput-Optimization; Power-Use-Synchronization |
+| Accelerated-Power-Use | Constrained by | Power-Use-Precision-Preservation; Power-Use-Rate-Limiting; Power-Use-Cooldown-Management; Resource-Quota; Physical-Safety |
+| Accelerated-Power-Use | Intersects | Accelerated-Tasking; Accelerated-Thought-Process; Enhanced-Speed; Charging-Acceleration; Ability-Mastering; Automatic-Power-Use |
+| Accelerated-Power-Use | Must not be conflated with | Trait-Manipulation; Power-Manipulation; Automatic-Power-Use; generic throughput |
+
+## F. Measurement and verification model
+
+Every implementation claim must distinguish at least these measures:
+
+- **Activation latency:** request accepted to authorized operation start.
+- **Preparation latency:** start of preparation to readiness.
+- **Charging/resource-acquisition time:** time to reach a defined resource-ready threshold.
+- **Control latency:** input or command to effective control response.
+- **Execution duration:** operation start to operation completion.
+- **Transition latency:** valid state-change request to stable target state.
+- **End-to-end latency:** request to verified completion.
+- **Throughput:** valid completed operations per unit time.
+- **Precision/correctness:** conformance to expected output and control tolerances.
+- **Resource cost:** compute, memory, energy, bandwidth, thermal load, and other relevant resource consumption.
+- **Failure and retry rate:** unsuccessful operations and retries under comparable conditions.
+
+Verification must use a documented baseline, representative workload, repeated measurements, defined percentile reporting where appropriate, and comparable hardware/software conditions. Faster is not automatically better: an optimization that increases errors, unsafe actions, resource exhaustion, unfairness, or policy bypass fails acceptance.
+
+## G. Safeguard and countermeasure matrix
+
+| Risk | Required protective Alchemies |
+|---|---|
+| Acceleration bypasses authorization | Authentication; Authorization; Access-Control; Policy-Enforcement; Audit |
+| Faster execution causes unsafe physical action | Physical-Safety; Interlock; Emergency-Stop; Action-Verification; Rate-Limiting |
+| Faster control destabilizes a feedback loop | Control-Stability; Precision-Preservation; Fault-Detection; Safe-Degradation |
+| Acceleration exhausts compute, energy, memory, or bandwidth | Resource-Management; Quota-Enforcement; Load-Shedding; Rate-Limiting; Resilience |
+| Increased speed causes incorrect or incomplete results | Output-Validation; Integrity-Checking; Error-Detection; Precision-Preservation |
+| Concurrency or rapid transitions corrupt state | Synchronization; State-Integrity; Transactional-Execution; Ordering-Verification |
+| Automated acceleration triggers unintended actions | Human-Confirmation; Bounded-Autonomy; Consent; Reversibility; Kill-Switch |
+| Speed optimization disadvantages other users or workloads | Fair-Scheduling; Resource-Fairness; Priority-Governance; Transparency |
+| Unsafe removal of cooldown or recovery constraints | Cooldown-Management; Thermal-Safety; Physical-Safety; Policy-Enforcement |
+
+## H. Source record and evidence boundary
+
+- **Primary source:** Trait:Accelerated Power Use, Superpower Wiki / Fandom: https://powerlisting.fandom.com/wiki/Trait:Accelerated_Power_Use
+- **Source-stated alternate names:** Ability/Power Acceleration; Accelerated Skill.
+- **Source-described effects:** faster use, control, preparation, and charging of existing powers.
+- **Source associations:** Ability Mastering/Intuition/Transcendence; Absolute Speed; Accelerated Tasking; Accelerated Thought Process; Charging Acceleration; Enhanced Speed; Supernatural Speed; Superpower Manipulation.
+- **Cross-reference sources:** Accelerated Tasking; Accelerated Thought Process; Support Powers; Traits; Superpower Manipulation.
+- **Evidence status:** Source evidence supports the fictional taxonomy's terminology and conceptual relationships. It does not establish supernatural powers, physical feasibility, implementation performance, or safety.
+- **Research limitation:** This intake covers the supplied page and selected cross-reference pages. It is not a complete crawl of every linked power or every member of the wiki's acceleration-related categories.
+
+**Intake conclusion:** Accelerated-Power-Use Alchemy is added as a distinct canonical Alchemy with six core operational child Alchemies and six proposed performance/safety specializations. It is mapped across all four repositories and linked to related speed, cognition, tasking, charging, mastery, and power-manipulation Alchemies without collapsing their meanings.
