@@ -4,7 +4,7 @@
 
 **Status:** MAPPED—DOMAIN-BASELINE; CAPABILITY-SPECIFIC REVIEW PENDING. Populated mappings are not proof of implementation, testing, effectiveness, or verification. Each Alchemy still requires a contextual harm analysis, risk rating, control validation, test evidence, residual-risk review, and accountable owner.
 
-**Control names:** existing master-taxonomy controls and proposed control Alchemies are listed explicitly; proposed names require normalization, definition, deduplication, and stable ID assignment.
+**Control notation:** `E:` identifies a control name that matches an existing canonical Alchemy in the master taxonomy; `P:` identifies a proposed control Alchemy that requires normalization, definition, deduplication, and stable ID assignment. All control names in the shards are explicitly written as Alchemies.
 
 **Repository responsibilities:** OS enforces policy, identity, isolation, resource/device, integrity, and recovery boundaries. App provides scoped workflows, consent/permission UX, explanation, confirmation, reporting, appeal, and user-directed recovery. C2O private policies, keys, and incident data remain private; UNIVERSALIS publishes only public contracts and independently operable implementations.
 
