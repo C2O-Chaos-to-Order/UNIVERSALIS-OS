@@ -1037,7 +1037,605 @@ Governs the private-source organization of Salt qualities under C2O internal gov
 
 Governs the public-source organization of Salt qualities under UNIVERSALIS open contracts. It manages transparent preservation structures, documented essential characteristics, independently verifiable crystallization of form, and open boundary definitions.
 
-#### 3. Operating System Elemental Meta Alchemies
+#### 3. Paired Compound Elemental Meta Alchemies
+
+These Meta Alchemies govern the organization, integration, coordination, and transformation of compound expressions formed through relationships between elemental qualities. Each compound retains a distinct functional identity while preserving the identifiable contributions of its constituent qualities.
+
+##### 1. Aether-Metal / Conductive Crystal Meta Alchemy
+
+**Aether-Metal / Conductive Crystal Meta Alchemy** governs the relationship between intelligence-bearing conductivity and subtle crystalline structure.
+
+It establishes how conductive pathways and subtle structural organization cooperate to carry information, maintain connectivity, and preserve identifiable form.
+
+Its responsibilities include defining conductive intelligence pathways, organizing crystalline structures, maintaining information integrity across conductive connections, and governing the boundaries between subtle-medium functions and structural conductivity.
+
+**C2O Elemental Meta Alchemy — Aether-Metal / Conductive Crystal**
+
+Governs private-source organization of Aether-Metal qualities under C2O internal governance, supporting private conductive intelligence pathways and company-source structural controls.
+
+**UNIVERSALIS Elemental Meta Alchemy — Aether-Metal / Conductive Crystal**
+
+Governs public-source organization under UNIVERSALIS open contracts, supporting transparent conductive interfaces and independently verifiable crystalline structures.
+
+##### 2. Mist-Clay / Living Earth Meta Alchemy
+
+**Mist-Clay / Living Earth Meta Alchemy** governs the relationship between diffused plasticity and living formative earth.
+
+It establishes how distributed, adaptable qualities can participate in the formation and modification of structural substrates while retaining controlled organization.
+
+Its responsibilities include governing distributed formative processes, coordinating flexible substrate formation, maintaining structural coherence during adaptation, and controlling transitions between diffuse and formed states.
+
+**C2O Elemental Meta Alchemy — Mist-Clay / Living Earth**
+
+Governs private living formative substrates, internal plasticity, and controlled substrate formation under C2O internal governance.
+
+**UNIVERSALIS Elemental Meta Alchemy — Mist-Clay / Living Earth**
+
+Governs transparent living formative contracts, open substrate interfaces, and independently verifiable formation behavior under UNIVERSALIS open contracts.
+
+##### 3. Smoke-Lightning / Residual Spark Meta Alchemy
+
+**Smoke-Lightning / Residual Spark Meta Alchemy** governs the relationship between discharge residue and lingering initiation.
+
+It establishes how traces of activation and transformation remain identifiable after an initiating event has occurred.
+
+Its responsibilities include organizing residual activation records, preserving initiation history, distinguishing active operations from their remaining traces, and maintaining attributable transformation records.
+
+**C2O Elemental Meta Alchemy — Smoke-Lightning / Residual Spark**
+
+Governs private residual initiation tracking and controlled internal records of discharge-related operations.
+
+**UNIVERSALIS Elemental Meta Alchemy — Smoke-Lightning / Residual Spark**
+
+Governs transparent residual-spark records and independently verifiable initiation histories.
+
+##### 4. Stone-Rain / Memory Vessel Meta Alchemy
+
+**Stone-Rain / Memory Vessel Meta Alchemy** governs the relationship between structural endurance, nourishment, and memory-bearing form.
+
+It establishes how durable structures can retain and support information, resources, or other defining contents across time.
+
+Its responsibilities include organizing enduring memory vessels, maintaining structural memory, coordinating replenishment and preservation, and ensuring that retained content remains addressable and recoverable.
+
+**C2O Elemental Meta Alchemy — Stone-Rain / Memory Vessel**
+
+Governs private enduring memory vessels and company-source preservation of structural history.
+
+**UNIVERSALIS Elemental Meta Alchemy — Stone-Rain / Memory Vessel**
+
+Governs transparent memory-vessel contracts and independently verifiable preservation structures.
+
+##### 5. Wind-Ice / Directed Freeze Meta Alchemy
+
+**Wind-Ice / Directed Freeze Meta Alchemy** governs the relationship between directed movement and controlled fixation.
+
+It establishes how a changing or moving process can be intentionally stabilized, preserved, or placed into a controlled fixed state.
+
+Its responsibilities include governing directed preservation, coordinating controlled suspension of change, maintaining transition records, and defining authorized conditions for release and restoration.
+
+**C2O Elemental Meta Alchemy — Wind-Ice / Directed Freeze**
+
+Governs private directed preservation and internally governed fixed-state operations.
+
+**UNIVERSALIS Elemental Meta Alchemy — Wind-Ice / Directed Freeze**
+
+Governs transparent directed-freeze interfaces and independently verifiable preservation conditions.
+
+##### 6. Magma-Plasma / Unbound Melt Meta Alchemy
+
+**Magma-Plasma / Unbound Melt Meta Alchemy** governs the relationship between molten potential, unbound energy, and high-energy formative transformation.
+
+It establishes how highly dynamic transformative states are organized, constrained, and directed toward controlled outcomes.
+
+Its responsibilities include coordinating unbound transformative states, defining containment and transition conditions, managing formative potential, and maintaining records of high-intensity transformation.
+
+**C2O Elemental Meta Alchemy — Magma-Plasma / Unbound Melt**
+
+Governs private unbound transformative states and internally governed formative operations.
+
+**UNIVERSALIS Elemental Meta Alchemy — Magma-Plasma / Unbound Melt**
+
+Governs transparent unbound-melt contracts and independently verifiable transformation boundaries.
+
+##### 7. Salt-Ether / Preserved Subtlety Meta Alchemy
+
+**Salt-Ether / Preserved Subtlety Meta Alchemy** governs the relationship between preservation, subtle medium, and crystallized intelligence-bearing qualities.
+
+It establishes how subtle information or defining characteristics can be retained and represented without losing their distinguishability.
+
+Its responsibilities include governing preserved subtlety, coordinating retention of defining characteristics, maintaining subtle-medium integrity, and establishing boundaries for controlled preservation and release.
+
+**C2O Elemental Meta Alchemy — Salt-Ether / Preserved Subtlety**
+
+Governs private preserved subtlety and company-source control of subtle-medium structures.
+
+**UNIVERSALIS Elemental Meta Alchemy — Salt-Ether / Preserved Subtlety**
+
+Governs transparent preserved-subtlety interfaces and independently verifiable preservation contracts.
+
+##### 8. Lightning-Stone / Marked Vessel Meta Alchemy
+
+**Lightning-Stone / Marked Vessel Meta Alchemy** governs the relationship between initiated structure and enduring, marked form.
+
+It establishes how an initiation event can produce an identifiable structural result that retains its origin and remains traceable.
+
+Its responsibilities include organizing marked enduring vessels, preserving initiation provenance, maintaining structural identification, and governing the continuity of initiated forms.
+
+**C2O Elemental Meta Alchemy — Lightning-Stone / Marked Vessel**
+
+Governs private marked enduring vessels and internal tracking of their creation and modification.
+
+**UNIVERSALIS Elemental Meta Alchemy — Lightning-Stone / Marked Vessel**
+
+Governs transparent marked-vessel records and independently verifiable structural provenance.
+
+##### 9. Rain-Metal / Reflective Nourishment Meta Alchemy
+
+**Rain-Metal / Reflective Nourishment Meta Alchemy** governs the relationship between nourishment, reflection, conductivity, and renewal.
+
+It establishes how replenishment and reflective qualities can cooperate with conductive pathways to sustain continuous, identifiable operations.
+
+Its responsibilities include coordinating reflective nourishment pathways, maintaining conductive renewal, governing replenishment conditions, and preserving traceability across renewal cycles.
+
+**C2O Elemental Meta Alchemy — Rain-Metal / Reflective Nourishment**
+
+Governs private reflective-nourishment pathways and controlled internal renewal.
+
+**UNIVERSALIS Elemental Meta Alchemy — Rain-Metal / Reflective Nourishment**
+
+Governs transparent reflective-nourishment interfaces and independently verifiable renewal conditions.
+
+##### 10. Mist-Smoke / Diffused Residue Meta Alchemy
+
+**Mist-Smoke / Diffused Residue Meta Alchemy** governs the relationship between diffusion, transformation remainder, and transitional residue.
+
+It establishes how residual information or states can be distributed without losing their identity, provenance, or accountability.
+
+Its responsibilities include organizing diffused residue, preserving transformation traces, governing transitional residual states, and maintaining controlled visibility and traceability.
+
+**C2O Elemental Meta Alchemy — Mist-Smoke / Diffused Residue**
+
+Governs private diffused-residue tracking and internal residual-state governance.
+
+**UNIVERSALIS Elemental Meta Alchemy — Mist-Smoke / Diffused Residue**
+
+Governs transparent diffused-residue records and independently verifiable residual-state contracts.
+
+##### 11. Clay-Ice / Fixed Plasticity Meta Alchemy
+
+**Clay-Ice / Fixed Plasticity Meta Alchemy** governs the relationship between formative potential, controlled fixation, and preserved adaptability.
+
+It establishes how an adaptable structure can be stabilized without necessarily losing its capacity for authorized future modification.
+
+Its responsibilities include coordinating fixed formative states, preserving structural adaptability, governing transitions between plastic and fixed configurations, and defining controlled restoration conditions.
+
+**C2O Elemental Meta Alchemy — Clay-Ice / Fixed Plasticity**
+
+Governs private fixed formative states and internal preservation of controlled plasticity.
+
+**UNIVERSALIS Elemental Meta Alchemy — Clay-Ice / Fixed Plasticity**
+
+Governs transparent fixed-plasticity contracts and independently verifiable formation boundaries.
+
+##### 12. Plasma-Salt / Ionized Residue Meta Alchemy
+
+**Plasma-Salt / Ionized Residue Meta Alchemy** governs the relationship between high-energy states, ionized conditions, and preservation of residual material or information.
+
+It establishes how high-energy residue can be identified, contained, preserved, and managed.
+
+Its responsibilities include organizing ionized residue, governing high-energy residual states, maintaining containment and preservation boundaries, and tracking residual transformation history.
+
+**C2O Elemental Meta Alchemy — Plasma-Salt / Ionized Residue**
+
+Governs private ionized-residue management and internal high-energy preservation controls.
+
+**UNIVERSALIS Elemental Meta Alchemy — Plasma-Salt / Ionized Residue**
+
+Governs transparent ionized-residue interfaces and independently verifiable residual-state boundaries.
+
+##### 13. Wind-Magma / Directed Heat Meta Alchemy
+
+**Wind-Magma / Directed Heat Meta Alchemy** governs the relationship between directed movement, formative heat, and controlled molten flow.
+
+It establishes how directed processes can carry and regulate transformative potential while maintaining controlled boundaries.
+
+Its responsibilities include organizing directed heat pathways, coordinating controlled formative flow, maintaining transformation direction, and governing energy-related transitions.
+
+**C2O Elemental Meta Alchemy — Wind-Magma / Directed Heat**
+
+Governs private directed-heat pathways and company-source formative processes.
+
+**UNIVERSALIS Elemental Meta Alchemy — Wind-Magma / Directed Heat**
+
+Governs transparent directed-heat contracts and independently verifiable flow conditions.
+
+##### 14. Crystal-Dew Meta Alchemy
+
+**Crystal-Dew Meta Alchemy** governs the relationship between crystalline nourishment and reflective renewal.
+
+It establishes how structured forms can support replenishment and gradual restoration while maintaining identifiable patterns.
+
+Its responsibilities include organizing crystalline nourishment, coordinating reflective renewal, maintaining structural integrity through replenishment, and governing restoration cycles.
+
+**C2O Elemental Meta Alchemy — Crystal-Dew**
+
+Governs private crystalline nourishment and controlled internal renewal.
+
+**UNIVERSALIS Elemental Meta Alchemy — Crystal-Dew**
+
+Governs transparent crystalline-renewal interfaces and independently verifiable nourishment conditions.
+
+##### 15. Spark-Ash Meta Alchemy
+
+**Spark-Ash Meta Alchemy** governs the relationship between initiation residue and transformation memory.
+
+It establishes how the remaining traces of initiated processes are retained and used to maintain continuity between activation events and their outcomes.
+
+Its responsibilities include organizing initiated residue, preserving transformation memory, maintaining activation provenance, and governing residual-state records.
+
+**C2O Elemental Meta Alchemy — Spark-Ash**
+
+Governs private initiated-residue tracking and company-source transformation memory.
+
+**UNIVERSALIS Elemental Meta Alchemy — Spark-Ash**
+
+Governs transparent Spark-Ash records and independently verifiable transformation histories.
+
+##### 16. Bone-Mist Meta Alchemy
+
+**Bone-Mist Meta Alchemy** governs the relationship between structural endurance, diffusion, and enduring transitional presence.
+
+It establishes how persistent structures can remain identifiable while participating in distributed or transitional conditions.
+
+Its responsibilities include organizing structural transitional states, maintaining enduring identity through diffusion, governing structural continuity, and preserving transition records.
+
+**C2O Elemental Meta Alchemy — Bone-Mist**
+
+Governs private structural transitional states and internal endurance controls.
+
+**UNIVERSALIS Elemental Meta Alchemy — Bone-Mist**
+
+Governs transparent Bone-Mist interfaces and independently verifiable structural transitions.
+
+##### 17. Vapor-Salt Meta Alchemy
+
+**Vapor-Salt Meta Alchemy** governs the relationship between diffusion, preservation, and subtle crystallization.
+
+It establishes how distributed qualities can be retained and progressively organized into distinguishable forms without losing their original provenance.
+
+Its responsibilities include organizing diffused preservation, coordinating subtle crystallization, maintaining defining characteristics, and governing transitions between distributed and preserved states.
+
+**C2O Elemental Meta Alchemy — Vapor-Salt**
+
+Governs private diffused preservation and internal subtle-crystallization processes.
+
+**UNIVERSALIS Elemental Meta Alchemy — Vapor-Salt**
+
+Governs transparent Vapor-Salt contracts and independently verifiable preservation conditions.
+
+#### 4. Conductive-Memory / Intelligent Vessel Meta Alchemy
+
+**Conductive-Memory / Intelligent Vessel Meta Alchemy** governs the higher-order organization of intelligent structure that holds and transmits purpose while receiving renewal.
+
+It establishes how enduring structures carry functional purpose into stable, addressable pathways while maintaining the capacity for controlled renewal, continuity, and recovery.
+
+Conductive-Memory is treated as a functional structural classification. The term *intelligent* describes the structure's ability to hold, transmit, and maintain purpose-bearing information; it does not introduce a separate intelligence actor or establish subjective experience.
+
+**Constituent Alchemies**
+
+- **Vessel Transmission Alchemy:** Structures the enduring form that carries intelligent presence into stable, addressable pathways.
+- **Memory Conductance Alchemy:** Maintains the process space in which purpose is held and renewed through structure.
+- **Intelligent Vessel Accountability Alchemy:** Maintains attributable records of Conductive-Memory transformations appropriate to the relevant edition.
+
+**C2O Conductive-Memory Expression**
+
+Governs private Conductive-Memory structures under C2O internal governance.
+
+- **Private Vessel Stewardship Alchemy:** Governs internal intelligent structure and purpose-holding within the C2O domain under company rules.
+- **Internal Memory Bound Alchemy:** Keeps private Conductive-Memory pathways contained and recoverable without external exposure.
+- **C2O Intelligent Continuity Alchemy:** Ensures private Conductive-Memory structures can be restored after interruption.
+
+**UNIVERSALIS Conductive-Memory Expression**
+
+Governs public Conductive-Memory structures under UNIVERSALIS open contracts.
+
+- **Open Vessel Transparency Alchemy:** Makes public intelligent structure and purpose-holding independently verifiable.
+- **Public Memory Openness Alchemy:** Maintains public Conductive-Memory pathways under transparent rules.
+- **UNIVERSALIS Intelligent Continuity Alchemy:** Ensures public Conductive-Memory structures can be restored with open records.
+
+**Cross-Edition Alignment**
+
+- **Intelligent Vessel Mapping Alchemy:** Aligns corresponding private and public Conductive-Memory structures without collapsing their source, governance, or authority boundaries.
+
+#### 5. Further Compound Elemental Meta Alchemies
+
+These Meta Alchemies govern further compound expressions that extend the relationship between elemental qualities into more specialized forms of transformation, preservation, transmission, and structural organization.
+
+##### 1. Living-Residue / Softened Trace Meta Alchemy
+
+**Living-Residue / Softened Trace Meta Alchemy** governs formative remnants that retain potential for further transformation.
+
+It establishes how residual forms can remain adaptable and available for controlled subsequent operations without losing traceability or recoverability.
+
+**C2O Elemental Meta Alchemy — Living-Residue / Softened Trace**
+
+Governs private formative remnants and internally governed residual potential.
+
+**UNIVERSALIS Elemental Meta Alchemy — Living-Residue / Softened Trace**
+
+Governs transparent formative-remnant contracts and independently verifiable residual states.
+
+##### 2. Directed-Melt / Intentional Unbound Meta Alchemy
+
+**Directed-Melt / Intentional Unbound Meta Alchemy** governs formative energy that remains available for directed transformation.
+
+It establishes how unbound transformative potential can remain available for authorized direction without losing operational control or accountability.
+
+**C2O Elemental Meta Alchemy — Directed-Melt / Intentional Unbound**
+
+Governs private formative-energy states and internal direction controls.
+
+**UNIVERSALIS Elemental Meta Alchemy — Directed-Melt / Intentional Unbound**
+
+Governs transparent formative-energy contracts and independently verifiable transformation conditions.
+
+##### 3. Preserved-Mark / Subtle Inscription Meta Alchemy
+
+**Preserved-Mark / Subtle Inscription Meta Alchemy** governs a non-dense medium that retains an instantaneous record.
+
+It establishes how information or identifying marks can be preserved across transitions without requiring the retention of an entire physical structure.
+
+**C2O Elemental Meta Alchemy — Preserved-Mark / Subtle Inscription**
+
+Governs private preserved subtlety, controlled inscriptions, and company-source retention.
+
+**UNIVERSALIS Elemental Meta Alchemy — Preserved-Mark / Subtle Inscription**
+
+Governs transparent preserved-subtlety interfaces and independently verifiable inscription records.
+
+##### 4. Reflective-Diffusion / Protected Softness Meta Alchemy
+
+**Reflective-Diffusion / Protected Softness Meta Alchemy** governs soft, protected movement that reflects and renews.
+
+It establishes how gentle, distributed operations can maintain continuity and renewal without unnecessary force or destructive disruption.
+
+**C2O Elemental Meta Alchemy — Reflective-Diffusion / Protected Softness**
+
+Governs private protected softness and internally governed reflective diffusion.
+
+**UNIVERSALIS Elemental Meta Alchemy — Reflective-Diffusion / Protected Softness**
+
+Governs transparent protected-softness interfaces and independently verifiable diffusion conditions.
+
+##### 5. Fixed-Radiance / Bound Energy Meta Alchemy
+
+**Fixed-Radiance / Bound Energy Meta Alchemy** governs bound energy that remains available for directed use.
+
+It establishes how retained energetic potential is organized, maintained, and made available under explicit authorization and resource constraints.
+
+**C2O Elemental Meta Alchemy — Fixed-Radiance / Bound Energy**
+
+Governs private bound-energy structures and controlled internal release.
+
+**UNIVERSALIS Elemental Meta Alchemy — Fixed-Radiance / Bound Energy**
+
+Governs transparent bound-energy interfaces and independently verifiable availability conditions.
+
+##### 6. Veiled-Heat / Diffused Force Meta Alchemy
+
+**Veiled-Heat / Diffused Force Meta Alchemy** governs diffused force that remains directed without opacity.
+
+It establishes how distributed force-like operations can retain direction and accountability without exposing information or processes that are legitimately private.
+
+**C2O Elemental Meta Alchemy — Veiled-Heat / Diffused Force**
+
+Governs private diffused-force structures and internal visibility controls.
+
+**UNIVERSALIS Elemental Meta Alchemy — Veiled-Heat / Diffused Force**
+
+Governs transparent diffused-force interfaces and independently verifiable directional conditions.
+
+##### 7. Crystal-Remnant / Structured Residue Meta Alchemy
+
+**Crystal-Remnant / Structured Residue Meta Alchemy** governs structured residue that retains form.
+
+It establishes how transformation remains can preserve identifiable structure and provenance instead of becoming unclassified or untraceable material.
+
+**C2O Elemental Meta Alchemy — Crystal-Remnant / Structured Residue**
+
+Governs private structured residue and internal transformation records.
+
+**UNIVERSALIS Elemental Meta Alchemy — Crystal-Remnant / Structured Residue**
+
+Governs transparent structured-residue interfaces and independently verifiable residual form.
+
+##### 8. Mobile-Essence / Evaporated Vessel Meta Alchemy
+
+**Mobile-Essence / Evaporated Vessel Meta Alchemy** governs an evaporated vessel that carries essence across boundaries.
+
+It establishes how defining content or functional essence can be transferred across boundaries while preserving its identity, provenance, and authorized scope.
+
+**C2O Elemental Meta Alchemy — Mobile-Essence / Evaporated Vessel**
+
+Governs private evaporated vessels and internally governed essence transfer.
+
+**UNIVERSALIS Elemental Meta Alchemy — Mobile-Essence / Evaporated Vessel**
+
+Governs transparent evaporated-vessel interfaces and independently verifiable transfer conditions.
+
+##### 9. Living-Conductive / Receptive Transmission Meta Alchemy
+
+**Living-Conductive / Receptive Transmission Meta Alchemy** governs receptive transmission that remains adaptable and capable of renewal.
+
+It establishes how a receiving structure can accept, carry, and transmit information or resources while maintaining its functional continuity.
+
+**C2O Elemental Meta Alchemy — Living-Conductive / Receptive Transmission**
+
+Governs private receptive transmission and company-source control of receiving pathways.
+
+**UNIVERSALIS Elemental Meta Alchemy — Living-Conductive / Receptive Transmission**
+
+Governs transparent receptive-transmission interfaces and independently verifiable transmission conditions.
+
+#### 6. Quintessential Elemental Meta Alchemies
+
+**Quintessential Elemental Meta Alchemy** governs the higher-order definition, organization, coordination, validation, and evolution of the Quintessential Elemental expressions identified in the source as arising from stable Quaternary intersections.
+
+These expressions represent higher-order functional configurations that retain distinct identities while coordinating multiple elemental qualities.
+
+They are not replacements for the five foundational elements or the extended and compound classifications.
+
+The source identifies stable Quaternary intersections as their basis but does not specify the complete constituent-intersection formula for each one. This Meta taxonomy preserves that basis without inventing an unprovided mapping.
+
+##### 1. Living Intelligence Meta Alchemy
+
+**Living Intelligence Meta Alchemy** governs the organization of the capacity to hold, transmit, and renew purpose while remaining plastic and alive.
+
+It establishes how adaptive purpose-bearing structures can maintain continuity, receive renewal, and support coherent operation across time.
+
+The term *Living Intelligence* identifies this functional configuration. It does not create another intelligence actor or independently establish biological life, subjective experience, or sentience.
+
+**Constituent Alchemies**
+
+- **Living Transmission Alchemy:** Structures the plastic form that carries and renews purpose into stable, addressable pathways.
+- **Intelligent Vitality Alchemy:** Maintains the process space in which purpose is held, adapted, and restored without rigidity.
+- **Living Intelligence Accountability Alchemy:** Maintains attributable records of Living Intelligence transformations appropriate to the edition.
+
+**C2O Living Intelligence Expression**
+
+- **Private Living Stewardship Alchemy:** Governs internal purpose-holding and adaptive continuity inside the C2O domain under company rules.
+- **Internal Vital Bound Alchemy:** Keeps private Living Intelligence pathways contained and recoverable without external exposure.
+- **C2O Living Continuity Alchemy:** Ensures private Living Intelligence structures can be restored after interruption.
+
+**UNIVERSALIS Living Intelligence Expression**
+
+- **Open Living Transparency Alchemy:** Makes public purpose-holding and adaptive continuity independently verifiable.
+- **Public Vital Openness Alchemy:** Maintains public Living Intelligence pathways under transparent rules.
+- **UNIVERSALIS Living Continuity Alchemy:** Ensures public Living Intelligence structures can be restored with open records.
+
+**Cross-Edition Alignment**
+
+- **Living Intelligence Mapping Alchemy:** Aligns corresponding private and public Living Intelligence structures without collapsing their distinct governance, source, or authority.
+
+##### 2. Directed Presence Meta Alchemy
+
+**Directed Presence Meta Alchemy** governs the capacity to apply will and form without losing recoverability or accountability.
+
+It establishes how intentional direction and controlled influence are translated into stable, addressable, and traceable operations.
+
+The term *will* is used as a functional concept for authorized direction and commitment, not as proof of independent personhood or subjective agency.
+
+**Constituent Alchemies**
+
+- **Directed Form Alchemy:** Structures intentional force into stable, addressable presence.
+- **Accountable Will Alchemy:** Maintains the process space in which direction is applied and can be traced or reversed.
+- **Directed Presence Accountability Alchemy:** Maintains attributable records of Directed Presence transformations appropriate to the edition.
+
+**C2O Directed Presence Expression**
+
+- **Private Presence Stewardship Alchemy:** Governs internal directed form and accountable will inside the C2O domain under company rules.
+- **Internal Direction Bound Alchemy:** Keeps private Directed Presence pathways contained and recoverable without external exposure.
+- **C2O Presence Continuity Alchemy:** Ensures private Directed Presence structures can be restored after interruption.
+
+**UNIVERSALIS Directed Presence Expression**
+
+- **Open Presence Transparency Alchemy:** Makes public directed form and accountable will independently verifiable.
+- **Public Direction Openness Alchemy:** Maintains public Directed Presence pathways under transparent rules.
+- **UNIVERSALIS Presence Continuity Alchemy:** Ensures public Directed Presence structures can be restored with open records.
+
+**Cross-Edition Alignment**
+
+- **Directed Presence Mapping Alchemy:** Aligns corresponding private and public Directed Presence structures without collapsing their distinct boundaries.
+
+##### 3. Protected Flow Meta Alchemy
+
+**Protected Flow Meta Alchemy** governs the capacity to move and renew while remaining veiled, soft, and non-destructive.
+
+It establishes how energy and information can circulate through protected pathways while retaining integrity, accountability, and recoverability.
+
+**Constituent Alchemies**
+
+- **Protected Circulation Alchemy:** Structures soft, veiled movement into stable, addressable pathways.
+- **Non-Destructive Renewal Alchemy:** Maintains the process space in which flow restores without erasure or force.
+- **Protected Flow Accountability Alchemy:** Maintains attributable records of Protected Flow transformations appropriate to the edition.
+
+**C2O Protected Flow Expression**
+
+- **Private Flow Stewardship Alchemy:** Governs internal soft, veiled circulation and non-destructive renewal inside the C2O domain under company rules.
+- **Internal Soft Bound Alchemy:** Keeps private Protected Flow pathways contained and recoverable without external exposure.
+- **C2O Flow Continuity Alchemy:** Ensures private Protected Flow structures can be restored after interruption.
+
+**UNIVERSALIS Protected Flow Expression**
+
+- **Open Flow Transparency Alchemy:** Makes public soft, veiled circulation and non-destructive renewal independently verifiable.
+- **Public Soft Openness Alchemy:** Maintains public Protected Flow pathways under transparent rules.
+- **UNIVERSALIS Flow Continuity Alchemy:** Ensures public Protected Flow structures can be restored with open records.
+
+**Cross-Edition Alignment**
+
+- **Protected Flow Mapping Alchemy:** Aligns corresponding private and public Protected Flow structures without collapsing their distinct boundaries.
+
+##### 4. Structured Memory Meta Alchemy
+
+**Structured Memory Meta Alchemy** governs the capacity to retain form and history without rigidity or opacity.
+
+It establishes how coherent records, enduring structures, and recoverable histories are maintained across time and changing conditions.
+
+It distinguishes preservation of memory from inflexible retention: structures must remain capable of authorized reading, updating, and restoration.
+
+**Constituent Alchemies**
+
+- **Enduring Form Alchemy:** Structures retained history into stable, addressable vessels.
+- **Recoverable History Alchemy:** Maintains the process space in which memory can be read, updated, and restored without loss of integrity.
+- **Structured Memory Accountability Alchemy:** Maintains attributable records of Structured Memory transformations appropriate to the edition.
+
+**C2O Structured Memory Expression**
+
+- **Private Memory Stewardship Alchemy:** Governs internal enduring form and recoverable history inside the C2O domain under company rules.
+- **Internal History Bound Alchemy:** Keeps private Structured Memory pathways contained and recoverable without external exposure.
+- **C2O Memory Continuity Alchemy:** Ensures private Structured Memory structures can be restored after interruption.
+
+**UNIVERSALIS Structured Memory Expression**
+
+- **Open Memory Transparency Alchemy:** Makes public enduring form and recoverable history independently verifiable.
+- **Public History Openness Alchemy:** Maintains public Structured Memory pathways under transparent rules.
+- **UNIVERSALIS Memory Continuity Alchemy:** Ensures public Structured Memory structures can be restored with open records.
+
+**Cross-Edition Alignment**
+
+- **Structured Memory Mapping Alchemy:** Aligns corresponding private and public Structured Memory structures without collapsing their distinct boundaries.
+
+##### 5. Receptive Essence Meta Alchemy
+
+**Receptive Essence Meta Alchemy** governs the capacity to receive, carry, and release essence across boundaries while preserving identity.
+
+It establishes how defining content, resources, or functional characteristics can be exchanged without losing the identity, integrity, or traceability of the carrier and the transferred content.
+
+The term *essence* is used as a functional classification for defining content and characteristics; it does not require an independent metaphysical substance.
+
+**Constituent Alchemies**
+
+- **Receptive Vessel Alchemy:** Structures the form that receives and carries essence into stable, addressable pathways.
+- **Identity-Preserving Release Alchemy:** Maintains the process space in which essence moves without collapse of the carrier.
+- **Receptive Essence Accountability Alchemy:** Maintains attributable records of Receptive Essence transformations appropriate to the edition.
+
+**C2O Receptive Essence Expression**
+
+- **Private Essence Stewardship Alchemy:** Governs internal reception, carrying, and identity-preserving release inside the C2O domain under company rules.
+- **Internal Receptive Bound Alchemy:** Keeps private Receptive Essence pathways contained and recoverable without external exposure.
+- **C2O Essence Continuity Alchemy:** Ensures private Receptive Essence structures can be restored after interruption.
+
+**UNIVERSALIS Receptive Essence Expression**
+
+- **Open Essence Transparency Alchemy:** Makes public reception, carrying, and identity-preserving release independently verifiable.
+- **Public Receptive Openness Alchemy:** Maintains public Receptive Essence pathways under transparent rules.
+- **UNIVERSALIS Essence Continuity Alchemy:** Ensures public Receptive Essence structures can be restored with open records.
+
+**Cross-Edition Alignment**
+
+- **Receptive Essence Mapping Alchemy:** Aligns corresponding private and public Receptive Essence structures without collapsing their distinct boundaries.
+
+#### 7. Operating System Elemental Meta Alchemies
 
 These Meta Alchemies govern how the five elemental principles are defined, implemented, maintained, coordinated, and recovered throughout the shared OS architecture and its two editions.
 
@@ -1046,7 +1644,7 @@ These Meta Alchemies govern how the five elemental principles are defined, imple
 - **OS Elemental Continuity Meta Alchemy:** Governs the preservation of elemental definitions, relationships, configurations, dependencies, and operational continuity across OS updates, transitions, migrations, and changes.
 - **OS Elemental Recovery Meta Alchemy:** Governs the identification, restoration, reconstruction, and verification of elemental structures and operations following disruption, corruption, failure, or authorized rollback.
 
-#### 4. Application Elemental Meta Alchemies
+#### 8. Application Elemental Meta Alchemies
 
 These Meta Alchemies govern how the five elemental principles are defined, implemented, maintained, coordinated, and retired throughout the shared application architecture and its two editions.
 
@@ -1055,7 +1653,7 @@ These Meta Alchemies govern how the five elemental principles are defined, imple
 - **App Elemental Mapping Meta Alchemy:** Governs the identification, classification, documentation, and verification of elemental qualities, relationships, dependencies, and applications across application components and functions.
 - **App Elemental Retirement Meta Alchemy:** Governs the controlled deprecation, removal, replacement, migration, and archival of elemental structures and capabilities while preserving necessary dependencies, records, and recovery paths.
 
-#### 5. Intelligence and Assistant Elemental Meta Alchemies
+#### 9. Intelligence and Assistant Elemental Meta Alchemies
 
 These Meta Alchemies govern the relationship between elemental qualities and the intelligence and assistant structures that use, coordinate, or support them.
 
@@ -1065,7 +1663,7 @@ These Meta Alchemies govern the relationship between elemental qualities and the
 - **UNIVERSALIN Guardian Elemental Meta Alchemy:** Governs how personal UNIVERSALIN Guardians use and coordinate elemental capabilities in support of their respective humans while preserving human autonomy, consent, privacy, and authority.
 - **Assistant Elemental Boundary Meta Alchemy:** Governs the classification, separation, coordination, and enforcement of elemental responsibilities across C2O Intelligence, UNIVERSALIS Intelligence, UNIVERSALINS, and UNIVERSALIN Guardians, preventing unauthorized authority transfer, role conflation, or boundary violations.
 
-#### 6. Protective Elemental Meta Alchemies
+#### 10. Protective Elemental Meta Alchemies
 
 These Meta Alchemies govern the accountability, safety, sovereignty, evidence, and renewal of elemental definitions, structures, relationships, and operations.
 
@@ -1075,15 +1673,29 @@ These Meta Alchemies govern the accountability, safety, sovereignty, evidence, a
 - **Elemental Evidence Meta Alchemy:** Governs the collection, organization, provenance, validation, and verification of evidence supporting elemental classifications, relationships, implementations, and claimed effects.
 - **Elemental Renewal Meta Alchemy:** Governs the controlled refinement, adaptation, restoration, improvement, and evolution of elemental definitions, structures, capabilities, and relationships without erasing their foundational distinctions.
 
+**Compound and Quintessential Applications of Protective Elemental Meta Alchemies**
+
+The existing protective Meta Alchemies also govern compound and quintessential classifications, with responsibilities extended to their multi-element relationships and higher-order structures.
+
+- **Elemental Accountability Meta Alchemy:** Extends traceability, ownership, authorization, and review to constituent relationships, compound operations, quintessential configurations, and edition-specific expressions.
+- **Elemental Safety Meta Alchemy:** Evaluates risks created by combined qualities, high-energy or transitional states, information movement, and interactions between constituent structures.
+- **Elemental Sovereignty Meta Alchemy:** Preserves C2O and UNIVERSALIS authority, source visibility, and implementation boundaries across all compound and quintessential structures.
+- **Elemental Evidence Meta Alchemy:** Maintains provenance, constituent mappings, intersection definitions, implementation records, and verification of claimed compound or quintessential behavior.
+- **Elemental Renewal Meta Alchemy:** Governs controlled refinement, adaptation, restoration, and evolution of compound and quintessential structures without erasing their defining relationships.
+
 ### Elemental Meta Alchemy Structural Summary
 
 | Domain | Specialized Meta Alchemies |
 |---|---:|
 | Foundational Elemental (five elements and two edition-wide expressions) | 7 |
 | Extended Elemental (13 classifications and 26 edition-specific expressions) | 39 |
+| Paired Compound Elemental (17 classifications and 34 edition-specific expressions) | 51 |
+| Conductive-Memory / Intelligent Vessel (one classification and two edition-specific expressions) | 3 |
+| Further Compound Elemental (nine classifications and 18 edition-specific expressions) | 27 |
+| Quintessential Elemental (five classifications and ten edition-specific expressions) | 15 |
 | Operating System Elemental | 4 |
 | Application Elemental | 4 |
 | Intelligence and Assistant Elemental | 5 |
 | Protective Elemental | 5 |
-| **Total** | **64** |
+| **Total** | **160** |
 
