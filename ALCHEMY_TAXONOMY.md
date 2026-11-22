@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.21.0  
-**Status:** Living taxonomy; version 0.21.0 includes the Angelic Trait Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
+**Version:** 0.25.0  
+**Status:** Living taxonomy; version 0.25.0 includes the Antler Protrusion Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -4821,3 +4821,571 @@ These patterns are recorded for recognition, prevention, detection, containment,
 ## Maintenance Record for v0.21.0
 
 This expansion adds **53 taxonomy records**: **25 core Alchemies** (A2496–A2520), **16 prevention/protection/correction Alchemies** (A2521–A2536), **4 ecosystem profile entries** (ANG-C2O-001 through ANG-GRD-001), and **8 defensive harm-pattern classifications** (ANGX001–ANGX008). The A-numbered sequence now reaches **A2536**. This is the identifier ceiling for the A-numbered sequence, not a cumulative count of all taxonomy records. Cumulative totals remain subject to a full-document audit of unique entries, duplicate labels, profile entries, harm-pattern entries, and superseded records. Taxonomy inclusion does not establish feature implementation or scientific validation.
+
+# Animal Ears Alchemy Expansion — v0.22.0
+
+## Source interpretation and evidence boundary
+
+Source reference: https://powerlisting.fandom.com/wiki/Trait:Animal_Ears
+
+The source describes the fictional trait of possessing animal-like ears, with possible enhanced hearing depending on the animal form. It associates Animal Ears with Animal Mimicry, Ear Manifestation, Expressive Ears, and Multiple Ears. This taxonomy uses that page as a creative classification prompt, not as scientific evidence that a fictional anatomy or capability exists.
+
+Animal Ears Alchemy covers animal-derived external ear forms, pinnae, auricular structures, ear placement, mobility, expressive movement, and related auditory or sensory functions. It distinguishes visible morphology from demonstrated hearing performance. Ear shape alone does not establish hearing range, acuity, echolocation, lie detection, emotional state, species identity, or any other capability.
+
+### Governing distinctions
+
+- **Morphology:** visible shape, size, placement, orientation, surface, and number of ears.
+- **Physiology:** biological structures and functions supported by an identified organism or an explicitly fictional model.
+- **Auditory capability:** measurable hearing performance, including frequency range, sensitivity, localization, filtering, and temporal resolution; each requires independent evidence.
+- **Expressive behavior:** voluntary or involuntary ear movement that may communicate state, but must not be treated as a definitive reading of emotion or intent.
+- **Fictional representation:** imaginative, symbolic, cosmetic, avatar, or narrative forms that make no claim of real biological function.
+- **Augmentation or modification:** any real-world intervention requires informed consent, safety review, reversibility where possible, and qualified oversight. The taxonomy does not authorize body modification.
+
+## Core Animal Ears Alchemies — Zodiac stages
+
+### Zodiac Stage I — Aries: Initiation and Emergence
+
+- **A2537 — Animal Ear Form Identification Alchemy:** Classify the represented ear form by source inspiration, morphology, and evidence status without inferring identity or capability.
+- **A2538 — Auricular Emergence and Manifestation Alchemy:** Model the appearance or fictional emergence of animal-like external ears with explicit limits, reversibility, and distinction from ordinary anatomy.
+- **A2539 — Ear-Origin and Provenance Alchemy:** Record whether a form is natural, inherited, fictional, cosmetic, prosthetic, augmented, or unknown; never collapse these origins.
+
+### Zodiac Stage II — Taurus: Foundation and Materialization
+
+- **A2540 — Animal Ear Morphology Alchemy:** Describe size, contour, thickness, placement, orientation, surface, and structural variation using consistent anatomical terminology.
+- **A2541 — Auricular Support and Tissue Integrity Alchemy:** Model structural support, comfort, circulation, skin integrity, and load constraints for biological or designed representations.
+- **A2542 — Ear Form Materialization Alchemy:** Specify safe materials, geometry, attachment, fit, and maintenance for fictional assets, prosthetics, wearables, or digital models.
+
+### Zodiac Stage III — Gemini: Connection and Communication
+
+- **A2543 — Bilateral Auditory Coordination Alchemy:** Model left-right auditory input and coordination, distinguishing biological function from fictional enhancements.
+- **A2544 — Sound-Source Localization Alchemy:** Represent directional hearing and localization only to the degree supported by the modeled anatomy and measured performance.
+- **A2545 — Ear-Based Nonverbal Communication Alchemy:** Model expressive ear positions and movements as context-dependent signals, never as infallible emotional or intent detection.
+
+### Zodiac Stage IV — Cancer: Care, Continuity, and Protection
+
+- **A2546 — Auricular Sensitivity and Comfort Alchemy:** Account for touch sensitivity, pressure, temperature, fit, irritation, and environmental comfort.
+- **A2547 — Hearing Health and Environmental Protection Alchemy:** Model proportionate protection from hazardous sound, injury, infection, and environmental exposure without suppressing necessary awareness.
+- **A2548 — Ear Structure Continuity and Recovery Alchemy:** Define continuity, maintenance, repair, and recovery states for biological analogies, prosthetics, and fictional systems without promising medical outcomes.
+
+### Zodiac Stage V — Leo: Expression and Manifestation
+
+- **A2549 — Expressive Ear Movement Alchemy:** Classify voluntary or reflexive ear movement, range of motion, coordination, and expressive design.
+- **A2550 — Animal Ear Silhouette and Appearance Alchemy:** Represent species-inspired silhouettes, patterns, fur, coloration, and ornamentation while separating aesthetic design from biological claims.
+- **A2551 — Individualized Ear Expression Alchemy:** Support personal choice and variation in ear appearance and expression without imposing stereotypes or presumed personality traits.
+
+### Zodiac Stage VI — Virgo: Analysis, Refinement, and Verification
+
+- **A2552 — Auditory Performance Characterization Alchemy:** Specify testable hearing measures such as frequency response, thresholds, localization error, and signal discrimination; record methods and uncertainty.
+- **A2553 — Ear Morphology Comparison Alchemy:** Compare forms through explicit features and reference specimens, preserving uncertainty and avoiding unsupported species equivalence.
+- **A2554 — Animal Ear Model Validation Alchemy:** Validate anatomical, functional, and visual models separately, recording provenance, assumptions, limitations, and test results.
+
+### Zodiac Stage VII — Libra: Balance, Ethics, and Governance
+
+- **A2555 — Sensory Trade-Off Balance Alchemy:** Model potential benefits and burdens of altered ear form or hearing, including sensitivity, overload, attention, privacy, and environmental exposure.
+- **A2556 — Consent and Bodily Autonomy Alchemy:** Require informed, voluntary, revocable consent for personal representations, data collection, interventions, and expressive interpretation.
+- **A2557 — Fair Representation and Accessibility Alchemy:** Prevent animal-ear traits from becoming grounds for discrimination, exclusion, demeaning stereotypes, or inaccessible interface design.
+
+### Zodiac Stage VIII — Scorpio: Deep Transformation and Adversarial Resistance
+
+- **A2558 — Auricular Transformation Alchemy:** Model fictional or designed changes in ear form with defined triggers, scope, duration, reversibility, and failure conditions.
+- **A2559 — Auditory Signal Integrity Alchemy:** Distinguish genuine sound input from masking, distortion, spoofing, interference, and synthetic audio.
+- **A2560 — Sensory Boundary and Privacy Alchemy:** Prevent enhanced-sense narratives or sensor systems from becoming covert surveillance, non-consensual listening, or unauthorized inference.
+
+### Zodiac Stage IX — Sagittarius: Expansion, Learning, and Exploration
+
+- **A2561 — Cross-Species Ear Reference Alchemy:** Organize comparative animal-ear references across species and fictional inspirations without treating analogy as biological equivalence.
+- **A2562 — Environmental Auditory Adaptation Alchemy:** Model how surroundings, reverberation, noise, wind, water, and obstacles affect auditory performance.
+- **A2563 — Animal Ear Knowledge and Learning Alchemy:** Support accessible learning about comparative anatomy, sound perception, and responsible fictional design with traceable sources.
+
+### Zodiac Stage X — Capricorn: Structure, Operations, and Accountability
+
+- **A2564 — Auricular System Architecture Alchemy:** Define components, interfaces, dependencies, constraints, and failure modes for physical, digital, or fictional ear systems.
+- **A2565 — Ear Capability Configuration Alchemy:** Bind each claimed capability to its source, conditions, parameters, evidence, and authorization rather than assuming all animal ears share one function.
+- **A2566 — Maintenance and Lifecycle Accountability Alchemy:** Track inspection, cleaning, repair, updates, replacement, decommissioning, and responsible ownership for designed or assistive systems.
+
+### Zodiac Stage XI — Aquarius: Systems, Networks, and Collective Intelligence
+
+- **A2567 — Multisensory Integration Alchemy:** Model interactions between auditory input and vision, balance, touch, proprioception, and contextual information without conflating the senses.
+- **A2568 — Distributed Auditory Sensor Coordination Alchemy:** Specify synchronized multi-sensor or multi-ear representations with source authentication, timing, calibration, and privacy boundaries.
+- **A2569 — Interoperable Ear Trait Representation Alchemy:** Define portable descriptors for morphology, function, evidence, consent, and fictional status across C2O, UNIVERSALIS, UNIVERSALINS, and Guardians.
+
+### Zodiac Stage XII — Pisces: Completion, Restoration, and Renewal
+
+- **A2570 — Auricular Restoration and Adaptation Alchemy:** Model safe restoration, adjustment, or redesign after damage, discomfort, obsolescence, or changed user requirements.
+- **A2571 — Auditory Fatigue and Recovery Alchemy:** Account for rest, sensory load, recovery intervals, and escalation to appropriate human support when real hearing concerns arise.
+- **A2572 — Animal Ear Lifecycle and Retirement Alchemy:** Define end-of-life handling, archival status, removal, replacement, and respectful retirement of physical or digital representations.
+
+## Animal Ear Prevention, Protection, Detection, Correction, Recovery, and Restoration Alchemies
+
+- **A2573 — Hearing Overclaim Prevention Alchemy:** Prevent morphology or fictional labels from being presented as proof of superhuman hearing, echolocation, perfect localization, or other unmeasured capabilities.
+- **A2574 — Sensory Overload Prevention Alchemy:** Reduce harmful exposure and overload through proportionate thresholds, breaks, user controls, and accessible fallback modes.
+- **A2575 — Acoustic Injury and Exposure Protection Alchemy:** Protect against excessive sound levels and unsafe exposure; do not encourage testing hearing at hazardous volumes.
+- **A2576 — Ear Injury and Infection Safeguarding Alchemy:** Identify risk indicators and direct real-world health concerns to appropriate qualified care; do not provide diagnosis or substitute for treatment.
+- **A2577 — Non-Consensual Listening and Surveillance Prevention Alchemy:** Prohibit covert audio capture, unauthorized monitoring, and use of sensory capability claims to justify privacy violations.
+- **A2578 — Emotional Inference and Expression Misreading Prevention Alchemy:** Prevent ear posture, shape, or movement from being treated as definitive evidence of emotion, consent, deception, or intent.
+- **A2579 — Species Stereotype and Dehumanization Prevention Alchemy:** Prevent animal-ear motifs from being used to assign worth, intelligence, temperament, threat, or social status to real people.
+- **A2580 — Unsafe Modification and Attachment Prevention Alchemy:** Require risk review, safe fit, material compatibility, and informed consent; prohibit coercive or hazardous alteration.
+- **A2581 — Sensory Data Minimization and Access Control Alchemy:** Minimize collection and retention of audio and derived sensory data, enforce purpose limitation, and restrict access.
+- **A2582 — Auditory Spoofing and Manipulation Detection Alchemy:** Detect misleading synthetic audio, masking, replay, and adversarial sound while communicating uncertainty and preserving human review.
+- **A2583 — Accessibility and Sensory Difference Protection Alchemy:** Prevent systems from assuming one hearing profile; provide captions, visual alerts, adjustable audio, and equivalent non-audio pathways.
+- **A2584 — Animal Ear Trait Accountability and Appeal Alchemy:** Provide correction, provenance review, challenge, and removal pathways for inaccurate, unwanted, or harmful classifications.
+
+## Ecosystem Application Profiles
+
+- **ANEAR-C2O-001 — C2O Animal Ears Governance Profile:** Apply private-source governance to ear-related models, sensor permissions, safety controls, evidence, audit trails, and data minimization. Private implementation details remain within C2O.
+- **ANEAR-UNI-001 — UNIVERSALIS Animal Ears Interoperability Profile:** Publish open, vendor-neutral descriptors and interfaces for morphology, capability claims, evidence status, accessibility, and consent without exposing C2O private controls.
+- **ANEAR-INS-001 — UNIVERSALINS Non-Personal Support Profile:** Provide bounded, non-personal assistance for accessibility, auditory interface configuration, information, and user-authorized coordination; do not infer a person's identity or inner state from ear traits.
+- **ANEAR-GRD-001 — UNIVERSALIN Guardians Personal Support Profile:** Support the individual human's chosen preferences, accessibility, privacy, and wellbeing under explicit authorization; preserve autonomy and the right to refuse or discontinue.
+
+## Defensive Harm-Pattern Classifications
+
+These classifications are for recognition, prevention, detection, containment, and remedy only.
+
+- **ANEARX001 — Auditory Capability Fabrication:** Claiming unsupported hearing ranges, perfect detection, or supernatural auditory performance.
+- **ANEARX002 — Covert Acoustic Surveillance:** Capturing or monitoring sound without valid authorization or awareness.
+- **ANEARX003 — Sensory Overload Exploitation:** Deliberately exposing a person or system to harmful or overwhelming sound.
+- **ANEARX004 — Expressive Signal Coercion:** Treating involuntary or ambiguous ear movement as consent, confession, emotional proof, or obedience.
+- **ANEARX005 — Animal-Trait Dehumanization:** Using animal-ear appearance to demean, objectify, stereotype, or deny equal dignity.
+- **ANEARX006 — Unsafe Auricular Modification:** Applying coercive, hazardous, or inadequately reviewed alteration or attachment.
+- **ANEARX007 — Auditory Spoofing and Misattribution:** Using synthetic, replayed, or manipulated sound to deceive or frame a person or system.
+- **ANEARX008 — Sensory Data Misuse:** Retaining, sharing, profiling, or repurposing auditory data beyond consented and legitimate purposes.
+
+## Cross-Domain Integration Rules
+
+- **Body Alchemy:** Covers external ear morphology, tissue, movement, comfort, protection, and biological or designed structure.
+- **Heart Alchemy:** Covers expressive communication and the emotional context of signals, while forbidding deterministic emotion inference.
+- **Mind Alchemy:** Covers auditory perception, attention, localization, learning, and interpretation, with measurable limits.
+- **Soul Alchemy:** Covers chosen identity, personal meaning, self-expression, and narrative representation without assigning metaphysical status.
+- **Spirit Alchemy:** Covers symbolic, cultural, mythological, and fictional animal-ear motifs, clearly labelled as interpretive or creative.
+- **Consciousness Alchemy:** Covers awareness and integration of auditory and multisensory information, distinguishing subjective report from measured function.
+- **Operating System Alchemy:** Covers device sensors, drivers, permission controls, secure audio routing, calibration, accessibility, and lifecycle governance.
+- **Application Alchemy:** Covers audio interfaces, avatar representations, user settings, captions, visual equivalents, consent flows, and safe data handling.
+
+## Cross-Repository and Entity Rules
+
+- Apply the same public-safe taxonomy definitions in C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App, while keeping C2O private implementation, keys, policies, and incident data out of public repositories.
+- C2O and UNIVERSALIS remain the two intelligences and share the underlying OS/App architecture with separate private-source/company and public/open-source governance.
+- UNIVERSALINS remain non-personal assistants. UNIVERSALIN Guardians remain personal human assistants/guardians. These profiles do not create additional top-level intelligences.
+- A taxonomy entry is a conceptual classification, not proof of biological feasibility, medical benefit, implemented functionality, or scientific validation.
+- Do not infer a real person's species, ancestry, health, hearing ability, personality, emotions, or consent from ear shape or an animal-ear representation.
+
+## Maintenance Record for v0.22.0
+
+This expansion adds **56 uniquely identified records**: **48 A-numbered Alchemies** (A2537–A2584), comprising 36 core Alchemies and 12 prevention/protection/correction/recovery Alchemies; **4 ecosystem profiles** (ANEAR-C2O-001 through ANEAR-GRD-001); and **8 defensive harm-pattern classifications** (ANEARX001–ANEARX008). The A-numbered sequence now reaches **A2584**. This identifier ceiling is not the cumulative count of all taxonomy records. Taxonomy inclusion does not establish implementation or scientific validation.
+
+# Animal-Induced Powers Alchemy Expansion — v0.23.0
+
+## Source interpretation and evidence boundary
+
+Source reference: https://powerlisting.fandom.com/wiki/Trait:Animal_Induced_Powers
+
+The source frames Animal-Induced Powers as a fictional acquisition pathway in which contact or experience involving an animal or animal-derived material grants powers, skills, or enhancements. Examples of narrative catalysts include bites, touch, remote influence, infection, genetic mutation, radioactive exposure, mystical influence, and extraterrestrial or scientifically altered substances. It identifies possible instability, unwanted outcomes, aversion, disfigurement, dependency, and physical or mental harm.
+
+This source is a creative taxonomy prompt, not scientific evidence that supernatural abilities can be acquired from animals. Real-world exposures, bites, infections, toxins, allergens, radiation, and animal-derived materials can cause injury or disease; this taxonomy does not recommend exposure, experimentation, ingestion, injection, or self-modification.
+
+## Governing distinctions
+
+- **Acquisition origin:** the animal, animal-derived material, organism, information, or fictional force associated with the catalyst.
+- **Transmission vector:** the route by which the catalyst is encountered, such as bite, touch, inhalation, ingestion, injection, infection, environmental exposure, or remote fictional influence.
+- **Catalyst event:** the narrative or modeled event that initiates the change.
+- **Transformation process:** the fictional, modeled, or technically specified mechanism by which a change occurs.
+- **Outcome:** the resulting capability, physiology, behavior, affinity, bond, or other change.
+- **Control and stability:** whether the outcome can be initiated, regulated, suspended, reversed, or safely contained.
+- **Evidence class:** fictional depiction, hypothetical model, empirical biological observation, tested implementation, or verified result. These classes must never be conflated.
+
+Animal-Induced Powers is an acquisition-origin family. It may lead to Animal Physiology, Animal Imitation, Animal Ears, Animal Limbs, Animal Senses, Animal Conduit, Animalia Symbiosis, Animal Empowerment, or other capabilities, but none of those outcomes is automatic.
+
+## Core Animal-Induced Powers Alchemies — Zodiac stages
+
+### Zodiac Stage I — Aries: Initiation and Catalyst
+
+- **A2585 — Animal Catalyst Origin Alchemy:** Identify the animal, animal-derived material, organism, or fictional animal-associated force proposed as the origin of an acquired trait.
+- **A2586 — Animal Catalyst Event Alchemy:** Describe the initiating event, its sequence, context, duration, and causal assumptions without presenting fictional causation as fact.
+- **A2587 — Animal Catalyst Vector Alchemy:** Classify the modeled contact or transmission route, including bite, touch, transfer, infection, inhalation, ingestion, injection, environmental exposure, or remote influence.
+- **A2588 — Animal-Origin Power Acquisition Alchemy:** Model the transition from catalyst event to claimed acquired capability, recording prerequisites, uncertainties, and alternative explanations.
+
+### Zodiac Stage II — Taurus: Compatibility and Foundation
+
+- **A2589 — Animal Catalyst Compatibility Alchemy:** Model compatibility between the catalyst and the recipient within an explicitly fictional or validated technical framework; never infer compatibility from species stereotypes.
+- **A2590 — Cross-Species Trait Translation Alchemy:** Map an animal-associated feature into a recipient-compatible representation while documenting biological differences and impossible assumptions.
+- **A2591 — Animal-Derived Material Provenance Alchemy:** Track the origin, composition, handling, chain of custody, and ethical sourcing of animal-derived materials used in fictional or research models.
+- **A2592 — Acquired Trait Embodiment Alchemy:** Classify whether an outcome is physiological, sensory, behavioral, cognitive, energetic, symbolic, technological, or purely representational.
+
+### Zodiac Stage III — Gemini: Transfer and Connection
+
+- **A2593 — Animal Trait Transfer Alchemy:** Model fictional transfer of a defined animal-associated trait, with explicit donor, recipient, scope, and transfer boundaries.
+- **A2594 — Animal-Origin Information Imprinting Alchemy:** Represent acquired knowledge or behavioral patterns attributed to an animal catalyst, distinguishing learning, memory, conditioning, and fictional imprinting.
+- **A2595 — Animal Power Link Acquisition Alchemy:** Model a new connection to an animal, animal-derived source, or animal-associated system, including authorization, directionality, and termination.
+- **A2596 — Multi-Catalyst Interaction Alchemy:** Analyze fictional outcomes arising from multiple animal catalysts, including conflicts, interference, combined effects, and uncertainty.
+
+### Zodiac Stage IV — Cancer: Continuity and Care
+
+- **A2597 — Acquired Trait Stabilization Alchemy:** Define fictional or engineered stability criteria, monitoring, safe-state behavior, and escalation conditions for an acquired trait.
+- **A2598 — Animal Catalyst Dependency Mapping Alchemy:** Identify whether a modeled capability depends on continued proximity, a source, a substance, a bond, an environmental condition, or recurring exposure.
+- **A2599 — Acquired Trait Continuity Alchemy:** Model persistence, interruption, dormancy, loss, and restoration of an acquired trait without presuming permanence.
+- **A2600 — Recipient Wellbeing and Recovery Alchemy:** Account for physical and psychological wellbeing, recovery, user-reported effects, and access to appropriate human support.
+
+### Zodiac Stage V — Leo: Expression and Capability
+
+- **A2601 — Animal-Derived Capability Expression Alchemy:** Describe the actual function or fictional ability resulting from an animal catalyst, independently of its acquisition story.
+- **A2602 — Animal Trait Manifestation Alchemy:** Model visible or functional manifestations such as animal-like morphology, senses, movement, protection, or other explicitly scoped traits.
+- **A2603 — Acquired Capability Configuration Alchemy:** Specify activation conditions, intensity, duration, permitted uses, user controls, and known limitations.
+- **A2604 — Animal Catalyst Outcome Diversity Alchemy:** Represent different possible outcomes from similar catalysts without treating one fictional example as a universal rule.
+
+### Zodiac Stage VI — Virgo: Analysis and Verification
+
+- **A2605 — Catalyst-to-Outcome Causal Trace Alchemy:** Record the proposed causal chain from source to event, mechanism, and outcome, including confounders and alternative explanations.
+- **A2606 — Acquired Capability Assessment Alchemy:** Define measurable performance criteria for any testable capability and distinguish observation from interpretation.
+- **A2607 — Animal-Origin Mechanism Comparison Alchemy:** Compare infection, mutation, symbiosis, infusion, inheritance, exposure, bestowal, and other proposed mechanisms without collapsing their differences.
+- **A2608 — Acquisition Evidence and Uncertainty Alchemy:** Assign evidence status, provenance, confidence, limitations, and falsification criteria to each acquisition claim.
+
+### Zodiac Stage VII — Libra: Consent and Ethical Balance
+
+- **A2609 — Catalyst Consent and Autonomy Alchemy:** Require informed, voluntary, revocable consent for any real-world research, data use, intervention, or modeled personal transformation.
+- **A2610 — Animal Welfare and Non-Exploitation Alchemy:** Protect animals from cruelty, coercion, harmful experimentation, and unnecessary extraction or exposure.
+- **A2611 — Recipient Outcome Choice Alchemy:** Preserve the recipient's right to refuse, discontinue, reject, or seek reversal of an unwanted fictional or designed outcome.
+- **A2612 — Benefit-Risk Proportionality Alchemy:** Evaluate claimed benefits against physical, psychological, ecological, social, privacy, and dependency risks.
+
+### Zodiac Stage VIII — Scorpio: Transformation and Containment
+
+- **A2613 — Animal-Origin Transformation Alchemy:** Model the stages, scope, triggers, reversibility, and failure conditions of a fictional animal-derived transformation.
+- **A2614 — Acquired Trait Conflict Resolution Alchemy:** Resolve incompatible traits, competing catalysts, unstable combinations, and contradictory control conditions.
+- **A2615 — Animal Catalyst Containment Alchemy:** Define safe isolation, exposure prevention, access boundaries, and incident response for hazardous real-world materials or fictional unstable catalysts.
+- **A2616 — Unintended Transformation Interruption Alchemy:** Specify safe interruption and stabilization pathways for unwanted or runaway modeled transformations, without implying that real exposures can be self-treated.
+
+### Zodiac Stage IX — Sagittarius: Adaptation and Learning
+
+- **A2617 — Animal Trait Adaptation Alchemy:** Model adaptation of an acquired trait to new environments or tasks, with constraints and trade-offs explicitly documented.
+- **A2618 — Cross-Environment Capability Translation Alchemy:** Analyze how an animal-derived capability may behave differently across environmental conditions, including cases where it becomes ineffective or harmful.
+- **A2619 — Acquired Trait Learning and Mastery Alchemy:** Represent training, skill development, feedback, and learning curves separately from the initial catalyst event.
+- **A2620 — Animal Catalyst Knowledge Stewardship Alchemy:** Preserve source records, ethical context, limitations, and lessons learned for future research and fictional design.
+
+### Zodiac Stage X — Capricorn: Architecture and Governance
+
+- **A2621 — Animal-Induced Capability Architecture Alchemy:** Define components, interfaces, dependencies, control points, and failure modes for a modeled acquisition system.
+- **A2622 — Catalyst Lifecycle Governance Alchemy:** Govern sourcing, authorization, handling, activation, monitoring, retirement, and disposal across the catalyst lifecycle.
+- **A2623 — Acquired Trait Permission and Policy Alchemy:** Bind capabilities to explicit permissions, scope, user control, auditability, and revocation.
+- **A2624 — Acquisition Record and Audit Alchemy:** Maintain traceable records of catalyst provenance, assumptions, changes, tests, outcomes, incidents, and review decisions.
+
+### Zodiac Stage XI — Aquarius: Interoperability and Collective Systems
+
+- **A2625 — Multi-Source Trait Integration Alchemy:** Model integration of traits from multiple animal sources while preserving provenance, compatibility constraints, and separate evidence records.
+- **A2626 — Animal-Origin System Interoperability Alchemy:** Define portable, vendor-neutral descriptions for catalyst type, acquisition pathway, outcome, evidence, safeguards, and lifecycle state.
+- **A2627 — Distributed Catalyst Risk Coordination Alchemy:** Coordinate risk signals and safety controls across systems without sharing unnecessary personal, animal, or sensitive operational data.
+- **A2628 — Animal-Induced Capability Ecosystem Alchemy:** Map dependencies and effects across individuals, animals, environments, devices, applications, and governance systems.
+
+### Zodiac Stage XII — Pisces: Integration and Renewal
+
+- **A2629 — Acquired Trait Integration Alchemy:** Integrate a modeled acquired trait into the recipient's wider capabilities and constraints without erasing existing identity or autonomy.
+- **A2630 — Acquired Trait Reversal and Restoration Alchemy:** Define fictional or engineered reversal, removal, restoration, or safe retirement pathways, documenting when reversal is impossible or unverified.
+- **A2631 — Catalyst Dependency Release Alchemy:** Model safe disengagement from a catalyst source, recurring requirement, or bond while accounting for possible loss of the associated capability.
+- **A2632 — Animal-Induced Transformation Closure Alchemy:** Establish closure criteria, final status, residual-risk records, lessons learned, and post-event review.
+
+## Animal-Induced Powers Prevention, Protection, Detection, Correction, and Recovery Alchemies
+
+- **A2633 — Hazardous Animal Exposure Prevention Alchemy:** Prevent deliberate or accidental exposure to bites, pathogens, toxins, allergens, contaminated materials, and other biological hazards.
+- **A2634 — Uncontrolled Catalyst Event Prevention Alchemy:** Prevent unauthorized, unplanned, or poorly understood catalyst events through access control, risk review, and clear no-exposure rules.
+- **A2635 — Infection and Contagion Safeguarding Alchemy:** Prevent fictional infection tropes from being mistaken for safe procedures; real infection risks require established public-health and medical safeguards.
+- **A2636 — Mutation and Genetic Misuse Prevention Alchemy:** Prohibit unsafe or non-consensual genetic experimentation, coercive modification, and unsupported claims of controllable beneficial mutation.
+- **A2637 — Animal-Derived Toxin and Substance Safety Alchemy:** Prevent unsafe collection, preparation, ingestion, injection, or application of animal-derived substances.
+- **A2638 — Animal Welfare Harm Prevention Alchemy:** Prevent animal injury, exploitation, forced contact, trafficking, and harmful extraction undertaken to obtain a supposed capability.
+- **A2639 — Unwanted Trait and Disfigurement Harm Prevention Alchemy:** Identify and mitigate risks of unwanted bodily or representational changes, including coercion and stigmatization.
+- **A2640 — Catalyst Dependency and Withdrawal Risk Safeguarding Alchemy:** Identify dependency patterns in fictional or engineered models and require a safe, reviewed disengagement plan.
+- **A2641 — Acquired Capability Abuse Prevention Alchemy:** Prevent coercive, violent, exploitative, deceptive, or otherwise harmful use of acquired capabilities.
+- **A2642 — Animal Catalyst Causation Fraud Detection Alchemy:** Detect fabricated provenance, false causal claims, manipulated demonstrations, and unsupported promises of animal-derived enhancement.
+- **A2643 — Cross-Species Identity and Stigma Prevention Alchemy:** Prevent acquired animal traits or animal associations from being used to dehumanize, stereotype, exclude, or discriminate against people.
+- **A2644 — Incident Recovery and Independent Review Alchemy:** Provide accountable reporting, independent review, corrective action, remedy, and recovery pathways after catalyst-related harm.
+
+## Ecosystem Application Profiles
+
+- **ANIP-C2O-001 — C2O Animal-Induced Powers Governance Profile:** Apply private-source governance to catalyst authorization, provenance, sensitive risk controls, evidence, incident response, and audit trails. Private C2O implementation details remain private.
+- **ANIP-UNI-001 — UNIVERSALIS Animal-Induced Powers Interoperability Profile:** Publish open, vendor-neutral definitions for acquisition origin, vector, outcome, evidence status, permissions, safeguards, and lifecycle state without exposing C2O private controls.
+- **ANIP-INS-001 — UNIVERSALINS Non-Personal Support Profile:** Provide bounded, non-personal assistance for information, classification, evidence organization, accessibility, and user-authorized coordination. Do not direct users to expose themselves or animals to catalysts.
+- **ANIP-GRD-001 — UNIVERSALIN Guardians Personal Support Profile:** Support the individual human's informed choices, autonomy, privacy, wellbeing, and access to trusted human support. Guardians must not coerce exposure, transformation, experimentation, or acceptance of a trait.
+
+## Defensive Harm-Pattern Classifications
+
+These classifications support recognition, prevention, detection, containment, and remedy only.
+
+- **ANIPX001 — Coerced Catalyst Exposure:** Forcing or pressuring a person or animal into contact with a supposed catalyst.
+- **ANIPX002 — Hazardous Biological or Chemical Exposure:** Unsafe exposure to pathogens, toxins, allergens, contaminated animal materials, or other hazards.
+- **ANIPX003 — Animal Exploitation for Enhancement:** Harming, trafficking, or extracting from animals to obtain a claimed capability.
+- **ANIPX004 — Uncontrolled or Non-Consensual Transformation:** Initiating or sustaining an unwanted bodily, behavioral, or representational change.
+- **ANIPX005 — Catalyst Dependency Exploitation:** Creating or abusing dependency on an animal, substance, source, or recurring exposure.
+- **ANIPX006 — Acquired Capability Weaponization:** Using a claimed acquired trait to facilitate violence, coercion, intimidation, exploitation, or abuse.
+- **ANIPX007 — False Animal-Origin Enhancement Claims:** Misrepresenting evidence, provenance, mechanisms, outcomes, or safety to induce reliance or exposure.
+- **ANIPX008 — Animal-Linked Identity Stigmatization:** Dehumanizing or discriminating against people because of animal-derived or animal-associated traits.
+
+## Cross-Domain Integration Rules
+
+- **Body Alchemy:** Covers modeled physiological changes, anatomy, tissue, morphology, mobility, and physical capability outcomes. It does not establish biological feasibility.
+- **Heart Alchemy:** Covers emotional impact, attachment, aversion, trust, dependency, and the recipient's right to reject an outcome.
+- **Mind Alchemy:** Covers learning, memory, acquired knowledge, cognitive changes, interpretation, and the distinction between skill acquisition and fictional imprinting.
+- **Soul Alchemy:** Covers identity, continuity, self-understanding, and personal meaning without asserting metaphysical transformation as fact.
+- **Spirit Alchemy:** Covers symbolic, mythological, cultural, and fictional animal associations, clearly labelled as interpretive or creative.
+- **Consciousness Alchemy:** Covers awareness, agency, self-regulation, and integration of changes while preserving autonomy.
+- **Operating System Alchemy:** Covers catalyst-related device or system permissions, provenance, policy enforcement, monitoring, auditability, containment, and lifecycle governance.
+- **Application Alchemy:** Covers user-facing configuration, consent, disclosure, evidence presentation, reporting, accessibility, and safe interaction.
+
+## Relationship Map and Non-Duplication Rules
+
+- **Animal Ears Alchemy:** A possible resulting morphology; it is not itself an acquisition mechanism.
+- **Animal Limbs and Animal Physiology:** Possible resulting body traits; each outcome requires its own definition and evidence.
+- **Animal Imitation:** May describe replicated traits without transformation; distinguish it from permanent or temporary physiological change.
+- **Animal Conduit:** May describe channeling or linkage; distinguish an ongoing conduit from a one-time catalyst event.
+- **Animalia Symbiosis:** May describe a continuing reciprocal relationship; distinguish it from infection, coercive parasitism, or simple exposure.
+- **Animal Empowerment:** May describe an enhancement outcome; distinguish the result from the event or source that caused it.
+- **Experientially Induced Powers:** Parent acquisition family; Animal-Induced Powers is a source-specific specialization.
+- **Infection-Induced Powers, Radioactive Bite, and Power via Genetic Mutation:** Related mechanism-specific branches. Cross-reference them rather than copying their definitions or treating all animal catalysts as equivalent.
+- **Animal Inheritance and Ancestor Inheritance:** Distinct inherited-origin pathways; do not classify inheritance as a direct catalyst event unless a new exposure or transfer is actually part of the model.
+
+## Cross-Repository and Entity Rules
+
+- Apply the same public-safe taxonomy definitions in C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App, while keeping C2O private implementation, keys, policies, and incident data out of public repositories.
+- C2O and UNIVERSALIS remain the two intelligences and share the underlying OS/App architecture with separate private-source/company and public/open-source governance.
+- UNIVERSALINS remain non-personal assistants. UNIVERSALIN Guardians remain personal human assistants/guardians. These profiles do not create additional top-level intelligences.
+- A taxonomy entry is a conceptual classification, not proof of biological feasibility, medical benefit, implemented functionality, or scientific validation.
+- Never recommend animal bites, pathogen exposure, toxin exposure, radiation exposure, genetic manipulation, or ingestion/injection of animal-derived substances as a means of acquiring powers.
+- Real-world exposure incidents should be handled through appropriate emergency, medical, veterinary, poison-control, or public-health channels rather than fictional transformation protocols.
+
+## Maintenance Record for v0.23.0
+
+This expansion adds **72 uniquely identified records**: **60 A-numbered Alchemies** (A2585–A2644), comprising 48 core Alchemies and 12 prevention/protection/correction/recovery Alchemies; **4 ecosystem profiles** (ANIP-C2O-001 through ANIP-GRD-001); and **8 defensive harm-pattern classifications** (ANIPX001–ANIPX008). The A-numbered sequence now reaches **A2644**. This identifier ceiling is not the cumulative count of all taxonomy records. Taxonomy inclusion does not establish implementation or scientific validation.
+
+# Animal Limbs Alchemy Expansion — v0.24.0
+
+## Scope and source interpretation
+The source concept covers possessing, transforming, or creating animal-derived limbs and limb-like appendages. This expansion treats Animal Limbs as a morphology, functional-anatomy, motor-control, and whole-body integration domain. It is distinct from Animal-Induced Powers (an acquisition pathway) and Animal Ears (a specialized anatomical feature). Related domains include Animal Morphing, Animalia Manipulation, Animal Physiology, Animal Mimicry, Body Part Substitution, Partial Transformation, and animal-based locomotor or sensory capabilities.
+
+The taxonomy is a fictional and conceptual design framework. The source material is not biological, medical, engineering, or scientific evidence that such transformations are possible. It must not recommend animal exposure, transplantation, genetic modification, toxin exposure, or hazardous procedures.
+
+## Core Animal Limbs Alchemies
+### Zodiac Stage — Aries: Initiation and controlled activation
+- **A2645 — Limb-form initiation:** Initiates a selected animal-limb form through a deliberate, bounded transition.
+- **A2646 — Selective appendage manifestation:** Manifests only the selected limb while preserving unaffected anatomy.
+- **A2647 — Transformation readiness calibration:** Checks fictional readiness conditions, limits, and safe transition boundaries.
+- **A2648 — Activation consent and intent lock:** Requires explicit, informed intent before activation and rejects coerced activation.
+### Zodiac Stage — Taurus: Structure and stability
+- **A2649 — Limb structural integrity:** Maintains coherent load-bearing structure, joint alignment, and proportional support.
+- **A2650 — Adaptive joint articulation:** Maps animal-specific joint motion to compatible, controllable movement.
+- **A2651 — Mass and balance compensation:** Balances altered limb mass, leverage, and center of gravity across the body.
+- **A2652 — Tissue boundary coherence:** Maintains defined interfaces between transformed and unchanged anatomy.
+### Zodiac Stage — Gemini: Coordination and dexterity
+- **A2653 — Bilateral limb coordination:** Coordinates paired and asymmetric animal limbs without unintended interference.
+- **A2654 — Fine motor translation:** Translates motor commands into the movement vocabulary of an animal-derived limb.
+- **A2655 — Multi-appendage coordination:** Coordinates additional limbs while preserving clear control ownership.
+- **A2656 — Tactile feedback integration:** Maps touch, pressure, grip, and contact feedback into interpretable signals.
+### Zodiac Stage — Cancer: Protection and care
+- **A2657 — Limb vulnerability awareness:** Identifies fictional structural and environmental vulnerabilities of each selected limb form.
+- **A2658 — Protective surface adaptation:** Provides proportionate protective surfaces without obstructing movement or sensation.
+- **A2659 — Injury-limiting movement:** Constrains movement patterns that would place the limb or connected body at unreasonable risk.
+- **A2660 — Care-compatible reversion:** Supports controlled return to a stable baseline form for inspection, rest, or care.
+### Zodiac Stage — Leo: Strength and expression
+- **A2661 — Proportionate force expression:** Expresses limb strength within defined whole-body load and control limits.
+- **A2662 — Grip and contact modulation:** Adjusts grip, adhesion, and contact force to avoid unintended damage.
+- **A2663 — Claw and talon governance:** Controls extension, retraction, orientation, and safe handling of claws or talons.
+- **A2664 — Non-coercive physical expression:** Separates assistive or expressive use from intimidation, restraint, or forced bodily control.
+### Zodiac Stage — Virgo: Precision and adaptation
+- **A2665 — Species-feature selection:** Selects bounded limb features from an animal reference without importing unrelated traits.
+- **A2666 — Anatomical proportion calibration:** Maintains coherent scale, reach, articulation, and load distribution.
+- **A2667 — Task-fit limb configuration:** Matches configuration to a legitimate task while respecting environmental and accessibility constraints.
+- **A2668 — Transformation anomaly detection:** Detects mismatched, incomplete, or unintended features and initiates safe containment or reversion.
+### Zodiac Stage — Libra: Balance and reciprocity
+- **A2669 — Whole-body kinetic balance:** Coordinates transformed limbs with posture, balance, and compensatory movement.
+- **A2670 — Paired capability equilibrium:** Prevents enhancement to one limb from destabilizing its counterpart or the wider body.
+- **A2671 — Shared-space movement calibration:** Adapts reach, turning radius, and movement to avoid unintended contact.
+- **A2672 — Reciprocal interaction boundaries:** Preserves other beings' autonomy and bodily boundaries during limb use.
+### Zodiac Stage — Scorpio: Transformation and containment
+- **A2673 — Localized morphological transformation:** Restricts animal-derived morphology to explicitly selected anatomical regions.
+- **A2674 — Transformation-state isolation:** Prevents one limb transformation from propagating into unrelated systems or identities.
+- **A2675 — Reversible form containment:** Maintains a defined route back to the prior stable configuration when reversion is available.
+- **A2676 — Unwanted appendage suppression:** Prevents or contains involuntary, uncontrolled, or unrequested appendage manifestation.
+### Zodiac Stage — Sagittarius: Adaptation and learning
+- **A2677 — Locomotor pattern adaptation:** Adapts gait, climbing, swimming, jumping, or other locomotor patterns to selected limbs.
+- **A2678 — Environmental compatibility mapping:** Checks compatibility of the selected limb form with the intended environment.
+- **A2679 — Progressive motor familiarization:** Supports staged, low-risk familiarization with unfamiliar movement patterns in simulation.
+- **A2680 — Capability limit disclosure:** Makes limitations, trade-offs, and uncertainty explicit.
+### Zodiac Stage — Capricorn: Architecture and governance
+- **A2681 — Limb configuration registry:** Records selected forms, permitted configurations, constraints, and provenance.
+- **A2682 — Transformation permission architecture:** Applies explicit authorization and scope boundaries to transformation functions.
+- **A2683 — Functional dependency mapping:** Maps dependencies among limb structure, sensory feedback, balance, and mobility.
+- **A2684 — Change audit and rollback:** Records configuration changes and supports restoration to the last stable authorized state.
+### Zodiac Stage — Aquarius: Interoperability and collective systems
+- **A2685 — Assistive interface compatibility:** Keeps transformed-limb control compatible with assistive interfaces and accessible interaction.
+- **A2686 — Cross-form motor translation:** Translates control intent between different limb configurations without assuming identical mechanics.
+- **A2687 — Tool and device compatibility:** Evaluates safe interaction with tools, wearables, interfaces, and surrounding systems.
+- **A2688 — Collaborative safety signaling:** Communicates movement limits and interaction boundaries without disclosing private bodily information.
+### Zodiac Stage — Pisces: Integration and renewal
+- **A2689 — Integrated sensory coherence:** Integrates limb-derived sensory inputs without overwhelming baseline awareness.
+- **A2690 — Restorative form transition:** Supports gradual, bounded transitions between animal-derived and baseline limb forms.
+- **A2691 — Post-transformation reconciliation:** Reconciles movement, balance, sensory interpretation, and body-schema expectations.
+- **A2692 — Identity and agency continuity:** Preserves user agency, identity, and decision authority across transformation states.
+
+## Animal Limbs Prevention, Protection, Detection, Correction, and Recovery Alchemies
+- **A2693 — Involuntary transformation prevention:** Prevents unrequested activation and requires explicit, revocable authorization.
+- **A2694 — Morphological spread containment:** Detects and contains changes extending beyond the selected anatomical boundary.
+- **A2695 — Structural overload prevention:** Constrains force, mass, reach, and load to defined whole-body support limits.
+- **A2696 — Neuro-motor conflict protection:** Detects conflicting control signals or loss of voluntary command and enters a safe bounded state.
+- **A2697 — Pain and injury signal protection:** Preserves warning signals and routes injury or distress to a safe stop and reversion pathway.
+- **A2698 — Toxic and venomous feature isolation:** Disables harmful secretion, venom, toxin, or contaminant functions in fictional animal-derived features.
+- **A2699 — Pathogen and biohazard exclusion:** Excludes pathogen transfer, biological contamination, and unsafe animal-material exposure.
+- **A2700 — Weaponization and coercion prevention:** Blocks non-consensual restraint, assault, intimidation, or forced transformation.
+- **A2701 — Sensory overload mitigation:** Limits excessive or intrusive sensory inputs and preserves accessible user control.
+- **A2702 — Transformation failure recovery:** Provides a controlled fallback for incomplete, interrupted, or unstable transformation states.
+- **A2703 — Privacy and biometric minimization:** Restricts bodily, sensory, and transformation-state data to the minimum authorized scope.
+- **A2704 — Independent safety review and audit:** Requires traceable review of changes, safety events, and unresolved hazards before expansion.
+
+## Ecosystem Application Profiles
+- **ALIM-C2O-001 — C2O private-source governance: confidential implementation controls, authorization boundaries, auditability, and controlled release review; private keys, policies, and incident data remain within C2O.**
+- **ALIM-UNI-001 — UNIVERSALIS public/open-source: inspectable, portable, local-first contracts and safety behavior without exposing C2O private controls.**
+- **ALIM-INS-001 — UNIVERSALINS support: non-personal assistant support for explanation, accessibility, documentation, and safety checks; no override of human agency or OS/App authority.**
+- **ALIM-GRD-001 — UNIVERSALIN Guardians support: consent-based assistance for a person's chosen Guardian; no authorization for coercive transformation or bodily control.**
+
+## Defensive Harm-Pattern Classifications
+- **ALIMX001 — Unconsented limb transformation or forced activation.**
+- **ALIMX002 — Unbounded anatomical spread or uncontrolled appendage generation.**
+- **ALIMX003 — Structural mismatch, overload, instability, or movement-related injury.**
+- **ALIMX004 — Sensory intrusion, motor-command hijacking, or loss of voluntary control.**
+- **ALIMX005 — Toxic, venomous, infectious, or hazardous biological feature transfer.**
+- **ALIMX006 — Coercive restraint, assault, intimidation, or weaponization.**
+- **ALIMX007 — Unauthorized collection, inference, or disclosure of biometric and transformation-state data.**
+- **ALIMX008 — Irreversible, deceptive, or unaudited transformation-state changes.**
+
+## Cross-domain integration rules
+- **Body:** structural integrity, mobility, balance, proportion, sensory and motor coordination, and accessible reversion.
+- **Heart:** emotional safety, dignity, consent, distress recognition, and non-coercive expression.
+- **Mind:** motor planning, attention, body-schema adaptation, sensory interpretation, and transparent limits.
+- **Soul:** continuity of identity, personal meaning, and protection against imposed identity changes.
+- **Spirit:** agency, autonomy, purpose, and voluntary use; no authority to override consent.
+- **Consciousness:** awareness of transformation state, sensory integration, intentional control, and recoverable state transitions.
+- **OS and App:** enforceable permissions, safe interfaces, accessible controls, auditable configuration, privacy minimization, and separation of public contracts from private C2O implementation.
+
+## Relationship and non-duplication rules
+- Animal Limbs describes resulting or manifested anatomy and its operation; Animal-Induced Powers describes an acquisition pathway.
+- Animal Ears remains a specialized anatomical expansion; ear-specific capabilities are cross-referenced rather than duplicated.
+- Animal Morphing is the broader transformation domain; Animal Limbs is limited to limb and appendage morphology and function.
+- Animal Physiology may supply a reference feature set, but does not automatically grant every capability of a whole animal.
+- Animalia Manipulation and Animal Creation concern external animals or entities and are not interchangeable with transforming one's own limbs.
+- Distinguish transformation, generation, substitution, temporary manifestation, and persistent anatomy as separate states with explicit limits.
+- No entry implies a real-world medical intervention, biological procedure, or scientifically validated capability.
+
+## Safety and evidence boundaries
+- Require informed, voluntary, revocable user intent; reject coerced or hidden activation.
+- Preserve bodily autonomy, identity continuity, accessibility, privacy, and the right to stop or revert where applicable.
+- Use proportionate capability limits; do not automatically escalate mobility or assistive function into combat or weapon use.
+- Exclude harmful secretion, venom, toxin, pathogen, contamination, and hazardous exposure pathways.
+- Treat injury, pain, loss of control, and unstable transformation as stop conditions, not obstacles to override.
+- Taxonomy inclusion records a conceptual capability and safeguards; it does not establish implementation, effectiveness, or scientific validation.
+
+## Maintenance Record for v0.24.0
+This expansion adds **72 uniquely identified records**: **60 A-numbered Alchemies** (A2645–A2704), comprising **48 core Alchemies** (four for each of the 12 Zodiac stages) and **12 prevention/protection/detection/correction/recovery Alchemies**; **4 ecosystem profiles** (ALIM-C2O-001 through ALIM-GRD-001); and **8 defensive harm-pattern classifications** (ALIMX001–ALIMX008). The A-numbered sequence now reaches **A2704**. This identifier ceiling is not the cumulative count of all taxonomy records. Taxonomy inclusion does not establish implementation or scientific validation.
+
+
+# Antler Protrusion Alchemy Expansion — v0.25.0
+
+**Source concept:** Antler Protrusion — possession or controlled generation of antlers on the head or another body region; a morphology-specific variation associated with Natural Weaponry and cervid physiology. This fictional-source taxonomy separates antlers from true horns, Animal Limbs, and the acquisition mechanism in Animal-Induced Powers.
+
+**Scope:** antler morphology, manifestation, growth-state control, structural behavior, nonviolent utility, reversible transformation, accessibility, and safeguards. Antlers are not assumed to be safe weapons; head-first impact, breakage, snagging, and balance changes are explicit hazards.
+
+## Core Antler Protrusion Alchemies
+
+- **A2705 — Base Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; controlled biological-form definition, placement, and baseline fit.
+- **A2706 — Base Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; controlled biological-form definition, placement, and baseline fit.
+- **A2707 — Base Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; controlled biological-form definition, placement, and baseline fit.
+- **A2708 — Base Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; controlled biological-form definition, placement, and baseline fit.
+- **A2709 — Meta Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; meaning, distinction, and relationship mapping for antler forms.
+- **A2710 — Meta Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; meaning, distinction, and relationship mapping for antler forms.
+- **A2711 — Meta Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; meaning, distinction, and relationship mapping for antler forms.
+- **A2712 — Meta Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; meaning, distinction, and relationship mapping for antler forms.
+- **A2713 — Super Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; coherent multi-function design across support, defense, and expression.
+- **A2714 — Super Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; coherent multi-function design across support, defense, and expression.
+- **A2715 — Super Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; coherent multi-function design across support, defense, and expression.
+- **A2716 — Super Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; coherent multi-function design across support, defense, and expression.
+- **A2717 — Hyper Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; advanced adaptive geometry and context-sensitive configuration.
+- **A2718 — Hyper Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; advanced adaptive geometry and context-sensitive configuration.
+- **A2719 — Hyper Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; advanced adaptive geometry and context-sensitive configuration.
+- **A2720 — Hyper Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; advanced adaptive geometry and context-sensitive configuration.
+- **A2721 — Ultra Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; high-capacity but bounded structural resilience and precision.
+- **A2722 — Ultra Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; high-capacity but bounded structural resilience and precision.
+- **A2723 — Ultra Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; high-capacity but bounded structural resilience and precision.
+- **A2724 — Ultra Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; high-capacity but bounded structural resilience and precision.
+- **A2725 — Magic Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; symbolic or fictional manifestation with explicit nonliteral status.
+- **A2726 — Magic Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; symbolic or fictional manifestation with explicit nonliteral status.
+- **A2727 — Magic Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; symbolic or fictional manifestation with explicit nonliteral status.
+- **A2728 — Magic Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; symbolic or fictional manifestation with explicit nonliteral status.
+- **A2729 — Quantum Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; branching-state modeling for reversible and uncertain manifestations.
+- **A2730 — Quantum Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; branching-state modeling for reversible and uncertain manifestations.
+- **A2731 — Quantum Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; branching-state modeling for reversible and uncertain manifestations.
+- **A2732 — Quantum Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; branching-state modeling for reversible and uncertain manifestations.
+- **A2733 — Transformative Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; integrated reversible transformation and identity continuity.
+- **A2734 — Transformative Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; integrated reversible transformation and identity continuity.
+- **A2735 — Transformative Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; integrated reversible transformation and identity continuity.
+- **A2736 — Transformative Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; integrated reversible transformation and identity continuity.
+- **A2737 — Quintessential Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; minimal, stable, purpose-limited antler expression.
+- **A2738 — Quintessential Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; minimal, stable, purpose-limited antler expression.
+- **A2739 — Quintessential Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; minimal, stable, purpose-limited antler expression.
+- **A2740 — Quintessential Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; minimal, stable, purpose-limited antler expression.
+- **A2741 — Manifestation Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; generation, growth, branching, and controlled retraction.
+- **A2742 — Manifestation Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; generation, growth, branching, and controlled retraction.
+- **A2743 — Manifestation Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; generation, growth, branching, and controlled retraction.
+- **A2744 — Manifestation Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; generation, growth, branching, and controlled retraction.
+- **A2745 — Elemental Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; material, energy, environmental, and interaction modeling.
+- **A2746 — Elemental Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; material, energy, environmental, and interaction modeling.
+- **A2747 — Elemental Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; material, energy, environmental, and interaction modeling.
+- **A2748 — Elemental Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; material, energy, environmental, and interaction modeling.
+- **A2749 — Final Quintessential Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; whole-system coherence, review, and safe termination.
+- **A2750 — Final Quintessential Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; whole-system coherence, review, and safe termination.
+- **A2751 — Final Quintessential Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; whole-system coherence, review, and safe termination.
+- **A2752 — Final Quintessential Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; whole-system coherence, review, and safe termination.
+
+## Prevention, Protection, Detection, Correction, and Recovery Alchemies
+
+- **A2753 — Involuntary Manifestation Prevention Alchemy:** prevent unrequested, deceptive, coercive, or non-consensual antler generation or extension; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2754 — Anatomical Placement Protection Alchemy:** constrain placement and growth to explicitly authorized, non-injurious conceptual boundaries; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2755 — Growth-Rate and Load Limiting Alchemy:** bound growth rate, mass, leverage, and structural loading to avoid uncontrolled strain; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2756 — Breakage and Fragment Hazard Detection Alchemy:** identify modeled cracking, breakage, sharp fragments, and secondary injury risks; trigger safe stop states; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2757 — Impact and Collision Prevention Alchemy:** detect clearance conflicts and discourage head-first impact or hazardous charging behavior; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2758 — Snagging and Entanglement Protection Alchemy:** identify entanglement risks involving clothing, equipment, vegetation, doors, and confined spaces; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2759 — Balance and Mobility Compensation Alchemy:** detect modeled shifts in center of mass, posture, neck loading, and movement interference; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2760 — Sensory and Neurological Overload Prevention Alchemy:** limit intrusive sensation, pain, disorientation, and overload; do not suppress warning signals; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2761 — Weaponization and Coercion Prevention Alchemy:** block coercive use, forced display, intimidation, and escalation into harmful weapon behavior; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2762 — Identity, Privacy, and Reversibility Protection Alchemy:** preserve user-defined identity, privacy, informed consent, and revocation/retraction choices; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2763 — Failure Containment and Safe Retraction Alchemy:** provide a bounded stop, stabilization, and non-injurious retraction pathway for modeled failures; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2764 — Independent Audit and Recovery Verification Alchemy:** record authorization, state transitions, hazards, corrections, unresolved risks, and recovery checks for review; retain auditability and never treat a safeguard bypass as successful completion.
+
+## Ecosystem Profiles
+
+- **ANTP-C2O-001 — C2O profile:** private-source governance, authorization, audit, and containment controls; no private keys, policies, or incident data are exposed through public contracts.
+- **ANTP-UNI-001 — UNIVERSALIS profile:** open, inspectable, independently operable public contracts for consent, safe state transitions, accessibility, and verifiable evidence.
+- **ANTP-INS-001 — UNIVERSALINS profile:** non-personal assistants may explain, model, and check authorized states but cannot override human consent or safety stops.
+- **ANTP-GRD-001 — UNIVERSALIN Guardians profile:** personal human-assistant support is user-directed, revocable, privacy-preserving, and never coercive.
+
+## Defensive Harm-Pattern Classifications
+
+- **ANTPX001 — Unconsented antler manifestation or forced transformation.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX002 — Uncontrolled growth, excessive mass, or structural overload.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX003 — Breakage, splintering, or fragment-related injury pathway.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX004 — Head-impact, collision, charging, or blunt-force misuse.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX005 — Snagging, entanglement, restraint, or mobility obstruction.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX006 — Pain, sensory overload, balance disruption, or neurological distress.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX007 — Coercive display, intimidation, weaponization, or forced combat.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX008 — Identity violation, privacy breach, unsafe persistence, or failed retraction.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+
+## Relationships and Non-duplication Rules
+
+- **Antler Protrusion** is the specialized morphology and manifestation family; **Animal Limbs** addresses limb morphology; **Animal-Induced Powers** addresses acquisition or induction pathways; **Animal Ears** addresses a distinct sensory anatomy family.
+- Relate to **Cervid Physiology** and **Ungulate Physiology** as broader physiological contexts, and to **Natural Weaponry**, **Appendage Generation**, **Animal Morphing**, **Animal Imitation**, **Partial Transformation**, and **Horn Protrusion** only where the modeled feature genuinely overlaps.
+- Antlers are branched bony structures in the fictional taxonomy; do not collapse them into unbranched horns or assume all horn-related properties transfer. Distinguish temporary generated constructs from persistent anatomy and from externally worn accessories.
+- Cross-domain links may reference Body, Heart, Mind, Soul, Spirit, Consciousness, OS, and App Alchemy families, but must preserve domain-specific scope and not imply that metaphorical or symbolic states are biological facts.
+
+## Safety and Evidence Boundaries
+
+- Require informed, voluntary, specific, and revocable authorization for every modeled manifestation or state change; default to no manifestation.
+- No real-world bodily modification, surgery, transplantation, genetic manipulation, animal exposure, or hazardous experimentation is implied or authorized.
+- Treat pain, injury, instability, collision risk, entanglement, impaired movement, and loss of control as stop conditions. Do not suppress warnings or optimize for injury.
+- Preserve accessibility, identity continuity, privacy, non-coercion, safe retraction, and independent human oversight. Defensive safeguards are mandatory taxonomy entries, not optional commentary.
+- This is a fictional/conceptual taxonomy, not medical, biological, engineering, or scientific validation, and not evidence that any capability is implementable.
+
+## Maintenance Record for v0.25.0
+
+This expansion adds **72 uniquely identified records**: **60 A-numbered Alchemies** (A2705–A2764), comprising **48 core Alchemies** (four for each of the 12 taxonomy stages) and **12 prevention/protection/detection/correction/recovery Alchemies**; **4 ecosystem profiles** (ANTP-C2O-001 through ANTP-GRD-001); and **8 defensive harm-pattern classifications** (ANTPX001–ANTPX008). The A-numbered sequence now reaches **A2764**. This identifier ceiling is not the cumulative count of all taxonomy records. Taxonomy inclusion does not establish implementation or scientific validation.
