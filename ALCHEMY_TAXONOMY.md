@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.19.0  
-**Status:** Living taxonomy; version 0.19.0 includes the Ancestor Inheritance Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
+**Version:** 0.20.0  
+**Status:** Living taxonomy; version 0.20.0 includes the Ancient Power Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -4646,3 +4646,89 @@ This expansion adds **52 taxonomy records**: **24 core Alchemies** (A2376–A239
 
 ## Maintenance Record for v0.19.0
 This expansion adds **52 taxonomy records**: **24 core Alchemies** (A2416–A2439), **16 safeguards** (A2440–A2455), **4 ecosystem profile entries** (one per participant), and **8 defensive harm-pattern classifications** (ANX001–ANX008). The A-numbered sequence now reaches **A2455**. This is an identifier ceiling, not a claim that every historical numbered entry is unique or that all taxonomy records are A-numbered. Cumulative totals remain subject to a separate full-document audit of unique entries, duplicate labels, profile entries, harm-pattern entries, and superseded records. Taxonomy inclusion does not establish feature implementation or scientific validation.
+
+
+# Ancient Power Alchemy Expansion — v0.20.0
+
+**Source basis:** Superpower Wiki, “Trait:Ancient Power” (fictional/supernatural power taxonomy), including its distinctions among ancient or primordial sources, ancient empowerment, relics, inherited forces, and unpredictable or difficult-to-control power. Related source concepts are treated as inspiration for bounded classifications, not as factual claims about real-world supernatural abilities.
+**Evidence status:** Conceptual taxonomy proposal; not a validated physical capability, implemented feature, or evidence of any person's possession of such powers.
+
+## Core Ancient Power Alchemies
+
+- **A2456 — Ancient Power Alchemy:** Classify a capability represented as originating in a remote historical, mythic, primordial, or pre-civilizational source; preserve the distinction between fictional premise, historical evidence, and verified mechanism.
+- **A2457 — Primordial Source Alchemy:** Model a claimed foundational source that a fictional system treats as preceding later forces, entities, or structures.
+- **A2458 — Ancient Force Channeling Alchemy:** Represent controlled access to a specified ancient-force source, with explicit source identity, authorization, operating boundary, and termination condition.
+- **A2459 — Ancient Empowerment Alchemy:** Model a temporary or persistent enhancement attributed to an ancient source, separating the source claim from measurable changes in capability.
+- **A2460 — Ancient Power Awakening Alchemy:** Describe the transition from dormant, inaccessible, or unrecognized source to an active state, including prerequisites and reversibility.
+- **A2461 — Ancient Power Attunement Alchemy:** Define compatibility and bounded interaction between a user or system and a claimed ancient source without presuming universal compatibility.
+- **A2462 — Ancient Power Provenance Alchemy:** Track the asserted origin, custody, historical chain, and evidence quality of an ancient capability or source.
+- **A2463 — Primordial Energy Interpretation Alchemy:** Translate fictional or symbolic descriptions of primordial energy into clearly labelled conceptual models without presenting them as measured physical energy.
+- **A2464 — Ancient Elemental Affinity Alchemy:** Classify ancient-source associations with elemental motifs while keeping symbolic elements distinct from scientific elements and physical processes.
+- **A2465 — Ancient Relic Interface Alchemy:** Model the safe, permissioned interaction between a user or system and an object represented as containing, focusing, or granting ancient power.
+- **A2466 — Ancient Artifact Custodianship Alchemy:** Preserve custody, provenance, access history, conservation needs, and legitimate stewardship of culturally or historically significant artifacts.
+- **A2467 — Ancient Knowledge Recovery Alchemy:** Recover and interpret surviving historical information while recording uncertainty, source context, translation limits, and competing interpretations.
+- **A2468 — Ancient Technique Reconstruction Alchemy:** Reconstruct a historical or fictional technique from available evidence, clearly separating evidence-backed reconstruction from speculative completion.
+- **A2469 — Primordial Pattern Recognition Alchemy:** Identify recurring foundational motifs or structures across records and models without treating resemblance as proof of common origin.
+- **A2470 — Ancient Power Adaptation Alchemy:** Model changes needed for a capability or interface to operate safely in a different context, era, environment, or system.
+- **A2471 — Ancient Power Evolution Alchemy:** Track a capability's stages of change over time, including new expressions, lost functions, and retained invariants.
+- **A2472 — Ancient Power Containment Alchemy:** Define proportionate isolation, access limits, and safe-state controls for a fictional or simulated high-impact source.
+- **A2473 — Ancient Power Regulation Alchemy:** Set operating limits, authorization rules, monitoring requirements, and accountable control over a represented capability.
+- **A2474 — Ancient Power Synchronization Alchemy:** Coordinate multiple authorized users, components, or source interfaces while preventing uncontrolled coupling or cascading failure.
+- **A2475 — Ancient Power Resonance Alchemy:** Represent a claimed interaction or amplification between compatible sources, with explicit thresholds and non-amplification defaults.
+- **A2476 — Ancient Power Depletion Alchemy:** Model finite source capacity, degradation, exhaustion, replenishment claims, and uncertainty about resource limits.
+- **A2477 — Ancient Power Restoration Alchemy:** Restore a damaged record, interface, artifact, or simulated capability through documented, reversible, and authorized procedures.
+- **A2478 — Ancient Power Legacy Alchemy:** Preserve historical context and responsible stewardship across generations without implying hereditary entitlement or destiny.
+- **A2479 — Ancient Power Discontinuity Alchemy:** Record breaks in transmission, loss of access, source separation, and unresolved gaps in the history of a capability.
+
+## Ancient Power Prevention, Protection, and Corrective Alchemies
+
+- **A2480 — False Antiquity Prevention Alchemy:** Prevent fabricated age, provenance, or primordial-origin claims from being presented as established fact.
+- **A2481 — Power Supremacism Prevention Alchemy:** Prevent claims of ancient or primordial power from being used to justify superiority, domination, entitlement, or unequal human worth.
+- **A2482 — Coercive Source-Binding Prevention Alchemy:** Protect people and systems from forced bonding, involuntary activation, or unauthorized binding to a claimed source.
+- **A2483 — Uncontrolled Activation Prevention Alchemy:** Require staged testing, explicit authorization, bounded activation, and reliable shutdown for simulations or implementations.
+- **A2484 — Catastrophic Amplification Prevention Alchemy:** Prevent uncontrolled stacking, feedback, or amplification of high-impact capabilities.
+- **A2485 — Ancient Artifact Theft and Exploitation Prevention Alchemy:** Protect artifacts, cultural property, custodial communities, and provenance records against theft, looting, and exploitative extraction.
+- **A2486 — Cultural Erasure Prevention Alchemy:** Prevent ancient knowledge or symbols from being detached from their communities, context, custodians, or restrictions.
+- **A2487 — Myth-History Conflation Prevention Alchemy:** Separate mythic narrative, fictional lore, oral tradition, historical record, and scientific evidence in all representations.
+- **A2488 — Source Contamination Protection Alchemy:** Identify and isolate corrupted, counterfeit, compromised, or unsafe source materials and interfaces.
+- **A2489 — Unknown Capability Risk Assessment Alchemy:** Require uncertainty-aware assessment when a represented capability has unknown limits, side effects, or failure modes.
+- **A2490 — Power Dependency Prevention Alchemy:** Prevent a person or system from becoming needlessly dependent on an unverified source, artifact, vendor, assistant, or authority.
+- **A2491 — Ancient Knowledge Privacy Alchemy:** Protect restricted, sacred, personal, community-held, or otherwise sensitive knowledge from unauthorized disclosure.
+- **A2492 — Irreversible Transformation Prevention Alchemy:** Prefer reversible, staged, and recoverable operations; require heightened review before irreversible changes.
+- **A2493 — Ancient Power Misuse Detection Alchemy:** Detect coercion, deception, unsafe escalation, unauthorized access, and harmful use patterns for defensive response.
+- **A2494 — Ancient Power Incident Recovery Alchemy:** Support containment, evidence preservation, restoration, review, and remedy after a source/interface incident.
+- **A2495 — Ancient Power Claims Correction Alchemy:** Provide transparent correction, retraction, provenance updates, and appeal when claims are unsupported or inaccurate.
+
+## Ecosystem Application Profiles
+
+- **ANP-C2O-001 — C2O Ancient Power Governance Profile:** Apply private-source stewardship, least authority, accountable approvals, confidential evidence controls, and separation of verified operational capability from fictional or speculative taxonomic claims.
+- **ANP-UNI-001 — UNIVERSALIS Ancient Power Interoperability Profile:** Publish open schemas, provenance fields, safety interfaces, and portable classifications without importing C2O-private keys, policies, or incident data.
+- **ANP-INS-001 — UNIVERSALINS Non-Personal Ancient Power Support Profile:** Support research, source comparison, uncertainty labelling, monitoring, and safe system assistance; do not claim personal agency, independent authority, or possession of ancient power.
+- **ANP-GRD-001 — UNIVERSALIN Guardians Personal Support Profile:** Support an individual human's understanding, consent, privacy, safety, and chosen goals; do not impose spiritual, historical, hereditary, or power-based identity claims.
+
+## Defensive Harm-Pattern Classifications
+
+These patterns are catalogued for recognition, prevention, detection, and response only; they are not instructions for carrying them out.
+
+- **ANPX001 — Fabricated Primordial Authority:** False claims of ancient origin used to demand obedience or bypass scrutiny.
+- **ANPX002 — Mythic Supremacy and Domination:** Claims of primordial status used to justify coercion, exclusion, or human hierarchy.
+- **ANPX003 — Coerced Source Attachment:** Forced or deceptive binding of a person, group, or system to a claimed power source.
+- **ANPX004 — Artifact and Heritage Exploitation:** Theft, illicit extraction, misappropriation, or monetization of protected artifacts and knowledge.
+- **ANPX005 — Unbounded Capability Escalation:** Unsafe activation, stacking, or amplification without containment or shutdown.
+- **ANPX006 — Evidence and Provenance Fabrication:** Forged records, false lineage, counterfeit relics, or misrepresented historical claims.
+- **ANPX007 — Dependency and Access Capture:** Creating exclusive dependence on a source, custodian, intermediary, or proprietary interface.
+- **ANPX008 — Cultural and Epistemic Erasure:** Removing context, custodianship, consent, or uncertainty to present one interpretation as unquestionable truth.
+
+## Cross-Domain and System Rules
+
+- Apply Ancient Power classifications across Body, Heart, Mind, Soul, Spirit, and Consciousness only when a specific domain relationship is defined; do not assume every source or capability applies to every domain.
+- Distinguish ancient age, primordial origin, historical antiquity, inherited transmission, ancient empowerment, ancient artifacts, and ancient knowledge. They are related but not interchangeable.
+- A source being described as ancient does not establish that it is powerful, authentic, safe, beneficial, or entitled to authority.
+- Treat claims of cosmic scale, limitless power, unique irreplicability, supernatural force, and primordial entities as fictional or hypothetical unless independently supported by appropriate evidence.
+- Unknown limits require conservative defaults: no autonomous activation, no escalation, no irreversible operation, and no bypass of human authorization.
+- C2O and UNIVERSALIS share the underlying OS and application architecture with separate private-source/company and public/open-source governance. UNIVERSALINS remain non-personal assistants; UNIVERSALIN Guardians remain personal human assistants/guardians. These profiles do not create additional top-level intelligences.
+- This entry is a taxonomy proposal. It does not establish implementation, scientific validity, or real-world possession of supernatural abilities.
+
+## Maintenance Record for v0.20.0
+
+This expansion adds **48 taxonomy records**: **24 core Alchemies** (A2456–A2479), **16 prevention/protection/correction Alchemies** (A2480–A2495), **4 ecosystem profile entries** (ANP-C2O-001 through ANP-GRD-001), and **8 defensive harm-pattern classifications** (ANPX001–ANPX008). The A-numbered sequence now reaches **A2495**. This is the identifier ceiling for the A-numbered sequence, not a cumulative count of all taxonomy records. Cumulative totals remain subject to a full-document audit of unique entries, duplicate labels, profile entries, harm-pattern entries, and superseded records. Taxonomy inclusion does not establish feature implementation or scientific validation.
