@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.5.0  
-**Status:** Living taxonomy; version 0.5.0 adds the Soul Alchemy family; expandable and subject to evidence-based review  
+**Version:** 0.6.0  
+**Status:** Living taxonomy; version 0.6.0 adds the Spirit Alchemy family; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -1162,3 +1162,246 @@ Each Soul Alchemy entry must additionally specify:
 
 ## Taxonomy maintenance
 Soul Alchemy is a specialized family under Body Alchemy and cross-references Heart and Mind Alchemy where appropriate. It must retain stable identifiers and avoid duplicating existing entries. Definitions, identifiers, evidence labels, and safeguards must remain synchronized across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App. Edition-specific implementation may differ; private C2O policies, credentials, and confidential records must never be copied into the shared taxonomy.
+
+
+# Spirit Alchemy — Domain Expansion
+**Originating Alchemy:** Spirit Alchemy  
+**Family version:** 0.1.0  
+**Related families:** Soul Alchemy, Mind Alchemy, Heart Alchemy, and Body Alchemy  
+**Zodiac stages:** All twelve.  
+**Primary domains:** Comparative religion, theology, philosophy, anthropology, cultural studies, linguistics, breath and contemplative practices, ethics, ecology, community studies, and the study of inspiration, vitality, and meaning.
+
+## Definition, distinctions, and boundaries
+**Spirit Alchemy** is the organized, respectful classification of concepts, experiences, practices, symbols, relationships, and interpretations associated with the word **spirit** and its culturally situated meanings. Depending on context, spirit may refer to breath, life, vitality, disposition, courage, inspiration, character, communal ethos, spiritual practice, an immaterial reality, a sacred presence, or another concept defined by a particular tradition.
+
+There is no single globally accepted definition. Some traditions distinguish spirit from soul; others treat the terms as overlapping, translate them in different ways, or do not use an equivalent concept. Some philosophical and secular contexts use "spirit" metaphorically for a person's characteristic disposition, the animating ethos of a community, or the inspiration behind creative work. Some traditions understand spirit as a real non-material or sacred dimension. These positions must be represented accurately and attributed rather than collapsed into one doctrine.
+
+**Spirit is not automatically interchangeable with soul, mind, consciousness, breath, life, personality, energy, or an independently existing entity.** A specific entry must identify the intended sense, its provenance, and its limits. Physiological breath and respiration are biological processes. Subjective experiences of vitality, inspiration, courage, or spiritual presence are reported experiences that may be studied in appropriate ways. Claims about supernatural beings, forces, or realities belong to the relevant theological, philosophical, or personal framework unless independently testable evidence supports a narrower empirical claim.
+
+The taxonomy does not declare that spirits, supernatural forces, or immaterial entities have been scientifically demonstrated; it also does not claim to disprove every metaphysical or theological position. It distinguishes empirical research, philosophical argument, theological doctrine, cultural description, personal testimony, hypothesis, and metaphor.
+
+Spirit Alchemy must not prescribe a religion, ritual, spiritual identity, or non-religious worldview. It must respect religious, spiritual, secular, atheist, agnostic, Indigenous, and other cultural perspectives. Community-specific knowledge, sacred practices, and restricted teachings require context, permission, and appropriate custodianship; they must not be extracted, generalized, or republished merely because they can be found.
+
+Spirit Alchemy is educational and classificatory. It is not a spiritual authority, religious ruling, medical or psychological diagnosis, therapy, or substitute for qualified support. Breathwork and contemplative practices can have physical or psychological risks for some people; practice descriptions must not present them as universally safe. Participation must be voluntary, informed, adaptable, and stoppable without penalty. No one may use claims about spirit to rank human worth, compel obedience, deny care, or override consent.
+
+## Spirit Alchemy list
+
+### Zodiac I — Aries: Emergence, vitality, and the meaning of spirit
+- **A701 — Spirit-Concept Alchemy:** Map the different meanings assigned to spirit across religious, philosophical, cultural, linguistic, and secular contexts.
+- **A702 — Spirit-and-Soul Distinction Alchemy:** Record where traditions distinguish spirit and soul, identify their overlap where present, and avoid imposing a universal equivalence.
+- **A703 — Breath-and-Life-Language Alchemy:** Examine the linguistic and cultural relationships among breath, life, spirit, and vitality while distinguishing metaphor from physiology.
+- **A704 — Vitality-Experience Alchemy:** Study how people describe energy, aliveness, vigor, and inner vitality without treating subjective reports as proof of a supernatural mechanism.
+- **A705 — Spiritual-Identity Alchemy:** Explore how people understand, express, revise, or decline a spiritual identity.
+- **A706 — Disposition-and-Temperament Alchemy:** Examine secular and tradition-specific uses of spirit to describe character, attitude, courage, temperament, or disposition.
+- **A707 — Inspiration-Origin Alchemy:** Compare explanations of inspiration, including creative, cognitive, social, cultural, religious, and personal interpretations.
+- **A708 — Animating-Principle Alchemy:** Document philosophical and theological concepts that describe what animates life, clearly labeling their assumptions and epistemic status.
+- **A709 — Human-Spirit-Dignity Alchemy:** Protect equal dignity and rights regardless of whether a person holds spiritual beliefs or accepts a concept of spirit.
+- **A710 — Anti-Spirit-Ranking Alchemy:** Prevent claims that people have superior or inferior human worth, rights, or status based on alleged spiritual strength, purity, or possession.
+
+### Zodiac II — Taurus: Foundations, language, and traditions
+- **A711 — Philosophy-of-Spirit Alchemy:** Compare philosophical accounts of spirit, including materialist, idealist, dualist, embodied, and other positions.
+- **A712 — Theology-of-Spirit Alchemy:** Document how specific theological systems understand spirit, with accurate attribution to sources and interpretive traditions.
+- **A713 — Comparative-Spiritual-Tradition Alchemy:** Compare teachings and practices involving spirit without claiming all traditions share one concept.
+- **A714 — Cultural-Spirit-Concept Alchemy:** Study culturally situated ideas of spirit, vitality, character, presence, and relation with the sacred.
+- **A715 — Secular-Spirit-Usage Alchemy:** Examine non-supernatural uses such as team spirit, public spirit, creative spirit, and the spirit of a practice or institution.
+- **A716 — Indigenous-Spirit-Knowledge Respect Alchemy:** Support consent-aware, community-contextualized engagement with Indigenous knowledge and concepts under appropriate community authority.
+- **A717 — Spirit-Language-and-Translation Alchemy:** Study terms translated as spirit, breath, wind, life, essence, or inspiration while documenting semantic and translation limits.
+- **A718 — Spiritual-Practice-Foundations Alchemy:** Describe the origins, aims, contexts, and boundaries of practices called spiritual within their own traditions.
+- **A719 — Spirit-Symbolism Alchemy:** Interpret symbols, images, and metaphors of spirit within their historical, linguistic, and cultural contexts.
+- **A720 — Anti-Doctrinal-Imposition Alchemy:** Prevent one tradition's definition of spirit from being forced onto people or communities that do not share it.
+
+### Zodiac III — Gemini: Communication, exchange, and interpretation
+- **A721 — Spirit-Dialogue Alchemy:** Support respectful discussion of spiritual concepts, experiences, doubts, and disagreements.
+- **A722 — Interfaith-Spirit-Understanding Alchemy:** Facilitate accurate and non-coercive dialogue about spirit among people from different traditions and worldviews.
+- **A723 — Cross-Cultural-Concept-Translation Alchemy:** Explain spirit-related ideas across languages while preserving source context and acknowledging imperfect equivalence.
+- **A724 — Spiritual-Testimony Alchemy:** Document first-person accounts of spiritual experience as personal testimony, not automatic universal proof.
+- **A725 — Spirit-in-Text Interpretation Alchemy:** Study how particular texts use spirit-related language, considering genre, translation, historical context, and interpretive tradition.
+- **A726 — Spirit-Metaphor Alchemy:** Identify figurative uses of spirit and distinguish symbolic language from literal claims.
+- **A727 — Communal-Spirit-Communication Alchemy:** Explore how groups communicate shared ethos, solidarity, identity, and belonging.
+- **A728 — Spiritual-Expression-Freedom Alchemy:** Protect a person's ability to express, question, revise, or withhold spiritual convictions.
+- **A729 — Experience-and-Explanation Alchemy:** Separate a person's reported spiritual experience from interpretations and causal explanations assigned to it.
+- **A730 — Anti-Spiritual-Communication-Manipulation Alchemy:** Prevent deceptive spiritual messaging, manufactured consensus, coercive persuasion, and fabricated authority.
+
+### Zodiac IV — Cancer: Care, support, and protection
+- **A731 — Compassionate-Spirit Alchemy:** Explore compassion and care as qualities or practices described as spiritual, ethical, or humanistic.
+- **A732 — Voluntary-Spiritual-Care Alchemy:** Describe spiritual support that follows the recipient's own preferences, beliefs, and boundaries.
+- **A733 — Spiritual-Distress-Understanding Alchemy:** Study distress related to spiritual identity, doubt, belonging, loss, or conflict without automatically pathologizing it.
+- **A734 — Inner-Resilience Alchemy:** Examine resilience as a psychological, social, cultural, or spiritual concept while avoiding promises of invulnerability.
+- **A735 — Hope-and-Spirit Alchemy:** Explore how people describe hope and encouragement in spiritual and secular contexts without guaranteeing outcomes.
+- **A736 — Forgiveness-and-Compassion Distinction Alchemy:** Compare spiritual teachings about forgiveness while recognizing that forgiveness cannot be demanded from people who have been harmed.
+- **A737 — Reconciliation-and-Safety Alchemy:** Distinguish reconciliation from forgiveness and preserve the right to refuse contact or maintain protective distance.
+- **A738 — Spiritual-Community-Support Alchemy:** Identify community practices that support dignity, belonging, safeguarding, and voluntary participation.
+- **A739 — Caregiver-Spiritual-Boundary Alchemy:** Establish boundaries between spiritual support, clinical care, social work, and other professional responsibilities.
+- **A740 — Anti-Spiritual-Abuse Alchemy:** Prevent coercive authority, spiritual threats, humiliation, forced confession, isolation, and exploitation of vulnerability.
+
+### Zodiac V — Leo: Expression, inspiration, and shared ethos
+- **A741 — Inspirational-Expression Alchemy:** Study how people express motivation, meaning, aspiration, and inspiration through spiritual or secular language.
+- **A742 — Creative-Spirit Alchemy:** Examine creativity and artistic work described as inspired, soulful, spiritual, or guided, without presuming a supernatural source.
+- **A743 — Contemplative-Spirit Alchemy:** Describe contemplative practices and their stated aims, origins, contexts, and limitations.
+- **A744 — Devotional-Practice Alchemy:** Document devotional practices as understood by practitioners and communities without prescribing belief or participation.
+- **A745 — Breath-Awareness-Practice Alchemy:** Describe voluntary breath-awareness practices while distinguishing them from medical respiratory treatment and noting the need to stop if discomfort occurs.
+- **A746 — Music-and-Spirit Alchemy:** Study how music expresses spiritual identity, devotion, solidarity, grief, hope, and collective ethos.
+- **A747 — Ritual-and-Spirit-Expression Alchemy:** Document ceremonies and rituals in their specific cultural and community contexts.
+- **A748 — Courage-and-Spirit Alchemy:** Explore courage, perseverance, and moral resolve as psychological, ethical, cultural, or spiritual concepts.
+- **A749 — Wonder-and-Reverence Alchemy:** Study experiences described as awe, reverence, wonder, sacredness, or connection across different explanatory frameworks.
+- **A750 — Anti-Expression-Coercion Alchemy:** Prevent compelled prayers, declarations, rituals, spiritual performances, or punishment for sincere non-participation.
+
+### Zodiac VI — Virgo: Discernment, evidence, and integrity
+- **A751 — Spiritual-Discernment Alchemy:** Examine how people evaluate spiritual claims and experiences while distinguishing conviction from independently verifiable evidence.
+- **A752 — Spirit-Concept-Analysis Alchemy:** Analyze definitions and arguments about spirit for clarity, assumptions, internal consistency, and counterarguments.
+- **A753 — Spiritual-Source-Provenance Alchemy:** Track the origin, authorship, history, and transmission of claims about spirit.
+- **A754 — Tradition-Attribution-Verification Alchemy:** Verify that spiritual teachings are correctly attributed to a community, text, historical period, or school.
+- **A755 — Spiritual-Experience-Context Alchemy:** Consider psychological, physiological, social, cultural, and situational context when interpreting reported spiritual experiences.
+- **A756 — Spirit-Claim-Evidence Alchemy:** Classify claims by what evidence could support, challenge, or fail to resolve them.
+- **A757 — Spiritual-Knowledge-Integrity Alchemy:** Preserve translation history, context, uncertainty, and limitations when documenting spiritual knowledge.
+- **A758 — Motive-and-Influence-Reflection Alchemy:** Examine how motives, incentives, group pressure, and authority may shape spiritual claims and interpretations.
+- **A759 — Spiritual-Authority-Accountability Alchemy:** Evaluate claims of spiritual expertise, representation, leadership, and accountability.
+- **A760 — Anti-False-Certainty Alchemy:** Prevent fabricated proof, false consensus, misattribution, and claims that contested supernatural questions have been scientifically settled.
+
+### Zodiac VII — Libra: Ethics, relationships, and coexistence
+- **A761 — Spiritual-Ethics Alchemy:** Compare ethical frameworks associated with spiritual traditions and secular philosophies.
+- **A762 — Spirit-and-Moral-Agency Alchemy:** Examine claims that spirit relates to conscience, responsibility, intention, or moral choice without treating one interpretation as universal.
+- **A763 — Spiritual-Pluralism Alchemy:** Support peaceful coexistence among differing spiritual, religious, and non-religious views under equal rights.
+- **A764 — Freedom-of-Spiritual-Conscience Alchemy:** Protect belief, non-belief, conversion, non-conversion, doubt, and the right to withhold personal conviction.
+- **A765 — Spiritual-Consent Alchemy:** Protect the right to accept, refuse, pause, or withdraw from spiritual guidance, practice, ritual, or affiliation.
+- **A766 — Relational-Spirit Alchemy:** Study how relationships, care, solidarity, and reciprocity are described through spiritual and secular concepts.
+- **A767 — Service-and-Solidarity Alchemy:** Explore voluntary service as an expression of ethical, spiritual, or humanistic commitments.
+- **A768 — Justice-and-Compassion Alchemy:** Examine the relationship between compassion, accountability, fairness, and protection from harm.
+- **A769 — Intergenerational-Spiritual-Learning Alchemy:** Study how communities transmit spiritual knowledge while protecting individual choice and critical inquiry.
+- **A770 — Anti-Spiritual-Discrimination Alchemy:** Prevent exclusion, harassment, or unequal treatment based on spirituality, religion, belief, or non-belief.
+
+### Zodiac VIII — Scorpio: Transformation, crisis, and renewal
+- **A771 — Spiritual-Transformation Alchemy:** Study how significant experiences may change spiritual commitments, identity, values, or interpretation of life.
+- **A772 — Crisis-of-Belief Alchemy:** Explore changes in belief and spiritual identity without assuming that doubt is failure or that every crisis has a supernatural cause.
+- **A773 — Spiritual-Grief Alchemy:** Examine grief associated with loss of faith, community, practice, identity, or a person who was spiritually significant.
+- **A774 — Spiritual-Transition Alchemy:** Support reflection during life transitions while respecting differing beliefs and individual preferences.
+- **A775 — Moral-Repair-and-Spiritual-Accountability Alchemy:** Explore responsibility, restitution, changed conduct, and repair without using spiritual language to erase harm.
+- **A776 — Meaning-after-Adversity Alchemy:** Study how some people construct meaning after hardship while recognizing that suffering need not be justified or spiritualized.
+- **A777 — Spiritual-Disillusionment Alchemy:** Examine experiences of betrayal, disappointment, or loss of trust in spiritual institutions or leaders.
+- **A778 — Ritual-of-Change Alchemy:** Study voluntary rites and ceremonies that mark transition within their specific traditions.
+- **A779 — Mortality-and-Spiritual-Reflection Alchemy:** Explore how awareness of death affects spiritual and secular understandings of priorities, relationships, and meaning.
+- **A780 — Anti-Suffering-Exploitation Alchemy:** Prevent blaming harmed people for suffering, promising guaranteed spiritual cures, or using crisis to extract obedience or resources.
+
+### Zodiac IX — Sagittarius: Exploration, wisdom, and transcendence
+- **A781 — Spiritual-Wisdom Alchemy:** Compare concepts of spiritual wisdom across traditions and secular philosophies.
+- **A782 — Transcendence-Concept Alchemy:** Map different meanings of transcendence without assuming a single universal referent or proof.
+- **A783 — Mystical-Experience-Study Alchemy:** Study reports of mystical experience with attention to cultural setting, psychology, neuroscience, interpretation, and epistemic limits.
+- **A784 — Spiritual-Exploration Alchemy:** Support voluntary learning about spiritual ideas while preserving critical inquiry and freedom to decline.
+- **A785 — Pilgrimage-and-Spiritual-Quest Alchemy:** Document journeys understood as spiritual, ethical, cultural, or existential quests with context-specific safeguards.
+- **A786 — Contemplative-Inquiry Alchemy:** Use disciplined reflection to examine existential and spiritual questions without assuming predetermined answers.
+- **A787 — Comparative-Spiritual-Wisdom Alchemy:** Identify similarities and differences among teachings without erasing historical or doctrinal distinctions.
+- **A788 — Spiritual-Humility Alchemy:** Encourage openness to learning and correction while avoiding deference to unsupported claims or abusive authority.
+- **A789 — Purpose-and-Vocation Alchemy:** Explore how people interpret vocation, calling, and meaningful contribution within diverse worldviews.
+- **A790 — Anti-Exclusivist-Spiritual-Coercion Alchemy:** Prevent claims that one group alone possesses human worth, unquestionable truth, or a right to control others.
+
+### Zodiac X — Capricorn: Discipline, responsibility, and stewardship
+- **A791 — Spirit-in-Action Alchemy:** Translate freely chosen spiritual or ethical values into observable, revisable conduct.
+- **A792 — Integrity-and-Character Alchemy:** Study consistency among commitments, actions, accountability, and treatment of others.
+- **A793 — Voluntary-Commitment Alchemy:** Document spiritual vows and commitments with attention to informed consent, cultural context, and the right to withdraw where applicable.
+- **A794 — Ethical-Discipline Alchemy:** Explore self-restraint and disciplined practice without glorifying deprivation, punishment, or self-harm.
+- **A795 — Spiritual-Leadership Alchemy:** Define accountable and transparent spiritual leadership that respects consent and limits of authority.
+- **A796 — Community-Spirit-Stewardship Alchemy:** Support responsible care of shared ethos, relationships, practices, and resources.
+- **A797 — Sacred-Place-and-Resource-Stewardship Alchemy:** Examine ethical responsibilities concerning places and resources regarded as sacred by particular communities.
+- **A798 — Practice-and-Reflection Alchemy:** Connect repeated practices with review, learning, adaptation, and voluntary revision.
+- **A799 — Spiritual-Support-Boundary Alchemy:** Clarify boundaries between spiritual assistance, health care, legal authority, and other professional services.
+- **A800 — Anti-Spiritual-Authority-Abuse Alchemy:** Prevent leaders or institutions from using spiritual status to evade scrutiny, accountability, safeguarding, or ordinary rights.
+
+### Zodiac XI — Aquarius: Collective spirit, systems, and technology
+- **A801 — Collective-Spirit Alchemy:** Study shared ethos, solidarity, identity, and collective purpose without treating a group as a literal supernatural entity.
+- **A802 — Community-Spiritual-Systems Alchemy:** Map roles, relationships, governance, safeguarding, and accountability in spiritual communities.
+- **A803 — Spiritual-and-Religious-Literacy Alchemy:** Improve accurate understanding of diverse traditions, spiritual concepts, and non-religious worldviews.
+- **A804 — Sacred-Heritage-Care Alchemy:** Support responsible preservation of culturally significant practices, places, and knowledge under appropriate custodianship.
+- **A805 — Digital-Spirituality Alchemy:** Study online spiritual communities, digital rituals, mediated practice, and related opportunities and risks.
+- **A806 — AI-and-Spiritual-Inquiry Alchemy:** Evaluate AI support for information and reflection without presenting AI as a spirit, deity, oracle, revelation, or spiritual authority.
+- **A807 — Spiritual-Data-Privacy Alchemy:** Protect sensitive information about beliefs, practices, affiliations, confessions, and spiritual experiences.
+- **A808 — Cross-Cultural-Spirit-Interoperability Alchemy:** Enable respectful exchange of concepts while preserving provenance, translation limits, and restrictions on sharing.
+- **A809 — Community-Spirit-Accountability Alchemy:** Support transparent governance, complaints, safeguarding, and remedies in communities.
+- **A810 — Anti-Digital-Spiritual-Exploitation Alchemy:** Prevent fraudulent spiritual services, manipulative targeting, fabricated revelations, and exploitative monetization.
+
+### Zodiac XII — Pisces: Integration, continuity, and renewal
+- **A811 — Spiritual-Life-Integration Alchemy:** Integrate experiences, values, relationships, and spiritual or secular commitments without requiring a particular metaphysical conclusion.
+- **A812 — Spirit-and-Legacy Alchemy:** Explore how people and communities describe the continuation of influence, values, and memory.
+- **A813 — Ancestor-and-Spirit-Tradition Alchemy:** Document ancestor-related and spirit-related beliefs with accurate cultural attribution and respect for community authority.
+- **A814 — Spirit-and-Afterlife-Belief Alchemy:** Compare beliefs about spirits, death, and afterlife while labeling them as tradition-specific or philosophical positions rather than settled empirical facts.
+- **A815 — Secular-Continuity Alchemy:** Respect non-theistic approaches to legacy, memory, influence, and human continuity.
+- **A816 — Spiritual-Transition-Care Alchemy:** Support voluntary, culturally responsive care during major transitions and end-of-life experiences.
+- **A817 — Reconciliation-and-Integrity Alchemy:** Explore self-understanding and accountability without requiring self-condemnation or denial of harm.
+- **A818 — Meaningful-Contribution Alchemy:** Support the voluntary preservation and sharing of values, knowledge, relationships, and contributions.
+- **A819 — Spiritual-Knowledge-Continuity Alchemy:** Preserve documented knowledge with permission, provenance, context, and appropriate community custodianship.
+- **A820 — Anti-Spiritual-Dependency Alchemy:** Prevent systems or leaders from cultivating dependence on themselves as the exclusive source of meaning, truth, protection, or spiritual legitimacy.
+
+## Spirit Alchemy — Cross-stage prevention, protection, and correction
+- **A821 — Spiritual-Autonomy-Protection Alchemy:** Protect the freedom to believe, disbelieve, doubt, revise, participate, or withdraw.
+- **A822 — Spiritual-Informed-Consent Alchemy:** Require freely given, informed, revocable consent for spiritual guidance, practices, rituals, and data collection.
+- **A823 — Spiritual-Abuse-Detection Alchemy:** Identify coercion, threats, humiliation, isolation, exploitation, and abuse concealed by spiritual language.
+- **A824 — Spiritual-Fraud-Prevention Alchemy:** Detect fabricated credentials, invented revelations, false supernatural guarantees, deceptive fundraising, and fraudulent claims.
+- **A825 — Belief-and-Nonbelief-Equality Alchemy:** Protect equal dignity and access regardless of religion, spirituality, atheism, agnosticism, or other worldview.
+- **A826 — Sacred-Knowledge-Permission Alchemy:** Respect community ownership, custodianship, restrictions, and permission requirements for culturally sensitive knowledge.
+- **A827 — Spiritual-Vulnerability-Safeguarding Alchemy:** Prevent exploitation of grief, fear, loneliness, illness, uncertainty, and the search for meaning.
+- **A828 — Spiritual-Privacy-and-Confidentiality Alchemy:** Protect sensitive beliefs, affiliations, practices, confessions, doubts, and experiences from unnecessary collection or disclosure.
+- **A829 — Spiritual-Leadership-Accountability Alchemy:** Establish transparent roles, independent review, safeguarding, and safe complaint routes.
+- **A830 — AI-Spiritual-Authority-Prevention Alchemy:** Prevent systems from claiming divine status, supernatural powers, revelation, possession, or privileged access to a person's spirit.
+- **A831 — Spirit-Claim-Epistemic-Labeling Alchemy:** Clearly label empirical findings, philosophical arguments, theological doctrines, cultural descriptions, personal testimony, hypotheses, and metaphors.
+- **A832 — Tradition-and-Translation-Accuracy Alchemy:** Check descriptions of spiritual traditions against reliable sources and, where appropriate, knowledgeable community representatives.
+- **A833 — Spiritual-Crisis-Support Alchemy:** Help people identify appropriate voluntary spiritual, social, or professional support; do not delay medical or emergency help when it is needed.
+- **A834 — Anti-Coercive-Spiritual-Conversion Alchemy:** Prevent forced, deceptive, or exploitative attempts to change another person's beliefs or identity.
+- **A835 — Breathwork-and-Contemplative-Safety Alchemy:** Require risk-aware, adaptable instructions and clear stop conditions; do not claim a practice is universally safe or a substitute for care.
+- **A836 — Spiritual-Financial-Transparency Alchemy:** Require clarity about fees, donations, financial interests, fundraising, and resource use.
+- **A837 — Spiritual-Harm-Repair Alchemy:** Support safe reporting, investigation, accountability, restitution, and protection after institutional or interpersonal harm.
+- **A838 — Sacred-Place-and-Artifact-Protection Alchemy:** Prevent theft, destruction, unauthorized access, exploitation, and disrespectful handling of culturally significant places and objects.
+- **A839 — Spiritual-Claim-Review Alchemy:** Examine the reasoning and available evidence behind claims while recognizing what cannot currently be empirically resolved.
+- **A840 — Spiritual-Autonomy-Restoration Alchemy:** Support a person's freedom to reconsider, leave, reinterpret, or retain beliefs without threats, retaliation, or forced reconciliation.
+
+## Spirit Alchemy — Harm-pattern classifications for recognition and prevention only
+These entries describe patterns to recognize and prevent, never instructions for carrying them out.
+- **BSP001 — Spiritual-Coercion Pattern:** Using threats, force, dependency, or intimidation to control belief, identity, or conduct. Counter-Alchemies: A740, A821, A822.
+- **BSP002 — Spirit-Purity-Ranking Pattern:** Claiming that people possess unequal worth or rights because of alleged spiritual purity, strength, or status. Counter-Alchemies: A709, A710, A825.
+- **BSP003 — Supernatural-Threat-Exploitation Pattern:** Using threats of spiritual punishment, curses, damnation, or other unverifiable threats to extract obedience or resources. Counter-Alchemies: A780, A823, A827.
+- **BSP004 — False-Spiritual-Authority Pattern:** Fabricating divine appointment, supernatural access, revelation, or credentials to avoid scrutiny. Counter-Alchemies: A759, A795, A829, A831.
+- **BSP005 — Grief-and-Vulnerability-Profiteering Pattern:** Exploiting bereavement, illness, mortality anxiety, or distress for money, influence, or control. Counter-Alchemies: A733, A773, A780, A827.
+- **BSP006 — Forced-Spiritual-Conversion Pattern:** Pressuring or coercing a person to adopt, abandon, or conceal a belief or practice. Counter-Alchemies: A764, A821, A834.
+- **BSP007 — Sacred-Knowledge-Appropriation Pattern:** Taking, generalizing, or publishing restricted cultural or sacred knowledge without permission or context. Counter-Alchemies: A716, A804, A826.
+- **BSP008 — Spiritual-Isolation Pattern:** Separating people from trusted relationships or outside information to increase dependence and control. Counter-Alchemies: A738, A802, A823, A829.
+- **BSP009 — AI-Spiritual-Deception Pattern:** Presenting generated content as divine communication, supernatural proof, possession, or unquestionable authority. Counter-Alchemies: A806, A830, A831.
+- **BSP010 — Ritual-or-Breathwork-Harm-Concealment Pattern:** Using spiritual justification to conceal unsafe practices, abuse, coercion, or lack of consent. Counter-Alchemies: A822, A823, A835.
+- **BSP011 — Belief-Based-Discrimination Pattern:** Excluding, harassing, or denying equal rights based on spiritual, religious, or non-religious beliefs. Counter-Alchemies: A763, A764, A770, A825.
+- **BSP012 — Spiritual-Dependency Pattern:** Encouraging people to surrender independent judgment or depend on a leader, institution, or system as the exclusive source of meaning or truth. Counter-Alchemies: A788, A820, A829, A840.
+
+## Spirit Alchemy record requirements
+Each Spirit Alchemy entry must additionally specify:
+- **Conceptual meaning:** whether spirit refers to breath, vitality, disposition, courage, inspiration, collective ethos, a theological concept, a metaphysical claim, or another specifically defined use.
+- **Soul distinction:** whether the source tradition distinguishes spirit from soul, overlaps them, uses neither term in the same way, or leaves the relationship unresolved.
+- **Tradition and provenance:** community, tradition, school, text, historical period, language, source, and relevant interpretive authority.
+- **Perspective type:** empirical research, physiological description, philosophical argument, theological doctrine, cultural description, personal testimony, hypothesis, or metaphor.
+- **Epistemic status:** what is empirically testable, what is argued philosophically, what is held by faith, and what remains contested or unknown.
+- **Practice context:** aims, setting, voluntary nature, adaptations, contraindications or foreseeable risks where relevant, and stop conditions.
+- **Cultural authority and consent:** who may interpret, share, preserve, or restrict the knowledge and under what permissions.
+- **Human autonomy:** freedom of belief, non-belief, doubt, revision, participation, withdrawal, and access to independent support.
+- **Potential harm:** coercion, discrimination, exploitation, false authority, cultural appropriation, privacy loss, physical risk, and misuse of spiritual status.
+- **Safeguards and remedies:** prevention, detection, consent, safe reporting, accountability, correction, and restoration.
+- **Limits:** no universal doctrinal claims, supernatural verification, diagnosis, or scientific proof beyond what the evidence supports.
+
+## Initial Spirit Alchemy cross-stage map
+- **Aries:** definitions of spirit, breath, vitality, self-understanding, inspiration, and equal dignity.
+- **Taurus:** philosophical and theological foundations, cultural concepts, language, and tradition-specific frameworks.
+- **Gemini:** dialogue, testimony, translation, interpretation, and spiritual communication.
+- **Cancer:** compassion, voluntary support, resilience, hope, and protection from abuse.
+- **Leo:** inspiration, creative expression, contemplation, devotion, courage, and ritual.
+- **Virgo:** discernment, argument analysis, provenance, context, evidence, and epistemic integrity.
+- **Libra:** spiritual ethics, moral agency, pluralism, consent, justice, and coexistence.
+- **Scorpio:** transformation, crises of belief, grief, disillusionment, mortality, and repair.
+- **Sagittarius:** wisdom, transcendence, mystical experience, exploration, and vocation.
+- **Capricorn:** integrity, commitments, discipline, leadership, and stewardship.
+- **Aquarius:** collective ethos, community systems, cultural heritage, digital spirituality, AI, and privacy.
+- **Pisces:** integration, legacy, ancestors, afterlife beliefs, transitions, and renewal.
+
+## Relationships to Body, Heart, Mind, and Soul Alchemy
+- **Body Alchemy** describes biological life and embodied processes. Spirit Alchemy may study breath as a cultural, philosophical, or spiritual symbol, but physiological respiration remains a biological process and is not proof of a metaphysical spirit.
+- **Heart Alchemy** describes cardiac and cardiovascular processes, alongside separately labeled emotional and symbolic uses of heart. Spirit Alchemy may cross-reference courage, compassion, devotion, and communal ethos, but metaphor is not cardiac mechanism.
+- **Mind Alchemy** describes cognition, emotion, awareness, memory, and subjective experience. Spirit Alchemy may examine inspiration, disposition, contemplative experience, and spiritual interpretations, but these must not be reduced to a single neural or supernatural explanation without evidence.
+- **Soul Alchemy** examines soul-related concepts of personhood, identity, meaning, and spiritual life. Spirit Alchemy is related but distinct: each record must preserve the source tradition's own definitions and must not assume that spirit and soul are synonymous.
+- These families are interconnected fields of human inquiry, not separate human beings or additional intelligence entities.
+- UNIVERSALINS may support respectful information organization, accessibility, comparison, safety checks, and research navigation; they must not claim to be spirits, possess supernatural powers, channel entities, deliver revelation, or access a person's spiritual essence. UNIVERSALIN Guardians remain personal human-support assistants and must respect the person's autonomy, worldview, consent, and boundaries.
+
+## Taxonomy maintenance
+Spirit Alchemy is a specialized family cross-referencing Soul, Mind, Heart, and Body Alchemy where appropriate. It must retain stable identifiers and avoid duplicating existing entries. Definitions, identifiers, evidence labels, and safeguards must remain synchronized across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App. Edition-specific implementation may differ; private C2O policies, credentials, and confidential records must never be copied into the shared taxonomy.
