@@ -4,14 +4,14 @@
 
 ## Purpose and scope
 
-This is the repository-maintained, living list of Alchemies for the four-repository C2O / UNIVERSALIS system:
+This README governs the repository-maintained, living taxonomy. The **canonical cumulative list** is [`/ALCHEMY_TAXONOMY.md`](../../ALCHEMY_TAXONOMY.md); update that master list and keep this framework aligned. The taxonomy applies across four ecosystem categories—C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians—and is maintained in the following four repositories:
 
 1. `C2O-OS` — private-source company edition of the OS.
 2. `C2O-App` — private-source company edition of the application system.
 3. `UNIVERSALIS-OS` — public open-source edition of the OS.
 4. `UNIVERSALIS-App` — public open-source edition of the application system.
 
-The paired editions represent the same underlying OS and application systems, with distinct source-visibility, governance, and audience boundaries. Taxonomy entries should identify applicability to the OS, applications, shared system contracts, and cross-system interactions without inventing unnecessary duplicated capabilities.
+C2O and UNIVERSALIS are the paired private-source/company and public/open-source editions of the same underlying OS and application systems, with distinct source-visibility, governance, and audience boundaries. UNIVERSALINS are non-personal assistants; UNIVERSALIN Guardians are personal human assistants/guardians. These are taxonomy applicability and integration categories, not additional top-level intelligences or extra repositories. Taxonomy entries must identify applicability to each of the four ecosystem categories and the relevant OS/App repository surfaces without inventing unnecessary duplicated capabilities.
 
 ## Governing requirements
 
@@ -23,7 +23,7 @@ The paired editions represent the same underlying OS and application systems, wi
 6. Include applicable protective, defensive, detection, monitoring, containment, corrective, recovery, restorative, and resilience Alchemies.
 7. Consider human, societal, environmental, informational, digital, physical, operational, and systemic effects where relevant. Do not assume every domain applies to every entry.
 8. Identify intended beneficial uses, foreseeable misuse, threat actors or failure sources where relevant, preconditions, limits, dependencies, side effects, and potential unintended consequences.
-9. Map applicability to all four repositories. Reuse common taxonomy identities for equivalent capabilities; record edition-specific implementation or governance differences explicitly.
+9. Map applicability across **C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians**, and separately map the relevant repository surfaces: C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App. Reuse common taxonomy identities for equivalent capabilities; record edition-specific implementation, integration, and governance differences explicitly.
 10. Do not treat a name, analogy, speculative possibility, or fictional power as a demonstrated real-world capability. Label evidence and maturity accurately.
 11. Preserve traceability: each entry must have a stable identifier, source/reference, rationale, relationships, and revision history.
 12. Do not publish private C2O implementation details, secrets, credentials, private policies, or restricted operational data in the public UNIVERSALIS repositories.
@@ -63,9 +63,11 @@ Every Alchemy entry must include, as applicable:
 12. **Correction, recovery, and restoration Alchemies**
 13. **Misuse cases, hazards, failure modes, and unintended effects**
 14. **Limitations, constraints, and unresolved questions**
-15. **Repository applicability:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
-16. **Evidence status and supporting sources**
-17. **Revision history and related entry IDs**
+15. **Ecosystem applicability:** C2O, UNIVERSALIS, UNIVERSALINS, UNIVERSALIN Guardians
+16. **Repository applicability:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
+17. **Implementation boundary, integration relationship, and private/public sensitivity**
+18. **Evidence status and supporting sources**
+19. **Revision history and related entry IDs**
 
 ## Mandatory prevention completeness rule
 
@@ -90,4 +92,4 @@ A conceptual description is not proof of implementation or effectiveness. Record
 
 ## Repository maintenance
 
-This framework is the common baseline for all four repositories. As new Alchemies or source links are submitted, research and expand the entries, preserve stable IDs and cross-references, update the master list, and propagate consistent edition-appropriate updates to all four repositories. Public repository content must contain only material appropriate for open publication; private-source C2O details remain private.
+This framework is the common baseline for all four repositories. The canonical cumulative taxonomy is `/ALCHEMY_TAXONOMY.md`; update it first, preserve stable IDs and cross-references, and propagate the same public-safe taxonomy definitions to all four repositories. Every entry must map to the four ecosystem categories as relevant, as well as the four repository surfaces. UNIVERSALINS and UNIVERSALIN Guardians are not separate repositories. Public repository content must contain only material appropriate for open publication; private-source C2O details remain private.
