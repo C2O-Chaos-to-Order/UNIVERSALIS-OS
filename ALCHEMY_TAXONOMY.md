@@ -2967,4 +2967,263 @@ Accelerated Power Use is a focused application of the broader Trait Manipulation
 The supplied wiki is community-authored fictional reference material and provides conceptual vocabulary only. Real implementations require independently validated engineering evidence. Claims about human physiology, cognition, or biological enhancement require appropriate scientific evidence and qualified oversight. Each implementation must define capability, target system, acceleration dimension, baseline and target metrics, representative workload, resource envelope, semantic-equivalence criteria, error tolerance, permissions, human override, failure behavior, recovery plan, privacy controls, provenance, edition boundary, evidence status, accountable owner, and release authorization. Performance gains must not conceal regressions in safety, accuracy, accessibility, privacy, or reliability. Taxonomy inclusion is not proof of feasibility, implementation, safety, or legality.
 
 ## Taxonomy maintenance for v0.11.0
-This expansion appends Accelerated Power Use Alchemy without modifying prior identifiers. Core entries are A1396–A1515 and safeguards are A1516–A1535. Ecosystem profiles and defensive harm-pattern classifications use separate stable namespaces. Synchronize this canonical file byte-for-byte across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App.
+This release preserves prior taxonomy entries. See the appended v0.12.0 Adaptive Attacks expansion.
+
+
+# Adaptive Attacks Alchemy — v0.12.0 expansion
+
+## Source interpretation and boundaries
+The supplied Superpower Wiki entry describes attacks or techniques that adapt or evolve during repeated use, changing their output or approach in response to an opponent. It associates the concept with adaptive augmentation, attack modification, and defense adaptation, and notes limitations: adaptation may be temporary, incomplete, or weaken. Related pages place Adaptive Attacks within Adaptive Combat and Reactive Adaptation. These are fictional power descriptions, not evidence of supernatural capabilities or a license to develop harmful attack methods. This taxonomy translates the underlying idea into **adaptive response design** for authorized defensive systems, safe simulations, controlled training, resilience engineering, and protective workflows. Real-world use is restricted to defense, safety, and explicitly authorized security assessment. It must not enable injury, unauthorized targeting, safeguard evasion, or disruption.
+
+**Operational definition:** Adaptive Attacks Alchemy is the bounded adaptation of a simulated or authorized response pattern as conditions change. It preserves authorization, proportionality, human oversight, and reliable stop conditions.
+
+## Core Adaptive Attacks Alchemies — 120 entries
+### Aries
+- **A1536 — Adaptive Initiation Alchemy (Aries):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1537 — Threat Recognition Alchemy (Aries):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1538 — Authorized Response Activation Alchemy (Aries):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1539 — Strategy Selection Alchemy (Aries):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1540 — Readiness Validation Alchemy (Aries):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1541 — Countermeasure Preparation Alchemy (Aries):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1542 — Scenario Response Alchemy (Aries):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1543 — Bounded Escalation Alchemy (Aries):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1544 — Protective Prioritization Alchemy (Aries):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1545 — Safe Simulation Startup Alchemy (Aries):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+
+### Taurus
+- **A1546 — Response Stability Alchemy (Taurus):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1547 — Proportionality Calibration Alchemy (Taurus):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1548 — Resource-Bounded Adaptation Alchemy (Taurus):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1549 — Output Consistency Alchemy (Taurus):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1550 — Intensity Adjustment Alchemy (Taurus):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1551 — Sustained Safety Constraints Alchemy (Taurus):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1552 — Control Compatibility Alchemy (Taurus):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1553 — Predictable Response Alchemy (Taurus):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1554 — Load-Aware Adaptation Alchemy (Taurus):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1555 — Reversible Configuration Alchemy (Taurus):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+
+### Gemini
+- **A1556 — Multi-Signal Assessment Alchemy (Gemini):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1557 — Pattern Correlation Alchemy (Gemini):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1558 — Coordinated Defense Alchemy (Gemini):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1559 — Feedback Adjustment Alchemy (Gemini):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1560 — Interoperable Signaling Alchemy (Gemini):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1561 — System State Alignment Alchemy (Gemini):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1562 — Conflict-Aware Scheduling Alchemy (Gemini):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1563 — Collaborative Assessment Alchemy (Gemini):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1564 — Response Communication Alchemy (Gemini):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1565 — Cross-Component Coordination Alchemy (Gemini):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+
+### Cancer
+- **A1566 — Human Safety Priority Alchemy (Cancer):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1567 — Bystander Protection Alchemy (Cancer):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1568 — Noncombatant Safeguards Alchemy (Cancer):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1569 — De-escalation Preference Alchemy (Cancer):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1570 — Harm Minimization Alchemy (Cancer):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1571 — Consent-Aware Assistance Alchemy (Cancer):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1572 — Safe Interruption Alchemy (Cancer):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1573 — Resource Continuity Alchemy (Cancer):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1574 — Emergency Stop Alchemy (Cancer):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1575 — Recovery-Oriented Response Alchemy (Cancer):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+
+### Leo
+- **A1576 — Adaptive Output Selection Alchemy (Leo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1577 — Proportionate Expression Alchemy (Leo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1578 — Precision Simulation Alchemy (Leo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1579 — Non-Injurious Demonstration Alchemy (Leo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1580 — Countermeasure Presentation Alchemy (Leo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1581 — Adaptive Feedback Alchemy (Leo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1582 — Clear Response Signaling Alchemy (Leo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1583 — Mode Constraints Alchemy (Leo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1584 — Safe Training Execution Alchemy (Leo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1585 — Output Boundary Enforcement Alchemy (Leo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+
+### Virgo
+- **A1586 — Effectiveness Measurement Alchemy (Virgo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1587 — Adaptation Latency Analysis Alchemy (Virgo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1588 — False Positive Monitoring Alchemy (Virgo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1589 — False Negative Monitoring Alchemy (Virgo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1590 — Robustness Verification Alchemy (Virgo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1591 — Adversarial Scenario Testing Alchemy (Virgo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1592 — Bias and Coverage Audit Alchemy (Virgo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1593 — Outcome Traceability Alchemy (Virgo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1594 — Regression Detection Alchemy (Virgo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1595 — Independent Validation Alchemy (Virgo):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+
+### Libra
+- **A1596 — Authorization Governance Alchemy (Libra):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1597 — Least-Privilege Control Alchemy (Libra):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1598 — Proportionality Review Alchemy (Libra):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1599 — Human Approval Alchemy (Libra):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1600 — Transparent Policy Alchemy (Libra):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1601 — Accountability Assignment Alchemy (Libra):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1602 — Contestable Decisions Alchemy (Libra):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1603 — Fairness Review Alchemy (Libra):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1604 — Conflict-of-Interest Review Alchemy (Libra):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1605 — Ethical Impact Assessment Alchemy (Libra):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+
+### Scorpio
+- **A1606 — Adversarial Input Resistance Alchemy (Scorpio):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1607 — Spoofing Detection Alchemy (Scorpio):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1608 — Unsafe Escalation Containment Alchemy (Scorpio):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1609 — Feedback Poisoning Defense Alchemy (Scorpio):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1610 — Runaway Adaptation Prevention Alchemy (Scorpio):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1611 — Unauthorized Targeting Prevention Alchemy (Scorpio):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1612 — Exploit Chain Interruption Alchemy (Scorpio):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1613 — Sensitive Data Protection Alchemy (Scorpio):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1614 — Emergency Isolation Alchemy (Scorpio):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1615 — Forensic Preservation Alchemy (Scorpio):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+
+### Sagittarius
+- **A1616 — Safe-Test Learning Alchemy (Sagittarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1617 — Defensive Lesson Transfer Alchemy (Sagittarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1618 — Scenario Generalization Alchemy (Sagittarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1619 — Simulation Adaptation Alchemy (Sagittarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1620 — Uncertainty Mapping Alchemy (Sagittarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1621 — Cross-Domain Patterns Alchemy (Sagittarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1622 — Model Drift Learning Alchemy (Sagittarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1623 — Capability Limit Recognition Alchemy (Sagittarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1624 — Safety Standards Interoperability Alchemy (Sagittarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1625 — Periodic Reassessment Alchemy (Sagittarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+
+### Capricorn
+- **A1626 — Controlled Deployment Alchemy (Capricorn):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1627 — Versioned Response Policies Alchemy (Capricorn):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1628 — Configuration Integrity Alchemy (Capricorn):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1629 — Release Safety Gate Alchemy (Capricorn):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1630 — Capacity Planning Alchemy (Capricorn):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1631 — Audit Records Alchemy (Capricorn):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1632 — Maintenance Management Alchemy (Capricorn):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1633 — Degraded-Safe Operation Alchemy (Capricorn):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1634 — Service Continuity Alchemy (Capricorn):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1635 — Safe Decommissioning Alchemy (Capricorn):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+
+### Aquarius
+- **A1636 — Distributed Defense Alchemy (Aquarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1637 — Network-Aware Response Alchemy (Aquarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1638 — Local-First Adaptation Alchemy (Aquarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1639 — Resilient Coordination Alchemy (Aquarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1640 — UNIVERSALINS Safety Assistance Alchemy (Aquarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1641 — Guardian-Directed Support Alchemy (Aquarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1642 — Private Collective Intelligence Alchemy (Aquarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1643 — Fault-Tolerant Orchestration Alchemy (Aquarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1644 — Edition Compatibility Alchemy (Aquarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1645 — Ecosystem Safety Coordination Alchemy (Aquarius):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+
+### Pisces
+- **A1646 — Response State Restoration Alchemy (Pisces):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1647 — Unsafe Adaptation Rollback Alchemy (Pisces):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1648 — Evidence-Preserving Recovery Alchemy (Pisces):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1649 — Model Reconciliation Alchemy (Pisces):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1650 — Post-Incident Human Review Alchemy (Pisces):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1651 — Safe Baseline Restoration Alchemy (Pisces):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1652 — Harm Remediation Alchemy (Pisces):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1653 — Lessons Integration Alchemy (Pisces):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1654 — Verified Return to Service Alchemy (Pisces):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+- **A1655 — Continuous Renewal Alchemy (Pisces):** Adapt an authorized defensive response, controlled simulation, or protective workflow to changing conditions while preserving scope, proportionality, and safety.
+
+## Prevention, protection, correction, and restoration — 20 entries
+- **A1656 — Defensive Purpose Gate Safeguard Alchemy:** Require a documented defensive, safety, or authorized testing purpose.
+- **A1657 — Authorization and Scope Gate Safeguard Alchemy:** Prohibit unauthorized targeting, injury, coercion, or real-world attack optimization.
+- **A1658 — Human Approval Gate Safeguard Alchemy:** Require human approval for consequential response escalation.
+- **A1659 — De-escalation Priority Safeguard Alchemy:** Use the least harmful effective response and prioritize de-escalation.
+- **A1660 — Bystander Protection Safeguard Alchemy:** Protect bystanders and dependent systems.
+- **A1661 — Resource and Rate Limits Safeguard Alchemy:** Apply strict resource and rate limits to adaptive loops.
+- **A1662 — Runaway Loop Containment Safeguard Alchemy:** Detect and contain runaway adaptation.
+- **A1663 — Input Spoofing Resistance Safeguard Alchemy:** Validate inputs and resist spoofing, poisoning, and manipulation.
+- **A1664 — Privacy Minimization Safeguard Alchemy:** Minimize personal and bystander information collection.
+- **A1665 — Access-Control Preservation Safeguard Alchemy:** Prevent adaptation from bypassing access controls or policy.
+- **A1666 — Bias and Impact Review Safeguard Alchemy:** Test for bias, disparate impact, and unsafe generalization.
+- **A1667 — Pause and Emergency Stop Safeguard Alchemy:** Maintain reliable pause, cancellation, and emergency-stop controls.
+- **A1668 — Isolated Security Simulation Safeguard Alchemy:** Use isolated sandboxes for offensive-security simulations.
+- **A1669 — Rules-of-Engagement Verification Safeguard Alchemy:** Require explicit authorization, scope, and rules of engagement.
+- **A1670 — Audit and Provenance Safeguard Alchemy:** Record versions, inputs, decisions, approvals, and outcomes.
+- **A1671 — Protective-Control Integrity Safeguard Alchemy:** Verify adaptation does not disable existing protective controls.
+- **A1672 — Safe Rollback Safeguard Alchemy:** Provide rollback to a known-safe baseline.
+- **A1673 — Assistant Authority Boundary Safeguard Alchemy:** Keep assistants advisory unless explicitly authorized for bounded actions.
+- **A1674 — C2O-UNIVERSALIS Boundary Safeguard Alchemy:** Keep C2O private policy and credentials out of public UNIVERSALIS.
+- **A1675 — Independent Safety Review Safeguard Alchemy:** Require independent review for high-impact systems.
+
+## Ecosystem-specific profiles
+C2O and UNIVERSALIS remain editions of the same underlying OS and application architectures with distinct private-source and public/open-source boundaries. UNIVERSALINS are non-personal assistants. UNIVERSALIN Guardians are personal human assistants and guardians. Neither receives implicit authority to initiate harmful action or autonomously escalate consequential responses.
+### C2O Adaptive Response Stewardship
+- **C2OADA001 — C2O Adaptive Response Stewardship 1:** Govern private response policies.
+- **C2OADA002 — C2O Adaptive Response Stewardship 2:** protect confidential intelligence and controls.
+- **C2OADA003 — C2O Adaptive Response Stewardship 3:** separate assessment, approval, execution.
+- **C2OADA004 — C2O Adaptive Response Stewardship 4:** require scoped authorization.
+- **C2OADA005 — C2O Adaptive Response Stewardship 5:** enforce least privilege.
+- **C2OADA006 — C2O Adaptive Response Stewardship 6:** test adversarial inputs.
+- **C2OADA007 — C2O Adaptive Response Stewardship 7:** maintain confidential audit evidence.
+- **C2OADA008 — C2O Adaptive Response Stewardship 8:** contain unsafe loops.
+- **C2OADA009 — C2O Adaptive Response Stewardship 9:** provide rollback.
+- **C2OADA010 — C2O Adaptive Response Stewardship 10:** prevent private-policy leakage.
+- **C2OADA011 — C2O Adaptive Response Stewardship 11:** review operational risk.
+- **C2OADA012 — C2O Adaptive Response Stewardship 12:** retire unsafe capabilities..
+
+### UNIVERSALIS Adaptive Defense Commons
+- **UNIADA001 — UNIVERSALIS Adaptive Defense Commons 1:** Publish open defensive contracts.
+- **UNIADA002 — UNIVERSALIS Adaptive Defense Commons 2:** remain independently operable.
+- **UNIADA003 — UNIVERSALIS Adaptive Defense Commons 3:** document scope and safety limits.
+- **UNIADA004 — UNIVERSALIS Adaptive Defense Commons 4:** provide reproducible builds.
+- **UNIADA005 — UNIVERSALIS Adaptive Defense Commons 5:** enable independent review.
+- **UNIADA006 — UNIVERSALIS Adaptive Defense Commons 6:** publish threat assumptions.
+- **UNIADA007 — UNIVERSALIS Adaptive Defense Commons 7:** support interoperable formats.
+- **UNIADA008 — UNIVERSALIS Adaptive Defense Commons 8:** minimize telemetry.
+- **UNIADA009 — UNIVERSALIS Adaptive Defense Commons 9:** document safe simulation.
+- **UNIADA010 — UNIVERSALIS Adaptive Defense Commons 10:** maintain transparent governance.
+- **UNIADA011 — UNIVERSALIS Adaptive Defense Commons 11:** support forks.
+- **UNIADA012 — UNIVERSALIS Adaptive Defense Commons 12:** deprecate unsafe components responsibly..
+
+### UNIVERSALINS Adaptive Assistance
+- **INSADA001 — UNIVERSALINS Adaptive Assistance 1:** Identify changing conditions.
+- **INSADA002 — UNIVERSALINS Adaptive Assistance 2:** explain uncertainty.
+- **INSADA003 — UNIVERSALINS Adaptive Assistance 3:** use authorized sources.
+- **INSADA004 — UNIVERSALINS Adaptive Assistance 4:** recommend de-escalation.
+- **INSADA005 — UNIVERSALINS Adaptive Assistance 5:** require human approval.
+- **INSADA006 — UNIVERSALINS Adaptive Assistance 6:** never optimize real-world harm.
+- **INSADA007 — UNIVERSALINS Adaptive Assistance 7:** use approved sandboxes.
+- **INSADA008 — UNIVERSALINS Adaptive Assistance 8:** preserve cancellation.
+- **INSADA009 — UNIVERSALINS Adaptive Assistance 9:** avoid sensitive profiling.
+- **INSADA010 — UNIVERSALINS Adaptive Assistance 10:** record provenance.
+- **INSADA011 — UNIVERSALINS Adaptive Assistance 11:** protect user data.
+- **INSADA012 — UNIVERSALINS Adaptive Assistance 12:** remain non-personal and non-sovereign..
+
+### UNIVERSALIN Guardian Adaptive Support
+- **GUARDA001 — UNIVERSALIN Guardian Adaptive Support 1:** Support human-defined safety goals.
+- **GUARDA002 — UNIVERSALIN Guardian Adaptive Support 2:** respect consent.
+- **GUARDA003 — UNIVERSALIN Guardian Adaptive Support 3:** avoid coercive escalation.
+- **GUARDA004 — UNIVERSALIN Guardian Adaptive Support 4:** explain options.
+- **GUARDA005 — UNIVERSALIN Guardian Adaptive Support 5:** prioritize de-escalation.
+- **GUARDA006 — UNIVERSALIN Guardian Adaptive Support 6:** never initiate harmful action.
+- **GUARDA007 — UNIVERSALIN Guardian Adaptive Support 7:** require explicit direction.
+- **GUARDA008 — UNIVERSALIN Guardian Adaptive Support 8:** protect personal information.
+- **GUARDA009 — UNIVERSALIN Guardian Adaptive Support 9:** respect boundaries.
+- **GUARDA010 — UNIVERSALIN Guardian Adaptive Support 10:** support trusted human help.
+- **GUARDA011 — UNIVERSALIN Guardian Adaptive Support 11:** permit refusal.
+- **GUARDA012 — UNIVERSALIN Guardian Adaptive Support 12:** remain under human authority..
+
+## Harm-pattern classifications — recognition and prevention only
+- **ADAX001 — Unbounded escalation:** Response intensifies without a ceiling or stop condition.
+- **ADAX002 — Unauthorized targeting:** Adaptive capabilities are directed at people or systems without authorization.
+- **ADAX003 — Harm optimization:** Adaptation increases injury, coercion, disruption, or destructive impact.
+- **ADAX004 — Feedback poisoning:** Malicious feedback trains a system toward unsafe behavior.
+- **ADAX005 — Bystander harm:** Actions fail to account for uninvolved people or dependent systems.
+- **ADAX006 — Scope expansion:** A bounded test silently expands beyond authorization.
+- **ADAX007 — Protective-control bypass:** Adaptation circumvents safety, access, or policy controls.
+- **ADAX008 — Privacy-invasive targeting:** Sensitive personal data tailors coercive or harmful responses.
+- **ADAX009 — False threat classification:** Benign activity triggers an aggressive response.
+- **ADAX010 — Automation cascade:** Rapid actions propagate errors across connected systems.
+- **ADAX011 — Human override suppression:** People cannot pause, contest, or stop adaptive actions.
+- **ADAX012 — Private-policy exposure:** Confidential C2O controls leak into public artifacts.
+
+## Relationships to existing Alchemies
+Adaptive Attacks is a specific capability-use trait related to Trait Manipulation and Accelerated Power Use. It is distinct from Adaptive Defense; this taxonomy restricts real-world application to defense, safety, and authorized simulation. It cross-references Operating System Alchemy for isolation, access control, monitoring, and recovery; Application Alchemy for safe workflow orchestration; Mind and Body Alchemy for human factors; and Consciousness Alchemy for agency and oversight. Adaptive Combat, Reactive Adaptation, Adaptation Science, and Technological Adaptation are adjacent fictional or conceptual categories, not proof of implementation.
+
+## Implementation and evidence requirements
+The source is community-authored fictional reference material and provides conceptual vocabulary only. Real adaptive systems require independent engineering evidence, safety testing, and security review. Each implementation trace must define defensive purpose, authorized scope, test environment, threat model, allowed and prohibited actions, escalation ceiling, human approval points, stop conditions, resource limits, data handling, and recovery path. Offensive-security tests require explicit authorization, documented rules of engagement, isolated targets, and controlled test windows. No supernatural power, guaranteed adaptation, or universal countermeasure is implied. Taxonomy inclusion is not proof of feasibility, implementation, legality, or safety.
+
+## Required record fields
+Record target system and class; defensive or simulation purpose; authorization and scope; threat model; adaptive inputs and provenance; response constraints; escalation ceiling; prohibited behaviors; human approval and override; bystander and privacy protections; model/version; test environment; measured outcomes and limitations; rollback and recovery; edition boundary; evidence status; accountable owner; and release authorization.
+
+## Taxonomy maintenance for v0.12.0
+This expansion appends Adaptive Attacks Alchemy without modifying prior identifiers. Core entries are A1536–A1655 and safeguards are A1656–A1675. Ecosystem profiles and defensive harm-pattern classifications use separate stable namespaces. Synchronize this canonical file byte-for-byte across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App. A taxonomy entry is not proof of implementation.
