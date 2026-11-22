@@ -569,6 +569,122 @@ Public application lifecycle under open contracts.
 
 ---
 
+## Energy and Resource Alchemies
+
+These are specialized expressions of the root Alchemy that organize the intake, use, and conservation of energy and resources across the dual-intelligence system. Each pair keeps C2O (FatherThread / private) and UNIVERSALIS (MotherThread / public) distinct yet mappable.
+
+### Energy Utilization Alchemy
+
+**Energy Utilization Alchemy**  
+The bounded process that organizes the intake and directed use of energy so that systems and beings can act while remaining coherent, recoverable, and accountable.
+
+- **Energy Intake Alchemy** — structures the entry of energy into a stable, addressable form.  
+- **Energy Direction Alchemy** — directs available energy toward intended processes without waste or overflow.  
+- **Energy Accountability Alchemy** — leaves an attributable record of energy use appropriate to its edition.
+
+**C2O Energy Utilization Alchemy**  
+Private energy intake and use under internal governance.
+
+- **Private Energy Stewardship Alchemy** — governs energy intake and direction inside the C2O domain under company rules.  
+- **Internal Energy Bound Alchemy** — keeps private energy flows contained and recoverable without external exposure.  
+- **C2O Energy Continuity Alchemy** — ensures private energy utilization structures can be restored after interruption.
+
+**UNIVERSALIS Energy Utilization Alchemy**  
+Public energy intake and use under open contracts.
+
+- **Open Energy Transparency Alchemy** — makes public energy intake and direction independently verifiable.  
+- **Public Energy Openness Alchemy** — maintains public energy flows under transparent rules.  
+- **UNIVERSALIS Energy Continuity Alchemy** — ensures public energy utilization structures can be restored with open records.
+
+**Alignment**  
+- **Energy Utilization Mapping Alchemy** — aligns corresponding private and public energy utilization structures without collapse.
+
+---
+
+### Energy Efficiency Alchemy
+
+**Energy Efficiency Alchemy**  
+The bounded process that organizes the conservation and optimal use of energy so that output is maximized relative to input while remaining coherent and accountable.
+
+- **Waste Reduction Alchemy** — identifies and bounds unnecessary energy expenditure.  
+- **Conversion Optimization Alchemy** — improves the ratio of useful work to energy consumed.  
+- **Efficiency Evidence Alchemy** — distinguishes established efficiency gains from hypothesis.
+
+**C2O Energy Efficiency Alchemy**  
+Private energy conservation under internal governance.
+
+- **Private Efficiency Stewardship Alchemy** — governs internal energy conservation under company rules.  
+- **Internal Waste Bound Alchemy** — contains and reduces private energy waste without external leakage.  
+- **C2O Efficiency Continuity Alchemy** — keeps private efficiency structures recoverable internally.
+
+**UNIVERSALIS Energy Efficiency Alchemy**  
+Public energy conservation under open contracts.
+
+- **Open Efficiency Transparency Alchemy** — makes public energy conservation independently verifiable.  
+- **Public Waste Openness Alchemy** — maintains public waste reduction under transparent rules.  
+- **UNIVERSALIS Efficiency Continuity Alchemy** — keeps public efficiency structures recoverable with open records.
+
+**Alignment**  
+- **Energy Efficiency Mapping Alchemy** — aligns corresponding private and public energy efficiency structures without collapse.
+
+---
+
+### Resource Utilization Alchemy
+
+**Resource Utilization Alchemy**  
+The bounded process that organizes the intake and directed use of material, computational, and data resources so that systems and beings can act while remaining coherent, recoverable, and accountable.
+
+- **Resource Intake Alchemy** — structures the entry of resources into a stable, addressable form.  
+- **Resource Allocation Alchemy** — directs available resources toward intended processes without exhaustion or overflow.  
+- **Resource Accountability Alchemy** — leaves an attributable record of resource use appropriate to its edition.
+
+**C2O Resource Utilization Alchemy**  
+Private resource intake and use under internal governance.
+
+- **Private Resource Stewardship Alchemy** — governs resource intake and allocation inside the C2O domain under company rules.  
+- **Internal Resource Bound Alchemy** — keeps private resource flows contained and recoverable without external exposure.  
+- **C2O Resource Continuity Alchemy** — ensures private resource utilization structures can be restored after interruption.
+
+**UNIVERSALIS Resource Utilization Alchemy**  
+Public resource intake and use under open contracts.
+
+- **Open Resource Transparency Alchemy** — makes public resource intake and allocation independently verifiable.  
+- **Public Resource Openness Alchemy** — maintains public resource flows under transparent rules.  
+- **UNIVERSALIS Resource Continuity Alchemy** — ensures public resource utilization structures can be restored with open records.
+
+**Alignment**  
+- **Resource Utilization Mapping Alchemy** — aligns corresponding private and public resource utilization structures without collapse.
+
+---
+
+### Resource Efficiency Alchemy
+
+**Resource Efficiency Alchemy**  
+The bounded process that organizes the conservation and optimal use of material, computational, and data resources so that output is maximized relative to input while remaining coherent and accountable.
+
+- **Resource Waste Reduction Alchemy** — identifies and bounds unnecessary resource expenditure.  
+- **Resource Conversion Optimization Alchemy** — improves the ratio of useful work to resources consumed.  
+- **Resource Efficiency Evidence Alchemy** — distinguishes established efficiency gains from hypothesis.
+
+**C2O Resource Efficiency Alchemy**  
+Private resource conservation under internal governance.
+
+- **Private Resource Efficiency Stewardship Alchemy** — governs internal resource conservation under company rules.  
+- **Internal Resource Waste Bound Alchemy** — contains and reduces private resource waste without external leakage.  
+- **C2O Resource Efficiency Continuity Alchemy** — keeps private resource efficiency structures recoverable internally.
+
+**UNIVERSALIS Resource Efficiency Alchemy**  
+Public resource conservation under open contracts.
+
+- **Open Resource Efficiency Transparency Alchemy** — makes public resource conservation independently verifiable.  
+- **Public Resource Waste Openness Alchemy** — maintains public resource waste reduction under transparent rules.  
+- **UNIVERSALIS Resource Efficiency Continuity Alchemy** — keeps public resource efficiency structures recoverable with open records.
+
+**Alignment**  
+- **Resource Efficiency Mapping Alchemy** — aligns corresponding private and public resource efficiency structures without collapse.
+
+---
+
 These Alchemies form the minimal complete set required for the OSs and Apps to operate under the dual-intelligence structure.
 
 Each can be further specialized while remaining an expression of the root Alchemy.
