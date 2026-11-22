@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.26.0  
-**Status:** Living taxonomy; version 0.26.0 adds the Archetype Combination Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
+**Version:** 0.27.0  
+**Status:** Living taxonomy; version 0.27.0 adds the Ascended Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -3695,6 +3695,58 @@ This expansion appends Advanced Powers Alchemy without renumbering or replacing 
 - **Related entries:** A1300 Trait Combination Alchemy; A1307 Trait Classification Alchemy; A1308 Trait Validation Alchemy; A1310 Trait Uncertainty Analysis Alchemy; A1311 Trait Bias Audit Alchemy; A1313 Trait Interaction Testing Alchemy; A1292 Trait Non-Discrimination Alchemy; A1287 Trait Consent Stewardship Alchemy; A1288 Trait Privacy Alchemy; A1289 Trait Vulnerability Protection Alchemy.
 - **Residual limits:** Archetype categories are interpretive and culturally situated. Composite classifications can remain ambiguous, incomplete, or contested. No taxonomy entry establishes a person's actual abilities, identity, morality, ancestry, mental state, or authority.
 
+
+## Ascended Alchemy Expansion
+
+**Primary source:** [Superpower Wiki — Trait:Ascended](https://powerlisting.fandom.com/wiki/Trait:Ascended). The source frames Ascended as a fictional higher state of being and describes spiritual ascension, evolutionary ascension, and nigh-ascension (an incomplete or partial transition). It associates the state with self-realization or connection to an external source of empowerment and lists varied fictional applications. These are source classifications and fictional examples, not empirical evidence that such states or powers exist.
+
+**Scope distinction:** Ascension is a modeled transition or claimed transition from an initial state to a qualitatively elevated state. The taxonomy separates the transition, the resulting state, the proposed mechanism, and any attributed capabilities. Ascension is not automatically synonymous with evolution, transcendence, enlightenment, divinity, immortality, resurrection, invulnerability, or omnipotence. Existing entries—including **A643/A782 Transcendence-Concept Alchemy**, **A928 Evolution-and-Consciousness Alchemy**, **A1680 Capability Evolution Hypothesis Alchemy**, **A2393 Existence Persistence Alchemy**, **A2399 Life-Death Concept Boundary Alchemy**, and **A2471 Ancient Power Evolution Alchemy**—remain distinct and are cross-referenced rather than duplicated.
+
+### Aries — initiation and transition definition
+- **A2789 — Ascension Alchemy (Aries/Sagittarius):** Define and classify a proposed transition from an initial existential, developmental, spiritual, fictional, or system state to a specified elevated state. Declare the domain and medium, baseline, transition criteria, claimed outcome, evidence class, and limits; do not treat fictional ascension as a real-world capability.
+- **A2790 — Ascension State Definition Alchemy (Taurus):** Specify the resulting state independently of the transition narrative, including what changes, what remains invariant, what is unknown, and how the state is recognized.
+- **A2791 — Ascension Pathway Classification Alchemy (Gemini):** Distinguish self-realization, externally conferred empowerment, technological or evolutionary scenario, spiritual interpretation, and other narrative pathways without conflating their assumptions or evidence.
+- **A2792 — Ascension Readiness and Preconditions Alchemy (Virgo):** Identify prerequisites, contextual conditions, dependencies, eligibility, and uncertainty for a proposed transition; do not infer readiness from status, belief, identity, or an unsupported power claim.
+
+### Taurus — embodiment, continuity, and state integrity
+- **A2793 — Spiritual Ascension Model Alchemy (Sagittarius):** Classify narratives in which a subject is described as moving beyond ordinary bodily embodiment into a spiritual or non-corporeal mode; distinguish religious or philosophical interpretation from measurable physical claims.
+- **A2794 — Evolutionary Ascension Model Alchemy (Aquarius):** Classify fictional or hypothetical transitions associated with technological, evolutionary, or substrate change; distinguish engineered system migration from biological evolution and from unsupported claims of becoming pure energy.
+- **A2795 — Partial Ascension and Nigh-Ascension Alchemy (Gemini):** Represent incomplete, intermediate, conditional, or domain-limited transitions; specify retained constraints and avoid treating partial status as full ascension.
+- **A2796 — Embodiment and Substrate Transition Alchemy (Taurus):** Track claimed changes in embodiment, substrate, interface, or mode of interaction while recording continuity assumptions and the limits of any analogy to physical or biological transformation.
+- **A2797 — Identity and Continuity Across Ascension Alchemy (Cancer):** Preserve the represented subject's self-defined identity, history, agency, relationships, and continuity questions across a modeled state transition; do not assume that similarity of records proves continuity of a person or consciousness.
+
+### Gemini — capabilities, sources, and differentiation
+- **A2798 — Ascended Capability Attribution Alchemy (Leo/Virgo):** Record each capability attributed to an ascended state as a separate claim with source, domain, conditions, scope, dependencies, counterexamples, and evidence status; never infer a capability merely from the label Ascended.
+- **A2799 — External Empowerment Provenance Alchemy (Virgo):** Trace claims that an external source, entity, artifact, or system grants or enables ascension; document authorization, provenance, uncertainty, dependency, and source limitations without validating supernatural claims.
+- **A2800 — Self-Realization and Latent-Potential Interpretation Alchemy (Sagittarius):** Distinguish self-discovery and realized potential from externally granted capabilities, and distinguish reflective or spiritual interpretations from testable performance changes.
+- **A2801 — Ascension Dependency and Source-Severance Analysis Alchemy (Scorpio):** Assess whether a modeled elevated state depends on an external source, artifact, environment, community, or ongoing service; record failure, withdrawal, and dependency scenarios without providing coercive severance methods.
+
+### Leo — expression and integration
+- **A2802 — Post-Ascension Adaptation Alchemy (Leo):** Model adjustment to changed responsibilities, capabilities, limitations, relationships, and environment after a proposed transition; include ordinary support and non-escalatory alternatives.
+- **A2803 — Ascended Role and Responsibility Alchemy (Libra/Capricorn):** Examine claimed guardian, creator, steward, or other elevated roles as bounded responsibilities rather than proof of entitlement, superiority, or authority over others.
+- **A2804 — Ascension Reversibility and Safe-Exit Alchemy (Pisces):** Define whether a fictional or system-level transition is reversible, partially reversible, or irreversible; specify safe exit, fallback, and recovery assumptions without implying real biological or metaphysical reversibility.
+
+### Virgo — validation and limits
+- **A2805 — Ascension Claim Evidence and Validation Alchemy (Virgo):** Separate source narrative, testimony, interpretation, simulation, engineering demonstration, and independently verified evidence; require domain-appropriate validation and explicit uncertainty.
+- **A2806 — Ascension Limitations and Residual Vulnerability Alchemy (Capricorn):** Record retained vulnerabilities, constraints, failure modes, trade-offs, and unresolved risks; prohibit claims of absolute invulnerability, omnipotence, or guaranteed superiority without extraordinary independent evidence.
+
+### Prevention, protection, detection, and recovery
+- **A2807 — Coercive Ascension and Forced-Transition Prevention Alchemy (Cancer):** Prevent forced, deceptive, or non-consensual attempts to impose an ascension narrative, identity, procedure, system migration, or state change; preserve refusal and revocation.
+- **A2808 — Identity Displacement and Continuity-Harm Prevention Alchemy (Cancer):** Prevent claims of ascension from erasing, invalidating, or replacing a person's self-defined identity, relationships, history, or rights; require careful handling of disputed continuity claims.
+- **A2809 — Ascended-Status Supremacy and Discrimination Prevention Alchemy (Libra):** Prevent elevated-state labels from being used to justify caste, dehumanization, exclusion, domination, unequal rights, or presumed moral superiority.
+- **A2810 — False Capability and Omnipotence Claim Prevention Alchemy (Virgo):** Prevent unsupported claims of immortality, invulnerability, omniscience, omnipresence, resurrection, or unlimited power from being treated as established facts, credentials, or grounds for trust.
+- **A2811 — External Source Exploitation and Dependency Protection Alchemy (Scorpio):** Detect and mitigate manipulative promises of ascension, exploitative gatekeeping, coercive dependency, unsafe inducements, and concealed source conditions; preserve independent review and safe disengagement.
+- **A2812 — Ascension Harm Monitoring, Containment, and Recovery Alchemy (Pisces):** Monitor adverse effects, instability, distress, loss of function, privacy violations, and unsafe state transitions in any implemented simulation or system analogue; support safe stop, rollback where feasible, incident review, restoration, and documented residual risks.
+
+**Applicability and integration**
+- **C2O:** private-source governance, authorization, evidence controls, and confidential implementation details remain within C2O.
+- **UNIVERSALIS:** public, inspectable classifications and portable contracts distinguish conceptual claims from implemented and verified capabilities; no C2O-private policies, keys, or incident data.
+- **UNIVERSALINS:** non-personal assistants may explain, compare, classify, and audit ascension claims within delegated scope; they must not claim ascended status or impose state changes.
+- **UNIVERSALIN Guardians:** personal human-assistant support remains user-directed, consent-based, revocable, privacy-preserving, and non-coercive; a Guardian must not pressure a person to accept an ascension identity or claim.
+- **Repository mapping:** C2O-OS and UNIVERSALIS-OS apply relevant classifications to system state, lifecycle, identity, security, migration, and recovery contracts; C2O-App and UNIVERSALIS-App apply them to user-facing representations, consent, workflows, and records. Shared taxonomy identifiers remain synchronized across all four repositories.
+- **Related entries:** A643/A782 Transcendence-Concept Alchemy; A928 Evolution-and-Consciousness Alchemy; A1680 Capability Evolution Hypothesis Alchemy; A2393 Existence Persistence Alchemy; A2399 Life-Death Concept Boundary Alchemy; A2471 Ancient Power Evolution Alchemy; A1287 Trait Consent Stewardship Alchemy; A1288 Trait Privacy Alchemy; A1292 Trait Non-Discrimination Alchemy.
+- **Residual limits:** Ascension is a broad fictional, religious, philosophical, and speculative concept. The same word may describe materially different claims. Taxonomy membership does not validate metaphysical, biological, technological, or supernatural transformation.
+
 ## Ecosystem Profiles
 
 #### C2OADPC — C2O
@@ -5440,3 +5492,8 @@ This expansion adds **72 uniquely identified records**: **60 A-numbered Alchemie
 ## Maintenance Record for v0.26.0
 
 This expansion adds **24 uniquely identified A-numbered Alchemies (A2765–A2788)** for Archetype Combination, including component identification, compatibility and interaction analysis, composition mapping, conflict resolution, emergent-property analysis, identity and boundary preservation, contextual expression, reversibility, provenance, consent, role balance, capability boundaries, and dedicated prevention/detection/recovery controls. The A-numbered sequence now reaches **A2788**. This identifier ceiling is not the cumulative count of all taxonomy records. The source is a fictional archetype/trait classification; the new entries are conceptual taxonomy specifications and are not evidence of real-world supernatural or transformative capability. Existing identifiers, including A1300, are preserved.
+
+
+## Maintenance Record for v0.27.0
+
+This expansion adds **24 uniquely identified A-numbered Alchemies (A2789–A2812)** for Ascended, covering transition definition, resulting-state classification, pathway and prerequisite analysis, spiritual/evolutionary/partial ascension models, embodiment and identity continuity, capability attribution, empowerment provenance, dependency analysis, post-transition adaptation, role boundaries, reversibility, evidence validation, limitations, and dedicated prevention/protection/detection/recovery controls. The A-numbered sequence now reaches **A2812**. This identifier ceiling is not the cumulative count of all taxonomy records. The source is a fictional trait classification; these entries are conceptual taxonomy specifications, not evidence of real-world ascension or supernatural capability. Existing related entries remain distinct and are cross-referenced.
