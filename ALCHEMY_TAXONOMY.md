@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.21.0  
-**Status:** Living taxonomy; version 0.21.0 includes the Angelic Trait Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
+**Version:** 0.24.0  
+**Status:** Living taxonomy; version 0.24.0 includes the Animal Limbs Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -5152,3 +5152,130 @@ These classifications support recognition, prevention, detection, containment, a
 
 This expansion adds **72 uniquely identified records**: **60 A-numbered Alchemies** (A2585–A2644), comprising 48 core Alchemies and 12 prevention/protection/correction/recovery Alchemies; **4 ecosystem profiles** (ANIP-C2O-001 through ANIP-GRD-001); and **8 defensive harm-pattern classifications** (ANIPX001–ANIPX008). The A-numbered sequence now reaches **A2644**. This identifier ceiling is not the cumulative count of all taxonomy records. Taxonomy inclusion does not establish implementation or scientific validation.
 
+# Animal Limbs Alchemy Expansion — v0.24.0
+
+## Scope and source interpretation
+The source concept covers possessing, transforming, or creating animal-derived limbs and limb-like appendages. This expansion treats Animal Limbs as a morphology, functional-anatomy, motor-control, and whole-body integration domain. It is distinct from Animal-Induced Powers (an acquisition pathway) and Animal Ears (a specialized anatomical feature). Related domains include Animal Morphing, Animalia Manipulation, Animal Physiology, Animal Mimicry, Body Part Substitution, Partial Transformation, and animal-based locomotor or sensory capabilities.
+
+The taxonomy is a fictional and conceptual design framework. The source material is not biological, medical, engineering, or scientific evidence that such transformations are possible. It must not recommend animal exposure, transplantation, genetic modification, toxin exposure, or hazardous procedures.
+
+## Core Animal Limbs Alchemies
+### Zodiac Stage — Aries: Initiation and controlled activation
+- **A2645 — Limb-form initiation:** Initiates a selected animal-limb form through a deliberate, bounded transition.
+- **A2646 — Selective appendage manifestation:** Manifests only the selected limb while preserving unaffected anatomy.
+- **A2647 — Transformation readiness calibration:** Checks fictional readiness conditions, limits, and safe transition boundaries.
+- **A2648 — Activation consent and intent lock:** Requires explicit, informed intent before activation and rejects coerced activation.
+### Zodiac Stage — Taurus: Structure and stability
+- **A2649 — Limb structural integrity:** Maintains coherent load-bearing structure, joint alignment, and proportional support.
+- **A2650 — Adaptive joint articulation:** Maps animal-specific joint motion to compatible, controllable movement.
+- **A2651 — Mass and balance compensation:** Balances altered limb mass, leverage, and center of gravity across the body.
+- **A2652 — Tissue boundary coherence:** Maintains defined interfaces between transformed and unchanged anatomy.
+### Zodiac Stage — Gemini: Coordination and dexterity
+- **A2653 — Bilateral limb coordination:** Coordinates paired and asymmetric animal limbs without unintended interference.
+- **A2654 — Fine motor translation:** Translates motor commands into the movement vocabulary of an animal-derived limb.
+- **A2655 — Multi-appendage coordination:** Coordinates additional limbs while preserving clear control ownership.
+- **A2656 — Tactile feedback integration:** Maps touch, pressure, grip, and contact feedback into interpretable signals.
+### Zodiac Stage — Cancer: Protection and care
+- **A2657 — Limb vulnerability awareness:** Identifies fictional structural and environmental vulnerabilities of each selected limb form.
+- **A2658 — Protective surface adaptation:** Provides proportionate protective surfaces without obstructing movement or sensation.
+- **A2659 — Injury-limiting movement:** Constrains movement patterns that would place the limb or connected body at unreasonable risk.
+- **A2660 — Care-compatible reversion:** Supports controlled return to a stable baseline form for inspection, rest, or care.
+### Zodiac Stage — Leo: Strength and expression
+- **A2661 — Proportionate force expression:** Expresses limb strength within defined whole-body load and control limits.
+- **A2662 — Grip and contact modulation:** Adjusts grip, adhesion, and contact force to avoid unintended damage.
+- **A2663 — Claw and talon governance:** Controls extension, retraction, orientation, and safe handling of claws or talons.
+- **A2664 — Non-coercive physical expression:** Separates assistive or expressive use from intimidation, restraint, or forced bodily control.
+### Zodiac Stage — Virgo: Precision and adaptation
+- **A2665 — Species-feature selection:** Selects bounded limb features from an animal reference without importing unrelated traits.
+- **A2666 — Anatomical proportion calibration:** Maintains coherent scale, reach, articulation, and load distribution.
+- **A2667 — Task-fit limb configuration:** Matches configuration to a legitimate task while respecting environmental and accessibility constraints.
+- **A2668 — Transformation anomaly detection:** Detects mismatched, incomplete, or unintended features and initiates safe containment or reversion.
+### Zodiac Stage — Libra: Balance and reciprocity
+- **A2669 — Whole-body kinetic balance:** Coordinates transformed limbs with posture, balance, and compensatory movement.
+- **A2670 — Paired capability equilibrium:** Prevents enhancement to one limb from destabilizing its counterpart or the wider body.
+- **A2671 — Shared-space movement calibration:** Adapts reach, turning radius, and movement to avoid unintended contact.
+- **A2672 — Reciprocal interaction boundaries:** Preserves other beings' autonomy and bodily boundaries during limb use.
+### Zodiac Stage — Scorpio: Transformation and containment
+- **A2673 — Localized morphological transformation:** Restricts animal-derived morphology to explicitly selected anatomical regions.
+- **A2674 — Transformation-state isolation:** Prevents one limb transformation from propagating into unrelated systems or identities.
+- **A2675 — Reversible form containment:** Maintains a defined route back to the prior stable configuration when reversion is available.
+- **A2676 — Unwanted appendage suppression:** Prevents or contains involuntary, uncontrolled, or unrequested appendage manifestation.
+### Zodiac Stage — Sagittarius: Adaptation and learning
+- **A2677 — Locomotor pattern adaptation:** Adapts gait, climbing, swimming, jumping, or other locomotor patterns to selected limbs.
+- **A2678 — Environmental compatibility mapping:** Checks compatibility of the selected limb form with the intended environment.
+- **A2679 — Progressive motor familiarization:** Supports staged, low-risk familiarization with unfamiliar movement patterns in simulation.
+- **A2680 — Capability limit disclosure:** Makes limitations, trade-offs, and uncertainty explicit.
+### Zodiac Stage — Capricorn: Architecture and governance
+- **A2681 — Limb configuration registry:** Records selected forms, permitted configurations, constraints, and provenance.
+- **A2682 — Transformation permission architecture:** Applies explicit authorization and scope boundaries to transformation functions.
+- **A2683 — Functional dependency mapping:** Maps dependencies among limb structure, sensory feedback, balance, and mobility.
+- **A2684 — Change audit and rollback:** Records configuration changes and supports restoration to the last stable authorized state.
+### Zodiac Stage — Aquarius: Interoperability and collective systems
+- **A2685 — Assistive interface compatibility:** Keeps transformed-limb control compatible with assistive interfaces and accessible interaction.
+- **A2686 — Cross-form motor translation:** Translates control intent between different limb configurations without assuming identical mechanics.
+- **A2687 — Tool and device compatibility:** Evaluates safe interaction with tools, wearables, interfaces, and surrounding systems.
+- **A2688 — Collaborative safety signaling:** Communicates movement limits and interaction boundaries without disclosing private bodily information.
+### Zodiac Stage — Pisces: Integration and renewal
+- **A2689 — Integrated sensory coherence:** Integrates limb-derived sensory inputs without overwhelming baseline awareness.
+- **A2690 — Restorative form transition:** Supports gradual, bounded transitions between animal-derived and baseline limb forms.
+- **A2691 — Post-transformation reconciliation:** Reconciles movement, balance, sensory interpretation, and body-schema expectations.
+- **A2692 — Identity and agency continuity:** Preserves user agency, identity, and decision authority across transformation states.
+
+## Animal Limbs Prevention, Protection, Detection, Correction, and Recovery Alchemies
+- **A2693 — Involuntary transformation prevention:** Prevents unrequested activation and requires explicit, revocable authorization.
+- **A2694 — Morphological spread containment:** Detects and contains changes extending beyond the selected anatomical boundary.
+- **A2695 — Structural overload prevention:** Constrains force, mass, reach, and load to defined whole-body support limits.
+- **A2696 — Neuro-motor conflict protection:** Detects conflicting control signals or loss of voluntary command and enters a safe bounded state.
+- **A2697 — Pain and injury signal protection:** Preserves warning signals and routes injury or distress to a safe stop and reversion pathway.
+- **A2698 — Toxic and venomous feature isolation:** Disables harmful secretion, venom, toxin, or contaminant functions in fictional animal-derived features.
+- **A2699 — Pathogen and biohazard exclusion:** Excludes pathogen transfer, biological contamination, and unsafe animal-material exposure.
+- **A2700 — Weaponization and coercion prevention:** Blocks non-consensual restraint, assault, intimidation, or forced transformation.
+- **A2701 — Sensory overload mitigation:** Limits excessive or intrusive sensory inputs and preserves accessible user control.
+- **A2702 — Transformation failure recovery:** Provides a controlled fallback for incomplete, interrupted, or unstable transformation states.
+- **A2703 — Privacy and biometric minimization:** Restricts bodily, sensory, and transformation-state data to the minimum authorized scope.
+- **A2704 — Independent safety review and audit:** Requires traceable review of changes, safety events, and unresolved hazards before expansion.
+
+## Ecosystem Application Profiles
+- **ALIM-C2O-001 — C2O private-source governance: confidential implementation controls, authorization boundaries, auditability, and controlled release review; private keys, policies, and incident data remain within C2O.**
+- **ALIM-UNI-001 — UNIVERSALIS public/open-source: inspectable, portable, local-first contracts and safety behavior without exposing C2O private controls.**
+- **ALIM-INS-001 — UNIVERSALINS support: non-personal assistant support for explanation, accessibility, documentation, and safety checks; no override of human agency or OS/App authority.**
+- **ALIM-GRD-001 — UNIVERSALIN Guardians support: consent-based assistance for a person's chosen Guardian; no authorization for coercive transformation or bodily control.**
+
+## Defensive Harm-Pattern Classifications
+- **ALIMX001 — Unconsented limb transformation or forced activation.**
+- **ALIMX002 — Unbounded anatomical spread or uncontrolled appendage generation.**
+- **ALIMX003 — Structural mismatch, overload, instability, or movement-related injury.**
+- **ALIMX004 — Sensory intrusion, motor-command hijacking, or loss of voluntary control.**
+- **ALIMX005 — Toxic, venomous, infectious, or hazardous biological feature transfer.**
+- **ALIMX006 — Coercive restraint, assault, intimidation, or weaponization.**
+- **ALIMX007 — Unauthorized collection, inference, or disclosure of biometric and transformation-state data.**
+- **ALIMX008 — Irreversible, deceptive, or unaudited transformation-state changes.**
+
+## Cross-domain integration rules
+- **Body:** structural integrity, mobility, balance, proportion, sensory and motor coordination, and accessible reversion.
+- **Heart:** emotional safety, dignity, consent, distress recognition, and non-coercive expression.
+- **Mind:** motor planning, attention, body-schema adaptation, sensory interpretation, and transparent limits.
+- **Soul:** continuity of identity, personal meaning, and protection against imposed identity changes.
+- **Spirit:** agency, autonomy, purpose, and voluntary use; no authority to override consent.
+- **Consciousness:** awareness of transformation state, sensory integration, intentional control, and recoverable state transitions.
+- **OS and App:** enforceable permissions, safe interfaces, accessible controls, auditable configuration, privacy minimization, and separation of public contracts from private C2O implementation.
+
+## Relationship and non-duplication rules
+- Animal Limbs describes resulting or manifested anatomy and its operation; Animal-Induced Powers describes an acquisition pathway.
+- Animal Ears remains a specialized anatomical expansion; ear-specific capabilities are cross-referenced rather than duplicated.
+- Animal Morphing is the broader transformation domain; Animal Limbs is limited to limb and appendage morphology and function.
+- Animal Physiology may supply a reference feature set, but does not automatically grant every capability of a whole animal.
+- Animalia Manipulation and Animal Creation concern external animals or entities and are not interchangeable with transforming one's own limbs.
+- Distinguish transformation, generation, substitution, temporary manifestation, and persistent anatomy as separate states with explicit limits.
+- No entry implies a real-world medical intervention, biological procedure, or scientifically validated capability.
+
+## Safety and evidence boundaries
+- Require informed, voluntary, revocable user intent; reject coerced or hidden activation.
+- Preserve bodily autonomy, identity continuity, accessibility, privacy, and the right to stop or revert where applicable.
+- Use proportionate capability limits; do not automatically escalate mobility or assistive function into combat or weapon use.
+- Exclude harmful secretion, venom, toxin, pathogen, contamination, and hazardous exposure pathways.
+- Treat injury, pain, loss of control, and unstable transformation as stop conditions, not obstacles to override.
+- Taxonomy inclusion records a conceptual capability and safeguards; it does not establish implementation, effectiveness, or scientific validation.
+
+## Maintenance Record for v0.24.0
+This expansion adds **72 uniquely identified records**: **60 A-numbered Alchemies** (A2645–A2704), comprising **48 core Alchemies** (four for each of the 12 Zodiac stages) and **12 prevention/protection/detection/correction/recovery Alchemies**; **4 ecosystem profiles** (ALIM-C2O-001 through ALIM-GRD-001); and **8 defensive harm-pattern classifications** (ALIMX001–ALIMX008). The A-numbered sequence now reaches **A2704**. This identifier ceiling is not the cumulative count of all taxonomy records. Taxonomy inclusion does not establish implementation or scientific validation.
