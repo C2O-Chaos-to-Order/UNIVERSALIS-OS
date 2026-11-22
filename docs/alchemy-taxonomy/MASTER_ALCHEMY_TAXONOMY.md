@@ -481,3 +481,145 @@ This upload establishes the master taxonomy baseline only. The additional files 
 ---
 
 **Baseline conclusion:** The same master Alchemy taxonomy applies across C2O-OS, C2O-App, UNIVERSALIS-OS and UNIVERSALIS-App. Edition-specific governance, implementation, visibility and authority remain separate. The taxonomy is a substantial baseline requiring continued totality research, normalization, deduplication, relationship expansion and evidence-backed verification before it can be declared exhaustive or frozen.
+
+
+---
+
+# Research Intake Addendum — Trait Manipulation
+
+**Intake ID:** RIA-TRAIT-001  
+**Source:** https://powerlisting.fandom.com/wiki/Trait_Manipulation  
+**Research status:** Source reviewed; taxonomy classification proposed  
+**Change status:** Added as a research-backed taxonomy expansion; implementation and empirical validation are not implied.
+
+## A. Source interpretation
+
+The source defines Trait Manipulation as creating, shaping, and manipulating traits in living beings. Its examples span personality, genetic, and mental traits; it describes making traits natural, inserting traits, and removing traits. It lists Dominant Genetics, Genetic Perfection, Personality Alteration, Superior Traits Combination, and Supernatural Traits as applications, and Anthropomorphism Manipulation as a variation. It associates the concept with attribute, aspect, status, body, DNA, identity, mental, inheritance, and superpower manipulation.
+
+This is a fictional/community power taxonomy. These labels are treated here as conceptual prompts for a software capability ontology, not as evidence that arbitrary biological, psychological, genetic, or supernatural modification is feasible, safe, lawful, or ethically acceptable.
+
+## B. Canonical classification decision
+
+**Trait-Manipulation Alchemy already exists** in the master taxonomy and remains the canonical umbrella. It is not duplicated. This intake expands its child and related Alchemies and makes explicit several operations that were implicit in the baseline.
+
+### B1. Alchemies to add or explicitly instantiate
+
+| Stable ID | Canonical Alchemy | Classification | Definition / boundary |
+|---|---|---|---|
+| TRAIT-001 | Trait-Creation Alchemy | Child of Trait Alchemy | Model, specify, or create a defined trait in a permitted synthetic, informational, or design context. For humans and other living beings, this is not authorization to biologically or psychologically engineer a person. |
+| TRAIT-002 | Trait-Bestowal Alchemy | Child of Trait Alchemy | Assign or provide a trait-like capability, attribute, configuration, or role to an eligible target with explicit authority and consent where applicable. |
+| TRAIT-003 | Trait-Insertion Alchemy | Child of Trait Alchemy | Introduce a trait into a model, profile, dataset, configuration, or other explicitly scoped representation; distinguish representation changes from changes to a living organism. |
+| TRAIT-004 | Trait-Removal Alchemy | Child of Trait Alchemy | Remove a trait from an authorized representation or configuration; biological or psychological removal is outside ordinary software authority and requires separate lawful, ethical, clinical and safety governance. |
+| TRAIT-005 | Trait-Naturalization Alchemy | Child of Trait Alchemy | Represent or develop a trait as an intrinsic, default, or naturally occurring property within a model or system specification. Never misrepresent an engineered or synthetic trait as naturally occurring in a real person or organism. |
+| TRAIT-006 | Trait-Expression Alchemy | Child of Trait Alchemy | Model, regulate, or describe how an existing trait is expressed under defined conditions without assuming that the underlying trait itself has changed. |
+| TRAIT-007 | Trait-Combination Alchemy | Child of Trait Alchemy; refines existing Trait-Combination entry | Combine compatible traits in a model or design while preserving provenance, constraints, compatibility, and conflict information. |
+| TRAIT-008 | Trait-Optimization Alchemy | Child of Trait Alchemy; refines existing Trait-Optimization entry | Evaluate and improve a trait representation against explicit, plural, non-discriminatory objectives and constraints. It must not encode a single preferred human type or rank human worth. |
+| TRAIT-009 | Personality-Alteration Alchemy | Child of Personality and Trait Alchemies | Model or support voluntary, transparent changes to personality-related habits, preferences, or self-development goals. No covert personality engineering, coercive behavior modification, or claims of deterministic personality control. |
+| TRAIT-010 | Genetic-Trait Alchemy | Child of Genetic and Trait Alchemies | Represent, annotate, research, or reason about genetic traits and their uncertainty. Any real-world genetic intervention is outside the authority of ordinary OS/App functions and requires independent specialist, legal, ethical, and biosafety governance. |
+| TRAIT-011 | Genetic-Dominance Alchemy | Specialization of Genetic-Trait Alchemy | Represent inheritance patterns and dominance relationships in genetic models. The source phrase “Dominant Genetics” is retained as a source term, not a social hierarchy or human-superiority objective. |
+| TRAIT-012 | Genetic-Health-Optimization Alchemy | Specialization of Genetic-Trait Alchemy | Evaluate genetic information for a narrowly defined health-related research or care-support purpose, with uncertainty, privacy, non-discrimination, consent, and qualified oversight. “Genetic Perfection” is retained only as a source alias and is rejected as a normative objective. |
+| TRAIT-013 | Supernatural-Trait-Modeling Alchemy | Speculative / fictional-model specialization | Catalogue and reason about traits described as supernatural in fiction, mythology, games, or hypothetical models. It makes no claim that supernatural traits exist or can be induced in reality. |
+| TRAIT-014 | Anthropomorphism Alchemy | Related specialization under Representation and Trait Alchemies | Model or transform non-human entities into human-like forms, characteristics, interfaces, or representations. Distinguish visual/personification choices from biological transformation or claims of personhood. |
+
+**Existing entries retained and linked rather than duplicated:** Trait Alchemy; Trait-Manipulation Alchemy; Trait-Identification Alchemy; Trait-Analysis Alchemy; Trait-Classification Alchemy; Trait-Development Alchemy; Trait-Enhancement Alchemy; Trait-Modification Alchemy; Trait-Transformation Alchemy; Trait-Transfer Alchemy; Trait-Inheritance Alchemy; Trait-Separation Alchemy; Trait-Suppression Alchemy; Trait-Preservation Alchemy; Trait-Restoration Alchemy; Trait-Adaptation Alchemy; Trait-Optimization Alchemy; Attribute Alchemy; Attribute-Manipulation Alchemy; Personality Alchemy; Genetic Alchemy; DNA-related Alchemies; Identity Alchemy; Mental Alchemy; Cognitive Alchemy; Capability Alchemy; Potential Alchemy.
+
+**Terminology handling:** “Superior Traits Combination” is normalized to Trait-Combination Alchemy plus Trait-Optimization Alchemy, not retained as a claim of superior human worth. “Genetic Perfection” is a source alias only; the operationally acceptable concept is narrowly scoped Genetic-Health-Optimization Alchemy. “Supernatural Traits” is classified as fictional/speculative modelling. “Dominant Genetics” means genetic dominance in inheritance models only.
+
+## C. Required operation coverage
+
+Trait-Manipulation Alchemy must be decomposed into distinct, auditable operations:
+
+1. Identify and observe a trait.
+2. Describe and classify a trait.
+3. Establish provenance and confidence.
+4. Distinguish an observed trait from an inferred, desired, assigned, or fictional trait.
+5. Model trait relationships and dependencies.
+6. Create or specify a trait representation.
+7. Assign or bestow a trait-like configuration where authorized.
+8. Insert or attach a trait to an explicitly scoped model or configuration.
+9. Express or activate a trait under defined conditions.
+10. Combine compatible traits and detect conflicts.
+11. Modify or transform a trait representation.
+12. Enhance or optimize against declared constraints.
+13. Transfer or inherit trait information with provenance.
+14. Suppress or deactivate a trait representation where authorized.
+15. Remove a trait from a representation where authorized.
+16. Preserve, restore, or roll back prior trait states.
+17. Detect unauthorized, deceptive, discriminatory, or coercive trait alteration.
+18. Protect trait records, identity, privacy, consent, and the right to refuse or reverse changes where technically and ethically possible.
+
+These are separate operations. A system that can classify traits does not thereby have authority or capability to alter them.
+
+## D. Four-repository applicability and responsibility matrix
+
+| Alchemy / capability | C2O-OS | C2O-App | UNIVERSALIS-OS | UNIVERSALIS-App |
+|---|---|---|---|---|
+| Trait-Creation | Private policy, schema, provenance and execution boundaries | Authorized creation and editing workflows | Open schemas, interfaces and local execution boundaries | Open creation and editing workflows |
+| Trait-Bestowal | Enforce authorization, consent, scope and audit | User-facing grant/revoke experience | Open authorization contracts and enforcement hooks | User-facing grant/revoke experience |
+| Trait-Insertion | Validate target, scope, integrity and rollback | Explicitly scoped insertion workflow | Open validation and integrity mechanisms | Open insertion workflow |
+| Trait-Removal | Enforce permissions, retention and recovery | User-directed removal requests and confirmation | Open deletion/retention contracts | User-directed removal experience |
+| Trait-Naturalization | Provenance and representation integrity | Explain synthetic/default status to users | Open provenance metadata | Transparent representation and disclosure |
+| Trait-Expression | Runtime conditions and policy boundaries | User-controlled expression settings | Open runtime contracts | User-controlled expression settings |
+| Trait-Combination | Compatibility, conflict and safety checks | Composition and preview workflow | Open compatibility interfaces | Composition and preview workflow |
+| Trait-Optimization | Objective constraints, fairness and audit controls | User-defined goals and understandable trade-offs | Open evaluation contracts | User-defined goals and transparent results |
+| Personality-Alteration | Prohibit covert/coercive execution; protect personal data | Voluntary self-development support and clear consent | Open safeguards and user-controlled interfaces | Voluntary, transparent support workflows |
+| Genetic-Trait | Secure local data handling, access control and provenance | Explain and present user-authorized records; no unauthorized intervention | Open data formats and privacy-preserving interfaces | User-controlled presentation and research workflows |
+| Genetic-Dominance | Secure model execution and provenance | Explain inheritance models and uncertainty | Open model interfaces | Explain inheritance models and uncertainty |
+| Genetic-Health-Optimization | Enforce strict data boundaries and prohibit unauthorized action | Present qualified, uncertainty-aware decision support only | Open privacy and interoperability contracts | User-controlled, qualified decision-support interface |
+| Supernatural-Trait-Modeling | Isolated fictional-model data and provenance | Fictional/world-building tools | Open model schemas | Fictional/world-building tools |
+| Anthropomorphism | Representation APIs and device boundaries | User-controlled character/interface representation | Open representation APIs | User-controlled representation experience |
+
+The same conceptual Alchemies apply to all four repositories. Private C2O policy and implementation details remain private; UNIVERSALIS publishes independently operable open contracts and implementations. No C2O private keys, policies, or incident data are transferred by virtue of sharing taxonomy names.
+
+## E. Relationship matrix
+
+| Primary Alchemy | Relationship | Connected Alchemies |
+|---|---|---|
+| Trait-Manipulation | Parent of | Trait-Creation; Trait-Bestowal; Trait-Insertion; Trait-Removal; Trait-Naturalization; Trait-Expression; Trait-Combination; Trait-Optimization; Personality-Alteration |
+| Trait-Manipulation | Specializes / intersects | Attribute-Manipulation; Aspect-Manipulation; Status-Manipulation |
+| Trait-Manipulation | Depends on | Trait-Identification; Trait-Analysis; Trait-Classification; Provenance; Consent; Authorization; Audit |
+| Trait-Manipulation | Intersects | Genetic-Trait; Genetic-Dominance; Personality; Mental; Cognitive; Behavioral; Emotional; Physical; Identity; Capability; Inheritance |
+| Genetic-Trait | Depends on | Genetic-Privacy; Data-Protection; Uncertainty-Representation; Non-Discrimination; Qualified-Oversight |
+| Personality-Alteration | Depends on | Human-Agency; Consent; Transparency; Psychological-Safety; Reversibility where possible |
+| Anthropomorphism | Intersects | Representation; Creative; Interface; Character; Biological-Modeling; Identity |
+| Supernatural-Trait-Modeling | Depends on | Fictional-Provenance; Model-Boundary; Reality/Simulation Distinction |
+
+## F. Safeguard and countermeasure matrix
+
+| Risk / harmful use | Required protective Alchemies |
+|---|---|
+| Covert alteration of personal traits | Consent Alchemy; Human-Agency Alchemy; Transparency Alchemy; Manipulation-Detection Alchemy; Audit Alchemy |
+| Discriminatory trait scoring or ranking | Fairness Alchemy; Non-Discrimination Alchemy; Bias-Detection Alchemy; Rights-Protection Alchemy; Explainability Alchemy |
+| Genetic data misuse or exposure | Genetic-Privacy Alchemy; Data-Protection Alchemy; Access-Control Alchemy; Data-Minimization Alchemy; Provenance Alchemy |
+| False claims of genetic “perfection” or human superiority | Truth-Verification Alchemy; Evidence Alchemy; Anti-Eugenics Safeguards; Human-Dignity Alchemy; Non-Discrimination Alchemy |
+| Unauthorized trait insertion, removal, or transfer | Authorization Alchemy; Integrity-Protection Alchemy; Change-Control Alchemy; Rollback Alchemy; Incident-Response Alchemy |
+| Personality coercion or behavioral exploitation | Psychological-Safety Alchemy; Abuse-Prevention Alchemy; Autonomy Alchemy; Consent Alchemy; Human-Review Alchemy |
+| Confusing fictional traits with real capabilities | Provenance Alchemy; Epistemic-Status Alchemy; Simulation-Boundary Alchemy; Truthfulness Alchemy |
+| Irreversible or poorly understood changes | Reversibility Alchemy; Risk-Assessment Alchemy; Safety-Engineering Alchemy; Human-Confirmation Alchemy |
+
+## G. Verification requirements
+
+A future implementation claiming support for any of these Alchemies must demonstrate, as applicable:
+
+- Trait records distinguish observation, inference, user declaration, synthetic assignment, and fictional construction.
+- Every trait has provenance, confidence/uncertainty, scope, version, and access policy.
+- Changes are authorized, consent-aware, attributable, logged, and reviewable.
+- The system distinguishes modelling a trait from changing a person or organism.
+- No covert personality alteration, discriminatory ranking, eugenic objective, or unauthorized biological intervention is enabled.
+- Users can inspect, correct, export, and where appropriate remove their own trait-related records.
+- Rollback and recovery behavior is tested where changes are reversible.
+- Synthetic and fictional traits are visibly distinguished from real-world observations.
+- Genetic and health-related data receive heightened privacy and access protections.
+- Tests cover misuse, privilege escalation, coercion, bias, data leakage, false provenance, and unsafe automation.
+
+## H. Source record and evidence boundary
+
+- **Primary intake source:** Trait Manipulation, Superpower Wiki / Fandom: https://powerlisting.fandom.com/wiki/Trait_Manipulation
+- **Source-stated parent concepts:** Attribute Manipulation; Aspect Manipulation; Status Manipulation.
+- **Source-stated applications:** Dominant Genetics; Genetic Perfection; Personality Alteration; Superior Traits Combination; Supernatural Traits.
+- **Source-stated variation:** Anthropomorphism Manipulation.
+- **Source-stated associations:** Body Manipulation; DNA Manipulation; Identity Manipulation; Mental Manipulation; Power Inheritance; Superpower Manipulation.
+- **Evidence status:** The source supports that these terms and conceptual relationships appear in its fictional taxonomy. It does not establish real-world efficacy, scientific validity, safety, or feasibility.
+- **Research limitation:** This intake analyzes the supplied Trait Manipulation page and cross-checks its adjacent concepts against related Superpower Wiki entries. It is not a complete crawl of every linked page in the wiki.
+
+**Intake conclusion:** Trait-Manipulation Alchemy was already present and is retained. Fourteen explicitly named child/specialization Alchemies are now added or instantiated, including separate creation, bestowal, insertion, removal, naturalization, and expression operations. The taxonomy now distinguishes legitimate trait modelling and voluntary development from coercive, discriminatory, deceptive, or biologically unsafe manipulation.
