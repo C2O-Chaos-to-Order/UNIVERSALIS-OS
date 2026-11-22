@@ -2712,4 +2712,259 @@ The source is community-authored fictional reference material. It is useful for 
 Every trait entry or implementation trace must record: target class; trait definition and context; trait type and whether observed, inferred, learned, configured, fictional, or symbolic; evidence and provenance; intended purpose; affected parties; authority and consent; data sensitivity; measurement validity and uncertainty; dependencies and interactions; safety and discrimination assessment; reversibility and recovery; privacy and retention; human review and appeal; edition boundary; verification status; accountable owner; and release authorization.
 
 ## Taxonomy maintenance for v0.10.0
-This expansion appends Trait Manipulation Alchemy without changing existing identifiers. Core entries are A1256–A1375 and cross-stage safeguards are A1376–A1395. Component profiles and defensive harm-pattern classifications use separate stable identifier namespaces. The same canonical file is to be synchronized byte-for-byte across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App. A taxonomy entry is not proof of implementation.
+This release preserves prior taxonomy entries. See the appended v0.11.0 Accelerated Power Use expansion.
+
+
+# Accelerated Power Use Alchemy — v0.11.0 expansion
+
+## Source interpretation and boundaries
+The supplied Superpower Wiki entry defines Accelerated Power Use as using a power or ability at a faster-than-usual rate, including faster execution, control, preparation, and charging. It associates the fictional trait with accelerated tasking, accelerated thought process, enhanced speed, and related power-use concepts. These are fictional ability descriptions, not evidence that superhuman speed or supernatural powers exist. This taxonomy translates the useful systems concept into bounded acceleration of authorized capabilities, workflows, software operations, and support tasks. It does not authorize bypassing controls, compressing required human deliberation, or increasing biological performance beyond evidence-based safe limits.
+
+**Operational definition:** Accelerated Power Use Alchemy is the design, measurement, governance, and safe optimization of the time required to prepare, authorize, invoke, execute, coordinate, and complete an already-authorized capability. Faster execution must preserve intended semantics, output integrity, safety, consent, and accountability. Invocation latency, execution throughput, cognitive processing, physical movement, and task completion are distinct metrics.
+
+## Core Alchemies — 120 entries
+### Aries — Initiation
+- **A1396 — Activation Alchemy (Aries):** Optimize activation for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1397 — Preparation Alchemy (Aries):** Optimize preparation for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1398 — Initialization Alchemy (Aries):** Optimize initialization for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1399 — Trigger Validation Alchemy (Aries):** Optimize trigger validation for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1400 — Readiness Alchemy (Aries):** Optimize readiness for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1401 — Latency Reduction Alchemy (Aries):** Optimize latency reduction for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1402 — Startup Coordination Alchemy (Aries):** Optimize startup coordination for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1403 — Priority Activation Alchemy (Aries):** Optimize priority activation for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1404 — Sequencing Alchemy (Aries):** Optimize sequencing for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1405 — Authorization Gate Alchemy (Aries):** Optimize authorization gate for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+
+### Taurus — Foundation
+- **A1406 — Stability Alchemy (Taurus):** Optimize stability for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1407 — Efficiency Alchemy (Taurus):** Optimize efficiency for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1408 — Resource Matching Alchemy (Taurus):** Optimize resource matching for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1409 — Load Regulation Alchemy (Taurus):** Optimize load regulation for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1410 — Energy Budgeting Alchemy (Taurus):** Optimize energy budgeting for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1411 — Sustained Output Alchemy (Taurus):** Optimize sustained output for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1412 — Capacity Matching Alchemy (Taurus):** Optimize capacity matching for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1413 — Consistency Alchemy (Taurus):** Optimize consistency for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1414 — Load Balancing Alchemy (Taurus):** Optimize load balancing for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1415 — Safe Envelope Alchemy (Taurus):** Optimize safe envelope for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+
+### Gemini — Coordination
+- **A1416 — Parallel Coordination Alchemy (Gemini):** Optimize parallel coordination for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1417 — Multi-Capability Scheduling Alchemy (Gemini):** Optimize multi-capability scheduling for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1418 — Invocation Optimization Alchemy (Gemini):** Optimize invocation optimization for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1419 — Cross-System Execution Alchemy (Gemini):** Optimize cross-system execution for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1420 — Communication Latency Alchemy (Gemini):** Optimize communication latency for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1421 — Sequence Coordination Alchemy (Gemini):** Optimize sequence coordination for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1422 — Interface Responsiveness Alchemy (Gemini):** Optimize interface responsiveness for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1423 — Queue Prioritization Alchemy (Gemini):** Optimize queue prioritization for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1424 — Concurrency Arbitration Alchemy (Gemini):** Optimize concurrency arbitration for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1425 — State Synchronization Alchemy (Gemini):** Optimize state synchronization for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+
+### Cancer — Protection
+- **A1426 — Operator Safety Alchemy (Cancer):** Optimize operator safety for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1427 — Fatigue-Aware Pacing Alchemy (Cancer):** Optimize fatigue-aware pacing for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1428 — Physiological Load Limits Alchemy (Cancer):** Optimize physiological load limits for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1429 — Thermal Protection Alchemy (Cancer):** Optimize thermal protection for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1430 — Recovery Intervals Alchemy (Cancer):** Optimize recovery intervals for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1431 — Overexertion Prevention Alchemy (Cancer):** Optimize overexertion prevention for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1432 — Protective Interruption Alchemy (Cancer):** Optimize protective interruption for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1433 — Dependency Protection Alchemy (Cancer):** Optimize dependency protection for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1434 — Safe Stop Alchemy (Cancer):** Optimize safe stop for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1435 — Consent Preservation Alchemy (Cancer):** Optimize consent preservation for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+
+### Leo — Expression
+- **A1436 — Capability Expression Alchemy (Leo):** Optimize capability expression for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1437 — Controlled Output Alchemy (Leo):** Optimize controlled output for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1438 — Precision Under Speed Alchemy (Leo):** Optimize precision under speed for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1439 — Responsive Deployment Alchemy (Leo):** Optimize responsive deployment for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1440 — Adaptive Tempo Alchemy (Leo):** Optimize adaptive tempo for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1441 — Interaction Optimization Alchemy (Leo):** Optimize interaction optimization for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1442 — Timing Optimization Alchemy (Leo):** Optimize timing optimization for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1443 — Mode Switching Alchemy (Leo):** Optimize mode switching for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1444 — Burst Execution Alchemy (Leo):** Optimize burst execution for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1445 — Output Boundaries Alchemy (Leo):** Optimize output boundaries for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+
+### Virgo — Verification
+- **A1446 — Latency Measurement Alchemy (Virgo):** Optimize latency measurement for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1447 — Performance Benchmarking Alchemy (Virgo):** Optimize performance benchmarking for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1448 — Timing Verification Alchemy (Virgo):** Optimize timing verification for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1449 — Error Monitoring Alchemy (Virgo):** Optimize error monitoring for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1450 — Race Detection Alchemy (Virgo):** Optimize race detection for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1451 — Regression Analysis Alchemy (Virgo):** Optimize regression analysis for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1452 — Load Testing Alchemy (Virgo):** Optimize load testing for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1453 — Execution Tracing Alchemy (Virgo):** Optimize execution tracing for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1454 — Anomaly Detection Alchemy (Virgo):** Optimize anomaly detection for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1455 — Quality Verification Alchemy (Virgo):** Optimize quality verification for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+
+### Libra — Governance
+- **A1456 — Permission Governance Alchemy (Libra):** Optimize permission governance for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1457 — Least Privilege Alchemy (Libra):** Optimize least privilege for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1458 — Fair Scheduling Alchemy (Libra):** Optimize fair scheduling for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1459 — Human Override Alchemy (Libra):** Optimize human override for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1460 — Transparent Policy Alchemy (Libra):** Optimize transparent policy for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1461 — Proportional Limits Alchemy (Libra):** Optimize proportional limits for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1462 — Accountable Approval Alchemy (Libra):** Optimize accountable approval for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1463 — User-Controlled Tempo Alchemy (Libra):** Optimize user-controlled tempo for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1464 — User Isolation Alchemy (Libra):** Optimize user isolation for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1465 — Ethical Review Alchemy (Libra):** Optimize ethical review for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+
+### Scorpio — Adversarial resistance
+- **A1466 — Abuse Detection Alchemy (Scorpio):** Optimize abuse detection for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1467 — Runaway Containment Alchemy (Scorpio):** Optimize runaway containment for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1468 — Privilege Resistance Alchemy (Scorpio):** Optimize privilege resistance for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1469 — Side-Channel Protection Alchemy (Scorpio):** Optimize side-channel protection for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1470 — Trigger Defense Alchemy (Scorpio):** Optimize trigger defense for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1471 — Exhaustion Defense Alchemy (Scorpio):** Optimize exhaustion defense for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1472 — Race Mitigation Alchemy (Scorpio):** Optimize race mitigation for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1473 — Unauthorized Blocking Alchemy (Scorpio):** Optimize unauthorized blocking for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1474 — Emergency Halt Alchemy (Scorpio):** Optimize emergency halt for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1475 — Incident Recovery Alchemy (Scorpio):** Optimize incident recovery for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+
+### Sagittarius — Learning
+- **A1476 — Adaptive Learning Alchemy (Sagittarius):** Optimize adaptive learning for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1477 — Skill-Dependent Acceleration Alchemy (Sagittarius):** Optimize skill-dependent acceleration for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1478 — Workflow Learning Alchemy (Sagittarius):** Optimize workflow learning for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1479 — Cross-Domain Transfer Alchemy (Sagittarius):** Optimize cross-domain transfer for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1480 — Simulation Optimization Alchemy (Sagittarius):** Optimize simulation optimization for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1481 — Model Generalization Alchemy (Sagittarius):** Optimize model generalization for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1482 — Context Scheduling Alchemy (Sagittarius):** Optimize context scheduling for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1483 — Scalable Planning Alchemy (Sagittarius):** Optimize scalable planning for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1484 — Interoperable Profiles Alchemy (Sagittarius):** Optimize interoperable profiles for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1485 — Learning Review Alchemy (Sagittarius):** Optimize learning review for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+
+### Capricorn — Operations
+- **A1486 — Lifecycle Management Alchemy (Capricorn):** Optimize lifecycle management for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1487 — Versioned Profiles Alchemy (Capricorn):** Optimize versioned profiles for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1488 — Configuration Control Alchemy (Capricorn):** Optimize configuration control for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1489 — Release Verification Alchemy (Capricorn):** Optimize release verification for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1490 — Capacity Planning Alchemy (Capricorn):** Optimize capacity planning for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1491 — Service-Level Timing Alchemy (Capricorn):** Optimize service-level timing for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1492 — Audit Logging Alchemy (Capricorn):** Optimize audit logging for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1493 — Maintenance Scheduling Alchemy (Capricorn):** Optimize maintenance scheduling for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1494 — Degraded Mode Alchemy (Capricorn):** Optimize degraded mode for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1495 — Safe Retirement Alchemy (Capricorn):** Optimize safe retirement for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+
+### Aquarius — Systems
+- **A1496 — Distributed Coordination Alchemy (Aquarius):** Optimize distributed coordination for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1497 — Network-Aware Invocation Alchemy (Aquarius):** Optimize network-aware invocation for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1498 — Edge Optimization Alchemy (Aquarius):** Optimize edge optimization for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1499 — Local-First Acceleration Alchemy (Aquarius):** Optimize local-first acceleration for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1500 — UNIVERSALINS Scheduling Alchemy (Aquarius):** Optimize universalins scheduling for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1501 — Guardian-Controlled Tempo Alchemy (Aquarius):** Optimize guardian-controlled tempo for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1502 — Grid Load Coordination Alchemy (Aquarius):** Optimize grid load coordination for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1503 — Fault-Tolerant Parallelism Alchemy (Aquarius):** Optimize fault-tolerant parallelism for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1504 — Edition Compatibility Alchemy (Aquarius):** Optimize edition compatibility for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1505 — Collective Safeguards Alchemy (Aquarius):** Optimize collective safeguards for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+
+### Pisces — Restoration
+- **A1506 — State Recovery Alchemy (Pisces):** Optimize state recovery for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1507 — Interrupted Task Resumption Alchemy (Pisces):** Optimize interrupted task resumption for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1508 — Safe Rollback Alchemy (Pisces):** Optimize safe rollback for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1509 — Result Reconciliation Alchemy (Pisces):** Optimize result reconciliation for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1510 — Recovery Verification Alchemy (Pisces):** Optimize recovery verification for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1511 — Baseline Restoration Alchemy (Pisces):** Optimize baseline restoration for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1512 — Incident Learning Alchemy (Pisces):** Optimize incident learning for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1513 — Workload Cleanup Alchemy (Pisces):** Optimize workload cleanup for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1514 — Capability Reset Alchemy (Pisces):** Optimize capability reset for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+- **A1515 — Renewal Alchemy (Pisces):** Optimize renewal for an already-authorized capability while preserving its intended semantics, safety constraints, and accountability.
+
+## Prevention, protection, correction, and recovery — 20 entries
+- **A1516 — Require explicit authorization for Safeguard Alchemy:** Require explicit authorization for each protected capability and execution context.
+- **A1517 — Preserve user control, pause, Safeguard Alchemy:** Preserve user control, pause, cancellation, and override at all times.
+- **A1518 — Enforce resource, thermal, energy, Safeguard Alchemy:** Enforce resource, thermal, energy, and concurrency ceilings.
+- **A1519 — Prevent unsafe sustained operation Safeguard Alchemy:** Prevent unsafe sustained operation and provide adequate recovery intervals.
+- **A1520 — Add validation and checkpoints Safeguard Alchemy:** Add validation and checkpoints where speed could amplify mistakes.
+- **A1521 — Use synchronization and deterministic Safeguard Alchemy:** Use synchronization and deterministic conflict handling for concurrent actions.
+- **A1522 — Detect runaway loops and Safeguard Alchemy:** Detect runaway loops and stop execution within bounded time.
+- **A1523 — Prevent acceleration from bypassing Safeguard Alchemy:** Prevent acceleration from bypassing permissions, policy, or approval.
+- **A1524 — Reduce leakage of sensitive Safeguard Alchemy:** Reduce leakage of sensitive information through execution timing.
+- **A1525 — Rate-limit and isolate workloads Safeguard Alchemy:** Rate-limit and isolate workloads to protect shared services.
+- **A1526 — Verify accelerated execution preserves Safeguard Alchemy:** Verify accelerated execution preserves intended semantics and outputs.
+- **A1527 — Return to a slower, Safeguard Alchemy:** Return to a slower, validated mode when safety thresholds fail.
+- **A1528 — Record authorization, configuration, timing, Safeguard Alchemy:** Record authorization, configuration, timing, outputs, and responsible owner.
+- **A1529 — Sandbox external capabilities and Safeguard Alchemy:** Sandbox external capabilities and prevent unsafe chained invocation.
+- **A1530 — Do not allow assistants Safeguard Alchemy:** Do not allow assistants to autonomously accelerate consequential actions.
+- **A1531 — Do not interpret fictional Safeguard Alchemy:** Do not interpret fictional super-speed or biological acceleration as established capability.
+- **A1532 — Evaluate cognitive load, fatigue, Safeguard Alchemy:** Evaluate cognitive load, fatigue, accessibility, and operator comprehension.
+- **A1533 — Keep C2O private policies, Safeguard Alchemy:** Keep C2O private policies, keys, and controls out of UNIVERSALIS.
+- **A1534 — Provide checkpoints, rollback, and Safeguard Alchemy:** Provide checkpoints, rollback, and recovery for reversible operations.
+- **A1535 — Require independent testing and Safeguard Alchemy:** Require independent testing and accountable review before high-impact deployment.
+
+## Ecosystem-specific profiles
+C2O and UNIVERSALIS remain editions of the same underlying OS and application architectures, with distinct private-source and public/open-source governance boundaries. UNIVERSALINS are non-personal assistants; UNIVERSALIN Guardians are personal human assistants/guardians. Neither receives implicit authority to execute consequential actions, bypass permissions, or accelerate human decisions.
+### C2O private-source stewardship
+- **C2OAPU001 — C2O private-source stewardship 1:** Maintain private policy.
+- **C2OAPU002 — C2O private-source stewardship 2:** Protect confidential profiles and telemetry.
+- **C2OAPU003 — C2O private-source stewardship 3:** Separate approval from execution.
+- **C2OAPU004 — C2O private-source stewardship 4:** Require threat and safety review.
+- **C2OAPU005 — C2O private-source stewardship 5:** Enforce least privilege.
+- **C2OAPU006 — C2O private-source stewardship 6:** Verify semantics.
+- **C2OAPU007 — C2O private-source stewardship 7:** Maintain confidential audit records.
+- **C2OAPU008 — C2O private-source stewardship 8:** Contain unauthorized execution.
+- **C2OAPU009 — C2O private-source stewardship 9:** Support rollback and recovery.
+- **C2OAPU010 — C2O private-source stewardship 10:** Prevent private-policy leakage.
+- **C2OAPU011 — C2O private-source stewardship 11:** Review resource budgets and retention.
+- **C2OAPU012 — C2O private-source stewardship 12:** Retire unsafe profiles..
+
+### UNIVERSALIS public-source commons
+- **UNIAPU001 — UNIVERSALIS public-source commons 1:** Publish open interfaces.
+- **UNIAPU002 — UNIVERSALIS public-source commons 2:** Operate independently of C2O.
+- **UNIAPU003 — UNIVERSALIS public-source commons 3:** Provide reproducible builds.
+- **UNIAPU004 — UNIVERSALIS public-source commons 4:** Document resource and timing limits.
+- **UNIAPU005 — UNIVERSALIS public-source commons 5:** Use transparent governance.
+- **UNIAPU006 — UNIVERSALIS public-source commons 6:** Provide portable profiles.
+- **UNIAPU007 — UNIVERSALIS public-source commons 7:** Enable independent testing.
+- **UNIAPU008 — UNIVERSALIS public-source commons 8:** Minimize telemetry.
+- **UNIAPU009 — UNIVERSALIS public-source commons 9:** Provide rate limits and fallback.
+- **UNIAPU010 — UNIVERSALIS public-source commons 10:** Document limitations.
+- **UNIAPU011 — UNIVERSALIS public-source commons 11:** Support forks.
+- **UNIAPU012 — UNIVERSALIS public-source commons 12:** Retire unsafe components transparently..
+
+### UNIVERSALINS non-personal assistance
+- **INSAPU001 — UNIVERSALINS non-personal assistance 1:** Optimize user-authorized tasks.
+- **INSAPU002 — UNIVERSALINS non-personal assistance 2:** Disclose uncertainty.
+- **INSAPU003 — UNIVERSALINS non-personal assistance 3:** Require approval for consequential actions.
+- **INSAPU004 — UNIVERSALINS non-personal assistance 4:** Respect permissions.
+- **INSAPU005 — UNIVERSALINS non-personal assistance 5:** Never bypass human review.
+- **INSAPU006 — UNIVERSALINS non-personal assistance 6:** Avoid supernatural claims.
+- **INSAPU007 — UNIVERSALINS non-personal assistance 7:** Sandbox untrusted actions.
+- **INSAPU008 — UNIVERSALINS non-personal assistance 8:** Preserve cancellation.
+- **INSAPU009 — UNIVERSALINS non-personal assistance 9:** Respect attention limits.
+- **INSAPU010 — UNIVERSALINS non-personal assistance 10:** Keep execution auditable.
+- **INSAPU011 — UNIVERSALINS non-personal assistance 11:** Protect data.
+- **INSAPU012 — UNIVERSALINS non-personal assistance 12:** Remain non-personal and non-sovereign..
+
+### UNIVERSALIN Guardians personal assistance
+- **GUARDAPU001 — UNIVERSALIN Guardians personal assistance 1:** Let the human choose pace.
+- **GUARDAPU002 — UNIVERSALIN Guardians personal assistance 2:** Preserve consent and stop controls.
+- **GUARDAPU003 — UNIVERSALIN Guardians personal assistance 3:** Avoid pressuring faster decisions.
+- **GUARDAPU004 — UNIVERSALIN Guardians personal assistance 4:** Respect fatigue and accessibility.
+- **GUARDAPU005 — UNIVERSALIN Guardians personal assistance 5:** Explain constraints.
+- **GUARDAPU006 — UNIVERSALIN Guardians personal assistance 6:** Keep decisions human-controlled.
+- **GUARDAPU007 — UNIVERSALIN Guardians personal assistance 7:** Protect private information.
+- **GUARDAPU008 — UNIVERSALIN Guardians personal assistance 8:** Escalate high-risk actions.
+- **GUARDAPU009 — UNIVERSALIN Guardians personal assistance 9:** Prevent urgency-based dependency.
+- **GUARDAPU010 — UNIVERSALIN Guardians personal assistance 10:** Support recovery.
+- **GUARDAPU011 — UNIVERSALIN Guardians personal assistance 11:** Remain personal assistants, not authorities..
+
+## Harm-pattern classifications — recognition and prevention only
+- **APUX001 — Runaway acceleration:** Execution accelerates without a safe bound or stop condition.
+- **APUX002 — Unauthorized invocation:** Capabilities are invoked faster or more frequently than permitted.
+- **APUX003 — Error amplification:** Speed increases the rate or impact of incorrect actions.
+- **APUX004 — Resource exhaustion:** Workloads exhaust compute, energy, memory, or shared capacity.
+- **APUX005 — Fatigue and overload:** Humans are pressured into unsafe pace or sustained attention.
+- **APUX006 — Race-condition exploitation:** Timing or concurrency flaws produce unauthorized outcomes.
+- **APUX007 — Privilege bypass:** Acceleration paths evade normal authorization or approval.
+- **APUX008 — Timing information leakage:** Execution timing exposes sensitive data or internal state.
+- **APUX009 — Unsafe automation chaining:** Rapid chained actions propagate errors before review.
+- **APUX010 — False performance claims:** Fictional or unsupported speed claims are presented as real.
+- **APUX011 — Operator control erosion:** Pause, cancellation, or human override is removed or obscured.
+- **APUX012 — Private-policy exposure:** C2O confidential controls leak into public artifacts.
+
+## Relationships to existing Alchemies
+Accelerated Power Use is a focused application of the broader Trait Manipulation taxonomy, not identical to Trait Manipulation. It cross-references Operating System Alchemy for scheduler, kernel, resource, permission, and recovery controls; Application Alchemy for task execution, interface responsiveness, and transaction integrity; Body Alchemy for human physiological limits; Mind Alchemy for attention and cognitive load; and Consciousness Alchemy for agency and awareness boundaries. Accelerated Tasking and Accelerated Thought Process are adjacent but distinct: faster execution of a capability does not prove faster cognition or faster completion of arbitrary tasks.
+
+## Implementation and evidence requirements
+The supplied wiki is community-authored fictional reference material and provides conceptual vocabulary only. Real implementations require independently validated engineering evidence. Claims about human physiology, cognition, or biological enhancement require appropriate scientific evidence and qualified oversight. Each implementation must define capability, target system, acceleration dimension, baseline and target metrics, representative workload, resource envelope, semantic-equivalence criteria, error tolerance, permissions, human override, failure behavior, recovery plan, privacy controls, provenance, edition boundary, evidence status, accountable owner, and release authorization. Performance gains must not conceal regressions in safety, accuracy, accessibility, privacy, or reliability. Taxonomy inclusion is not proof of feasibility, implementation, safety, or legality.
+
+## Taxonomy maintenance for v0.11.0
+This expansion appends Accelerated Power Use Alchemy without modifying prior identifiers. Core entries are A1396–A1515 and safeguards are A1516–A1535. Ecosystem profiles and defensive harm-pattern classifications use separate stable namespaces. Synchronize this canonical file byte-for-byte across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App.
