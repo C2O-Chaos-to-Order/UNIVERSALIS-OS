@@ -18,6 +18,10 @@ The taxonomy has two complementary orientations:
 
 A harmful capability may be classified so that it can be understood and defended against. Classification does not authorize its implementation or use. Safeguards must preserve human dignity, autonomy, consent, privacy, legitimate freedom, and lawful activity.
 
+**Mandatory prevention relationship:** Every canonical Alchemy and every specialization must have an explicit, individually recorded relationship to the Preventative, Protective, Corrective, and Restorative Alchemies appropriate to its capability, context, affected parties, and foreseeable misuse. A generic link to Safety or Security alone is insufficient. Where a risk is not applicable, the record must state why and identify the evidence or assumptions supporting that determination. Missing analysis is recorded as **unassessed**, never as safe or not applicable. This requirement applies retrospectively to the entire existing registry and prospectively to every intake.
+
+**Prevention is capability-specific:** identify what the Alchemy enables; how it could be misused or fail; who or what could be affected; which preventative Alchemies reduce likelihood; which protective Alchemies limit exposure; which corrective Alchemies detect, stop, reverse, or remediate; and which restorative Alchemies support recovery. No single control is presumed sufficient for every domain.
+
 ## 2. Four-repository system structure
 
 | Repository | Edition | System responsibility |
@@ -899,3 +903,187 @@ A system that merely changes an attack's appearance in a fictional simulation mu
 - **Research limitation:** This intake reviews the supplied page and selected directly related entries. The Adaptations category contains many additional entries; those require their own source-by-source intake and must not be silently assumed covered here.
 
 **Intake conclusion:** Adaptive-Attacks Alchemy is added as a distinct canonical Alchemy with five core adaptive-action specializations, three proposed safety/verification specializations, and a separately classified Adaptive-Defense Alchemy. The new family is mapped across all four repositories, related to the wider adaptation taxonomy, and bounded by explicit authorization, safety, feedback-integrity, and reversal requirements.
+
+
+---
+
+## 15. Preventative Alchemy Registry and mandatory prevention architecture
+
+**Status:** Foundational taxonomy amendment; proposed canonical Alchemy registry informed by published risk-management and secure-development frameworks. The Alchemies below are conceptual/operational classifications for the C2O / UNIVERSALIS ecosystem; listing them does not assert that every control is implemented or that risk can be eliminated.
+
+### 15.1 Governing principle
+
+Prevention is not one Alchemy and is not a final-stage checklist. It is a cross-cutting family of Alchemies that must be connected to every capability. The taxonomy distinguishes:
+
+- **Preventative Alchemies:** reduce the probability that harm, misuse, unauthorized action, unsafe operation, or foreseeable failure occurs.
+- **Protective Alchemies:** reduce exposure and limit impact when prevention is incomplete or a threat is active.
+- **Corrective Alchemies:** detect, stop, contain, reverse, repair, or remediate a harmful or nonconforming state.
+- **Restorative Alchemies:** restore safe operation, affected data, resources, relationships, rights, or system state where restoration is possible.
+
+These are functional classifications, not mutually exclusive silos. One canonical Alchemy may contribute to more than one function, but each relationship must be explicitly typed and justified. Prevention must be designed into capability conception, research, development, integration, deployment, operation, update, retirement, and recovery.
+
+### 15.2 Newly established Preventative Alchemies
+
+The following entries add distinct Alchemies where the existing taxonomy did not adequately name the prevention mechanism. Existing canonical Alchemies (for example Harm-Prevention, Abuse-Prevention, Access-Control, Consent, Privacy-by-Design, Risk-Assessment, Failure-Prevention, and Security-Verification) remain canonical and are cross-linked rather than duplicated.
+
+| ID | Canonical Alchemy | Definition and prevention responsibility |
+|---|---|---|
+| PVA-001 | Misuse-Prevention Alchemy | Anticipate and prevent foreseeable harmful, abusive, exploitative, or unauthorized use of otherwise legitimate capabilities. |
+| PVA-002 | Capability-Authorization Alchemy | Require a valid, attributable authority grant before a capability or consequential operation may be invoked. |
+| PVA-003 | Purpose-Limitation Alchemy | Bind collection, processing, transformation, and action to a declared, legitimate, reviewable purpose; prevent incompatible secondary use. |
+| PVA-004 | Scope-Enforcement Alchemy | Constrain an operation to explicit subjects, objects, resources, environments, time windows, and permitted actions. |
+| PVA-005 | Consent-Validation Alchemy | Establish that consent is informed, specific, freely given, current, attributable, and relevant to the proposed operation. |
+| PVA-006 | Consent-Revocation Alchemy | Make withdrawal of consent effective, propagate it to dependent operations, and prevent continued processing or action beyond lawful retention duties. |
+| PVA-007 | Coercion-Prevention Alchemy | Identify and prevent capabilities or workflows from being used to compel, threaten, manipulate, or unduly pressure a person. |
+| PVA-008 | Deception-Resistance Alchemy | Resist impersonation, forged authority, misleading context, concealed intent, and deceptive inputs through provenance and independent validation. |
+| PVA-009 | Manipulation-Resistance Alchemy | Detect and resist covert influence, exploitative persuasion, behavioral manipulation, and unauthorized alteration of decisions or preferences. |
+| PVA-010 | Discrimination-Prevention Alchemy | Prevent unjustified differential treatment, exclusion, ranking, or adverse decisions; require relevant evidence, fairness review, and appeal paths. |
+| PVA-011 | Bias-Prevention Alchemy | Identify and reduce systematic bias in data, models, rules, measurements, interfaces, and operational decisions before harm occurs. |
+| PVA-012 | Unintended-Consequence-Prevention Alchemy | Identify foreseeable indirect, emergent, cascading, and second-order effects before authorizing a capability or change. |
+| PVA-013 | Precondition-Validation Alchemy | Verify required conditions, prerequisites, context, dependencies, authority, and safety state before execution. |
+| PVA-014 | Postcondition-Validation Alchemy | Verify that an operation produced only its authorized and intended state changes, with no prohibited side effects. |
+| PVA-015 | Safe-Failure Alchemy | Define and enforce a safe state when a component, dependency, policy decision, or verification step fails or becomes uncertain. |
+| PVA-016 | Fail-Closed Alchemy | Deny or suspend consequential access and action when required authorization, integrity, policy, or safety evidence is missing or invalid. Exceptions must be explicit, bounded, and justified. |
+| PVA-017 | Irreversibility-Prevention Alchemy | Identify irreversible or difficult-to-reverse actions and prevent execution until proportional review, authorization, safeguards, and recovery planning are satisfied. |
+| PVA-018 | Change-Impact-Prevention Alchemy | Assess effects on dependent capabilities, people, data, security boundaries, and system behavior before a change is accepted or deployed. |
+| PVA-019 | Unsafe-Escalation-Prevention Alchemy | Prevent privilege, autonomy, resource, scope, or impact from increasing without a separately authorized and verified escalation. |
+| PVA-020 | Excessive-Autonomy-Prevention Alchemy | Bound delegated or autonomous action by explicit authority, task scope, action budgets, human review thresholds, and stop conditions. |
+| PVA-021 | Resource-Exhaustion-Prevention Alchemy | Prevent uncontrolled consumption of compute, memory, storage, energy, network, money, attention, or other scarce resources. |
+| PVA-022 | Cascade-Failure-Prevention Alchemy | Prevent local faults, compromised dependencies, or unsafe adaptations from propagating across components, services, agents, devices, or organizations. |
+| PVA-023 | Dependency-Compromise-Prevention Alchemy | Reduce risks from compromised, counterfeit, vulnerable, unmaintained, or untrusted dependencies, suppliers, models, data, and update channels. |
+| PVA-024 | Unauthorized-Change-Prevention Alchemy | Prevent unapproved modification of code, configuration, records, policies, models, identity, device state, or other protected assets. |
+| PVA-025 | Evidence-Manipulation-Prevention Alchemy | Protect evidence, provenance, logs, measurements, evaluations, and audit trails against fabrication, omission, tampering, or misleading presentation. |
+| PVA-026 | Unsafe-Interaction-Prevention Alchemy | Prevent interactions that create foreseeable physical, psychological, informational, financial, social, or operational danger. |
+| PVA-027 | Environmental-Harm-Prevention Alchemy | Prevent avoidable damage to ecosystems, biodiversity, climate, materials, energy systems, and shared environmental resources. |
+| PVA-028 | Rights-Violation-Prevention Alchemy | Prevent operations that violate human rights, dignity, lawful autonomy, due process, accessibility, or legitimate freedom. |
+| PVA-029 | Recurrence-Prevention Alchemy | Convert verified incident causes and corrective findings into tested controls that reduce the likelihood of recurrence. |
+| PVA-030 | Prevention-Verification Alchemy | Test whether prevention controls are present, effective, resistant to bypass, proportionate, and maintained throughout the lifecycle. |
+
+### 15.3 Existing canonical Alchemies that form the prevention foundation
+
+The following existing entries are explicitly elevated as foundational prevention resources. They are not renamed or duplicated by PVA identifiers:
+
+- **Ethical and human protection:** Ethics Alchemy; Wisdom Alchemy; Human-Dignity Alchemy; Human-Rights Alchemy; Nonmaleficence Alchemy; Beneficence Alchemy; Harm-Prevention Alchemy; Abuse-Prevention Alchemy; Exploitation-Prevention Alchemy; Coercion-Prevention Alchemy; Violence-Prevention Alchemy; Fraud-Prevention Alchemy; Deception-Prevention Alchemy; Discrimination-Prevention Alchemy.
+- **Consent, autonomy, and authority:** Consent Alchemy; Permission Alchemy; Authorization Alchemy; Access-Control Alchemy; Human-Oversight Alchemy; Revocation Alchemy; Decision-Rights Alchemy; Separation-of-Duties Alchemy; Autonomy Alchemy.
+- **Security and integrity:** Security Alchemy; Cybersecurity Alchemy; Threat-Modeling Alchemy; Threat-Detection Alchemy; Vulnerability-Management Alchemy; Intrusion-Prevention Alchemy; Malware-Prevention Alchemy; Exploit-Prevention Alchemy; Supply-Chain-Security Alchemy; Secure-Development Alchemy; Integrity-Protection Alchemy; Attestation Alchemy; Security-Verification Alchemy; Kill-Switch Alchemy; Containment Alchemy.
+- **Privacy and information protection:** Privacy Alchemy; Privacy-by-Design Alchemy; Privacy-by-Default Alchemy; Data-Minimization Alchemy; Data-Protection Alchemy; Information-Protection Alchemy; Confidentiality Alchemy; Identity-Privacy Alchemy; Surveillance-Prevention Alchemy; Tracking-Prevention Alchemy; Profiling-Prevention Alchemy.
+- **Reliability and recovery:** Safety Alchemy; Risk-Assessment Alchemy; Risk-Management Alchemy; Risk-Mitigation Alchemy; Risk-Prevention Alchemy; Hazard-Identification Alchemy; Failure-Prevention Alchemy; Fault-Isolation Alchemy; Resilience Alchemy; Incident-Response Alchemy; Incident-Containment Alchemy; Recovery Alchemy; Restoration Alchemy; Disaster-Recovery Alchemy.
+- **Truth and evidence:** Truthfulness Alchemy; Transparency Alchemy; Explainability Alchemy; Interpretability Alchemy; Data-Provenance Alchemy; Data-Integrity Alchemy; Data-Validation Alchemy; Data-Verification Alchemy; Knowledge-Verification Alchemy; Auditability Alchemy; Traceability Alchemy.
+
+The registry must check for an existing canonical entry before proposing another name. Similar names are not automatically duplicates: distinct mechanisms remain distinct when their purpose, trigger, protected interest, or control effect differs. Synonyms and overlapping descriptions are recorded as aliases or relationships, not inflated into duplicate Alchemies.
+
+### 15.4 Required prevention coverage for every Alchemy
+
+Every canonical Alchemy and specialization must receive its own record in the Alchemy Prevention Coverage Register. This applies to the six foundational Alchemies, all domain families, all supportive Alchemies, all threat-classification Alchemies, and all future additions.
+
+| Required field | Minimum content |
+|---|---|
+| Alchemy identity | Stable ID, canonical name, parent/family, aliases, version and status |
+| Capability and purpose | What it enables, intended beneficiaries, legitimate purposes, and operating context |
+| Harm analysis | Misuse, abuse, coercion, exploitation, deception, discrimination, safety hazards, privacy impacts, failure modes, and plausible indirect effects |
+| Affected interests | People, communities, identities, rights, data, devices, infrastructure, ecosystems, resources, and dependent systems |
+| Preventative relationships | Named preventative Alchemies, the risk each addresses, the prevention mechanism, and when it must operate |
+| Protective relationships | Named protective Alchemies that limit exposure or impact if prevention fails |
+| Corrective relationships | Detection, stop, containment, reversal, repair, appeal, and incident response |
+| Restorative relationships | Recovery of safe state, data, function, resources, rights, trust, and affected conditions where possible |
+| Authority and consent | Who may authorize, who may execute, whose consent is required, delegation limits, revocation, and prohibited authority |
+| Verification | Test cases, abuse cases, adversarial tests, acceptance thresholds, residual risks, evidence, and independent review |
+| Repository mapping | OS/App allocation in both C2O and UNIVERSALIS, with private/public boundary stated |
+| Review | Owner, evidence status, review status, last review, unresolved gaps, and re-evaluation triggers |
+
+**Coverage states:** UNASSESSED; ASSESSED—CONTROLS-DEFINED; IMPLEMENTED—UNVERIFIED; TESTED; VERIFIED; PARTIALLY-COVERED; GAP; NOT-APPLICABLE—JUSTIFIED. A blank field is not a pass. A claimed prevention control is not verified merely because it is documented.
+
+### 15.5 Domain-specific prevention relationship matrix
+
+| Alchemy domain / capability family | Required preventative relationship examples | Protective, corrective, and restorative relationship examples |
+|---|---|---|
+| Body, biological, genetic, life, health | Consent-Validation; Purpose-Limitation; Harm-Prevention; Precondition-Validation; Environmental-Harm-Prevention where applicable | Physical-Safety; Biological-Defense; Privacy; qualified human review; Incident-Response; Healing and Restoration |
+| Heart, emotional, psychological, behavioral | Coercion-Prevention; Manipulation-Resistance; Abuse-Prevention; Consent-Revocation; Rights-Violation-Prevention | Psychological-Safety; Personal-Privacy; Autonomy; support, reporting, appeal, and restorative care |
+| Soul, identity, values, personality, traits | Consent-Validation; Purpose-Limitation; Discrimination-Prevention; Manipulation-Resistance; Irreversibility-Prevention | Identity-Protection; Human-Dignity; Trait-Protection; reversal where possible; personal-data restoration |
+| Spirit, agency, intention, autonomy, action | Capability-Authorization; Scope-Enforcement; Unsafe-Escalation-Prevention; Excessive-Autonomy-Prevention | Human-Oversight; Revocation; Kill-Switch; Safe-Failure; rollback and incident recovery |
+| Consciousness, cognition, learning, memory, intelligence | Evidence-Manipulation-Prevention; Deception-Resistance; Bias-Prevention; Consent-Validation; Unintended-Consequence-Prevention | Cognitive-Safety; Memory-Protection; Data-Integrity; explainability; correction and restoration |
+| Universal, cross-domain, integration, coordination | Change-Impact-Prevention; Cascade-Failure-Prevention; Dependency-Compromise-Prevention; Rights-Violation-Prevention | Resilience; interoperability safeguards; containment; coordinated recovery and independent verification |
+| Information, data, knowledge, communication | Purpose-Limitation; Unauthorized-Change-Prevention; Evidence-Manipulation-Prevention; Deception-Resistance; Resource-Exhaustion-Prevention | Encryption; Data-Integrity; Provenance; Privacy; Data-Recovery; audit and correction |
+| Learning, research, discovery, adaptation | Bias-Prevention; Evidence-Manipulation-Prevention; Precondition-Validation; Change-Impact-Prevention | Knowledge-Verification; Adversarial-Testing; rollback; provenance and reproducibility |
+| Power, acceleration, augmentation, adaptive action | Capability-Authorization; Scope-Enforcement; Precondition-Validation; Unsafe-Escalation-Prevention; Resource-Exhaustion-Prevention; Safe-Failure | Rate-Limiting; Precision-Preservation; Adaptive-Defense; monitoring; stop, reversal, and recovery |
+| Intelligence, agents, automation, robotics | Excessive-Autonomy-Prevention; Capability-Authorization; Scope-Enforcement; Dependency-Compromise-Prevention; Unsafe-Interaction-Prevention | Sandboxing; Human-Oversight; Safe-Execution; Kill-Switch; fault isolation and incident recovery |
+| Social, institutional, economic, governance | Rights-Violation-Prevention; Discrimination-Prevention; Coercion-Prevention; Purpose-Limitation; Conflict-of-Interest-Prevention | Transparency; Accountability; appeal; audit; remediation and reconciliation |
+| Security, privacy, infrastructure, devices | Unauthorized-Change-Prevention; Dependency-Compromise-Prevention; Cascade-Failure-Prevention; Resource-Exhaustion-Prevention | Defense-in-depth; isolation; attestation; incident containment; recovery |
+| Environmental, ecological, material, energy | Environmental-Harm-Prevention; Unintended-Consequence-Prevention; Resource-Exhaustion-Prevention | Environmental-Monitoring; Resource-Stewardship; Ecological-Balance; remediation and restoration |
+| Transformation, optimization, evolution, self-modification | Change-Impact-Prevention; Irreversibility-Prevention; Precondition-Validation; Postcondition-Validation; Recurrence-Prevention | Versioning; rollback; change control; resilience; restoration |
+
+This matrix is a domain-level minimum, not a substitute for the individually completed Alchemy Prevention Coverage Register. A capability spanning multiple domains inherits the relevant prevention requirements from each domain.
+
+### 15.6 Four-repository implementation and governance matrix
+
+| Prevention responsibility | C2O-OS | C2O-App | UNIVERSALIS-OS | UNIVERSALIS-App |
+|---|---|---|---|---|
+| Policy and authority enforcement | Private-source policy enforcement, privileged controls, OS trust boundaries | Private-source workflow authority, consent and approval UX | Open policy interfaces, inspectable enforcement contracts | Open consent, permission, and review interfaces |
+| Capability and scope control | Kernel/service boundaries, identity, process isolation, device controls | Application action scope, data permissions, user-visible purpose | Reusable open controls and policy contracts | User-facing scoped workflows and permission explanations |
+| Safety and prevention | System safety services, safe-failure, containment, recovery | Interaction safety, confirmation, reporting, appeal | Publicly inspectable safety mechanisms | Safe public interaction patterns |
+| Integrity and evidence | Protected private evidence, signing, audit and provenance | Application records, validation and traceable approvals | Open verification formats and reference implementations | Evidence presentation, provenance and validation UX |
+| Incident correction and restoration | Containment, rollback, recovery and controlled incident response | User notification, cancellation, correction and recovery flows | Reusable open recovery contracts | User-controlled recovery and remediation workflows |
+| Assurance and verification | Private test suites, security review, release gates | Application abuse tests and accessibility/safety validation | Public tests, conformance suites and reproducible evidence | Public app conformance and user-facing verification |
+
+**Boundary rule:** The underlying Alchemy taxonomy and safety expectations remain aligned. C2O retains private-source governance, private keys, internal policies, incident data, and company authority. UNIVERSALIS exposes only intentionally public contracts, implementations, tests, and evidence. No private C2O authority, secrets, policies, or incident records are copied into UNIVERSALIS merely to achieve taxonomy parity.
+
+### 15.7 Mandatory lifecycle gates
+
+1. **Conception:** define intended purpose, beneficiaries, affected parties, prohibited uses, and initial harm hypotheses.
+2. **Research and design:** perform domain-specific hazard, misuse, rights, privacy, and dependency analysis; identify preventative Alchemies before capability design is finalized.
+3. **Development:** implement prevention and protective controls as design requirements, not optional documentation.
+4. **Pre-deployment:** test preconditions, authorization, consent, scope, safe failure, misuse resistance, and postconditions; verify corrective and recovery paths.
+5. **Operation:** monitor control effectiveness, context changes, incidents, drift, emerging threats, and newly discovered harms.
+6. **Change and adaptation:** repeat impact analysis and verification for material changes; preserve rollback and revocation.
+7. **Retirement and recovery:** revoke authority, protect or dispose of data appropriately, preserve required evidence, and restore affected parties or systems where possible.
+
+A failed gate blocks the affected capability from being represented as verified or safe for the intended deployment. Residual risk must be explicit and accepted only by an authorized decision-maker within the applicable governance boundary.
+
+### 15.8 Minimum prevention verification suite
+
+Every Alchemy must be evaluated against applicable cases from this suite, with domain-specific tests added as needed:
+
+- Unauthorized actor, missing permission, expired authority, and revoked consent.
+- Purpose drift, scope expansion, hidden secondary use, and prohibited target.
+- Malicious, deceptive, poisoned, incomplete, or untrusted input and dependency.
+- Incorrect, fabricated, manipulated, or unverifiable output and evidence.
+- Excessive autonomy, privilege escalation, resource exhaustion, and unsafe acceleration.
+- Discriminatory impact, coercive interaction, privacy leakage, and rights infringement.
+- Unexpected side effect, cascading failure, unsafe state transition, and irreversible action.
+- Prevention-control bypass, monitoring failure, alert failure, and incident escalation.
+- Safe stop, containment, rollback, correction, recovery, and recurrence prevention.
+- False-positive and false-negative testing to ensure controls are proportionate and do not unjustifiably deny legitimate, accessible, lawful use.
+
+Verification evidence must identify the test, version, environment, assumptions, inputs, expected result, observed result, limitations, reviewer, and residual risk. Simulations and tabletop exercises are evidence of the tested scenario only; they are not proof of universal effectiveness.
+
+### 15.9 Research basis and interpretation
+
+The architecture is informed by:
+
+- NIST AI Risk Management Framework (AI RMF 1.0): continuous lifecycle risk management organized around Govern, Map, Measure, and Manage. This supports governance, context mapping, measurement, mitigation, response, and recovery as connected lifecycle activities.
+- NIST SP 800-218, Secure Software Development Framework (SSDF) v1.1: secure-development practices integrated into the software lifecycle to reduce vulnerabilities, mitigate exploitation impact, and address root causes. NIST has also published a draft SP 800-218 Rev. 1 / SSDF v1.2; this taxonomy does not misrepresent the draft as a final standard.
+- OWASP Top 10 for LLM Applications: documented risk classes including prompt injection, sensitive information disclosure, supply-chain vulnerabilities, data/model poisoning, insecure output handling, excessive agency, misinformation, and unbounded consumption. These examples demonstrate why prevention must be capability-specific and include authority, input, output, resource, integrity, and oversight controls.
+
+These frameworks inform the design; they do not certify this taxonomy, prove that its proposed Alchemies are exhaustive, or replace applicable law, domain standards, expert assessment, or independent testing.
+
+### 15.10 Required work to complete the retrospective audit
+
+The present amendment establishes the canonical prevention Alchemy registry, relationship rules, domain-level minimums, repository allocation, lifecycle gates, and verification suite. It does **not** falsely claim that every existing Alchemy has already received an individually completed risk assessment. The remaining audit is explicit:
+
+- enumerate every canonical Alchemy and specialization in Sections 4–6 and all later intake addenda;
+- assign or preserve a stable identity and parent relationship;
+- map its foreseeable risks to named preventative Alchemies;
+- map protective, corrective, and restorative relationships separately;
+- record four-repository OS/App responsibility;
+- test for duplicate names, missing relationships, unassessed risks, and unjustified not-applicable decisions;
+- publish a coverage result with assessed, verified, partial, and gap counts.
+
+Until that register is completed and verified, the taxonomy's retrospective prevention coverage is **in progress**, not complete.
+
+### 15.11 Source references
+
+1. NIST, *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*, NIST AI 100-1: https://doi.org/10.6028/NIST.AI.100-1
+2. NIST, *Secure Software Development Framework (SSDF) Version 1.1*, SP 800-218: https://csrc.nist.gov/pubs/sp/800/218/final
+3. NIST, *Cybersecurity Supply Chain Risk Management publications* (including the draft SSDF v1.2 revision): https://csrc.nist.gov/Projects/cyber-supply-chain-risk-management/publications
+4. OWASP, *Top 10 for Large Language Model Applications*: https://owasp.org/www-project-top-10-for-large-language-model-applications/
+5. OWASP, *LLM06:2025 Excessive Agency*: https://owasp.org/www-project-top-10-for-large-language-model-applications/2_0_vulns/LLM06_ExcessiveAgency.html
