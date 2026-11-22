@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.27.0  
-**Status:** Living taxonomy; version 0.27.0 adds the Ascended Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
+**Version:** 0.28.0  
+**Status:** Living taxonomy; version 0.28.0 adds the Attack Compression Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -3747,6 +3747,59 @@ This expansion appends Advanced Powers Alchemy without renumbering or replacing 
 - **Related entries:** A643/A782 Transcendence-Concept Alchemy; A928 Evolution-and-Consciousness Alchemy; A1680 Capability Evolution Hypothesis Alchemy; A2393 Existence Persistence Alchemy; A2399 Life-Death Concept Boundary Alchemy; A2471 Ancient Power Evolution Alchemy; A1287 Trait Consent Stewardship Alchemy; A1288 Trait Privacy Alchemy; A1292 Trait Non-Discrimination Alchemy.
 - **Residual limits:** Ascension is a broad fictional, religious, philosophical, and speculative concept. The same word may describe materially different claims. Taxonomy membership does not validate metaphysical, biological, technological, or supernatural transformation.
 
+
+## Attack Compression Alchemy Expansion
+
+**Primary source:** [Superpower Wiki — Trait:Attack Compression](https://powerlisting.fandom.com/wiki/Trait:Attack_Compression). The source defines a fictional ability to compress an attack or technique to amplify its effect, and associates it with charged attacks, effect stacking, energetic pressure, energy amplification/concentration, enhanced strikes, and weighted attacks. It distinguishes compression of the attack itself from concentration of power within the user. It identifies Attack Expansion and Defense Compression as opposites and Attack Manipulation as a parent concept. These are fictional capability descriptions, not practical instructions or evidence of real-world superhuman effects.
+
+**Scope distinction:** This family classifies the abstract representation of an attack being condensed or concentrated before delivery, and the resulting changes to its modeled intensity, footprint, duration, or distribution. It does not prescribe construction or optimization of weapons, explosives, projectiles, or harmful techniques. It is distinct from generic physical compression, Power Concentration, Attack Expansion, Attack Mixture, and ordinary signal/data compression. Related concepts are cross-referenced without assuming that their properties transfer.
+
+### Aries — definition and boundaries
+- **A2813 — Attack Compression Alchemy (Aries/Gemini):** Define and classify fictional or abstract models in which an attack representation is condensed into a smaller spatial, temporal, or representational footprint while its attributed effect is intensified. Record the modeled domain, baseline, assumptions, effect claims, limitations, and evidence status. Do not translate fictional attack mechanics into actionable real-world harm instructions.
+- **A2814 — Attack Compression Mode Classification Alchemy (Gemini):** Distinguish spatial condensation, temporal concentration, signal/representation compacting, multi-effect aggregation, and fictional energy-density descriptions; do not treat these as physically interchangeable.
+- **A2815 — Attack Compression versus Power Concentration Distinction Alchemy (Virgo):** Preserve the source distinction between condensing the attack itself and concentrating power within an actor or source; identify mixed or ambiguous cases explicitly.
+- **A2816 — Attack Compression versus Attack Expansion Boundary Alchemy (Libra):** Compare compression and expansion as different transformations of an attack's modeled footprint, distribution, and effect; do not presume either is inherently stronger or safer.
+
+### Taurus — properties, constraints, and effects
+- **A2817 — Compressed Effect Profile Alchemy (Taurus):** Describe the intended effect profile at a non-operational level, including scope, intensity category, duration, reversibility, collateral-risk assumptions, and uncertainty.
+- **A2818 — Compression Trade-Off Analysis Alchemy (Virgo):** Identify modeled trade-offs among compactness, precision, controllability, stability, resource demand, detectability, and unintended effects without providing attack-performance optimization.
+- **A2819 — Compression Stability and Failure Analysis Alchemy (Capricorn):** Classify instability, premature release, unintended expansion, loss of containment, misclassification, and failure states in fictional or simulated models; require safe stop and non-harmful fallback.
+- **A2820 — Attack Compression Resource and Dependency Alchemy (Virgo):** Record abstract dependencies, prerequisites, resource assumptions, and limitations; distinguish fictional energy systems from real energy, materials, or engineering.
+
+### Gemini — interactions and composition
+- **A2821 — Attack Compression and Effect-Stacking Relationship Alchemy (Gemini):** Analyze the conceptual relationship between compression and stacking multiple effects; distinguish a single condensed effect from multiple aggregated effects and avoid assuming additive outcomes.
+- **A2822 — Attack Compression and Infusion Relationship Alchemy (Gemini):** Classify fictional infusion or attribute overlays separately from compression; document whether an infusion is merely associated, an input, or an independently supported mechanism.
+- **A2823 — Compressed Attack Representation and Signal Integrity Alchemy (Aquarius):** Model whether a compressed representation preserves intended meaning, parameters, provenance, and constraints when encoded, transmitted, or simulated; this is a digital representation concern, not a physical attack technique.
+- **A2824 — Attack Compression Interaction Boundary Alchemy (Libra):** Examine conceptual interactions with attack modification, attack mixture, attack creation, attack replication, and adaptive attacks; preserve separate identities and avoid duplicate capability claims.
+
+### Leo — controlled expression and simulation
+- **A2825 — Bounded Attack-Effect Simulation Alchemy (Virgo/Leo):** Permit only abstract, non-operational simulation of compression effects using inert variables, toy models, or fictional parameters; exclude real-world target selection, weapon construction, destructive tuning, and injury optimization.
+- **A2826 — Non-Harmful Demonstration and Visualization Alchemy (Leo):** Represent compression through harmless analogies such as data size, visual scale, or abstract energy bars; clearly label the visualization as illustrative rather than a physical demonstration.
+- **A2827 — Defensive Compression Recognition Alchemy (Scorpio):** Identify indicators that an incoming or simulated effect is represented as condensed, amplified, or unusually concentrated, for the purpose of warning, avoidance, or defensive analysis only.
+
+### Virgo — verification and evaluation
+- **A2828 — Attack Compression Claim Validation Alchemy (Virgo):** Evaluate source claims, internal consistency, reproducibility within a safe simulation, and evidentiary limits; fictional character examples do not establish physical feasibility.
+- **A2829 — Compression Effect Uncertainty and Measurement Alchemy (Virgo):** Record uncertainty, measurement limits, confounders, and ambiguity in any safe abstract model; do not infer real-world force, energy density, or destructive output from narrative descriptions.
+
+### Prevention, protection, detection, and recovery
+- **A2830 — Harmful Attack Compression Operationalization Prevention Alchemy (Scorpio):** Prevent abstract or fictional taxonomy descriptions from being converted into actionable instructions for increasing injury, destructive force, explosive yield, weapon effectiveness, or harmful impact; redirect to safe fictional analysis and defensive education.
+- **A2831 — Collateral Harm and Uncontrolled Release Prevention Alchemy (Cancer/Capricorn):** Require explicit hazard boundaries, fail-safe assumptions, non-harmful defaults, and stop conditions in any permitted simulation or visualization; do not model uncontrolled release as a desirable outcome.
+- **A2832 — Consent and Authorization Boundary for Attack Models Alchemy (Libra):** Prevent unauthorized use of attack-related simulations, datasets, or system functions; require lawful scope, consent where applicable, and role-based authorization for defensive testing.
+- **A2833 — Defensive Mitigation and Safe-Distance Guidance Alchemy (Cancer):** Prioritize disengagement, barriers, evacuation, alerting, and qualified emergency response in real-world danger; avoid counterattack instructions or escalation.
+- **A2834 — Compression Misclassification and False-Confidence Prevention Alchemy (Virgo):** Prevent fictional labels such as “compressed,” “amplified,” or “weighted” from being treated as verified performance metrics, and prevent users from relying on unsupported claims for safety-critical decisions.
+- **A2835 — Simulation Abuse Monitoring and Containment Alchemy (Scorpio):** Detect attempts to repurpose safe models for harmful operational optimization, restrict access, log relevant events proportionately, and terminate or quarantine misuse while preserving privacy.
+- **A2836 — Attack-Model Incident Review and Recovery Alchemy (Pisces):** Support incident reporting, correction of unsafe outputs, removal or containment of harmful model artifacts, restoration of safe configurations, and documentation of residual risks.
+
+**Applicability and integration**
+- **C2O:** private-source governance may define internal review, authorization, audit, and containment controls; confidential policies, keys, and incident details remain private.
+- **UNIVERSALIS:** publish safe conceptual definitions, non-operational simulations, defensive contracts, and transparent evidence labels; exclude C2O-private implementation details.
+- **UNIVERSALINS:** non-personal assistants may explain the fictional concept, classify relationships, run inert toy models, and identify unsafe requests; they must not generate harmful operational attack optimization.
+- **UNIVERSALIN Guardians:** personal human assistants/guardians may support defensive awareness, de-escalation, emergency planning, and user-directed education; no offensive action or coercive control is implied.
+- **Repository mapping:** OS repositories cover policy enforcement, sandboxing, access control, safe simulation boundaries, logging, and containment; App repositories cover user-facing explanation, visualization, consent, and safe workflows. Keep identifiers and public-safe definitions synchronized across all four repositories.
+- **Related source concepts:** Attack Manipulation, Attack Expansion, Attack Mixture, Attack Modification, Attack Creation, Special Attacks, Compression, Power Concentration, Effect Stacking, Attack Movement Manipulation, Defense Compression, and Power Refining. These links indicate taxonomy relationships only; they do not establish real capability or authorize harmful implementation.
+- **Related existing taxonomy:** cross-reference existing generic compression, attack/defense, effect, safety, simulation, authorization, and capability-boundary entries where present. Do not duplicate a general compression or defensive capability under a new name.
+- **Residual limits:** The source is fictional. “Compression” may mean spatial condensation, temporal concentration, aggregation, or metaphorical intensification in different contexts. No entry validates physical feasibility or provides a real-world attack method.
+
 ## Ecosystem Profiles
 
 #### C2OADPC — C2O
@@ -5497,3 +5550,8 @@ This expansion adds **24 uniquely identified A-numbered Alchemies (A2765–A2788
 ## Maintenance Record for v0.27.0
 
 This expansion adds **24 uniquely identified A-numbered Alchemies (A2789–A2812)** for Ascended, covering transition definition, resulting-state classification, pathway and prerequisite analysis, spiritual/evolutionary/partial ascension models, embodiment and identity continuity, capability attribution, empowerment provenance, dependency analysis, post-transition adaptation, role boundaries, reversibility, evidence validation, limitations, and dedicated prevention/protection/detection/recovery controls. The A-numbered sequence now reaches **A2812**. This identifier ceiling is not the cumulative count of all taxonomy records. The source is a fictional trait classification; these entries are conceptual taxonomy specifications, not evidence of real-world ascension or supernatural capability. Existing related entries remain distinct and are cross-referenced.
+
+
+## Maintenance Record for v0.28.0
+
+This expansion adds **24 uniquely identified A-numbered Alchemies (A2813–A2836)** for Attack Compression, covering definition and mode classification, distinctions from power concentration and attack expansion, effect profiles, trade-offs, stability, dependencies, interactions with effect stacking and infusion, representation integrity, safe simulation and visualization, defensive recognition, evidence validation, and prevention/protection/detection/containment/recovery controls. The A-numbered sequence now reaches **A2836**. This identifier ceiling is not the cumulative count of all taxonomy records. The source is a fictional trait classification; entries are conceptual and defensive taxonomy specifications, not evidence of real-world superhuman capability or instructions for constructing or optimizing harmful attacks.
