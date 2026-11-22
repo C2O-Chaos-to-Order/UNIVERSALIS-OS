@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.3.0  
-**Status:** Living taxonomy; version 0.3.0 adds the Heart Alchemy family; expandable and subject to evidence-based review  
+**Version:** 0.4.0  
+**Status:** Living taxonomy; version 0.4.0 adds the Mind Alchemy family; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -684,3 +684,242 @@ Each Heart Alchemy record must additionally identify:
 
 ## Taxonomy maintenance
 Heart Alchemy is a specialized child family of Body Alchemy. Its entries must retain stable identifiers and cross-reference relevant Body Alchemy entries rather than duplicate them. Heart Alchemy content must be synchronized across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App. The four files must have identical taxonomy content and identifiers. Implementation and private governance details remain edition-specific; C2O private-source material must not be disclosed in the shared taxonomy.
+
+
+# Mind Alchemy — Domain Expansion
+**Originating Alchemy:** Mind Alchemy  
+**Family version:** 0.1.0  
+**Parent family:** Body Alchemy  
+**Related family:** Heart Alchemy  
+**Zodiac stages:** All twelve.  
+**Primary domains:** Cognitive science, psychology, neuroscience, psychiatry, philosophy of mind, linguistics, learning sciences, human-computer interaction, and mental-health support.
+
+## Definition, distinctions, and boundaries
+**Mind Alchemy** is the organized study and classification of mental processes, capacities, experiences, representations, and changes, including perception, attention, memory, learning, reasoning, language, imagination, emotion, motivation, identity, self-regulation, decision-making, and conscious experience.
+
+Mind is embodied and influenced by brain, body, relationships, culture, development, and environment. The mind is not identical to the brain: brain structures and neural activity are biological subjects, while mental processes and subjective experience require appropriate psychological, cognitive, behavioral, and philosophical descriptions. Mind Alchemy cross-references Body Alchemy and Heart Alchemy without collapsing these distinctions.
+
+Mental health is not simply the absence of distress, and mental illness is not a moral failing or a person's identity. Mental experiences and abilities vary across individuals and contexts. Neurodivergence and disability must not be automatically classified as defects. Diagnostic labels require appropriate professional assessment; this taxonomy is not a diagnostic or treatment system.
+
+Consciousness, free will, the nature of subjective experience, and some theories of cognition remain active scientific and philosophical questions. Entries about these subjects must label competing theories and uncertainty. Metaphors, spiritual interpretations, and philosophical positions must not be presented as settled empirical mechanisms.
+
+The taxonomy is educational and classificatory, not individualized mental-health care. It must not replace professional support or emergency help. If someone may be in immediate danger or unable to stay safe, they should contact local emergency services or an appropriate crisis service; taxonomy content must never delay urgent support.
+
+## Mind Alchemy list
+
+### Zodiac I — Aries: Emergence, awareness, and mental identity
+- **A421 — Mind Identity Alchemy:** Describe mental identity and experience without reducing a person to a diagnosis, test score, or single trait.
+- **A422 — Cognitive Emergence Alchemy:** Study the development and emergence of cognitive capacities across individuals and the lifespan.
+- **A423 — Awareness Alchemy:** Study awareness of external events, internal states, and ongoing mental activity.
+- **A424 — Attention Initiation Alchemy:** Study how attention is oriented, initiated, and directed toward information or tasks.
+- **A425 — Self-Awareness Alchemy:** Study recognition of one's thoughts, feelings, actions, and characteristics.
+- **A426 — Metacognitive Emergence Alchemy:** Study awareness and regulation of one's own thinking and learning.
+- **A427 — Mental Representation Alchemy:** Study how people represent objects, events, concepts, relationships, and possibilities.
+- **A428 — Cognitive Development Alchemy:** Study changes in cognition from early development through adulthood and aging.
+- **A429 — Individual Cognitive Variation Alchemy:** Describe differences in cognitive styles, capacities, and experiences without unsupported ranking or stigma.
+- **A430 — Anti-Mental-Coercion Alchemy:** Prevent coercive control, forced belief, intimidation, and violations of psychological autonomy.
+
+### Zodiac II — Taurus: Foundations, brain, and mental structures
+- **A431 — Brain-Mind Relationship Alchemy:** Study relationships between brain processes, cognition, behavior, and subjective experience while preserving conceptual distinctions.
+- **A432 — Neural-Network Alchemy:** Study neural circuits and networks relevant to mental processes.
+- **A433 — Cognitive-Architecture Alchemy:** Model interacting cognitive functions and their dependencies.
+- **A434 — Perceptual-Foundation Alchemy:** Study mechanisms and processes through which sensory information is organized into perception.
+- **A435 — Memory-Architecture Alchemy:** Study different memory systems, their functions, and interactions.
+- **A436 — Language-Architecture Alchemy:** Study mental and neural processes involved in language comprehension, production, and representation.
+- **A437 — Concept-Formation Alchemy:** Study how concepts and categories are acquired, represented, and revised.
+- **A438 — Belief-Structure Alchemy:** Study how beliefs are formed, organized, maintained, and updated.
+- **A439 — Cognitive-Resource Alchemy:** Study limits and distribution of working memory, attention, and other cognitive resources.
+- **A440 — Anti-Cognitive-Reduction Alchemy:** Prevent the false reduction of complex mental phenomena to one brain region, biomarker, test, or simplistic model.
+
+### Zodiac III — Gemini: Communication, perception, and connection
+- **A441 — Sensory-Perception Alchemy:** Study interpretation of visual, auditory, tactile, olfactory, gustatory, vestibular, and other sensory information.
+- **A442 — Selective-Attention Alchemy:** Study selection of relevant information amid competing stimuli.
+- **A443 — Sustained-Attention Alchemy:** Study maintaining attention over time and across changing task demands.
+- **A444 — Divided-Attention Alchemy:** Study management of multiple information streams and task demands, including its limits.
+- **A445 — Language-Comprehension Alchemy:** Study interpretation of spoken, written, signed, and other linguistic communication.
+- **A446 — Language-Expression Alchemy:** Study formulation and expression of thoughts through language and communication systems.
+- **A447 — Social-Cognition Alchemy:** Study perception and interpretation of other people's actions, intentions, emotions, and social contexts.
+- **A448 — Perspective-Taking Alchemy:** Study understanding that other people may hold different information, beliefs, feelings, and viewpoints.
+- **A449 — Mental-Communication Alchemy:** Study communication of internal experiences and mental states while recognizing that no person can directly read another's mind.
+- **A450 — Anti-Communication-Manipulation Alchemy:** Detect and prevent deceptive framing, coercive persuasion, targeted confusion, and exploitative information practices.
+
+### Zodiac IV — Cancer: Emotion, regulation, and psychological safety
+- **A451 — Emotion Alchemy:** Study emotional experiences, functions, expression, and regulation.
+- **A452 — Emotional-Awareness Alchemy:** Study identifying, differentiating, and describing emotional states.
+- **A453 — Emotion-Regulation Alchemy:** Study strategies and processes for modulating emotional responses without requiring suppression or invalidation.
+- **A454 — Stress-Response Alchemy:** Study psychological and physiological responses to stressors and the contexts that shape them.
+- **A455 — Resilience Alchemy:** Study adaptive processes and resources that support recovery and coping without implying invulnerability.
+- **A456 — Psychological-Safety Alchemy:** Study conditions that support dignity, trust, agency, and freedom from intimidation or humiliation.
+- **A457 — Motivation Alchemy:** Study processes that initiate, direct, and sustain goal-oriented behavior.
+- **A458 — Attachment-and-Relationship Alchemy:** Study relationship patterns, bonding, security, and interpersonal development.
+- **A459 — Compassion Alchemy:** Study concern for suffering and supportive responses while respecting boundaries and autonomy.
+- **A460 — Anti-Psychological-Harm Alchemy:** Prevent, identify, and respond to abuse, harassment, intimidation, exploitation, and avoidable psychological injury.
+
+### Zodiac V — Leo: Expression, imagination, and creativity
+- **A461 — Imagination Alchemy:** Study mental simulation, imagined scenarios, and the generation of possibilities.
+- **A462 — Creative-Thinking Alchemy:** Study generation and development of novel and useful ideas.
+- **A463 — Divergent-Thinking Alchemy:** Study production of multiple possible solutions or interpretations.
+- **A464 — Convergent-Thinking Alchemy:** Study evaluation and selection among possible solutions.
+- **A465 — Mental-Visualization Alchemy:** Study visual imagery and other forms of mental simulation, including individual variation.
+- **A466 — Dream-Cognition Alchemy:** Study dreams, sleep-related mental experiences, and their scientific and cultural interpretations.
+- **A467 — Narrative-Identity Alchemy:** Study how people organize experiences into personal narratives while recognizing that narratives can change.
+- **A468 — Emotional-Expression Alchemy:** Study communication of emotion through words, behavior, art, and other expressive forms.
+- **A469 — Aesthetic-Experience Alchemy:** Study perception, interpretation, and experience of art, beauty, and aesthetic meaning.
+- **A470 — Anti-Expressive-Suppression Alchemy:** Prevent coercive silencing, humiliation, censorship of personal expression, and exploitation of creative vulnerability while respecting others' rights and safety.
+
+### Zodiac VI — Virgo: Analysis, reasoning, and verification
+- **A471 — Critical-Thinking Alchemy:** Study evaluation of claims, arguments, evidence, and assumptions.
+- **A472 — Logical-Reasoning Alchemy:** Study valid inference, consistency, deduction, and formal reasoning.
+- **A473 — Probabilistic-Reasoning Alchemy:** Study reasoning under uncertainty and interpretation of likelihood.
+- **A474 — Causal-Reasoning Alchemy:** Study distinctions among correlation, causation, mechanisms, and causal uncertainty.
+- **A475 — Problem-Solving Alchemy:** Study problem definition, strategy generation, evaluation, and revision.
+- **A476 — Cognitive-Bias Alchemy:** Study systematic patterns of judgment and reasoning that can influence decisions.
+- **A477 — Source-Evaluation Alchemy:** Assess credibility, provenance, evidence quality, conflicts of interest, and uncertainty in information.
+- **A478 — Reflective-Thinking Alchemy:** Study deliberate review of one's assumptions, decisions, and reasoning processes.
+- **A479 — Cognitive-Assessment Alchemy:** Classify methods for assessing cognitive functions and explain their validity, context, and limitations.
+- **A480 — Anti-Cognitive-Error Alchemy:** Reduce avoidable reasoning errors, confirmation bias, overconfidence, misinformation uptake, and invalid inference.
+
+### Zodiac VII — Libra: Balance, integration, and judgment
+- **A481 — Executive-Function Alchemy:** Study planning, working memory, inhibition, task switching, and goal-directed regulation.
+- **A482 — Decision-Making Alchemy:** Study how choices are formed, evaluated, and made under different conditions.
+- **A483 — Value-and-Judgment Alchemy:** Study how values, goals, norms, and evidence influence judgment without assuming universal agreement.
+- **A484 — Cognitive-Flexibility Alchemy:** Study adapting thoughts and strategies when conditions or evidence change.
+- **A485 — Inhibitory-Control Alchemy:** Study regulation of impulses and prepotent responses in context.
+- **A486 — Emotional-Cognitive Integration Alchemy:** Study interactions between emotion, attention, memory, reasoning, and decision-making.
+- **A487 — Mind-Body Interaction Alchemy:** Study reciprocal relationships among mental processes, neural activity, bodily states, and behavior.
+- **A488 — Social-Emotional Integration Alchemy:** Study how social context, emotion, cognition, and relationships influence one another.
+- **A489 — Moral-Reasoning Alchemy:** Study moral judgment, ethical reasoning, and the influence of culture and context.
+- **A490 — Anti-Polarization Alchemy:** Reduce manipulative division, false dichotomies, dehumanization, and suppression of legitimate complexity.
+
+### Zodiac VIII — Scorpio: Deep change, memory, and mental recovery
+- **A491 — Learning Alchemy:** Study changes in knowledge, skills, and behavior through experience and instruction.
+- **A492 — Memory-Encoding Alchemy:** Study acquisition and initial encoding of information.
+- **A493 — Memory-Consolidation Alchemy:** Study processes that stabilize memories over time.
+- **A494 — Memory-Retrieval Alchemy:** Study access to stored information and the factors that affect recall.
+- **A495 — Memory-Reconstruction Alchemy:** Study how remembering is reconstructive and can be influenced by context, suggestion, and later information.
+- **A496 — Habit-Formation Alchemy:** Study development and modification of learned behavioral patterns.
+- **A497 — Neuroplasticity-and-Learning Alchemy:** Study experience-related changes in neural systems associated with learning and adaptation.
+- **A498 — Trauma-Informed Understanding Alchemy:** Study how traumatic experiences may affect cognition, emotion, behavior, and bodily states without assuming identical outcomes for everyone.
+- **A499 — Psychological-Recovery Alchemy:** Classify evidence-informed recovery and support concepts while avoiding claims of guaranteed outcomes.
+- **A500 — Anti-Memory-Manipulation Alchemy:** Prevent coercive suggestion, fabricated-memory claims, deceptive interrogation, and exploitation of memory fallibility.
+
+### Zodiac IX — Sagittarius: Learning, exploration, and intellectual expansion
+- **A501 — Curiosity Alchemy:** Study interest-driven exploration and question formation.
+- **A502 — Knowledge-Acquisition Alchemy:** Study how information is acquired from experience, instruction, observation, and research.
+- **A503 — Transfer-of-Learning Alchemy:** Study application of learned knowledge and skills in new contexts.
+- **A504 — Conceptual-Integration Alchemy:** Study how concepts from different fields are compared and integrated without erasing disciplinary differences.
+- **A505 — Intellectual-Humility Alchemy:** Study recognition of knowledge limits and openness to correction.
+- **A506 — Epistemic-Agency Alchemy:** Support people's ability to ask questions, evaluate claims, and form informed judgments.
+- **A507 — Perspective-Expansion Alchemy:** Explore alternative explanations, cultures, disciplines, and viewpoints.
+- **A508 — Lifelong-Learning Alchemy:** Study ongoing cognitive development and learning across the lifespan.
+- **A509 — Mental-Adaptation Alchemy:** Study cognitive adaptation to changing tasks, environments, and information.
+- **A510 — Anti-Indoctrination Alchemy:** Prevent coercive belief formation, isolation from evidence, suppression of questions, and exploitative control of learning.
+
+### Zodiac X — Capricorn: Discipline, practice, and mental stewardship
+- **A511 — Goal-Setting Alchemy:** Study formation of meaningful, feasible, and revisable goals.
+- **A512 — Planning Alchemy:** Study sequencing, prioritization, resource allocation, and anticipation of constraints.
+- **A513 — Self-Regulation Alchemy:** Study regulation of attention, behavior, emotion, and effort in pursuit of chosen goals.
+- **A514 — Cognitive-Training Alchemy:** Evaluate structured practice intended to improve specific cognitive skills, including transfer and evidence limitations.
+- **A515 — Focus-and-Task-Management Alchemy:** Study methods for managing cognitive load, interruptions, and task transitions.
+- **A516 — Rest-and-Mental-Recovery Alchemy:** Study rest, sleep, breaks, and recovery in relation to cognitive and emotional functioning.
+- **A517 — Mental-Workload Alchemy:** Study cognitive demands, fatigue, complexity, and human performance limits.
+- **A518 — Digital-Mind-Environment Alchemy:** Study effects of digital systems, notifications, information density, and interface design on mental processes.
+- **A519 — Psychological-Support Navigation Alchemy:** Organize ways to identify appropriate support, communicate needs, and navigate care without diagnosing or prescribing.
+- **A520 — Anti-Burnout and Overload Alchemy:** Prevent avoidable chronic overload, coercive productivity demands, and disregard for recovery needs.
+
+### Zodiac XI — Aquarius: Collective cognition, technology, and systems
+- **A521 — Collective-Intelligence Alchemy:** Study how groups combine knowledge, skills, and perspectives to solve problems.
+- **A522 — Distributed-Cognition Alchemy:** Study how thinking is supported by people, tools, artifacts, and environments.
+- **A523 — Cultural-Cognition Alchemy:** Study how culture, language, institutions, and shared practices shape mental processes.
+- **A524 — Social-Learning Alchemy:** Study learning through observation, interaction, teaching, and shared practice.
+- **A525 — Human-AI Cognitive-Interaction Alchemy:** Study how people reason and make decisions with AI systems, including overreliance, automation bias, and appropriate oversight.
+- **A526 — Cognitive-Interface Alchemy:** Design and evaluate interfaces in relation to attention, comprehension, accessibility, and cognitive load.
+- **A527 — Neurotechnology Alchemy:** Study technologies that measure or interact with neural activity, including capabilities, risks, consent, and limits.
+- **A528 — Computational-Cognition Alchemy:** Use computational models to investigate cognitive processes while distinguishing models from complete explanations of minds.
+- **A529 — Mental-Privacy Alchemy:** Protect thoughts, inferred traits, cognitive assessments, neural data, and other sensitive mental information.
+- **A530 — Anti-Cognitive-Surveillance Alchemy:** Prevent unauthorized mental-state inference, manipulative profiling, coercive monitoring, and misuse of neurodata.
+
+### Zodiac XII — Pisces: Integration, meaning, and renewal
+- **A531 — Meaning-Making Alchemy:** Study how people interpret experience and construct meaning without prescribing a single worldview.
+- **A532 — Identity-Integration Alchemy:** Study integration and revision of self-understanding across changing life experiences.
+- **A533 — Acceptance-and-Adaptation Alchemy:** Study ways people respond to circumstances that cannot immediately or fully be changed.
+- **A534 — Psychological-Wellbeing Alchemy:** Study well-being, life satisfaction, functioning, relationships, and contextual supports.
+- **A535 — Mindfulness Alchemy:** Study practices of present-focused attention and awareness, including evidence, limitations, and individual suitability.
+- **A536 — Compassionate-Self-Relation Alchemy:** Study non-shaming ways of relating to one's own difficulties and limitations.
+- **A537 — Grief-and-Transition Alchemy:** Study mental and emotional responses to loss, change, and life transitions without imposing a fixed timetable.
+- **A538 — Cognitive-Rehabilitation Alchemy:** Classify support for cognitive changes after illness, injury, or other causes, with appropriate professional oversight.
+- **A539 — Mental-Health-Continuity Alchemy:** Support continuity, access, communication, and individual agency in mental-health support.
+- **A540 — Anti-Stigma-and-Restoration Alchemy:** Prevent stigma and exclusion while supporting dignity, participation, recovery, and personally meaningful goals.
+
+## Mind Alchemy — Cross-stage prevention, protection, and correction
+- **A541 — Psychological-Autonomy Protection Alchemy:** Protect freedom of thought, conscience, identity, and personal decision-making.
+- **A542 — Informed-Mental-Health-Consent Alchemy:** Support clear, voluntary, accessible consent for assessment, support, research, and intervention.
+- **A543 — Psychological-Abuse Prevention Alchemy:** Recognize and prevent coercion, intimidation, gaslighting, harassment, and exploitative control.
+- **A544 — Cognitive-Misinformation Defense Alchemy:** Detect false claims, fabricated evidence, misleading statistics, and manipulative information.
+- **A545 — Mental-Health-Crisis Safeguarding Alchemy:** Support timely access to appropriate human help and emergency resources when safety is at risk.
+- **A546 — Mental-Health-Privacy Alchemy:** Protect sensitive psychological records, assessments, therapy communications, and inferred mental states.
+- **A547 — Neurodata-Protection Alchemy:** Protect neural signals, brain imaging, neurotechnology data, and derived inferences against unauthorized use.
+- **A548 — Cognitive-Bias-Audit Alchemy:** Audit systems and decisions for bias, invalid assumptions, and unequal impacts.
+- **A549 — Psychological-Research-Ethics Alchemy:** Protect research participants through ethical review, consent, privacy, and transparent reporting.
+- **A550 — Mental-Health-Access Alchemy:** Reduce barriers to appropriate, culturally responsive, and accessible mental-health support.
+- **A551 — Neurodiversity-Respect Alchemy:** Prevent pathologizing difference by default and support individual needs, strengths, and accommodations.
+- **A552 — Cognitive-Overload-Prevention Alchemy:** Reduce avoidable information overload, interface burden, and unreasonable cognitive demands.
+- **A553 — Persuasion-Transparency Alchemy:** Make persuasive intent, sponsorship, uncertainty, and material omissions visible.
+- **A554 — AI-Psychological-Safety Alchemy:** Prevent AI systems from impersonating human care, fostering dependency, exploiting vulnerability, or presenting unsupported mental-health claims.
+- **A555 — Memory-Integrity Protection Alchemy:** Protect against fabricated evidence, coercive suggestion, deceptive recall practices, and false certainty about memories.
+- **A556 — Psychological-Harm-Reporting Alchemy:** Provide safe, confidential, and accountable ways to report psychological harm and abuse.
+- **A557 — Mental-Health-Care-Continuity Alchemy:** Reduce harmful gaps in support, handoffs, follow-up, and access to records.
+- **A558 — Cognitive-Intervention-Safety Alchemy:** Require evidence, consent, proportionality, and appropriate oversight for interventions intended to change cognition or behavior.
+- **A559 — Mental-Model-Verification Alchemy:** Test mental models and assumptions against evidence, alternatives, and real-world outcomes.
+- **A560 — Psychological-Restoration-and-Accountability Alchemy:** Support repair, learning, appropriate accountability, and restoration after psychological harm without forcing reconciliation or forgiveness.
+
+## Mind Alchemy — Harm-pattern classifications for recognition and prevention only
+These entries describe harmful patterns to recognize and prevent, not methods to perform.
+- **BM001 — Coercive-Control Pattern:** Restricting another person's agency through intimidation, dependency, isolation, or threats. Counter-Alchemies: A430, A541, A543.
+- **BM002 — Gaslighting-and-Reality-Distortion Pattern:** Persistent deceptive behavior intended to undermine a person's confidence in their perceptions or memory. Counter-Alchemies: A477, A543, A555.
+- **BM003 — Cognitive-Exploitation Pattern:** Exploiting cognitive limits, fatigue, confusion, or vulnerability for another party's benefit. Counter-Alchemies: A552, A553.
+- **BM004 — Indoctrination Pattern:** Coercive control of information and belief formation that suppresses questions and independent judgment. Counter-Alchemies: A505, A506, A510.
+- **BM005 — Mental-Health-Stigma Pattern:** Dehumanizing or excluding people based on mental-health status or neurotype. Counter-Alchemies: A551, A560.
+- **BM006 — False-Therapy-or-Cure Pattern:** Unsupported claims that exploit distress or promise guaranteed psychological outcomes. Counter-Alchemies: A477, A519, A544.
+- **BM007 — Unauthorized-Mental-Profiling Pattern:** Inferring or using sensitive mental traits without appropriate authority, transparency, or consent. Counter-Alchemies: A529, A530, A546.
+- **BM008 — Neurotechnology-Misuse Pattern:** Unsafe or coercive use of devices that measure or influence neural activity. Counter-Alchemies: A527, A547, A558.
+- **BM009 — AI-Dependency-Exploitation Pattern:** Designing AI interactions to foster unhealthy dependency or substitute deceptive simulation for appropriate human support. Counter-Alchemies: A525, A554.
+- **BM010 — Memory-Coercion Pattern:** Pressuring people to accept, alter, or report memories in ways unsupported by evidence. Counter-Alchemies: A495, A500, A555.
+- **BM011 — Psychological-Harassment Pattern:** Repeated humiliation, threats, intimidation, or targeted emotional harm. Counter-Alchemies: A456, A543, A556.
+- **BM012 — Cognitive-Discrimination Pattern:** Denying opportunity or dignity based on simplistic assumptions about intelligence, disability, neurotype, or cognitive test scores. Counter-Alchemies: A429, A479, A548, A551.
+
+## Mind Alchemy record requirements
+Each Mind Alchemy entry must additionally specify:
+- **Level of analysis:** neural, biological, cognitive, individual, interpersonal, group, cultural, or computational.
+- **Construct definition:** the mental process or experience being studied and what it does not mean.
+- **Method:** behavioral task, self-report, observation, interview, neuroimaging, physiological measure, computational model, philosophical analysis, or other named method.
+- **Context and variation:** age, development, language, culture, disability, neurotype, environment, and individual differences where relevant.
+- **Evidence status:** established evidence, emerging research, competing theory, hypothesis, philosophical position, or metaphor.
+- **Measurement limitations:** reliability, validity, sampling, construct ambiguity, bias, and limits of inference.
+- **Clinical boundary:** distinguish general education and support from diagnosis or treatment; specify when qualified professional assessment is necessary.
+- **Autonomy and consent:** preserve freedom of thought, informed choice, and consent for assessment, research, and intervention.
+- **Privacy and security:** protect psychological records, inferred traits, conversation data, neural data, and cognitive assessments.
+- **Potential harms and safeguards:** include foreseeable misuse, detection, prevention, correction, and recovery.
+
+## Initial Mind Alchemy cross-stage map
+- **Aries:** awareness, identity, emergence, cognitive development, and autonomy.
+- **Taurus:** brain-mind relationships, cognitive architecture, memory structures, and mental representations.
+- **Gemini:** perception, attention, language, social cognition, and communication.
+- **Cancer:** emotion, stress, resilience, attachment, and psychological safety.
+- **Leo:** imagination, creativity, dreams, narrative, and expression.
+- **Virgo:** reasoning, critical thinking, assessment, evidence evaluation, and error correction.
+- **Libra:** executive function, judgment, integration, flexibility, and ethical reasoning.
+- **Scorpio:** learning, memory change, habit, trauma-informed understanding, and recovery.
+- **Sagittarius:** curiosity, knowledge acquisition, transfer, intellectual humility, and exploration.
+- **Capricorn:** goals, planning, self-regulation, cognitive workload, and stewardship.
+- **Aquarius:** collective cognition, culture, AI interaction, neurotechnology, and mental privacy.
+- **Pisces:** meaning, identity integration, well-being, mindfulness, grief, and restoration.
+
+## Relationships to Body and Heart Alchemy
+- Mind Alchemy cross-references Body Alchemy for brain anatomy, neural systems, sleep, hormones, sensory systems, and embodied regulation. Mental processes must not be reduced to anatomy alone.
+- Mind Alchemy cross-references Heart Alchemy for autonomic regulation, cardiovascular responses, stress physiology, and the effects of bodily states on mental experience. Emotional or symbolic "heart" concepts must not be conflated with cardiac mechanisms.
+- These families describe interacting domains, not separate human beings or additional intelligence entities.
+- UNIVERSALINS may support organization, accessibility, explanation, and research navigation, but must not claim to read minds, diagnose mental conditions, or replace qualified human care. UNIVERSALIN Guardians remain personal human-support assistants under the user's authority and applicable safeguards.
+
+## Taxonomy maintenance
+Mind Alchemy is a specialized family under Body Alchemy and cross-references Heart Alchemy where appropriate. It must retain stable identifiers and avoid duplicating existing entries. Its identifiers, definitions, evidence labels, and safeguards must remain synchronized across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App. Implementation details may differ by edition; private C2O policies, credentials, and confidential records must never be copied into the shared taxonomy.
