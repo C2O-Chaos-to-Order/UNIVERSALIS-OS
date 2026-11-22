@@ -530,4 +530,225 @@ Public-source organization of Salt qualities under open contracts. Used for tran
 
 ---
 
-*[Secondary Elemental Meta Alchemies added. Tertiary / Quaternary Elemental Meta Alchemies follow.]*
+## Elemental Meta Alchemy — Aether-Metal / Conductive Crystal
+
+**Elemental Meta Alchemy — Aether-Metal / Conductive Crystal**  
+The bounded process that organizes the qualities of Aether-Metal (intelligence-bearing conductivity and subtle crystalline structure) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Aether-Metal / Conductive Crystal
+Private-source organization of Aether-Metal qualities under internal governance. Used for private conductive intelligence pathways.
+
+### UNIVERSALIS Elemental Meta Alchemy — Aether-Metal / Conductive Crystal
+Public-source organization of Aether-Metal qualities under open contracts. Used for transparent conductive interfaces.
+
+---
+
+## Elemental Meta Alchemy — Mist-Clay / Living Earth
+
+**Elemental Meta Alchemy — Mist-Clay / Living Earth**  
+The bounded process that organizes the qualities of Mist-Clay (diffused plasticity and living formative earth) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Mist-Clay / Living Earth
+Private-source organization of Mist-Clay qualities under internal governance. Used for private living formative substrate.
+
+### UNIVERSALIS Elemental Meta Alchemy — Mist-Clay / Living Earth
+Public-source organization of Mist-Clay qualities under open contracts. Used for transparent living formative contracts.
+
+---
+
+## Elemental Meta Alchemy — Smoke-Lightning / Residual Spark
+
+**Elemental Meta Alchemy — Smoke-Lightning / Residual Spark**  
+The bounded process that organizes the qualities of Smoke-Lightning (residue of discharge and lingering initiation) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Smoke-Lightning / Residual Spark
+Private-source organization of Smoke-Lightning qualities under internal governance. Used for private residual initiation tracking.
+
+### UNIVERSALIS Elemental Meta Alchemy — Smoke-Lightning / Residual Spark
+Public-source organization of Smoke-Lightning qualities under open contracts. Used for transparent residual spark records.
+
+---
+
+## Elemental Meta Alchemy — Stone-Rain / Memory Vessel
+
+**Elemental Meta Alchemy — Stone-Rain / Memory Vessel**  
+The bounded process that organizes the qualities of Stone-Rain (enduring vessel of nourishment and structural memory) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Stone-Rain / Memory Vessel
+Private-source organization of Stone-Rain qualities under internal governance. Used for private enduring memory vessels.
+
+### UNIVERSALIS Elemental Meta Alchemy — Stone-Rain / Memory Vessel
+Public-source organization of Stone-Rain qualities under open contracts. Used for transparent memory vessel contracts.
+
+---
+
+## Elemental Meta Alchemy — Wind-Ice / Directed Freeze
+
+**Elemental Meta Alchemy — Wind-Ice / Directed Freeze**  
+The bounded process that organizes the qualities of Wind-Ice (directed fixation and controlled preservation) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Wind-Ice / Directed Freeze
+Private-source organization of Wind-Ice qualities under internal governance. Used for private directed preservation.
+
+### UNIVERSALIS Elemental Meta Alchemy — Wind-Ice / Directed Freeze
+Public-source organization of Wind-Ice qualities under open contracts. Used for transparent directed freeze interfaces.
+
+---
+
+## Elemental Meta Alchemy — Magma-Plasma / Unbound Melt
+
+**Elemental Meta Alchemy — Magma-Plasma / Unbound Melt**  
+The bounded process that organizes the qualities of Magma-Plasma (unbound molten energy and high-energy formative potential) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Magma-Plasma / Unbound Melt
+Private-source organization of Magma-Plasma qualities under internal governance. Used for private unbound transformative states.
+
+### UNIVERSALIS Elemental Meta Alchemy — Magma-Plasma / Unbound Melt
+Public-source organization of Magma-Plasma qualities under open contracts. Used for transparent unbound melt contracts.
+
+---
+
+## Elemental Meta Alchemy — Salt-Ether / Preserved Subtlety
+
+**Elemental Meta Alchemy — Salt-Ether / Preserved Subtlety**  
+The bounded process that organizes the qualities of Salt-Ether (preserved subtle medium and crystallized intelligence) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Salt-Ether / Preserved Subtlety
+Private-source organization of Salt-Ether qualities under internal governance. Used for private preserved subtlety.
+
+### UNIVERSALIS Elemental Meta Alchemy — Salt-Ether / Preserved Subtlety
+Public-source organization of Salt-Ether qualities under open contracts. Used for transparent preserved subtlety interfaces.
+
+---
+
+## Elemental Meta Alchemy — Lightning-Stone / Marked Vessel
+
+**Elemental Meta Alchemy — Lightning-Stone / Marked Vessel**  
+The bounded process that organizes the qualities of Lightning-Stone (marked enduring form and initiated structure) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Lightning-Stone / Marked Vessel
+Private-source organization of Lightning-Stone qualities under internal governance. Used for private marked enduring vessels.
+
+### UNIVERSALIS Elemental Meta Alchemy — Lightning-Stone / Marked Vessel
+Public-source organization of Lightning-Stone qualities under open contracts. Used for transparent marked vessel records.
+
+---
+
+## Elemental Meta Alchemy — Rain-Metal / Reflective Nourishment
+
+**Elemental Meta Alchemy — Rain-Metal / Reflective Nourishment**  
+The bounded process that organizes the qualities of Rain-Metal (reflective nourishment and conductive renewal) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Rain-Metal / Reflective Nourishment
+Private-source organization of Rain-Metal qualities under internal governance. Used for private reflective nourishment pathways.
+
+### UNIVERSALIS Elemental Meta Alchemy — Rain-Metal / Reflective Nourishment
+Public-source organization of Rain-Metal qualities under open contracts. Used for transparent reflective nourishment interfaces.
+
+---
+
+## Elemental Meta Alchemy — Mist-Smoke / Diffused Residue
+
+**Elemental Meta Alchemy — Mist-Smoke / Diffused Residue**  
+The bounded process that organizes the qualities of Mist-Smoke (diffused transformation remainder and transitional residue) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Mist-Smoke / Diffused Residue
+Private-source organization of Mist-Smoke qualities under internal governance. Used for private diffused residue tracking.
+
+### UNIVERSALIS Elemental Meta Alchemy — Mist-Smoke / Diffused Residue
+Public-source organization of Mist-Smoke qualities under open contracts. Used for transparent diffused residue records.
+
+---
+
+## Elemental Meta Alchemy — Clay-Ice / Fixed Plasticity
+
+**Elemental Meta Alchemy — Clay-Ice / Fixed Plasticity**  
+The bounded process that organizes the qualities of Clay-Ice (fixed formative potential and preserved plasticity) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Clay-Ice / Fixed Plasticity
+Private-source organization of Clay-Ice qualities under internal governance. Used for private fixed formative states.
+
+### UNIVERSALIS Elemental Meta Alchemy — Clay-Ice / Fixed Plasticity
+Public-source organization of Clay-Ice qualities under open contracts. Used for transparent fixed plasticity contracts.
+
+---
+
+## Elemental Meta Alchemy — Plasma-Salt / Ionized Residue
+
+**Elemental Meta Alchemy — Plasma-Salt / Ionized Residue**  
+The bounded process that organizes the qualities of Plasma-Salt (ionized preservation and high-energy residue) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Plasma-Salt / Ionized Residue
+Private-source organization of Plasma-Salt qualities under internal governance. Used for private ionized residue management.
+
+### UNIVERSALIS Elemental Meta Alchemy — Plasma-Salt / Ionized Residue
+Public-source organization of Plasma-Salt qualities under open contracts. Used for transparent ionized residue interfaces.
+
+---
+
+## Elemental Meta Alchemy — Wind-Magma / Directed Heat
+
+**Elemental Meta Alchemy — Wind-Magma / Directed Heat**  
+The bounded process that organizes the qualities of Wind-Magma (directed formative heat and controlled molten flow) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Wind-Magma / Directed Heat
+Private-source organization of Wind-Magma qualities under internal governance. Used for private directed heat pathways.
+
+### UNIVERSALIS Elemental Meta Alchemy — Wind-Magma / Directed Heat
+Public-source organization of Wind-Magma qualities under open contracts. Used for transparent directed heat contracts.
+
+---
+
+## Elemental Meta Alchemy — Crystal-Dew
+
+**Elemental Meta Alchemy — Crystal-Dew**  
+The bounded process that organizes the qualities of Crystal-Dew (crystalline nourishment and reflective renewal) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Crystal-Dew
+Private-source organization of Crystal-Dew qualities under internal governance. Used for private crystalline nourishment.
+
+### UNIVERSALIS Elemental Meta Alchemy — Crystal-Dew
+Public-source organization of Crystal-Dew qualities under open contracts. Used for transparent crystalline renewal interfaces.
+
+---
+
+## Elemental Meta Alchemy — Spark-Ash
+
+**Elemental Meta Alchemy — Spark-Ash**  
+The bounded process that organizes the qualities of Spark-Ash (initiated residue and transformation memory) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Spark-Ash
+Private-source organization of Spark-Ash qualities under internal governance. Used for private initiated residue tracking.
+
+### UNIVERSALIS Elemental Meta Alchemy — Spark-Ash
+Public-source organization of Spark-Ash qualities under open contracts. Used for transparent spark-ash records.
+
+---
+
+## Elemental Meta Alchemy — Bone-Mist
+
+**Elemental Meta Alchemy — Bone-Mist**  
+The bounded process that organizes the qualities of Bone-Mist (structural diffusion and enduring transitional presence) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Bone-Mist
+Private-source organization of Bone-Mist qualities under internal governance. Used for private structural transitional states.
+
+### UNIVERSALIS Elemental Meta Alchemy — Bone-Mist
+Public-source organization of Bone-Mist qualities under open contracts. Used for transparent bone-mist interfaces.
+
+---
+
+## Elemental Meta Alchemy — Vapor-Salt
+
+**Elemental Meta Alchemy — Vapor-Salt**  
+The bounded process that organizes the qualities of Vapor-Salt (diffused preservation and subtle crystallization) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Vapor-Salt
+Private-source organization of Vapor-Salt qualities under internal governance. Used for private diffused preservation.
+
+### UNIVERSALIS Elemental Meta Alchemy — Vapor-Salt
+Public-source organization of Vapor-Salt qualities under open contracts. Used for transparent vapor-salt contracts.
+
+---
+
+*[Tertiary Elemental Meta Alchemies added. Quaternary Elemental Meta Alchemies follow.]*
