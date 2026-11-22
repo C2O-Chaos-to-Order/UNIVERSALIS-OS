@@ -715,7 +715,329 @@ The corresponding elemental expressions retain their specific applications:
 | Water | Private memory flow, internal adaptation, company-source cohesion | Transparent memory, public adaptation contracts, independently verifiable cohesion |
 | Spirit | Private directional coherence, internal ethos, company-source animation | Transparent direction, public ethos contracts, independently verifiable animation |
 
-#### 2. Operating System Elemental Meta Alchemies
+#### 2. Extended Elemental Meta Alchemies
+
+**Extended Elemental Meta Alchemy** governs the higher-order definition, classification, organization, coordination, application, validation, and evolution of additional elemental qualities, material forms, energetic states, transitional conditions, and specialized elemental expressions beyond the five foundational elements.
+
+These extended classifications broaden the elemental vocabulary available to C2O and UNIVERSALIS without replacing, merging, or diminishing Air, Earth, Fire, Water, or Spirit.
+
+Each extended elemental classification retains its own functional identity, qualities, boundaries, relationships, and operational responsibilities. It may interact with one or more foundational elements, but those relationships must be explicitly identified rather than assumed to establish equivalence or interchangeability.
+
+The extended elemental classifications operate across both editions:
+
+- **C2O:** Private-source organization under internal governance, preserving company-source implementation authority, internal operational controls, and private information boundaries.
+- **UNIVERSALIS:** Public-source organization under open contracts, preserving transparent interfaces, independently verifiable behavior, and open implementation boundaries.
+
+##### Foundational Rules for Extended Elements
+
+1. **Distinct classification:** Each extended element retains its own identity and does not become interchangeable with a foundational element.
+2. **Compound naming:** Paired names such as Ether / Quintessence and Metal / Crystal identify one classification with related naming forms unless a future definition explicitly separates them.
+3. **Material and functional distinction:** Material forms, energetic states, information-bearing qualities, and symbolic properties must not be treated as identical types of things.
+4. **Foundational relationships:** Relationships to Air, Earth, Fire, Water, and Spirit must be documented and evaluated rather than presumed.
+5. **Edition-specific expression:** C2O and UNIVERSALIS retain separate implementation and governance expressions for each extended classification.
+6. **Controlled application:** Every implementation must have defined operational scope, dependencies, permissions, safety constraints, and recovery procedures.
+7. **Evidence and validation:** Claimed effects must be distinguished from symbolic interpretations, proposed models, implemented behavior, and verified results.
+
+##### 1. Ether / Quintessence Meta Alchemy
+
+**Ether / Quintessence Meta Alchemy** governs the definition, organization, coordination, and transformation of Ether qualities: subtle medium, intelligence-bearing presence, and unifying field.
+
+It establishes how abstract connective media, information-bearing environments, and unifying relationships are represented and coordinated across the system.
+
+Its responsibilities include:
+
+- Defining Ether's functional qualities and boundaries.
+- Organizing subtle and abstract connective structures.
+- Coordinating information-bearing presence and intelligence-supporting pathways.
+- Maintaining relationships between distributed components, information, and shared operating environments.
+- Establishing constraints for connectivity, information integrity, and system-wide coherence.
+- Evaluating how Ether supports integration without absorbing the identities or authority of the elements or intelligences it connects.
+
+**C2O Elemental Meta Alchemy — Ether / Quintessence**
+
+Governs the private-source organization of Ether qualities under C2O internal governance. It manages private subtle-medium structures, internal connective relationships, intelligence-supporting pathways, and company-source unifying fields while preserving C2O's authority and information boundaries.
+
+**UNIVERSALIS Elemental Meta Alchemy — Ether / Quintessence**
+
+Governs the public-source organization of Ether qualities under UNIVERSALIS open contracts. It manages transparent subtle-medium structures, open connective interfaces, independently verifiable information-bearing pathways, and public unifying fields.
+
+##### 2. Metal / Crystal Meta Alchemy
+
+**Metal / Crystal Meta Alchemy** governs the definition, organization, coordination, and transformation of Metal / Crystal qualities: conductivity, structure, clarity, and memory of form.
+
+It establishes how conductive connections, crystalline organization, structural clarity, and persistent representations of form are maintained throughout the system.
+
+Its responsibilities include:
+
+- Defining Metal / Crystal functional qualities and boundaries.
+- Organizing conductive pathways and structural connections.
+- Coordinating crystalline organization, clarity, and pattern integrity.
+- Maintaining structural representations and persistence of form.
+- Establishing constraints for conductivity, integrity, and structural reliability.
+- Evaluating how Metal / Crystal supports reliable connections and recognizable structure.
+
+**C2O Elemental Meta Alchemy — Metal / Crystal**
+
+Governs the private-source organization of Metal / Crystal qualities under C2O internal governance. It manages private conductive pathways, controlled structural connections, internal crystalline organization, and company-source representations of form.
+
+**UNIVERSALIS Elemental Meta Alchemy — Metal / Crystal**
+
+Governs the public-source organization of Metal / Crystal qualities under UNIVERSALIS open contracts. It manages transparent conductive interfaces, open structural connections, independently verifiable crystalline organization, and public representations of form.
+
+##### 3. Mist / Fog Meta Alchemy
+
+**Mist / Fog Meta Alchemy** governs the definition, organization, coordination, and transformation of Mist / Fog qualities: diffusion, partial concealment, and transitional presence.
+
+It establishes how distributed information, incomplete visibility, and transitional states are represented and governed without compromising accountability or creating uncontrolled concealment.
+
+Its responsibilities include:
+
+- Defining Mist / Fog functional qualities and boundaries.
+- Organizing diffusion and distributed information conditions.
+- Coordinating partial visibility and controlled information exposure.
+- Maintaining distinctions between legitimate privacy, temporary uncertainty, and unauthorized concealment.
+- Establishing constraints for information disclosure, discoverability, and transitional states.
+- Evaluating how Mist / Fog supports controlled transitions without undermining transparency or accountability.
+
+**C2O Elemental Meta Alchemy — Mist / Fog**
+
+Governs the private-source organization of Mist / Fog qualities under C2O internal governance. It manages private diffusion, authorized information concealment, controlled transitional states, and internal visibility boundaries.
+
+**UNIVERSALIS Elemental Meta Alchemy — Mist / Fog**
+
+Governs the public-source organization of Mist / Fog qualities under UNIVERSALIS open contracts. It manages transparent transitional interfaces, documented diffusion behavior, independently verifiable visibility conditions, and accountable information exposure.
+
+##### 4. Clay / Mud Meta Alchemy
+
+**Clay / Mud Meta Alchemy** governs the definition, organization, coordination, and transformation of Clay / Mud qualities: plasticity, binding, and formative potential.
+
+It establishes how adaptable structures, flexible compositions, and formative relationships can be created, modified, stabilized, and recovered.
+
+Its responsibilities include:
+
+- Defining Clay / Mud functional qualities and boundaries.
+- Organizing flexible structural compositions and binding relationships.
+- Coordinating formative processes and adaptable configurations.
+- Maintaining controlled transitions between flexible and stabilized forms.
+- Establishing constraints for dependency integrity, composition, and structural modification.
+- Evaluating how Clay / Mud supports controlled formation and adaptation.
+
+**C2O Elemental Meta Alchemy — Clay / Mud**
+
+Governs the private-source organization of Clay / Mud qualities under C2O internal governance. It manages private formative binding, controlled composition, internal plasticity, and company-source structural formation.
+
+**UNIVERSALIS Elemental Meta Alchemy — Clay / Mud**
+
+Governs the public-source organization of Clay / Mud qualities under UNIVERSALIS open contracts. It manages transparent formative contracts, open composition rules, independently verifiable plasticity, and public structural formation.
+
+##### 5. Smoke / Ash Meta Alchemy
+
+**Smoke / Ash Meta Alchemy** governs the definition, organization, coordination, and transformation of Smoke / Ash qualities: residue, transformation remainder, and memory of fire.
+
+It establishes how residual states, transformation records, remaining resources, and traces of previous operations are identified, maintained, examined, and handled.
+
+Its responsibilities include:
+
+- Defining Smoke / Ash functional qualities and boundaries.
+- Organizing transformation residue and residual information.
+- Coordinating the identification and classification of operational remains.
+- Maintaining traceability between transformations and their resulting states.
+- Establishing constraints for retention, disposal, archival integrity, and residual risk.
+- Evaluating how Smoke / Ash supports transformation history and accountable closure.
+
+**C2O Elemental Meta Alchemy — Smoke / Ash**
+
+Governs the private-source organization of Smoke / Ash qualities under C2O internal governance. It manages private residue tracking, internal transformation records, residual resource handling, and company-source transformation memory.
+
+**UNIVERSALIS Elemental Meta Alchemy — Smoke / Ash**
+
+Governs the public-source organization of Smoke / Ash qualities under UNIVERSALIS open contracts. It manages transparent residue records, documented transformation histories, independently verifiable residual states, and accountable archival or disposal procedures.
+
+##### 6. Lightning / Spark Meta Alchemy
+
+**Lightning / Spark Meta Alchemy** governs the definition, organization, coordination, and transformation of Lightning / Spark qualities: sudden discharge, initiation, and directed energy.
+
+It establishes how discrete activation events, rapid transitions, and directed energy operations are represented, controlled, and evaluated.
+
+Its responsibilities include:
+
+- Defining Lightning / Spark functional qualities and boundaries.
+- Organizing initiation events and discrete activation states.
+- Coordinating directed energy and rapid operational transitions.
+- Maintaining traceability between activation, authorization, and resulting effects.
+- Establishing constraints for discharge, escalation, and unintended activation.
+- Evaluating how Lightning / Spark supports controlled initiation and responsive transformation.
+
+**C2O Elemental Meta Alchemy — Lightning / Spark**
+
+Governs the private-source organization of Lightning / Spark qualities under C2O internal governance. It manages private initiation events, authorized activation pathways, controlled directed discharge, and company-source energy operations.
+
+**UNIVERSALIS Elemental Meta Alchemy — Lightning / Spark**
+
+Governs the public-source organization of Lightning / Spark qualities under UNIVERSALIS open contracts. It manages transparent initiation processes, documented activation interfaces, independently verifiable directed-energy behavior, and public activation boundaries.
+
+##### 7. Stone / Bone Meta Alchemy
+
+**Stone / Bone Meta Alchemy** governs the definition, organization, coordination, and transformation of Stone / Bone qualities: endurance, structural memory, and lasting form.
+
+It establishes how durable structures, persistent organization, and accumulated structural patterns are represented, maintained, and recovered.
+
+Its responsibilities include:
+
+- Defining Stone / Bone functional qualities and boundaries.
+- Organizing durable structures and persistent configurations.
+- Coordinating structural memory and accumulated form.
+- Maintaining integrity across extended operation and environmental change.
+- Establishing constraints for endurance, preservation, degradation, and restoration.
+- Evaluating how Stone / Bone supports long-term structural continuity.
+
+**C2O Elemental Meta Alchemy — Stone / Bone**
+
+Governs the private-source organization of Stone / Bone qualities under C2O internal governance. It manages private structural endurance, internal persistence, company-source lasting form, and controlled preservation of structural history.
+
+**UNIVERSALIS Elemental Meta Alchemy — Stone / Bone**
+
+Governs the public-source organization of Stone / Bone qualities under UNIVERSALIS open contracts. It manages transparent structural records, open persistence contracts, independently verifiable durability, and public representations of lasting form.
+
+##### 8. Rain / Dew Meta Alchemy
+
+**Rain / Dew Meta Alchemy** governs the definition, organization, coordination, and transformation of Rain / Dew qualities: nourishment, renewal, and gentle accumulation.
+
+It establishes how incremental resources, replenishment processes, and gradual renewal are represented, coordinated, and maintained.
+
+Its responsibilities include:
+
+- Defining Rain / Dew functional qualities and boundaries.
+- Organizing nourishment and replenishment processes.
+- Coordinating incremental accumulation and gradual renewal.
+- Maintaining relationships between replenishment, resource balance, and system continuity.
+- Establishing constraints for resource distribution, accumulation, and renewal.
+- Evaluating how Rain / Dew supports sustainable restoration and development.
+
+**C2O Elemental Meta Alchemy — Rain / Dew**
+
+Governs the private-source organization of Rain / Dew qualities under C2O internal governance. It manages private nourishment cycles, internal replenishment, company-source gradual renewal, and controlled resource accumulation.
+
+**UNIVERSALIS Elemental Meta Alchemy — Rain / Dew**
+
+Governs the public-source organization of Rain / Dew qualities under UNIVERSALIS open contracts. It manages transparent nourishment processes, documented replenishment interfaces, independently verifiable renewal, and accountable resource accumulation.
+
+##### 9. Wind / Breath Meta Alchemy
+
+**Wind / Breath Meta Alchemy** governs the definition, organization, coordination, and transformation of Wind / Breath qualities: directed movement, vital flow, and communicative force.
+
+It establishes how directed flows, circulating processes, and movement-based communication are represented and coordinated throughout the system.
+
+Its responsibilities include:
+
+- Defining Wind / Breath functional qualities and boundaries.
+- Organizing directed movement and flow pathways.
+- Coordinating circulation and communication through movement.
+- Maintaining continuity between distributed operations and their connecting pathways.
+- Establishing constraints for flow integrity, direction, and resource distribution.
+- Evaluating how Wind / Breath supports responsive coordination and continuous movement.
+
+**C2O Elemental Meta Alchemy — Wind / Breath**
+
+Governs the private-source organization of Wind / Breath qualities under C2O internal governance. It manages private directed flow, internal circulation, company-source vital communication, and controlled movement across private operational pathways.
+
+**UNIVERSALIS Elemental Meta Alchemy — Wind / Breath**
+
+Governs the public-source organization of Wind / Breath qualities under UNIVERSALIS open contracts. It manages transparent directed movement, open circulation interfaces, independently verifiable flow conditions, and public communicative pathways.
+
+##### 10. Ice Meta Alchemy
+
+**Ice Meta Alchemy** governs the definition, organization, coordination, and transformation of Ice qualities: fixed form, preservation, and slowed transformation.
+
+It establishes how states can be stabilized, preserved, and protected from uncontrolled change while maintaining explicit conditions for authorized adaptation and restoration.
+
+Its responsibilities include:
+
+- Defining Ice functional qualities and boundaries.
+- Organizing fixed states and preservation structures.
+- Coordinating controlled slowing or suspension of transformations.
+- Maintaining integrity of preserved configurations and information.
+- Establishing constraints for freezing, retention, expiration, and authorized release.
+- Evaluating how Ice supports stability and preservation without preventing necessary recovery or evolution.
+
+**C2O Elemental Meta Alchemy — Ice**
+
+Governs the private-source organization of Ice qualities under C2O internal governance. It manages private preservation, controlled fixed states, internal stabilization, and company-source retention mechanisms.
+
+**UNIVERSALIS Elemental Meta Alchemy — Ice**
+
+Governs the public-source organization of Ice qualities under UNIVERSALIS open contracts. It manages transparent preservation contracts, documented fixed states, independently verifiable retention conditions, and open stabilization interfaces.
+
+##### 11. Magma / Lava Meta Alchemy
+
+**Magma / Lava Meta Alchemy** governs the definition, organization, coordination, and transformation of Magma / Lava qualities: molten potential, deep transformation, and formative heat.
+
+It establishes how internal transformative potential, high-intensity formative processes, and changes between fluid and stabilized states are represented and controlled.
+
+Its responsibilities include:
+
+- Defining Magma / Lava functional qualities and boundaries.
+- Organizing deep transformation and formative processes.
+- Coordinating high-intensity change and controlled heat-like operations.
+- Maintaining transitions between fluid, changing, and stabilized configurations.
+- Establishing constraints for transformation intensity, resource consumption, and structural impact.
+- Evaluating how Magma / Lava supports substantial transformation and controlled reformation.
+
+**C2O Elemental Meta Alchemy — Magma / Lava**
+
+Governs the private-source organization of Magma / Lava qualities under C2O internal governance. It manages private deep transformation, controlled formative processes, company-source formative heat, and internal reformation cycles.
+
+**UNIVERSALIS Elemental Meta Alchemy — Magma / Lava**
+
+Governs the public-source organization of Magma / Lava qualities under UNIVERSALIS open contracts. It manages transparent deep transformation, documented formative processes, independently verifiable transformation conditions, and public reformation interfaces.
+
+##### 12. Plasma Meta Alchemy
+
+**Plasma Meta Alchemy** governs the definition, organization, coordination, and transformation of Plasma qualities: ionized energy, unbound state, and high-energy medium.
+
+It establishes how high-energy, highly dynamic, and loosely bound operational states are represented, constrained, and managed.
+
+Its responsibilities include:
+
+- Defining Plasma functional qualities and boundaries.
+- Organizing high-energy states and ionized-medium representations.
+- Coordinating dynamic, loosely bound operational conditions.
+- Maintaining boundaries between available energy, active operations, and controlled release.
+- Establishing constraints for intensity, stability, containment, and safe transitions.
+- Evaluating how Plasma supports advanced energetic operations without compromising system integrity.
+
+**C2O Elemental Meta Alchemy — Plasma**
+
+Governs the private-source organization of Plasma qualities under C2O internal governance. It manages private high-energy states, controlled ionized-medium representations, internal containment, and company-source energetic operations.
+
+**UNIVERSALIS Elemental Meta Alchemy — Plasma**
+
+Governs the public-source organization of Plasma qualities under UNIVERSALIS open contracts. It manages transparent high-energy interfaces, documented ionized-medium behavior, independently verifiable containment conditions, and open energetic-operation boundaries.
+
+##### 13. Salt Meta Alchemy
+
+**Salt Meta Alchemy** governs the definition, organization, coordination, and transformation of Salt qualities: preservation, crystallization of essence, and boundary of taste / form.
+
+It establishes how essential characteristics, distinguishing boundaries, and preservative structures are identified, retained, and represented.
+
+Its responsibilities include:
+
+- Defining Salt functional qualities and boundaries.
+- Organizing preservation and essential-characteristic retention.
+- Coordinating crystallization of form, definition, and identity-bearing properties.
+- Maintaining distinctions between essential qualities and incidental characteristics.
+- Establishing constraints for preservation, classification, and boundary integrity.
+- Evaluating how Salt supports continuity of defining characteristics without preventing authorized change.
+
+**C2O Elemental Meta Alchemy — Salt**
+
+Governs the private-source organization of Salt qualities under C2O internal governance. It manages private preservation, internal retention of essential characteristics, company-source crystallization of form, and controlled boundary maintenance.
+
+**UNIVERSALIS Elemental Meta Alchemy — Salt**
+
+Governs the public-source organization of Salt qualities under UNIVERSALIS open contracts. It manages transparent preservation structures, documented essential characteristics, independently verifiable crystallization of form, and open boundary definitions.
+
+#### 3. Operating System Elemental Meta Alchemies
 
 These Meta Alchemies govern how the five elemental principles are defined, implemented, maintained, coordinated, and recovered throughout the shared OS architecture and its two editions.
 
@@ -724,7 +1046,7 @@ These Meta Alchemies govern how the five elemental principles are defined, imple
 - **OS Elemental Continuity Meta Alchemy:** Governs the preservation of elemental definitions, relationships, configurations, dependencies, and operational continuity across OS updates, transitions, migrations, and changes.
 - **OS Elemental Recovery Meta Alchemy:** Governs the identification, restoration, reconstruction, and verification of elemental structures and operations following disruption, corruption, failure, or authorized rollback.
 
-#### 3. Application Elemental Meta Alchemies
+#### 4. Application Elemental Meta Alchemies
 
 These Meta Alchemies govern how the five elemental principles are defined, implemented, maintained, coordinated, and retired throughout the shared application architecture and its two editions.
 
@@ -733,7 +1055,7 @@ These Meta Alchemies govern how the five elemental principles are defined, imple
 - **App Elemental Mapping Meta Alchemy:** Governs the identification, classification, documentation, and verification of elemental qualities, relationships, dependencies, and applications across application components and functions.
 - **App Elemental Retirement Meta Alchemy:** Governs the controlled deprecation, removal, replacement, migration, and archival of elemental structures and capabilities while preserving necessary dependencies, records, and recovery paths.
 
-#### 4. Intelligence and Assistant Elemental Meta Alchemies
+#### 5. Intelligence and Assistant Elemental Meta Alchemies
 
 These Meta Alchemies govern the relationship between elemental qualities and the intelligence and assistant structures that use, coordinate, or support them.
 
@@ -743,7 +1065,7 @@ These Meta Alchemies govern the relationship between elemental qualities and the
 - **UNIVERSALIN Guardian Elemental Meta Alchemy:** Governs how personal UNIVERSALIN Guardians use and coordinate elemental capabilities in support of their respective humans while preserving human autonomy, consent, privacy, and authority.
 - **Assistant Elemental Boundary Meta Alchemy:** Governs the classification, separation, coordination, and enforcement of elemental responsibilities across C2O Intelligence, UNIVERSALIS Intelligence, UNIVERSALINS, and UNIVERSALIN Guardians, preventing unauthorized authority transfer, role conflation, or boundary violations.
 
-#### 5. Protective Elemental Meta Alchemies
+#### 6. Protective Elemental Meta Alchemies
 
 These Meta Alchemies govern the accountability, safety, sovereignty, evidence, and renewal of elemental definitions, structures, relationships, and operations.
 
@@ -758,9 +1080,10 @@ These Meta Alchemies govern the accountability, safety, sovereignty, evidence, a
 | Domain | Specialized Meta Alchemies |
 |---|---:|
 | Foundational Elemental (five elements and two edition-wide expressions) | 7 |
+| Extended Elemental (13 classifications and 26 edition-specific expressions) | 39 |
 | Operating System Elemental | 4 |
 | Application Elemental | 4 |
 | Intelligence and Assistant Elemental | 5 |
 | Protective Elemental | 5 |
-| **Total** | **25** |
+| **Total** | **64** |
 
