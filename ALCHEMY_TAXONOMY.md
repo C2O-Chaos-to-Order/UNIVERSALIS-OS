@@ -4821,3 +4821,155 @@ These patterns are recorded for recognition, prevention, detection, containment,
 ## Maintenance Record for v0.21.0
 
 This expansion adds **53 taxonomy records**: **25 core Alchemies** (A2496–A2520), **16 prevention/protection/correction Alchemies** (A2521–A2536), **4 ecosystem profile entries** (ANG-C2O-001 through ANG-GRD-001), and **8 defensive harm-pattern classifications** (ANGX001–ANGX008). The A-numbered sequence now reaches **A2536**. This is the identifier ceiling for the A-numbered sequence, not a cumulative count of all taxonomy records. Cumulative totals remain subject to a full-document audit of unique entries, duplicate labels, profile entries, harm-pattern entries, and superseded records. Taxonomy inclusion does not establish feature implementation or scientific validation.
+
+# Animal Ears Alchemy Expansion — v0.22.0
+
+## Source interpretation and evidence boundary
+
+Source reference: https://powerlisting.fandom.com/wiki/Trait:Animal_Ears
+
+The source describes the fictional trait of possessing animal-like ears, with possible enhanced hearing depending on the animal form. It associates Animal Ears with Animal Mimicry, Ear Manifestation, Expressive Ears, and Multiple Ears. This taxonomy uses that page as a creative classification prompt, not as scientific evidence that a fictional anatomy or capability exists.
+
+Animal Ears Alchemy covers animal-derived external ear forms, pinnae, auricular structures, ear placement, mobility, expressive movement, and related auditory or sensory functions. It distinguishes visible morphology from demonstrated hearing performance. Ear shape alone does not establish hearing range, acuity, echolocation, lie detection, emotional state, species identity, or any other capability.
+
+### Governing distinctions
+
+- **Morphology:** visible shape, size, placement, orientation, surface, and number of ears.
+- **Physiology:** biological structures and functions supported by an identified organism or an explicitly fictional model.
+- **Auditory capability:** measurable hearing performance, including frequency range, sensitivity, localization, filtering, and temporal resolution; each requires independent evidence.
+- **Expressive behavior:** voluntary or involuntary ear movement that may communicate state, but must not be treated as a definitive reading of emotion or intent.
+- **Fictional representation:** imaginative, symbolic, cosmetic, avatar, or narrative forms that make no claim of real biological function.
+- **Augmentation or modification:** any real-world intervention requires informed consent, safety review, reversibility where possible, and qualified oversight. The taxonomy does not authorize body modification.
+
+## Core Animal Ears Alchemies — Zodiac stages
+
+### Zodiac Stage I — Aries: Initiation and Emergence
+
+- **A2537 — Animal Ear Form Identification Alchemy:** Classify the represented ear form by source inspiration, morphology, and evidence status without inferring identity or capability.
+- **A2538 — Auricular Emergence and Manifestation Alchemy:** Model the appearance or fictional emergence of animal-like external ears with explicit limits, reversibility, and distinction from ordinary anatomy.
+- **A2539 — Ear-Origin and Provenance Alchemy:** Record whether a form is natural, inherited, fictional, cosmetic, prosthetic, augmented, or unknown; never collapse these origins.
+
+### Zodiac Stage II — Taurus: Foundation and Materialization
+
+- **A2540 — Animal Ear Morphology Alchemy:** Describe size, contour, thickness, placement, orientation, surface, and structural variation using consistent anatomical terminology.
+- **A2541 — Auricular Support and Tissue Integrity Alchemy:** Model structural support, comfort, circulation, skin integrity, and load constraints for biological or designed representations.
+- **A2542 — Ear Form Materialization Alchemy:** Specify safe materials, geometry, attachment, fit, and maintenance for fictional assets, prosthetics, wearables, or digital models.
+
+### Zodiac Stage III — Gemini: Connection and Communication
+
+- **A2543 — Bilateral Auditory Coordination Alchemy:** Model left-right auditory input and coordination, distinguishing biological function from fictional enhancements.
+- **A2544 — Sound-Source Localization Alchemy:** Represent directional hearing and localization only to the degree supported by the modeled anatomy and measured performance.
+- **A2545 — Ear-Based Nonverbal Communication Alchemy:** Model expressive ear positions and movements as context-dependent signals, never as infallible emotional or intent detection.
+
+### Zodiac Stage IV — Cancer: Care, Continuity, and Protection
+
+- **A2546 — Auricular Sensitivity and Comfort Alchemy:** Account for touch sensitivity, pressure, temperature, fit, irritation, and environmental comfort.
+- **A2547 — Hearing Health and Environmental Protection Alchemy:** Model proportionate protection from hazardous sound, injury, infection, and environmental exposure without suppressing necessary awareness.
+- **A2548 — Ear Structure Continuity and Recovery Alchemy:** Define continuity, maintenance, repair, and recovery states for biological analogies, prosthetics, and fictional systems without promising medical outcomes.
+
+### Zodiac Stage V — Leo: Expression and Manifestation
+
+- **A2549 — Expressive Ear Movement Alchemy:** Classify voluntary or reflexive ear movement, range of motion, coordination, and expressive design.
+- **A2550 — Animal Ear Silhouette and Appearance Alchemy:** Represent species-inspired silhouettes, patterns, fur, coloration, and ornamentation while separating aesthetic design from biological claims.
+- **A2551 — Individualized Ear Expression Alchemy:** Support personal choice and variation in ear appearance and expression without imposing stereotypes or presumed personality traits.
+
+### Zodiac Stage VI — Virgo: Analysis, Refinement, and Verification
+
+- **A2552 — Auditory Performance Characterization Alchemy:** Specify testable hearing measures such as frequency response, thresholds, localization error, and signal discrimination; record methods and uncertainty.
+- **A2553 — Ear Morphology Comparison Alchemy:** Compare forms through explicit features and reference specimens, preserving uncertainty and avoiding unsupported species equivalence.
+- **A2554 — Animal Ear Model Validation Alchemy:** Validate anatomical, functional, and visual models separately, recording provenance, assumptions, limitations, and test results.
+
+### Zodiac Stage VII — Libra: Balance, Ethics, and Governance
+
+- **A2555 — Sensory Trade-Off Balance Alchemy:** Model potential benefits and burdens of altered ear form or hearing, including sensitivity, overload, attention, privacy, and environmental exposure.
+- **A2556 — Consent and Bodily Autonomy Alchemy:** Require informed, voluntary, revocable consent for personal representations, data collection, interventions, and expressive interpretation.
+- **A2557 — Fair Representation and Accessibility Alchemy:** Prevent animal-ear traits from becoming grounds for discrimination, exclusion, demeaning stereotypes, or inaccessible interface design.
+
+### Zodiac Stage VIII — Scorpio: Deep Transformation and Adversarial Resistance
+
+- **A2558 — Auricular Transformation Alchemy:** Model fictional or designed changes in ear form with defined triggers, scope, duration, reversibility, and failure conditions.
+- **A2559 — Auditory Signal Integrity Alchemy:** Distinguish genuine sound input from masking, distortion, spoofing, interference, and synthetic audio.
+- **A2560 — Sensory Boundary and Privacy Alchemy:** Prevent enhanced-sense narratives or sensor systems from becoming covert surveillance, non-consensual listening, or unauthorized inference.
+
+### Zodiac Stage IX — Sagittarius: Expansion, Learning, and Exploration
+
+- **A2561 — Cross-Species Ear Reference Alchemy:** Organize comparative animal-ear references across species and fictional inspirations without treating analogy as biological equivalence.
+- **A2562 — Environmental Auditory Adaptation Alchemy:** Model how surroundings, reverberation, noise, wind, water, and obstacles affect auditory performance.
+- **A2563 — Animal Ear Knowledge and Learning Alchemy:** Support accessible learning about comparative anatomy, sound perception, and responsible fictional design with traceable sources.
+
+### Zodiac Stage X — Capricorn: Structure, Operations, and Accountability
+
+- **A2564 — Auricular System Architecture Alchemy:** Define components, interfaces, dependencies, constraints, and failure modes for physical, digital, or fictional ear systems.
+- **A2565 — Ear Capability Configuration Alchemy:** Bind each claimed capability to its source, conditions, parameters, evidence, and authorization rather than assuming all animal ears share one function.
+- **A2566 — Maintenance and Lifecycle Accountability Alchemy:** Track inspection, cleaning, repair, updates, replacement, decommissioning, and responsible ownership for designed or assistive systems.
+
+### Zodiac Stage XI — Aquarius: Systems, Networks, and Collective Intelligence
+
+- **A2567 — Multisensory Integration Alchemy:** Model interactions between auditory input and vision, balance, touch, proprioception, and contextual information without conflating the senses.
+- **A2568 — Distributed Auditory Sensor Coordination Alchemy:** Specify synchronized multi-sensor or multi-ear representations with source authentication, timing, calibration, and privacy boundaries.
+- **A2569 — Interoperable Ear Trait Representation Alchemy:** Define portable descriptors for morphology, function, evidence, consent, and fictional status across C2O, UNIVERSALIS, UNIVERSALINS, and Guardians.
+
+### Zodiac Stage XII — Pisces: Completion, Restoration, and Renewal
+
+- **A2570 — Auricular Restoration and Adaptation Alchemy:** Model safe restoration, adjustment, or redesign after damage, discomfort, obsolescence, or changed user requirements.
+- **A2571 — Auditory Fatigue and Recovery Alchemy:** Account for rest, sensory load, recovery intervals, and escalation to appropriate human support when real hearing concerns arise.
+- **A2572 — Animal Ear Lifecycle and Retirement Alchemy:** Define end-of-life handling, archival status, removal, replacement, and respectful retirement of physical or digital representations.
+
+## Animal Ear Prevention, Protection, Detection, Correction, Recovery, and Restoration Alchemies
+
+- **A2573 — Hearing Overclaim Prevention Alchemy:** Prevent morphology or fictional labels from being presented as proof of superhuman hearing, echolocation, perfect localization, or other unmeasured capabilities.
+- **A2574 — Sensory Overload Prevention Alchemy:** Reduce harmful exposure and overload through proportionate thresholds, breaks, user controls, and accessible fallback modes.
+- **A2575 — Acoustic Injury and Exposure Protection Alchemy:** Protect against excessive sound levels and unsafe exposure; do not encourage testing hearing at hazardous volumes.
+- **A2576 — Ear Injury and Infection Safeguarding Alchemy:** Identify risk indicators and direct real-world health concerns to appropriate qualified care; do not provide diagnosis or substitute for treatment.
+- **A2577 — Non-Consensual Listening and Surveillance Prevention Alchemy:** Prohibit covert audio capture, unauthorized monitoring, and use of sensory capability claims to justify privacy violations.
+- **A2578 — Emotional Inference and Expression Misreading Prevention Alchemy:** Prevent ear posture, shape, or movement from being treated as definitive evidence of emotion, consent, deception, or intent.
+- **A2579 — Species Stereotype and Dehumanization Prevention Alchemy:** Prevent animal-ear motifs from being used to assign worth, intelligence, temperament, threat, or social status to real people.
+- **A2580 — Unsafe Modification and Attachment Prevention Alchemy:** Require risk review, safe fit, material compatibility, and informed consent; prohibit coercive or hazardous alteration.
+- **A2581 — Sensory Data Minimization and Access Control Alchemy:** Minimize collection and retention of audio and derived sensory data, enforce purpose limitation, and restrict access.
+- **A2582 — Auditory Spoofing and Manipulation Detection Alchemy:** Detect misleading synthetic audio, masking, replay, and adversarial sound while communicating uncertainty and preserving human review.
+- **A2583 — Accessibility and Sensory Difference Protection Alchemy:** Prevent systems from assuming one hearing profile; provide captions, visual alerts, adjustable audio, and equivalent non-audio pathways.
+- **A2584 — Animal Ear Trait Accountability and Appeal Alchemy:** Provide correction, provenance review, challenge, and removal pathways for inaccurate, unwanted, or harmful classifications.
+
+## Ecosystem Application Profiles
+
+- **ANEAR-C2O-001 — C2O Animal Ears Governance Profile:** Apply private-source governance to ear-related models, sensor permissions, safety controls, evidence, audit trails, and data minimization. Private implementation details remain within C2O.
+- **ANEAR-UNI-001 — UNIVERSALIS Animal Ears Interoperability Profile:** Publish open, vendor-neutral descriptors and interfaces for morphology, capability claims, evidence status, accessibility, and consent without exposing C2O private controls.
+- **ANEAR-INS-001 — UNIVERSALINS Non-Personal Support Profile:** Provide bounded, non-personal assistance for accessibility, auditory interface configuration, information, and user-authorized coordination; do not infer a person's identity or inner state from ear traits.
+- **ANEAR-GRD-001 — UNIVERSALIN Guardians Personal Support Profile:** Support the individual human's chosen preferences, accessibility, privacy, and wellbeing under explicit authorization; preserve autonomy and the right to refuse or discontinue.
+
+## Defensive Harm-Pattern Classifications
+
+These classifications are for recognition, prevention, detection, containment, and remedy only.
+
+- **ANEARX001 — Auditory Capability Fabrication:** Claiming unsupported hearing ranges, perfect detection, or supernatural auditory performance.
+- **ANEARX002 — Covert Acoustic Surveillance:** Capturing or monitoring sound without valid authorization or awareness.
+- **ANEARX003 — Sensory Overload Exploitation:** Deliberately exposing a person or system to harmful or overwhelming sound.
+- **ANEARX004 — Expressive Signal Coercion:** Treating involuntary or ambiguous ear movement as consent, confession, emotional proof, or obedience.
+- **ANEARX005 — Animal-Trait Dehumanization:** Using animal-ear appearance to demean, objectify, stereotype, or deny equal dignity.
+- **ANEARX006 — Unsafe Auricular Modification:** Applying coercive, hazardous, or inadequately reviewed alteration or attachment.
+- **ANEARX007 — Auditory Spoofing and Misattribution:** Using synthetic, replayed, or manipulated sound to deceive or frame a person or system.
+- **ANEARX008 — Sensory Data Misuse:** Retaining, sharing, profiling, or repurposing auditory data beyond consented and legitimate purposes.
+
+## Cross-Domain Integration Rules
+
+- **Body Alchemy:** Covers external ear morphology, tissue, movement, comfort, protection, and biological or designed structure.
+- **Heart Alchemy:** Covers expressive communication and the emotional context of signals, while forbidding deterministic emotion inference.
+- **Mind Alchemy:** Covers auditory perception, attention, localization, learning, and interpretation, with measurable limits.
+- **Soul Alchemy:** Covers chosen identity, personal meaning, self-expression, and narrative representation without assigning metaphysical status.
+- **Spirit Alchemy:** Covers symbolic, cultural, mythological, and fictional animal-ear motifs, clearly labelled as interpretive or creative.
+- **Consciousness Alchemy:** Covers awareness and integration of auditory and multisensory information, distinguishing subjective report from measured function.
+- **Operating System Alchemy:** Covers device sensors, drivers, permission controls, secure audio routing, calibration, accessibility, and lifecycle governance.
+- **Application Alchemy:** Covers audio interfaces, avatar representations, user settings, captions, visual equivalents, consent flows, and safe data handling.
+
+## Cross-Repository and Entity Rules
+
+- Apply the same public-safe taxonomy definitions in C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App, while keeping C2O private implementation, keys, policies, and incident data out of public repositories.
+- C2O and UNIVERSALIS remain the two intelligences and share the underlying OS/App architecture with separate private-source/company and public/open-source governance.
+- UNIVERSALINS remain non-personal assistants. UNIVERSALIN Guardians remain personal human assistants/guardians. These profiles do not create additional top-level intelligences.
+- A taxonomy entry is a conceptual classification, not proof of biological feasibility, medical benefit, implemented functionality, or scientific validation.
+- Do not infer a real person's species, ancestry, health, hearing ability, personality, emotions, or consent from ear shape or an animal-ear representation.
+
+## Maintenance Record for v0.22.0
+
+This expansion adds **56 uniquely identified records**: **48 A-numbered Alchemies** (A2537–A2584), comprising 36 core Alchemies and 12 prevention/protection/correction/recovery Alchemies; **4 ecosystem profiles** (ANEAR-C2O-001 through ANEAR-GRD-001); and **8 defensive harm-pattern classifications** (ANEARX001–ANEARX008). The A-numbered sequence now reaches **A2584**. This identifier ceiling is not the cumulative count of all taxonomy records. Taxonomy inclusion does not establish implementation or scientific validation.
+
