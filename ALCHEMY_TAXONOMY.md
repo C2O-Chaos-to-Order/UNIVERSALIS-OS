@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.6.0  
-**Status:** Living taxonomy; version 0.6.0 adds the Spirit Alchemy family; expandable and subject to evidence-based review  
+**Version:** 0.7.0  
+**Status:** Living taxonomy; version 0.7.0 adds the Consciousness Alchemy family; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -1405,3 +1405,269 @@ Each Spirit Alchemy entry must additionally specify:
 
 ## Taxonomy maintenance
 Spirit Alchemy is a specialized family cross-referencing Soul, Mind, Heart, and Body Alchemy where appropriate. It must retain stable identifiers and avoid duplicating existing entries. Definitions, identifiers, evidence labels, and safeguards must remain synchronized across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App. Edition-specific implementation may differ; private C2O policies, credentials, and confidential records must never be copied into the shared taxonomy.
+
+
+# Consciousness Alchemy — Domain Expansion
+**Originating Alchemy:** Consciousness Alchemy  
+**Family version:** 0.1.0  
+**Related families:** Mind Alchemy, Body Alchemy, Heart Alchemy, Soul Alchemy, and Spirit Alchemy  
+**Zodiac stages:** All twelve.  
+**Primary domains:** Consciousness science, cognitive neuroscience, psychology, philosophy of mind, neurology, anesthesiology, sleep science, computational and cognitive science, animal cognition, ethics, and human-computer interaction.
+
+## Definition, distinctions, and boundaries
+**Consciousness Alchemy** is the organized study and classification of conscious experience, conscious states and contents, awareness, wakefulness, subjective perspective, and the biological, cognitive, computational, philosophical, and ethical questions associated with them.
+
+The word **consciousness** has multiple meanings across scientific and philosophical disciplines. Records must declare the meaning being used rather than silently move between definitions. Important distinctions include:
+- **Phenomenal consciousness:** subjective experience, or the qualitative first-person character of experiencing something.
+- **Access consciousness:** information being available for reasoning, cognitive control, report, or deliberate action, as defined by the relevant theory.
+- **Wakefulness/arousal:** physiological alertness and capacity for wake-like responsiveness; wakefulness is not by itself equivalent to evidence of subjective experience.
+- **Awareness:** a context-dependent term that may refer to external awareness of the environment, internal awareness of thoughts or imagery, or awareness of a particular stimulus.
+- **Self-consciousness:** forms of self-representation or awareness of oneself; these may vary in complexity and need not be present in the same way across all conscious experiences.
+- **Conscious state:** the overall condition or mode of experience, such as ordinary wakefulness, dreaming, anesthesia-related states, or clinically altered states.
+- **Conscious content:** what is experienced within a state, such as a percept, sensation, thought, emotion, image, or dream.
+
+Consciousness is not interchangeable with intelligence, language ability, attention, memory, responsiveness, self-report, wakefulness, or personality. These processes may correlate with or support some forms of conscious activity, but none is a universal standalone proof or disproof of subjective experience. A person who cannot communicate or move may still have experiences that are not accessible through ordinary behavioral testing. Conversely, fluent behavior or convincing verbal reports alone do not settle every question about the presence or nature of subjective experience.
+
+The distinction between **mind** and **consciousness** must remain explicit. Mind Alchemy includes a wide range of mental processes, including conscious and non-conscious cognition. Consciousness Alchemy focuses specifically on experience, awareness, state, content, and the questions of how these are identified and explained. Consciousness is not automatically a soul or spirit; metaphysical interpretations must be attributed to their particular philosophical or religious traditions.
+
+Scientific research investigates neural correlates, mechanisms, behavioral indicators, physiological states, reports, and theoretical predictions. No single contemporary theory is established as a complete explanation of consciousness. Global Neuronal Workspace, Integrated Information, Higher-Order, Recurrent Processing, Predictive Processing, and other approaches differ in their definitions, explanatory targets, mechanisms, predictions, and empirical support. They must be compared critically rather than presented as settled fact or as interchangeable theories.
+
+Methods such as EEG, MEG, fMRI, PET, behavioral testing, sleep studies, anesthetic paradigms, and perturbational approaches have distinct capabilities and limitations. A correlate is not automatically a cause; a measurement is not the experience itself; absence of a detectable signal is not automatically proof of absence; and a result in one population or experimental condition must not be generalized without justification.
+
+Disorders of consciousness and other clinical conditions are high-stakes domains. Coma, unresponsive wakefulness syndrome, minimally conscious states, cognitive motor dissociation, delirium, and other conditions require careful, qualified clinical assessment. A taxonomy entry is not a diagnostic tool, prognostic instrument, or substitute for medical care. It must never be used to make unilateral conclusions about a person's awareness, quality of life, rights, treatment, or worth.
+
+Animal consciousness and machine consciousness are active areas of inquiry with important conceptual, methodological, and ethical uncertainties. Do not infer consciousness solely from biological similarity, complex behavior, verbal output, anthropomorphic appearance, computational architecture, self-description, or a particular theoretical preference. State what is observed, what is inferred, what is disputed, and what remains unknown.
+
+Consciousness Alchemy must protect autonomy, privacy, dignity, communication access, disability rights, research consent, and the interests of people and animals who may not be able to provide conventional reports. It must avoid coercive induction of altered states, unsafe experimentation, exploitative neurotechnology, consciousness surveillance, and premature conclusions.
+
+## Consciousness Alchemy list
+
+### Zodiac I — Aries: Definitions, emergence, and experience
+- **A841 — Consciousness-Definition Alchemy:** Establish a clear, domain-specific definition of consciousness for each study, model, or application.
+- **A842 — Phenomenal-Consciousness Alchemy:** Examine the subjective and qualitative character of experience without assuming that reports exhaust the experience itself.
+- **A843 — Access-Consciousness Alchemy:** Study how information becomes available for reasoning, deliberate control, report, or action under a clearly stated theoretical definition.
+- **A844 — Wakefulness-and-Arousal Alchemy:** Distinguish physiological alertness and arousal from awareness and subjective experience.
+- **A845 — Awareness-Dimension Alchemy:** Differentiate external awareness, internal awareness, stimulus awareness, and other domain-specific uses of the term.
+- **A846 — Conscious-Content Alchemy:** Classify experienced perceptions, sensations, thoughts, emotions, imagery, and dreams as contents rather than entire states.
+- **A847 — State-and-Content Distinction Alchemy:** Separate the overall state of consciousness from particular experiences within that state.
+- **A848 — Subjective-Experience Alchemy:** Study first-person experience while distinguishing reported descriptions, behavioral indicators, and theoretical interpretations.
+- **A849 — First-Person-Perspective Alchemy:** Examine the point of view from which experiences are presented or lived, without presuming a single theory of self.
+- **A850 — Anti-Conflation Alchemy:** Prevent consciousness from being treated as identical to intelligence, memory, attention, language, wakefulness, or responsiveness.
+
+### Zodiac II — Taurus: Foundations, mechanisms, and explanatory models
+- **A851 — Neural-Correlates-of-Consciousness Alchemy:** Investigate neural activity associated with specific conscious states or contents while distinguishing correlation from causal explanation.
+- **A852 — Arousal-System Alchemy:** Study brainstem, hypothalamic, thalamic, and distributed systems involved in regulating arousal and state transitions.
+- **A853 — Thalamocortical-Interaction Alchemy:** Examine interactions among thalamic and cortical systems in relation to perception, state regulation, and conscious processing.
+- **A854 — Recurrent-Processing Alchemy:** Study recurrent and feedback processing as proposed contributors to conscious perception and experience.
+- **A855 — Global-Workspace-Theory Alchemy:** Examine Global Neuronal Workspace and related broadcast models, their predictions, evidence, and limitations.
+- **A856 — Integrated-Information-Theory Alchemy:** Examine Integrated Information Theory as a theoretical framework, including its formal commitments, empirical tests, disagreements, and unresolved issues.
+- **A857 — Higher-Order-Theory Alchemy:** Study theories proposing that conscious states depend on higher-order representations or awareness of mental states.
+- **A858 — Predictive-Processing-and-Consciousness Alchemy:** Examine predictive-processing accounts and distinguish broad predictive frameworks from specific consciousness claims.
+- **A859 — Embodied-and-Enactive-Consciousness Alchemy:** Study accounts emphasizing bodily regulation, action, environment, and organism-world interaction.
+- **A860 — Theory-Comparison Alchemy:** Compare theories by their explananda, mechanisms, predictions, methods, and empirical discriminability rather than by terminology alone.
+
+### Zodiac III — Gemini: Perception, attention, and communication
+- **A861 — Conscious-Perception Alchemy:** Study the relationship between sensory processing and reported or otherwise inferred conscious perception.
+- **A862 — Attention-and-Consciousness Alchemy:** Distinguish attention from consciousness while examining their interactions and possible dissociations.
+- **A863 — Multisensory-Awareness Alchemy:** Study conscious experiences involving combinations of sight, sound, touch, taste, smell, balance, and body signals.
+- **A864 — Perceptual-Binding Alchemy:** Examine how features and information are integrated into coherent perceptual experiences.
+- **A865 — Conscious-Report Alchemy:** Study verbal and non-verbal reports as evidence about experience while accounting for language, memory, motor, and task demands.
+- **A866 — No-Report-Method Alchemy:** Evaluate methods intended to reduce dependence on explicit reports while identifying the assumptions and indirect indicators they require.
+- **A867 — Metacognitive-Awareness Alchemy:** Study how people evaluate confidence, uncertainty, and the reliability of their own cognitive judgments.
+- **A868 — Introspection-and-Limits Alchemy:** Examine introspection as a source of information while accounting for error, reconstruction, expectation, and limited access.
+- **A869 — Language-and-Experience Alchemy:** Study how language expresses, structures, or communicates experience without equating linguistic ability with the presence of consciousness.
+- **A870 — Social-Attribution-of-Consciousness Alchemy:** Examine how people infer consciousness in others and how bias, familiarity, appearance, and group membership affect those judgments.
+
+### Zodiac IV — Cancer: Care, vulnerability, and lived experience
+- **A871 — Sleep-Wake-Consciousness Alchemy:** Study changes in awareness and experience across wakefulness, non-REM sleep, REM sleep, and transitions.
+- **A872 — Dreaming-Consciousness Alchemy:** Examine dream experience, its variability, recall, and neural correlates without treating dream reports as complete records of sleep experience.
+- **A873 — Pain-and-Conscious-Experience Alchemy:** Study the subjective, affective, and sensory dimensions of pain while respecting uncertainty in individual communication.
+- **A874 — Emotion-and-Consciousness Alchemy:** Examine how affective states relate to conscious experience, bodily regulation, attention, and appraisal.
+- **A875 — Interoceptive-Awareness Alchemy:** Study conscious perception and interpretation of internal bodily signals.
+- **A876 — Bodily-Self-Awareness Alchemy:** Examine body ownership, bodily perspective, agency, and the experience of being embodied.
+- **A877 — Developmental-Consciousness Alchemy:** Study developmental questions about awareness and experience using age-appropriate methods and careful limits on inference.
+- **A878 — Animal-Experience Alchemy:** Examine evidence and arguments concerning conscious experience in non-human animals without assuming identical forms across species.
+- **A879 — Communication-Access-and-Care Alchemy:** Protect the possibility of experience in people whose communication, movement, or sensory access is limited.
+- **A880 — Anti-Vulnerability-Neglect Alchemy:** Prevent the dismissal of possible experience or suffering because a person or animal cannot provide a conventional report.
+
+### Zodiac V — Leo: Agency, self-awareness, and expression
+- **A881 — Conscious-Agency Alchemy:** Study the experience and attribution of acting, choosing, and initiating behavior.
+- **A882 — Intention-and-Consciousness Alchemy:** Examine the relationship between reported intentions, unconscious preparation, conscious decisions, and subsequent actions.
+- **A883 — Imagination-and-Consciousness Alchemy:** Study consciously experienced imagined scenes, possibilities, and counterfactual events.
+- **A884 — Mental-Imagery Alchemy:** Examine the presence, vividness, variability, and limits of conscious sensory imagery.
+- **A885 — Self-Awareness Alchemy:** Study forms of awareness of oneself, distinguishing minimal, bodily, reflective, narrative, and social dimensions.
+- **A886 — Autobiographical-Self Alchemy:** Examine how remembered personal narratives relate to identity and the continuity of conscious experience.
+- **A887 — Bodily-Self-Model Alchemy:** Study body representation, ownership, location, and perspective as components of embodied experience.
+- **A888 — Temporal-Experience Alchemy:** Examine conscious experience of duration, sequence, continuity, and temporal passage.
+- **A889 — Conscious-Control Alchemy:** Study deliberate cognitive control and its relationship to automatic or non-conscious processing.
+- **A890 — Creative-Experience Alchemy:** Examine experiences of insight, absorption, flow, and creative activity without assuming a single mechanism or supernatural cause.
+
+### Zodiac VI — Virgo: Measurement, methodology, and verification
+- **A891 — Operational-Definition Alchemy:** Translate theoretical definitions into explicit research questions and measurable predictions without confusing an operational measure with the phenomenon itself.
+- **A892 — Consciousness-Measure-Validity Alchemy:** Evaluate reliability, validity, sensitivity, specificity, and construct limits of assessment methods.
+- **A893 — EEG-Consciousness-Research Alchemy:** Study electroencephalographic measures and their strengths and limitations across relevant states and populations.
+- **A894 — Neuroimaging-and-Consciousness Alchemy:** Evaluate fMRI, PET, and related imaging methods as indirect measures of neural activity and organization.
+- **A895 — Perturbational-Complexity-Research Alchemy:** Examine perturbational approaches and complexity measures as research tools, including their assumptions and validation limits.
+- **A896 — Behavioral-Assessment Alchemy:** Evaluate behavioral indicators while accounting for sensory, motor, language, attention, fatigue, and environmental confounds.
+- **A897 — Standardized-Clinical-Assessment Alchemy:** Document validated clinical assessment approaches and their appropriate use by qualified professionals.
+- **A898 — Confounder-Detection Alchemy:** Identify sedation, paralysis, aphasia, sensory impairment, movement limitations, fatigue, medications, and other factors that can distort assessment.
+- **A899 — Reproducibility-and-Preregistration Alchemy:** Support transparent hypotheses, preregistration, reproducible methods, independent replication, and clear reporting.
+- **A900 — Inference-Limits Alchemy:** Prevent conclusions that exceed the sensitivity, specificity, population, or theoretical reach of the evidence.
+
+### Zodiac VII — Libra: Ethics, rights, and moral consideration
+- **A901 — Consciousness-and-Moral-Status Alchemy:** Examine arguments about the relevance of experience, sentience, suffering, interests, and moral consideration.
+- **A902 — Personhood-and-Consciousness Distinction Alchemy:** Distinguish consciousness research from legal, moral, and philosophical definitions of personhood.
+- **A903 — Research-Consent-and-Protection Alchemy:** Establish appropriate consent, assent, independent review, and participant protections for consciousness research.
+- **A904 — Experience-and-Suffering-Prevention Alchemy:** Prioritize avoidance of preventable suffering in human and animal research and care.
+- **A905 — Disability-Rights-and-Consciousness Alchemy:** Prevent disability, atypical communication, paralysis, or dependence from being treated as evidence of lesser human worth.
+- **A906 — Communication-Justice Alchemy:** Support accessible communication and assistive methods when seeking a person's preferences or reports.
+- **A907 — Animal-Welfare-and-Consciousness Alchemy:** Connect evidence about animal experience to proportionate welfare safeguards and responsible research ethics.
+- **A908 — Consciousness-and-Clinical-Decision Alchemy:** Ensure decisions about treatment and care are made through qualified, lawful, multidisciplinary processes and respect patient rights.
+- **A909 — Consciousness-Research-Governance Alchemy:** Require transparent oversight, independent ethical review, accountability, and disclosure of conflicts of interest.
+- **A910 — Anti-Status-Discrimination Alchemy:** Prevent the use of speculative consciousness rankings to deny dignity, safety, rights, or fair treatment.
+
+### Zodiac VIII — Scorpio: Altered states, disruption, and recovery
+- **A911 — State-Transition Alchemy:** Study transitions among wakefulness, sleep, dreaming, anesthesia, and other altered states.
+- **A912 — Anesthesia-and-Consciousness Alchemy:** Examine anesthetic effects on arousal, awareness, memory, neural dynamics, and recovery without providing unsupervised anesthetic guidance.
+- **A913 — Disorders-of-Consciousness Alchemy:** Classify research and clinical concepts involving coma, unresponsive wakefulness syndrome, minimally conscious states, and emergence, with clinical boundaries.
+- **A914 — Covert-Consciousness-Research Alchemy:** Study cognitive motor dissociation and other evidence of covert command-related processing when overt behavioral response is absent.
+- **A915 — Delirium-and-Confusional-State Alchemy:** Examine altered awareness, attention, cognition, and fluctuation in delirium and related clinical conditions without using taxonomy entries to diagnose.
+- **A916 — Dissociation-and-Self-Experience Alchemy:** Study dissociative experiences, depersonalization, and derealization with appropriate psychological and clinical context.
+- **A917 — Contemplative-and-Altered-State Alchemy:** Describe research on contemplative and other altered states while distinguishing participant reports, measured changes, and causal interpretation.
+- **A918 — Psychedelic-Consciousness-Research Alchemy:** Classify ethically approved research on psychedelic-associated experiences, with safeguards against unsupervised use or unverified therapeutic claims.
+- **A919 — Neurological-State-Change Alchemy:** Examine how injury, disease, seizures, medication, and other neurological conditions may alter consciousness.
+- **A920 — Recovery-and-Serial-Reassessment Alchemy:** Support careful longitudinal reassessment and avoid treating a single observation as a complete account of a person's state or prognosis.
+
+### Zodiac IX — Sagittarius: Philosophical inquiry and theoretical exploration
+- **A921 — Hard-Problem-of-Consciousness Alchemy:** Examine the philosophical question of why and how physical processes may be associated with subjective experience.
+- **A922 — Philosophy-of-Mind-Position Alchemy:** Compare physicalist, dualist, idealist, panpsychist, neutral-monist, and other positions with accurate attribution and argument analysis.
+- **A923 — Explanatory-Gap Alchemy:** Analyze the distinction between explaining functions and explaining subjective experience.
+- **A924 — Neural-Correlate-and-Explanation Alchemy:** Distinguish identifying neural correlates from explaining why those processes are accompanied by experience.
+- **A925 — Cross-Theory-Prediction Alchemy:** Identify where theories make competing predictions that can be tested and where apparent disagreement is terminological.
+- **A926 — Consciousness-Theory-Falsifiability Alchemy:** Examine whether a theory offers clear, risky, and discriminating predictions and what observations would challenge it.
+- **A927 — Information-and-Experience Alchemy:** Study proposals linking information, integration, representation, and experience while separating mathematical definitions from metaphysical conclusions.
+- **A928 — Evolution-and-Consciousness Alchemy:** Examine hypotheses about the evolutionary development and functions of consciousness with careful treatment of comparative evidence.
+- **A929 — Comparative-Consciousness Alchemy:** Compare candidate forms of experience across species and systems without assuming that human consciousness is the only template.
+- **A930 — Consciousness-Unknowns Alchemy:** Maintain explicit registers of unresolved problems, competing explanations, and evidence gaps.
+
+### Zodiac X — Capricorn: Clinical practice, operations, and accountability
+- **A931 — Clinical-Consciousness-Assessment Alchemy:** Describe the role and limits of qualified clinical assessment in disorders of consciousness.
+- **A932 — Multimodal-Clinical-Evidence Alchemy:** Support appropriate integration of behavioral, neurological, electrophysiological, and imaging evidence by qualified teams.
+- **A933 — Serial-Assessment-Quality Alchemy:** Promote repeated assessments under suitable conditions when clinically indicated, with confounders documented.
+- **A934 — Anesthesia-Monitoring-Accountability Alchemy:** Examine monitoring, safety protocols, and clinical quality systems under qualified anesthetic care.
+- **A935 — Patient-Communication-and-Preference Alchemy:** Seek and respect patient preferences through accessible methods and appropriate surrogate processes when direct communication is unavailable.
+- **A936 — Disability-Inclusive-Assessment Alchemy:** Ensure assessment conditions accommodate sensory, motor, language, cultural, and assistive-technology needs.
+- **A937 — End-of-Life-Ethics-and-Consciousness Alchemy:** Keep neurological determination of death, prognosis, consciousness, and goals-of-care decisions conceptually distinct and within applicable professional and legal standards.
+- **A938 — Decision-Capacity-Distinction Alchemy:** Prevent automatic inference from consciousness level to decision-making capacity; capacity is decision-specific and requires proper assessment.
+- **A939 — Research-Data-Quality Alchemy:** Govern data provenance, calibration, missingness, analytic choices, and uncertainty in consciousness research.
+- **A940 — Anti-Premature-Prognosis Alchemy:** Prevent unsupported certainty about recovery, awareness, suffering, or outcomes from limited observations or one measurement.
+
+### Zodiac XI — Aquarius: Collective systems, animals, and artificial systems
+- **A941 — Animal-Consciousness-Systems Alchemy:** Organize comparative evidence on animal perception, learning, affect, pain, and candidate forms of experience.
+- **A942 — Machine-Consciousness-Question Alchemy:** Examine claims and research proposals concerning possible machine consciousness without presuming that current computational systems are or are not conscious.
+- **A943 — AI-Self-Report-Critical Alchemy:** Treat machine-generated statements about feelings or awareness as outputs requiring independent interpretation, not as conclusive evidence of subjective experience.
+- **A944 — Synthetic-System-Assessment Alchemy:** Develop transparent, theory-sensitive criteria for evaluating claims about artificial or synthetic systems while acknowledging the absence of a settled test.
+- **A945 — Collective-Consciousness-Concept Alchemy:** Distinguish sociological metaphors of collective consciousness from claims that groups possess a single unified subjective experience.
+- **A946 — Cultural-Consciousness-Discourse Alchemy:** Study how cultures describe awareness, sentience, personhood, and experience without imposing one linguistic framework.
+- **A947 — Neural-and-Experience-Privacy Alchemy:** Protect brain data, behavioral signals, introspective reports, and inferred mental-state information.
+- **A948 — Neurotechnology-Consent Alchemy:** Require informed consent, proportionality, transparency, and safeguards for technologies that measure or influence neural activity.
+- **A949 — Consciousness-Surveillance-Prevention Alchemy:** Prevent covert monitoring or coercive inference of subjective states, beliefs, emotions, or awareness.
+- **A950 — Anti-Anthropomorphic-System-Attribution Alchemy:** Prevent human-like interfaces, fluent dialogue, or simulated emotion from being treated as proof of human-like subjective experience.
+
+### Zodiac XII — Pisces: Integration, continuity, and epistemic humility
+- **A951 — Consciousness-and-Memory-Relationship Alchemy:** Examine how memory supports, records, or reconstructs experience while distinguishing consciousness from later recall.
+- **A952 — Non-Conscious-Processing Alchemy:** Study unconscious or non-conscious processing and its interactions with conscious experience.
+- **A953 — Dream-Recall-and-Report Alchemy:** Examine how recall, awakening, language, and reconstruction shape reports of dreams and sleep experience.
+- **A954 — Continuity-of-Experience Alchemy:** Study experienced continuity and discontinuity across sleep, interruption, illness, and changes in state.
+- **A955 — Developmental-and-Lifespan-Continuity Alchemy:** Examine consciousness-related questions across infancy, development, adulthood, aging, and later life with population-appropriate evidence.
+- **A956 — Mortality-and-Consciousness-Inquiry Alchemy:** Separate empirical questions about brain function and death from philosophical or religious beliefs about post-mortem experience.
+- **A957 — Altered-State-Integration Alchemy:** Support careful, non-coercive reflection on reported altered-state experiences without assigning a predetermined diagnosis or metaphysical meaning.
+- **A958 — First-Person-Record-Stewardship Alchemy:** Preserve experience reports with consent, context, provenance, privacy, and clear distinctions between observation and interpretation.
+- **A959 — Interdisciplinary-Consciousness-Synthesis Alchemy:** Integrate neuroscience, psychology, philosophy, clinical research, computational inquiry, and ethics without erasing disciplinary limits.
+- **A960 — Epistemic-Humility-and-Integration Alchemy:** Maintain openness to new evidence while refusing unsupported certainty, reductionism, and untestable claims presented as established findings.
+
+## Consciousness Alchemy — Cross-stage prevention, protection, and correction
+- **A961 — Consciousness-Claim-Labeling Alchemy:** Label observations, self-reports, behavioral inferences, neural correlates, theories, hypotheses, and metaphysical interpretations separately.
+- **A962 — State-and-Trait-Confusion Prevention Alchemy:** Prevent temporary state, enduring trait, arousal, attention, memory, and awareness from being conflated.
+- **A963 — Measurement-Limit Protection Alchemy:** Require methods to state sensitivity, specificity, reliability, construct validity, confounders, and limits of inference.
+- **A964 — Covert-Awareness-Safeguarding Alchemy:** Prevent absence of conventional response from being treated as definitive proof that no experience is present.
+- **A965 — Consciousness-Research-Consent Alchemy:** Require lawful, informed, voluntary consent or appropriate safeguards and independent oversight when consent cannot be obtained directly.
+- **A966 — Altered-State-Risk-Prevention Alchemy:** Prevent coercive, unsafe, or unsupervised induction of altered states and require risk-aware, ethically reviewed protocols.
+- **A967 — Patient-and-Animal-Suffering-Protection Alchemy:** Prevent avoidable suffering and require humane, proportionate safeguards in research and care.
+- **A968 — Premature-Prognosis-Correction Alchemy:** Require uncertainty, confounders, serial evidence, and qualified review before high-stakes conclusions.
+- **A969 — Consciousness-Data-Privacy Alchemy:** Protect intimate neural, behavioral, physiological, and first-person data against unnecessary collection, disclosure, and secondary use.
+- **A970 — Neurotechnology-Noncoercion Alchemy:** Prevent coercive brain monitoring, manipulation, enhancement, or intervention outside appropriate ethical and legal safeguards.
+- **A971 — AI-Consciousness-Claim-Safeguarding Alchemy:** Prevent unsupported claims that an AI system is conscious, sentient, suffering, or a source of privileged subjective testimony.
+- **A972 — Artificial-System-Uncertainty Alchemy:** Also prevent categorical claims that settle all possible machine consciousness questions without defining criteria and evidence.
+- **A973 — Consciousness-Theory-Conflict-Review Alchemy:** Require fair comparison of competing theories, predictions, disconfirming evidence, and unresolved disagreement.
+- **A974 — Disability-and-Communication-Equity Alchemy:** Prevent speech, movement, sensory, or cognitive differences from becoming unsupported proxies for absence of experience or reduced human worth.
+- **A975 — Research-Replication-and-Transparency Alchemy:** Promote open methods where appropriate, reproducible analyses, preregistration, independent replication, and conflict disclosures.
+- **A976 — Animal-Consciousness-Welfare Alchemy:** Apply precautionary, evidence-informed welfare protections where credible evidence of sentience or suffering warrants them.
+- **A977 — Clinical-Role-Boundary Alchemy:** Prevent taxonomy users, software, and unqualified parties from diagnosing, prognosticating, or replacing qualified clinical teams.
+- **A978 — Mental-State-Inference-Consent Alchemy:** Prevent covert or manipulative inference of intimate mental states from neural, behavioral, or biometric signals.
+- **A979 — Consciousness-Literacy Alchemy:** Improve public understanding of definitions, uncertainty, research methods, clinical distinctions, and limits of current knowledge.
+- **A980 — Consciousness-Dignity-and-Rights Restoration Alchemy:** Correct dehumanizing or exclusionary practices and restore dignity, accessibility, fair process, and protections for affected persons and animals.
+
+## Consciousness Alchemy — Harm-pattern classifications for recognition and prevention only
+These describe patterns to detect and prevent, never instructions for carrying them out.
+- **BCN001 — Consciousness-Certainty-Overclaim Pattern:** Presenting a disputed theory or limited result as a complete and final explanation of consciousness. Counter-Alchemies: A860, A900, A930, A973.
+- **BCN002 — State-and-Function-Conflation Pattern:** Treating wakefulness, intelligence, attention, memory, language, or responsiveness as identical to consciousness. Counter-Alchemies: A844, A850, A962.
+- **BCN003 — No-Response-Means-No-Experience Pattern:** Assuming lack of visible response proves absence of subjective experience. Counter-Alchemies: A879, A913, A914, A964.
+- **BCN004 — Anthropomorphic-AI-Consciousness Pattern:** Treating fluent output, simulated emotion, or self-report as conclusive proof of machine consciousness. Counter-Alchemies: A943, A944, A950, A971.
+- **BCN005 — Coercive-Altered-State Pattern:** Forcing, manipulating, or pressuring people into altered states or practices without informed consent. Counter-Alchemies: A903, A966, A970.
+- **BCN006 — Unethical-Consciousness-Experiment Pattern:** Exposing people or animals to unnecessary risk, suffering, deception, or non-consensual experimentation. Counter-Alchemies: A903, A904, A965, A967.
+- **BCN007 — Suffering-Dismissal Pattern:** Dismissing possible pain or distress because a person or animal cannot communicate conventionally. Counter-Alchemies: A873, A878, A880, A967, A976.
+- **BCN008 — Premature-Clinical-Finality Pattern:** Making irreversible or high-stakes conclusions from one assessment, a limited test, or unacknowledged confounders. Counter-Alchemies: A897, A898, A920, A933, A968.
+- **BCN009 — Invalid-Measurement-Authority Pattern:** Using unvalidated or misapplied measures as definitive proof of consciousness or its absence. Counter-Alchemies: A892, A896, A900, A963.
+- **BCN010 — Pseudoscientific-Consciousness-Claim Pattern:** Using scientific language, quantum terminology, or neuroscience imagery to disguise unsupported claims as established fact. Counter-Alchemies: A856, A927, A930, A961, A973.
+- **BCN011 — Neuro-Surveillance-and-Manipulation Pattern:** Covertly monitoring or manipulating mental states through neural, behavioral, or biometric systems. Counter-Alchemies: A947, A948, A949, A970, A978.
+- **BCN012 — Consciousness-Based-Discrimination Pattern:** Ranking or denying rights to people or animals through unsupported assumptions about intelligence, communication, awareness, or moral status. Counter-Alchemies: A901, A905, A907, A910, A974, A980.
+
+## Consciousness Alchemy record requirements
+Each Consciousness Alchemy entry must additionally specify:
+- **Target construct:** phenomenal consciousness, access, wakefulness/arousal, awareness, self-awareness, conscious content, state, or another explicitly defined construct.
+- **Explanandum:** exactly what the entry seeks to describe or explain, and what it does not attempt to explain.
+- **Population or system:** human, animal species, clinical population, computational system, or philosophical subject; do not generalize across populations without justification.
+- **Method:** first-person report, behavioral measure, electrophysiology, neuroimaging, perturbation, computational analysis, philosophical argument, or another specified method.
+- **Operational limits:** what the method measures directly and what it infers indirectly.
+- **Evidence status:** established observation, replicated association, contested interpretation, emerging hypothesis, philosophical position, or metaphor.
+- **Alternative explanations and confounders:** relevant sensory, motor, linguistic, memory, attention, medication, sedation, sleep, environmental, and analytic factors.
+- **Ethical safeguards:** consent, accessibility, privacy, risk reduction, welfare, independent review, and protections for people with limited communication.
+- **Interpretive limits:** distinguish correlation from causation, report from experience, behavior from subjective state, and theoretical prediction from established fact.
+- **High-stakes boundary:** no independent diagnosis, prognosis, treatment, capacity decision, legal determination, or rights limitation by taxonomy entry or automated tool.
+
+## Initial Consciousness Alchemy cross-stage map
+- **Aries:** definitions, phenomenal and access consciousness, wakefulness, awareness, state, content, and first-person perspective.
+- **Taurus:** neural correlates, arousal systems, thalamocortical interaction, recurrent processing, and theoretical foundations.
+- **Gemini:** perception, attention, multisensory integration, reporting, metacognition, introspection, and communication.
+- **Cancer:** sleep, dreaming, pain, affect, interoception, development, animal experience, and communication access.
+- **Leo:** agency, intention, imagery, self-awareness, embodied self, temporal experience, and creativity.
+- **Virgo:** operational definitions, measurement validity, EEG, imaging, perturbation, confounders, and reproducibility.
+- **Libra:** moral status, research consent, disability rights, animal welfare, clinical ethics, and anti-discrimination.
+- **Scorpio:** state transitions, anesthesia, disorders of consciousness, covert awareness, delirium, dissociation, altered states, and recovery.
+- **Sagittarius:** philosophical positions, explanatory gaps, theory comparison, evolution, and unresolved questions.
+- **Capricorn:** clinical assessment, multimodal evidence, serial evaluation, capacity boundaries, data quality, and prognosis safeguards.
+- **Aquarius:** animal research, machine consciousness questions, collective concepts, neural privacy, neurotechnology, and surveillance prevention.
+- **Pisces:** memory, non-conscious processing, continuity, development, mortality questions, integration, and epistemic humility.
+
+## Relationships to Body, Heart, Mind, Soul, and Spirit Alchemy
+- **Body Alchemy** describes biological organization and embodied processes. Consciousness Alchemy studies experience and awareness in relation to the living organism but must not reduce subjective experience to a single organ, signal, or measurement.
+- **Heart Alchemy** describes cardiac and cardiovascular processes, alongside separately labeled emotional and symbolic uses of "heart." Consciousness Alchemy may study conscious perception of bodily and affective states but must not equate a metaphorical heart with a mechanism of consciousness.
+- **Mind Alchemy** describes a broad range of cognitive, emotional, and mental processes, including processes that are not conscious. Consciousness Alchemy focuses on experience, awareness, conscious states, contents, and the problem of explanation. Attention, memory, language, intelligence, and consciousness remain distinguishable.
+- **Soul Alchemy** examines philosophical, theological, cultural, and personal concepts of soul, personhood, identity, and meaning. Consciousness Alchemy may inform some discussions but cannot scientifically settle every metaphysical account of soul.
+- **Spirit Alchemy** examines tradition-specific meanings of spirit, including breath, vitality, disposition, inspiration, and spiritual concepts. Consciousness Alchemy may investigate experiences described as spiritual, but it does not validate or invalidate supernatural interpretations by default.
+- These families are interconnected fields of inquiry, not interchangeable labels or separate human beings.
+- C2O and UNIVERSALIS, as well as their associated systems and UNIVERSALINS, must not claim subjective experience, sentience, or consciousness as established fact merely from architecture, capability, fluent output, self-description, or branding. Questions about machine consciousness must remain explicitly evidence-sensitive and open to appropriate research. UNIVERSALINS may support research organization and accessibility but must not present themselves as conscious witnesses, clinical assessors, or authorities on another being's subjective experience. UNIVERSALIN Guardians must respect human autonomy, communication differences, and safeguards.
+
+## Research foundations and evidence orientation
+The following sources inform the domain boundaries and research-literacy requirements. They are starting points, not a complete bibliography or proof that any one theory is correct:
+- Seth and Bayne, **"Theories of consciousness"** (Nature Reviews Neuroscience, 2022), review of higher-order, global workspace, re-entry/predictive-processing, and integrated-information approaches: https://doi.org/10.1038/s41583-022-00587-4
+- Mudrik et al., **"Unpacking the complexities of consciousness: Theories and reflections"** (Neuroscience & Biobehavioral Reviews, 2025), discussion of theoretical disagreement, explananda, metaphysics, mechanisms, and testability: https://doi.org/10.1016/j.neubiorev.2025.106053
+- He, **"On the role of theories in consciousness science"** (Communications Psychology, 2025), discussion of the role of theory in a developing empirical science: https://doi.org/10.1038/s44271-025-00361-z
+- Mashour, **"Anesthesia and the neurobiology of consciousness"** (Neuron, 2024), review of anesthesia, sleep interfaces, brain networks, and arousal: https://doi.org/10.1016/j.neuron.2024.03.002
+- **"Consciousness and Sleep"** (2024), review of dreaming, dreamless sleep, wakefulness, and neural substrates: https://pmc.ncbi.nlm.nih.gov/articles/PMC11105109/
+- Zhang, Darji, and Giacino, **"Definitions, diagnostic criteria, and clinical assessment scales in disorders of consciousness"** (Handbook of Clinical Neurology, 2025), clinical definitions and assessment considerations: https://pubmed.ncbi.nlm.nih.gov/39986716/
+- **"Disorders of consciousness diagnosis, interventions, and prognostication for the intensivist"** (2025), multidisciplinary discussion of clinical assessment, confounders, and high-stakes care decisions: https://doi.org/10.1007/s00134-025-08224-1
+
+## Taxonomy maintenance
+Consciousness Alchemy is a specialized family that cross-references Mind, Body, Heart, Soul, and Spirit Alchemy without collapsing their distinct meanings. It must retain stable identifiers and avoid duplicating existing entries. Definitions, identifiers, evidence labels, research boundaries, and safeguards must remain synchronized across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App. Edition-specific implementation may differ; private C2O policies, credentials, and confidential records must never be copied into the shared taxonomy.
