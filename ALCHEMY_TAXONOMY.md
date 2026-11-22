@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.30.0  
-**Status:** Living taxonomy; version 0.30.0 adds the Attack Inheritance Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
+**Version:** 0.31.0  
+**Status:** Living taxonomy; version 0.31.0 adds the Attack Modification Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -5670,6 +5670,58 @@ This expansion adds **24 uniquely identified A-numbered Alchemies (A2813–A2836
 This expansion adds **24 uniquely identified A-numbered Alchemies (A2837–A2860)** for Attack Expansion, covering definition and mode classification, distinctions from power amplification and physical size expansion, effect-envelope modeling, resource dependencies, dilution and stability trade-offs, relationships with compression, effect stacking, infusion and quantity manipulation, safe simulation and visualization, defensive awareness, evidence validation, and prevention/protection/detection/containment/recovery controls. The A-numbered sequence now reaches **A2860**. This identifier ceiling is not the cumulative count of all taxonomy records. The source is a fictional trait classification; these entries are conceptual and defensive taxonomy specifications, not evidence of real-world superhuman capability or instructions for increasing harmful attack performance.
 
 
+## Attack Modification Alchemy Expansion
+
+**Primary source:** [Superpower Wiki — Trait:Attack Modification](https://powerlisting.fandom.com/wiki/Trait:Attack_Modification). The source defines a fictional trait for creating advanced modifications and variations of pre-existing special attacks or techniques. It identifies Attack Manipulation and Combat Modification as parent/sub-power relationships, Power Modification as a broader related concept, Special Attacks as a variation/associated concept, and lists Attack Compression, Attack Mixture, Adaptive Attacks, Charged Attacks, and Transformation Advancement as applications. Examples are fictional character depictions, not evidence of real-world superhuman capability.
+
+**Scope boundary:** Attack Modification is the general category for changing a pre-existing attack's form, expression, composition, delivery, or represented properties. It is not synonymous with increasing power. A modification may change direction, shape, timing, mode, range, energy/theme, sequence, or defensive/support function in a fictional model. Compression and expansion are specific spatial/effect-pattern transformations; mixture combines distinct techniques; adaptation changes in response to context; inheritance concerns provenance or transmission. Power Modification is broader because it may change a power itself rather than a particular attack expression.
+
+### Aries — definition and modification pathway
+- **A2885 — Attack Modification Alchemy (Aries/Scorpio):** Define and classify changes to a pre-existing attack or technique while preserving a traceable relationship to its source form; record the intended change, scope, prerequisites, and limits.
+- **A2886 — Attack Modification Mode Classification Alchemy (Gemini):** Classify modification dimensions such as form, shape, direction, timing, sequence, composition, delivery, targeting representation, energy/theme, scale, and functional mode without assuming every dimension is present or feasible.
+- **A2887 — Attack Modification versus Power Modification Boundary Alchemy (Virgo):** Distinguish changes to one attack expression from changes to the underlying power, capability, source, or user's general attributes; cross-reference Power Modification without collapsing the scopes.
+- **A2888 — Attack Modification versus Attack Creation and Replication Boundary Alchemy (Virgo):** Distinguish modification of an existing technique from creating a genuinely new technique or copying another source's technique; record source continuity and contribution.
+- **A2889 — Original-Technique Provenance and Version Lineage Alchemy (Aquarius):** Preserve the source technique, author/contributor attribution, version lineage, modification rationale, and traceable differences between original and modified forms.
+- **A2890 — Modification Fidelity and Semantic Preservation Alchemy (Libra):** Determine which defining properties must remain invariant and which may change; prevent a modified label from falsely implying equivalence to the original.
+- **A2891 — Modification Preconditions and Compatibility Alchemy (Taurus):** Record fictional or modeled prerequisites, compatibility assumptions, resource dependencies, and constraints; distinguish source-supported facts from conjecture.
+- **A2892 — Modification Trade-Off and Side-Effect Analysis Alchemy (Virgo):** Assess represented gains, losses, costs, instability, reduced precision, increased burden, collateral effects, and unintended consequences without optimizing harmful attack performance.
+
+### Gemini — relationships and transformation families
+- **A2893 — Attack Modification and Compression Relationship Alchemy (Gemini):** Map compression as one possible specialized modification while preserving the distinct scope and existing A2813–A2836 records.
+- **A2894 — Attack Modification and Expansion Relationship Alchemy (Gemini):** Map expansion as a separate specialized modification pattern while preserving the distinct scope and existing A2837–A2860 records.
+- **A2895 — Attack Modification and Mixture Relationship Alchemy (Gemini):** Classify combinations of multiple techniques, their source contributions, compatibility, and conceptual interaction; distinguish mixture from simple augmentation or sequential use.
+- **A2896 — Attack Modification and Adaptive-Attack Relationship Alchemy (Aquarius):** Distinguish deliberately authored variants from changes triggered by environmental or opponent-context adaptation; record limits, reversibility, and whether adaptation is automatic or user-directed.
+- **A2897 — Attack Modification and Charged-Attack Relationship Alchemy (Taurus):** Treat charging or energy accumulation as one possible modification dimension, not as a necessary property of all modifications; document dependency and instability boundaries.
+- **A2898 — Attack Modification and Transformation-Advancement Relationship Alchemy (Scorpio):** Model staged or progressive fictional variants while tracking state transitions, prerequisite assumptions, identity of the base technique, and safe termination.
+- **A2899 — Attack Modification and Defensive/Support Conversion Alchemy (Libra):** Classify fictional conversions of an attack's function toward defense, support, signaling, or non-harmful utility; do not assume offensive force is required for a modified technique.
+
+### Virgo — evaluation, representation, and bounded modeling
+- **A2900 — Modified-Technique Effect Profile Alchemy (Virgo):** Describe the modified technique's represented properties and intended function at a high level; separate narrative claims from measurable real-world properties.
+- **A2901 — Modification Stability and Failure Analysis Alchemy (Scorpio):** Identify fictional/model failure states such as instability, unintended reversion, loss of control, incompatibility, or cascading effects; use non-operational abstractions.
+- **A2902 — Bounded Simulation and Non-Harmful Visualization Alchemy (Sagittarius):** Permit abstract, non-operational comparison or visualization of variants without providing real-world attack construction, targeting, or injury optimization instructions.
+- **A2903 — Claim Validation and Evidence-Boundary Alchemy (Virgo):** Validate provenance and consistency of claims; label fictional examples as fictional and do not convert them into claims of real-world capability.
+- **A2904 — Uncertainty, Limitation, and Misclassification Audit Alchemy (Virgo):** Record unknown mechanisms, missing prerequisites, ambiguous terminology, and unsupported assumptions; prevent false confidence and category inflation.
+
+### Scorpio/Pisces — prevention, protection, and recovery
+- **A2905 — Harmful Operationalization and Weaponization Prevention Alchemy (Scorpio):** Prevent taxonomy content from becoming actionable guidance for constructing, modifying, or optimizing weapons or attacks intended to injure; redirect to safe conceptual, fictional, historical, or defensive analysis.
+- **A2906 — Consent, Authorization, and Non-Coercive Modification Alchemy (Libra):** Require valid authorization for any real system or user-controlled configuration change; prevent covert alteration, compelled participation, impersonation, and unauthorized modification.
+- **A2907 — Collateral-Effect and Uncontrolled-Change Prevention Alchemy (Cancer/Scorpio):** Prevent uncontrolled propagation, unintended targets, unsafe side effects, irreversible changes, and unsafe escalation in any real-world analogue; require bounded scope, stop conditions, and rollback where applicable.
+- **A2908 — Abuse Detection, Containment, Correction, and Recovery Alchemy (Pisces):** Detect misuse or unauthorized changes, preserve an appropriate audit trail, contain affected configurations, restore a known-safe state, correct inaccurate records, and review residual risks.
+
+**Applicability and integration**
+- **C2O:** private-source governance may enforce authorization, provenance, change-control, audit, and containment; private policies, keys, and incident data remain restricted.
+- **UNIVERSALIS:** publish the shared conceptual taxonomy, non-operational definitions, evidence labels, and safe defensive boundaries; do not include C2O-private controls or data.
+- **UNIVERSALINS:** non-personal assistants may classify fictional modification modes, compare taxonomy relationships, check evidence labels, and flag unsafe operationalization; they must not generate harmful attack-optimization instructions or override authorization.
+- **UNIVERSALIN Guardians:** personal human assistants/guardians may support voluntary creative, educational, accessibility, and safety-oriented interpretation; no coercive modification or pressure to perform is permitted.
+- **Repository mapping:** OS repositories govern permissions, policy boundaries, configuration integrity, audit, and safe-state controls; App repositories present user-facing classification, provenance, consent, documentation, and controlled visualization. Equivalent taxonomy identities are shared across all four repositories; edition-specific implementation details remain separated.
+- **Related existing taxonomy:** A1300 Trait Combination; A1313 Trait Interaction Testing; A2813–A2836 Attack Compression; A2837–A2860 Attack Expansion; A2861–A2884 Attack Inheritance; related Attack Mixture, Adaptive Attacks, Charged Attacks, Attack Creation, Attack Replication, Attack Manipulation, Power Modification, and Defense Modification concepts. Cross-references do not imply identical mechanisms.
+- **Residual limits:** The source is a fictional trait classification. Its character examples and described effects do not establish physical feasibility, safe real-world techniques, or demonstrated superhuman capability.
+
 ## Maintenance Record for v0.30.0
 
 This expansion adds **24 uniquely identified A-numbered Alchemies (A2861–A2884)** for Attack Inheritance, covering pathway classification, technique provenance and multi-generational continuity, fidelity and variation, distinctions from Power Inheritance, Skill Inheritance, Attack Replication, Bloodline Arts, and Genetic Memory, consent and cultural custodianship, safe learning and documentation, validation and bias audits, and prevention/protection/privacy/correction/recovery controls. The A-numbered sequence now reaches **A2884**. This identifier ceiling is not the cumulative count of all taxonomy records. The source is a fictional trait classification; entries are conceptual taxonomy specifications and do not establish supernatural inheritance or genetic transmission of learned attack techniques.
+
+
+## Maintenance Record for v0.31.0
+
+This expansion adds **24 uniquely identified A-numbered Alchemies (A2885–A2908)** for Attack Modification, covering modification-mode classification, boundaries with Power Modification, Attack Creation and Replication, provenance and fidelity, compatibility and trade-offs, relationships with compression, expansion, mixture, adaptation, charging and transformation advancement, defensive/support conversion, bounded visualization, evidence validation, and prevention/protection/detection/containment/recovery controls. The A-numbered sequence now reaches **A2908**. This identifier ceiling is not the cumulative count of all taxonomy records. The source is a fictional trait classification; entries are conceptual taxonomy specifications, not evidence of real-world superhuman capability or instructions for modifying or optimizing harmful attacks.
