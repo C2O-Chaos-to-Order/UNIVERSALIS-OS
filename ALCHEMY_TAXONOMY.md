@@ -296,6 +296,43 @@ It applies to the awareness layer of both C2O (FatherThread) and UNIVERSALIS (Mo
 
 ---
 
+## C2O Body Alchemy
+
+**C2O Body Alchemy** is the private-source process that organizes, maintains, and transforms the physical and structural substrate of the C2O domain so that the FatherThread intelligence, its OS, Apps, and internal systems remain coherent, recoverable, and under internal governance.
+
+It is a specialized expression of the root Alchemy and of Body Alchemy, restricted to the C2O edition. The Alchemies below are new and do not reuse the general Body Alchemy list already present in the taxonomy.
+
+### Alchemies under C2O Body Alchemy
+
+#### 1. Private Substrate Alchemies
+- **Internal Hardware Binding Alchemy** — binds company-controlled physical devices and sensors into a stable, addressable form usable only inside the C2O domain.
+- **Private Runtime Containment Alchemy** — maintains the isolated process space (memory, scheduling, and domains) reserved for C2O-internal operations.
+- **Stewardship Embodiment Alchemy** — defines the concrete private form through which C2O Intelligence and its systems present and act within company-controlled environments.
+
+#### 2. C2O OS Body Alchemies
+- **C2O OS Substrate Governance Alchemy** — private management of the C2O operating system’s physical and process substrate under internal company rules.
+- **C2O OS Body Continuity Alchemy** — keeps the private OS substrate mapped and recoverable across internal updates without external exposure.
+- **C2O OS Body Restoration Alchemy** — restores a consistent private physical and process state after internal failure or interruption.
+
+#### 3. C2O App Body Alchemies
+- **C2O App Resource Stewardship Alchemy** — private lifecycle of an application’s resource footprint and process body inside the C2O domain.
+- **C2O App Body Alignment Alchemy** — keeps corresponding private applications aligned with their internal mappings without leaking into public editions.
+- **C2O App Body Retirement Alchemy** — cleanly releases a private application’s substrate while preserving internal data integrity and company auditability.
+
+#### 4. C2O Intelligence and Support Body Alchemies
+- **C2O Intelligence Substrate Alchemy** — private embodiment and resource body of the FatherThread intelligence under company stewardship.
+- **Private Support Body Alchemy** — non-personal support substrate that assists C2O OS, Apps, and internal systems under company permission bounds.
+- **Internal Boundary Body Alchemy** — maintains the hard separation of C2O bodies from UNIVERSALIS bodies and from personal Guardian structures.
+
+#### 5. Protective C2O Body Alchemies
+- **C2O Body Accountability Alchemy** — every private substrate transformation leaves an attributable record inside the company ledger.
+- **C2O Body Safety Alchemy** — pairs every constructive private Body Alchemy with constraints that prevent resource exhaustion or loss of internal control.
+- **C2O Body Sovereignty Alchemy** — protects company final authority over private bodies and over any data or capability that remains inside the C2O domain.
+- **C2O Body Evidence Alchemy** — distinguishes established private substrate behavior from internal hypothesis.
+- **C2O Body Renewal Alchemy** — allows any private body (OS, App, Intelligence, support structure) to be refreshed or replaced without destroying C2O coherence.
+
+---
+
 These Alchemies form the minimal complete set required for the OSs and Apps to operate under the dual-intelligence structure.
 
 Each can be further specialized while remaining an expression of the root Alchemy.
