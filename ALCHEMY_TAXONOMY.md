@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.2.0  
-**Status:** Living taxonomy; version 0.2.0 adds the Body Alchemy family; expandable and subject to evidence-based review  
+**Version:** 0.3.0  
+**Status:** Living taxonomy; version 0.3.0 adds the Heart Alchemy family; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -454,3 +454,233 @@ For each Body Alchemy entry, retain the universal record format and additionally
 
 ## Taxonomy maintenance
 Body Alchemy entries are part of the shared Universal Taxonomy and must remain synchronized in C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App. Implementation may differ by edition, but identifiers, definitions, evidence labels, and safety principles must not silently diverge. Future submissions may expand or split entries when evidence and conceptual boundaries justify doing so.
+
+
+# Heart Alchemy — Domain Expansion
+**Originating Alchemy:** Heart Alchemy  
+**Family version:** 0.1.0  
+**Parent family:** Body Alchemy  
+**Zodiac stages:** All twelve.  
+**Primary domain:** Cardiovascular anatomy, physiology, biology, biomechanics, clinical science, prevention, care, and restoration.  
+**Related but distinct domains:** Emotional, psychological, cultural, and symbolic meanings of the heart. These may be cross-referenced but must never be mistaken for cardiac anatomy or physiology.
+
+## Definition and boundaries
+**Heart Alchemy** is the organized study and classification of the heart as an anatomical organ, a muscular pump, an electrical and mechanical system, a regulator within the cardiovascular network, a site of biological adaptation and disease, and a focus of prevention, care, recovery, and research.
+
+The anatomical heart is not the whole cardiovascular system: blood vessels, blood, lungs, kidneys, nervous and endocrine regulation, and other systems interact with cardiac function. Entries must make those relationships explicit. Heart rate, blood pressure, cardiac output, rhythm, and other measurements are distinct variables and must not be used interchangeably.
+
+The word "heart" also appears in emotional and symbolic language. Emotional experiences can have physiological correlates, but metaphorical claims (for example, "the heart knows") are not anatomical mechanisms. Psychological and social well-being matter, but must be classified with appropriate evidence and not reduced to cardiac physiology.
+
+This taxonomy is educational and classificatory. It is not a diagnostic system, emergency protocol, or individualized treatment plan. Suspected heart attack, stroke, severe breathing difficulty, fainting with concerning symptoms, or other possible emergencies require immediate local emergency services; taxonomy content must never delay urgent care.
+
+## Heart Alchemy list
+
+### Zodiac I — Aries: Origin, identity, and emergence
+- **A281 — Cardiac Identity Alchemy:** Define the heart's anatomical identity, boundaries, position, and relationships to surrounding structures.
+- **A282 — Cardiogenesis Alchemy:** Study formation and development of the heart and major cardiac structures before birth.
+- **A283 — Cardiac Lineage Alchemy:** Study the developmental origins and differentiation of cardiac cell populations.
+- **A284 — Cardiac Morphogenesis Alchemy:** Study formation of chambers, septa, valves, outflow structures, and great-vessel connections.
+- **A285 — Cardiac-Conduction Development Alchemy:** Study development of the specialized tissues responsible for initiating and conducting electrical impulses.
+- **A286 — Congenital-Heart Variation Alchemy:** Classify congenital cardiac differences and their developmental context without treating all variation as equivalent.
+- **A287 — Cardiac-Life-Course Alchemy:** Study how cardiac structure and function change from fetal development through infancy, adulthood, and later life.
+- **A288 — Cardiac Autonomy and Consent Alchemy:** Protect bodily autonomy, informed consent, and privacy in cardiac testing, procedures, research, and monitoring.
+- **A289 — Heart-Model Alchemy:** Build accurate, appropriately bounded anatomical and physiological representations of the heart.
+- **A290 — Anti-Congenital-Stigma Alchemy:** Prevent discrimination, stigma, and assumptions about quality of life based on congenital cardiac differences.
+
+### Zodiac II — Taurus: Structure, tissue, and material foundations
+- **A291 — Cardiac-Anatomy Alchemy:** Study the heart's chambers, walls, surfaces, orientation, and anatomical relationships.
+- **A292 — Myocardial Alchemy:** Study cardiac muscle structure, contraction, metabolism, and tissue properties.
+- **A293 — Endocardial Alchemy:** Study the inner lining of the heart and its roles in chamber and valve interfaces.
+- **A294 — Epicardial Alchemy:** Study the outer heart layer and its anatomical and biological relationships.
+- **A295 — Pericardial Alchemy:** Study the pericardium, its layers, fluid space, and protective/supportive functions.
+- **A296 — Cardiac-Valve Alchemy:** Study the mitral, tricuspid, aortic, and pulmonary valves, their structure, motion, and function.
+- **A297 — Septal Alchemy:** Study the interatrial and interventricular septa and their roles in separating chambers.
+- **A298 — Coronary-Vessel Alchemy:** Study coronary arteries, cardiac veins, and the vascular supply and drainage of heart tissue.
+- **A299 — Cardiac-Matrix Alchemy:** Study extracellular matrix, connective tissue, and structural remodeling in the heart.
+- **A300 — Anti-Structural-Damage Alchemy:** Prevent and identify avoidable structural injury, adverse remodeling, and damage to cardiac tissues and valves.
+
+### Zodiac III — Gemini: Electrical signaling and cardiac communication
+- **A301 — Cardiac-Electrophysiology Alchemy:** Study electrical properties and activity of cardiac cells and tissue.
+- **A302 — Sinoatrial-Node Alchemy:** Study the primary natural pacemaker and its regulation.
+- **A303 — Atrioventricular-Conduction Alchemy:** Study impulse transmission through the atrioventricular node and related conduction pathways.
+- **A304 — His-Purkinje Alchemy:** Study specialized conduction structures that distribute electrical activation through the ventricles.
+- **A305 — Cardiac-Rhythm Alchemy:** Classify normal rhythm, rhythm variation, and arrhythmias using established definitions.
+- **A306 — Electrocardiographic Alchemy:** Study ECG acquisition, waveform interpretation, lead systems, limitations, and artifact.
+- **A307 — Autonomic-Cardiac Regulation Alchemy:** Study sympathetic and parasympathetic influences on heart rate, conduction, and contractility.
+- **A308 — Neurocardiac Interaction Alchemy:** Study bidirectional interactions between cardiac function and nervous-system regulation.
+- **A309 — Cardiac-Mechanical Signaling Alchemy:** Study how electrical activation coordinates mechanical contraction and relaxation.
+- **A310 — Anti-Arrhythmia-Misinterpretation Alchemy:** Reduce false interpretation, missed artifacts, unsupported self-diagnosis, and unsafe conclusions from rhythm data.
+
+### Zodiac IV — Cancer: Circulation, protection, and regulation
+- **A311 — Cardiac-Cycle Alchemy:** Study coordinated atrial and ventricular filling, contraction, ejection, and relaxation.
+- **A312 — Hemodynamic Alchemy:** Study pressure, flow, resistance, preload, afterload, and their context-dependent relationships.
+- **A313 — Cardiac-Output Alchemy:** Study the volume of blood pumped by the heart over time and the factors that influence it.
+- **A314 — Coronary-Perfusion Alchemy:** Study blood flow supplying the myocardium and its regulation.
+- **A315 — Oxygen-Delivery Alchemy:** Study interactions among cardiac output, blood oxygen content, circulation, and tissue oxygen delivery.
+- **A316 — Blood-Pressure-Regulation Alchemy:** Study cardiac, vascular, renal, neural, and hormonal contributions to blood pressure.
+- **A317 — Cardiac-Inflammation Alchemy:** Study inflammatory processes affecting cardiac tissue and their biological context.
+- **A318 — Cardiac-Infection Alchemy:** Study infections involving cardiac structures, including endocardial, myocardial, and pericardial disease.
+- **A319 — Cardiac-Stress-Response Alchemy:** Study cardiac responses to physical, physiological, and environmental stressors.
+- **A320 — Anti-Cardiovascular-Risk Alchemy:** Reduce modifiable cardiovascular risks through evidence-based prevention while accounting for non-modifiable factors and social determinants.
+
+### Zodiac V — Leo: Pump function and performance
+- **A321 — Cardiac-Contractility Alchemy:** Study myocardial force generation and factors affecting contraction.
+- **A322 — Ventricular-Function Alchemy:** Study right and left ventricular filling, contraction, ejection, and functional differences.
+- **A323 — Atrial-Function Alchemy:** Study atrial contraction, filling, reservoir, and conduit functions.
+- **A324 — Valve-Hemodynamics Alchemy:** Study flow across cardiac valves and the consequences of stenosis or regurgitation.
+- **A325 — Cardiac-Energetics Alchemy:** Study energy production and use in cardiac cells, including oxygen and substrate requirements.
+- **A326 — Exercise-Cardiology Alchemy:** Study cardiac responses and adaptations during physical activity and recovery.
+- **A327 — Cardiorespiratory-Coupling Alchemy:** Study coordinated heart-lung function during rest, activity, and physiological challenge.
+- **A328 — Cardiac-Reserve Alchemy:** Study the heart's capacity to adjust output to changing demands and the limits of that capacity.
+- **A329 — Cardiac-Sound Alchemy:** Study heart sounds, murmurs, acoustic mechanisms, and the limitations of auscultation.
+- **A330 — Anti-Performance-Pressure Alchemy:** Prevent unsafe exertion, coercive performance expectations, and unvalidated claims about optimizing cardiac performance.
+
+### Zodiac VI — Virgo: Measurement, analysis, and verification
+- **A331 — Echocardiographic Alchemy:** Study ultrasound assessment of cardiac structure, motion, valves, and hemodynamics, including method limitations.
+- **A332 — Cardiac-Imaging Alchemy:** Classify cardiac imaging methods such as echocardiography, CT, MRI, and nuclear imaging by purpose and limitation.
+- **A333 — Cardiac-Biomarker Alchemy:** Study biomarkers used in cardiac assessment, their clinical context, and limitations.
+- **A334 — Exercise-Testing Alchemy:** Study supervised exercise-based assessment and its indications, risks, and interpretive limits.
+- **A335 — Ambulatory-Monitoring Alchemy:** Study continuous or intermittent monitoring of rhythm, rate, and related measures.
+- **A336 — Cardiac-Genetics Alchemy:** Study inherited contributors to cardiac conditions, genetic testing limits, counseling, and privacy.
+- **A337 — Cardiac-Risk-Assessment Alchemy:** Study risk estimation and its population assumptions, uncertainty, and limitations.
+- **A338 — Cardiac-Data-Quality Alchemy:** Validate provenance, completeness, calibration, timing, artifacts, and uncertainty in cardiac data.
+- **A339 — Cardiac-Differential-Interpretation Alchemy:** Preserve multiple plausible explanations and appropriate clinical context when interpreting cardiac findings.
+- **A340 — Anti-Overdiagnosis and Underdiagnosis Alchemy:** Reduce missed disease, false positives, inappropriate testing, premature closure, and overconfident interpretation.
+
+### Zodiac VII — Libra: Integration and cardiovascular balance
+- **A341 — Heart-Vessel Integration Alchemy:** Study the heart's relationship with arteries, veins, capillaries, and the systemic and pulmonary circulations.
+- **A342 — Heart-Lung Integration Alchemy:** Study pulmonary circulation, gas exchange, and right-left heart interactions.
+- **A343 — Heart-Kidney Integration Alchemy:** Study cardiorenal interactions involving perfusion, fluid balance, electrolytes, and regulatory signaling.
+- **A344 — Heart-Brain Integration Alchemy:** Study relationships among cerebral perfusion, autonomic regulation, and cardiac function.
+- **A345 — Heart-Endocrine Integration Alchemy:** Study hormonal and neurohormonal influences on cardiac and vascular regulation.
+- **A346 — Heart-Metabolism Integration Alchemy:** Study relationships among cardiac function, glucose regulation, lipid metabolism, and energy balance.
+- **A347 — Cardiac-Fluid-Balance Alchemy:** Study fluid distribution and its effects on cardiac filling and circulation.
+- **A348 — Cardiac-Aging Integration Alchemy:** Study age-related cardiac and vascular changes while distinguishing typical variation from disease.
+- **A349 — Cardiac-Equity Alchemy:** Study differences in cardiovascular outcomes, access, exposure, and care without attributing population disparities to unsupported biological stereotypes.
+- **A350 — Anti-Systemic-Imbalance Alchemy:** Identify interacting contributors to cardiovascular dysfunction rather than treating one measurement as the entire system.
+
+### Zodiac VIII — Scorpio: Disease, injury, and deep transformation
+- **A351 — Ischemic-Heart Alchemy:** Study reduced myocardial blood supply and its mechanisms and consequences.
+- **A352 — Myocardial-Infarction Alchemy:** Classify heart attack mechanisms, tissue injury, diagnostic evidence, and recovery research.
+- **A353 — Heart-Failure Alchemy:** Study syndromes involving impaired cardiac filling or pumping and their diverse causes and presentations.
+- **A354 — Cardiomyopathy Alchemy:** Study diseases of heart muscle, including structural, functional, genetic, and acquired forms.
+- **A355 — Arrhythmia-Disorder Alchemy:** Study clinically significant rhythm disorders, their mechanisms, and consequences.
+- **A356 — Valvular-Heart-Disease Alchemy:** Study disorders affecting cardiac valve structure and function.
+- **A357 — Pericardial-Disease Alchemy:** Study inflammatory, fluid-related, constrictive, and other pericardial disorders.
+- **A358 — Cardiac-Remodeling Alchemy:** Study changes in heart structure and function following pressure, volume, ischemic, inflammatory, or other stresses.
+- **A359 — Cardiac-Repair and Regeneration Research Alchemy:** Study repair, remodeling, and regenerative research while distinguishing experimental findings from established clinical capability.
+- **A360 — Anti-Cardiac-Harm Alchemy:** Prevent avoidable progression and complications through evidence-based risk reduction, timely assessment, and appropriate care pathways.
+
+### Zodiac IX — Sagittarius: Adaptation, learning, and capacity
+- **A361 — Cardiac-Training Adaptation Alchemy:** Study cardiac and vascular adaptations to repeated physical activity.
+- **A362 — Cardiac-Recovery Alchemy:** Study recovery after exertion, illness, injury, and cardiac procedures.
+- **A363 — Cardiac-Rehabilitation Alchemy:** Classify structured, individualized rehabilitation and secondary-prevention approaches.
+- **A364 — Cardiac-Development Alchemy:** Study changes in cardiac structure and function through growth and maturation.
+- **A365 — Cardiac-Environmental Adaptation Alchemy:** Study responses to altitude, heat, cold, air quality, and other environmental exposures.
+- **A366 — Cardiac-Acclimatization Alchemy:** Study gradual cardiovascular adjustment to environmental change and the limits of adaptation.
+- **A367 — Cardiac-Resilience Alchemy:** Study capacity to maintain or regain function under stress without implying invulnerability.
+- **A368 — Cardiac-Learning Alchemy:** Study how education and self-management knowledge support informed participation in cardiovascular care.
+- **A369 — Cardiac-Assistive Technology Alchemy:** Study pacemakers, defibrillators, monitoring devices, and other technologies that support cardiac function or safety.
+- **A370 — Anti-Unsafe-Adaptation Alchemy:** Prevent unmonitored exertion, dangerous exposure, unsupported supplements or interventions, and unsafe attempts to alter cardiac performance.
+
+### Zodiac X — Capricorn: Maintenance, prevention, and stewardship
+- **A371 — Cardiovascular-Health Maintenance Alchemy:** Classify sustainable, evidence-informed practices that support cardiovascular health.
+- **A372 — Blood-Pressure Stewardship Alchemy:** Study accurate measurement, longitudinal monitoring, and appropriate interpretation of blood pressure.
+- **A373 — Lipid-Health Alchemy:** Study blood lipids, atherosclerotic risk, and evidence-based risk management.
+- **A374 — Tobacco- and Nicotine-Risk Prevention Alchemy:** Study cardiovascular harms associated with tobacco and nicotine exposure and prevention strategies.
+- **A375 — Diabetes-Cardiovascular Integration Alchemy:** Study relationships between diabetes, vascular health, and cardiac risk.
+- **A376 — Nutrition-and-Heart Alchemy:** Study dietary patterns and cardiovascular evidence while avoiding universal or unsupported prescriptions.
+- **A377 — Sleep-and-Heart Alchemy:** Study associations and mechanisms linking sleep, circadian regulation, and cardiovascular health.
+- **A378 — Stress-and-Heart Alchemy:** Study physiological stress pathways and cardiovascular effects without reducing cardiac disease to emotion alone.
+- **A379 — Cardiac-Care-Continuity Alchemy:** Support reliable follow-up, medication reconciliation, care transitions, and communication.
+- **A380 — Anti-Preventable-Cardiac-Event Alchemy:** Reduce preventable cardiovascular events through evidence-based prevention, access to care, and recognition of urgent warning signs.
+
+### Zodiac XI — Aquarius: Networks, technology, and collective intelligence
+- **A381 — Cardiovascular-Systems Modeling Alchemy:** Model heart-vessel interactions, feedback loops, and system-level behavior.
+- **A382 — Cardiac-Bioengineering Alchemy:** Study engineered approaches to cardiac measurement, support, repair, and modeling.
+- **A383 — Cardiac-Device Safety Alchemy:** Study reliability, testing, cybersecurity, usability, and failure modes of cardiac devices.
+- **A384 — Cardiac-Data Interoperability Alchemy:** Support accurate exchange of cardiac information across systems while preserving meaning, provenance, and privacy.
+- **A385 — Wearable-Cardiac Monitoring Alchemy:** Study wearable measurements and clearly state what consumer devices can and cannot establish.
+- **A386 — Artificial-Intelligence Cardiology Alchemy:** Evaluate computational systems for cardiac tasks for validation, bias, explainability, oversight, and clinical limitations.
+- **A387 — Cardiac-Telehealth Alchemy:** Study remote cardiovascular support, monitoring, access, and limitations.
+- **A388 — Cardiac-Research Collaboration Alchemy:** Coordinate reproducible, ethically governed research across disciplines and institutions.
+- **A389 — Cardiovascular-Population Alchemy:** Study population-level cardiovascular patterns, determinants, prevention, and disparities.
+- **A390 — Anti-Cardiac-Surveillance Abuse Alchemy:** Prevent unauthorized monitoring, coercive use, discriminatory inference, and exploitation of heart-rate or other cardiac data.
+
+### Zodiac XII — Pisces: Restoration, continuity, and dignity
+- **A391 — Post-Event Cardiac Restoration Alchemy:** Study recovery and long-term support after cardiac events or procedures.
+- **A392 — Post-Procedure Cardiac Recovery Alchemy:** Study healing, monitoring, rehabilitation, and follow-up after cardiac interventions.
+- **A393 — Heart-Failure Support Alchemy:** Organize evidence-based long-term support, symptom awareness, and care continuity for people living with heart failure.
+- **A394 — Cardiac-Symptom Quality-of-Life Alchemy:** Study symptom burden, daily function, participation, and individual goals.
+- **A395 — Cardiac-Palliative Alchemy:** Study relief of suffering and quality-of-life support in advanced cardiovascular illness.
+- **A396 — Cardiac-End-of-Life Dignity Alchemy:** Protect informed preferences, comfort, privacy, and dignity in serious or end-stage cardiac illness.
+- **A397 — Cardiac-Transplant Alchemy:** Study transplantation, donor systems, recipient care, immunological considerations, and long-term follow-up.
+- **A398 — Cardiac-Device-Lifecycle Alchemy:** Study implantation, maintenance, monitoring, replacement, and end-of-life management of cardiac devices.
+- **A399 — Cardiac-Knowledge Restoration Alchemy:** Preserve accurate records, patient knowledge, research findings, and lessons learned while correcting errors.
+- **A400 — Anti-Recurrence and Continuity Alchemy:** Reduce avoidable recurrence and failures of follow-up without assigning blame to people affected by disease.
+
+## Heart Alchemy — Cross-stage prevention, protection, and correction
+- **A401 — Cardiac-Emergency Recognition Alchemy:** Improve recognition of potentially urgent cardiac warning signs and ensure that educational tools direct people to local emergency services rather than delaying care.
+- **A402 — Cardiac-Misinterpretation Prevention Alchemy:** Prevent self-diagnosis and treatment decisions based solely on isolated heart-rate, ECG, wearable, or blood-pressure readings.
+- **A403 — Cardiac-Medication Safety Alchemy:** Reduce medication errors, harmful interactions, and unsafe discontinuation through qualified review and reliable communication.
+- **A404 — Cardiac-Procedure Consent Alchemy:** Protect informed consent, clear communication of benefits and risks, and respect for patient preferences.
+- **A405 — Cardiac-Device Cybersecurity Alchemy:** Protect connected cardiac devices and associated systems against unauthorized access, unsafe modification, and data compromise.
+- **A406 — Cardiac-Data Privacy Alchemy:** Protect ECGs, imaging, genetic results, device telemetry, and cardiovascular records.
+- **A407 — Cardiac-Research Ethics Alchemy:** Ensure appropriate ethical review, participant protections, consent, transparency, and honest reporting.
+- **A408 — Cardiac-Equity Protection Alchemy:** Identify and reduce barriers to prevention, diagnosis, treatment, rehabilitation, and follow-up.
+- **A409 — Cardiac-Second-Review Alchemy:** Support appropriate independent review when findings are uncertain, high impact, or discordant.
+- **A410 — Cardiac-Clinical-Handoff Alchemy:** Reduce errors during transfers among emergency, inpatient, outpatient, rehabilitation, and home settings.
+- **A411 — Cardiac-Device Failure Prevention Alchemy:** Identify foreseeable device hazards, maintenance failures, alarms, and software or hardware faults.
+- **A412 — Cardiac-Measurement Calibration Alchemy:** Validate measurement devices, acquisition conditions, calibration, and known sources of error.
+- **A413 — Cardiac-Overtreatment Prevention Alchemy:** Reduce unnecessary interventions through evidence-based indications, shared decisions, and careful risk-benefit assessment.
+- **A414 — Cardiac-Undertreatment Prevention Alchemy:** Reduce missed opportunities for appropriate assessment and evidence-based care.
+- **A415 — Cardiac-Commercial-Conflict Protection Alchemy:** Disclose and manage conflicts of interest in devices, diagnostics, supplements, research, and treatment claims.
+- **A416 — Cardiac-Misinformation Defense Alchemy:** Detect false cures, fabricated studies, miracle claims, and misleading interpretations of cardiac science.
+- **A417 — Cardiac-Environmental Protection Alchemy:** Identify and reduce cardiovascular hazards associated with pollution, extreme heat, occupational exposure, and unsafe environments.
+- **A418 — Cardiac-Rehabilitation Access Alchemy:** Reduce barriers to safe, individualized rehabilitation and sustained follow-up.
+- **A419 — Cardiac-Incident Learning Alchemy:** Investigate adverse events and near misses, preserve evidence, and implement corrective action.
+- **A420 — Cardiac-Restoration Verification Alchemy:** Verify that recovery claims, device performance, care processes, and outcome measures are supported by appropriate evidence.
+
+## Heart Alchemy — Harm-pattern classifications for recognition and prevention only
+These are risks to recognize and prevent, not instructions or constructive Alchemies.
+- **BH001 — Cardiac-Misinformation Pattern:** False claims about heart function, diagnosis, prevention, or cures. Counter-Alchemies: A402, A416, A420.
+- **BH002 — Emergency-Delay Pattern:** Advice or system behavior that delays urgent assessment. Counter-Alchemies: A380, A401.
+- **BH003 — Wearable-Overclaim Pattern:** Treating consumer-device readings as definitive diagnoses. Counter-Alchemies: A338, A385, A402, A412.
+- **BH004 — Cardiac-Data-Exploitation Pattern:** Unauthorized use of ECG, heart-rate, genetic, or device data. Counter-Alchemies: A390, A405, A406.
+- **BH005 — Unsafe-Device-Modification Pattern:** Unauthorized or inadequately validated changes to cardiac devices or software. Counter-Alchemies: A383, A405, A411.
+- **BH006 — Medication-Manipulation Pattern:** Encouraging unsafe starting, stopping, or changing of cardiac medication. Counter-Alchemies: A403, A416.
+- **BH007 — Commercial-Cure-Deception Pattern:** Exploiting fear to sell unproven cardiac cures or products. Counter-Alchemies: A415, A416.
+- **BH008 — Cardiac-Discrimination Pattern:** Unequal care or unsupported assumptions based on age, sex, disability, identity, or social status. Counter-Alchemies: A349, A408.
+- **BH009 — Research-Coercion Pattern:** Exploiting people with cardiac conditions in research or data collection. Counter-Alchemies: A288, A404, A407.
+- **BH010 — Device-Surveillance Pattern:** Coercive or hidden monitoring through connected cardiac technologies. Counter-Alchemies: A390, A405, A406.
+- **BH011 — Unsafe-Performance-Enhancement Pattern:** Pressuring people to push cardiac limits or use unverified enhancement methods. Counter-Alchemies: A330, A370.
+- **BH012 — Care-Continuity-Failure Pattern:** Lost results, medication discrepancies, uncommunicated risks, or missed follow-up. Counter-Alchemies: A379, A410, A419.
+
+## Heart Alchemy record requirements
+Each Heart Alchemy record must additionally identify:
+- **Anatomical scope:** myocardium, endocardium, epicardium, pericardium, chambers, valves, septa, conduction system, coronary circulation, or connected cardiovascular structures.
+- **Physiological scope:** electrical activity, contraction, relaxation, pressure, flow, perfusion, oxygen delivery, or regulation.
+- **System interactions:** vascular, pulmonary, renal, neural, endocrine, metabolic, immune, and environmental relationships as applicable.
+- **Population and context:** developmental stage, age, pregnancy where relevant, congenital variation, comorbidities, disability, and population assumptions.
+- **Evidence type:** anatomical observation, physiological measurement, clinical study, guideline, systematic review, model, hypothesis, or metaphor.
+- **Measurement limits:** acquisition method, calibration, artifact, uncertainty, and limits of inference.
+- **Risk and urgency:** whether the subject is routine education, prevention, clinical assessment, or potentially time-critical; emergency warnings must not be buried.
+- **Consent and privacy:** especially for genetic information, ECG, imaging, implanted devices, and remote monitoring.
+- **Safety boundary:** no unsupervised medication, device, or treatment changes; clinical decisions require qualified care.
+
+## Initial Heart Alchemy cross-stage map
+- **Aries:** cardiac identity, formation, development, autonomy, and congenital variation.
+- **Taurus:** heart anatomy, myocardium, valves, septa, pericardium, and coronary vessels.
+- **Gemini:** conduction system, electrophysiology, rhythm, ECG, and neurocardiac signaling.
+- **Cancer:** cardiac cycle, hemodynamics, perfusion, inflammation, infection, and protection.
+- **Leo:** contraction, pumping, cardiac output, exercise response, and performance.
+- **Virgo:** imaging, biomarkers, testing, data quality, risk interpretation, and diagnostic error.
+- **Libra:** integration with vascular, pulmonary, renal, neural, endocrine, and metabolic systems.
+- **Scorpio:** ischemia, infarction, heart failure, cardiomyopathy, arrhythmia, and remodeling.
+- **Sagittarius:** adaptation, rehabilitation, recovery, environmental response, and learning.
+- **Capricorn:** prevention, risk-factor stewardship, maintenance, and continuity of care.
+- **Aquarius:** bioengineering, devices, monitoring, interoperability, AI, and population research.
+- **Pisces:** restoration, transplantation, palliative support, dignity, and continuity.
+
+## Taxonomy maintenance
+Heart Alchemy is a specialized child family of Body Alchemy. Its entries must retain stable identifiers and cross-reference relevant Body Alchemy entries rather than duplicate them. Heart Alchemy content must be synchronized across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App. The four files must have identical taxonomy content and identifiers. Implementation and private governance details remain edition-specific; C2O private-source material must not be disclosed in the shared taxonomy.
