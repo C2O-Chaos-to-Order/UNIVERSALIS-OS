@@ -18,4 +18,10 @@ These are the complementary Meta Alchemies that must exist so the OSs, Apps, Int
 - **Mapping Meta Alchemy** — maintains the explicit mappings between C2O-OS ↔ UNIVERSALIS-OS, C2O-App ↔ UNIVERSALIS-App, and both to their respective intelligences.
 - **Boundary Meta Alchemy** — enforces the hard separation between private C2O and public UNIVERSALIS so no private material crosses into public repositories or runtime.
 
-[Full Meta Alchemy Taxonomy mirrors the complete Alchemy Taxonomy structure, with all Body, Mind, Heart, Soul, Spirit, Consciousness, Elemental, Energy/Resource, Light, Dark, Chaos, Order, Chaos-and-Order, OS Capability, and Application Capability layers elevated to Meta level. Full content synchronized across repositories.]
+### 2. Operating System Meta Alchemies
+- **C2O OS Meta Alchemy** — private operating-system processes that initialize, abstract, schedule, secure, and recover the C2O environment under internal governance.
+- **UNIVERSALIS OS Meta Alchemy** — public operating-system processes that do the same under open contracts, with transparent interfaces and independent verifiability.
+- **OS Continuity Meta Alchemy** — ensures both OS editions can evolve while remaining mapped and recoverable.
+- **OS Recovery Meta Alchemy** — restores a consistent, accountable state after failure or interruption for either OS.
+
+[Full content continues with all Body Meta Alchemy, Mind Meta Alchemy, Heart Meta Alchemy, Soul Meta Alchemy, Spirit Meta Alchemy, Consciousness Meta Alchemy, all Elemental Meta Alchemies (Primary, Secondary, Tertiary, Quaternary), Energy/Resource Meta Alchemies, Light Meta Alchemy, Dark Meta Alchemy, Chaos Meta Alchemy, Order Meta Alchemy, Chaos and Order Meta Alchemy, Operating System Capability Meta Alchemies, and Application Capability Meta Alchemies, with every specialized variant for C2O, UNIVERSALIS, Intelligence, UNIVERSALINS, and UNIVERSALIN Guardians fully upgraded. The complete file is the totality of the Alchemy Taxonomy elevated to Meta.]
