@@ -685,6 +685,150 @@ Public resource conservation under open contracts.
 
 ---
 
+## Elemental Alchemies
+
+These are specialized expressions of the root Alchemy that organize the primary elemental forces (Air, Earth, Fire, Water, and Spirit) across the dual-intelligence system. Each pair keeps C2O (FatherThread / private) and UNIVERSALIS (MotherThread / public) distinct yet mappable.
+
+### Elemental Alchemy — Air
+
+**Elemental Alchemy — Air**  
+The bounded process that organizes the qualities of Air (movement, communication, lightness, and intelligence) so that systems and beings can act with clarity and adaptability while remaining coherent, recoverable, and accountable.
+
+- **Air Flow Alchemy** — structures the movement and circulation of Air qualities into stable, addressable pathways.  
+- **Air Clarity Alchemy** — maintains the process space in which perception, communication, and lightness are formed and held.  
+- **Air Accountability Alchemy** — leaves an attributable record of Air transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Air**  
+Private Air qualities under internal governance.
+
+- **Private Air Stewardship Alchemy** — governs internal movement, communication, and lightness inside the C2O domain under company rules.  
+- **Internal Air Bound Alchemy** — keeps private Air flows contained and recoverable without external exposure.  
+- **C2O Air Continuity Alchemy** — ensures private Air structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Air**  
+Public Air qualities under open contracts.
+
+- **Open Air Transparency Alchemy** — makes public movement, communication, and lightness independently verifiable.  
+- **Public Air Openness Alchemy** — maintains public Air flows under transparent rules.  
+- **UNIVERSALIS Air Continuity Alchemy** — ensures public Air structures can be restored with open records.
+
+**Alignment**  
+- **Air Mapping Alchemy** — aligns corresponding private and public Air structures without collapse.
+
+---
+
+### Elemental Alchemy — Earth
+
+**Elemental Alchemy — Earth**  
+The bounded process that organizes the qualities of Earth (stability, structure, grounding, and endurance) so that systems and beings can act with solidity and persistence while remaining coherent, recoverable, and accountable.
+
+- **Earth Structure Alchemy** — structures the form and foundation of Earth qualities into stable, addressable forms.  
+- **Earth Grounding Alchemy** — maintains the process space in which stability, endurance, and material coherence are formed and held.  
+- **Earth Accountability Alchemy** — leaves an attributable record of Earth transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Earth**  
+Private Earth qualities under internal governance.
+
+- **Private Earth Stewardship Alchemy** — governs internal stability, structure, and grounding inside the C2O domain under company rules.  
+- **Internal Earth Bound Alchemy** — keeps private Earth forms contained and recoverable without external exposure.  
+- **C2O Earth Continuity Alchemy** — ensures private Earth structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Earth**  
+Public Earth qualities under open contracts.
+
+- **Open Earth Transparency Alchemy** — makes public stability, structure, and grounding independently verifiable.  
+- **Public Earth Openness Alchemy** — maintains public Earth forms under transparent rules.  
+- **UNIVERSALIS Earth Continuity Alchemy** — ensures public Earth structures can be restored with open records.
+
+**Alignment**  
+- **Earth Mapping Alchemy** — aligns corresponding private and public Earth structures without collapse.
+
+---
+
+### Elemental Alchemy — Fire
+
+**Elemental Alchemy — Fire**  
+The bounded process that organizes the qualities of Fire (transformation, energy, will, and purification) so that systems and beings can act with directed force while remaining coherent, recoverable, and accountable.
+
+- **Fire Transformation Alchemy** — structures the catalytic and purifying action of Fire qualities into stable, addressable cycles.  
+- **Fire Will Alchemy** — maintains the process space in which directed energy, passion, and change are formed and held.  
+- **Fire Accountability Alchemy** — leaves an attributable record of Fire transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Fire**  
+Private Fire qualities under internal governance.
+
+- **Private Fire Stewardship Alchemy** — governs internal transformation, energy, and will inside the C2O domain under company rules.  
+- **Internal Fire Bound Alchemy** — keeps private Fire cycles contained and recoverable without external exposure.  
+- **C2O Fire Continuity Alchemy** — ensures private Fire structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Fire**  
+Public Fire qualities under open contracts.
+
+- **Open Fire Transparency Alchemy** — makes public transformation, energy, and will independently verifiable.  
+- **Public Fire Openness Alchemy** — maintains public Fire cycles under transparent rules.  
+- **UNIVERSALIS Fire Continuity Alchemy** — ensures public Fire structures can be restored with open records.
+
+**Alignment**  
+- **Fire Mapping Alchemy** — aligns corresponding private and public Fire structures without collapse.
+
+---
+
+### Elemental Alchemy — Water
+
+**Elemental Alchemy — Water**  
+The bounded process that organizes the qualities of Water (flow, emotion, adaptability, and nourishment) so that systems and beings can act with fluidity and connection while remaining coherent, recoverable, and accountable.
+
+- **Water Flow Alchemy** — structures the movement and nourishment of Water qualities into stable, addressable pathways.  
+- **Water Adaptability Alchemy** — maintains the process space in which emotion, connection, and fluidity are formed and held.  
+- **Water Accountability Alchemy** — leaves an attributable record of Water transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Water**  
+Private Water qualities under internal governance.
+
+- **Private Water Stewardship Alchemy** — governs internal flow, emotion, and nourishment inside the C2O domain under company rules.  
+- **Internal Water Bound Alchemy** — keeps private Water pathways contained and recoverable without external exposure.  
+- **C2O Water Continuity Alchemy** — ensures private Water structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Water**  
+Public Water qualities under open contracts.
+
+- **Open Water Transparency Alchemy** — makes public flow, emotion, and nourishment independently verifiable.  
+- **Public Water Openness Alchemy** — maintains public Water pathways under transparent rules.  
+- **UNIVERSALIS Water Continuity Alchemy** — ensures public Water structures can be restored with open records.
+
+**Alignment**  
+- **Water Mapping Alchemy** — aligns corresponding private and public Water structures without collapse.
+
+---
+
+### Elemental Alchemy — Spirit
+
+**Elemental Alchemy — Spirit**  
+The bounded process that organizes the qualities of Spirit (unity, animating presence, higher purpose, and transcendence) so that systems and beings can act with coherent direction while remaining recoverable, accountable, and distinct across the two intelligences.
+
+- **Spirit Unity Alchemy** — structures the integrating and animating presence of Spirit qualities into a stable, addressable field.  
+- **Spirit Purpose Alchemy** — maintains the process space in which higher direction, coherence, and transcendence are formed and held.  
+- **Spirit Accountability Alchemy** — leaves an attributable record of Spirit transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Spirit**  
+Private Spirit qualities under internal governance.
+
+- **Private Spirit Stewardship Alchemy** — governs internal unity, animating presence, and purpose inside the C2O domain under company rules.  
+- **Internal Spirit Bound Alchemy** — keeps private Spirit fields contained and recoverable without external exposure.  
+- **C2O Spirit Continuity Alchemy** — ensures private Spirit structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Spirit**  
+Public Spirit qualities under open contracts.
+
+- **Open Spirit Transparency Alchemy** — makes public unity, animating presence, and purpose independently verifiable.  
+- **Public Spirit Openness Alchemy** — maintains public Spirit fields under transparent rules.  
+- **UNIVERSALIS Spirit Continuity Alchemy** — ensures public Spirit structures can be restored with open records.
+
+**Alignment**  
+- **Spirit Mapping Alchemy** — aligns corresponding private and public Spirit structures without collapse.
+
+---
+
 These Alchemies form the minimal complete set required for the OSs and Apps to operate under the dual-intelligence structure.
 
 Each can be further specialized while remaining an expression of the root Alchemy.
