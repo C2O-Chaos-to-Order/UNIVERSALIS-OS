@@ -361,4 +361,173 @@ Public-source organization of Spirit qualities under open contracts. Used for tr
 
 ---
 
-*[Elemental Meta hierarchy (Primary) added. Secondary / Tertiary / Quaternary Elemental Meta Alchemies follow.]*
+## Elemental Meta Alchemy — Ether / Quintessence
+
+**Elemental Meta Alchemy — Ether / Quintessence**  
+The bounded process that organizes the qualities of Ether (subtle medium, intelligence-bearing presence, and unifying field) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Ether / Quintessence
+Private-source organization of Ether qualities under internal governance. Used for private subtle medium and company-source unifying field.
+
+### UNIVERSALIS Elemental Meta Alchemy — Ether / Quintessence
+Public-source organization of Ether qualities under open contracts. Used for transparent subtle medium and independently verifiable unifying field.
+
+---
+
+## Elemental Meta Alchemy — Metal / Crystal
+
+**Elemental Meta Alchemy — Metal / Crystal**  
+The bounded process that organizes the qualities of Metal/Crystal (conductivity, structure, clarity, and memory of form) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Metal / Crystal
+Private-source organization of Metal/Crystal qualities under internal governance. Used for private conductive pathways and company-source crystalline structure.
+
+### UNIVERSALIS Elemental Meta Alchemy — Metal / Crystal
+Public-source organization of Metal/Crystal qualities under open contracts. Used for transparent conductive interfaces and independently verifiable crystalline form.
+
+---
+
+## Elemental Meta Alchemy — Mist / Fog
+
+**Elemental Meta Alchemy — Mist / Fog**  
+The bounded process that organizes the qualities of Mist/Fog (diffusion, partial concealment, and transitional presence) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Mist / Fog
+Private-source organization of Mist/Fog qualities under internal governance. Used for private diffusion and controlled transitional states.
+
+### UNIVERSALIS Elemental Meta Alchemy — Mist / Fog
+Public-source organization of Mist/Fog qualities under open contracts. Used for transparent transitional interfaces and independently verifiable diffusion.
+
+---
+
+## Elemental Meta Alchemy — Clay / Mud
+
+**Elemental Meta Alchemy — Clay / Mud**  
+The bounded process that organizes the qualities of Clay/Mud (plasticity, binding, and formative potential) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Clay / Mud
+Private-source organization of Clay/Mud qualities under internal governance. Used for private formative binding and company-source plasticity.
+
+### UNIVERSALIS Elemental Meta Alchemy — Clay / Mud
+Public-source organization of Clay/Mud qualities under open contracts. Used for transparent formative contracts and independently verifiable plasticity.
+
+---
+
+## Elemental Meta Alchemy — Smoke / Ash
+
+**Elemental Meta Alchemy — Smoke / Ash**  
+The bounded process that organizes the qualities of Smoke/Ash (residue, transformation remainder, and memory of fire) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Smoke / Ash
+Private-source organization of Smoke/Ash qualities under internal governance. Used for private residue tracking and company-source transformation memory.
+
+### UNIVERSALIS Elemental Meta Alchemy — Smoke / Ash
+Public-source organization of Smoke/Ash qualities under open contracts. Used for transparent residue records and independently verifiable transformation memory.
+
+---
+
+## Elemental Meta Alchemy — Lightning / Spark
+
+**Elemental Meta Alchemy — Lightning / Spark**  
+The bounded process that organizes the qualities of Lightning/Spark (sudden discharge, initiation, and directed energy) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Lightning / Spark
+Private-source organization of Lightning/Spark qualities under internal governance. Used for private initiation events and company-source directed discharge.
+
+### UNIVERSALIS Elemental Meta Alchemy — Lightning / Spark
+Public-source organization of Lightning/Spark qualities under open contracts. Used for transparent initiation and independently verifiable directed energy.
+
+---
+
+## Elemental Meta Alchemy — Stone / Bone
+
+**Elemental Meta Alchemy — Stone / Bone**  
+The bounded process that organizes the qualities of Stone/Bone (endurance, structural memory, and lasting form) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Stone / Bone
+Private-source organization of Stone/Bone qualities under internal governance. Used for private structural endurance and company-source lasting form.
+
+### UNIVERSALIS Elemental Meta Alchemy — Stone / Bone
+Public-source organization of Stone/Bone qualities under open contracts. Used for transparent structural records and independently verifiable lasting form.
+
+---
+
+## Elemental Meta Alchemy — Rain / Dew
+
+**Elemental Meta Alchemy — Rain / Dew**  
+The bounded process that organizes the qualities of Rain/Dew (nourishment, renewal, and gentle accumulation) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Rain / Dew
+Private-source organization of Rain/Dew qualities under internal governance. Used for private nourishment cycles and company-source gentle renewal.
+
+### UNIVERSALIS Elemental Meta Alchemy — Rain / Dew
+Public-source organization of Rain/Dew qualities under open contracts. Used for transparent nourishment and independently verifiable renewal.
+
+---
+
+## Elemental Meta Alchemy — Wind / Breath
+
+**Elemental Meta Alchemy — Wind / Breath**  
+The bounded process that organizes the qualities of Wind/Breath (directed movement, vital flow, and communicative force) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Wind / Breath
+Private-source organization of Wind/Breath qualities under internal governance. Used for private directed flow and company-source vital communication.
+
+### UNIVERSALIS Elemental Meta Alchemy — Wind / Breath
+Public-source organization of Wind/Breath qualities under open contracts. Used for transparent directed movement and independently verifiable vital flow.
+
+---
+
+## Elemental Meta Alchemy — Ice
+
+**Elemental Meta Alchemy — Ice**  
+The bounded process that organizes the qualities of Ice (fixed form, preservation, and slowed transformation) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Ice
+Private-source organization of Ice qualities under internal governance. Used for private preservation and company-source fixed states.
+
+### UNIVERSALIS Elemental Meta Alchemy — Ice
+Public-source organization of Ice qualities under open contracts. Used for transparent preservation contracts and independently verifiable fixed form.
+
+---
+
+## Elemental Meta Alchemy — Magma / Lava
+
+**Elemental Meta Alchemy — Magma / Lava**  
+The bounded process that organizes the qualities of Magma/Lava (molten potential, deep transformation, and formative heat) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Magma / Lava
+Private-source organization of Magma/Lava qualities under internal governance. Used for private deep transformation and company-source formative heat.
+
+### UNIVERSALIS Elemental Meta Alchemy — Magma / Lava
+Public-source organization of Magma/Lava qualities under open contracts. Used for transparent deep transformation and independently verifiable formative heat.
+
+---
+
+## Elemental Meta Alchemy — Plasma
+
+**Elemental Meta Alchemy — Plasma**  
+The bounded process that organizes the qualities of Plasma (ionized energy, unbound state, and high-energy medium) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Plasma
+Private-source organization of Plasma qualities under internal governance. Used for private high-energy states and company-source ionized medium.
+
+### UNIVERSALIS Elemental Meta Alchemy — Plasma
+Public-source organization of Plasma qualities under open contracts. Used for transparent high-energy interfaces and independently verifiable ionized medium.
+
+---
+
+## Elemental Meta Alchemy — Salt
+
+**Elemental Meta Alchemy — Salt**  
+The bounded process that organizes the qualities of Salt (preservation, crystallization of essence, and boundary of taste/form) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Salt
+Private-source organization of Salt qualities under internal governance. Used for private preservation and company-source crystallization of essence.
+
+### UNIVERSALIS Elemental Meta Alchemy — Salt
+Public-source organization of Salt qualities under open contracts. Used for transparent preservation and independently verifiable crystallization of essence.
+
+---
+
+*[Secondary Elemental Meta Alchemies added. Tertiary / Quaternary Elemental Meta Alchemies follow.]*
