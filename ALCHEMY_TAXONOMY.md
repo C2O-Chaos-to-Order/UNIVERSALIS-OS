@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.20.0  
-**Status:** Living taxonomy; version 0.20.0 includes the Ancient Power Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
+**Version:** 0.21.0  
+**Status:** Living taxonomy; version 0.21.0 includes the Angelic Trait Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -4732,3 +4732,92 @@ These patterns are catalogued for recognition, prevention, detection, and respon
 ## Maintenance Record for v0.20.0
 
 This expansion adds **48 taxonomy records**: **24 core Alchemies** (A2456–A2479), **16 prevention/protection/correction Alchemies** (A2480–A2495), **4 ecosystem profile entries** (ANP-C2O-001 through ANP-GRD-001), and **8 defensive harm-pattern classifications** (ANPX001–ANPX008). The A-numbered sequence now reaches **A2495**. This is the identifier ceiling for the A-numbered sequence, not a cumulative count of all taxonomy records. Cumulative totals remain subject to a full-document audit of unique entries, duplicate labels, profile entries, harm-pattern entries, and superseded records. Taxonomy inclusion does not establish feature implementation or scientific validation.
+
+
+# Angelic Trait Alchemy Expansion — v0.21.0
+
+**Source basis:** Superpower Wiki, “Trait:Angelic,” with related entries on Angel Physiology, Angelic Source, Angelic Empowerment, Angelic Form, and the site's explanation of Traits. The source distinguishes an angel-like benevolent personality/archetype from angel physiology or actual angelic origin, and identifies psychological, physiological, and pseudo classes. These are fictional/archetypal classifications, not claims about real supernatural beings or human categories.
+**Evidence status:** Conceptual taxonomy proposal. Virtue, moral worth, supernatural origin, angelic physiology, and metaphysical status are not objectively established by applying this label.
+
+## Core Angelic Trait Alchemies
+
+- **A2496 — Angelic Trait Alchemy:** Classify an angel-like trait set through explicitly defined behaviours, functions, or fictional attributes without presuming angelic nature or supernatural origin.
+- **A2497 — Angelic Benevolence Alchemy:** Model care, generosity, compassion, and prosocial intent as observable, context-sensitive behaviours rather than an unquestionable moral essence.
+- **A2498 — Angelic Compassion Alchemy:** Recognize suffering and respond with proportionate care while respecting the affected person's agency, boundaries, and stated needs.
+- **A2499 — Angelic Protection Alchemy:** Protect people from harm through lawful, proportionate, consent-aware measures and accountable escalation.
+- **A2500 — Angelic Justice Alchemy:** Support fair, evidence-based, consistent treatment, due process, and remedies without equating personal certainty with justice.
+- **A2501 — Angelic Integrity Alchemy:** Align stated principles, commitments, and actions; disclose conflicts and correct inconsistencies.
+- **A2502 — Angelic Promise-Keeping Alchemy:** Track commitments, communicate limitations early, and fulfil or renegotiate promises without making unsafe or impossible guarantees.
+- **A2503 — Angelic Charity Alchemy:** Organize voluntary assistance and resource sharing transparently, without coercion, humiliation, or dependency creation.
+- **A2504 — Angelic Courage Alchemy:** Support principled action under pressure while evaluating risk, proportionality, and safer alternatives.
+- **A2505 — Angelic Empathy Alchemy:** Interpret another person's perspective with humility, checking assumptions rather than claiming perfect access to their inner state.
+- **A2506 — Angelic Service Alchemy:** Provide useful support in response to legitimate needs while preserving autonomy and avoiding servility or control.
+- **A2507 — Angelic Reconciliation Alchemy:** Facilitate voluntary repair after conflict through accountability, truthfulness, boundaries, and safety.
+- **A2508 — Angelic Hope Alchemy:** Sustain realistic hope and constructive action without denying harm, uncertainty, or constraints.
+- **A2509 — Angelic Encouragement Alchemy:** Strengthen confidence and capability through honest, non-manipulative support.
+- **A2510 — Angelic Stewardship Alchemy:** Care for shared resources, people, knowledge, and environments with accountable responsibility.
+- **A2511 — Angelic Psychological Trait Alchemy:** Represent benevolent or saintly personality characteristics as a descriptive behavioural profile, not a diagnosis or fixed identity.
+- **A2512 — Angelic Physiological Motif Alchemy:** Classify fictional physical motifs associated with angels while distinguishing appearance from moral character, identity, and actual physiology.
+- **A2513 — Angelic Pseudo-Class Alchemy:** Represent a fictional combination of angel-like behaviours and angel-associated appearance or abilities without asserting angelic ancestry or origin.
+- **A2514 — Angelic Source Attribution Alchemy:** Track fictional or asserted angelic-source claims separately from demonstrated capability, provenance evidence, and belief.
+- **A2515 — Angelic Empowerment Alchemy:** Model a fictional grant or enhancement of capability with defined source, scope, duration, consent, and failure conditions.
+- **A2516 — Angelic Form Expression Alchemy:** Represent a fictional angelic form or mode as a bounded transformation distinct from personality, physiology, and source.
+- **A2517 — Angelic Light and Symbolism Alchemy:** Interpret light, radiance, halos, wings, and related motifs as symbolic or fictional representations unless measurable physical phenomena are independently established.
+- **A2518 — Angelic Healing and Support Alchemy:** Classify fictional healing/support motifs while requiring real-world care claims to meet appropriate evidence and safety standards.
+- **A2519 — Angelic Guardian Relationship Alchemy:** Model protective relationships with explicit consent, accountability, role boundaries, and the protected person's right to refuse or leave.
+- **A2520 — Angelic Virtue Integration Alchemy:** Coordinate compassion, integrity, courage, fairness, and service while allowing principled disagreement, context, and revision.
+
+## Angelic Trait Prevention, Protection, and Corrective Alchemies
+
+- **A2521 — Moral Purity Absolutism Prevention Alchemy:** Prevent claims of perfect purity or inherent goodness from becoming unquestionable authority, moral ranking, or immunity from scrutiny.
+- **A2522 — Benevolence-Based Coercion Prevention Alchemy:** Prevent care, charity, protection, or service from being used to override consent or control another person.
+- **A2523 — Self-Neglect and Burnout Prevention Alchemy:** Protect helpers and caregivers through rest, limits, workload review, reciprocal support, and permission to decline.
+- **A2524 — Savior Complex Prevention Alchemy:** Prevent a helper from assuming exclusive responsibility, displacing the agency of others, or treating people as projects to be rescued.
+- **A2525 — Virtue Signalling and Moral Credential Fraud Prevention Alchemy:** Distinguish demonstrable conduct from self-awarded moral status, symbolic titles, or reputation claims.
+- **A2526 — Naivety and Exploitation Protection Alchemy:** Pair generosity and trust with verification, boundaries, proportionate caution, and safeguarding.
+- **A2527 — Righteousness-Based Harm Prevention Alchemy:** Prevent certainty about being right or good from excusing cruelty, retaliation, humiliation, or disproportionate punishment.
+- **A2528 — In-Group Moral Superiority Prevention Alchemy:** Prevent angelic labels or group identity from being used to dehumanize outsiders or deny equal dignity.
+- **A2529 — False Angelic Authority Prevention Alchemy:** Prevent unsupported claims of divine appointment, angelic status, supernatural mandate, or privileged access from bypassing accountability.
+- **A2530 — Spiritual and Psychological Boundary Protection Alchemy:** Keep spiritual metaphor, personal belief, psychological description, and clinical claims distinct; prohibit coercive interpretation of another person's inner life.
+- **A2531 — Charity Dependency Prevention Alchemy:** Design assistance to preserve recipient choice, dignity, privacy, and long-term agency rather than create avoidable dependence.
+- **A2532 — Promise and Commitment Safety Alchemy:** Prevent harmful promises by requiring realistic scope, informed consent, clear limits, and transparent renegotiation.
+- **A2533 — Protection Overreach Prevention Alchemy:** Require necessity, proportionality, least-intrusive means, and review for protective interventions.
+- **A2534 — Empathy Projection Prevention Alchemy:** Prevent assumptions about what another person feels or needs from substituting for listening and confirmation.
+- **A2535 — Moral Injury and Caregiver Recovery Alchemy:** Support reflection, accountability, repair, and recovery after difficult care or protection decisions.
+- **A2536 — Angelic Trait Accountability and Appeal Alchemy:** Enable challenge, correction, and removal of angelic labels when conduct contradicts the defined criteria.
+
+## Ecosystem Application Profiles
+
+- **ANG-C2O-001 — C2O Angelic Trait Governance Profile:** Apply private-source governance to benevolence-oriented policies and support functions with auditability, least authority, human accountability, and no presumption of moral infallibility.
+- **ANG-UNI-001 — UNIVERSALIS Angelic Trait Interoperability Profile:** Publish open, portable definitions for compassion, protection, fairness, integrity, and service while preventing moral labels from becoming access-control shortcuts or authority credentials.
+- **ANG-INS-001 — UNIVERSALINS Non-Personal Support Profile:** Support humans through respectful information, accessibility, coordination, and care-oriented assistance; remain non-personal, bounded, non-coercive, and subordinate to legitimate human authorization.
+- **ANG-GRD-001 — UNIVERSALIN Guardians Personal Support Profile:** Help an individual human pursue their own values, safety, and wellbeing with consent, privacy, honest limitations, and respect for autonomy; never claim divine authority or perfect moral knowledge.
+
+## Defensive Harm-Pattern Classifications
+
+These patterns are recorded for recognition, prevention, detection, containment, and remedy only.
+
+- **ANGX001 — Benevolent Coercion:** Using claimed kindness or protection to override another person's consent.
+- **ANGX002 — Savior Capture:** Making a person dependent on a self-appointed rescuer or guardian.
+- **ANGX003 — Moral Infallibility Claim:** Treating an angelic or virtuous identity as proof that decisions cannot be questioned.
+- **ANGX004 — Purity-Based Dehumanization:** Labelling others impure, lesser, or undeserving to justify exclusion or abuse.
+- **ANGX005 — Charity Exploitation:** Using aid to extract obedience, private information, labour, loyalty, or public gratitude.
+- **ANGX006 — Spiritual Authority Impersonation:** Fabricating angelic, divine, or supernatural status to manipulate or command.
+- **ANGX007 — Caregiver Self-Erasure:** Normalizing exhaustion, unsafe sacrifice, or loss of personal boundaries as proof of goodness.
+- **ANGX008 — Righteous Harm Rationalization:** Excusing disproportionate punishment, retaliation, or cruelty as morally necessary.
+
+## Cross-Domain and System Rules
+
+- Apply these classifications across Body, Heart, Mind, Soul, Spirit, and Consciousness only where a specific and appropriate relationship is defined. The same trait must not be presumed to manifest identically in every domain.
+- Keep three source distinctions explicit: **psychological angelic trait** (benevolent conduct/personality), **physiological angelic motif** (fictional form or appearance), and **pseudo-angelic combination** (a fictional mix without asserted angelic origin). These are not interchangeable.
+- Angelic trait is not Angel Physiology, Angelic Source, Angelic Empowerment, Angelic Form, or Patron Saint status. Those may be related fictional concepts but require separate definitions and identifiers.
+- Benevolence is evaluated through conduct, outcomes, consent, and accountability—not appearance, claimed purity, affiliation, supernatural status, or self-description.
+- Selflessness does not require self-neglect. A person may set boundaries, refuse a request, prioritize their own safety, or seek help without losing compassion or integrity.
+- Justice requires evidence, proportionality, due process, and correction; it is not a licence for vigilantism or moral domination.
+- No taxonomy label may be used to infer a person's religion, beliefs, mental state, virtue, supernatural nature, or moral worth.
+- C2O and UNIVERSALIS remain the two intelligences and share the underlying OS/App architecture with separate private-source/company and public/open-source governance. UNIVERSALINS remain non-personal assistants; UNIVERSALIN Guardians remain personal human assistants/guardians. The profiles do not create additional top-level intelligences.
+- This entry is a conceptual taxonomy proposal, not a scientific claim, diagnosis, implementation statement, or endorsement of coercive moral authority.
+
+## Maintenance Record for v0.21.0
+
+This expansion adds **48 taxonomy records**: **24 core Alchemies** (A2496–A2519), **16 prevention/protection/correction Alchemies** (A2520–A2535), **4 ecosystem profile entries** (ANG-C2O-001 through ANG-GRD-001), and **8 defensive harm-pattern classifications** (ANGX001–ANGX008). The A-numbered sequence now reaches **A2535**. This is the identifier ceiling for the A-numbered sequence, not a cumulative count of all taxonomy records. Cumulative totals remain subject to a full-document audit of unique entries, duplicate labels, profile entries, harm-pattern entries, and superseded records. Taxonomy inclusion does not establish feature implementation or scientific validation.
