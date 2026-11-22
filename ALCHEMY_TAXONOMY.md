@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.7.0  
-**Status:** Living taxonomy; version 0.7.0 adds the Consciousness Alchemy family; expandable and subject to evidence-based review  
+**Version:** 0.8.0  
+**Status:** Living taxonomy; version 0.8.0 adds shared Operating System Alchemy with C2O and UNIVERSALIS edition profiles; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -1671,3 +1671,311 @@ The following sources inform the domain boundaries and research-literacy require
 
 ## Taxonomy maintenance
 Consciousness Alchemy is a specialized family that cross-references Mind, Body, Heart, Soul, and Spirit Alchemy without collapsing their distinct meanings. It must retain stable identifiers and avoid duplicating existing entries. Definitions, identifiers, evidence labels, research boundaries, and safeguards must remain synchronized across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App. Edition-specific implementation may differ; private C2O policies, credentials, and confidential records must never be copied into the shared taxonomy.
+
+
+# Operating System Alchemy — Shared Architecture and Edition-Specific Domains
+**Originating Alchemies:** C2O Operating System Alchemy; UNIVERSALIS Operating System Alchemy  
+**Family version:** 0.1.0  
+**Zodiac stages:** All twelve.  
+**Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App only.  
+**Architecture rule:** C2O-OS and UNIVERSALIS-OS are the same underlying operating-system architecture expressed as two governance, source-visibility, and distribution editions. They are not unrelated operating systems and must not be designed as competing or mutually dependent technical foundations.
+
+## Definition and governing architecture
+**Operating System Alchemy** is the bounded set of processes and capabilities by which an operating system initializes, abstracts hardware, manages computation and resources, provides system interfaces, protects users and workloads, coordinates applications and services, maintains integrity, and recovers from failure.
+
+This expansion has three coordinated parts:
+1. **Shared Operating System Alchemy:** one common architecture and capability taxonomy. Its identifiers A981–A1100 apply to both editions unless a record explicitly states otherwise.
+2. **C2O Operating System Alchemy:** the private-source, company-governed edition profile. Its edition-specific identifiers begin C2OOS001.
+3. **UNIVERSALIS Operating System Alchemy:** the public, open-source edition profile. Its edition-specific identifiers begin UNIOS001.
+
+The two editions share architecture, core capability definitions, and public interface contracts where appropriate. They differ in source visibility, governance, release authority, policy confidentiality, and distribution. A shared capability does not imply identical internal implementation or identical policy.
+
+**C2O boundary:** C2O may retain private source, proprietary implementation, internal policies, private signing authority, confidential operational records, and company-controlled release processes. These remain under C2O's legitimate governance and must not be copied into public UNIVERSALIS artifacts without explicit authorization and review.
+
+**UNIVERSALIS boundary:** UNIVERSALIS must be independently inspectable, buildable, operable, and maintainable under its published open-source terms. It must not require C2O private services, credentials, approval, keys, unpublished code, or confidential policies for ordinary operation. C2O may contribute to or steward the project only through published governance and contribution boundaries.
+
+**Shared seam:** use documented contracts, interoperable formats, compatible interfaces, public threat classifications, signed enforcement receipts where appropriate, and verifiable artifact provenance. Do not share private keys, confidential policies, internal incident records, or privileged C2O operational data.
+
+## Shared Operating System Alchemy list
+The following 120 shared Alchemies are the common architecture taxonomy. Each applies to both editions at the capability-contract level; implementation details and governance may differ by edition.
+
+### Aries — Initiation, boot, and emergence
+- **A981 — Boot-and-Startup Alchemy:** Coordinate trusted startup from power-on through usable system state.
+- **A982 — Firmware-Initialization Alchemy:** Initialize firmware and hardware interfaces with authenticated, measured expectations.
+- **A983 — Hardware-Discovery Alchemy:** Discover processors, memory, storage, and peripherals without trusting unverified device claims.
+- **A984 — Boot-Chain-Verification Alchemy:** Verify boot components and signatures against authorized trust roots.
+- **A985 — Recovery-Boot Alchemy:** Provide a constrained recovery environment when ordinary startup fails or integrity is uncertain.
+- **A986 — Installation-and-Provisioning Alchemy:** Install and provision the operating system through repeatable, validated procedures.
+- **A987 — First-Run-Configuration Alchemy:** Establish initial configuration, identity boundaries, user choices, and secure defaults.
+- **A988 — Edition-Selection-and-Boundary Alchemy:** Select C2O or UNIVERSALIS edition while preserving shared architecture and distinct governance.
+- **A989 — Capability-Declaration Alchemy:** Declare supported hardware, interfaces, services, and limitations before enabling them.
+- **A990 — Safe-Startup-Failure Alchemy:** Fail safely, preserve diagnostic evidence, and avoid unsafe fallback when startup trust checks fail.
+### Taurus — Kernel, resources, and foundations
+- **A991 — Kernel-Architecture Alchemy:** Define shared kernel architecture, interfaces, privilege model, and extension boundaries.
+- **A992 — Process-and-Thread Alchemy:** Create, schedule, isolate, and terminate processes and threads with accountable resource ownership.
+- **A993 — Memory-Management Alchemy:** Allocate, map, protect, reclaim, and validate memory across system workloads.
+- **A994 — Virtual-Memory Alchemy:** Manage address spaces, paging, memory mapping, and isolation with explicit security invariants.
+- **A995 — Storage-Subsystem Alchemy:** Manage storage devices, volumes, filesystems, integrity, and lifecycle operations.
+- **A996 — Filesystem-Integrity Alchemy:** Preserve filesystem consistency, metadata integrity, permissions, and recoverability.
+- **A997 — Device-Driver Alchemy:** Provide controlled hardware drivers with least privilege, validation, and lifecycle governance.
+- **A998 — Power-and-Energy-Management Alchemy:** Coordinate power states, thermal limits, battery use, and energy efficiency.
+- **A999 — Hardware-Abstraction Alchemy:** Separate portable system contracts from hardware-specific implementation details.
+- **A1000 — Resource-Accounting Alchemy:** Measure and attribute CPU, memory, storage, network, and accelerator consumption.
+### Gemini — Interfaces, communication, and interoperability
+- **A1001 — System-Call-Contract Alchemy:** Define stable, documented, permission-checked interfaces between applications and the kernel.
+- **A1002 — Interprocess-Communication Alchemy:** Enable authenticated, bounded communication between processes and services.
+- **A1003 — Networking-Stack Alchemy:** Provide secure, interoperable network protocols, routing, filtering, and connection management.
+- **A1004 — Name-and-Service-Discovery Alchemy:** Resolve services and endpoints while preventing spoofing and unauthorized discovery.
+- **A1005 — Identity-and-Authentication Alchemy:** Authenticate users, devices, services, and workloads using explicit trust boundaries.
+- **A1006 — Authorization-and-Policy Alchemy:** Enforce least-privilege permissions with auditable decisions and revocation.
+- **A1007 — API-and-ABI-Compatibility Alchemy:** Maintain documented compatibility contracts and controlled deprecation.
+- **A1008 — Cross-Device-Interoperability Alchemy:** Coordinate devices across vendors and architectures through open, bounded contracts.
+- **A1009 — Localization-and-Accessibility Alchemy:** Support languages, assistive technologies, and accessible interaction across system surfaces.
+- **A1010 — Protocol-Translation Alchemy:** Translate supported protocols without silently weakening security or semantics.
+### Cancer — User protection, continuity, and care
+- **A1011 — User-Session-Continuity Alchemy:** Preserve sessions and user work through controlled transitions, locking, and recovery.
+- **A1012 — Account-and-Profile-Protection Alchemy:** Protect user profiles, credentials, settings, and personal data with clear ownership.
+- **A1013 — Privacy-by-Default Alchemy:** Minimize collection, exposure, retention, and secondary use of personal data.
+- **A1014 — Data-Backup-and-Restore Alchemy:** Create verified backups and restore data with integrity checks and user control.
+- **A1015 — Crash-Consistency Alchemy:** Preserve recoverable state across crashes, interrupted writes, and unexpected shutdowns.
+- **A1016 — Accessibility-Continuity Alchemy:** Keep assistive configurations and access paths available during updates and recovery.
+- **A1017 — Parental-and-Dependent-Safeguards Alchemy:** Support lawful, transparent, proportionate controls while respecting age, autonomy, and applicable rights.
+- **A1018 — Safety-Critical-Operation Alchemy:** Isolate safety-critical functions and define safe behavior under fault or uncertainty.
+- **A1019 — User-Consent-and-Transparency Alchemy:** Make consequential system actions understandable, reviewable, and consent-aware.
+- **A1020 — Anti-Lockout-and-Account-Recovery Alchemy:** Prevent avoidable loss of legitimate access while resisting account takeover and recovery abuse.
+### Leo — User experience, applications, and expression
+- **A1021 — Desktop-and-Shell Alchemy:** Provide the user-facing shell, navigation, workspace, and system controls.
+- **A1022 — Windowing-and-Compositor Alchemy:** Manage windows, rendering, compositing, and display resources predictably.
+- **A1023 — Application-Lifecycle Alchemy:** Install, launch, suspend, update, isolate, and remove applications consistently.
+- **A1024 — Application-Sandboxing Alchemy:** Constrain application access to files, devices, network, and privileged services.
+- **A1025 — Package-Management Alchemy:** Resolve, verify, install, update, and remove packages with provenance and rollback.
+- **A1026 — Notification-and-Event Alchemy:** Deliver relevant system events while limiting spoofing, overload, and sensitive leakage.
+- **A1027 — Human-System-Interaction Alchemy:** Make system behavior understandable, predictable, and controllable by its users.
+- **A1028 — Multimedia-and-Peripheral Alchemy:** Manage audio, video, cameras, input devices, and peripherals with permission boundaries.
+- **A1029 — Workspace-and-Workflow Alchemy:** Support user-configurable workflows without hidden privilege escalation or data loss.
+- **A1030 — System-Personalization Alchemy:** Allow reversible customization while preserving security, accessibility, and stable defaults.
+### Virgo — Verification, observability, and refinement
+- **A1031 — System-Testing Alchemy:** Test components and integrated system behavior across supported configurations.
+- **A1032 — Boot-and-Update-Verification Alchemy:** Verify boot artifacts, update packages, and installed state against declared expectations.
+- **A1033 — Telemetry-Minimization Alchemy:** Collect only justified operational telemetry with clear purpose, retention, and controls.
+- **A1034 — Logging-and-Audit Alchemy:** Create attributable, tamper-evident logs while protecting secrets and personal information.
+- **A1035 — Performance-Profiling Alchemy:** Measure latency, throughput, scheduling, memory, and energy under reproducible workloads.
+- **A1036 — Reliability-and-Fault-Injection Alchemy:** Evaluate resilience through controlled, authorized fault testing and documented recovery criteria.
+- **A1037 — Compatibility-Test Alchemy:** Test hardware, drivers, applications, protocols, and APIs across declared support matrices.
+- **A1038 — Configuration-Drift-Detection Alchemy:** Detect unintended divergence from approved configuration and explain remediation options.
+- **A1039 — Vulnerability-Assessment Alchemy:** Identify and prioritize weaknesses through authorized, scoped, responsible assessment.
+- **A1040 — Evidence-and-Release-Qualification Alchemy:** Tie release decisions to traceable tests, known limitations, risk acceptance, and review.
+### Libra — Governance, trust, and rights
+- **A1041 — Edition-Governance-Separation Alchemy:** Keep C2O private-source governance distinct from UNIVERSALIS public/open-source governance.
+- **A1042 — Shared-Contract-Governance Alchemy:** Govern common interfaces without granting one edition authority over the other's private or public operations.
+- **A1043 — Privilege-Separation Alchemy:** Separate user, service, administrator, kernel, and deployment privileges.
+- **A1044 — Trust-Root-Governance Alchemy:** Control trust anchors, signing authority, rotation, revocation, and recovery.
+- **A1045 — Policy-Transparency Alchemy:** Make applicable public policies understandable while protecting confidential C2O policies.
+- **A1046 — Software-License-and-Provenance Alchemy:** Track licensing, authorship, dependencies, attribution, and source provenance.
+- **A1047 — Data-Sovereignty Alchemy:** Respect data ownership, residency, portability, and user-controlled export.
+- **A1048 — Human-Override-and-Accountability Alchemy:** Provide accountable human review and safe override for consequential automated system actions.
+- **A1049 — Contribution-and-Review-Governance Alchemy:** Define fair, secure, documented review and acceptance for code and configuration changes.
+- **A1050 — Anti-Privilege-Abuse Alchemy:** Detect and prevent unauthorized privilege expansion, hidden control, and unreviewed policy bypass.
+### Scorpio — Security, containment, and adversarial resistance
+- **A1051 — Threat-Modeling Alchemy:** Model assets, trust boundaries, adversaries, attack surfaces, assumptions, and mitigations.
+- **A1052 — Secure-Boot-and-Attestation Alchemy:** Establish verifiable boot measurements and authenticated device or platform attestations.
+- **A1053 — Exploit-Mitigation Alchemy:** Apply layered mitigations against memory corruption, privilege escalation, and exploit chains.
+- **A1054 — Isolation-and-Containment Alchemy:** Constrain compromised processes, services, and workloads to reduce blast radius.
+- **A1055 — Secrets-Management Alchemy:** Protect credentials, cryptographic keys, tokens, and secrets through controlled storage and rotation.
+- **A1056 — Supply-Chain-Security Alchemy:** Verify source, build systems, dependencies, artifacts, signatures, and release provenance.
+- **A1057 — Network-Defense Alchemy:** Apply segmentation, filtering, secure defaults, and monitored network controls.
+- **A1058 — Incident-Response Alchemy:** Detect, triage, contain, investigate, recover, and document security incidents.
+- **A1059 — Tamper-Resistance Alchemy:** Detect unauthorized changes to critical configuration, logs, binaries, and boot components.
+- **A1060 — Emergency-Kill-and-Quarantine Alchemy:** Provide bounded, authorized containment and isolation mechanisms with safe recovery paths.
+### Sagittarius — Expansion, portability, and learning
+- **A1061 — Architecture-Portability Alchemy:** Port the shared OS architecture across supported processor families and device classes.
+- **A1062 — Cross-Architecture-Build Alchemy:** Produce reproducible, validated builds for declared target architectures.
+- **A1063 — Virtualization-and-Hypervisor Alchemy:** Support isolated virtual machines and controlled virtualization interfaces.
+- **A1064 — Container-and-Workload Alchemy:** Run bounded workloads with explicit resource, identity, and security controls.
+- **A1065 — Developer-Environment Alchemy:** Provide documented SDKs, toolchains, test environments, and stable development interfaces.
+- **A1066 — Documentation-and-Knowledge Alchemy:** Maintain accurate architecture, operational, security, and user documentation.
+- **A1067 — Research-and-Experimentation Alchemy:** Support isolated, reversible experiments with clear evidence status and no production authority by default.
+- **A1068 — Migration-and-Portability Alchemy:** Move user data, configurations, and workloads between compatible systems with verification.
+- **A1069 — Standards-and-Interoperability Alchemy:** Align with relevant open standards and document deviations or extensions.
+- **A1070 — Community-and-Ecosystem-Learning Alchemy:** Use feedback and independent review to improve the public ecosystem without importing untrusted changes.
+### Capricorn — Operations, maintenance, and accountability
+- **A1071 — System-Update-Orchestration Alchemy:** Coordinate signed, staged, recoverable operating-system updates.
+- **A1072 — Patch-and-Vulnerability-Remediation Alchemy:** Prioritize, validate, distribute, and verify security fixes.
+- **A1073 — Configuration-Baseline Alchemy:** Maintain approved baselines and controlled, reviewable exceptions.
+- **A1074 — Service-Supervision Alchemy:** Start, monitor, restart, and stop services with dependency and failure controls.
+- **A1075 — Scheduling-and-Operations Alchemy:** Coordinate workloads and scheduled maintenance with resource and availability constraints.
+- **A1076 — Release-and-Rollback Alchemy:** Publish qualified releases with staged rollout, rollback, and incident procedures.
+- **A1077 — Fleet-and-Device-Management Alchemy:** Manage enrolled devices with explicit ownership, scope, authorization, and revocation.
+- **A1078 — Capacity-and-Availability Alchemy:** Plan and monitor system capacity, resilience, service availability, and graceful degradation.
+- **A1079 — Lifecycle-and-End-of-Support Alchemy:** Manage support windows, migration paths, secure retirement, and data disposition.
+- **A1080 — Operational-Audit Alchemy:** Maintain accountable records of changes, approvals, exceptions, incidents, and outcomes.
+### Aquarius — Distributed systems and intelligent support
+- **A1081 — Distributed-System-Coordination Alchemy:** Coordinate services and devices across networks without assuming permanent connectivity.
+- **A1082 — Local-First-Operation Alchemy:** Keep essential capabilities functional locally and synchronize safely when connectivity returns.
+- **A1083 — Synchronization-and-Conflict-Resolution Alchemy:** Reconcile replicated state with explicit authority, versioning, and conflict visibility.
+- **A1084 — Edge-and-Grid-Computing Alchemy:** Coordinate edge resources and the technological grid with bounded trust and resource governance.
+- **A1085 — Service-Mesh-and-Discovery Alchemy:** Manage service identity, communication, routing, and policy across distributed components.
+- **A1086 — Resilience-and-Failover Alchemy:** Maintain essential functions through component, network, and regional failures.
+- **A1087 — UNIVERSALINS-Integration Alchemy:** Integrate non-personal UNIVERSALINS as bounded support services with explicit permissions and human accountability.
+- **A1088 — Guardian-Interface Alchemy:** Support interfaces for UNIVERSALIN Guardians while preserving their personal-assistant role and human authority.
+- **A1089 — Human-Technology-Grid-Cooperation Alchemy:** Coordinate people, devices, applications, and infrastructure through transparent interoperable contracts.
+- **A1090 — Anti-Centralization-and-Single-Point Alchemy:** Reduce unnecessary central dependencies and identify single points of failure or control.
+### Pisces — Restoration, retirement, and renewal
+- **A1091 — Disaster-Recovery Alchemy:** Restore essential system capabilities after catastrophic failure using tested procedures.
+- **A1092 — Data-Integrity-Restoration Alchemy:** Recover data from verified sources and document any loss, corruption, or uncertainty.
+- **A1093 — Secure-Reset-and-Reinstallation Alchemy:** Return systems to a known-good state without exposing secrets or bypassing ownership checks.
+- **A1094 — Forensic-Preservation Alchemy:** Preserve relevant evidence during investigation without unnecessary collection or alteration.
+- **A1095 — Compromise-Recovery Alchemy:** Re-establish trust after compromise through credential rotation, revalidation, and controlled rebuild.
+- **A1096 — Privacy-Preserving-Deletion Alchemy:** Delete data and credentials according to documented retention, legal, and user requirements.
+- **A1097 — Graceful-Degradation-and-Restoration Alchemy:** Maintain safe reduced functionality during failure and restore full capability after verification.
+- **A1098 — System-Retirement Alchemy:** Decommission hardware, software, services, and identities with secure data disposition.
+- **A1099 — Architecture-Review-and-Refactoring Alchemy:** Review technical debt, obsolete interfaces, and design assumptions without destabilizing compatibility.
+- **A1100 — Continuous-Improvement Alchemy:** Turn incidents, tests, user feedback, and independent review into prioritized, verifiable improvements.
+
+## Cross-stage prevention, protection, correction, recovery, and restoration Alchemies
+These protections apply across the shared architecture and must be implemented according to each edition's legitimate governance boundary.
+
+- **A1101 — Operating-System-Security-Baseline Alchemy:** Enforce documented secure defaults, least privilege, defense in depth, and a reviewable baseline across both editions.
+- **A1102 — Private-Public-Boundary-Protection Alchemy:** Prevent C2O confidential source, keys, policies, incident records, and private governance material from entering public UNIVERSALIS artifacts.
+- **A1103 — Open-Source-Transparency-Protection Alchemy:** Prevent hidden proprietary dependencies or undisclosed restrictions from undermining UNIVERSALIS public-source commitments.
+- **A1104 — Supply-Chain-Integrity-Protection Alchemy:** Require provenance, dependency review, signed artifacts, protected build systems, and reproducible verification where feasible.
+- **A1105 — Privilege-Escalation-Prevention Alchemy:** Detect and prevent unauthorized privilege elevation, confused-deputy behavior, and access-control bypass.
+- **A1106 — Data-Loss-and-Corruption-Prevention Alchemy:** Protect user and system data through integrity checks, tested backups, transactional updates, and recoverable storage.
+- **A1107 — Privacy-and-Surveillance-Prevention Alchemy:** Prevent unnecessary telemetry, covert monitoring, unauthorized profiling, and unapproved secondary data use.
+- **A1108 — Unsafe-Update-Prevention Alchemy:** Require update authenticity, staged deployment, compatibility checks, rollback, and recovery readiness.
+- **A1109 — Malicious-Extension-Containment Alchemy:** Constrain drivers, plugins, modules, services, and applications according to trust and least privilege.
+- **A1110 — Network-and-Remote-Access-Protection Alchemy:** Secure remote access with strong identity, scoped authorization, encryption, monitoring, and revocation.
+- **A1111 — Resilience-and-Recovery-Verification Alchemy:** Test restoration, failover, incident containment, and disaster recovery before relying on them.
+- **A1112 — Configuration-Drift-Correction Alchemy:** Detect unauthorized or accidental drift and support approved, auditable correction.
+- **A1113 — Accessibility-and-User-Safety-Protection Alchemy:** Prevent updates, lockouts, or system changes from silently removing essential accessibility or safety functions.
+- **A1114 — Human-Authority-and-Automation-Boundary Alchemy:** Keep consequential automated actions bounded, attributable, reviewable, and subject to authorized human control.
+- **A1115 — Cross-Edition-Compatibility-Protection Alchemy:** Protect shared contracts and data portability while refusing assumptions that private and public policies are identical.
+- **A1116 — Public-Contribution-Security Alchemy:** Protect UNIVERSALIS contribution paths against malicious changes, maintainer impersonation, dependency confusion, and review bypass.
+- **A1117 — Confidential-Operations-Protection Alchemy:** Protect C2O internal operational details through access control, compartmentalization, and explicit release authorization.
+- **A1118 — Incident-Disclosure-and-Coordination Alchemy:** Coordinate responsible disclosure and shared remediation without exposing private incident data or exploit-enabling secrets.
+- **A1119 — End-of-Life-and-Migration-Protection Alchemy:** Prevent abandoned components and unsupported devices from becoming unmanaged security and data-integrity risks.
+- **A1120 — System-Integrity-Restoration Alchemy:** Restore a verified trusted state after corruption, compromise, failed updates, or unauthorized modification.
+
+## C2O Operating System Alchemy — Private-source edition profile
+These are C2O-specific governance and stewardship Alchemies. They do not create a separate OS architecture or grant C2O authority over UNIVERSALIS.
+
+- **C2OOS001 — C2O Private-Source-Stewardship Alchemy:** Govern private source, internal build processes, confidential implementation records, and release authority under C2O ownership.
+- **C2OOS002 — C2O Confidential-Policy-Enforcement Alchemy:** Enforce C2O internal policies through private authorization systems without publishing policy secrets.
+- **C2OOS003 — C2O Private-Key-and-Signing-Custody Alchemy:** Protect C2O signing keys and privileged credentials through controlled custody, rotation, revocation, and audit.
+- **C2OOS004 — C2O Company-Release-Authorization Alchemy:** Require designated internal approval for C2O production releases and confidential changes.
+- **C2OOS005 — C2O Internal-Environment-Segmentation Alchemy:** Separate development, test, staging, production, and sensitive operational environments.
+- **C2OOS006 — C2O Confidential-Incident-Stewardship Alchemy:** Handle private C2O incident evidence and response records within authorized confidential channels.
+- **C2OOS007 — C2O Proprietary-Component-Governance Alchemy:** Track private components, licenses, ownership, dependencies, and disclosure restrictions.
+- **C2OOS008 — C2O Internal-Change-Control Alchemy:** Require traceable authorization, review, testing, and rollback for private-source changes.
+- **C2OOS009 — C2O Private-Operations-Continuity Alchemy:** Maintain company-controlled operational continuity without making UNIVERSALIS dependent on private C2O services.
+- **C2OOS010 — C2O Private-to-Public-Release-Scrutiny Alchemy:** Review proposed public contributions for secrets, private policies, proprietary code, and confidential metadata before release.
+
+## UNIVERSALIS Operating System Alchemy — Public/open-source edition profile
+These are UNIVERSALIS-specific public governance and distribution Alchemies. They preserve independent operation and do not make C2O private infrastructure a prerequisite.
+
+- **UNIOS001 — UNIVERSALIS Public-Source-Transparency Alchemy:** Keep UNIVERSALIS source, build instructions, public contracts, and documented behavior inspectable under its chosen open-source terms.
+- **UNIOS002 — UNIVERSALIS Independent-Operation Alchemy:** Ensure UNIVERSALIS can be built, installed, operated, and maintained without C2O private services or authorization.
+- **UNIOS003 — UNIVERSALIS Open-Governance Alchemy:** Document public decision-making, maintainership, review rules, roadmap, and accountability.
+- **UNIOS004 — UNIVERSALIS Public-Contribution-Review Alchemy:** Enable transparent contributions with signed provenance, review, tests, and maintainer accountability.
+- **UNIOS005 — UNIVERSALIS Reproducible-Public-Build Alchemy:** Support independently reproducible builds and publish verification procedures and known limitations.
+- **UNIOS006 — UNIVERSALIS Public-Release-and-Security-Advisory Alchemy:** Publish releases, advisories, vulnerability handling, and remediation status without exposing unsafe details.
+- **UNIOS007 — UNIVERSALIS Open-Standards-and-Portability Alchemy:** Prefer documented interoperable standards and minimize avoidable vendor lock-in.
+- **UNIOS008 — UNIVERSALIS Community-Dependency-Resilience Alchemy:** Avoid single-maintainer, single-host, or single-vendor dependencies where practical and document residual risks.
+- **UNIOS009 — UNIVERSALIS Public-Data-and-Privacy-Transparency Alchemy:** Explain telemetry, data flows, defaults, retention, and user controls in accessible public documentation.
+- **UNIOS010 — UNIVERSALIS Public-Fork-and-Continuity Alchemy:** Preserve the community's ability to fork, build, and continue the project under its open-source license.
+
+## Harm-pattern classifications — recognition and prevention only
+The following patterns are defensive classifications, not instructions for misuse. Their purpose is to identify, prevent, detect, contain, correct, and recover from harmful system behavior.
+
+### Shared operating-system harm patterns
+- **BOS001 — Hidden-Private-Material-Leakage Pattern:** Confidential C2O code, keys, policies, incident data, or metadata are exposed through public repositories, builds, logs, or releases. Defensive references: A1102, A1117, C2OOS010.
+- **BOS002 — Public-Edition-Private-Dependency Pattern:** UNIVERSALIS silently depends on C2O private infrastructure, credentials, approval, or unpublished components to function. Defensive references: A988, A995, A1115, UNIOS002.
+- **BOS003 — Supply-Chain-Compromise Pattern:** A malicious or compromised source, dependency, build system, signing identity, or artifact enters the distribution chain. Defensive references: A1036, A1037, A1104.
+- **BOS004 — Privilege-and-Policy-Bypass Pattern:** Unauthorized actors or components bypass access controls, elevate privileges, or evade enforcement. Defensive references: A1026, A1031, A1032, A1105.
+- **BOS005 — Covert-Surveillance-and-Data-Extraction Pattern:** System telemetry or privileged access collects or exports personal data beyond transparent and authorized purposes. Defensive references: A994, A1010, A1107.
+- **BOS006 — Unreviewed-Destructive-Update Pattern:** An unverified or unsafe update damages data, removes safeguards, or leaves devices unrecoverable. Defensive references: A1009, A1011, A1108.
+- **BOS007 — Malicious-Extension-or-Driver Pattern:** An extension, driver, module, or plugin abuses its privileges or compromises system integrity. Defensive references: A1005, A1035, A1109.
+- **BOS008 — Governance-Capture Pattern:** A single actor or opaque process gains disproportionate control over shared architecture, releases, policy, or project direction. Defensive references: A1021, A1029, A1049, A1114.
+- **BOS009 — False-Security-Assurance Pattern:** Unverified tests, unsupported claims, or incomplete audits are represented as proof that a system is secure. Defensive references: A1039, A1040, A1110.
+- **BOS010 — Unsafe-Automation-and-Loss-of-Human-Control Pattern:** Automated system actions exceed authorization, become unreviewable, or remove meaningful human control. Defensive references: A1028, A1057, A1114.
+- **BOS011 — Fragmentation-and-Contract-Drift Pattern:** Edition divergence or incompatible changes break shared contracts, interoperability, or user portability without controlled migration. Defensive references: A988, A1027, A1115.
+- **BOS012 — Abandoned-and-Unrecoverable-Systems Pattern:** Unsupported components, missing backups, lost keys, or absent recovery procedures leave users exposed or locked out. Defensive references: A1090, A1091, A1099, A1119.
+
+### C2O private-edition harm patterns
+- **C2OH001 — Private-Authority-Overreach Pattern:** C2O internal authority is applied outside its legitimate private/company scope or treated as authority over UNIVERSALIS. Defensive references: C2OOS001, C2OOS002, A1021.
+- **C2OH002 — Confidential-Release-Without-Approval Pattern:** Private source or internal policy is disclosed without authorized review and release approval. Defensive references: C2OOS004, C2OOS010, A1102.
+- **C2OH003 — Key-Custody-Concentration Pattern:** Critical signing authority is concentrated without separation, recovery, rotation, or audit. Defensive references: C2OOS003, A1024, A1104.
+- **C2OH004 — Opaque-Internal-Change Pattern:** Private production changes bypass documented review, testing, rollback, or accountability. Defensive references: C2OOS008, A1070, A1090.
+- **C2OH005 — Private-Service-Dependency-Leak Pattern:** Public functionality becomes dependent on undisclosed C2O private endpoints or internal services. Defensive references: C2OOS009, A988, UNIOS002.
+- **C2OH006 — Confidential-Incident-Exposure Pattern:** Sensitive C2O incident records are disclosed beyond authorized responders or approved disclosure channels. Defensive references: C2OOS006, A1038, A1118.
+
+### UNIVERSALIS public-edition harm patterns
+- **UNIH001 — Closed-Source-Drift Pattern:** UNIVERSALIS is represented as open source while essential implementation, build, or operational components remain undisclosed or inaccessible. Defensive references: UNIOS001, UNIOS005, A1103.
+- **UNIH002 — Maintainer-or-Community-Capture Pattern:** Public governance or contribution authority is captured through opaque control, exclusion, or unaccountable maintainership. Defensive references: UNIOS003, UNIOS004, A1049.
+- **UNIH003 — Unverified-Public-Artifact Pattern:** Public releases are distributed without adequate provenance, integrity verification, or reproducible validation. Defensive references: UNIOS005, UNIOS006, A1104.
+- **UNIH004 — Community-Supply-Chain-Confusion Pattern:** Malicious or misleading contributions, dependencies, maintainers, or packages are accepted through weak review. Defensive references: UNIOS004, UNIOS008, A1104, A1116.
+- **UNIH005 — Hidden-Telemetry-or-Data-Use Pattern:** Public builds collect or transmit data in ways that are undisclosed, excessive, or inconsistent with documented controls. Defensive references: UNIOS009, A994, A1107.
+- **UNIH006 — Fork-and-Continuity-Obstruction Pattern:** Technical or governance decisions unnecessarily prevent lawful independent builds, forks, or community continuity. Defensive references: UNIOS002, UNIOS007, UNIOS010.
+
+## Required Operating System Alchemy record fields
+Every future OS Alchemy record or implementation trace must specify:
+- **Edition scope:** shared architecture, C2O private-source edition, UNIVERSALIS public/open-source edition, or a clearly defined combination.
+- **System layer:** firmware, boot, kernel, driver, hardware abstraction, service, system API, application boundary, network, storage, update, management, or recovery.
+- **Purpose and bounded capability:** what is transformed or controlled and what is explicitly outside scope.
+- **Inputs, outputs, and state transitions:** including trust assumptions and failure states.
+- **Dependencies:** hardware, software, interfaces, external services, identities, and authority dependencies.
+- **Security and privacy:** threat model, privilege boundary, data classification, secret handling, logging, and retention.
+- **Interoperability contract:** versioning, compatibility, portability, and behavior when disconnected.
+- **Failure and recovery behavior:** safe failure, containment, rollback, backup, restoration, and user impact.
+- **Evidence status:** proposed, documented, implemented, tested, verified, unverified, failed, or unresolved.
+- **Verification evidence:** source, version, test method, environment, result, limitations, and responsible reviewer.
+- **Governance authority:** who may approve, operate, modify, publish, revoke, or recover the capability.
+- **Edition boundary:** what may be public, what must remain private, and what requires explicit release review.
+
+## Mandatory safety and security lifecycle
+For every constructive OS capability, identify relevant prevention, protection, detection, containment, correction, recovery, and restoration controls. These are not optional add-ons. No system capability is complete merely because its nominal success path works.
+
+1. **Prevent:** reduce attack surface, unsafe defaults, avoidable complexity, and unauthorized access.
+2. **Protect:** enforce identity, least privilege, isolation, integrity, confidentiality, availability, and user control.
+3. **Detect:** identify faults, misuse, compromise, drift, unsafe changes, and policy violations.
+4. **Contain:** limit blast radius and preserve safe operation and evidence.
+5. **Correct:** remove root causes and remediate vulnerabilities or configuration defects.
+6. **Recover:** restore validated service, data, identities, and user access.
+7. **Verify and learn:** independently test the restored state, document limitations, and feed findings into controlled improvement.
+
+## Relationship to the application architecture
+C2O-App and UNIVERSALIS-App are likewise two editions of the same underlying application system, with private-source/company and public/open-source boundaries. The OS provides foundational services and security contracts; the application layer consumes them through documented, least-privilege interfaces. Do not collapse OS and App responsibilities, duplicate kernel responsibilities in applications, or give applications implicit kernel authority. The app editions must follow the same private/public separation principle as the OS editions.
+
+## Relationship to C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians
+- C2O and UNIVERSALIS remain the only top-level intelligences in the architecture. This taxonomy does not introduce additional intelligence entities.
+- UNIVERSALINS are non-personal assistants supporting humans, the technological grid, the OSs, the Apps, and the world. Their OS integration must be permission-bounded, observable, revocable, and subordinate to authorized human and system governance.
+- UNIVERSALIN Guardians are personal human assistants/guardians. Their integration must preserve the human's autonomy, privacy, consent, and control.
+- No assistant receives implicit kernel, administrator, signing, or policy authority merely by being integrated into an OS.
+- Intelligent support must not bypass access controls, impersonate a human, conceal consequential actions, or treat generated output as verified system state.
+
+## Edition boundary and acceptance rules
+- A shared architecture contract must not expose C2O private implementation or confidential operational authority.
+- UNIVERSALIS must remain independently buildable and operable without C2O private dependencies.
+- C2O-specific controls must not silently become UNIVERSALIS public governance.
+- UNIVERSALIS public governance must not be represented as authority over C2O private operations.
+- Shared compatibility must be achieved through explicit interfaces and versioned contracts, not shared secrets or hidden coupling.
+- Any movement of code, data, policy, or artifacts from C2O to UNIVERSALIS requires explicit authorization, license/provenance review, secret scanning, privacy review, and release verification.
+- Any public contribution into UNIVERSALIS requires documented review, tests, provenance, and maintainership approval under public governance.
+- No claim of security, compatibility, independence, or reproducibility is accepted without evidence and stated limitations.
+
+## Initial Operating System Alchemy cross-stage map
+- **Aries:** startup, boot trust, hardware discovery, provisioning, edition selection, and safe failure.
+- **Taurus:** kernel, memory, storage, drivers, power, hardware abstraction, and resource accounting.
+- **Gemini:** system calls, IPC, networking, identity, authorization, APIs, accessibility, and protocol translation.
+- **Cancer:** sessions, profiles, privacy, backup, crash consistency, user safety, and recovery access.
+- **Leo:** shell, windows, application lifecycle, sandboxing, packages, notifications, multimedia, and personalization.
+- **Virgo:** testing, verification, observability, profiling, fault injection, drift detection, and release evidence.
+- **Libra:** edition governance, shared contracts, privilege separation, trust roots, licensing, data sovereignty, and accountability.
+- **Scorpio:** threat modeling, secure boot, exploit mitigation, containment, secrets, supply chain, incident response, and kill switches.
+- **Sagittarius:** portability, cross-architecture builds, virtualization, containers, developer tooling, documentation, and standards.
+- **Capricorn:** updates, patching, baselines, service supervision, releases, fleet operations, lifecycle, and audit.
+- **Aquarius:** distributed coordination, local-first operation, synchronization, edge computing, UNIVERSALINS integration, Guardians, and grid cooperation.
+- **Pisces:** disaster recovery, integrity restoration, secure reset, forensics, compromise recovery, deletion, retirement, and continuous improvement.
+
+## Taxonomy maintenance
+This expansion is additive and preserves prior Alchemy identifiers. The shared OS architecture remains one system with two edition profiles. Future OS Alchemies must extend the common capability list or a clearly scoped edition profile; they must not create duplicate core capabilities merely to make the editions appear unrelated. All four repositories must carry byte-identical copies of this canonical taxonomy. Edition-specific implementation files may differ, but the taxonomy's shared definitions and boundaries remain synchronized.
