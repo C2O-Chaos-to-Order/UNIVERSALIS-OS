@@ -934,10 +934,10 @@ The following entries add distinct Alchemies where the existing taxonomy did not
 | PVA-004 | Scope-Enforcement Alchemy | Constrain an operation to explicit subjects, objects, resources, environments, time windows, and permitted actions. |
 | PVA-005 | Consent-Validation Alchemy | Establish that consent is informed, specific, freely given, current, attributable, and relevant to the proposed operation. |
 | PVA-006 | Consent-Revocation Alchemy | Make withdrawal of consent effective, propagate it to dependent operations, and prevent continued processing or action beyond lawful retention duties. |
-| PVA-007 | Coercion-Prevention Alchemy | Identify and prevent capabilities or workflows from being used to compel, threaten, manipulate, or unduly pressure a person. |
+| PVA-007 | Consent-Coercion-Prevention Alchemy | Prevent consent workflows and consent-dependent capabilities from being obtained or maintained through threats, pressure, dependency exploitation, deceptive choice architecture, or other coercive conditions. |
 | PVA-008 | Deception-Resistance Alchemy | Resist impersonation, forged authority, misleading context, concealed intent, and deceptive inputs through provenance and independent validation. |
 | PVA-009 | Manipulation-Resistance Alchemy | Detect and resist covert influence, exploitative persuasion, behavioral manipulation, and unauthorized alteration of decisions or preferences. |
-| PVA-010 | Discrimination-Prevention Alchemy | Prevent unjustified differential treatment, exclusion, ranking, or adverse decisions; require relevant evidence, fairness review, and appeal paths. |
+| PVA-010 | Disparate-Impact-Prevention Alchemy | Test for and prevent unjustified adverse effects across affected groups and contexts; require relevant evidence, fairness review, mitigation, and appeal paths. |
 | PVA-011 | Bias-Prevention Alchemy | Identify and reduce systematic bias in data, models, rules, measurements, interfaces, and operational decisions before harm occurs. |
 | PVA-012 | Unintended-Consequence-Prevention Alchemy | Identify foreseeable indirect, emergent, cascading, and second-order effects before authorizing a capability or change. |
 | PVA-013 | Precondition-Validation Alchemy | Verify required conditions, prerequisites, context, dependencies, authority, and safety state before execution. |
