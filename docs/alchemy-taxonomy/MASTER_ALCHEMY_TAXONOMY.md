@@ -761,3 +761,141 @@ Verification must use a documented baseline, representative workload, repeated m
 - **Research limitation:** This intake covers the supplied page and selected cross-reference pages. It is not a complete crawl of every linked power or every member of the wiki's acceleration-related categories.
 
 **Intake conclusion:** Accelerated-Power-Use Alchemy is added as a distinct canonical Alchemy with six core operational child Alchemies and six proposed performance/safety specializations. It is mapped across all four repositories and linked to related speed, cognition, tasking, charging, mastery, and power-manipulation Alchemies without collapsing their meanings.
+
+
+---
+
+# Research Intake Addendum — Adaptive Attacks
+
+**Intake ID:** RIA-ADAPTATT-001  
+**Source:** https://powerlisting.fandom.com/wiki/Trait:Adaptive_Attacks  
+**Research status:** Supplied page reviewed; related adaptation entries cross-checked  
+**Change status:** Added as a distinct attack-adaptation Alchemy family, with explicit defensive boundaries. Taxonomy classification does not imply permission to harm or attack real-world targets.
+
+## A. Source interpretation
+
+The supplied page describes Adaptive Attacks as the ability to create or use attacks that can adapt or evolve. It says such attacks may increase power/output or adjust in response to an opponent. It lists Adaptive Augmentation, Attack Modification, and Defense Adaptation as applications; associates the concept with Attack Powers, Reactive Adaptation, and Self-Adaptive Power; and notes limitations including non-permanence, inability to adapt to every situation, and possible weakening of adaptations.
+
+The related Adaptive Combat and Reactive Adaptation pages broaden the conceptual context to adaptive defense, adaptive weaponry, combat adaptation, power opposition, counter-development, and reactive response. These are related concepts, not all synonyms for Adaptive Attacks. The adaptation category also contains many distinct entries; this intake does not treat the entire category as one undifferentiated Alchemy.
+
+These are fictional/community taxonomy sources. They support classification of the concepts and relationships appearing in that taxonomy; they do not establish real-world superhuman capabilities or justify harmful applications.
+
+## B. Canonical classification decision
+
+**Adaptive-Attacks Alchemy** is a distinct canonical Alchemy under the broader Adaptive Alchemy and Attack Alchemy domains. It concerns adapting the characteristics, configuration, method, or output of an attack-like action in response to defined context or feedback.
+
+For C2O / UNIVERSALIS software, this concept is interpreted safely and broadly as adaptive action/response modelling, simulation, testing, game/fiction systems, and defensive security validation. It does not authorize offensive activity against real people, systems, devices, or infrastructure. Real-world operations remain subject to authorization, policy, safety controls, and applicable law.
+
+### B1. Alchemies to add or explicitly instantiate
+
+| Stable ID | Canonical Alchemy | Classification | Definition / boundary |
+|---|---|---|---|
+| ADA-001 | Adaptive-Attacks Alchemy | Canonical parent Alchemy | Adapt an attack/action representation or its permitted output in response to defined context, constraints, or feedback. Real-world execution requires legitimate authorization and safety review. |
+| ADA-002 | Adaptive-Attack-Modification Alchemy | Child of ADA-001 | Modify the form, configuration, parameters, or mode of an attack/action representation as conditions change. Distinct from creating an attack from nothing. |
+| ADA-003 | Adaptive-Attack-Augmentation Alchemy | Child of ADA-001 | Adjust or augment an authorized action's permitted capability or output within predefined limits. Must not bypass safety, consent, or policy boundaries. |
+| ADA-004 | Adaptive-Attack-Output Alchemy | Child of ADA-001 | Adapt the intensity, magnitude, or output of an action to meet a valid, bounded objective. Includes the source's opponent-relative output adjustment as a conceptual case, not as a license to escalate harm. |
+| ADA-005 | Adaptive-Attack-Form Alchemy | Child of ADA-001 | Change the form, modality, delivery representation, or structure of an action while preserving declared constraints and traceability. |
+| ADA-006 | Adaptive-Attack-Feedback Alchemy | Supporting specialization of ADA-001 | Use observed results and validated feedback to revise a subsequent permitted action or simulated action. Distinguish measured feedback from assumptions or adversarially manipulated signals. |
+| ADA-007 | Adaptive-Attack-Constraint Alchemy | Protective specialization of ADA-001 | Keep adaptive action within explicit limits, prohibited targets, maximum output, permitted contexts, and stop conditions. |
+| ADA-008 | Adaptive-Attack-Verification Alchemy | Protective/supporting specialization | Verify that an adapted action remains authorized, valid, bounded, and consistent with intended objectives before it is applied. |
+| ADA-009 | Adaptive-Attack-Reversal Alchemy | Protective specialization | Restore a prior safe configuration or stop an adaptation when feedback is invalid, unsafe, unauthorized, or outside defined limits. |
+| ADA-010 | Adaptive-Defense Alchemy | Related but distinct defensive Alchemy | Adapt protective measures in response to threats. This is not an offensive child of Adaptive Attacks; it is a countermeasure family and must remain separately classified. |
+
+Entries ADA-001 through ADA-006 represent the core adaptive-action concepts and source-derived applications. ADA-007 through ADA-009 are proposed safety and verification specializations needed for responsible implementation. ADA-010 is included as an explicit related defensive Alchemy because the source names Defense Adaptation as an application and related sources distinguish Adaptive Defense from Adaptive Attacks.
+
+## C. Existing Alchemies retained and cross-linked
+
+Do not duplicate or collapse these existing/related Alchemies:
+
+- Adaptive Alchemy — broader adaptation domain.
+- Self-Adaptation Alchemy — adaptation of the entity/system itself.
+- Reactive Adaptation Alchemy — response to a stimulus or condition; broader than attacks.
+- Adaptive Combat Alchemy — broader combat adaptation; may include attack, defense, movement, strategy, and learning.
+- Attack Alchemy / Attack-Powers Alchemy — broad domain of attack/action forms.
+- Attack-Modification Alchemy — existing source concept; link to ADA-002 and preserve its broader scope.
+- Adaptive-Augmentation Alchemy — existing source concept; link to ADA-003.
+- Adaptive-Defense Alchemy — defensive adaptation, not an offensive attack subtype.
+- Adaptive-Weaponry Alchemy — adaptation of weapon configurations; distinct from adaptation of the attack/action itself.
+- Adaptive-Ranged-Weaponry Alchemy — specialized weapon domain.
+- Adaptive-Power-Level Alchemy — adaptation of a capability's level; related to, but not identical with, output adaptation.
+- Self-Adaptive-Power Alchemy — adaptation of the capability itself, rather than necessarily the action produced by it.
+- Adaptive-Combat Alchemy; Combat-Adaptation Alchemy; Strategy-Adaptation Alchemy — broader combat and strategic adaptation.
+- Power-Opposition Alchemy; Combat-Opposition Alchemy; Countering-Mastery Alchemy — counter-oriented capabilities, not identical to adaptive attacks.
+- Adaptive-Development Alchemy; Adaptive-Learning Alchemy — learning and development processes that may inform future adaptation.
+- Adaptive-Resistance Alchemy; Adaptive-Immunity Alchemy — defensive resistance/immunity, not attack adaptation.
+- Adaptive-Intelligence Alchemy; Adaptive-Mind Alchemy — cognitive adaptation, not action output.
+- Attack-Creation Alchemy; Attack-Empowerment Alchemy; Attack-Replication Alchemy; Attack-Mixture Alchemy — separate attack construction/augmentation/replication/composition concepts.
+
+## D. Four-repository applicability and responsibility matrix
+
+| Alchemy | C2O-OS | C2O-App | UNIVERSALIS-OS | UNIVERSALIS-App |
+|---|---|---|---|---|
+| Adaptive-Attacks | Private authorization, policy enforcement, isolation, audit and execution boundaries | User-directed simulations, creative/game workflows, and permitted action orchestration | Open policy hooks, isolation contracts, audit interfaces and bounded execution services | Open simulations, creative/game workflows and permitted orchestration |
+| Adaptive-Attack-Modification | Validate scope, permissions, state and configuration integrity | Present and review permitted modifications | Open validation and integrity contracts | User-facing modification workflow |
+| Adaptive-Attack-Augmentation | Enforce resource ceilings, authorization and safety limits | Explain and request bounded augmentation | Open resource and policy interfaces | User-directed bounded augmentation |
+| Adaptive-Attack-Output | Enforce maximum output, rate limits and stop conditions | Present output constraints and confirmation | Open output-boundary and rate-limit contracts | User-facing output settings and feedback |
+| Adaptive-Attack-Form | Validate permitted modes and secure state transitions | Present selectable/previewable forms | Open mode and transition interfaces | User-facing form selection and preview |
+| Adaptive-Attack-Feedback | Validate telemetry, provenance and feedback integrity | Present feedback and allow review | Open telemetry/provenance interfaces | Explain feedback and adaptation history |
+| Adaptive-Attack-Constraint | Mandatory policy gates, deny rules and fail-safe controls | Communicate constraints and stop controls | Open constraint interfaces and enforceable policy hooks | User-visible constraints and stop controls |
+| Adaptive-Attack-Verification | Pre-execution checks, policy evaluation and tamper-evident audit | Confirmation, status and result review | Open verification interfaces and audit formats | User-facing verification results |
+| Adaptive-Attack-Reversal | Rollback, cancellation, containment and recovery | User-directed cancel/restore workflow | Open rollback and recovery interfaces | User-facing cancel/restore workflow |
+| Adaptive-Defense | System protection, detection, containment and defensive adaptation | Defensive status and configuration UX | Open defensive interfaces and policy contracts | User-facing defensive workflows |
+
+The same conceptual Alchemies apply across the four repositories. C2O private governance and implementation remain separate from UNIVERSALIS public contracts and implementations. A shared taxonomy does not expose C2O private keys, policies, or incident data.
+
+## E. Relationship matrix
+
+| Primary Alchemy | Relationship | Connected Alchemies |
+|---|---|---|
+| Adaptive-Attacks | Parent of | Adaptive-Attack-Modification; Adaptive-Attack-Augmentation; Adaptive-Attack-Output; Adaptive-Attack-Form; Adaptive-Attack-Feedback |
+| Adaptive-Attacks | Requires | Authorization; Action-Validation; Context-Analysis; Feedback-Integrity; State-Management; Policy-Enforcement; Audit |
+| Adaptive-Attacks | Constrained by | Adaptive-Attack-Constraint; Adaptive-Attack-Verification; Adaptive-Attack-Reversal; Safety; Rate-Limiting; Human-Confirmation |
+| Adaptive-Attacks | Intersects | Adaptive; Reactive; Attack; Combat; Weaponry; Power-Level; Strategy; Learning |
+| Adaptive-Attacks | Related but distinct | Adaptive-Defense; Adaptive-Combat; Adaptive-Weaponry; Self-Adaptive-Power; Adaptive-Resistance |
+| Adaptive-Defense | Countermeasure for | Unauthorized or harmful adaptive actions; unsafe output escalation; adversarial action patterns |
+
+## F. Safeguard and countermeasure matrix
+
+| Risk | Required protective Alchemies |
+|---|---|
+| Adaptive action escalates beyond its permitted objective | Output-Limiting; Constraint-Enforcement; Rate-Limiting; Human-Confirmation |
+| Feedback is false, poisoned, or manipulated | Feedback-Integrity; Data-Provenance; Input-Validation; Anomaly-Detection |
+| Adaptation targets an unauthorized entity or system | Identity-Verification; Authorization; Scope-Enforcement; Target-Validation |
+| Adaptation changes action behavior without user awareness | Transparency; Consent; Change-Notification; Auditability |
+| Rapid adaptation causes unstable or unpredictable behavior | Safety-Engineering; Stability-Verification; Bounded-Autonomy; Safe-Degradation |
+| Adaptation bypasses defensive controls | Adaptive-Defense; Access-Control; Isolation; Tamper-Resistance; Incident-Response |
+| An adaptation becomes harmful or cannot be safely continued | Stop-Condition; Reversal; Rollback; Containment; Recovery |
+| Simulation or fictional capability is misrepresented as real | Provenance; Epistemic-Status; Simulation-Boundary; Truthfulness |
+
+## G. Verification requirements
+
+Any implementation claiming support for Adaptive-Attacks Alchemy must demonstrate, as applicable:
+
+- A clearly defined target domain and legitimate purpose; no unapproved real-world target.
+- Explicit separation between fictional/simulated actions and real-world operations.
+- A documented baseline action and the exact conditions that trigger adaptation.
+- Provenance and integrity checks for every input used to adapt an action.
+- Explicit maximum output, scope, rate, resource, and duration limits.
+- Authorization and policy checks before every real-world operation or consequential state change.
+- Validation that the adapted action still satisfies the intended objective and safety constraints.
+- Detection of oscillation, runaway escalation, feedback poisoning, and unstable adaptation.
+- A tested stop, rollback, or safe-degradation path.
+- Audit records showing the initial state, trigger, inputs, transformation, policy decision, resulting action, and outcome.
+- Tests for adversarial inputs, invalid feedback, unavailable information, conflicting constraints, and adaptation failure.
+- Evidence that defensive controls cannot be silently bypassed by the adaptation mechanism.
+
+A system that merely changes an attack's appearance in a fictional simulation must not claim real-world adaptive combat capability. A system that adapts defensive testing or simulated adversarial scenarios must document its authorized scope and safeguards.
+
+## H. Source record and evidence boundary
+
+- **Primary source:** Trait:Adaptive Attacks, Superpower Wiki / Fandom: https://powerlisting.fandom.com/wiki/Trait:Adaptive_Attacks
+- **Source-stated core definition:** create/use attacks capable of adapting.
+- **Source-stated alternate name:** Evolving Attacks.
+- **Source-stated applications:** Adaptive Augmentation; Attack Modification; Defense Adaptation.
+- **Source-stated associations:** Attack Powers; Reactive Adaptation; Self-Adaptive Power.
+- **Source-stated limitations:** adaptation may not be permanent; it may not work in every situation; adaptations or amplifications may weaken.
+- **Cross-reference sources reviewed:** Adaptive Combat; Reactive Adaptation; Technological Adaptation; Adaptation Science; Adaptations category; Attack Powers; Adaptation Immunity.
+- **Evidence status:** The sources establish terminology and relationships in a fictional/community taxonomy only. They do not establish real-world efficacy, safety, or authorization.
+- **Research limitation:** This intake reviews the supplied page and selected directly related entries. The Adaptations category contains many additional entries; those require their own source-by-source intake and must not be silently assumed covered here.
+
+**Intake conclusion:** Adaptive-Attacks Alchemy is added as a distinct canonical Alchemy with five core adaptive-action specializations, three proposed safety/verification specializations, and a separately classified Adaptive-Defense Alchemy. The new family is mapped across all four repositories, related to the wider adaptation taxonomy, and bounded by explicit authorization, safety, feedback-integrity, and reversal requirements.
