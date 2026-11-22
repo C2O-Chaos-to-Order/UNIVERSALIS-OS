@@ -959,6 +959,33 @@ The following entries add distinct Alchemies where the existing taxonomy did not
 | PVA-029 | Recurrence-Prevention Alchemy | Convert verified incident causes and corrective findings into tested controls that reduce the likelihood of recurrence. |
 | PVA-030 | Prevention-Verification Alchemy | Test whether prevention controls are present, effective, resistant to bypass, proportionate, and maintained throughout the lifecycle. |
 
+### 15.2A Additional domain-specific Preventative Alchemies established by retrospective review
+
+These entries address concrete gaps identified in the existing intelligence, agentic, information, cyber, physical-world, and infrastructure threat families. They are proposed canonical Preventative Alchemies; their names do not imply implementation.
+
+| ID | Canonical Alchemy | Definition |
+|---|---|---|
+| PVA-031 | Prompt-Injection-Prevention Alchemy | Prevent direct and indirect instruction injection from changing trusted instructions, authority, or task scope. |
+| PVA-032 | Model-Poisoning-Prevention Alchemy | Prevent poisoned training, fine-tuning, evaluation, or model artifacts from corrupting model behavior. |
+| PVA-033 | Memory-Poisoning-Prevention Alchemy | Prevent untrusted or manipulated information from corrupting persistent or session memory and retrieval context. |
+| PVA-034 | Unsafe-Output-Handling-Prevention Alchemy | Prevent unvalidated model or system outputs from being interpreted as executable commands, markup, queries, or privileged instructions. |
+| PVA-035 | Sensitive-Information-Disclosure-Prevention Alchemy | Prevent unauthorized disclosure of personal, confidential, privileged, or otherwise restricted information through outputs, logs, context, or interfaces. |
+| PVA-036 | Agent-Goal-Hijacking-Prevention Alchemy | Prevent malicious or untrusted content, peers, tools, or context from redirecting an agent away from its authorized objective. |
+| PVA-037 | Tool-Misuse-Prevention Alchemy | Prevent tools, plugins, APIs, and connected services from being invoked outside validated purpose, scope, permission, and input constraints. |
+| PVA-038 | Excessive-Agency-Prevention Alchemy | Prevent agentic systems from receiving excessive functionality, permissions, autonomy, or consequential action authority. |
+| PVA-039 | Unbounded-Consumption-Prevention Alchemy | Prevent uncontrolled inference, recursive calls, token generation, compute use, storage, network, and cost consumption. |
+| PVA-040 | Supply-Chain-Compromise-Prevention Alchemy | Prevent compromised software, hardware, model, dataset, build, update, and service dependencies from entering trusted operation. |
+| PVA-041 | Unsafe-Physical-Action-Prevention Alchemy | Prevent physical actions that exceed validated movement, force, speed, workspace, environmental, or human-safety constraints. |
+| PVA-042 | Model-Extraction-Prevention Alchemy | Prevent unauthorized reconstruction, copying, or extraction of protected model behavior, parameters, or proprietary intellectual assets. |
+| PVA-043 | Model-Inversion-Prevention Alchemy | Prevent inference processes from exposing sensitive training or personal information through reconstructed outputs. |
+| PVA-044 | Membership-Inference-Prevention Alchemy | Prevent unauthorized inference about whether an individual or record was included in a protected dataset. |
+| PVA-045 | System-Prompt-Leakage-Prevention Alchemy | Prevent disclosure of confidential system instructions, internal policies, secrets, or privileged operational context. |
+| PVA-046 | Vector-and-Embedding-Poisoning-Prevention Alchemy | Prevent malicious or corrupted vectors, embeddings, indexes, and retrieval records from manipulating retrieval-augmented outputs. |
+| PVA-047 | Credential-Theft-Prevention Alchemy | Prevent credentials, tokens, keys, sessions, and authentication artifacts from being stolen, replayed, or misused. |
+| PVA-048 | Irreversible-Agent-Action-Prevention Alchemy | Prevent autonomous or delegated systems from performing irreversible actions without heightened authorization, review, safeguards, and recovery planning. |
+| PVA-049 | Biological-Misuse-Prevention Alchemy | Prevent biological knowledge, data, models, or workflows from being repurposed for harmful or unauthorized biological outcomes. |
+| PVA-050 | Critical-Infrastructure-Disruption-Prevention Alchemy | Prevent unauthorized or unsafe actions that could disrupt essential infrastructure, services, or public safety. |
+
 ### 15.3 Existing canonical Alchemies that form the prevention foundation
 
 The following existing entries are explicitly elevated as foundational prevention resources. They are not renamed or duplicated by PVA identifiers:
@@ -1066,19 +1093,15 @@ The architecture is informed by:
 
 These frameworks inform the design; they do not certify this taxonomy, prove that its proposed Alchemies are exhaustive, or replace applicable law, domain standards, expert assessment, or independent testing.
 
-### 15.10 Required work to complete the retrospective audit
+### 15.10 Retrospective coverage audit — first-pass register published
 
-The present amendment establishes the canonical prevention Alchemy registry, relationship rules, domain-level minimums, repository allocation, lifecycle gates, and verification suite. It does **not** falsely claim that every existing Alchemy has already received an individually completed risk assessment. The remaining audit is explicit:
+A separate, row-level coverage artifact has now been generated: `docs/alchemy-taxonomy/ALCHEMY_PREVENTION_COVERAGE_REGISTER.md`. It enumerates every distinct canonical Alchemy parsed from Sections 4–6 and every existing TRAIT/APU/ADA/PVA intake entry, retains multi-family membership and intake IDs, and assigns explicit named Preventative, Protective, Corrective, and Restorative Alchemy relationships to each row.
 
-- enumerate every canonical Alchemy and specialization in Sections 4–6 and all later intake addenda;
-- assign or preserve a stable identity and parent relationship;
-- map its foreseeable risks to named preventative Alchemies;
-- map protective, corrective, and restorative relationships separately;
-- record four-repository OS/App responsibility;
-- test for duplicate names, missing relationships, unassessed risks, and unjustified not-applicable decisions;
-- publish a coverage result with assessed, verified, partial, and gap counts.
+**Audit result:** 1399 distinct Alchemy names receive an individually recorded four-part, domain/threat-family baseline mapping. This is a first-pass retrospective coverage audit, not a claim of full contextual hazard assessment, implementation, testing, or verification. The register labels each row `MAPPED—DOMAIN-BASELINE; capability-specific review pending` so that no mapped relationship is misrepresented as an effective control.
 
-Until that register is completed and verified, the taxonomy's retrospective prevention coverage is **in progress**, not complete.
+The remaining work is now specific and traceable: normalize proposed control names against the canonical registry; complete capability-specific hazard and misuse analysis; review authority, affected interests, severity, likelihood, reversibility and residual risk; test controls and bypass paths; and update each row's status only when supporting evidence exists. No entry is considered safe merely because its row is populated.
+
+Every future intake must update both the master taxonomy and this register in the same repository change.
 
 ### 15.11 Source references
 
