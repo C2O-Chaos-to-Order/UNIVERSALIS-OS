@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.24.0  
-**Status:** Living taxonomy; version 0.24.0 includes the Animal Limbs Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
+**Version:** 0.25.0  
+**Status:** Living taxonomy; version 0.25.0 includes the Antler Protrusion Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -5279,3 +5279,113 @@ The taxonomy is a fictional and conceptual design framework. The source material
 
 ## Maintenance Record for v0.24.0
 This expansion adds **72 uniquely identified records**: **60 A-numbered Alchemies** (A2645–A2704), comprising **48 core Alchemies** (four for each of the 12 Zodiac stages) and **12 prevention/protection/detection/correction/recovery Alchemies**; **4 ecosystem profiles** (ALIM-C2O-001 through ALIM-GRD-001); and **8 defensive harm-pattern classifications** (ALIMX001–ALIMX008). The A-numbered sequence now reaches **A2704**. This identifier ceiling is not the cumulative count of all taxonomy records. Taxonomy inclusion does not establish implementation or scientific validation.
+
+
+# Antler Protrusion Alchemy Expansion — v0.25.0
+
+**Source concept:** Antler Protrusion — possession or controlled generation of antlers on the head or another body region; a morphology-specific variation associated with Natural Weaponry and cervid physiology. This fictional-source taxonomy separates antlers from true horns, Animal Limbs, and the acquisition mechanism in Animal-Induced Powers.
+
+**Scope:** antler morphology, manifestation, growth-state control, structural behavior, nonviolent utility, reversible transformation, accessibility, and safeguards. Antlers are not assumed to be safe weapons; head-first impact, breakage, snagging, and balance changes are explicit hazards.
+
+## Core Antler Protrusion Alchemies
+
+- **A2705 — Base Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; controlled biological-form definition, placement, and baseline fit.
+- **A2706 — Base Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; controlled biological-form definition, placement, and baseline fit.
+- **A2707 — Base Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; controlled biological-form definition, placement, and baseline fit.
+- **A2708 — Base Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; controlled biological-form definition, placement, and baseline fit.
+- **A2709 — Meta Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; meaning, distinction, and relationship mapping for antler forms.
+- **A2710 — Meta Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; meaning, distinction, and relationship mapping for antler forms.
+- **A2711 — Meta Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; meaning, distinction, and relationship mapping for antler forms.
+- **A2712 — Meta Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; meaning, distinction, and relationship mapping for antler forms.
+- **A2713 — Super Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; coherent multi-function design across support, defense, and expression.
+- **A2714 — Super Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; coherent multi-function design across support, defense, and expression.
+- **A2715 — Super Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; coherent multi-function design across support, defense, and expression.
+- **A2716 — Super Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; coherent multi-function design across support, defense, and expression.
+- **A2717 — Hyper Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; advanced adaptive geometry and context-sensitive configuration.
+- **A2718 — Hyper Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; advanced adaptive geometry and context-sensitive configuration.
+- **A2719 — Hyper Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; advanced adaptive geometry and context-sensitive configuration.
+- **A2720 — Hyper Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; advanced adaptive geometry and context-sensitive configuration.
+- **A2721 — Ultra Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; high-capacity but bounded structural resilience and precision.
+- **A2722 — Ultra Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; high-capacity but bounded structural resilience and precision.
+- **A2723 — Ultra Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; high-capacity but bounded structural resilience and precision.
+- **A2724 — Ultra Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; high-capacity but bounded structural resilience and precision.
+- **A2725 — Magic Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; symbolic or fictional manifestation with explicit nonliteral status.
+- **A2726 — Magic Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; symbolic or fictional manifestation with explicit nonliteral status.
+- **A2727 — Magic Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; symbolic or fictional manifestation with explicit nonliteral status.
+- **A2728 — Magic Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; symbolic or fictional manifestation with explicit nonliteral status.
+- **A2729 — Quantum Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; branching-state modeling for reversible and uncertain manifestations.
+- **A2730 — Quantum Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; branching-state modeling for reversible and uncertain manifestations.
+- **A2731 — Quantum Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; branching-state modeling for reversible and uncertain manifestations.
+- **A2732 — Quantum Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; branching-state modeling for reversible and uncertain manifestations.
+- **A2733 — Transformative Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; integrated reversible transformation and identity continuity.
+- **A2734 — Transformative Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; integrated reversible transformation and identity continuity.
+- **A2735 — Transformative Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; integrated reversible transformation and identity continuity.
+- **A2736 — Transformative Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; integrated reversible transformation and identity continuity.
+- **A2737 — Quintessential Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; minimal, stable, purpose-limited antler expression.
+- **A2738 — Quintessential Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; minimal, stable, purpose-limited antler expression.
+- **A2739 — Quintessential Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; minimal, stable, purpose-limited antler expression.
+- **A2740 — Quintessential Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; minimal, stable, purpose-limited antler expression.
+- **A2741 — Manifestation Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; generation, growth, branching, and controlled retraction.
+- **A2742 — Manifestation Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; generation, growth, branching, and controlled retraction.
+- **A2743 — Manifestation Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; generation, growth, branching, and controlled retraction.
+- **A2744 — Manifestation Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; generation, growth, branching, and controlled retraction.
+- **A2745 — Elemental Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; material, energy, environmental, and interaction modeling.
+- **A2746 — Elemental Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; material, energy, environmental, and interaction modeling.
+- **A2747 — Elemental Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; material, energy, environmental, and interaction modeling.
+- **A2748 — Elemental Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; material, energy, environmental, and interaction modeling.
+- **A2749 — Final Quintessential Antler Morphology Alchemy:** define antler geometry, branching pattern, symmetry, and permitted body placement; whole-system coherence, review, and safe termination.
+- **A2750 — Final Quintessential Antler Manifestation Alchemy:** model appearance, extension, retraction, and non-permanent generation states; whole-system coherence, review, and safe termination.
+- **A2751 — Final Quintessential Antler Function Alchemy:** bound load-bearing, signaling, display, balance, and defensive functions without presuming combat; whole-system coherence, review, and safe termination.
+- **A2752 — Final Quintessential Antler Integration Alchemy:** coordinate sensory awareness, posture, mobility, identity, clothing/accessibility, and safe clearance; whole-system coherence, review, and safe termination.
+
+## Prevention, Protection, Detection, Correction, and Recovery Alchemies
+
+- **A2753 — Involuntary Manifestation Prevention Alchemy:** prevent unrequested, deceptive, coercive, or non-consensual antler generation or extension; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2754 — Anatomical Placement Protection Alchemy:** constrain placement and growth to explicitly authorized, non-injurious conceptual boundaries; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2755 — Growth-Rate and Load Limiting Alchemy:** bound growth rate, mass, leverage, and structural loading to avoid uncontrolled strain; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2756 — Breakage and Fragment Hazard Detection Alchemy:** identify modeled cracking, breakage, sharp fragments, and secondary injury risks; trigger safe stop states; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2757 — Impact and Collision Prevention Alchemy:** detect clearance conflicts and discourage head-first impact or hazardous charging behavior; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2758 — Snagging and Entanglement Protection Alchemy:** identify entanglement risks involving clothing, equipment, vegetation, doors, and confined spaces; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2759 — Balance and Mobility Compensation Alchemy:** detect modeled shifts in center of mass, posture, neck loading, and movement interference; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2760 — Sensory and Neurological Overload Prevention Alchemy:** limit intrusive sensation, pain, disorientation, and overload; do not suppress warning signals; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2761 — Weaponization and Coercion Prevention Alchemy:** block coercive use, forced display, intimidation, and escalation into harmful weapon behavior; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2762 — Identity, Privacy, and Reversibility Protection Alchemy:** preserve user-defined identity, privacy, informed consent, and revocation/retraction choices; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2763 — Failure Containment and Safe Retraction Alchemy:** provide a bounded stop, stabilization, and non-injurious retraction pathway for modeled failures; retain auditability and never treat a safeguard bypass as successful completion.
+- **A2764 — Independent Audit and Recovery Verification Alchemy:** record authorization, state transitions, hazards, corrections, unresolved risks, and recovery checks for review; retain auditability and never treat a safeguard bypass as successful completion.
+
+## Ecosystem Profiles
+
+- **ANTP-C2O-001 — C2O profile:** private-source governance, authorization, audit, and containment controls; no private keys, policies, or incident data are exposed through public contracts.
+- **ANTP-UNI-001 — UNIVERSALIS profile:** open, inspectable, independently operable public contracts for consent, safe state transitions, accessibility, and verifiable evidence.
+- **ANTP-INS-001 — UNIVERSALINS profile:** non-personal assistants may explain, model, and check authorized states but cannot override human consent or safety stops.
+- **ANTP-GRD-001 — UNIVERSALIN Guardians profile:** personal human-assistant support is user-directed, revocable, privacy-preserving, and never coercive.
+
+## Defensive Harm-Pattern Classifications
+
+- **ANTPX001 — Unconsented antler manifestation or forced transformation.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX002 — Uncontrolled growth, excessive mass, or structural overload.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX003 — Breakage, splintering, or fragment-related injury pathway.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX004 — Head-impact, collision, charging, or blunt-force misuse.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX005 — Snagging, entanglement, restraint, or mobility obstruction.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX006 — Pain, sensory overload, balance disruption, or neurological distress.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX007 — Coercive display, intimidation, weaponization, or forced combat.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+- **ANTPX008 — Identity violation, privacy breach, unsafe persistence, or failed retraction.** Defensive classification for prevention, detection, containment, and review; not an instruction set for causing harm.
+
+## Relationships and Non-duplication Rules
+
+- **Antler Protrusion** is the specialized morphology and manifestation family; **Animal Limbs** addresses limb morphology; **Animal-Induced Powers** addresses acquisition or induction pathways; **Animal Ears** addresses a distinct sensory anatomy family.
+- Relate to **Cervid Physiology** and **Ungulate Physiology** as broader physiological contexts, and to **Natural Weaponry**, **Appendage Generation**, **Animal Morphing**, **Animal Imitation**, **Partial Transformation**, and **Horn Protrusion** only where the modeled feature genuinely overlaps.
+- Antlers are branched bony structures in the fictional taxonomy; do not collapse them into unbranched horns or assume all horn-related properties transfer. Distinguish temporary generated constructs from persistent anatomy and from externally worn accessories.
+- Cross-domain links may reference Body, Heart, Mind, Soul, Spirit, Consciousness, OS, and App Alchemy families, but must preserve domain-specific scope and not imply that metaphorical or symbolic states are biological facts.
+
+## Safety and Evidence Boundaries
+
+- Require informed, voluntary, specific, and revocable authorization for every modeled manifestation or state change; default to no manifestation.
+- No real-world bodily modification, surgery, transplantation, genetic manipulation, animal exposure, or hazardous experimentation is implied or authorized.
+- Treat pain, injury, instability, collision risk, entanglement, impaired movement, and loss of control as stop conditions. Do not suppress warnings or optimize for injury.
+- Preserve accessibility, identity continuity, privacy, non-coercion, safe retraction, and independent human oversight. Defensive safeguards are mandatory taxonomy entries, not optional commentary.
+- This is a fictional/conceptual taxonomy, not medical, biological, engineering, or scientific validation, and not evidence that any capability is implementable.
+
+## Maintenance Record for v0.25.0
+
+This expansion adds **72 uniquely identified records**: **60 A-numbered Alchemies** (A2705–A2764), comprising **48 core Alchemies** (four for each of the 12 taxonomy stages) and **12 prevention/protection/detection/correction/recovery Alchemies**; **4 ecosystem profiles** (ANTP-C2O-001 through ANTP-GRD-001); and **8 defensive harm-pattern classifications** (ANTPX001–ANTPX008). The A-numbered sequence now reaches **A2764**. This identifier ceiling is not the cumulative count of all taxonomy records. Taxonomy inclusion does not establish implementation or scientific validation.
