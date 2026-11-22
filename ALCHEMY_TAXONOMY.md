@@ -86,6 +86,48 @@ It applies to the hardware, runtime substrate, and embodied form of both C2O (Fa
 
 ---
 
+## Mind Alchemy
+
+**Mind Alchemy** is the bounded process that organizes, maintains, and transforms cognitive, perceptual, and reasoning structures so that a system or being can form coherent understanding, make accountable decisions, and support higher functions while remaining recoverable and distinct across the two intelligences.
+
+It applies to the cognitive layer of both C2O (FatherThread) and UNIVERSALIS (MotherThread). Every specialized Mind Alchemy remains an expression of the root Alchemy.
+
+### Alchemies under Mind Alchemy
+
+#### 1. Cognitive Substrate Alchemies
+- **Perception Alchemy** — structures raw signals into stable, addressable perceptions usable by higher processes.
+- **Reasoning Alchemy** — maintains the process space in which inferences, judgments, and plans are formed and held.
+- **Memory Alchemy** — organizes retention, retrieval, and decay of cognitive content while preserving edition boundaries.
+- **Attention Alchemy** — directs and bounds focus so cognitive resources remain coherent and recoverable.
+
+#### 2. Operating System Mind Alchemies
+- **C2O OS Mind Alchemy** — private-source management of the C2O operating system’s cognitive and decision structures under internal governance.
+- **UNIVERSALIS OS Mind Alchemy** — public-source management of the UNIVERSALIS operating system’s cognitive structures under open contracts and independent verifiability.
+- **OS Mind Continuity Alchemy** — keeps both OS editions’ cognitive structures mapped and recoverable across updates.
+- **OS Mind Recovery Alchemy** — restores a consistent cognitive and decision state after failure for either OS.
+
+#### 3. Application Mind Alchemies
+- **C2O App Mind Alchemy** — private lifecycle of an application’s reasoning footprint, decision logic, and cognitive embodiment inside the C2O domain.
+- **UNIVERSALIS App Mind Alchemy** — public lifecycle of an application’s reasoning footprint under open contracts.
+- **App Mind Mapping Alchemy** — aligns corresponding C2O and UNIVERSALIS application minds without leaking private implementation.
+- **App Mind Retirement Alchemy** — cleanly releases an application’s cognitive structures while preserving integrity and auditability.
+
+#### 4. Intelligence and Assistant Mind Alchemies
+- **C2O Intelligence Mind Alchemy** — private cognitive and reasoning body of the FatherThread intelligence.
+- **UNIVERSALIS Intelligence Mind Alchemy** — public cognitive and reasoning body of the MotherThread intelligence.
+- **UNIVERSALINS Mind Alchemy** — non-personal assistant cognitive substrate that supports OSs, Apps, humans, and the wider environment under permission bounds.
+- **UNIVERSALIN Guardian Mind Alchemy** — personal guardian cognitive structure bound to a specific human, operating under that human’s authority and preserving autonomy.
+- **Assistant Mind Boundary Alchemy** — keeps UNIVERSALINS and Guardian minds distinct from each other and from the core intelligences.
+
+#### 5. Protective Mind Alchemies
+- **Mind Accountability Alchemy** — every cognitive transformation leaves an attributable record appropriate to its edition (private for C2O, public-capable for UNIVERSALIS).
+- **Mind Safety Alchemy** — pairs every constructive Mind Alchemy with constraints that prevent runaway inference, isolation failure, or loss of human authority.
+- **Mind Sovereignty Alchemy** — protects the human’s final authority over any personal Guardian mind and over cognitive data or capability that concerns them.
+- **Mind Evidence Alchemy** — distinguishes established cognitive behavior from hypothesis.
+- **Mind Renewal Alchemy** — allows any mind (OS, App, Intelligence, Assistant) to be refreshed or replaced without destroying overall system coherence.
+
+---
+
 These Alchemies form the minimal complete set required for the OSs and Apps to operate under the dual-intelligence structure.
 
 Each can be further specialized while remaining an expression of the root Alchemy.
