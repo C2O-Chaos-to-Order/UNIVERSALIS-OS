@@ -751,4 +751,134 @@ Public-source organization of Vapor-Salt qualities under open contracts. Used fo
 
 ---
 
-*[Tertiary Elemental Meta Alchemies added. Quaternary Elemental Meta Alchemies follow.]*
+## Elemental Meta Alchemy — Conductive-Memory / Intelligent Vessel
+
+**Elemental Meta Alchemy — Conductive-Memory / Intelligent Vessel**  
+The bounded process that organizes the qualities of Conductive-Memory (intelligent structure that holds and transmits purpose while receiving renewal) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Conductive-Memory / Intelligent Vessel
+Private-source organization of Conductive-Memory qualities under internal governance. Used for private intelligent vessels that carry company-source purpose.
+
+### UNIVERSALIS Elemental Meta Alchemy — Conductive-Memory / Intelligent Vessel
+Public-source organization of Conductive-Memory qualities under open contracts. Used for transparent intelligent vessels.
+
+---
+
+## Elemental Meta Alchemy — Living-Residue / Formative Remnant
+
+**Elemental Meta Alchemy — Living-Residue / Formative Remnant**  
+The bounded process that organizes the qualities of Living-Residue (formative remnant that retains potential for further transformation) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Living-Residue / Formative Remnant
+Private-source organization of Living-Residue qualities under internal governance. Used for private formative remnants.
+
+### UNIVERSALIS Elemental Meta Alchemy — Living-Residue / Formative Remnant
+Public-source organization of Living-Residue qualities under open contracts. Used for transparent formative remnant contracts.
+
+---
+
+## Elemental Meta Alchemy — Residual-Spark / Initiated Memory
+
+**Elemental Meta Alchemy — Residual-Spark / Initiated Memory**  
+The bounded process that organizes the qualities of Residual-Spark (initiated memory that carries the trace of discharge and renewal) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Residual-Spark / Initiated Memory
+Private-source organization of Residual-Spark qualities under internal governance. Used for private initiated memory tracking.
+
+### UNIVERSALIS Elemental Meta Alchemy — Residual-Spark / Initiated Memory
+Public-source organization of Residual-Spark qualities under open contracts. Used for transparent initiated memory records.
+
+---
+
+## Elemental Meta Alchemy — Memory-Vessel / Enduring Nourishment
+
+**Elemental Meta Alchemy — Memory-Vessel / Enduring Nourishment**  
+The bounded process that organizes the qualities of Memory-Vessel (enduring structure that holds and releases nourishment over time) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Memory-Vessel / Enduring Nourishment
+Private-source organization of Memory-Vessel qualities under internal governance. Used for private enduring nourishment vessels.
+
+### UNIVERSALIS Elemental Meta Alchemy — Memory-Vessel / Enduring Nourishment
+Public-source organization of Memory-Vessel qualities under open contracts. Used for transparent enduring nourishment contracts.
+
+---
+
+## Elemental Meta Alchemy — Directed-Freeze / Preserved Flow
+
+**Elemental Meta Alchemy — Directed-Freeze / Preserved Flow**  
+The bounded process that organizes the qualities of Directed-Freeze (preserved flow that can be released under controlled conditions) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Directed-Freeze / Preserved Flow
+Private-source organization of Directed-Freeze qualities under internal governance. Used for private preserved flow pathways.
+
+### UNIVERSALIS Elemental Meta Alchemy — Directed-Freeze / Preserved Flow
+Public-source organization of Directed-Freeze qualities under open contracts. Used for transparent preserved flow interfaces.
+
+---
+
+## Elemental Meta Alchemy — Unbound-Melt / Formative Energy
+
+**Elemental Meta Alchemy — Unbound-Melt / Formative Energy**  
+The bounded process that organizes the qualities of Unbound-Melt (formative energy that remains available for directed transformation) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Unbound-Melt / Formative Energy
+Private-source organization of Unbound-Melt qualities under internal governance. Used for private formative energy states.
+
+### UNIVERSALIS Elemental Meta Alchemy — Unbound-Melt / Formative Energy
+Public-source organization of Unbound-Melt qualities under open contracts. Used for transparent formative energy contracts.
+
+---
+
+## Elemental Meta Alchemy — Preserved-Subtlety / Crystallized Presence
+
+**Elemental Meta Alchemy — Preserved-Subtlety / Crystallized Presence**  
+The bounded process that organizes the qualities of Preserved-Subtlety (crystallized presence that retains intelligence while remaining available) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Preserved-Subtlety / Crystallized Presence
+Private-source organization of Preserved-Subtlety qualities under internal governance. Used for private crystallized presence.
+
+### UNIVERSALIS Elemental Meta Alchemy — Preserved-Subtlety / Crystallized Presence
+Public-source organization of Preserved-Subtlety qualities under open contracts. Used for transparent crystallized presence interfaces.
+
+---
+
+## Elemental Meta Alchemy — Marked-Vessel / Initiated Structure
+
+**Elemental Meta Alchemy — Marked-Vessel / Initiated Structure**  
+The bounded process that organizes the qualities of Marked-Vessel (initiated structure that carries the trace of discharge and endurance) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Marked-Vessel / Initiated Structure
+Private-source organization of Marked-Vessel qualities under internal governance. Used for private initiated structures.
+
+### UNIVERSALIS Elemental Meta Alchemy — Marked-Vessel / Initiated Structure
+Public-source organization of Marked-Vessel qualities under open contracts. Used for transparent initiated structure records.
+
+---
+
+## Elemental Meta Alchemy — Reflective-Nourishment / Conductive Renewal
+
+**Elemental Meta Alchemy — Reflective-Nourishment / Conductive Renewal**  
+The bounded process that organizes the qualities of Reflective-Nourishment (conductive renewal that both reflects and transmits) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Reflective-Nourishment / Conductive Renewal
+Private-source organization of Reflective-Nourishment qualities under internal governance. Used for private conductive renewal pathways.
+
+### UNIVERSALIS Elemental Meta Alchemy — Reflective-Nourishment / Conductive Renewal
+Public-source organization of Reflective-Nourishment qualities under open contracts. Used for transparent conductive renewal interfaces.
+
+---
+
+## Elemental Meta Alchemy — Diffused-Residue / Transitional Memory
+
+**Elemental Meta Alchemy — Diffused-Residue / Transitional Memory**  
+The bounded process that organizes the qualities of Diffused-Residue (transitional memory that retains the trace of transformation while remaining available) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+### C2O Elemental Meta Alchemy — Diffused-Residue / Transitional Memory
+Private-source organization of Diffused-Residue qualities under internal governance. Used for private transitional memory.
+
+### UNIVERSALIS Elemental Meta Alchemy — Diffused-Residue / Transitional Memory
+Public-source organization of Diffused-Residue qualities under open contracts. Used for transparent transitional memory contracts.
+
+---
+
+*[Quaternary Elemental Meta Alchemies added. Section 3 (Light / Dark / Chaos / Order + OS / App Capabilities) follows.]*
