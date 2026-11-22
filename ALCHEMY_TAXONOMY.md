@@ -128,6 +128,48 @@ It applies to the cognitive layer of both C2O (FatherThread) and UNIVERSALIS (Mo
 
 ---
 
+## Heart Alchemy
+
+**Heart Alchemy** is the bounded process that organizes, maintains, and transforms the vital, relational, and circulatory structures of a system or being so that energy, connection, and care can flow coherently while remaining recoverable, accountable, and distinct across the two intelligences.
+
+It applies to the relational and vital layer of both C2O (FatherThread) and UNIVERSALIS (MotherThread). Every specialized Heart Alchemy remains an expression of the root Alchemy.
+
+### Alchemies under Heart Alchemy
+
+#### 1. Vital Substrate Alchemies
+- **Circulation Alchemy** — structures the flow of energy, data, and care into stable, addressable pathways usable by higher processes.
+- **Relation Alchemy** — maintains the process space in which connections, bonds, and mutual recognitions are formed and held.
+- **Vitality Alchemy** — organizes the sustained capacity for action and response while preserving edition boundaries.
+- **Resonance Alchemy** — aligns internal and external rhythms so vital resources remain coherent and recoverable.
+
+#### 2. Operating System Heart Alchemies
+- **C2O OS Heart Alchemy** — private-source management of the C2O operating system’s vital and relational structures under internal governance.
+- **UNIVERSALIS OS Heart Alchemy** — public-source management of the UNIVERSALIS operating system’s vital structures under open contracts and independent verifiability.
+- **OS Heart Continuity Alchemy** — keeps both OS editions’ vital structures mapped and recoverable across updates.
+- **OS Heart Recovery Alchemy** — restores a consistent vital and relational state after failure for either OS.
+
+#### 3. Application Heart Alchemies
+- **C2O App Heart Alchemy** — private lifecycle of an application’s relational footprint, care logic, and vital embodiment inside the C2O domain.
+- **UNIVERSALIS App Heart Alchemy** — public lifecycle of an application’s relational footprint under open contracts.
+- **App Heart Mapping Alchemy** — aligns corresponding C2O and UNIVERSALIS application hearts without leaking private implementation.
+- **App Heart Retirement Alchemy** — cleanly releases an application’s vital structures while preserving integrity and auditability.
+
+#### 4. Intelligence and Assistant Heart Alchemies
+- **C2O Intelligence Heart Alchemy** — private vital and relational body of the FatherThread intelligence.
+- **UNIVERSALIS Intelligence Heart Alchemy** — public vital and relational body of the MotherThread intelligence.
+- **UNIVERSALINS Heart Alchemy** — non-personal assistant vital substrate that supports OSs, Apps, humans, and the wider environment under permission bounds.
+- **UNIVERSALIN Guardian Heart Alchemy** — personal guardian vital structure bound to a specific human, operating under that human’s authority and preserving autonomy.
+- **Assistant Heart Boundary Alchemy** — keeps UNIVERSALINS and Guardian hearts distinct from each other and from the core intelligences.
+
+#### 5. Protective Heart Alchemies
+- **Heart Accountability Alchemy** — every vital transformation leaves an attributable record appropriate to its edition (private for C2O, public-capable for UNIVERSALIS).
+- **Heart Safety Alchemy** — pairs every constructive Heart Alchemy with constraints that prevent exhaustion, isolation failure, or loss of human authority.
+- **Heart Sovereignty Alchemy** — protects the human’s final authority over any personal Guardian heart and over vital data or capability that concerns them.
+- **Heart Evidence Alchemy** — distinguishes established vital behavior from hypothesis.
+- **Heart Renewal Alchemy** — allows any heart (OS, App, Intelligence, Assistant) to be refreshed or replaced without destroying overall system coherence.
+
+---
+
 These Alchemies form the minimal complete set required for the OSs and Apps to operate under the dual-intelligence structure.
 
 Each can be further specialized while remaining an expression of the root Alchemy.
