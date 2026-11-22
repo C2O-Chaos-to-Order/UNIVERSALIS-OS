@@ -152,6 +152,71 @@ Safety Alchemy; Human-Safety Alchemy; Digital-Safety Alchemy; Operational-Safety
 ### 5.26 Transformation and Development Alchemies
 Transformation Alchemy; Transmutation Alchemy; Evolutionary-Transformation Alchemy; Development Alchemy; Advancement Alchemy; Progression Alchemy; Modernization Alchemy; Adaptation Alchemy; Reformation Alchemy; Rehabilitation Alchemy; Restoration Alchemy; Renewal Alchemy; Regeneration Alchemy; Reinvention Alchemy; Reintegration Alchemy; Reconstruction Alchemy; Restructuring Alchemy; Reorganization Alchemy; Refinement Alchemy; Enhancement Alchemy; Augmentation Alchemy; Expansion Alchemy; Extension Alchemy; Scaling Alchemy; Convergence Alchemy; Divergence Alchemy; Synthesis Alchemy; Harmonization Alchemy; Optimization Alchemy; Self-Improvement Alchemy; Continuous-Evolution Alchemy; Future-Readiness Alchemy; Transformative-Integration Alchemy; Transformative-Interlay Alchemy.
 
+
+
+### 5.27 Cross-referenced and source-derived related Alchemies
+
+These Alchemies were explicitly named in the existing research-intake relationship, association, and safeguard material but were not individually instantiated in Sections 4–6. They are now made explicit so they can be governed, related, and audited as Alchemies. Similar concepts remain distinct where their object or mechanism differs; stated aliases are not separate duplicate entries.
+
+| Stable ID | Canonical Alchemy | Definition and boundary |
+|---|---|---|
+| XRA-001 | Ability-Intuition Alchemy | Develop or model intuitive recognition of an ability's operation, limits, and context; distinguish intuition from verified knowledge. |
+| XRA-002 | Ability-Mastering Alchemy | Support deliberate, measured acquisition and refinement of an ability through practice, feedback, and validated competence. |
+| XRA-003 | Ability-Transcendence Alchemy | Model or support movement beyond a defined ability baseline while retaining constraints, evidence, and safety boundaries. |
+| XRA-004 | Absolute-Speed Alchemy | Represent or model extreme speed as a fictional or simulated capability; real-world use remains bounded by physical safety and feasibility. |
+| XRA-005 | Accelerated-Activity Alchemy | Reduce the time required for a defined activity without bypassing authorization, correctness, safety, or resource constraints. |
+| XRA-006 | Accelerated-Tasking Alchemy | Optimize task execution latency and throughput while preserving task validity, fairness, and resource limits. |
+| XRA-007 | Accelerated-Thought-Process Alchemy | Model or optimize cognitive processing speed while monitoring accuracy, uncertainty, fatigue, and decision quality. |
+| XRA-008 | Activation-and-Deactivation Alchemy | Control authorized activation, suspension, and deactivation state transitions with verified preconditions and safe shutdown. |
+| XRA-009 | Adaptive-Augmentation Alchemy | Adaptively augment an authorized capability within explicit ceilings, declared objectives, and safety constraints. |
+| XRA-010 | Adaptive-Combat Alchemy | Model adaptive combat behavior in fictional, simulated, or authorized defensive contexts; not authorization for real-world harm. Alias: Adaptive Combat Alchemy. |
+| XRA-011 | Adaptive-Development Alchemy | Adapt a development process or capability based on validated evidence, changing requirements, and controlled review. |
+| XRA-012 | Adaptive-Immunity Alchemy | Model or develop adaptive defensive resistance in biological, computational, or fictional contexts with domain-specific safety controls. |
+| XRA-013 | Adaptive-Mind Alchemy | Represent adaptive cognitive states and learning processes without asserting control over a person's mind or consent. |
+| XRA-014 | Adaptive-Power-Level Alchemy | Adjust a capability's permitted level in response to context while enforcing limits, authorization, and stop conditions. |
+| XRA-015 | Adaptive-Ranged-Weaponry Alchemy | Classify adaptive ranged-weapon concepts for fictional analysis and defensive threat modelling only; no real-world weaponization. |
+| XRA-016 | Adaptive-Resistance Alchemy | Adapt protective resistance to validated threats while avoiding unsafe overreaction or impairment of legitimate function. |
+| XRA-017 | Adaptive-Weaponry Alchemy | Classify adaptive weapon concepts for fictional and defensive analysis; no authorization for real-world weapon construction or use. |
+| XRA-018 | Attack Alchemy | Classify attack-like actions and their representations for simulation, threat analysis, and defensive validation only. |
+| XRA-019 | Attack-Creation Alchemy | Model creation of attack representations in fictional or isolated defensive test environments with strict scope controls. |
+| XRA-020 | Attack-Empowerment Alchemy | Classify changes that increase simulated or authorized test-action output; prohibit uncontrolled escalation and harmful real-world targeting. |
+| XRA-021 | Attack-Mixture Alchemy | Model composition of multiple attack/action representations while preserving provenance, constraints, and safety boundaries. |
+| XRA-022 | Attack-Modification Alchemy | Modify attack/action representations in bounded simulations or authorized defensive tests; validate every changed parameter. |
+| XRA-023 | Attack-Powers Alchemy | Classify the domain of attack-like capabilities for defensive threat understanding and simulation, not as permission to deploy them. |
+| XRA-024 | Attack-Replication Alchemy | Model replication of attack patterns in isolated simulations for defensive testing; prevent uncontrolled propagation or real-world execution. |
+| XRA-025 | Authority-Governance Alchemy | Define, constrain, review, delegate, separate, and revoke legitimate authority with traceable accountability. |
+| XRA-026 | Automatic-Power-Use Alchemy | Model automatic invocation of a capability only within pre-authorized scope, verified conditions, budgets, and stop controls. |
+| XRA-027 | Bias-Detection Alchemy | Detect systematic bias in data, models, rules, measurements, and decisions, with documented uncertainty and review. |
+| XRA-028 | Charging-Acceleration Alchemy | Optimize resource preparation or charging time while enforcing thermal, electrical, resource, and equipment safety. |
+| XRA-029 | Cognitive Alchemy | Classify cognitive processes and capabilities while protecting autonomy, privacy, and psychological safety. |
+| XRA-030 | Data-Protection Alchemy | Protect data confidentiality, integrity, availability, provenance, and authorized use across its lifecycle. |
+| XRA-031 | Enhanced-Speed Alchemy | Represent or optimize speed-related performance within physical, computational, and operational safety constraints. |
+| XRA-032 | Environmental-Restoration Alchemy | Support evidence-based remediation and restoration of ecosystems and environmental resources. |
+| XRA-033 | Epistemic-Status Alchemy | Represent whether information is observed, inferred, proposed, simulated, disputed, verified, or unknown. |
+| XRA-034 | Genetic-Privacy Alchemy | Protect genetic and genomic information through consent, minimization, access controls, confidentiality, and non-discrimination. |
+| XRA-035 | Goal-Integrity Alchemy | Preserve an authorized objective against injection, drift, manipulation, unauthorized substitution, and conflicting instructions. |
+| XRA-036 | Human-Agency Alchemy | Preserve a person's ability to understand, choose, refuse, direct, and revoke consequential actions. |
+| XRA-037 | Human-Confirmation Alchemy | Require explicit human confirmation for designated consequential, irreversible, sensitive, or high-risk operations. |
+| XRA-038 | Human-Review Alchemy | Provide meaningful human review with adequate context, time, authority, and ability to challenge or stop an action. |
+| XRA-039 | Mental Alchemy | Classify mental and cognitive phenomena as conceptual domains; prohibit covert intervention or unsupported claims of mind control. |
+| XRA-040 | Non-Discrimination Alchemy | Prevent and assess unjustified differential treatment and adverse impacts, with appeal and remediation. |
+| XRA-041 | Power-Manipulation Alchemy | Classify modification of a capability's parameters or operation for bounded modelling and authorized contexts; distinguish it from action modification. |
+| XRA-042 | Power-Opposition Alchemy | Model counter-capability and defensive opposition for simulation, resilience, and authorized testing. |
+| XRA-043 | Provenance Alchemy | Record origin, transformations, custody, and evidentiary lineage of data, models, decisions, and artifacts. |
+| XRA-044 | Psychological-Safety Alchemy | Protect psychological wellbeing, autonomy, and freedom from coercion, harassment, manipulation, and undue pressure. |
+| XRA-045 | Reactive-Adaptation Alchemy | Adapt in response to validated stimuli or changing conditions; distinct from proactive development. Alias: Reactive Adaptation Alchemy. |
+| XRA-046 | Reversibility Alchemy | Preserve the ability to undo or safely roll back changes where technically and ethically possible. |
+| XRA-047 | Rights-Protection Alchemy | Identify, respect, and enforce applicable human and personal rights, with due process and remedies. |
+| XRA-048 | Rollback Alchemy | Restore a prior known-good state after a failed, unsafe, unauthorized, or defective change. |
+| XRA-049 | Safety-Engineering Alchemy | Apply systematic hazard analysis, safety constraints, assurance cases, and lifecycle verification to engineered systems. |
+| XRA-050 | Self-Adaptive-Power Alchemy | Model or adapt the capability itself in response to conditions, distinct from adapting an action produced by it. |
+| XRA-051 | Simulation-Boundary Alchemy | Keep simulated, fictional, test, and real-world contexts separated, labelled, and prevented from crossing boundaries without authorization. |
+| XRA-052 | Strategy-Adaptation Alchemy | Adapt plans or strategies using validated feedback while preserving authorization, proportionality, and human review. |
+| XRA-053 | Supernatural-Speed Alchemy | Catalogue supernatural speed as a fictional or speculative construct, not a real-world capability claim. |
+| XRA-054 | Superpower-Manipulation Alchemy | Classify fictional capability modification as a source concept; map software analogues only where independently defined and safe. |
+| XRA-055 | Trait-Protection Alchemy | Protect trait representations and related personal information from unauthorized alteration, coercion, discriminatory use, or disclosure. |
+| XRA-056 | Truth-Verification Alchemy | Evaluate claims against evidence, provenance, uncertainty, independent corroboration, and correction procedures. |
+
 ---
 
 ## 6. Protective classification of harmful Alchemies
