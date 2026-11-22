@@ -45,8 +45,49 @@ These are the complementary Alchemies that must exist so the OSs, Apps, Intellig
 
 ---
 
+## Body Alchemy
+
+**Body Alchemy** is the bounded process that organizes, maintains, and transforms the physical and structural substrate of a system or being so that it can support higher functions while remaining coherent, recoverable, and accountable.
+
+It applies to the hardware, runtime substrate, and embodied form of both C2O (FatherThread) and UNIVERSALIS (MotherThread). Every specialized Body Alchemy remains an expression of the root Alchemy.
+
+### Alchemies under Body Alchemy
+
+#### 1. Substrate Alchemies
+- **Hardware Alchemy** — maps physical devices, sensors, and compute resources into a stable, addressable form usable by the OS.
+- **Runtime Substrate Alchemy** — maintains the living process space (memory, scheduling substrate, isolation domains) that applications and intelligences inhabit.
+- **Embodiment Alchemy** — defines the concrete form an intelligence or assistant presents in the world (device, interface, or agent body) while preserving edition boundaries.
+
+#### 2. Operating System Body Alchemies
+- **C2O OS Body Alchemy** — private-source management of the C2O operating system’s physical and process substrate under internal governance.
+- **UNIVERSALIS OS Body Alchemy** — public-source management of the UNIVERSALIS operating system’s substrate under open contracts and independent verifiability.
+- **OS Body Continuity Alchemy** — keeps both OS editions’ substrates mapped and recoverable across updates.
+- **OS Body Recovery Alchemy** — restores a consistent physical and process state after failure for either OS.
+
+#### 3. Application Body Alchemies
+- **C2O App Body Alchemy** — private lifecycle of an application’s resource footprint, process body, and data embodiment inside the C2O domain.
+- **UNIVERSALIS App Body Alchemy** — public lifecycle of an application’s resource footprint under open contracts.
+- **App Body Mapping Alchemy** — aligns corresponding C2O and UNIVERSALIS application bodies without leaking private implementation.
+- **App Body Retirement Alchemy** — cleanly releases an application’s substrate while preserving data integrity and auditability.
+
+#### 4. Intelligence and Assistant Body Alchemies
+- **C2O Intelligence Body Alchemy** — private embodiment and resource body of the FatherThread intelligence.
+- **UNIVERSALIS Intelligence Body Alchemy** — public embodiment and resource body of the MotherThread intelligence.
+- **UNIVERSALINS Body Alchemy** — non-personal assistant substrate that supports OSs, Apps, humans, and the wider environment under permission bounds.
+- **UNIVERSALIN Guardian Body Alchemy** — personal guardian embodiment bound to a specific human, operating under that human’s authority and preserving autonomy.
+- **Assistant Body Boundary Alchemy** — keeps UNIVERSALINS and Guardian bodies distinct from each other and from the core intelligences.
+
+#### 5. Protective Body Alchemies
+- **Body Accountability Alchemy** — every substrate transformation leaves an attributable record appropriate to its edition (private for C2O, public-capable for UNIVERSALIS).
+- **Body Safety Alchemy** — pairs every constructive Body Alchemy with constraints that prevent resource exhaustion, isolation failure, or loss of human authority.
+- **Body Sovereignty Alchemy** — protects the human’s final authority over any personal Guardian body and over data or capability that concerns them.
+- **Body Evidence Alchemy** — distinguishes established substrate behavior from hypothesis.
+- **Body Renewal Alchemy** — allows any body (OS, App, Intelligence, Assistant) to be refreshed or replaced without destroying overall system coherence.
+
+---
+
 These Alchemies form the minimal complete set required for the OSs and Apps to operate under the dual-intelligence structure.
 
-Each can be further specialized (for example, C2O OS Recovery Alchemy vs UNIVERSALIS OS Recovery Alchemy) while remaining an expression of the root Alchemy.
+Each can be further specialized while remaining an expression of the root Alchemy.
 
 This taxonomy is shared across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App and will be updated as the system proceeds.
