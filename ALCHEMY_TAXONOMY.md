@@ -333,6 +333,43 @@ It is a specialized expression of the root Alchemy and of Body Alchemy, restrict
 
 ---
 
+## UNIVERSALIS Body Alchemy
+
+**UNIVERSALIS Body Alchemy** is the public-source process that organizes, maintains, and transforms the physical and structural substrate of the UNIVERSALIS domain so that the MotherThread intelligence, its OS, Apps, and open systems remain coherent, recoverable, and independently verifiable under open contracts.
+
+It is a specialized expression of the root Alchemy and of Body Alchemy, restricted to the UNIVERSALIS edition. The Alchemies below are new and do not reuse the general Body Alchemy list or the C2O Body Alchemy list already present in the taxonomy.
+
+### Alchemies under UNIVERSALIS Body Alchemy
+
+#### 1. Public Substrate Alchemies
+- **Open Hardware Binding Alchemy** — binds publicly addressable devices and sensors into a stable, addressable form usable under open contracts inside the UNIVERSALIS domain.
+- **Public Runtime Transparency Alchemy** — maintains the open process space (memory, scheduling, and domains) so that substrate behavior remains independently verifiable.
+- **Open Embodiment Alchemy** — defines the concrete public form through which UNIVERSALIS Intelligence and its systems present and act under transparent interfaces.
+
+#### 2. UNIVERSALIS OS Body Alchemies
+- **UNIVERSALIS OS Substrate Openness Alchemy** — public management of the UNIVERSALIS operating system’s physical and process substrate under open contracts and independent verifiability.
+- **UNIVERSALIS OS Body Continuity Alchemy** — keeps the public OS substrate mapped and recoverable across open updates while remaining externally inspectable.
+- **UNIVERSALIS OS Body Restoration Alchemy** — restores a consistent public physical and process state after failure, with transparent recovery records.
+
+#### 3. UNIVERSALIS App Body Alchemies
+- **UNIVERSALIS App Resource Openness Alchemy** — public lifecycle of an application’s resource footprint and process body under open contracts.
+- **UNIVERSALIS App Body Alignment Alchemy** — keeps corresponding public applications aligned with their open mappings without absorbing private implementation.
+- **UNIVERSALIS App Body Retirement Alchemy** — cleanly releases a public application’s substrate while preserving open data integrity and public auditability.
+
+#### 4. UNIVERSALIS Intelligence and Support Body Alchemies
+- **UNIVERSALIS Intelligence Substrate Alchemy** — public embodiment and resource body of the MotherThread intelligence under open contracts.
+- **Public Support Body Alchemy** — non-personal support substrate that assists UNIVERSALIS OS, Apps, and open systems under public permission bounds and independent verifiability.
+- **Open Boundary Body Alchemy** — maintains the hard separation of UNIVERSALIS bodies from C2O bodies and from personal Guardian structures while remaining publicly inspectable.
+
+#### 5. Protective UNIVERSALIS Body Alchemies
+- **UNIVERSALIS Body Accountability Alchemy** — every public substrate transformation leaves an attributable record that is public-capable and independently verifiable.
+- **UNIVERSALIS Body Safety Alchemy** — pairs every constructive public Body Alchemy with constraints that prevent resource exhaustion or loss of open verifiability.
+- **UNIVERSALIS Body Sovereignty Alchemy** — protects the open domain’s final authority over public bodies and over any data or capability that remains inside the UNIVERSALIS domain under transparent rules.
+- **UNIVERSALIS Body Evidence Alchemy** — distinguishes established public substrate behavior from open hypothesis.
+- **UNIVERSALIS Body Renewal Alchemy** — allows any public body (OS, App, Intelligence, support structure) to be refreshed or replaced without destroying UNIVERSALIS coherence or verifiability.
+
+---
+
 These Alchemies form the minimal complete set required for the OSs and Apps to operate under the dual-intelligence structure.
 
 Each can be further specialized while remaining an expression of the root Alchemy.
