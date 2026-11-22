@@ -1,6 +1,6 @@
 # Alchemy Taxonomy
 
-**Status:** Active taxonomy framework; canonical cumulative taxonomy is version 0.28.0, with entries added and revised through source-backed, safety-reviewed expansions.
+**Status:** Active taxonomy framework; canonical cumulative taxonomy is version 0.29.0, with entries added and revised through source-backed, safety-reviewed expansions.
 
 ## Purpose and scope
 
