@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.29.0  
-**Status:** Living taxonomy; version 0.29.0 adds the Attack Expansion Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
+**Version:** 0.30.0  
+**Status:** Living taxonomy; version 0.30.0 adds the Attack Inheritance Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -3749,6 +3749,61 @@ This expansion appends Advanced Powers Alchemy without renumbering or replacing 
 
 
 
+
+## Attack Inheritance Alchemy Expansion
+
+**Primary source:** [Superpower Wiki — Trait:Attack Inheritance](https://powerlisting.fandom.com/wiki/Trait:Attack_Inheritance). The source defines a fictional ability to imitate or inherit special attacks and techniques from parents or other family members, including aunts, uncles, and grandparents. It presents this as a variation of Power Inheritance and associates it with Bloodline Arts, Attack Replication, Bloodline Combat, Bloodline Energy Manipulation, and Genetic Memory. Its examples and capability claims are fictional. In this taxonomy, “inheritance” is decomposed into distinct pathways: documented teaching or transmission of technique, learned imitation, inherited biological traits, fictional supernatural transfer, and cultural or institutional knowledge stewardship. These pathways must never be conflated.
+
+**Scope distinction:** Attack Inheritance concerns the transmission or acquisition of a specific attack pattern, method, or technique from a predecessor or lineage source. It does not automatically transfer the underlying physiology, energy source, innate capability, expertise, authority, consent, or legal rights associated with the source. It is distinct from generic Power Inheritance, Skill Inheritance, Attack Replication, Attack Creation, and inherited bodily or genetic traits. Biological inheritance claims require real evidence and must not be inferred from fictional examples or family resemblance.
+
+### Aries — definition and pathway classification
+- **A2861 — Attack Inheritance Alchemy (Aries/Gemini):** Define and classify the fictional or abstract transmission, acquisition, or learning of a specific attack/technique from a predecessor, family member, lineage, or recognized source. Record exactly what is inherited, by what pathway, with what evidence and limitations.
+- **A2862 — Attack-Technique Inheritance Pathway Classification Alchemy (Gemini):** Distinguish direct teaching, observation and imitation, written or recorded instruction, apprenticeship, inherited biological predisposition, fictional supernatural transfer, and community or institutional transmission.
+- **A2863 — Attack Inheritance versus Power Inheritance Boundary Alchemy (Virgo):** Separate inheriting a technique from inheriting the underlying power, energy source, physiology, or capacity that enables it; do not infer one from the other.
+- **A2864 — Attack Inheritance versus Skill and Attack Replication Boundary Alchemy (Libra):** Distinguish inherited access, learned proficiency, copied execution, and independently recreated techniques; document overlaps without collapsing their meanings.
+
+### Taurus — provenance, lineage, and continuity
+- **A2865 — Technique Provenance and Lineage Record Alchemy (Taurus):** Preserve source attribution, predecessor relationship, documented transmission history, context, version, and uncertainty without assuming biological descent or exclusive ownership.
+- **A2866 — Multi-Source and Multi-Generational Technique Inheritance Alchemy (Gemini):** Represent techniques received from multiple relatives, mentors, communities, or generations; preserve distinct provenance paths and avoid privileging one lineage without evidence.
+- **A2867 — Inherited Technique Fidelity and Variation Alchemy (Virgo):** Track what remains consistent, what is adapted, and what changes across transmission; distinguish faithful preservation from reinterpretation, improvement claims, and misattribution.
+- **A2868 — Inherited Technique Preconditions and Limitations Alchemy (Capricorn):** Record fictional prerequisites, training requirements, access constraints, incompatibilities, and failure conditions; never assume inherited access means safe or competent execution.
+
+### Gemini — relationships and composition
+- **A2869 — Attack Inheritance and Bloodline Arts Relationship Alchemy (Gemini):** Map the source's Bloodline Arts association while distinguishing cultural lineage, family teaching, fictional bloodline mechanics, and biological claims.
+- **A2870 — Attack Inheritance and Genetic Memory Boundary Alchemy (Virgo):** Treat genetic memory as a fictional or hypothesis-level association unless supported by domain-appropriate evidence; do not claim that complex learned techniques are encoded and transmitted through human DNA.
+- **A2871 — Attack Inheritance and Attack Replication Relationship Alchemy (Gemini):** Distinguish receiving a technique through lineage from copying an observed attack; represent replication as a possible mechanism, not an automatic consequence.
+- **A2872 — Attack Inheritance and Defensive/Support Technique Parity Alchemy (Libra):** Prevent offensive framing from excluding defensive, protective, restorative, and non-combat techniques that may also be transmitted across generations or communities.
+
+### Cancer — consent, dignity, and stewardship
+- **A2873 — Inherited Technique Consent and Autonomy Alchemy (Cancer/Libra):** Ensure that receiving, preserving, teaching, refusing, adapting, or discontinuing a technique is voluntary where choice is possible; family relationship or ancestry does not create entitlement to another person's participation.
+- **A2874 — Family-Lineage Non-Discrimination Alchemy (Libra):** Prevent assumptions of worth, ability, obligation, legitimacy, or status based on parentage, adoption, ancestry, kinship, or perceived bloodline.
+- **A2875 — Cultural Knowledge Custodianship and Permission Alchemy (Libra):** Respect community authority, attribution, context, access restrictions, and permission when techniques are part of cultural, traditional, or collectively stewarded knowledge; do not treat all inherited knowledge as unrestricted public material.
+
+### Leo — learning and safe expression
+- **A2876 — Inherited Technique Learning and Competency Alchemy (Leo/Virgo):** Distinguish possession of a description or fictional inheritance from demonstrated understanding and safe competence; learning requires appropriate instruction, practice, and assessment in non-harmful contexts.
+- **A2877 — Safe Technique Adaptation and Accessibility Alchemy (Leo):** Support harmless adaptation for accessibility, context, and individual differences without pressuring anyone to reproduce a predecessor's form or identity.
+- **A2878 — Non-Operational Technique Documentation Alchemy (Aquarius):** Preserve high-level descriptions, historical context, and fictional examples without publishing actionable instructions for lethal techniques, weapon use, or injury optimization.
+
+### Virgo — verification and evidence
+- **A2879 — Attack Inheritance Claim and Source Validation Alchemy (Virgo):** Verify attribution, source reliability, continuity, and classification; distinguish canonical fiction, fan interpretation, documented real-world teaching, and unsupported biological claims.
+- **A2880 — Inheritance Bias and Attribution Audit Alchemy (Virgo):** Detect confirmation bias, gender or lineage stereotypes, erased contributors, false parentage assumptions, and misattributed invention or teaching.
+- **A2881 — Inherited Technique Uncertainty and Capability Boundary Alchemy (Virgo):** Record what is unknown about transfer, prerequisites, compatibility, and competence; never imply that a technique can be executed safely or effectively merely because it was inherited.
+
+### Prevention, protection, detection, and recovery
+- **A2882 — Coercive Lineage and Forced Technique Inheritance Prevention Alchemy (Scorpio):** Prevent coercion, family pressure, forced training, compelled transmission, or punishment for refusing an inherited role or technique.
+- **A2883 — Harmful Technique Transmission and Misuse Prevention Alchemy (Scorpio):** Prevent inherited-attack descriptions from becoming practical instructions for violence, weapon optimization, intimidation, or injury; support safe historical, fictional, and defensive treatment.
+- **A2884 — Inheritance Record Correction, Privacy, and Recovery Alchemy (Pisces/Aquarius):** Correct false lineage or attribution records, protect family and genetic privacy, restrict unauthorized disclosure, document disputes, and restore accurate provenance without erasing legitimate contributors.
+
+**Applicability and integration**
+- **C2O:** private-source governance may maintain restricted provenance, authorization, audit, and safeguarding controls; family, genetic, identity, and incident data require strict privacy and least-privilege access.
+- **UNIVERSALIS:** publish safe conceptual definitions, transparent evidence labels, attribution standards, and non-operational learning guidance; exclude personal lineage data and C2O-private implementation details.
+- **UNIVERSALINS:** non-personal assistants may classify technique provenance, explain fictional inheritance, support consent-aware knowledge organization, and flag unsupported genetic claims; they must not assume family relationships or generate harmful attack instructions.
+- **UNIVERSALIN Guardians:** personal human assistants/guardians may support voluntary learning, family-history organization, cultural respect, and safety planning; they must not pressure a person to inherit, perform, or preserve a technique.
+- **Repository mapping:** OS repositories cover identity and provenance controls, access policy, privacy, authorization, audit, and safe-content boundaries; App repositories cover accessible documentation, learning records, attribution, consent, and user-controlled sharing.
+- **Related source concepts:** Power Inheritance, Skill Inheritance, Attack Replication, Bloodline Arts, Genetic Memory, Genetics, Bloodline Combat, Species Combat, Supernatural Arts Inheritance, Attack Creation, Attack Modification, and Attack Manipulation. Relationships do not establish that mechanisms or capabilities transfer.
+- **Related existing taxonomy:** preserve existing consent, anti-coercion, privacy, genetic-data stewardship, cultural-knowledge respect, skill-learning, provenance, and capability-validation entries; cross-reference rather than duplicate them.
+- **Residual limits:** The source is a fictional trait page. Human genetic inheritance does not transmit learned attack techniques as executable motor skills. Real-world technique transmission occurs through learning, practice, documentation, and social or institutional processes; biological predispositions, where relevant, are separate and evidence-dependent.
+
 ## Attack Expansion Alchemy Expansion
 
 **Primary source:** [Superpower Wiki — Trait:Attack Expansion](https://powerlisting.fandom.com/wiki/Trait:Attack_Expansion). The source defines a fictional ability to expand attacks or techniques to amplify them. It distinguishes expansion of the attack itself from amplification of power throughout the body or a weapon, and associates the concept with greater modeled range, speed, strength, penetration, and overall effect. It identifies Attack Compression and Defense Expansion as opposites and Attack Manipulation as a parent concept. Applications and associations include charged attacks, effect stacking, energy amplification, enhanced strikes, limb expansion, projectile enhancement, infusion, quantity manipulation, size enhancement, and support powers. The page's character examples and techniques are fictional, not empirical demonstrations.
@@ -5613,3 +5668,8 @@ This expansion adds **24 uniquely identified A-numbered Alchemies (A2813–A2836
 ## Maintenance Record for v0.29.0
 
 This expansion adds **24 uniquely identified A-numbered Alchemies (A2837–A2860)** for Attack Expansion, covering definition and mode classification, distinctions from power amplification and physical size expansion, effect-envelope modeling, resource dependencies, dilution and stability trade-offs, relationships with compression, effect stacking, infusion and quantity manipulation, safe simulation and visualization, defensive awareness, evidence validation, and prevention/protection/detection/containment/recovery controls. The A-numbered sequence now reaches **A2860**. This identifier ceiling is not the cumulative count of all taxonomy records. The source is a fictional trait classification; these entries are conceptual and defensive taxonomy specifications, not evidence of real-world superhuman capability or instructions for increasing harmful attack performance.
+
+
+## Maintenance Record for v0.30.0
+
+This expansion adds **24 uniquely identified A-numbered Alchemies (A2861–A2884)** for Attack Inheritance, covering pathway classification, technique provenance and multi-generational continuity, fidelity and variation, distinctions from Power Inheritance, Skill Inheritance, Attack Replication, Bloodline Arts, and Genetic Memory, consent and cultural custodianship, safe learning and documentation, validation and bias audits, and prevention/protection/privacy/correction/recovery controls. The A-numbered sequence now reaches **A2884**. This identifier ceiling is not the cumulative count of all taxonomy records. The source is a fictional trait classification; entries are conceptual taxonomy specifications and do not establish supernatural inheritance or genetic transmission of learned attack techniques.
