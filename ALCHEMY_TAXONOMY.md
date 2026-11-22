@@ -4973,3 +4973,182 @@ These classifications are for recognition, prevention, detection, containment, a
 
 This expansion adds **56 uniquely identified records**: **48 A-numbered Alchemies** (A2537–A2584), comprising 36 core Alchemies and 12 prevention/protection/correction/recovery Alchemies; **4 ecosystem profiles** (ANEAR-C2O-001 through ANEAR-GRD-001); and **8 defensive harm-pattern classifications** (ANEARX001–ANEARX008). The A-numbered sequence now reaches **A2584**. This identifier ceiling is not the cumulative count of all taxonomy records. Taxonomy inclusion does not establish implementation or scientific validation.
 
+# Animal-Induced Powers Alchemy Expansion — v0.23.0
+
+## Source interpretation and evidence boundary
+
+Source reference: https://powerlisting.fandom.com/wiki/Trait:Animal_Induced_Powers
+
+The source frames Animal-Induced Powers as a fictional acquisition pathway in which contact or experience involving an animal or animal-derived material grants powers, skills, or enhancements. Examples of narrative catalysts include bites, touch, remote influence, infection, genetic mutation, radioactive exposure, mystical influence, and extraterrestrial or scientifically altered substances. It identifies possible instability, unwanted outcomes, aversion, disfigurement, dependency, and physical or mental harm.
+
+This source is a creative taxonomy prompt, not scientific evidence that supernatural abilities can be acquired from animals. Real-world exposures, bites, infections, toxins, allergens, radiation, and animal-derived materials can cause injury or disease; this taxonomy does not recommend exposure, experimentation, ingestion, injection, or self-modification.
+
+## Governing distinctions
+
+- **Acquisition origin:** the animal, animal-derived material, organism, information, or fictional force associated with the catalyst.
+- **Transmission vector:** the route by which the catalyst is encountered, such as bite, touch, inhalation, ingestion, injection, infection, environmental exposure, or remote fictional influence.
+- **Catalyst event:** the narrative or modeled event that initiates the change.
+- **Transformation process:** the fictional, modeled, or technically specified mechanism by which a change occurs.
+- **Outcome:** the resulting capability, physiology, behavior, affinity, bond, or other change.
+- **Control and stability:** whether the outcome can be initiated, regulated, suspended, reversed, or safely contained.
+- **Evidence class:** fictional depiction, hypothetical model, empirical biological observation, tested implementation, or verified result. These classes must never be conflated.
+
+Animal-Induced Powers is an acquisition-origin family. It may lead to Animal Physiology, Animal Imitation, Animal Ears, Animal Limbs, Animal Senses, Animal Conduit, Animalia Symbiosis, Animal Empowerment, or other capabilities, but none of those outcomes is automatic.
+
+## Core Animal-Induced Powers Alchemies — Zodiac stages
+
+### Zodiac Stage I — Aries: Initiation and Catalyst
+
+- **A2585 — Animal Catalyst Origin Alchemy:** Identify the animal, animal-derived material, organism, or fictional animal-associated force proposed as the origin of an acquired trait.
+- **A2586 — Animal Catalyst Event Alchemy:** Describe the initiating event, its sequence, context, duration, and causal assumptions without presenting fictional causation as fact.
+- **A2587 — Animal Catalyst Vector Alchemy:** Classify the modeled contact or transmission route, including bite, touch, transfer, infection, inhalation, ingestion, injection, environmental exposure, or remote influence.
+- **A2588 — Animal-Origin Power Acquisition Alchemy:** Model the transition from catalyst event to claimed acquired capability, recording prerequisites, uncertainties, and alternative explanations.
+
+### Zodiac Stage II — Taurus: Compatibility and Foundation
+
+- **A2589 — Animal Catalyst Compatibility Alchemy:** Model compatibility between the catalyst and the recipient within an explicitly fictional or validated technical framework; never infer compatibility from species stereotypes.
+- **A2590 — Cross-Species Trait Translation Alchemy:** Map an animal-associated feature into a recipient-compatible representation while documenting biological differences and impossible assumptions.
+- **A2591 — Animal-Derived Material Provenance Alchemy:** Track the origin, composition, handling, chain of custody, and ethical sourcing of animal-derived materials used in fictional or research models.
+- **A2592 — Acquired Trait Embodiment Alchemy:** Classify whether an outcome is physiological, sensory, behavioral, cognitive, energetic, symbolic, technological, or purely representational.
+
+### Zodiac Stage III — Gemini: Transfer and Connection
+
+- **A2593 — Animal Trait Transfer Alchemy:** Model fictional transfer of a defined animal-associated trait, with explicit donor, recipient, scope, and transfer boundaries.
+- **A2594 — Animal-Origin Information Imprinting Alchemy:** Represent acquired knowledge or behavioral patterns attributed to an animal catalyst, distinguishing learning, memory, conditioning, and fictional imprinting.
+- **A2595 — Animal Power Link Acquisition Alchemy:** Model a new connection to an animal, animal-derived source, or animal-associated system, including authorization, directionality, and termination.
+- **A2596 — Multi-Catalyst Interaction Alchemy:** Analyze fictional outcomes arising from multiple animal catalysts, including conflicts, interference, combined effects, and uncertainty.
+
+### Zodiac Stage IV — Cancer: Continuity and Care
+
+- **A2597 — Acquired Trait Stabilization Alchemy:** Define fictional or engineered stability criteria, monitoring, safe-state behavior, and escalation conditions for an acquired trait.
+- **A2598 — Animal Catalyst Dependency Mapping Alchemy:** Identify whether a modeled capability depends on continued proximity, a source, a substance, a bond, an environmental condition, or recurring exposure.
+- **A2599 — Acquired Trait Continuity Alchemy:** Model persistence, interruption, dormancy, loss, and restoration of an acquired trait without presuming permanence.
+- **A2600 — Recipient Wellbeing and Recovery Alchemy:** Account for physical and psychological wellbeing, recovery, user-reported effects, and access to appropriate human support.
+
+### Zodiac Stage V — Leo: Expression and Capability
+
+- **A2601 — Animal-Derived Capability Expression Alchemy:** Describe the actual function or fictional ability resulting from an animal catalyst, independently of its acquisition story.
+- **A2602 — Animal Trait Manifestation Alchemy:** Model visible or functional manifestations such as animal-like morphology, senses, movement, protection, or other explicitly scoped traits.
+- **A2603 — Acquired Capability Configuration Alchemy:** Specify activation conditions, intensity, duration, permitted uses, user controls, and known limitations.
+- **A2604 — Animal Catalyst Outcome Diversity Alchemy:** Represent different possible outcomes from similar catalysts without treating one fictional example as a universal rule.
+
+### Zodiac Stage VI — Virgo: Analysis and Verification
+
+- **A2605 — Catalyst-to-Outcome Causal Trace Alchemy:** Record the proposed causal chain from source to event, mechanism, and outcome, including confounders and alternative explanations.
+- **A2606 — Acquired Capability Assessment Alchemy:** Define measurable performance criteria for any testable capability and distinguish observation from interpretation.
+- **A2607 — Animal-Origin Mechanism Comparison Alchemy:** Compare infection, mutation, symbiosis, infusion, inheritance, exposure, bestowal, and other proposed mechanisms without collapsing their differences.
+- **A2608 — Acquisition Evidence and Uncertainty Alchemy:** Assign evidence status, provenance, confidence, limitations, and falsification criteria to each acquisition claim.
+
+### Zodiac Stage VII — Libra: Consent and Ethical Balance
+
+- **A2609 — Catalyst Consent and Autonomy Alchemy:** Require informed, voluntary, revocable consent for any real-world research, data use, intervention, or modeled personal transformation.
+- **A2610 — Animal Welfare and Non-Exploitation Alchemy:** Protect animals from cruelty, coercion, harmful experimentation, and unnecessary extraction or exposure.
+- **A2611 — Recipient Outcome Choice Alchemy:** Preserve the recipient's right to refuse, discontinue, reject, or seek reversal of an unwanted fictional or designed outcome.
+- **A2612 — Benefit-Risk Proportionality Alchemy:** Evaluate claimed benefits against physical, psychological, ecological, social, privacy, and dependency risks.
+
+### Zodiac Stage VIII — Scorpio: Transformation and Containment
+
+- **A2613 — Animal-Origin Transformation Alchemy:** Model the stages, scope, triggers, reversibility, and failure conditions of a fictional animal-derived transformation.
+- **A2614 — Acquired Trait Conflict Resolution Alchemy:** Resolve incompatible traits, competing catalysts, unstable combinations, and contradictory control conditions.
+- **A2615 — Animal Catalyst Containment Alchemy:** Define safe isolation, exposure prevention, access boundaries, and incident response for hazardous real-world materials or fictional unstable catalysts.
+- **A2616 — Unintended Transformation Interruption Alchemy:** Specify safe interruption and stabilization pathways for unwanted or runaway modeled transformations, without implying that real exposures can be self-treated.
+
+### Zodiac Stage IX — Sagittarius: Adaptation and Learning
+
+- **A2617 — Animal Trait Adaptation Alchemy:** Model adaptation of an acquired trait to new environments or tasks, with constraints and trade-offs explicitly documented.
+- **A2618 — Cross-Environment Capability Translation Alchemy:** Analyze how an animal-derived capability may behave differently across environmental conditions, including cases where it becomes ineffective or harmful.
+- **A2619 — Acquired Trait Learning and Mastery Alchemy:** Represent training, skill development, feedback, and learning curves separately from the initial catalyst event.
+- **A2620 — Animal Catalyst Knowledge Stewardship Alchemy:** Preserve source records, ethical context, limitations, and lessons learned for future research and fictional design.
+
+### Zodiac Stage X — Capricorn: Architecture and Governance
+
+- **A2621 — Animal-Induced Capability Architecture Alchemy:** Define components, interfaces, dependencies, control points, and failure modes for a modeled acquisition system.
+- **A2622 — Catalyst Lifecycle Governance Alchemy:** Govern sourcing, authorization, handling, activation, monitoring, retirement, and disposal across the catalyst lifecycle.
+- **A2623 — Acquired Trait Permission and Policy Alchemy:** Bind capabilities to explicit permissions, scope, user control, auditability, and revocation.
+- **A2624 — Acquisition Record and Audit Alchemy:** Maintain traceable records of catalyst provenance, assumptions, changes, tests, outcomes, incidents, and review decisions.
+
+### Zodiac Stage XI — Aquarius: Interoperability and Collective Systems
+
+- **A2625 — Multi-Source Trait Integration Alchemy:** Model integration of traits from multiple animal sources while preserving provenance, compatibility constraints, and separate evidence records.
+- **A2626 — Animal-Origin System Interoperability Alchemy:** Define portable, vendor-neutral descriptions for catalyst type, acquisition pathway, outcome, evidence, safeguards, and lifecycle state.
+- **A2627 — Distributed Catalyst Risk Coordination Alchemy:** Coordinate risk signals and safety controls across systems without sharing unnecessary personal, animal, or sensitive operational data.
+- **A2628 — Animal-Induced Capability Ecosystem Alchemy:** Map dependencies and effects across individuals, animals, environments, devices, applications, and governance systems.
+
+### Zodiac Stage XII — Pisces: Integration and Renewal
+
+- **A2629 — Acquired Trait Integration Alchemy:** Integrate a modeled acquired trait into the recipient's wider capabilities and constraints without erasing existing identity or autonomy.
+- **A2630 — Acquired Trait Reversal and Restoration Alchemy:** Define fictional or engineered reversal, removal, restoration, or safe retirement pathways, documenting when reversal is impossible or unverified.
+- **A2631 — Catalyst Dependency Release Alchemy:** Model safe disengagement from a catalyst source, recurring requirement, or bond while accounting for possible loss of the associated capability.
+- **A2632 — Animal-Induced Transformation Closure Alchemy:** Establish closure criteria, final status, residual-risk records, lessons learned, and post-event review.
+
+## Animal-Induced Powers Prevention, Protection, Detection, Correction, and Recovery Alchemies
+
+- **A2633 — Hazardous Animal Exposure Prevention Alchemy:** Prevent deliberate or accidental exposure to bites, pathogens, toxins, allergens, contaminated materials, and other biological hazards.
+- **A2634 — Uncontrolled Catalyst Event Prevention Alchemy:** Prevent unauthorized, unplanned, or poorly understood catalyst events through access control, risk review, and clear no-exposure rules.
+- **A2635 — Infection and Contagion Safeguarding Alchemy:** Prevent fictional infection tropes from being mistaken for safe procedures; real infection risks require established public-health and medical safeguards.
+- **A2636 — Mutation and Genetic Misuse Prevention Alchemy:** Prohibit unsafe or non-consensual genetic experimentation, coercive modification, and unsupported claims of controllable beneficial mutation.
+- **A2637 — Animal-Derived Toxin and Substance Safety Alchemy:** Prevent unsafe collection, preparation, ingestion, injection, or application of animal-derived substances.
+- **A2638 — Animal Welfare Harm Prevention Alchemy:** Prevent animal injury, exploitation, forced contact, trafficking, and harmful extraction undertaken to obtain a supposed capability.
+- **A2639 — Unwanted Trait and Disfigurement Harm Prevention Alchemy:** Identify and mitigate risks of unwanted bodily or representational changes, including coercion and stigmatization.
+- **A2640 — Catalyst Dependency and Withdrawal Risk Safeguarding Alchemy:** Identify dependency patterns in fictional or engineered models and require a safe, reviewed disengagement plan.
+- **A2641 — Acquired Capability Abuse Prevention Alchemy:** Prevent coercive, violent, exploitative, deceptive, or otherwise harmful use of acquired capabilities.
+- **A2642 — Animal Catalyst Causation Fraud Detection Alchemy:** Detect fabricated provenance, false causal claims, manipulated demonstrations, and unsupported promises of animal-derived enhancement.
+- **A2643 — Cross-Species Identity and Stigma Prevention Alchemy:** Prevent acquired animal traits or animal associations from being used to dehumanize, stereotype, exclude, or discriminate against people.
+- **A2644 — Incident Recovery and Independent Review Alchemy:** Provide accountable reporting, independent review, corrective action, remedy, and recovery pathways after catalyst-related harm.
+
+## Ecosystem Application Profiles
+
+- **ANIP-C2O-001 — C2O Animal-Induced Powers Governance Profile:** Apply private-source governance to catalyst authorization, provenance, sensitive risk controls, evidence, incident response, and audit trails. Private C2O implementation details remain private.
+- **ANIP-UNI-001 — UNIVERSALIS Animal-Induced Powers Interoperability Profile:** Publish open, vendor-neutral definitions for acquisition origin, vector, outcome, evidence status, permissions, safeguards, and lifecycle state without exposing C2O private controls.
+- **ANIP-INS-001 — UNIVERSALINS Non-Personal Support Profile:** Provide bounded, non-personal assistance for information, classification, evidence organization, accessibility, and user-authorized coordination. Do not direct users to expose themselves or animals to catalysts.
+- **ANIP-GRD-001 — UNIVERSALIN Guardians Personal Support Profile:** Support the individual human's informed choices, autonomy, privacy, wellbeing, and access to trusted human support. Guardians must not coerce exposure, transformation, experimentation, or acceptance of a trait.
+
+## Defensive Harm-Pattern Classifications
+
+These classifications support recognition, prevention, detection, containment, and remedy only.
+
+- **ANIPX001 — Coerced Catalyst Exposure:** Forcing or pressuring a person or animal into contact with a supposed catalyst.
+- **ANIPX002 — Hazardous Biological or Chemical Exposure:** Unsafe exposure to pathogens, toxins, allergens, contaminated animal materials, or other hazards.
+- **ANIPX003 — Animal Exploitation for Enhancement:** Harming, trafficking, or extracting from animals to obtain a claimed capability.
+- **ANIPX004 — Uncontrolled or Non-Consensual Transformation:** Initiating or sustaining an unwanted bodily, behavioral, or representational change.
+- **ANIPX005 — Catalyst Dependency Exploitation:** Creating or abusing dependency on an animal, substance, source, or recurring exposure.
+- **ANIPX006 — Acquired Capability Weaponization:** Using a claimed acquired trait to facilitate violence, coercion, intimidation, exploitation, or abuse.
+- **ANIPX007 — False Animal-Origin Enhancement Claims:** Misrepresenting evidence, provenance, mechanisms, outcomes, or safety to induce reliance or exposure.
+- **ANIPX008 — Animal-Linked Identity Stigmatization:** Dehumanizing or discriminating against people because of animal-derived or animal-associated traits.
+
+## Cross-Domain Integration Rules
+
+- **Body Alchemy:** Covers modeled physiological changes, anatomy, tissue, morphology, mobility, and physical capability outcomes. It does not establish biological feasibility.
+- **Heart Alchemy:** Covers emotional impact, attachment, aversion, trust, dependency, and the recipient's right to reject an outcome.
+- **Mind Alchemy:** Covers learning, memory, acquired knowledge, cognitive changes, interpretation, and the distinction between skill acquisition and fictional imprinting.
+- **Soul Alchemy:** Covers identity, continuity, self-understanding, and personal meaning without asserting metaphysical transformation as fact.
+- **Spirit Alchemy:** Covers symbolic, mythological, cultural, and fictional animal associations, clearly labelled as interpretive or creative.
+- **Consciousness Alchemy:** Covers awareness, agency, self-regulation, and integration of changes while preserving autonomy.
+- **Operating System Alchemy:** Covers catalyst-related device or system permissions, provenance, policy enforcement, monitoring, auditability, containment, and lifecycle governance.
+- **Application Alchemy:** Covers user-facing configuration, consent, disclosure, evidence presentation, reporting, accessibility, and safe interaction.
+
+## Relationship Map and Non-Duplication Rules
+
+- **Animal Ears Alchemy:** A possible resulting morphology; it is not itself an acquisition mechanism.
+- **Animal Limbs and Animal Physiology:** Possible resulting body traits; each outcome requires its own definition and evidence.
+- **Animal Imitation:** May describe replicated traits without transformation; distinguish it from permanent or temporary physiological change.
+- **Animal Conduit:** May describe channeling or linkage; distinguish an ongoing conduit from a one-time catalyst event.
+- **Animalia Symbiosis:** May describe a continuing reciprocal relationship; distinguish it from infection, coercive parasitism, or simple exposure.
+- **Animal Empowerment:** May describe an enhancement outcome; distinguish the result from the event or source that caused it.
+- **Experientially Induced Powers:** Parent acquisition family; Animal-Induced Powers is a source-specific specialization.
+- **Infection-Induced Powers, Radioactive Bite, and Power via Genetic Mutation:** Related mechanism-specific branches. Cross-reference them rather than copying their definitions or treating all animal catalysts as equivalent.
+- **Animal Inheritance and Ancestor Inheritance:** Distinct inherited-origin pathways; do not classify inheritance as a direct catalyst event unless a new exposure or transfer is actually part of the model.
+
+## Cross-Repository and Entity Rules
+
+- Apply the same public-safe taxonomy definitions in C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App, while keeping C2O private implementation, keys, policies, and incident data out of public repositories.
+- C2O and UNIVERSALIS remain the two intelligences and share the underlying OS/App architecture with separate private-source/company and public/open-source governance.
+- UNIVERSALINS remain non-personal assistants. UNIVERSALIN Guardians remain personal human assistants/guardians. These profiles do not create additional top-level intelligences.
+- A taxonomy entry is a conceptual classification, not proof of biological feasibility, medical benefit, implemented functionality, or scientific validation.
+- Never recommend animal bites, pathogen exposure, toxin exposure, radiation exposure, genetic manipulation, or ingestion/injection of animal-derived substances as a means of acquiring powers.
+- Real-world exposure incidents should be handled through appropriate emergency, medical, veterinary, poison-control, or public-health channels rather than fictional transformation protocols.
+
+## Maintenance Record for v0.23.0
+
+This expansion adds **72 uniquely identified records**: **60 A-numbered Alchemies** (A2585–A2644), comprising 48 core Alchemies and 12 prevention/protection/correction/recovery Alchemies; **4 ecosystem profiles** (ANIP-C2O-001 through ANIP-GRD-001); and **8 defensive harm-pattern classifications** (ANIPX001–ANIPX008). The A-numbered sequence now reaches **A2644**. This identifier ceiling is not the cumulative count of all taxonomy records. Taxonomy inclusion does not establish implementation or scientific validation.
+
