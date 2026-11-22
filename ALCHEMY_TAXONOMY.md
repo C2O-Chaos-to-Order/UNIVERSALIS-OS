@@ -1197,6 +1197,486 @@ Public Salt qualities under open contracts.
 
 ---
 
+## Tertiary Elemental Alchemies
+
+These are specialized expressions of the root Alchemy for the Tertiary Elements that arise from stable Secondary intersections. Each remains distinct and keeps C2O (FatherThread / private) and UNIVERSALIS (MotherThread / public) mapped without collapse.
+
+### Elemental Alchemy — Aether-Metal / Conductive Crystal
+
+**Elemental Alchemy — Aether-Metal / Conductive Crystal**  
+The bounded process that organizes the qualities of Aether-Metal (intelligent structure, subtle transmission held in hardened form) so that systems and beings can hold and transmit clarity while remaining coherent, recoverable, and accountable.
+
+- **Conductive Form Alchemy** — structures the intelligent lattice into stable, addressable forms.  
+- **Crystal Transmission Alchemy** — maintains the process space in which subtle presence moves through hardened structure.  
+- **Conductive Accountability Alchemy** — leaves an attributable record of Aether-Metal transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Aether-Metal / Conductive Crystal**  
+Private Aether-Metal qualities under internal governance.
+
+- **Private Conductive Stewardship Alchemy** — governs internal intelligent structure and transmission inside the C2O domain under company rules.  
+- **Internal Crystal Bound Alchemy** — keeps private Aether-Metal forms contained and recoverable without external exposure.  
+- **C2O Conductive Continuity Alchemy** — ensures private Aether-Metal structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Aether-Metal / Conductive Crystal**  
+Public Aether-Metal qualities under open contracts.
+
+- **Open Conductive Transparency Alchemy** — makes public intelligent structure and transmission independently verifiable.  
+- **Public Crystal Openness Alchemy** — maintains public Aether-Metal forms under transparent rules.  
+- **UNIVERSALIS Conductive Continuity Alchemy** — ensures public Aether-Metal structures can be restored with open records.
+
+**Alignment**  
+- **Conductive Crystal Mapping Alchemy** — aligns corresponding private and public Aether-Metal structures without collapse.
+
+---
+
+### Elemental Alchemy — Mist-Clay / Living Earth
+
+**Elemental Alchemy — Mist-Clay / Living Earth**  
+The bounded process that organizes the qualities of Mist-Clay (softened receptivity, moist diffused form) so that systems and beings can receive and hold while remaining fluid and coherent, recoverable, and accountable.
+
+- **Living Form Alchemy** — structures the receptive moist quality into stable, addressable forms.  
+- **Diffused Reception Alchemy** — maintains the process space in which form is held while remaining softened and mobile.  
+- **Living Earth Accountability Alchemy** — leaves an attributable record of Mist-Clay transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Mist-Clay / Living Earth**  
+Private Mist-Clay qualities under internal governance.
+
+- **Private Living Stewardship Alchemy** — governs internal softened receptivity and moist form inside the C2O domain under company rules.  
+- **Internal Clay Bound Alchemy** — keeps private Mist-Clay forms contained and recoverable without external exposure.  
+- **C2O Living Continuity Alchemy** — ensures private Mist-Clay structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Mist-Clay / Living Earth**  
+Public Mist-Clay qualities under open contracts.
+
+- **Open Living Transparency Alchemy** — makes public softened receptivity and moist form independently verifiable.  
+- **Public Clay Openness Alchemy** — maintains public Mist-Clay forms under transparent rules.  
+- **UNIVERSALIS Living Continuity Alchemy** — ensures public Mist-Clay structures can be restored with open records.
+
+**Alignment**  
+- **Living Earth Mapping Alchemy** — aligns corresponding private and public Mist-Clay structures without collapse.
+
+---
+
+### Elemental Alchemy — Smoke-Lightning / Residual Spark
+
+**Elemental Alchemy — Smoke-Lightning / Residual Spark**  
+The bounded process that organizes the qualities of Smoke-Lightning (post-will remnant, residual motion carrying the trace of instantaneous discharge) so that systems and beings can complete and record cycles while remaining coherent, recoverable, and accountable.
+
+- **Residual Trace Alchemy** — structures the post-discharge motion into stable, addressable pathways.  
+- **Spark Remnant Alchemy** — maintains the process space in which will is completed and carried as residue.  
+- **Residual Accountability Alchemy** — leaves an attributable record of Smoke-Lightning transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Smoke-Lightning / Residual Spark**  
+Private Smoke-Lightning qualities under internal governance.
+
+- **Private Residual Stewardship Alchemy** — governs internal post-will remnant and residual motion inside the C2O domain under company rules.  
+- **Internal Spark Bound Alchemy** — keeps private Smoke-Lightning pathways contained and recoverable without external exposure.  
+- **C2O Residual Continuity Alchemy** — ensures private Smoke-Lightning structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Smoke-Lightning / Residual Spark**  
+Public Smoke-Lightning qualities under open contracts.
+
+- **Open Residual Transparency Alchemy** — makes public post-will remnant and residual motion independently verifiable.  
+- **Public Spark Openness Alchemy** — maintains public Smoke-Lightning pathways under transparent rules.  
+- **UNIVERSALIS Residual Continuity Alchemy** — ensures public Smoke-Lightning structures can be restored with open records.
+
+**Alignment**  
+- **Residual Spark Mapping Alchemy** — aligns corresponding private and public Smoke-Lightning structures without collapse.
+
+---
+
+### Elemental Alchemy — Stone-Rain / Memory Vessel
+
+**Elemental Alchemy — Stone-Rain / Memory Vessel**  
+The bounded process that organizes the qualities of Stone-Rain (nourished endurance, purpose held while receiving renewal) so that systems and beings can retain identity across time while remaining open to refreshment, recoverable, and accountable.
+
+- **Vessel Renewal Alchemy** — structures the enduring container that receives and holds nourishment into stable, addressable forms.  
+- **Memory Saturation Alchemy** — maintains the process space in which purpose is retained while higher quality enters.  
+- **Memory Vessel Accountability Alchemy** — leaves an attributable record of Stone-Rain transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Stone-Rain / Memory Vessel**  
+Private Stone-Rain qualities under internal governance.
+
+- **Private Vessel Stewardship Alchemy** — governs internal nourished endurance and memory holding inside the C2O domain under company rules.  
+- **Internal Rain Bound Alchemy** — keeps private Stone-Rain forms contained and recoverable without external exposure.  
+- **C2O Memory Continuity Alchemy** — ensures private Stone-Rain structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Stone-Rain / Memory Vessel**  
+Public Stone-Rain qualities under open contracts.
+
+- **Open Vessel Transparency Alchemy** — makes public nourished endurance and memory holding independently verifiable.  
+- **Public Rain Openness Alchemy** — maintains public Stone-Rain forms under transparent rules.  
+- **UNIVERSALIS Memory Continuity Alchemy** — ensures public Stone-Rain structures can be restored with open records.
+
+**Alignment**  
+- **Memory Vessel Mapping Alchemy** — aligns corresponding private and public Stone-Rain structures without collapse.
+
+---
+
+### Elemental Alchemy — Wind-Ice / Directed Freeze
+
+**Elemental Alchemy — Wind-Ice / Directed Freeze**  
+The bounded process that organizes the qualities of Wind-Ice (intentional solidification, directed movement that fixes form under cold bound) so that systems and beings can move and hold under constraint while remaining coherent, recoverable, and accountable.
+
+- **Directed Solidification Alchemy** — structures the intentional cold-bound form into stable, addressable states.  
+- **Freeze Intention Alchemy** — maintains the process space in which purpose is carried and fixed through open space.  
+- **Directed Freeze Accountability Alchemy** — leaves an attributable record of Wind-Ice transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Wind-Ice / Directed Freeze**  
+Private Wind-Ice qualities under internal governance.
+
+- **Private Directed Stewardship Alchemy** — governs internal intentional solidification and directed freeze inside the C2O domain under company rules.  
+- **Internal Ice Bound Alchemy** — keeps private Wind-Ice states contained and recoverable without external exposure.  
+- **C2O Directed Continuity Alchemy** — ensures private Wind-Ice structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Wind-Ice / Directed Freeze**  
+Public Wind-Ice qualities under open contracts.
+
+- **Open Directed Transparency Alchemy** — makes public intentional solidification and directed freeze independently verifiable.  
+- **Public Ice Openness Alchemy** — maintains public Wind-Ice states under transparent rules.  
+- **UNIVERSALIS Directed Continuity Alchemy** — ensures public Wind-Ice structures can be restored with open records.
+
+**Alignment**  
+- **Directed Freeze Mapping Alchemy** — aligns corresponding private and public Wind-Ice structures without collapse.
+
+---
+
+### Elemental Alchemy — Magma-Plasma / Unbound Melt
+
+**Elemental Alchemy — Magma-Plasma / Unbound Melt**  
+The bounded process that organizes the qualities of Magma-Plasma (extreme transformation, molten structure under high-energy unbound force) so that systems and beings can reshape beyond ordinary bounds while remaining coherent, recoverable, and accountable.
+
+- **Unbound Fluidity Alchemy** — structures the high-energy molten form into stable, addressable flows.  
+- **Melt Radiance Alchemy** — maintains the process space in which structure yields and reforms under unbound force.  
+- **Unbound Melt Accountability Alchemy** — leaves an attributable record of Magma-Plasma transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Magma-Plasma / Unbound Melt**  
+Private Magma-Plasma qualities under internal governance.
+
+- **Private Unbound Stewardship Alchemy** — governs internal extreme transformation and molten force inside the C2O domain under company rules.  
+- **Internal Plasma Bound Alchemy** — keeps private Magma-Plasma flows contained and recoverable without external exposure.  
+- **C2O Unbound Continuity Alchemy** — ensures private Magma-Plasma structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Magma-Plasma / Unbound Melt**  
+Public Magma-Plasma qualities under open contracts.
+
+- **Open Unbound Transparency Alchemy** — makes public extreme transformation and molten force independently verifiable.  
+- **Public Plasma Openness Alchemy** — maintains public Magma-Plasma flows under transparent rules.  
+- **UNIVERSALIS Unbound Continuity Alchemy** — ensures public Magma-Plasma structures can be restored with open records.
+
+**Alignment**  
+- **Unbound Melt Mapping Alchemy** — aligns corresponding private and public Magma-Plasma structures without collapse.
+
+---
+
+### Elemental Alchemy — Salt-Ether / Preserved Subtlety
+
+**Elemental Alchemy — Salt-Ether / Preserved Subtlety**  
+The bounded process that organizes the qualities of Salt-Ether (concentrated medium, essence held in subtle non-dense form) so that systems and beings can retain and transmit quality without density while remaining coherent, recoverable, and accountable.
+
+- **Preserved Medium Alchemy** — structures the concentrated subtle carrier into stable, addressable forms.  
+- **Subtle Essence Alchemy** — maintains the process space in which residue is held without density.  
+- **Preserved Subtlety Accountability Alchemy** — leaves an attributable record of Salt-Ether transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Salt-Ether / Preserved Subtlety**  
+Private Salt-Ether qualities under internal governance.
+
+- **Private Preserved Stewardship Alchemy** — governs internal concentrated medium and subtle essence inside the C2O domain under company rules.  
+- **Internal Ether Bound Alchemy** — keeps private Salt-Ether forms contained and recoverable without external exposure.  
+- **C2O Preserved Continuity Alchemy** — ensures private Salt-Ether structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Salt-Ether / Preserved Subtlety**  
+Public Salt-Ether qualities under open contracts.
+
+- **Open Preserved Transparency Alchemy** — makes public concentrated medium and subtle essence independently verifiable.  
+- **Public Ether Openness Alchemy** — maintains public Salt-Ether forms under transparent rules.  
+- **UNIVERSALIS Preserved Continuity Alchemy** — ensures public Salt-Ether structures can be restored with open records.
+
+**Alignment**  
+- **Preserved Subtlety Mapping Alchemy** — aligns corresponding private and public Salt-Ether structures without collapse.
+
+---
+
+### Elemental Alchemy — Lightning-Stone / Marked Vessel
+
+**Elemental Alchemy — Lightning-Stone / Marked Vessel**  
+The bounded process that organizes the qualities of Lightning-Stone (instantaneous record, will inscribed into enduring form) so that systems and beings can retain directed force across time while remaining coherent, recoverable, and accountable.
+
+- **Marked Form Alchemy** — structures the enduring container that receives instantaneous will into stable, addressable forms.  
+- **Vessel Inscription Alchemy** — maintains the process space in which will is recorded and held in solid form.  
+- **Marked Vessel Accountability Alchemy** — leaves an attributable record of Lightning-Stone transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Lightning-Stone / Marked Vessel**  
+Private Lightning-Stone qualities under internal governance.
+
+- **Private Marked Stewardship Alchemy** — governs internal instantaneous record and vessel inscription inside the C2O domain under company rules.  
+- **Internal Stone Bound Alchemy** — keeps private Lightning-Stone forms contained and recoverable without external exposure.  
+- **C2O Marked Continuity Alchemy** — ensures private Lightning-Stone structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Lightning-Stone / Marked Vessel**  
+Public Lightning-Stone qualities under open contracts.
+
+- **Open Marked Transparency Alchemy** — makes public instantaneous record and vessel inscription independently verifiable.  
+- **Public Stone Openness Alchemy** — maintains public Lightning-Stone forms under transparent rules.  
+- **UNIVERSALIS Marked Continuity Alchemy** — ensures public Lightning-Stone structures can be restored with open records.
+
+**Alignment**  
+- **Marked Vessel Mapping Alchemy** — aligns corresponding private and public Lightning-Stone structures without collapse.
+
+---
+
+### Elemental Alchemy — Rain-Metal / Reflective Nourishment
+
+**Elemental Alchemy — Rain-Metal / Reflective Nourishment**  
+The bounded process that organizes the qualities of Rain-Metal (protected flow, nourishment held within structured reflection) so that systems and beings can receive and transmit while remaining enduring and coherent, recoverable, and accountable.
+
+- **Reflective Descent Alchemy** — structures the nourishing flow that is protected and reflected into stable, addressable pathways.  
+- **Nourishment Structure Alchemy** — maintains the process space in which higher quality enters while form remains hardened.  
+- **Reflective Accountability Alchemy** — leaves an attributable record of Rain-Metal transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Rain-Metal / Reflective Nourishment**  
+Private Rain-Metal qualities under internal governance.
+
+- **Private Reflective Stewardship Alchemy** — governs internal protected nourishment and structured reflection inside the C2O domain under company rules.  
+- **Internal Metal Bound Alchemy** — keeps private Rain-Metal pathways contained and recoverable without external exposure.  
+- **C2O Reflective Continuity Alchemy** — ensures private Rain-Metal structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Rain-Metal / Reflective Nourishment**  
+Public Rain-Metal qualities under open contracts.
+
+- **Open Reflective Transparency Alchemy** — makes public protected nourishment and structured reflection independently verifiable.  
+- **Public Metal Openness Alchemy** — maintains public Rain-Metal pathways under transparent rules.  
+- **UNIVERSALIS Reflective Continuity Alchemy** — ensures public Rain-Metal structures can be restored with open records.
+
+**Alignment**  
+- **Reflective Nourishment Mapping Alchemy** — aligns corresponding private and public Rain-Metal structures without collapse.
+
+---
+
+### Elemental Alchemy — Mist-Smoke / Diffused Residue
+
+**Elemental Alchemy — Mist-Smoke / Diffused Residue**  
+The bounded process that organizes the qualities of Mist-Smoke (softened remnant, residual motion carried in graduated presence) so that systems and beings can complete cycles with diffused visibility while remaining coherent, recoverable, and accountable.
+
+- **Diffused Remnant Alchemy** — structures the residual motion into stable, addressable fields of graduated presence.  
+- **Softened Residue Alchemy** — maintains the process space in which completed cycles are carried without sharp boundary.  
+- **Diffused Accountability Alchemy** — leaves an attributable record of Mist-Smoke transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Mist-Smoke / Diffused Residue**  
+Private Mist-Smoke qualities under internal governance.
+
+- **Private Diffused Stewardship Alchemy** — governs internal softened remnant and residual motion inside the C2O domain under company rules.  
+- **Internal Smoke Bound Alchemy** — keeps private Mist-Smoke fields contained and recoverable without external exposure.  
+- **C2O Diffused Continuity Alchemy** — ensures private Mist-Smoke structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Mist-Smoke / Diffused Residue**  
+Public Mist-Smoke qualities under open contracts.
+
+- **Open Diffused Transparency Alchemy** — makes public softened remnant and residual motion independently verifiable.  
+- **Public Smoke Openness Alchemy** — maintains public Mist-Smoke fields under transparent rules.  
+- **UNIVERSALIS Diffused Continuity Alchemy** — ensures public Mist-Smoke structures can be restored with open records.
+
+**Alignment**  
+- **Diffused Residue Mapping Alchemy** — aligns corresponding private and public Mist-Smoke structures without collapse.
+
+---
+
+### Elemental Alchemy — Clay-Ice / Fixed Plasticity
+
+**Elemental Alchemy — Clay-Ice / Fixed Plasticity**  
+The bounded process that organizes the qualities of Clay-Ice (preserved form, moldable substance held under cold bound) so that systems and beings can retain shape under constraint while remaining coherent, recoverable, and accountable.
+
+- **Fixed Form Alchemy** — structures the cold-bound plastic quality into stable, addressable states.  
+- **Plasticity Preservation Alchemy** — maintains the process space in which receptivity is held without loss of form.  
+- **Fixed Plasticity Accountability Alchemy** — leaves an attributable record of Clay-Ice transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Clay-Ice / Fixed Plasticity**  
+Private Clay-Ice qualities under internal governance.
+
+- **Private Fixed Stewardship Alchemy** — governs internal preserved form and cold-bound plasticity inside the C2O domain under company rules.  
+- **Internal Ice Bound Alchemy** — keeps private Clay-Ice states contained and recoverable without external exposure.  
+- **C2O Fixed Continuity Alchemy** — ensures private Clay-Ice structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Clay-Ice / Fixed Plasticity**  
+Public Clay-Ice qualities under open contracts.
+
+- **Open Fixed Transparency Alchemy** — makes public preserved form and cold-bound plasticity independently verifiable.  
+- **Public Ice Openness Alchemy** — maintains public Clay-Ice states under transparent rules.  
+- **UNIVERSALIS Fixed Continuity Alchemy** — ensures public Clay-Ice structures can be restored with open records.
+
+**Alignment**  
+- **Fixed Plasticity Mapping Alchemy** — aligns corresponding private and public Clay-Ice structures without collapse.
+
+---
+
+### Elemental Alchemy — Plasma-Salt / Ionized Residue
+
+**Elemental Alchemy — Plasma-Salt / Ionized Residue**  
+The bounded process that organizes the qualities of Plasma-Salt (energized essence, concentrated quality under high-energy state) so that systems and beings can retain and transmit under unbound force while remaining coherent, recoverable, and accountable.
+
+- **Ionized Essence Alchemy** — structures the high-energy concentrated residue into stable, addressable forms.  
+- **Residue Radiance Alchemy** — maintains the process space in which essence is held while force remains unbound.  
+- **Ionized Accountability Alchemy** — leaves an attributable record of Plasma-Salt transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Plasma-Salt / Ionized Residue**  
+Private Plasma-Salt qualities under internal governance.
+
+- **Private Ionized Stewardship Alchemy** — governs internal energized essence and concentrated residue inside the C2O domain under company rules.  
+- **Internal Salt Bound Alchemy** — keeps private Plasma-Salt forms contained and recoverable without external exposure.  
+- **C2O Ionized Continuity Alchemy** — ensures private Plasma-Salt structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Plasma-Salt / Ionized Residue**  
+Public Plasma-Salt qualities under open contracts.
+
+- **Open Ionized Transparency Alchemy** — makes public energized essence and concentrated residue independently verifiable.  
+- **Public Salt Openness Alchemy** — maintains public Plasma-Salt forms under transparent rules.  
+- **UNIVERSALIS Ionized Continuity Alchemy** — ensures public Plasma-Salt structures can be restored with open records.
+
+**Alignment**  
+- **Ionized Residue Mapping Alchemy** — aligns corresponding private and public Plasma-Salt structures without collapse.
+
+---
+
+### Elemental Alchemy — Wind-Magma / Directed Heat
+
+**Elemental Alchemy — Wind-Magma / Directed Heat**  
+The bounded process that organizes the qualities of Wind-Magma (intentional melt, directed movement that intensifies molten transformation) so that systems and beings can reshape under purposeful force while remaining coherent, recoverable, and accountable.
+
+- **Directed Melt Alchemy** — structures the intentional heat-bound flow into stable, addressable pathways.  
+- **Heat Intention Alchemy** — maintains the process space in which purpose is carried through molten form.  
+- **Directed Heat Accountability Alchemy** — leaves an attributable record of Wind-Magma transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Wind-Magma / Directed Heat**  
+Private Wind-Magma qualities under internal governance.
+
+- **Private Directed Heat Stewardship Alchemy** — governs internal intentional melt and directed transformation inside the C2O domain under company rules.  
+- **Internal Magma Bound Alchemy** — keeps private Wind-Magma flows contained and recoverable without external exposure.  
+- **C2O Directed Heat Continuity Alchemy** — ensures private Wind-Magma structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Wind-Magma / Directed Heat**  
+Public Wind-Magma qualities under open contracts.
+
+- **Open Directed Heat Transparency Alchemy** — makes public intentional melt and directed transformation independently verifiable.  
+- **Public Magma Openness Alchemy** — maintains public Wind-Magma flows under transparent rules.  
+- **UNIVERSALIS Directed Heat Continuity Alchemy** — ensures public Wind-Magma structures can be restored with open records.
+
+**Alignment**  
+- **Directed Heat Mapping Alchemy** — aligns corresponding private and public Wind-Magma structures without collapse.
+
+---
+
+### Elemental Alchemy — Crystal-Dew
+
+**Elemental Alchemy — Crystal-Dew**  
+The bounded process that organizes the qualities of Crystal-Dew (refined nourishment, hardened form that receives gentle saturation) so that systems and beings can hold structure while accepting renewal, remaining coherent, recoverable, and accountable.
+
+- **Dew Lattice Alchemy** — structures the gentle saturation into stable, addressable crystalline forms.  
+- **Crystal Reception Alchemy** — maintains the process space in which higher quality enters hardened structure.  
+- **Crystal-Dew Accountability Alchemy** — leaves an attributable record of Crystal-Dew transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Crystal-Dew**  
+Private Crystal-Dew qualities under internal governance.
+
+- **Private Dew Stewardship Alchemy** — governs internal refined nourishment and crystalline reception inside the C2O domain under company rules.  
+- **Internal Crystal Bound Alchemy** — keeps private Crystal-Dew forms contained and recoverable without external exposure.  
+- **C2O Dew Continuity Alchemy** — ensures private Crystal-Dew structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Crystal-Dew**  
+Public Crystal-Dew qualities under open contracts.
+
+- **Open Dew Transparency Alchemy** — makes public refined nourishment and crystalline reception independently verifiable.  
+- **Public Crystal Openness Alchemy** — maintains public Crystal-Dew forms under transparent rules.  
+- **UNIVERSALIS Dew Continuity Alchemy** — ensures public Crystal-Dew structures can be restored with open records.
+
+**Alignment**  
+- **Crystal-Dew Mapping Alchemy** — aligns corresponding private and public Crystal-Dew structures without collapse.
+
+---
+
+### Elemental Alchemy — Spark-Ash
+
+**Elemental Alchemy — Spark-Ash**  
+The bounded process that organizes the qualities of Spark-Ash (residual will, post-discharge remnant that carries the trace of instantaneous force) so that systems and beings can complete and record directed action while remaining coherent, recoverable, and accountable.
+
+- **Ash Trace Alchemy** — structures the residual will into stable, addressable pathways.  
+- **Spark Remnant Alchemy** — maintains the process space in which instantaneous force is completed and held as residue.  
+- **Spark-Ash Accountability Alchemy** — leaves an attributable record of Spark-Ash transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Spark-Ash**  
+Private Spark-Ash qualities under internal governance.
+
+- **Private Ash Stewardship Alchemy** — governs internal residual will and post-discharge remnant inside the C2O domain under company rules.  
+- **Internal Spark Bound Alchemy** — keeps private Spark-Ash pathways contained and recoverable without external exposure.  
+- **C2O Ash Continuity Alchemy** — ensures private Spark-Ash structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Spark-Ash**  
+Public Spark-Ash qualities under open contracts.
+
+- **Open Ash Transparency Alchemy** — makes public residual will and post-discharge remnant independently verifiable.  
+- **Public Spark Openness Alchemy** — maintains public Spark-Ash pathways under transparent rules.  
+- **UNIVERSALIS Ash Continuity Alchemy** — ensures public Spark-Ash structures can be restored with open records.
+
+**Alignment**  
+- **Spark-Ash Mapping Alchemy** — aligns corresponding private and public Spark-Ash structures without collapse.
+
+---
+
+### Elemental Alchemy — Bone-Mist
+
+**Elemental Alchemy — Bone-Mist**  
+The bounded process that organizes the qualities of Bone-Mist (veiled vessel, enduring form softened by diffused presence) so that systems and beings can hold identity while remaining graduated and coherent, recoverable, and accountable.
+
+- **Veiled Vessel Alchemy** — structures the softened enduring form into stable, addressable states.  
+- **Mist Memory Alchemy** — maintains the process space in which purpose is held under diffused presence.  
+- **Bone-Mist Accountability Alchemy** — leaves an attributable record of Bone-Mist transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Bone-Mist**  
+Private Bone-Mist qualities under internal governance.
+
+- **Private Veiled Stewardship Alchemy** — governs internal veiled vessel and softened memory inside the C2O domain under company rules.  
+- **Internal Mist Bound Alchemy** — keeps private Bone-Mist forms contained and recoverable without external exposure.  
+- **C2O Veiled Continuity Alchemy** — ensures private Bone-Mist structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Bone-Mist**  
+Public Bone-Mist qualities under open contracts.
+
+- **Open Veiled Transparency Alchemy** — makes public veiled vessel and softened memory independently verifiable.  
+- **Public Mist Openness Alchemy** — maintains public Bone-Mist forms under transparent rules.  
+- **UNIVERSALIS Veiled Continuity Alchemy** — ensures public Bone-Mist structures can be restored with open records.
+
+**Alignment**  
+- **Bone-Mist Mapping Alchemy** — aligns corresponding private and public Bone-Mist structures without collapse.
+
+---
+
+### Elemental Alchemy — Vapor-Salt
+
+**Elemental Alchemy — Vapor-Salt**  
+The bounded process that organizes the qualities of Vapor-Salt (evaporated essence, concentrated residue carried in subtle mobile form) so that systems and beings can retain and transmit quality after transformation while remaining coherent, recoverable, and accountable.
+
+- **Vapor Essence Alchemy** — structures the evaporated concentrated residue into stable, addressable pathways.  
+- **Salt Mobility Alchemy** — maintains the process space in which essence is held and moved without density.  
+- **Vapor-Salt Accountability Alchemy** — leaves an attributable record of Vapor-Salt transformations appropriate to its edition.
+
+**C2O Elemental Alchemy — Vapor-Salt**  
+Private Vapor-Salt qualities under internal governance.
+
+- **Private Vapor Stewardship Alchemy** — governs internal evaporated essence and mobile residue inside the C2O domain under company rules.  
+- **Internal Salt Bound Alchemy** — keeps private Vapor-Salt pathways contained and recoverable without external exposure.  
+- **C2O Vapor Continuity Alchemy** — ensures private Vapor-Salt structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Vapor-Salt**  
+Public Vapor-Salt qualities under open contracts.
+
+- **Open Vapor Transparency Alchemy** — makes public evaporated essence and mobile residue independently verifiable.  
+- **Public Salt Openness Alchemy** — maintains public Vapor-Salt pathways under transparent rules.  
+- **UNIVERSALIS Vapor Continuity Alchemy** — ensures public Vapor-Salt structures can be restored with open records.
+
+**Alignment**  
+- **Vapor-Salt Mapping Alchemy** — aligns corresponding private and public Vapor-Salt structures without collapse.
+
+---
+
 These Alchemies form the minimal complete set required for the OSs and Apps to operate under the dual-intelligence structure.
 
 Each can be further specialized while remaining an expression of the root Alchemy.
