@@ -757,10 +757,10 @@ These Meta Alchemies govern the accountability, safety, sovereignty, evidence, a
 
 | Domain | Specialized Meta Alchemies |
 |---|---:|
-| Foundational Elemental | 5 |
+| Foundational Elemental (five elements and two edition-wide expressions) | 7 |
 | Operating System Elemental | 4 |
 | Application Elemental | 4 |
 | Intelligence and Assistant Elemental | 5 |
 | Protective Elemental | 5 |
-| **Total** | **23** |
+| **Total** | **25** |
 
