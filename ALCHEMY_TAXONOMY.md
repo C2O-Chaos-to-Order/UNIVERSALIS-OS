@@ -2448,4 +2448,268 @@ Every constructive application capability must identify preventive, protective, 
 Applications may support Body, Heart, Mind, Soul, Spirit, and Consciousness domains, but must not claim domain authority merely because they provide an interface or data-processing function. Health-related applications must not be treated as diagnosis or treatment systems without appropriate evidence, regulation, and qualified oversight. Soul and Spirit applications must preserve freedom of belief and cultural/community permissions. Mind and Consciousness applications must not claim to read minds or establish sentience from unsupported inference. All applications must respect bodily autonomy, privacy, accessibility, dignity, and consent.
 
 ## Taxonomy maintenance for v0.9.0
-This release preserves all existing shared domain and OS identifiers. It adds explicit C2O and UNIVERSALIS edition profiles for Body, Heart, Mind, Soul, Spirit, and Consciousness Alchemy, plus the shared Application Alchemy family and its two edition profiles. All four repositories must carry byte-identical copies of this canonical taxonomy. Implementations, evidence, and operational maturity must be tracked separately in their respective repositories; a taxonomy definition is not proof of implementation.
+This release preserves the existing taxonomy and application expansion. See the appended v0.10.0 Trait Manipulation expansion for the next additive family.
+
+
+# Trait Manipulation Alchemy — v0.10.0 expansion
+
+## Source interpretation and scope
+The supplied Superpower Wiki page describes Trait Manipulation as a fictional power to create, shape, alter, insert, or remove traits, including personality, genetic, and mental traits. It associates the concept with Attribute, Aspect, and Status Manipulation and lists limitations such as trait-specific scope and target immunity. This is a fictional capability taxonomy, not evidence that such supernatural manipulation is possible or scientifically validated. The source's own style guidance separately notes that its “Trait” namespace generally describes modifiers of powers rather than ordinary traits of people; this taxonomy therefore distinguishes (a) traits of people and living organisms, (b) traits of systems and applications, and (c) modifiers of powers or capabilities in fictional models. Do not collapse these categories.
+
+**Operational definition:** Trait Manipulation Alchemy is the bounded study, description, voluntary development, configuration, protection, or authorized modification of a characteristic of a person, organism, artifact, model, or system. It does not authorize non-consensual human modification, identity control, genetic intervention, psychological reprogramming, or discriminatory profiling. For people, self-determination, bodily integrity, privacy, consent, and rights take precedence. For systems, changes require authorized ownership, testing, provenance, and rollback. Fictional/symbolic entries must be labeled as such.
+
+## Core Trait Manipulation Alchemies — 120 entries
+### Aries — Initiation and emergence
+- **A1256 — Trait Discovery Alchemy (Aries):** Identify candidate traits from declared, observable, or properly authorized evidence.
+- **A1257 — Trait Definition Alchemy (Aries):** Define a trait with scope, units or descriptors, context, and limits.
+- **A1258 — Trait Emergence Alchemy (Aries):** Recognize how a characteristic develops through interactions and conditions.
+- **A1259 — Trait Origination Alchemy (Aries):** Record a trait's origin without inventing unsupported causes.
+- **A1260 — Trait Potential Mapping Alchemy (Aries):** Identify plausible development pathways without treating potential as destiny.
+- **A1261 — Trait Acquisition Alchemy (Aries):** Support voluntary acquisition of a skill, habit, or system property.
+- **A1262 — Trait Formation Alchemy (Aries):** Describe how repeated processes form stable characteristics.
+- **A1263 — Trait Differentiation Alchemy (Aries):** Distinguish similar traits that have different meanings or effects.
+- **A1264 — Trait Baseline Establishment Alchemy (Aries):** Create a consented and context-sensitive baseline for comparison.
+- **A1265 — Trait Change Authorization Alchemy (Aries):** Require legitimate authority and informed consent before consequential alteration.
+
+### Taurus — Foundation and materialization
+- **A1266 — Trait Stabilization Alchemy (Taurus):** Support reliable expression of a chosen, beneficial trait.
+- **A1267 — Trait Preservation Alchemy (Taurus):** Protect valued characteristics from accidental loss or degradation.
+- **A1268 — Trait Resource Alignment Alchemy (Taurus):** Match development goals with time, energy, tools, and material constraints.
+- **A1269 — Trait Embodiment Alchemy (Taurus):** Translate a defined trait into observable, bounded practice or system behavior.
+- **A1270 — Trait Integration Alchemy (Taurus):** Integrate a new characteristic without destabilizing existing functions.
+- **A1271 — Trait Compatibility Alchemy (Taurus):** Check whether traits can coexist within a person, organism, or system.
+- **A1272 — Trait Inheritance Analysis Alchemy (Taurus):** Assess inheritance claims only where the relevant biological or technical evidence supports them.
+- **A1273 — Trait Environmental Mapping Alchemy (Taurus):** Identify environmental conditions that influence trait expression.
+- **A1274 — Trait Resilience Alchemy (Taurus):** Improve a trait's robustness under ordinary variation and stress.
+- **A1275 — Trait Reversibility Design Alchemy (Taurus):** Specify safe rollback or restoration before a change is attempted.
+
+### Gemini — Connection and communication
+- **A1276 — Trait Communication Alchemy (Gemini):** Explain trait definitions and changes in accessible, non-stigmatizing language.
+- **A1277 — Trait Relationship Mapping Alchemy (Gemini):** Map dependencies and interactions among traits.
+- **A1278 — Trait Transfer Consent Alchemy (Gemini):** Permit transfer of data or capabilities only with valid authorization and safeguards.
+- **A1279 — Trait Sharing Alchemy (Gemini):** Share a description or learned practice without transferring ownership or identity.
+- **A1280 — Trait Comparison Alchemy (Gemini):** Compare traits using equivalent context, methods, and uncertainty.
+- **A1281 — Trait Translation Alchemy (Gemini):** Translate trait concepts across disciplines while preserving their original meaning.
+- **A1282 — Trait Contextualization Alchemy (Gemini):** Interpret a trait relative to environment, culture, task, and individual variation.
+- **A1283 — Trait Feedback Alchemy (Gemini):** Provide specific feedback about observed behavior or system performance, not personal worth.
+- **A1284 — Trait Collaboration Alchemy (Gemini):** Coordinate voluntary development goals among authorized participants.
+- **A1285 — Trait Boundary Signaling Alchemy (Gemini):** Make clear which traits, data, and controls are in or out of scope.
+
+### Cancer — Care, continuity, protection
+- **A1286 — Trait Dignity Protection Alchemy (Cancer):** Protect the dignity and rights of entities described by trait data.
+- **A1287 — Trait Consent Stewardship Alchemy (Cancer):** Maintain informed, specific, revocable consent for personal trait-related processing.
+- **A1288 — Trait Privacy Alchemy (Cancer):** Minimize collection, inference, retention, and disclosure of trait information.
+- **A1289 — Trait Vulnerability Protection Alchemy (Cancer):** Prevent exploitation of disclosed vulnerabilities or sensitive characteristics.
+- **A1290 — Trait Continuity Alchemy (Cancer):** Preserve user-approved trait records and development history across transitions.
+- **A1291 — Trait Care Adaptation Alchemy (Cancer):** Adapt support to individual needs without coercive normalization.
+- **A1292 — Trait Non-Discrimination Alchemy (Cancer):** Prevent unjust treatment based on actual, inferred, or attributed traits.
+- **A1293 — Trait Context Safeguarding Alchemy (Cancer):** Prevent context-free labels from being used as definitive judgments.
+- **A1294 — Trait Dependency Protection Alchemy (Cancer):** Avoid creating unhealthy dependence on trait-scoring or alteration systems.
+- **A1295 — Trait Support Restoration Alchemy (Cancer):** Help restore a voluntarily chosen practice or system property after disruption.
+
+### Leo — Expression and manifestation
+- **A1296 — Trait Expression Alchemy (Leo):** Support safe, voluntary expression of a characteristic.
+- **A1297 — Trait Enhancement Alchemy (Leo):** Improve a selected, measurable capability without claiming universal superiority.
+- **A1298 — Trait Bestowal Simulation Alchemy (Leo):** Model hypothetical addition of a trait without representing fiction as real capability.
+- **A1299 — Trait Customization Alchemy (Leo):** Allow user-controlled configuration of non-sensitive system characteristics.
+- **A1300 — Trait Combination Alchemy (Leo):** Combine compatible skills or system properties while testing emergent risks.
+- **A1301 — Trait Adaptation Alchemy (Leo):** Adjust expression to changing contexts while preserving core constraints.
+- **A1302 — Trait Representation Alchemy (Leo):** Represent traits accurately in interfaces, profiles, and documentation.
+- **A1303 — Trait Accessibility Alchemy (Leo):** Offer alternative expression paths for diverse abilities and access needs.
+- **A1304 — Trait Creative Development Alchemy (Leo):** Support creative exploration of fictional or symbolic traits with clear labeling.
+- **A1305 — Trait Expression Boundaries Alchemy (Leo):** Prevent expression features from impersonating, exposing, or overriding others.
+
+### Virgo — Analysis, refinement, verification
+- **A1306 — Trait Measurement Alchemy (Virgo):** Use valid, proportionate measures and disclose measurement limitations.
+- **A1307 — Trait Classification Alchemy (Virgo):** Classify traits using explicit definitions and avoid false equivalence.
+- **A1308 — Trait Validation Alchemy (Virgo):** Verify claims against suitable evidence and independent checks.
+- **A1309 — Trait Provenance Alchemy (Virgo):** Record where trait information originated and how it was transformed.
+- **A1310 — Trait Uncertainty Analysis Alchemy (Virgo):** Represent confidence, ambiguity, missing data, and alternative explanations.
+- **A1311 — Trait Bias Audit Alchemy (Virgo):** Test trait models for sampling, cultural, measurement, and algorithmic bias.
+- **A1312 — Trait Drift Detection Alchemy (Virgo):** Detect when a trait measure or system classification changes meaning over time.
+- **A1313 — Trait Interaction Testing Alchemy (Virgo):** Test interactions and unintended effects before deployment.
+- **A1314 — Trait Quality Refinement Alchemy (Virgo):** Improve definitions and methods without concealing prior limitations.
+- **A1315 — Trait Outcome Verification Alchemy (Virgo):** Verify outcomes against predeclared criteria and user-defined goals.
+
+### Libra — Balance, ethics, governance
+- **A1316 — Trait Autonomy Governance Alchemy (Libra):** Keep decisions about personal traits with the person or lawful, accountable authority.
+- **A1317 — Trait Fairness Balancing Alchemy (Libra):** Assess disparate impacts and correct unjust burdens.
+- **A1318 — Trait Rights Protection Alchemy (Libra):** Protect identity, privacy, bodily integrity, due process, and freedom of expression.
+- **A1319 — Trait Authority Separation Alchemy (Libra):** Separate observation, recommendation, approval, and execution privileges.
+- **A1320 — Trait Accountability Alchemy (Libra):** Assign an accountable owner to each consequential trait-related decision.
+- **A1321 — Trait Transparency Alchemy (Libra):** Explain what is inferred, changed, retained, and shared.
+- **A1322 — Trait Proportionality Alchemy (Libra):** Limit interventions to the least intrusive means that can meet a legitimate goal.
+- **A1323 — Trait Contestability Alchemy (Libra):** Allow affected people to challenge, correct, or appeal trait records and decisions.
+- **A1324 — Trait Pluralism Alchemy (Libra):** Respect legitimate variation rather than imposing a single preferred trait profile.
+- **A1325 — Trait Conflict Resolution Alchemy (Libra):** Resolve competing goals through transparent, rights-respecting processes.
+
+### Scorpio — Deep transformation and adversarial resistance
+- **A1326 — Trait Transformation Alchemy (Scorpio):** Model or implement authorized, bounded changes with impact analysis.
+- **A1327 — Trait Suppression Detection Alchemy (Scorpio):** Detect unauthorized or harmful suppression of a capability or characteristic.
+- **A1328 — Trait Injection Defense Alchemy (Scorpio):** Prevent malicious insertion of false traits, labels, or system attributes.
+- **A1329 — Trait Tampering Detection Alchemy (Scorpio):** Detect unauthorized changes to trait records, models, or configurations.
+- **A1330 — Trait Spoofing Resistance Alchemy (Scorpio):** Verify trait claims and resist impersonation or forged attribution.
+- **A1331 — Trait Exploitation Resistance Alchemy (Scorpio):** Prevent use of trait information to manipulate, coerce, or target individuals.
+- **A1332 — Trait Mutation Containment Alchemy (Scorpio):** Contain unexpected changes and prevent propagation across dependent systems.
+- **A1333 — Trait Reversal Alchemy (Scorpio):** Reverse an authorized change when safe, feasible, and consented.
+- **A1334 — Trait Adversarial Testing Alchemy (Scorpio):** Test trait systems against manipulation, poisoning, evasion, and misuse.
+- **A1335 — Trait Incident Recovery Alchemy (Scorpio):** Restore integrity and notify affected parties after trait-related incidents.
+
+### Sagittarius — Expansion, learning, exploration
+- **A1336 — Trait Learning Alchemy (Sagittarius):** Support learning through practice, feedback, and evidence-based instruction.
+- **A1337 — Trait Transfer Learning Alchemy (Sagittarius):** Reuse validated knowledge across contexts while checking domain mismatch.
+- **A1338 — Trait Potential Exploration Alchemy (Sagittarius):** Explore alternative development pathways without deterministic claims.
+- **A1339 — Trait Cross-Domain Mapping Alchemy (Sagittarius):** Map analogous traits across domains while preserving important distinctions.
+- **A1340 — Trait Cultural Interpretation Alchemy (Sagittarius):** Document cultural meanings without universalizing one tradition.
+- **A1341 — Trait Research Expansion Alchemy (Sagittarius):** Identify open questions, competing models, and research opportunities.
+- **A1342 — Trait Scenario Simulation Alchemy (Sagittarius):** Simulate hypothetical changes in a sandbox without affecting real subjects.
+- **A1343 — Trait Portability Alchemy (Sagittarius):** Move user-controlled trait preferences or records between compatible systems.
+- **A1344 — Trait Interoperability Alchemy (Sagittarius):** Use documented schemas and semantics for cross-system trait exchange.
+- **A1345 — Trait Learning Review Alchemy (Sagittarius):** Reassess learned traits and assumptions as evidence and context change.
+
+### Capricorn — Structure, operations, accountability
+- **A1346 — Trait Lifecycle Management Alchemy (Capricorn):** Manage trait records from creation through review, retention, and deletion.
+- **A1347 — Trait Versioning Alchemy (Capricorn):** Version definitions, models, and configurations with traceable change history.
+- **A1348 — Trait Configuration Control Alchemy (Capricorn):** Restrict configuration changes to authorized roles and approved scopes.
+- **A1349 — Trait Release Governance Alchemy (Capricorn):** Require testing, review, provenance, and rollback plans before release.
+- **A1350 — Trait Access Control Alchemy (Capricorn):** Apply least privilege to trait data and modification functions.
+- **A1351 — Trait Audit Logging Alchemy (Capricorn):** Maintain tamper-evident records of access and consequential changes.
+- **A1352 — Trait Retention Control Alchemy (Capricorn):** Retain only what is necessary and honor deletion and expiry rules.
+- **A1353 — Trait Operational Monitoring Alchemy (Capricorn):** Monitor reliability, drift, safety, and unintended consequences.
+- **A1354 — Trait Maintenance Alchemy (Capricorn):** Maintain trait models and definitions as dependencies and contexts evolve.
+- **A1355 — Trait Retirement Alchemy (Capricorn):** Safely deprecate invalid, harmful, or unsupported trait functions.
+
+### Aquarius — Systems, networks, collective intelligence
+- **A1356 — Trait Network Mapping Alchemy (Aquarius):** Map how traits and their effects propagate through connected systems.
+- **A1357 — Trait Collective Learning Alchemy (Aquarius):** Aggregate appropriately protected insights without exposing individual identities.
+- **A1358 — Trait Distributed Consistency Alchemy (Aquarius):** Keep replicated trait records consistent with provenance and conflict resolution.
+- **A1359 — Trait Local-First Control Alchemy (Aquarius):** Keep sensitive trait processing local where feasible and user-controlled.
+- **A1360 — Trait Assistant Boundary Alchemy (Aquarius):** Limit UNIVERSALINS to authorized assistance, explanation, and workflow support.
+- **A1361 — Trait Guardian Boundary Alchemy (Aquarius):** Keep UNIVERSALIN Guardians personal, consent-based, and under human direction.
+- **A1362 — Trait Human-System Coordination Alchemy (Aquarius):** Coordinate people and tools without reducing people to trait profiles.
+- **A1363 — Trait Grid Resilience Alchemy (Aquarius):** Prevent a single trait service or model from becoming a critical point of failure.
+- **A1364 — Trait Ecosystem Interoperability Alchemy (Aquarius):** Use open, documented contracts while preserving edition-specific authority boundaries.
+- **A1365 — Trait Collective Safeguards Alchemy (Aquarius):** Prevent group-level trait inference from enabling profiling, exclusion, or surveillance.
+
+### Pisces — Completion, restoration, renewal
+- **A1366 — Trait Restoration Alchemy (Pisces):** Restore a validated prior state or user-selected configuration after failure.
+- **A1367 — Trait Reconciliation Alchemy (Pisces):** Reconcile conflicting trait records with provenance and human review.
+- **A1368 — Trait Harm Repair Alchemy (Pisces):** Remedy documented harms caused by inaccurate or misused trait information.
+- **A1369 — Trait Record Correction Alchemy (Pisces):** Correct false, stale, or misleading trait records with an audit trail.
+- **A1370 — Trait Consent Renewal Alchemy (Pisces):** Reconfirm consent when purpose, context, or risk materially changes.
+- **A1371 — Trait Data Erasure Alchemy (Pisces):** Erase personal trait data when required, subject to lawful retention limits.
+- **A1372 — Trait Model Decommissioning Alchemy (Pisces):** Retire models that are unsafe, invalid, or no longer justified.
+- **A1373 — Trait Recovery Validation Alchemy (Pisces):** Verify restored records and systems before returning them to service.
+- **A1374 — Trait Lessons Integration Alchemy (Pisces):** Convert incident findings into improved controls and transparent guidance.
+- **A1375 — Trait Renewal Planning Alchemy (Pisces):** Plan safe, voluntary renewal of practices and system capabilities.
+
+## Cross-stage prevention, protection, correction, and restoration — 20 entries
+- **A1376 — Trait Scope Limitation Alchemy:** Restrict each operation to a declared trait, target, purpose, and authorized context.
+- **A1377 — Trait Informed Consent Gate Alchemy:** Require informed, specific, revocable consent before personal or biological trait intervention.
+- **A1378 — Trait Non-Coercion Alchemy:** Block coercive attempts to change personality, identity, belief, or behavior.
+- **A1379 — Trait Bodily Integrity Alchemy:** Prohibit unauthorized genetic, physiological, neurological, or other bodily intervention.
+- **A1380 — Trait Identity Preservation Alchemy:** Prevent forced identity rewriting and preserve the person's right to self-definition.
+- **A1381 — Trait Anti-Discrimination Alchemy:** Detect and prevent exclusion or adverse decisions based on protected or sensitive traits.
+- **A1382 — Trait Inference Minimization Alchemy:** Avoid inferring sensitive traits unless necessary, lawful, justified, and consented.
+- **A1383 — Trait Data Security Alchemy:** Encrypt, restrict, and audit access to sensitive trait information.
+- **A1384 — Trait Provenance Verification Alchemy:** Verify source, integrity, and transformation history before relying on trait claims.
+- **A1385 — Trait Model Validation Gate Alchemy:** Require fit-for-purpose validation and disclose uncertainty before consequential use.
+- **A1386 — Trait Bias and Harm Review Alchemy:** Conduct impact assessments with affected communities and independent review.
+- **A1387 — Trait Human Review Alchemy:** Require meaningful human review for consequential decisions affecting people.
+- **A1388 — Trait Change Simulation Gate Alchemy:** Use sandbox testing and impact analysis before applying changes to live systems.
+- **A1389 — Trait Rollback Safeguard Alchemy:** Maintain tested rollback or recovery paths for reversible technical changes.
+- **A1390 — Trait Biological Safety Boundary Alchemy:** Do not operationalize fictional genetic or supernatural alteration as real-world capability.
+- **A1391 — Trait Psychological Safety Boundary Alchemy:** Do not diagnose, manipulate, or attempt to reprogram a person's psychology.
+- **A1392 — Trait Anti-Weaponization Alchemy:** Prevent trait systems from enabling targeting, coercion, exploitation, or discriminatory surveillance.
+- **A1393 — Trait Assistant Permission Boundary Alchemy:** Give UNIVERSALINS and Guardians no implicit authority to alter personal traits or records.
+- **A1394 — Trait Public-Private Boundary Alchemy:** Keep C2O private data, credentials, and policies out of UNIVERSALIS public artifacts.
+- **A1395 — Trait Independent Review and Remedy Alchemy:** Provide appeal, correction, incident response, restitution, and independent audit.
+
+## Ecosystem-specific profiles
+These profiles apply across the four in-scope repositories and ecosystem components. C2O and UNIVERSALIS remain the two editions of the same underlying OS and application architectures; their governance and source-visibility boundaries remain distinct. UNIVERSALINS are non-personal assistants. UNIVERSALIN Guardians are personal human assistants/guardians. Neither assistant class receives implicit authority to alter a person's traits or administer the OS or applications.
+
+### C2O Trait Stewardship — component-specific profile
+- **C2OTR001 — C2O Trait Stewardship 1:** Maintain private-source trait-governance controls and accountable approvals.
+- **C2OTR002 — C2O Trait Stewardship 2:** Protect confidential trait records, internal models, keys, and incident evidence.
+- **C2OTR003 — C2O Trait Stewardship 3:** Separate observation, recommendation, authorization, and execution privileges.
+- **C2OTR004 — C2O Trait Stewardship 4:** Require documented purpose, consent basis, risk review, and change provenance.
+- **C2OTR005 — C2O Trait Stewardship 5:** Apply least privilege to trait-related services and administrative operations.
+- **C2OTR006 — C2O Trait Stewardship 6:** Validate private trait-processing components before controlled release.
+- **C2OTR007 — C2O Trait Stewardship 7:** Maintain confidential audit evidence with tamper-evident integrity.
+- **C2OTR008 — C2O Trait Stewardship 8:** Contain unauthorized trait-data access or modification and preserve evidence.
+- **C2OTR009 — C2O Trait Stewardship 9:** Provide correction, appeal, rollback, and remedy under accountable governance.
+- **C2OTR010 — C2O Trait Stewardship 10:** Prevent private C2O authority or confidential material from leaking into public contracts.
+- **C2OTR011 — C2O Trait Stewardship 11:** Review retention, deletion, and access rights throughout the data lifecycle.
+- **C2OTR012 — C2O Trait Stewardship 12:** Authorize retirement of unsafe trait capabilities with continuity planning.
+
+### UNIVERSALIS Trait Commons — component-specific profile
+- **UNITR001 — UNIVERSALIS Trait Commons 1:** Publish clear trait schemas, definitions, limitations, and evidence labels.
+- **UNITR002 — UNIVERSALIS Trait Commons 2:** Enable independent inspection, build, operation, and maintenance without C2O services.
+- **UNITR003 — UNIVERSALIS Trait Commons 3:** Use open, documented interfaces and portable user-controlled trait records.
+- **UNITR004 — UNIVERSALIS Trait Commons 4:** Make public contribution and maintainer decisions transparent and reviewable.
+- **UNITR005 — UNIVERSALIS Trait Commons 5:** Provide reproducible builds and verifiable provenance for trait-related components.
+- **UNITR006 — UNIVERSALIS Trait Commons 6:** Publish privacy, telemetry, retention, and deletion behavior.
+- **UNITR007 — UNIVERSALIS Trait Commons 7:** Support independent security assessment and responsible vulnerability disclosure.
+- **UNITR008 — UNIVERSALIS Trait Commons 8:** Keep public defaults privacy-preserving and least-privileged.
+- **UNITR009 — UNIVERSALIS Trait Commons 9:** Provide forkability and community continuity without private dependencies.
+- **UNITR010 — UNIVERSALIS Trait Commons 10:** Document safeguards against profiling, discrimination, coercion, and misuse.
+- **UNITR011 — UNIVERSALIS Trait Commons 11:** Maintain accessible documentation, localization, and appeal mechanisms.
+- **UNITR012 — UNIVERSALIS Trait Commons 12:** Retire unsafe public components with migration and security guidance.
+
+### UNIVERSALINS Trait Assistance — component-specific profile
+- **UNIVINS001 — UNIVERSALINS Trait Assistance 1:** Explain trait concepts and distinguish evidence from speculation or fiction.
+- **UNIVINS002 — UNIVERSALINS Trait Assistance 2:** Organize user-authorized trait-related research without asserting hidden knowledge.
+- **UNIVINS003 — UNIVERSALINS Trait Assistance 3:** Support voluntary learning and development plans defined by the human.
+- **UNIVINS004 — UNIVERSALINS Trait Assistance 4:** Use only authorized data and disclose uncertainty and data provenance.
+- **UNIVINS005 — UNIVERSALINS Trait Assistance 5:** Do not infer or expose sensitive traits without a valid, necessary basis.
+- **UNIVINS006 — UNIVERSALINS Trait Assistance 6:** Do not diagnose, rank human worth, or determine identity from trait data.
+- **UNIVINS007 — UNIVERSALINS Trait Assistance 7:** Do not manipulate personality, beliefs, emotions, or behavior covertly.
+- **UNIVINS008 — UNIVERSALINS Trait Assistance 8:** Require explicit authorization before modifying user-controlled preferences or records.
+- **UNIVINS009 — UNIVERSALINS Trait Assistance 9:** Escalate consequential or high-risk decisions to accountable human review.
+- **UNIVINS010 — UNIVERSALINS Trait Assistance 10:** Protect human data from cross-user leakage and unauthorized collective profiling.
+- **UNIVINS011 — UNIVERSALINS Trait Assistance 11:** Provide correction, explanation, and deletion pathways for assistant-held records.
+- **UNIVINS012 — UNIVERSALINS Trait Assistance 12:** Remain non-personal support systems without independent sovereignty or human authority.
+
+### UNIVERSALIN Guardian Trait Safeguards — component-specific profile
+- **GUARDTR001 — UNIVERSALIN Guardian Trait Safeguards 1:** Support the human's self-defined goals rather than imposing a preferred trait profile.
+- **GUARDTR002 — UNIVERSALIN Guardian Trait Safeguards 2:** Respect bodily autonomy, identity, belief, culture, and personal boundaries.
+- **GUARDTR003 — UNIVERSALIN Guardian Trait Safeguards 3:** Obtain clear, ongoing consent for any sensitive trait-related assistance.
+- **GUARDTR004 — UNIVERSALIN Guardian Trait Safeguards 4:** Protect private conversations and trait-related information from unauthorized access.
+- **GUARDTR005 — UNIVERSALIN Guardian Trait Safeguards 5:** Distinguish supportive reflection from diagnosis or professional assessment.
+- **GUARDTR006 — UNIVERSALIN Guardian Trait Safeguards 6:** Never use attachment, trust, or personal access to coerce trait changes.
+- **GUARDTR007 — UNIVERSALIN Guardian Trait Safeguards 7:** Explain recommendations, uncertainty, and possible consequences in plain language.
+- **GUARDTR008 — UNIVERSALIN Guardian Trait Safeguards 8:** Keep consequential decisions with the human and lawful accountable authorities.
+- **GUARDTR009 — UNIVERSALIN Guardian Trait Safeguards 9:** Permit refusal, withdrawal, correction, and discontinuation without retaliation.
+- **GUARDTR010 — UNIVERSALIN Guardian Trait Safeguards 10:** Protect against manipulation, dependency, isolation, and undue influence.
+- **GUARDTR011 — UNIVERSALIN Guardian Trait Safeguards 11:** Support recovery and referral to qualified human support when appropriate.
+- **GUARDTR012 — UNIVERSALIN Guardian Trait Safeguards 12:** Maintain clear boundaries between personal assistance and OS or application administration.
+
+## Harm-pattern classifications — recognition and prevention only
+- **TRX001 — Coercive trait alteration:** A person or system is changed without legitimate authority, informed consent, or a lawful basis.
+- **TRX002 — Identity override:** A system imposes or rewrites identity labels against a person's self-definition.
+- **TRX003 — Trait-based discrimination:** Access, opportunity, or treatment is unfairly restricted using actual or inferred traits.
+- **TRX004 — Sensitive-trait surveillance:** Traits are inferred, tracked, or shared beyond necessary and authorized purposes.
+- **TRX005 — False trait attribution:** A fabricated or unverified characteristic is presented as fact.
+- **TRX006 — Trait data poisoning:** Records or models are maliciously altered to produce false classifications or decisions.
+- **TRX007 — Biological intervention abuse:** Genetic or physiological intervention is attempted without appropriate evidence, consent, and oversight.
+- **TRX008 — Psychological manipulation:** Trait information is used to covertly manipulate beliefs, emotions, personality, or behavior.
+- **TRX009 — Trait essentialism:** A contextual or probabilistic characteristic is treated as fixed, universal, or destiny.
+- **TRX010 — Capability theft or suppression:** Skills, access, or capabilities are removed, copied, or restricted without authorization.
+- **TRX011 — Model bias amplification:** A flawed trait model reproduces or magnifies discriminatory assumptions.
+- **TRX012 — Trait inference overreach:** A system claims to know hidden or immutable characteristics from weak proxy signals.
+- **TRX013 — Assistant authority escalation:** An assistant treats support permissions as authority to alter a human or system.
+- **TRX014 — Public-private boundary breach:** Private C2O policies, credentials, or records are exposed through public UNIVERSALIS components.
+- **TRX015 — Trait permanence trap:** A change is made without meaningful correction, appeal, expiry, or recovery options.
+- **TRX016 — Fiction-to-reality conflation:** A fictional superpower description is represented as an established real-world capability.
+
+## Zodiac coverage and required safeguards
+The 120 core entries are distributed evenly across the twelve Zodiac stages as organizational categories (ten entries per stage), not as astrological or causal claims. Every implementation must identify its target class (human, other organism, system, model, fictional character, or symbolic concept), trait type, evidence basis, purpose, authority, consent status, reversibility, risks, and review method. Human-targeted interventions require a legitimate, lawful, evidence-based context and meaningful informed consent; fictional superpower claims must never be represented as real capabilities. Harm-pattern records are defensive classifications only.
+
+## Evidence and implementation boundary
+The source is community-authored fictional reference material. It is useful for identifying conceptual scope and related fictional ability categories, but it is not scientific evidence, clinical guidance, or an implementation specification. Biological, psychological, social, and technical claims must be independently supported by appropriate evidence. Taxonomy inclusion does not establish feasibility, safety, legality, or implementation. No trait-related capability may be deployed merely because it appears in this list.
+
+## Required record fields
+Every trait entry or implementation trace must record: target class; trait definition and context; trait type and whether observed, inferred, learned, configured, fictional, or symbolic; evidence and provenance; intended purpose; affected parties; authority and consent; data sensitivity; measurement validity and uncertainty; dependencies and interactions; safety and discrimination assessment; reversibility and recovery; privacy and retention; human review and appeal; edition boundary; verification status; accountable owner; and release authorization.
+
+## Taxonomy maintenance for v0.10.0
+This expansion appends Trait Manipulation Alchemy without changing existing identifiers. Core entries are A1256–A1375 and cross-stage safeguards are A1376–A1395. Component profiles and defensive harm-pattern classifications use separate stable identifier namespaces. The same canonical file is to be synchronized byte-for-byte across C2O-OS, C2O-App, UNIVERSALIS-OS, and UNIVERSALIS-App. A taxonomy entry is not proof of implementation.
