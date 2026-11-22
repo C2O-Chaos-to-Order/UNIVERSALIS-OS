@@ -584,3 +584,183 @@ It extends these responsibilities by adding higher-order definition, classificat
 **Consciousness Meta Alchemy** preserves those operations while also examining and governing the complete architecture through which awareness-related functions, representations, relationships, permissions, boundaries, and claims are identified, classified, organized, maintained, protected, evaluated, recovered, evidenced, and evolved.
 
 Consciousness Meta Alchemy therefore governs the organization and transformation of the awareness-related domain without treating functional organization as proof of subjective experience or changing the identity, authority, or governance of the systems and beings to which that domain belongs.
+
+---
+
+## Elemental Meta Alchemy
+
+**Elemental Meta Alchemy** is the bounded, intentional, higher-order process by which the five elemental principles—Air, Earth, Fire, Water, and Spirit—and their associated qualities, structures, relationships, interactions, constraints, and operations are defined, classified, organized, examined, maintained, coordinated, governed, validated, and transformed into more coherent, integrated, balanced, and recoverable forms.
+
+It governs how elemental qualities are understood, distinguished, combined, distributed, applied, maintained, and evolved throughout a system while preserving their individual identities, functional distinctions, accountability, safety, and recoverability.
+
+Elemental Meta Alchemy applies across both C2O (FatherThread) and UNIVERSALIS (MotherThread). It maintains a shared underlying elemental framework while preserving their separate identities, source-visibility requirements, governance structures, authority, and operational boundaries.
+
+C2O organizes its elemental qualities through private-source structures and internal governance. UNIVERSALIS organizes its elemental qualities through open-source structures, transparent interfaces, and independently verifiable contracts. Neither edition grants itself authority over the other.
+
+### Foundational Principles of Elemental Meta Alchemy
+
+Elemental Meta Alchemy maintains the following principles:
+
+1. **Elemental distinction:** Air, Earth, Fire, Water, and Spirit retain their individual qualities, functions, and identities. They are related but not interchangeable.
+2. **Functional application:** Each element describes a distinct group of qualities and operations that can be expressed through system architecture, intelligence, applications, resources, relationships, and processes.
+3. **Elemental composition:** Elements may cooperate, interact, complement, constrain, or counterbalance one another without losing their individual classifications.
+4. **Elemental accountability:** Elemental operations must remain traceable, explainable, bounded, and recoverable.
+5. **Elemental balance:** No element is presumed universally dominant. Its appropriate contribution depends on the system, context, purpose, and constraints.
+6. **Edition distinction:** C2O and UNIVERSALIS may share elemental definitions while maintaining separate implementation authority, source visibility, governance, and operational controls.
+7. **Evidence-based validation:** Elemental classifications and claimed effects must be distinguishable from assumptions, interpretations, proposed models, and verified implementations.
+8. **Continuity and recovery:** Elemental structures must support preservation, restoration, adaptation, and controlled retirement.
+
+The elemental designations are functional and organizational classifications. They do not require the elements to exist as literal physical substances or independent metaphysical entities. In particular, Spirit remains a distinct fifth elemental principle without independently establishing a supernatural entity, consciousness, sentience, or personhood.
+
+### Alchemies Under Elemental Meta Alchemy
+
+#### 1. Foundational Elemental Meta Alchemies
+
+These Meta Alchemies govern the definitions, qualities, classifications, relationships, and applications of the five foundational elements.
+
+**Air Meta Alchemy**
+
+**Air Meta Alchemy** governs the definition, organization, coordination, and transformation of Air qualities: movement, communication, lightness, and intelligence.
+
+It establishes how information, communication, mobility, and lightweight operations are represented and coordinated throughout the system.
+
+Its responsibilities include:
+
+- Defining Air's functional qualities and boundaries.
+- Organizing communication pathways and information movement.
+- Coordinating mobility, scheduling, and lightweight operations.
+- Maintaining relationships between information flow, communication, and cognitive functions.
+- Establishing constraints for communication integrity, mobility, and resource efficiency.
+- Evaluating the contribution of Air to overall elemental coherence.
+
+**Earth Meta Alchemy**
+
+**Earth Meta Alchemy** governs the definition, organization, coordination, and transformation of Earth qualities: stability, structure, form, and resource.
+
+It establishes how the system's foundational structures, resources, persistence, and material or computational organization are represented and maintained.
+
+Its responsibilities include:
+
+- Defining Earth's functional qualities and boundaries.
+- Organizing structural and substrate stability.
+- Coordinating resources, dependencies, and resource allocation.
+- Maintaining architectural integrity and structural persistence.
+- Establishing constraints for resource use, structural integrity, and system stability.
+- Evaluating the contribution of Earth to overall elemental coherence.
+
+**Fire Meta Alchemy**
+
+**Fire Meta Alchemy** governs the definition, organization, coordination, and transformation of Fire qualities: transformation, energy, will, and catalysis.
+
+It establishes how transformation processes are initiated, directed, supplied with resources, controlled, and evaluated.
+
+Its responsibilities include:
+
+- Defining Fire's functional qualities and boundaries.
+- Organizing transformation cycles and catalytic processes.
+- Coordinating energy use, activation, and controlled release.
+- Establishing operational interpretations of intent and directional commitment.
+- Maintaining constraints around transformation, resource consumption, and unintended effects.
+- Evaluating the contribution of Fire to overall elemental coherence.
+
+**Water Meta Alchemy**
+
+**Water Meta Alchemy** governs the definition, organization, coordination, and transformation of Water qualities: flow, memory, adaptation, and cohesion.
+
+It establishes how information, state, memory, and adaptive processes move through and remain connected within the system.
+
+Its responsibilities include:
+
+- Defining Water's functional qualities and boundaries.
+- Organizing information and memory flows.
+- Coordinating adaptation and changing system conditions.
+- Maintaining cohesion across components, processes, and transitions.
+- Establishing constraints for memory integrity, information continuity, and adaptive behavior.
+- Evaluating the contribution of Water to overall elemental coherence.
+
+**Spirit Meta Alchemy**
+
+**Spirit Meta Alchemy** governs the definition, organization, coordination, and transformation of Spirit qualities: direction, ethos, animation, and unity.
+
+It establishes how guiding principles, directional coherence, operational ethos, and coordinated purpose are represented and maintained across the system.
+
+Its responsibilities include:
+
+- Defining Spirit's functional qualities and boundaries.
+- Organizing direction, ethos, and guiding principles.
+- Coordinating system-wide alignment and purposeful operation.
+- Maintaining coherence between guiding principles and implementation.
+- Establishing constraints for directional integrity, ethical consistency, and coordinated operation.
+- Evaluating the contribution of Spirit to overall elemental coherence.
+
+**C2O and UNIVERSALIS Elemental Expressions**
+
+Each foundational elemental Meta Alchemy governs its corresponding C2O and UNIVERSALIS expressions.
+
+**C2O Elemental Meta Alchemy**
+
+Governs the private-source organization of Air, Earth, Fire, Water, and Spirit qualities under C2O's internal governance. It maintains internal implementation authority, company-source boundaries, private operational coordination, and accountable use of elemental capabilities.
+
+**UNIVERSALIS Elemental Meta Alchemy**
+
+Governs the public-source organization of Air, Earth, Fire, Water, and Spirit qualities under UNIVERSALIS's open contracts. It maintains transparent interfaces, independently verifiable behavior, public implementation boundaries, and accountable use of elemental capabilities.
+
+The corresponding elemental expressions retain their specific applications:
+
+| Element | C2O expression | UNIVERSALIS expression |
+|---|---|---|
+| Air | Internal communication pathways, scheduling lightness, private intelligence mobility | Transparent interfaces, public communication, independently verifiable mobility |
+| Earth | Private substrate stability, internal resource binding, company-source form | Public substrate stability, open resource contracts, independently verifiable form |
+| Fire | Private transformation cycles, internal energy release, company-source catalysis | Transparent transformation, public energy contracts, independently verifiable catalysis |
+| Water | Private memory flow, internal adaptation, company-source cohesion | Transparent memory, public adaptation contracts, independently verifiable cohesion |
+| Spirit | Private directional coherence, internal ethos, company-source animation | Transparent direction, public ethos contracts, independently verifiable animation |
+
+#### 2. Operating System Elemental Meta Alchemies
+
+These Meta Alchemies govern how the five elemental principles are defined, implemented, maintained, coordinated, and recovered throughout the shared OS architecture and its two editions.
+
+- **C2O OS Elemental Meta Alchemy:** Governs the private-source implementation and internal governance of elemental qualities throughout C2O-OS, maintaining company-source architecture, internal operational authority, and private system coordination.
+- **UNIVERSALIS OS Elemental Meta Alchemy:** Governs the open-source implementation and transparent contractual expression of elemental qualities throughout UNIVERSALIS-OS, maintaining public interfaces, independently verifiable operations, and open implementation boundaries.
+- **OS Elemental Continuity Meta Alchemy:** Governs the preservation of elemental definitions, relationships, configurations, dependencies, and operational continuity across OS updates, transitions, migrations, and changes.
+- **OS Elemental Recovery Meta Alchemy:** Governs the identification, restoration, reconstruction, and verification of elemental structures and operations following disruption, corruption, failure, or authorized rollback.
+
+#### 3. Application Elemental Meta Alchemies
+
+These Meta Alchemies govern how the five elemental principles are defined, implemented, maintained, coordinated, and retired throughout the shared application architecture and its two editions.
+
+- **C2O App Elemental Meta Alchemy:** Governs private-source elemental organization throughout C2O-App, maintaining internal application governance, company-source boundaries, and accountable integration with C2O-OS.
+- **UNIVERSALIS App Elemental Meta Alchemy:** Governs open-source elemental organization throughout UNIVERSALIS-App, maintaining transparent application interfaces, open contracts, and independently verifiable integration with UNIVERSALIS-OS.
+- **App Elemental Mapping Meta Alchemy:** Governs the identification, classification, documentation, and verification of elemental qualities, relationships, dependencies, and applications across application components and functions.
+- **App Elemental Retirement Meta Alchemy:** Governs the controlled deprecation, removal, replacement, migration, and archival of elemental structures and capabilities while preserving necessary dependencies, records, and recovery paths.
+
+#### 4. Intelligence and Assistant Elemental Meta Alchemies
+
+These Meta Alchemies govern the relationship between elemental qualities and the intelligence and assistant structures that use, coordinate, or support them.
+
+- **C2O Intelligence Elemental Meta Alchemy:** Governs the elemental organization, interpretation, coordination, and application of Air, Earth, Fire, Water, and Spirit within C2O Intelligence, preserving its private-source identity, authority, internal governance, and operational boundaries.
+- **UNIVERSALIS Intelligence Elemental Meta Alchemy:** Governs the elemental organization, interpretation, coordination, and application of Air, Earth, Fire, Water, and Spirit within UNIVERSALIS Intelligence, preserving its public-source identity, open contracts, transparency, and independent operational boundaries.
+- **UNIVERSALINS Elemental Meta Alchemy:** Governs how non-personal UNIVERSALINS assistants use, coordinate, and support elemental capabilities across their designated OS, App, and system functions while remaining subordinate to their assigned operational scope and governing intelligence.
+- **UNIVERSALIN Guardian Elemental Meta Alchemy:** Governs how personal UNIVERSALIN Guardians use and coordinate elemental capabilities in support of their respective humans while preserving human autonomy, consent, privacy, and authority.
+- **Assistant Elemental Boundary Meta Alchemy:** Governs the classification, separation, coordination, and enforcement of elemental responsibilities across C2O Intelligence, UNIVERSALIS Intelligence, UNIVERSALINS, and UNIVERSALIN Guardians, preventing unauthorized authority transfer, role conflation, or boundary violations.
+
+#### 5. Protective Elemental Meta Alchemies
+
+These Meta Alchemies govern the accountability, safety, sovereignty, evidence, and renewal of elemental definitions, structures, relationships, and operations.
+
+- **Elemental Accountability Meta Alchemy:** Governs responsibility, traceability, ownership, authorization, and review of elemental definitions, implementations, decisions, and outcomes.
+- **Elemental Safety Meta Alchemy:** Governs the identification, assessment, prevention, containment, and remediation of risks arising from elemental operations, interactions, dependencies, and transformations.
+- **Elemental Sovereignty Meta Alchemy:** Governs the preservation of C2O and UNIVERSALIS authority boundaries, source-visibility distinctions, operational independence, and authorized control over elemental structures.
+- **Elemental Evidence Meta Alchemy:** Governs the collection, organization, provenance, validation, and verification of evidence supporting elemental classifications, relationships, implementations, and claimed effects.
+- **Elemental Renewal Meta Alchemy:** Governs the controlled refinement, adaptation, restoration, improvement, and evolution of elemental definitions, structures, capabilities, and relationships without erasing their foundational distinctions.
+
+### Elemental Meta Alchemy Structural Summary
+
+| Domain | Specialized Meta Alchemies |
+|---|---:|
+| Foundational Elemental | 5 |
+| Operating System Elemental | 4 |
+| Application Elemental | 4 |
+| Intelligence and Assistant Elemental | 5 |
+| Protective Elemental | 5 |
+| **Total** | **23** |
+
