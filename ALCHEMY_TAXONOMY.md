@@ -1,6 +1,6 @@
 # Universal Taxonomy of Alchemies
-**Version:** 0.25.0  
-**Status:** Living taxonomy; version 0.25.0 includes the Antler Protrusion Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
+**Version:** 0.26.0  
+**Status:** Living taxonomy; version 0.26.0 adds the Archetype Combination Alchemy expansion; cumulative records and evidence status are maintained by category; expandable and subject to evidence-based review  
 **Canonical scope:** C2O, UNIVERSALIS, UNIVERSALINS, and UNIVERSALIN Guardians  
 **Repository scope:** C2O-OS, C2O-App, UNIVERSALIS-OS, UNIVERSALIS-App
 
@@ -3649,7 +3649,53 @@ This expansion appends Advanced Powers Alchemy without renumbering or replacing 
 - **A1954 — Retention and Secure-Deletion Safeguard Alchemy:** Prevents or detects unsafe post-event continuation by enforcing verified triggers, explicit and revocable delegation, strict purpose and resource limits, independent oversight, privacy-preserving evidence, human override, and tested shutdown, recovery, and secure-disposition procedures. No safeguard may extend authority beyond its lawful and documented scope.
 - **A1955 — Independent Post-Handoff Review Safeguard Alchemy:** Prevents or detects unsafe post-event continuation by enforcing verified triggers, explicit and revocable delegation, strict purpose and resource limits, independent oversight, privacy-preserving evidence, human override, and tested shutdown, recovery, and secure-disposition procedures. No safeguard may extend authority beyond its lawful and documented scope.
 
-### Ecosystem Profiles
+#
+## Archetype Combination Alchemy Expansion
+
+**Primary source:** [Superpower Wiki — Trait:Archetype Combination](https://powerlisting.fandom.com/wiki/Trait:Archetype_Combination). The source describes a fictional trait in which a character or archetype embodies two or more archetypes, with examples such as warrior/scientist, samurai/shinobi, supernatural detective, and multi-pantheon deity. Its references to superior-trait and type-advantage combinations are treated as fictional taxonomy examples, not verified real-world capabilities.
+
+**Scope distinction:** Archetype Combination is the composition of two or more role-patterns, narrative archetypes, or abstract capability profiles into one explicitly bounded composite. It is not automatically a fusion of persons, minds, bodies, identities, cultures, authorities, or real-world powers. It is distinct from **A1300 — Trait Combination Alchemy**, which addresses generic combination of compatible skills or system properties. A1300 is a related enabling entry; it is not replaced or renumbered. Archetype Creation and Archetype Manipulation are related source concepts, but creating or manipulating an archetype is not a prerequisite for every form of combination.
+
+### Gemini — distinction, pairing, and composition
+- **A2765 — Archetype Combination Alchemy (Gemini/Leo):** Define and model a composite archetype from two or more distinct archetype patterns while preserving the source components, their provenance, scope, and meaningful differences. Specify whether the combination is simultaneous, contextual, layered, complementary, or merely representational; do not imply literal transformation or new powers. Evidence status: source-supported as a fictional taxonomy concept; proposed as an abstract classification method.
+- **A2766 — Archetype Component Identification Alchemy (Gemini):** Identify each constituent archetype and separate its defining features from optional tropes, stylistic conventions, stereotypes, and unsupported assumptions.
+- **A2767 — Archetype Compatibility Assessment Alchemy (Virgo):** Assess whether proposed components can coexist under declared goals, contexts, constraints, and evidence; record compatible, conditional, conflicting, and unknown relationships rather than forcing a match.
+- **A2768 — Archetype Composition Mapping Alchemy (Gemini):** Map each component's traits, functions, narrative role, capabilities, dependencies, and boundaries into a traceable composite structure.
+- **A2769 — Archetype Interaction Modeling Alchemy (Virgo):** Model reinforcement, complementarity, redundancy, interference, trade-offs, and emergent effects between components before accepting a composite classification.
+- **A2770 — Archetype Conflict Resolution Alchemy (Libra):** Resolve contradictory component requirements through explicit priorities, context separation, or a documented unresolved state; do not silently erase a constituent's defining properties.
+- **A2771 — Emergent Composite Analysis Alchemy (Aquarius):** Identify properties that arise from component interaction and distinguish them from properties actually supported by either component or by evidence.
+- **A2772 — Archetype Identity Continuity Alchemy (Cancer):** Preserve continuity of the represented subject's self-defined identity, history, agency, and distinctions when a composite archetype is applied.
+- **A2773 — Archetype Boundary Preservation Alchemy (Capricorn):** Maintain clear boundaries between role, metaphor, fictional classification, personal identity, capability, authority, and implementation.
+- **A2774 — Contextual Archetype Expression Alchemy (Leo):** Represent different components in context-appropriate ways without presenting a situational role as a permanent or exhaustive identity.
+- **A2775 — Archetype Reconfiguration and Reversibility Alchemy (Pisces):** Support review, revision, separation, or removal of a composite classification while retaining provenance and user-approved history; do not imply reversibility of real-world bodily or psychological change.
+- **A2776 — Archetype Provenance and Interpretation Alchemy (Virgo):** Record source traditions, authorial context, interpretation choices, confidence, uncertainty, and adaptation history for each constituent and composite.
+
+### Libra — balance, agency, and responsible use
+- **A2777 — Archetype Consent and Choice Alchemy (Cancer/Libra):** Require informed, voluntary, specific, and revocable choice before applying a personal archetype classification to an identifiable person; fictional character analysis and impersonal system modeling must still respect applicable rights and permissions.
+- **A2778 — Archetype Role-Balance Alchemy (Libra):** Evaluate whether a composite overweights one component, suppresses another, or creates contradictory expectations; expose trade-offs and allow the represented person or authorized owner to define acceptable balance.
+- **A2779 — Archetype Capability-Boundary Alchemy (Capricorn):** Prevent narrative or symbolic archetype labels from being treated as proof of skill, competence, access rights, expertise, supernatural ability, or decision authority.
+
+### Prevention, protection, detection, and recovery
+- **A2780 — Coercive Archetype Assignment Prevention Alchemy (Cancer):** Prevent forced, deceptive, or non-consensual assignment of archetype labels to people; provide refusal, correction, appeal, and revocation paths.
+- **A2781 — Identity-Erasure and Overwriting Prevention Alchemy (Cancer):** Prevent a composite label from replacing a person's self-description, individuality, history, or changing preferences; preserve constituent distinctions and user-controlled identity.
+- **A2782 — Stereotype and Essentialism Prevention Alchemy (Libra):** Detect and prevent reductive assumptions that a person must behave according to a role, gendered trope, cultural category, occupation, lineage, or fictional archetype.
+- **A2783 — False-Equivalence and Unsupported-Trait Prevention Alchemy (Virgo):** Prevent unsupported transfer of abilities, moral qualities, authority, or limitations from one archetype component to another; require evidence labels and explicit inference boundaries.
+- **A2784 — Cultural Context and Appropriation Risk Prevention Alchemy (Libra):** Preserve cultural, historical, and religious context; flag harmful decontextualization, misrepresentation, or appropriation risks and require careful review before reuse.
+- **A2785 — Harmful Role-Optimization Prevention Alchemy (Scorpio):** Prevent composite archetypes from being optimized for coercion, exploitation, manipulation, intimidation, discrimination, or violence; redirect analysis toward recognition, mitigation, and safe fictional treatment.
+- **A2786 — Authority Inflation and Privilege Escalation Prevention Alchemy (Capricorn):** Ensure that combining leadership, expert, guardian, warrior, deity, or similar archetypes never grants real permissions, status, credentials, or control beyond independently authorized roles.
+- **A2787 — Composite Instability and Dependency Detection Alchemy (Virgo):** Detect contradictory rules, runaway interactions, fragile dependencies, ambiguous state transitions, and unintended emergent behavior; require safe fallback and review before use.
+- **A2788 — Privacy, Provenance, and Misclassification Recovery Alchemy (Pisces):** Minimize sensitive personal profiling, retain source traceability, correct inaccurate composite labels, support deletion or retraction where appropriate, and document residual uncertainty without preserving unnecessary personal data.
+
+**Applicability and integration**
+- **C2O:** private-source governance and controlled internal implementation; private policies, keys, and incident details remain C2O-only.
+- **UNIVERSALIS:** public, inspectable, portable archetype schemas and safety contracts; no C2O-private implementation details.
+- **UNIVERSALINS:** non-personal assistants may classify, compare, explain, and audit archetype models within delegated scope; they cannot impose personal identities or override consent.
+- **UNIVERSALIN Guardians:** personal human-assistant support remains user-directed, privacy-preserving, revocable, and non-coercive; Guardians do not assign identities or exercise authority merely because an archetype label is present.
+- **Repository mapping:** C2O-OS and UNIVERSALIS-OS may apply these classifications to system roles, permission models, and architecture descriptions; C2O-App and UNIVERSALIS-App may apply them to user-facing profiles, workflows, and representations. All four repositories use the same public-safe identifiers and definitions, with private implementation details excluded from UNIVERSALIS.
+- **Related entries:** A1300 Trait Combination Alchemy; A1307 Trait Classification Alchemy; A1308 Trait Validation Alchemy; A1310 Trait Uncertainty Analysis Alchemy; A1311 Trait Bias Audit Alchemy; A1313 Trait Interaction Testing Alchemy; A1292 Trait Non-Discrimination Alchemy; A1287 Trait Consent Stewardship Alchemy; A1288 Trait Privacy Alchemy; A1289 Trait Vulnerability Protection Alchemy.
+- **Residual limits:** Archetype categories are interpretive and culturally situated. Composite classifications can remain ambiguous, incomplete, or contested. No taxonomy entry establishes a person's actual abilities, identity, morality, ancestry, mental state, or authority.
+
+## Ecosystem Profiles
 
 #### C2OADPC — C2O
 - **C2OADPC001 — Private-Source Continuity Governance Alchemy:** Defines the private-source continuity governance profile within its proper authority boundary. C2O remains private-source/company governed; UNIVERSALIS remains public/open-source and independently operable; UNIVERSALINS remain non-personal assistants; UNIVERSALIN Guardians remain personal human assistants/guardians. Apply explicit human authorization, least privilege, privacy, auditability, revocation, and shutdown. This profile does not transfer ownership, identity, consent, or authority.
@@ -5389,3 +5435,8 @@ This expansion adds **72 uniquely identified records**: **60 A-numbered Alchemie
 ## Maintenance Record for v0.25.0
 
 This expansion adds **72 uniquely identified records**: **60 A-numbered Alchemies** (A2705–A2764), comprising **48 core Alchemies** (four for each of the 12 taxonomy stages) and **12 prevention/protection/detection/correction/recovery Alchemies**; **4 ecosystem profiles** (ANTP-C2O-001 through ANTP-GRD-001); and **8 defensive harm-pattern classifications** (ANTPX001–ANTPX008). The A-numbered sequence now reaches **A2764**. This identifier ceiling is not the cumulative count of all taxonomy records. Taxonomy inclusion does not establish implementation or scientific validation.
+
+
+## Maintenance Record for v0.26.0
+
+This expansion adds **24 uniquely identified A-numbered Alchemies (A2765–A2788)** for Archetype Combination, including component identification, compatibility and interaction analysis, composition mapping, conflict resolution, emergent-property analysis, identity and boundary preservation, contextual expression, reversibility, provenance, consent, role balance, capability boundaries, and dedicated prevention/detection/recovery controls. The A-numbered sequence now reaches **A2788**. This identifier ceiling is not the cumulative count of all taxonomy records. The source is a fictional archetype/trait classification; the new entries are conceptual taxonomy specifications and are not evidence of real-world supernatural or transformative capability. Existing identifiers, including A1300, are preserved.
