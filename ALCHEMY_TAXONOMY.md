@@ -1548,58 +1548,59 @@ These principles govern every Alchemy section and every context-specific Map and
 
 **Universal Subjects of Human Knowledge Alchemy** is the bounded process by which the domains, disciplines, subjects, methods, principles, structures, and accumulated understanding of human knowledge are identified, classified, organized, related, examined, maintained, developed, integrated, and transformed into coherent and usable knowledge systems.
 
+It governs the organization and development of knowledge throughout the C2O–UNIVERSALIS ecosystem. It establishes how knowledge is represented, structured, interpreted, connected, applied, evaluated, and developed while preserving the integrity of its subjects, the distinctions between disciplines, the provenance and status of information, the traceability of methods and sources, and the boundaries of the systems and entities using it.
 
+Universal Subjects of Human Knowledge Alchemy is situated within the 22 canonical applicability contexts established in Section 1.2 and elaborated below. The contexts identify where knowledge organization and development may be situated; they are not 22 separate systems, applications, or intelligences. Nor does inclusion of a context establish that every subject, discipline, source, method, or knowledge operation is relevant, authorized, implemented, or available there.
 
-It governs the organization and development of knowledge throughout the C2O–UNIVERSALIS ecosystem. It establishes how knowledge is represented, structured, interpreted, connected, applied, evaluated, and developed while preserving the integrity of its subjects, the distinctions between disciplines, the provenance of information, and the boundaries of the systems and entities using it.
+Its universal application does not mean that every knowledge subject has identical relevance, implementation, access, responsibility, or authority in every context. The role and applicability of each knowledge subject and subordinate Alchemy must be established for the relevant context through Map Alchemy and Matrix Alchemy. Each assessment must identify its scope, relationships, dependencies, permissions, responsible authority, constraints, evidence, limitations, and review status. Applicability must not be inferred solely from the general presence of this parent Alchemy.
 
+### Universal Application Across the 22 Canonical Contexts
 
+The following table establishes the context-specific knowledge scope and boundaries of Universal Subjects of Human Knowledge Alchemy. The descriptions are contextual requirements, not declarations that every knowledge subject or subordinate Alchemy is Applicable in every row. Each subject and subordinate Alchemy remains subject to its own 22-context assessment under Section 1.2.
 
-Universal Subjects of Human Knowledge Alchemy applies across the operating systems, core intelligences, applications, UNIVERSALIN assistants, UNIVERSALIN Intelligence contexts, UNIVERSALIN Guardians, and UNIVERSALIN Guardian Intelligence contexts established in the Root Definition of Alchemy.
+| # | Canonical context | Context-specific knowledge scope and governing boundaries |
+|---:|---|---|
+| 1 | **C2O Operating System** | Governs knowledge structures and services supporting the C2O private-source operating-system edition, including architectural knowledge, system documentation, operational knowledge, internal standards, dependencies, and authorized knowledge resources. Access, retention, disclosure, and use remain subject to C2O governance, internal authority, security, and private-source boundaries. |
+| 2 | **UNIVERSALIS Operating System** | Governs knowledge structures and services supporting the UNIVERSALIS public, open-source operating-system edition, including inspectable architecture, public documentation, open standards, contracts, and independently usable operational knowledge. Knowledge structures must remain independently operable and must not require or disclose C2O private implementation, policies, keys, or records. |
+| 3 | **C2O Intelligence** | Governs the knowledge domains, sources, representations, methods, interpretation, and accumulated understanding used within C2O Intelligence's defined responsibilities. It preserves C2O Intelligence as one of the two core intelligences and subjects knowledge access and use to its private governance, authorized responsibilities, provenance, and information boundaries. |
+| 4 | **UNIVERSALIS Intelligence** | Governs the knowledge domains, sources, representations, methods, interpretation, and accumulated understanding used within UNIVERSALIS Intelligence's defined responsibilities. It preserves UNIVERSALIS Intelligence as the other core intelligence and requires public contracts and independent operability without dependence on C2O private knowledge stores, policies, keys, or records. |
+| 5 | **C2O Application** | Governs knowledge represented, maintained, interpreted, and applied through the C2O private-source application edition, including application knowledge models, subject structures, workflows, records, interfaces, and authorized information resources. Application access, processing, retention, and disclosure remain subject to C2O governance and application-specific permissions. |
+| 6 | **UNIVERSALIS Application** | Governs knowledge represented, maintained, interpreted, and applied through the UNIVERSALIS public, open-source application edition, including public subject structures, open documentation, application knowledge models, workflows, and inspectable interfaces. Its knowledge contracts and dependencies must support independent operation and must not expose C2O-protected information or introduce C2O private dependencies. |
+| 7 | **C2O Operating System - UNIVERSALIN** | Governs the knowledge resources, subject structures, methods, and operational information made available to non-personal UNIVERSALIN assistants hosted or supported by C2O Operating System. Each assistant's knowledge tasks, source access, retrieval, processing, retention, and outputs must remain within its assigned responsibilities, tools, permissions, and host-system constraints. |
+| 8 | **UNIVERSALIS Operating System - UNIVERSALIN** | Governs the knowledge resources and structures used by non-personal UNIVERSALIN assistants hosted or supported by UNIVERSALIS Operating System. Assistant knowledge tasks and interfaces must operate through open, inspectable contracts, with independently usable resources and explicit scope, while remaining distinct from personal Guardian knowledge and C2O private dependencies. |
+| 9 | **C2O Application - UNIVERSALIN** | Governs knowledge used by non-personal UNIVERSALIN assistants within C2O Application workflows, including application-scoped subject models, task information, records, retrieval sources, and permitted data relationships. Application-specific access and processing must remain bounded by the assistant's assignment, application permissions, and C2O governance, and must remain distinguishable from OS-wide knowledge responsibilities. |
+| 10 | **UNIVERSALIS Application - UNIVERSALIN** | Governs knowledge used by non-personal UNIVERSALIN assistants within UNIVERSALIS Application workflows through open application contracts. It establishes application-scoped subject models, task information, permitted sources, interfaces, and dependencies without implying access to C2O private components, personal Guardian records, or information outside the assistant's authorized task. |
+| 11 | **C2O Operating System - UNIVERSALIN Intelligence** | Governs the knowledge representation, retrieval, contextualization, interpretation, and processing functions supporting non-personal UNIVERSALIN assistants in C2O Operating System. These are subordinate intelligence-related functions within the assistant and host context, not another core intelligence; their knowledge operations remain bounded by assigned tasks, source permissions, and C2O controls. |
+| 12 | **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** | Governs the corresponding subordinate knowledge-processing and interpretation functions supporting non-personal UNIVERSALIN assistants in UNIVERSALIS Operating System. Their sources, interfaces, and dependencies must be established through open contracts and remain independently operable; these functions are not a separate core intelligence and must not depend on C2O private resources. |
+| 13 | **C2O Application - UNIVERSALIN Intelligence** | Governs application-scoped knowledge retrieval, interpretation, contextualization, and processing functions supporting non-personal UNIVERSALIN assistants in C2O Application. The functions remain subordinate to their assigned assistant context and limited by application data permissions, task purpose, host dependencies, and C2O governance. |
+| 14 | **UNIVERSALIS Application - UNIVERSALIN Intelligence** | Governs corresponding application-scoped knowledge retrieval, interpretation, contextualization, and processing functions supporting non-personal UNIVERSALIN assistants in UNIVERSALIS Application. These functions remain subordinate, operate through open application contracts, and must not create additional core-intelligence status or C2O private dependencies. |
+| 15 | **C2O Operating System - UNIVERSALIN Guardian** | Governs the organization and use of knowledge associated with a personal, human-bound UNIVERSALIN Guardian supported by C2O Operating System, including human-authorized personal context, knowledge preferences, permitted sources, and continuity. The designated human remains the authority-bearing principal over access, purpose, consent, retention, disclosure, and use of personal knowledge; C2O hosting does not itself grant authority over that knowledge. |
+| 16 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian** | Governs the organization and use of knowledge associated with a personal, human-bound UNIVERSALIN Guardian supported by UNIVERSALIS Operating System through open contracts. The designated human controls personal knowledge scope, access, consent, retention, and disclosure. Public source visibility and open interfaces must never be interpreted as public access to personal Guardian information. |
+| 17 | **C2O Application - UNIVERSALIN Guardian** | Governs human-authorized knowledge used within personal Guardian workflows in C2O Application, including preferences, personal records, application context, subject organization, permitted retrieval sources, and retention choices. Application processing and disclosure must remain within the designated human's explicit permissions and C2O's applicable privacy and governance controls. |
+| 18 | **UNIVERSALIS Application - UNIVERSALIN Guardian** | Governs human-authorized knowledge used within personal Guardian workflows in UNIVERSALIS Application through open application contracts. It preserves the designated human's control over personal sources, context, access, retention, and disclosure. Open-source application interfaces do not make personal knowledge public or authorize access by other assistants, users, or C2O private systems. |
+| 19 | **C2O Operating System - UNIVERSALIN Guardian Intelligence** | Governs subordinate knowledge retrieval, contextualization, interpretation, and related information-processing functions supporting a human-bound Guardian in C2O Operating System. These functions must operate only within the designated human's authorized purpose and permissions, preserve personal knowledge boundaries, and must not acquire independent authority or become another core intelligence. |
+| 20 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** | Governs corresponding subordinate knowledge functions supporting a human-bound Guardian in UNIVERSALIS Operating System through open contracts. Their use of personal sources and context remains human-authorized and private; open interfaces must not expose personal knowledge, introduce C2O private dependencies, or create independent decision authority. |
+| 21 | **C2O Application - UNIVERSALIN Guardian Intelligence** | Governs application-scoped knowledge retrieval, contextualization, memory-related information interfaces, and interpretation supporting a human-bound Guardian in C2O Application. These functions remain subordinate to the Guardian and designated human, and must respect the human-authorized purpose, application permissions, privacy, and retention choices. |
+| 22 | **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** | Governs corresponding application-scoped knowledge functions supporting a human-bound Guardian in UNIVERSALIS Application through open application contracts. The designated human retains authority over personal sources, context, access, retention, and disclosure; these subordinate functions must not publish personal records, acquire independent authority, or introduce C2O private dependencies. |
 
+The 22 canonical names and their order must match Section 1.2 exactly. **UNIVERSALIN** is the canonical spelling. **Application** is the expanded canonical form; **App** is an accepted abbreviation only and must not replace the canonical name in a context record.
 
+### Knowledge Integrity Across Contexts
 
-Its universal application does not mean that every knowledge subject has identical relevance, implementation, access, responsibility, or authority in every context. The applicable relationships, capabilities, requirements, permissions, dependencies, and boundaries must be established through Map Alchemy and Matrix Alchemy.
+Within these contexts, Universal Subjects of Human Knowledge Alchemy governs the appropriate organization, representation, accessibility, interpretation, integration, evaluation, and application of knowledge. These activities must preserve the following distinctions:
 
-### Universal Application Across the C2O–UNIVERSALIS Ecosystem
+- **Edition and governance distinction:** C2O's private-source governance, protected implementation, internal records, and operational boundaries remain distinct from UNIVERSALIS's public-source governance, open contracts, and independent operability.
+- **Core intelligence distinction:** C2O Intelligence and UNIVERSALIS Intelligence remain the two core intelligences. Knowledge functions associated with UNIVERSALIN assistants and UNIVERSALIN Guardians do not constitute additional core intelligences.
+- **Non-personal assistant distinction:** UNIVERSALIN assistants use knowledge resources in support of their assigned operational responsibilities. Their knowledge access and use remain bounded by their host, task, tools, and permissions.
+- **Subordinate intelligence-function distinction:** UNIVERSALIN Intelligence contexts identify subordinate knowledge-related capabilities supporting non-personal assistants. UNIVERSALIN Guardian Intelligence contexts identify subordinate knowledge-related capabilities supporting personal Guardians. Neither is an additional core intelligence or an independent authority.
+- **Personal Guardian distinction:** Knowledge associated with a UNIVERSALIN Guardian remains personal and human-bound. The designated human's authority, consent, autonomy, privacy, decisions, purpose, and permissions govern its access, processing, retention, integration, and disclosure.
+- **Operating-system and application distinction:** Knowledge responsibilities, services, records, interfaces, and dependencies must be established for the actual host context. An Operating System context cannot be substituted for its corresponding Application context, or vice versa.
+- **Subject and discipline integrity:** Knowledge domains and disciplines must retain their defining scope, methods, assumptions, terminology, standards, and limitations. Connections between subjects must be represented accurately without collapsing distinct disciplines or presenting an interdisciplinary synthesis as an established identity between them.
+- **Provenance and epistemic integrity:** Sources, authorship where known, origin, version, methods, assumptions, evidence, uncertainty, contested interpretations, limitations, and review status must remain traceable. Information must not be represented as verified knowledge solely because it has been collected, stored, repeated, or processed.
+- **Permission and access integrity:** Knowledge accessibility, technical capability, structural relationships, and system integration do not themselves establish authorization. Access and use must follow the permissions, responsibilities, governance, privacy requirements, and human consent applicable to the context.
+- **Contextual applicability:** The presence of Universal Subjects of Human Knowledge Alchemy across the ecosystem does not make every subject or knowledge operation applicable everywhere. The applicability and scope of each knowledge subject and subordinate Alchemy must be separately established through Matrix Alchemy; its structural location and relationships must be represented through Map Alchemy.
 
-Universal Subjects of Human Knowledge Alchemy applies within the following 22 contexts:
-
-1. C2O Operating System
-2. UNIVERSALIS Operating System
-3. C2O Intelligence
-4. UNIVERSALIS Intelligence
-5. C2O Application
-6. UNIVERSALIS Application
-7. C2O Operating System - UNIVERSALIN
-8. UNIVERSALIS Operating System - UNIVERSALIN
-9. C2O Application - UNIVERSALIN
-10. UNIVERSALIS Application - UNIVERSALIN
-11. C2O Operating System - UNIVERSALIN Intelligence
-12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
-13. C2O Application - UNIVERSALIN Intelligence
-14. UNIVERSALIS Application - UNIVERSALIN Intelligence
-15. C2O Operating System - UNIVERSALIN Guardian
-16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
-17. C2O Application - UNIVERSALIN Guardian
-18. UNIVERSALIS Application - UNIVERSALIN Guardian
-19. C2O Operating System - UNIVERSALIN Guardian Intelligence
-20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
-21. C2O Application - UNIVERSALIN Guardian Intelligence
-22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
-
-Within these contexts, Universal Subjects of Human Knowledge Alchemy governs the appropriate organization, representation, accessibility, interpretation, integration, and application of knowledge.
-
-
-
-Its application must respect the distinction between:
-
-- The private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS.
-- C2O Intelligence and UNIVERSALIS Intelligence as the two core intelligences.
-- Non-personal UNIVERSALIN assistants and their assigned operational responsibilities.
-- UNIVERSALIN Intelligence contexts and their associated capabilities, which do not constitute additional core intelligences.
-- Personal, human-bound UNIVERSALIN Guardians and their associated Guardian Intelligence contexts, which remain subject to the authority, consent, autonomy, and privacy requirements of the human they serve.
-
-Knowledge access, processing, representation, and application must remain subject to the applicable permissions, responsibilities, and governance of each context.
+Knowledge access, acquisition, processing, classification, representation, interpretation, integration, retention, and application must remain subject to the applicable permissions, responsibilities, evidence requirements, and governance of each context. A context description establishes the normative scope and boundaries for assessment; it does not prove that a source, knowledge repository, capability, permission, safeguard, or implementation exists or has been operationally verified.
 
 ### 1. Formal Sciences Alchemy
 
