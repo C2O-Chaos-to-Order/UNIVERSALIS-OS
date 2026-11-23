@@ -8861,6 +8861,143 @@ The bounded process that organizes the qualities of Mist/Fog (diffusion, partial
 Private-source organization of Mist/Fog qualities under internal governance. Used for private diffusion and controlled transitional states.
 Public-source organization of Mist/Fog qualities under open contracts. Used for transparent transitional interfaces and independently verifiable diffusion.
 
+### 1.1 Universal Application of Elemental Alchemy — Mist / Fog
+
+Elemental Alchemy — Mist / Fog applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSALIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERSALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS Application - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within each context, Elemental Alchemy — Mist / Fog governs only the diffusion, graduated presence, softened boundaries, partial visibility, transitional states, recoverability, and accountability relationships that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular concealed state, diffusion field, presence function, transition, implementation, or achieved result exists.
+
+#### Context-Specific Application
+
+- **C2O Operating System:** Governs private-source Mist / Fog structures at the operating-system level, including authorized diffusion fields, graduated system presence, controlled visibility states, and transitions among private system contexts. It preserves internal policies, protected state, access boundaries, records, and implementation under C2O governance.
+- **UNIVERSALIS Operating System:** Governs declared and inspectable Mist / Fog structures at the operating-system level, including documented diffusion fields, graduated presence, visibility states, and transitions through open contracts. It preserves interoperability and independent operation without dependence on C2O private-source structures, records, policies, or controls.
+- **C2O Intelligence:** Governs applicable Mist / Fog relationships within C2O Intelligence, including bounded presentation of internal context, graduated information visibility, and transitions among authorized representational states. It preserves provenance, uncertainty, attribution, and internal oversight without creating another intelligence or independent authority.
+- **UNIVERSALIS Intelligence:** Governs applicable declared Mist / Fog relationships within UNIVERSALIS Intelligence, including documented visibility states, inspectable transitions, and bounded presentation of information through public contracts. It preserves transparency about relevant limitations and uncertainty and remains independently operable without C2O private-source dependencies.
+- **C2O Application:** Governs private application-level Mist / Fog structures, including controlled diffusion, intermediate presence, transitions between application states, and authorized partial visibility under C2O application governance.
+- **UNIVERSALIS Application:** Governs declared application-level Mist / Fog structures, including documented diffusion, intermediate presence, transitions, and partial-visibility interfaces through open contracts and independently reviewable application boundaries.
+- **C2O Operating System - UNIVERSALIN:** Governs task-bounded Mist / Fog functions used by non-personal UNIVERSALIN assistants hosted by the C2O Operating System. Diffusion, graduated presence, transitional states, and partial visibility remain within assigned tasks, host permissions, and C2O private-source boundaries.
+- **UNIVERSALIS Operating System - UNIVERSALIN:** Governs task-bounded and declared Mist / Fog functions used by non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System. Their visibility states and transitions remain documented, inspectable to the extent required by open contracts, and independently operable.
+- **C2O Application - UNIVERSALIN:** Governs application-scoped diffusion, intermediate presence, transitions, and partial-visibility functions used by non-personal UNIVERSALIN assistants within C2O applications, subject to assigned task scope, application purpose, and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN:** Governs application-scoped and declared diffusion, intermediate presence, transitions, and partial-visibility functions used by non-personal UNIVERSALIN assistants within UNIVERSALIS applications, subject to assigned task scope, documented application purpose, and open permissions.
+- **C2O Operating System - UNIVERSALIN Intelligence:** Governs the bounded visibility states, contextual presentation, diffusion relationships, and transitions supporting intelligence-related capabilities of non-personal UNIVERSALIN assistants within the C2O Operating System. These remain subordinate assistant capabilities, not another core intelligence or independent authority.
+- **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Governs the bounded and declared visibility states, contextual presentation, diffusion relationships, and transitions supporting intelligence-related capabilities of non-personal UNIVERSALIN assistants within the UNIVERSALIS Operating System. These remain subordinate assistant capabilities under documented contracts.
+- **C2O Application - UNIVERSALIN Intelligence:** Governs application-specific information visibility, contextual presentation, diffusion, and state transitions supporting intelligence-related capabilities of non-personal UNIVERSALIN assistants within C2O applications, subject to application purpose and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Governs application-specific and declared information visibility, contextual presentation, diffusion, and state transitions supporting intelligence-related capabilities of non-personal UNIVERSALIN assistants within UNIVERSALIS applications, subject to documented application purpose and open permissions.
+- **C2O Operating System - UNIVERSALIN Guardian:** Governs human-authorized Mist / Fog structures through which a personal UNIVERSALIN Guardian uses graduated visibility, controlled presence, and transitional states within the C2O Operating System. It preserves the designated human's authority, consent, autonomy, privacy, personal boundaries, and control over information and interaction.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Governs human-authorized and documented Mist / Fog structures through which a personal UNIVERSALIN Guardian uses graduated visibility, controlled presence, and transitional states within the UNIVERSALIS Operating System. It preserves consent, privacy, autonomy, human control, and inspectable permission boundaries without exposing protected personal information.
+- **C2O Application - UNIVERSALIN Guardian:** Governs application-specific and human-authorized diffusion, intermediate presence, transitions, and partial visibility through which a personal UNIVERSALIN Guardian assists its designated human in C2O applications. It preserves the human's permissions, privacy, purpose, and application boundaries.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian:** Governs application-specific, human-authorized, and documented diffusion, intermediate presence, transitions, and partial visibility through which a personal UNIVERSALIN Guardian assists its designated human in UNIVERSALIS applications. It preserves consent, privacy, purpose limitation, and open application permissions.
+- **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Governs bounded visibility states, contextual presentation, and transitions supporting intelligence-related capabilities of a personal UNIVERSALIN Guardian within the C2O Operating System. These remain subordinate to human-authorized Guardian responsibilities and do not create another core intelligence or authority over the human.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Governs bounded and declared visibility states, contextual presentation, and transitions supporting intelligence-related capabilities of a personal UNIVERSALIN Guardian within the UNIVERSALIS Operating System. These remain subordinate to documented consent, privacy, purpose limitation, and public system contracts.
+- **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific diffusion, contextual presentation, partial visibility, and transitions supporting intelligence-related capabilities of a personal UNIVERSALIN Guardian within C2O applications. It preserves human authorization, privacy, and C2O application boundaries.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific and declared diffusion, contextual presentation, partial visibility, and transitions supporting intelligence-related capabilities of a personal UNIVERSALIN Guardian within UNIVERSALIS applications. It preserves documented human authorization, privacy, purpose limitation, and open application contracts.
+
+#### Additional Expression Applicability — C2O-App Secondary and C2O-OS Edition Mapping
+
+The C2O-App Secondary expressions and C2O-OS edition-mapping expressions above are retained as distinct but corresponding specializations of Elemental Alchemy — Mist / Fog. The C2O-App Secondary detail governs application-level Mist expressions and their hosted non-personal UNIVERSALIN assistants and personal UNIVERSALIN Guardians. The C2O-OS edition mapping governs operating-system-level Mist / Fog expressions and their hosted assistants and Guardians. Intelligence contexts map to the OS or Application structures through which their relevant functions operate. These relationships do not duplicate the Alchemies, create additional core intelligences, grant independent authority, or collapse private-source and public-source boundaries.
+
+1. **C2O Operating System:** Applies the private C2O-OS edition mapping to authorized system-level diffusion, graduated presence, and controlled transitional states. Private Mist / Fog fields, visibility policies, and associated records remain under C2O governance.
+2. **UNIVERSALIS Operating System:** Applies the public UNIVERSALIS-OS edition mapping to declared system-level diffusion, graduated presence, and transitional interfaces. Applicable fields, visibility rules, and transitions remain documented and independently reviewable through open contracts.
+3. **C2O Intelligence:** Maps applicable C2O Intelligence visibility, context-presentation, diffusion, and transition requirements to the private C2O Operating System substrate and, where operating through application contexts, to the C2O-App Secondary expressions. This does not establish another core intelligence or independent authority.
+4. **UNIVERSALIS Intelligence:** Maps applicable UNIVERSALIS Intelligence visibility, context-presentation, diffusion, and transition requirements to declared UNIVERSALIS Operating System structures and, where operating through application contexts, to the corresponding open application expressions. It remains independently operable without C2O private-source dependencies.
+5. **C2O Application:** Applies the C2O-App Secondary expressions directly: Diffusion Alchemy, Subtle Presence Alchemy, Transition Alchemy, Veiled Clarity Alchemy, Private Diffusion Alchemy, Private Subtle Presence Alchemy, Private Transition Alchemy, and C2O Mist Continuity Alchemy under C2O governance.
+6. **UNIVERSALIS Application:** Applies the public counterpart of the C2O-App Secondary detail: Diffusion Alchemy, Subtle Presence Alchemy, Transition Alchemy, Veiled Clarity Alchemy, Open Diffusion Alchemy, Open Subtle Presence Alchemy, Open Transition Alchemy, UNIVERSALIS Mist Continuity Alchemy, and Mist Mapping Alchemy through declared and inspectable application contracts.
+7. **C2O Operating System - UNIVERSALIN:** Applies the private C2O-OS edition mapping to the non-personal assistant's authorized host-system visibility states, diffusion fields, and transitional presence. All functions remain bounded by the assistant's assigned task and host permissions.
+8. **UNIVERSALIS Operating System - UNIVERSALIN:** Applies the public UNIVERSALIS-OS edition mapping to the non-personal assistant's declared host-system visibility states, documented diffusion fields, and inspectable transitional interfaces. Its functions remain within open contracts and assigned task boundaries.
+9. **C2O Application - UNIVERSALIN:** Applies the C2O-App Secondary expressions to the non-personal assistant's application-scoped diffusion, subtle presence, transition, and veiled clarity functions under C2O application purpose and permissions.
+10. **UNIVERSALIS Application - UNIVERSALIN:** Applies the open application expressions to the non-personal assistant's declared application-scoped diffusion, subtle presence, transition, and veiled clarity functions under UNIVERSALIS application contracts and assigned task boundaries.
+11. **C2O Operating System - UNIVERSALIN Intelligence:** Maps the non-personal assistant's intelligence-related visibility, context-presentation, diffusion, and transition capabilities to C2O private OS-level Mist / Fog arrangements. These are subordinate assistant capabilities and do not establish another core intelligence.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Maps the non-personal assistant's intelligence-related visibility, context-presentation, diffusion, and transition capabilities to declared UNIVERSALIS OS-level arrangements and interfaces. These remain subordinate assistant capabilities under open contracts.
+13. **C2O Application - UNIVERSALIN Intelligence:** Applies the C2O-App Secondary expressions to application-specific visibility, diffusion, subtle presence, transition, and veiled clarity requirements of the non-personal assistant's intelligence-related capabilities, subject to C2O application purpose and permissions.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Applies the open application expressions to declared application-specific visibility, diffusion, subtle presence, transition, and veiled clarity requirements of the non-personal assistant's intelligence-related capabilities, subject to UNIVERSALIS application contracts.
+15. **C2O Operating System - UNIVERSALIN Guardian:** Applies the private C2O-OS edition mapping to the Guardian's human-authorized host-system visibility states, graduated presence, and transitional boundaries. All Guardian-related use remains subordinate to the designated human's consent, autonomy, privacy, and personal boundaries.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Applies the public UNIVERSALIS-OS edition mapping to documented host-system visibility states, declared diffusion fields, and inspectable transitional interfaces supporting the Guardian. Human authorization, privacy, and open-contract boundaries remain controlling.
+17. **C2O Application - UNIVERSALIN Guardian:** Applies the C2O-App Secondary expressions to application-scoped diffusion, subtle presence, transition, and veiled clarity used by the Guardian while assisting its designated human. C2O permissions and the human's authority and privacy remain controlling.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian:** Applies the open application expressions to documented application-scoped diffusion, subtle presence, transition, and veiled clarity used by the Guardian while assisting its designated human. Open contracts do not remove consent, privacy, or human-control requirements.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Maps the Guardian's intelligence-related visibility, contextual presentation, diffusion, and transition capabilities to C2O private OS-level Mist / Fog arrangements. These remain subordinate to the Guardian's assigned responsibilities and the designated human's authority.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Maps the Guardian's intelligence-related visibility, contextual presentation, diffusion, and transition capabilities to declared UNIVERSALIS OS-level structures and documented interfaces. These remain bounded by consent, privacy, purpose limitation, and public contracts.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence:** Applies the C2O-App Secondary expressions to the application-specific diffusion, subtle presence, transition, and veiled clarity arrangements supporting the Guardian's intelligence-related capabilities, subject to human authorization and C2O application governance.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Applies the open application expressions to the declared diffusion, subtle presence, transition, and veiled clarity arrangements supporting the Guardian's intelligence-related capabilities, subject to human authorization, privacy, purpose limitation, and open application contracts.
+
+For every context, private Mist expressions remain governed by C2O and public Mist expressions remain governed by UNIVERSALIS. Where an OS-level or application-level expression is not directly part of a context's own implementation, its relationship is recorded as a dependency, correspondence, conditional applicability, or non-applicability through Map and Matrix Alchemy rather than presumed implementation.
+
+### Elemental Alchemy — Mist / Fog Structural and Applicability Requirements
+
+#### Map Alchemy Requirements
+
+Map Alchemy must establish:
+
+- The placement of Elemental Alchemy — Mist / Fog and each subordinate expression across all 22 ecosystem contexts.
+- The parentage and relationships among Mist Diffusion Alchemy, Fog Presence Alchemy, Mist Accountability Alchemy, C2O Elemental Alchemy — Mist / Fog, UNIVERSALIS Elemental Alchemy — Mist / Fog, and Mist Mapping Alchemy.
+- The distinct relationship between the root Mist / Fog expressions and the additional C2O-App Secondary expressions: Diffusion Alchemy, Subtle Presence Alchemy, Transition Alchemy, Veiled Clarity Alchemy, and their private and open edition expressions.
+- The correspondence between the 11 C2O contexts and the 11 UNIVERSALIS contexts without collapsing private-source and public-source governance, visibility policies, records, implementation, or authority.
+- The placement of the C2O-OS edition mapping in OS-level contexts and the C2O-App Secondary expressions in application-level contexts, including the hosting relationships for non-personal UNIVERSALIN assistants and personal UNIVERSALIN Guardians.
+- The relationships among diffusion, graduated presence, boundary softening, partial visibility, obscurity, transition, disclosure, continuity, recovery, provenance, and accountability.
+- The hosting and dependency relationships among Operating System, Application, the two core intelligences, non-personal UNIVERSALIN assistants, their subordinate intelligence-related capabilities, personal UNIVERSALIN Guardians, and Guardian intelligence-related capabilities.
+- The relationship between a visibility state and the identity, authorization, permissions, purpose, audience, information classification, context, and transition conditions governing it.
+- The difference between a conceptual Mist / Fog field, a specified logical or informational visibility model, an implemented interface or runtime behavior, and a demonstrated operational result.
+- The evidence and provenance relationships needed to support claims about diffusion, presence, partial visibility, transition, concealment, continuity, recovery, and accountability.
+
+#### Matrix Alchemy Requirements
+
+Matrix Alchemy must establish for each of the 22 contexts:
+
+- Whether Mist Diffusion Alchemy, Fog Presence Alchemy, Mist Accountability Alchemy, Mist Mapping Alchemy, and each applicable private or public Mist / Fog expression applies, is conditional, is not applicable, or remains unresolved.
+- Which additional application expressions—Diffusion Alchemy, Subtle Presence Alchemy, Transition Alchemy, Veiled Clarity Alchemy, and their applicable private or open expressions—apply to that context.
+- Which OS edition-mapping expressions or application-secondary expressions apply directly, through a hosting relationship, as a dependency, by correspondence, conditionally, or not at all.
+- The authorized visibility states, audiences, information classes, diffusion boundaries, presence conditions, transition paths, and recovery requirements associated with each applicable Mist / Fog function.
+- Whether a visibility or presence state is conceptual, specified, authorized, available, implemented, active, tested, maintained, recovered, or verified; these states must not be treated as interchangeable.
+- The identity and authority responsible for defining, approving, changing, reviewing, suspending, restoring, and retiring each visibility policy, diffusion field, or transitional state.
+- The permissions, consent, privacy, confidentiality, security, safety, source visibility, retention, and continuity constraints governing each applicable process.
+- The private-source governance, protected implementation, internal visibility policies, records, and permission boundaries applicable to C2O contexts.
+- The declared contracts, inspectability, interoperability, independent-operability requirements, and public-source boundaries applicable to UNIVERSALIS contexts.
+- The hosting scope, assigned task boundaries, authorized information access, and applicable visibility requirements for each non-personal UNIVERSALIN assistant and its intelligence-related capabilities.
+- The designated human, consent, autonomy, privacy, purpose, and personal-boundary requirements relevant to each UNIVERSALIN Guardian context and its intelligence-related capabilities.
+- The evidence, provenance, uncertainty, dependencies, limitations, test conditions, exceptions, and verification status supporting each applicability, visibility, diffusion, transition, continuity, or implementation claim.
+
+#### Graduated Visibility, Boundaries, and Governance
+
+Mist Diffusion must organize the spreading or softening of boundaries into stable, addressable fields. Diffusion may establish graduated visibility or intermediate states, but it must not dissolve identity, authorization, access-control, security, or accountability boundaries.
+
+Fog Presence must maintain a bounded process space in which visibility and mobility remain graduated. Presence is a state or relationship within an authorized context; it does not independently establish agency, identity, consent, access rights, or another intelligence.
+
+Transition must organize passage between authorized states while preserving the applicable boundary conditions, provenance, and recovery path. A transitional state must not be used to bypass authentication, authorization, review, or other governing controls.
+
+Veiled Clarity must bound partial visibility so that only the information permitted for the relevant audience, purpose, and context is presented. It must not falsify status, misrepresent uncertainty, conceal consequential actions from authorized oversight, or make a partial view appear complete when it is not.
+
+Private C2O Mist / Fog definitions, internal visibility policies, records, protected implementation, and private diffusion arrangements remain under C2O company governance. UNIVERSALIS Mist / Fog structures, declared interfaces, methods, and public claims must be reviewable to the extent established by open contracts and must remain independently operable. Neither edition may presume access to the other's protected structures, records, policies, or implementation.
+
+Mist Accountability must maintain attributable evidence of applicable definitions, approvals, visibility changes, diffusion and transition events, relevant disclosures, failures, recovery actions, limitations, and outcomes. Continuity and restoration must preserve integrity, provenance, authorization, and required evidence. Restoring a previous visibility state does not automatically reauthorize its former audience, permissions, disclosure scope, or operating conditions.
+
+The application of Mist / Fog qualities to UNIVERSALIN assistants and UNIVERSALIN Guardians must remain within their assigned contexts and authorities. These specializations do not create additional core intelligences, independent actors, or authority over a designated human. Guardian-related visibility, presence, and disclosure functions must preserve human authorization, consent, autonomy, privacy, and personal boundaries.
+
+Applicability, specification, authorization, availability, implementation, active visibility, disclosure, transition, recovery, outcome, and verification are separate claims. Establishing Elemental Alchemy — Mist / Fog or its place in the 22-context taxonomy does not prove that a particular diffusion field, concealed state, presence function, implementation, or result exists.
+
+---
+
 ### Elemental Alchemy — Clay / Mud
 
 **Elemental Alchemy — Clay / Mud**  
