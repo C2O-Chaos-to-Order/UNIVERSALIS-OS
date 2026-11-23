@@ -789,27 +789,139 @@ All applications must remain consistent with the scientific evidence, physical p
 
 ### 3. Life Sciences Alchemy
 
-**Life Sciences Alchemy** is the bounded process that identifies, organizes, maintains, investigates, relates, develops, and transforms knowledge concerning living systems, their origins, structures, functions, organization, interactions, diversity, evolution, and relationships with their environments. It encompasses the biological principles and processes through which life exists, functions, reproduces, adapts, and changes across different scales.
+**Life Sciences Alchemy** is the bounded process by which knowledge concerning living systems, their origins, structures, functions, organization, interactions, diversity, evolution, development, and relationships with their environments is identified, classified, organized, investigated, examined, related, maintained, integrated, developed, and transformed into coherent and usable scientific knowledge systems.
+
+It governs the organization and development of biological knowledge, including the characteristics, composition, organization, activities, processes, behaviors, reproduction, inheritance, adaptation, interactions, and transformations of living systems across different scales. It establishes how life and biological phenomena are observed, measured, represented, investigated, modeled, interpreted, evaluated, related, and applied.
+
+Life Sciences Alchemy encompasses the scientific methods, principles, theories, observations, measurements, experimental findings, classifications, biological models, and computational representations used to examine living systems. It provides a structured foundation for understanding life and its processes while preserving the distinctions between biological disciplines, research methods, theoretical explanations, empirical observations, and practical applications.
+
+Life Sciences Alchemy must preserve the provenance and integrity of biological information. Biological observations, measurements, specimen records, experimental results, established scientific findings, theoretical explanations, hypotheses, estimates, classifications, genetic information, biological models, and simulation outputs must remain distinguishable. Their sources, biological subjects, collection conditions, methods, units, environmental conditions, assumptions, uncertainty, limitations, and applicable ranges must be represented wherever relevant.
+
+Life Sciences Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support biological understanding, scientific research, biological information organization, organism and ecosystem representation, genetic and molecular analysis, computational biology, biotechnology-related information, and other authorized applications relevant to each context. Its application does not presume that a system, intelligence, application, assistant, or Guardian possesses biological sensing, laboratory, experimentation, organism-handling, or physical intervention capabilities.
+
+#### 3.1 Universal Application of Life Sciences Alchemy
+
+Life Sciences Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within these contexts, Life Sciences Alchemy governs the appropriate organization, representation, examination, interpretation, accessibility, integration, and application of biological knowledge.
+
+Its context-specific expressions include:
+
+- **Operating System Contexts:** Biological knowledge may support the organization and representation of biological information, organism classifications, biological datasets, molecular and cellular information, ecological information, and scientific models. Operating systems may support relevant scientific data processing, storage, interfaces, and computational workflows. Any connection to biological sensors, laboratory equipment, biological materials, or external biological systems must depend on actual supported capabilities, authorized interfaces, and applicable operational boundaries.
+
+- **Core Intelligence Contexts:** Biological knowledge may support scientific reasoning, examination of biological evidence, interpretation of living systems and their processes, evaluation of biological explanations, analysis of biological relationships, and computational modeling. C2O Intelligence and UNIVERSALIS Intelligence must apply these methods within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities.
+
+- **Application Contexts:** Biological knowledge may support the organization and representation of biological information, organism and specimen records, biological classifications, genetic and molecular datasets, experimental results, scientific calculations, computational models, simulations, visualizations, and research functions. Applications must distinguish source observations and measurements from derived results, interpretations, estimates, and model-generated outputs.
+
+- **UNIVERSALIN Assistant Contexts:** Biological knowledge may support assigned research, information processing, scientific data organization, analysis, explanation, classification, modeling, and coordination functions within authorized operating system and application boundaries. Assistants must preserve biological provenance, scientific uncertainty, methodological limitations, and the distinction between knowledge support and direct biological or physical-world action.
+
+- **UNIVERSALIN Intelligence Contexts:** Biological knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through biological reasoning, representation of living systems, scientific analysis, computational modeling, and information processing. These contexts do not constitute additional core intelligences or establish independent authority to access biological information, conduct experiments, manipulate biological material, or initiate physical actions.
+
+- **UNIVERSALIN Guardian Contexts:** Biological knowledge may support the authorized information, research, analytical, and assistance capabilities of personal, human-bound Guardians. Where biological information concerns the human they serve or another identifiable person, its use must respect applicable consent, privacy, confidentiality, autonomy, and access requirements. Guardians must remain subject to the human's authority and must not independently establish medical, diagnostic, experimental, or biological-intervention authority.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Biological knowledge may support scientific reasoning, biological information processing, computational modeling, interpretation, and other human-directed Guardian capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human, another person, biological materials, organisms, or external biological systems.
+
+The specific applicability of each biological discipline and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
 
 #### Alchemies under Life Sciences Alchemy
 
-- **Biology Alchemy** — organizes and develops knowledge of living organisms, life processes, biological structures, functions, diversity, and interactions.
-- **Genetics Alchemy** — organizes knowledge of heredity, genes, genetic variation, inheritance, and the transmission of biological information.
-- **Evolutionary Biology Alchemy** — organizes knowledge of the origins, mechanisms, patterns, and consequences of biological evolution and the diversification of life.
-- **Ecology Alchemy** — organizes knowledge of relationships between organisms and their environments, including populations, communities, ecosystems, and ecological processes.
-- **Microbiology Alchemy** — organizes knowledge of microorganisms, their structures, functions, diversity, interactions, and biological processes.
-- **Botany Alchemy** — organizes knowledge of plants, including their structures, functions, development, reproduction, diversity, and relationships with their environments.
-- **Zoology Alchemy** — organizes knowledge of animals, including their structures, functions, behavior, development, evolution, classification, and diversity.
-- **Marine Biology Alchemy** — organizes knowledge of marine organisms, their biological processes, diversity, adaptations, and relationships within marine ecosystems.
-- **Molecular Biology Alchemy** — organizes knowledge of biological processes and interactions at the molecular level, including DNA, RNA, proteins, and their functions.
-- **Cell Biology Alchemy** — organizes knowledge of cells, their structures, functions, organization, reproduction, communication, and internal processes.
-- **Biotechnology Alchemy** — organizes the application and transformation of biological systems, organisms, cells, and biological components for scientific, technological, and practical purposes.
-- **Neuroscience Alchemy** — organizes knowledge of nervous systems, neural structures, brain functions, neural activity, and the biological foundations of nervous-system processes.
-- **Physiology Alchemy** — organizes knowledge of the functions and mechanisms of living organisms and their organs, tissues, cells, and biological systems.
-- **Anatomy Alchemy** — organizes knowledge of the structures, organization, physical relationships, and composition of living organisms and their biological components.
-- **Immunology Alchemy** — organizes knowledge of immune systems, biological defense mechanisms, immune responses, and interactions between organisms and foreign or altered biological material.
-- **Virology Alchemy** — organizes knowledge of viruses, their structures, replication, evolution, interactions with host organisms, and biological effects.
-- **Mycology Alchemy** — organizes knowledge of fungi, including their structures, functions, reproduction, diversity, classification, and ecological relationships.
+- **Biology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of living organisms, life processes, biological structures, functions, organization, diversity, and interactions. It establishes the foundational methods through which living systems and biological phenomena can be classified, represented, investigated, and understood.
+
+- **Genetics Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of heredity, genes, genetic variation, inheritance, and the transmission of biological information. It establishes methods for examining genetic structures, hereditary relationships, patterns of inheritance, and biological variation while preserving the provenance and appropriate handling of genetic information.
+
+- **Evolutionary Biology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of the origins, mechanisms, patterns, and consequences of biological evolution and the diversification of life. It establishes methods for examining evolutionary relationships, adaptation, variation, descent, and changes in populations and living systems across generations and evolutionary timescales.
+
+- **Ecology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of relationships between organisms and their environments, including populations, communities, ecosystems, habitats, biodiversity, and ecological processes. It establishes methods for examining biological interactions, environmental dependencies, ecosystem structures, and changes in living communities.
+
+- **Microbiology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of microorganisms, including their structures, functions, diversity, interactions, reproduction, and biological processes. It establishes methods for examining microbial organisms and their relationships with other organisms and environments.
+
+- **Botany Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of plants, including their structures, functions, development, reproduction, diversity, classification, and relationships with their environments. It establishes methods for examining plant life, biological processes, adaptations, and ecological roles.
+
+- **Zoology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of animals, including their structures, functions, behavior, development, evolution, classification, diversity, and relationships. It establishes methods for examining animal life and the biological characteristics and processes of animal systems.
+
+- **Marine Biology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of marine organisms, their biological processes, diversity, adaptations, distributions, and relationships within marine ecosystems. It establishes methods for investigating biological life in marine environments and the interactions between marine organisms and their surroundings.
+
+- **Molecular Biology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of biological processes and interactions at the molecular level, including DNA, RNA, proteins, molecular structures, and their functions. It establishes methods for examining the molecular foundations of biological activity and the relationships between molecular components and biological processes.
+
+- **Cell Biology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of cells, including their structures, functions, organization, reproduction, communication, differentiation, and internal processes. It establishes methods for examining cells as fundamental units of biological organization and their relationships within living systems.
+
+- **Biotechnology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the application and transformation of biological systems, organisms, cells, and biological components for scientific, technological, and practical purposes. It establishes methods for representing and evaluating biological applications while preserving the distinction between scientific knowledge, proposed applications, established techniques, and authorized implementations.
+
+- **Neuroscience Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of nervous systems, neural structures, brain functions, neural activity, and the biological foundations of nervous-system processes. It establishes methods for examining the structure, function, development, and interactions of nervous systems and their biological relationships.
+
+- **Physiology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of the functions and mechanisms of living organisms and their organs, tissues, cells, and biological systems. It establishes methods for examining the activities, regulation, interactions, and functional relationships through which living systems operate.
+
+- **Anatomy Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of the structures, organization, physical relationships, and composition of living organisms and their biological components. It establishes methods for representing and examining biological structures and their spatial and organizational relationships.
+
+- **Immunology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of immune systems, biological defense mechanisms, immune responses, and interactions between organisms and foreign or altered biological material. It establishes methods for examining immune structures, processes, regulation, recognition, and biological defense relationships.
+
+- **Virology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of viruses, their structures, replication, evolution, interactions with host organisms, and biological effects. It establishes methods for examining viral characteristics and relationships with biological systems while preserving appropriate scientific, safety, and biosecurity boundaries.
+
+- **Mycology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of fungi, including their structures, functions, reproduction, diversity, classification, development, and ecological relationships. It establishes methods for examining fungal organisms and their biological and environmental interactions.
+
+### 3.2 Life Sciences Structural and Applicability Requirements
+
+Every subordinate Alchemy under Life Sciences Alchemy must retain its own defined subject, purpose, methods, principles, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+Life Sciences Alchemy must preserve the distinctions between its constituent disciplines and their respective subjects, methods, scales of investigation, assumptions, and research boundaries. Relationships between biology, genetics, evolutionary biology, ecology, microbiology, botany, zoology, marine biology, molecular biology, cell biology, biotechnology, neuroscience, physiology, anatomy, immunology, virology, mycology, and other knowledge domains must be established without collapsing their distinct subjects or treating their methods as interchangeable.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Life Sciences Alchemy and each subordinate biological discipline and Alchemy.
+- The parent–subordinate relationships between Life Sciences Alchemy, its disciplines, and their own subordinate Alchemies.
+- The relationships between biological disciplines and other relevant physical-science, chemical, formal, mathematical, computational, environmental, health-related, engineering, and knowledge-domain structures.
+- The connections between relevant biological knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, and relationships between biological disciplines and other Alchemies.
+- The distinctions between foundational biological disciplines, specialized disciplines, interdisciplinary relationships, and applied expressions.
+- The relationships between organisms, biological structures, molecular and cellular processes, populations, ecosystems, observations, experimental methods, and computational representations.
+- The relationships between biological information, its sources, its subject classifications, and the structures through which it is represented and maintained.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each biological discipline and subordinate Alchemy.
+- The specific functions and responsibilities of each biological discipline within each applicable context.
+- The biological knowledge, methods, classifications, observations, measurements, models, and information structures required for those functions.
+- Whether an application involves biological information, specimen records, observation, measurement, analysis, classification, calculation, modeling, simulation, experimentation, biotechnology, or physical interaction with biological systems.
+- The actual capabilities, supported interfaces, data sources, equipment, materials, and dependencies required for any biological or physical-world interaction.
+- The permissions, consent requirements, privacy protections, safety constraints, biosecurity requirements, operational limits, and governance boundaries applicable to biological information and capabilities.
+- The provenance, identity or classification of biological subjects, collection conditions, experimental methods, units, assumptions, uncertainty, validity ranges, and limitations that must accompany biological observations, measurements, datasets, models, and derived results.
+- The distinctions between empirical evidence, theoretical explanations, hypotheses, estimates, interpretations, simulations, and practical implementations.
+- The relationships between shared biological foundations and context-specific methods, responsibilities, and implementations.
+- The appropriate relationships between biological knowledge and relevant chemical, physical, mathematical, computational, engineering, environmental, and other scientific methods.
+- The applicable requirements for handling, processing, storing, transmitting, or accessing genetic, molecular, specimen-related, or otherwise sensitive biological information.
+
+Life Sciences Alchemy must not presume that the presence of a biological discipline in the universal taxonomy grants every context unrestricted access to biological information, identifiable genetic information, specimens, organisms, biological materials, laboratory equipment, experimental environments, or biological intervention capabilities.
+
+The inclusion of biological knowledge within an ecosystem context establishes its place in the knowledge structure, not an automatic implementation, operational dependency, permission, or authorization to access or act upon living systems.
+
+Scientific descriptions, biological observations, research interpretations, computational predictions, and experimental findings must remain distinguishable. A biological model or prediction must not be represented as direct observation or established scientific fact without supporting evidence.
+
+Applications involving identifiable human biological information must preserve the applicable requirements for consent, privacy, confidentiality, and human autonomy. The inclusion of biological knowledge does not independently establish medical, diagnostic, treatment, or human experimentation authority.
+
+All applications must remain consistent with the scientific evidence, biological principles, methodological requirements, data provenance, safety and biosecurity considerations, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 4. Health Sciences Alchemy
 
