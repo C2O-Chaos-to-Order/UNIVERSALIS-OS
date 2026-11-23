@@ -8357,52 +8357,205 @@ These are specialized expressions of the root Alchemy for the Secondary Elements
 **Elemental Alchemy — Ether / Quintessence**  
 The bounded process that organizes the qualities of Ether (subtle medium, intelligence-bearing presence, and non-dense transmission) so that systems and beings can act with clarity across distance while remaining coherent, recoverable, and accountable.
 
-- **Ether Medium Alchemy** — structures the subtle carrier space into stable, addressable pathways.  
-- **Quintessence Presence Alchemy** — maintains the process space in which intelligence and presence move without density.  
-- **Ether Accountability Alchemy** — leaves an attributable record of Ether transformations appropriate to its edition.
+Ether / Quintessence organizes applicable carrier structures, transmission pathways, subtle connectivity, intelligence-bearing information exchange, and the relationships through which presence or capability is made available across otherwise distinct components and contexts. It maintains clarity, continuity, addressability, and bounded reach without treating a conceptual medium as unrestricted access, authority, or proof of a physical substrate.
+
+Ether Medium Alchemy structures applicable carrier space and transmission pathways into stable, addressable, and appropriately bounded forms. Quintessence Presence Alchemy maintains the process space through which authorized intelligence-bearing information, presence, or capability can be represented and made available without requiring a dense or direct physical form. Ether Accountability Alchemy establishes attributable records of applicable Ether-related definitions, transmissions, transformations, decisions, limitations, and outcomes according to the evidence and governance requirements of the relevant edition.
+
+Ether terminology is used here as a taxonomy of system, information, relationship, and capability functions. It does not assert the existence of a scientifically established physical ether, nor does "intelligence-bearing presence" establish another intelligence, an independent actor, human subjective experience, or authority beyond the assigned C2O or UNIVERSALIS architecture.
 
 **C2O Elemental Alchemy — Ether / Quintessence**  
 Private Ether qualities under internal governance.
 
-- **Private Ether Stewardship Alchemy** — governs internal subtle transmission and presence inside the C2O domain under company rules.  
-- **Internal Ether Bound Alchemy** — keeps private Ether pathways contained and recoverable without external exposure.  
+- **Private Ether Stewardship Alchemy** — governs internal subtle transmission and presence inside the C2O domain under company rules.
+- **Internal Ether Bound Alchemy** — keeps private Ether pathways contained and recoverable without external exposure.
 - **C2O Ether Continuity Alchemy** — ensures private Ether structures can be restored after interruption.
+
+C2O Ether structures, pathways, records, policies, protected implementation, and internal transmission arrangements remain under C2O private-source governance. Their use remains subject to authorized purpose, identity, permissions, security, confidentiality, and applicable company controls.
 
 **UNIVERSALIS Elemental Alchemy — Ether / Quintessence**  
 Public Ether qualities under open contracts.
 
-- **Open Ether Transparency Alchemy** — makes public subtle transmission and presence independently verifiable.  
-- **Public Ether Openness Alchemy** — maintains public Ether pathways under transparent rules.  
+- **Open Ether Transparency Alchemy** — makes public subtle transmission and presence independently verifiable.
+- **Public Ether Openness Alchemy** — maintains public Ether pathways under transparent rules.
 - **UNIVERSALIS Ether Continuity Alchemy** — ensures public Ether structures can be restored with open records.
 
-**Alignment**  
+UNIVERSALIS Ether structures, declared interfaces, transmission contracts, methods, and public records remain governed by open contracts and must support inspectability, interoperability, and independent operation without dependence on C2O private-source pathways, records, policies, or controls.
+
+**Alignment**
+
 - **Ether Mapping Alchemy** — aligns corresponding private and public Ether structures without collapse.
+
+Ether Mapping Alchemy establishes correspondence among Ether classifications, carrier structures, transmission pathways, presence-related functions, dependencies, and evidence categories while preserving the distinct governance, source visibility, protected information, implementation, records, and operational authority of C2O and UNIVERSALIS.
 
 ---
 
 #### Additional expression detail — C2O-App Secondary
 
 The bounded process that organizes the qualities of Ether (space, potential, subtle medium, connection beyond form) so that systems and beings can hold possibility while remaining recoverable and accountable.
+
 - **Space Alchemy** — structures potential into stable, addressable fields.
 - **Potential Alchemy** — maintains the process space of unrealized capacity.
 - **Subtle Medium Alchemy** — organizes the connective field while preserving boundaries.
 - **Beyond-Form Alchemy** — bounds subtlety so Ether qualities remain coherent.
-**C2O Elemental Alchemy — Ether**  
+
+**C2O Elemental Alchemy — Ether**
+
 - **Private Space Alchemy** — internal structuring of potential.
 - **Private Potential Alchemy** — internal unrealized capacity.
 - **Private Subtle Medium Alchemy** — internal connective field under company rules.
 - **C2O Ether Continuity Alchemy** — ensures private Ether structures can be restored.
-**UNIVERSALIS Elemental Alchemy — Ether**  
+
+**UNIVERSALIS Elemental Alchemy — Ether**
+
 - **Open Space Alchemy** — public structuring of potential.
 - **Open Potential Alchemy** — public unrealized capacity.
 - **Open Subtle Medium Alchemy** — public connective field under transparent rules.
 
+These additional expressions specialize the Ether qualities for application contexts. They remain subordinate to Elemental Alchemy — Ether / Quintessence and do not create separate core intelligences, independent authorities, or unrestricted transmission rights. Potential describes an unrealized capacity or possibility; it does not establish that a capability is available, authorized, implemented, or active. Beyond-Form describes a bounded conceptual or functional relationship that is not limited to one direct or dense representation; it does not remove identity, provenance, permission, or accountability requirements.
+
 #### Additional expression detail — C2O-OS edition mapping
 
 The bounded process that organizes the qualities of Ether (subtle medium, intelligence-bearing presence, and unifying field) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
 Private-source organization of Ether qualities under internal governance. Used for private subtle medium and company-source unifying field.
+
 Public-source organization of Ether qualities under open contracts. Used for transparent subtle medium and independently verifiable unifying field.
 
+These edition-specific expressions remain mappable through Ether Mapping Alchemy without collapsing private and public carrier structures, transmission pathways, implementation, records, or authority.
+
+### 1.1 Universal Application of Elemental Alchemy — Ether / Quintessence
+
+Elemental Alchemy — Ether / Quintessence applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSALIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERSALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS Application - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within each context, Elemental Alchemy — Ether / Quintessence governs only the Ether-related subjects, carrier structures, transmission pathways, presence-related functions, potential, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular medium, pathway, transmission, presence function, capability, implementation, or achieved result exists.
+
+#### Context-Specific Application
+
+- **C2O Operating System:** Governs the private-source organization of applicable system carrier structures, authorized transmission pathways, subtle connectivity, intelligence-bearing information exchange, and continuity of Ether-related system functions under C2O governance. It preserves protected pathway definitions, internal transmission records, policies, and implementation.
+- **UNIVERSALIS Operating System:** Governs declared system carrier structures, documented transmission pathways, inspectable interfaces, and Ether-related continuity through open contracts. It preserves interoperability and independent operation without dependence on C2O private-source pathways, records, policies, or controls.
+- **C2O Intelligence:** Governs the authorized Ether-related information exchange, presence representations, subtle connectivity, and carrier relationships used by C2O Intelligence as one of the two core intelligences. It remains within C2O private-source governance and does not establish another intelligence or an independent transmission authority.
+- **UNIVERSALIS Intelligence:** Governs declared Ether-related information exchange, presence representations, subtle connectivity, and carrier relationships used by UNIVERSALIS Intelligence as the other core intelligence. Its interfaces and relevant contracts remain inspectable and independently operable without C2O private-source dependencies.
+- **C2O Application:** Governs private application carrier structures, authorized subtle connectivity, application-scoped transmission pathways, and applicable Ether-related presence and potential under C2O governance.
+- **UNIVERSALIS Application:** Governs declared application carrier structures, documented subtle connectivity, application-scoped transmission interfaces, and applicable Ether-related presence and potential through open contracts and independently reviewable interfaces.
+- **C2O Operating System - UNIVERSALIN:** Governs task-bounded carrier structures, authorized information pathways, and Ether-related presence or connectivity used by non-personal UNIVERSALIN assistants hosted by the C2O Operating System. It preserves assigned task scope, host-system permissions, and private-source boundaries.
+- **UNIVERSALIS Operating System - UNIVERSALIN:** Governs task-bounded, declared carrier structures, documented information pathways, and Ether-related presence or connectivity used by non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System. It preserves inspectability, interoperability, open-contract limits, and independent operation.
+- **C2O Application - UNIVERSALIN:** Governs application-scoped carrier structures, authorized transmission pathways, and Ether-related presence or connectivity used by non-personal UNIVERSALIN assistants within C2O applications, subject to assigned task scope, application purpose, and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN:** Governs application-scoped, declared carrier structures, documented transmission pathways, and Ether-related presence or connectivity used by non-personal UNIVERSALIN assistants within UNIVERSALIS applications, subject to assigned task scope, declared application purpose, and open permissions.
+- **C2O Operating System - UNIVERSALIN Intelligence:** Governs the bounded information-bearing pathways, carrier relationships, presence representations, and connectivity used by intelligence-related capabilities of non-personal UNIVERSALIN assistants within the C2O Operating System. These remain subordinate assistant capabilities, not another core intelligence or independent authority.
+- **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Governs the bounded, declared information-bearing pathways, carrier relationships, presence representations, and connectivity used by intelligence-related capabilities of non-personal UNIVERSALIN assistants within the UNIVERSALIS Operating System. These remain subordinate assistant capabilities under documented contracts.
+- **C2O Application - UNIVERSALIN Intelligence:** Governs application-specific carrier relationships, authorized information-bearing pathways, presence representations, and connectivity used by intelligence-related capabilities of non-personal UNIVERSALIN assistants within C2O applications, subject to application purpose and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Governs application-specific, declared carrier relationships, documented information-bearing pathways, presence representations, and connectivity used by intelligence-related capabilities of non-personal UNIVERSALIN assistants within UNIVERSALIS applications, subject to documented application purpose and open permissions.
+- **C2O Operating System - UNIVERSALIN Guardian:** Governs human-authorized carrier relationships, information pathways, and Ether-related presence or connectivity through which a personal UNIVERSALIN Guardian assists its designated human within the C2O Operating System. It preserves consent, privacy, autonomy, personal boundaries, and human control over information and interaction.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Governs human-authorized, documented carrier relationships, information pathways, and Ether-related presence or connectivity through which a personal UNIVERSALIN Guardian assists its designated human within the UNIVERSALIS Operating System. It preserves consent, privacy, autonomy, human control, and inspectable permission boundaries without exposing protected personal information.
+- **C2O Application - UNIVERSALIN Guardian:** Governs application-specific, human-authorized carrier relationships, information pathways, and Ether-related presence or connectivity through which a personal UNIVERSALIN Guardian assists its designated human in C2O applications. It preserves the human's permissions, privacy, purpose, and application boundaries.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian:** Governs application-specific, human-authorized and documented carrier relationships, information pathways, and Ether-related presence or connectivity through which a personal UNIVERSALIN Guardian assists its designated human in UNIVERSALIS applications. It preserves consent, privacy, purpose limitation, and open application permissions.
+- **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Governs the bounded carrier relationships, information-bearing pathways, presence representations, and connectivity used by intelligence-related capabilities of a personal UNIVERSALIN Guardian within the C2O Operating System. These remain subordinate to human-authorized Guardian responsibilities and do not create another core intelligence or authority over the human.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Governs the bounded, declared carrier relationships, information-bearing pathways, presence representations, and connectivity used by intelligence-related capabilities of a personal UNIVERSALIN Guardian within the UNIVERSALIS Operating System. These remain subordinate to documented consent, privacy, purpose limitation, and public system contracts.
+- **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific carrier relationships, information-bearing pathways, presence representations, and connectivity used by intelligence-related capabilities of a personal UNIVERSALIN Guardian within C2O applications. It preserves human authorization, privacy, and C2O application boundaries.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific, declared carrier relationships, information-bearing pathways, presence representations, and connectivity used by intelligence-related capabilities of a personal UNIVERSALIN Guardian within UNIVERSALIS applications. It preserves documented human authorization, privacy, purpose limitation, and open application contracts.
+
+### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+The 22 contexts form two corresponding edition-specific branches of the same underlying Operating System and Application architecture, each containing 11 expressions.
+
+- **C2O branch:** C2O Operating System; C2O Intelligence; C2O Application; C2O Operating System - UNIVERSALIN; C2O Application - UNIVERSALIN; C2O Operating System - UNIVERSALIN Intelligence; C2O Application - UNIVERSALIN Intelligence; C2O Operating System - UNIVERSALIN Guardian; C2O Application - UNIVERSALIN Guardian; C2O Operating System - UNIVERSALIN Guardian Intelligence; and C2O Application - UNIVERSALIN Guardian Intelligence.
+- **UNIVERSALIS branch:** UNIVERSALIS Operating System; UNIVERSALIS Intelligence; UNIVERSALIS Application; UNIVERSALIS Operating System - UNIVERSALIN; UNIVERSALIS Application - UNIVERSALIN; UNIVERSALIS Operating System - UNIVERSALIN Intelligence; UNIVERSALIS Application - UNIVERSALIN Intelligence; UNIVERSALIS Operating System - UNIVERSALIN Guardian; UNIVERSALIS Application - UNIVERSALIN Guardian; UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence; and UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence.
+
+C2O and UNIVERSALIS are private-source and public-source editions of the same underlying Operating System and Application architecture. Their Ether structures must remain mappable without collapsing source visibility, governance, implementation, information pathways, records, or authority. UNIVERSALIS remains independently operable and must not depend on C2O private-source Ether pathways, carrier definitions, transmission records, policies, or controls.
+
+C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intelligences. UNIVERSALIN assistants are non-personal assistants hosted within assigned Operating System or Application contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their Ether-related carrier, information, presence, and connectivity functions remain subordinate to assigned responsibilities and the designated human's authority, consent, autonomy, privacy, and permissions.
+
+Each context inherits only the Ether-related subordinate expressions applicable to its subject, purpose, carrier structures, pathways, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof of a particular Ether medium, pathway, presence function, potential, implementation, or outcome.
+
+### Alchemy Structure under Elemental Alchemy — Ether / Quintessence
+
+The Ether expressions retain their defined names and edition relationships:
+
+- **Shared Ether expressions:** Ether Medium Alchemy, Quintessence Presence Alchemy, and Ether Accountability Alchemy.
+- **C2O expressions:** C2O Elemental Alchemy — Ether / Quintessence, Private Ether Stewardship Alchemy, Internal Ether Bound Alchemy, and C2O Ether Continuity Alchemy.
+- **UNIVERSALIS expressions:** UNIVERSALIS Elemental Alchemy — Ether / Quintessence, Open Ether Transparency Alchemy, Public Ether Openness Alchemy, and UNIVERSALIS Ether Continuity Alchemy.
+- **Cross-edition correspondence:** Ether Mapping Alchemy.
+- **Additional application expressions:** Space Alchemy, Potential Alchemy, Subtle Medium Alchemy, Beyond-Form Alchemy, Private Space Alchemy, Private Potential Alchemy, Private Subtle Medium Alchemy, Open Space Alchemy, Open Potential Alchemy, and Open Subtle Medium Alchemy.
+
+These expressions remain subordinate to Elemental Alchemy — Ether / Quintessence. Their applicability is established through the relevant context and the relationships recorded by Map and Matrix Alchemy. Repeated expression names do not establish duplicate authorities or independent capabilities.
+
+### Elemental Alchemy — Ether / Quintessence Structural and Applicability Requirements
+
+#### Map Alchemy Requirements
+
+Map Alchemy must establish:
+
+- The placement of Elemental Alchemy — Ether / Quintessence and its subordinate expressions across all 22 ecosystem contexts.
+- The parentage and relationships among Ether Medium Alchemy, Quintessence Presence Alchemy, Ether Accountability Alchemy, C2O Elemental Alchemy — Ether / Quintessence, UNIVERSALIS Elemental Alchemy — Ether / Quintessence, and Ether Mapping Alchemy.
+- The correspondence between the 11 C2O contexts and the 11 UNIVERSALIS contexts without collapsing their private-source and public-source governance, information boundaries, or operational authority.
+- The placement and relationships of Space Alchemy, Potential Alchemy, Subtle Medium Alchemy, and Beyond-Form Alchemy within applicable application and system contexts.
+- The relationships among carrier space, subtle medium, information-bearing pathways, transmission, presence, connectivity, potential, beyond-form relationships, clarity, continuity, recovery, and accountability.
+- The hosting and dependency relationships among Operating System, Application, Intelligence, non-personal UNIVERSALIN assistants, their intelligence-related capabilities, personal UNIVERSALIN Guardians, and Guardian intelligence-related capabilities.
+- The dependencies among applicable identity, authorization, permissions, privacy, security, storage, network, runtime, service, and external-interface structures without duplicating their responsibilities or transferring authority.
+- The distinction between private C2O carrier structures, pathways, records, and controls and public UNIVERSALIS interfaces, contracts, and records.
+- The source, destination, purpose, classification, boundary, and evidence relationships applicable to each mapped transmission pathway.
+- The relationships among available potential, authorized capability, implemented functionality, active transmission, and verified outcome without treating these as equivalent states.
+- The provenance and evidence relationships required to support claims about Ether definitions, pathways, presence-related functions, continuity, changes, and outcomes.
+
+#### Matrix Alchemy Requirements
+
+Matrix Alchemy must establish for each of the 22 contexts:
+
+- Whether Ether Medium Alchemy, Quintessence Presence Alchemy, Ether Accountability Alchemy, Ether Mapping Alchemy, and each applicable private or public Ether expression applies, is conditional, is not applicable, or remains unresolved.
+- Which additional expressions—Space Alchemy, Potential Alchemy, Subtle Medium Alchemy, Beyond-Form Alchemy, and their applicable private or open expressions—apply to that context.
+- The applicable carrier structures, information classes, sources, destinations, transmission pathways, presence representations, connectivity requirements, purposes, and dependencies.
+- The distinction between a conceptual medium, a defined interface, an available pathway, an authorized pathway, an implemented pathway, an active transmission, a recovered pathway, and a verified result.
+- The distinction between unrealized potential, proposed capability, approved capability, available capability, implemented capability, active capability, and demonstrated outcome.
+- The authority responsible for defining, approving, changing, reviewing, suspending, restoring, and retiring each applicable Ether-related pathway, interface, presence function, or capability.
+- The permissions, identity controls, consent, privacy, confidentiality, security, source visibility, retention, transmission, and continuity constraints governing each applicable Ether-related process.
+- The private-source governance, protected implementation, internal carrier structures, records, and permission boundaries applicable to C2O contexts.
+- The declared contracts, inspectability, interoperability, independent-operability requirements, and public-source boundaries applicable to UNIVERSALIS contexts.
+- The hosting scope, assigned task boundaries, information permissions, and applicable pathways for each non-personal UNIVERSALIN assistant and its intelligence-related capabilities.
+- The designated human, consent, autonomy, privacy, purpose, and personal-boundary requirements relevant to each UNIVERSALIN Guardian context and its intelligence-related capabilities.
+- The evidence, provenance, uncertainty, dependencies, limitations, exceptions, and verification status supporting each applicability, transmission, presence, continuity, or implementation claim.
+
+#### Structural Integrity and Governance
+
+Ether Medium must identify and organize applicable carrier structures and pathways without treating the medium as unrestricted access, transmission authority, or proof that a particular physical substrate exists. Each pathway remains subject to defined sources, destinations, purpose, identity, permissions, security, and applicable governance.
+
+Quintessence Presence must preserve the distinction between an information-bearing or capability-bearing representation and an independent intelligence or subjective presence. C2O Intelligence and UNIVERSALIS Intelligence remain the two core intelligences. UNIVERSALIN assistants and UNIVERSALIN Guardians remain within their assigned assistant roles and human-authorized responsibilities; Ether terminology does not create additional intelligence entities or independent authority.
+
+Ether transmission must remain bounded by authorized purpose, source, destination, permissions, confidentiality, privacy, and applicable safeguards. The ability to represent or transmit information across distance does not authorize disclosure, access, retention, external exposure, or bypass of security boundaries.
+
+Potential must remain distinguishable from capability, availability, authorization, implementation, and operation. An unrealized capacity or conceptual possibility does not establish that a function exists, that resources are assigned, or that an action is permitted.
+
+Beyond-Form must remain a bounded expression for connectivity or organization not confined to one direct or dense representation. It must not erase component identity, provenance, source attribution, permissions, accountability, or the distinctions among the two editions and their contexts.
+
+C2O Ether pathways, private carrier definitions, internal transmission records, policies, and implementation remain under C2O governance. UNIVERSALIS Ether interfaces, declared methods, public contracts, and relevant records must remain inspectable to the extent established by those contracts and independently operable. Neither edition may presume access to the other's protected records, internal carrier structures, or implementation.
+
+Ether Accountability must maintain attributable records appropriate to the edition and applicable governance. Continuity and recovery must preserve integrity, provenance, authorization, and required evidence. Restoring a pathway does not automatically authorize its prior destinations, permissions, or purpose if those have changed.
+
+Applicability, potential, authorization, availability, implementation, transmission, presence, continuity, outcome, and verification are separate claims. Establishing Elemental Alchemy — Ether / Quintessence or its place in the 22-context taxonomy does not prove that a particular medium, transmission pathway, presence function, capability, implementation, or result exists.
+
+---
 ### Elemental Alchemy — Metal / Crystal
 
 **Elemental Alchemy — Metal / Crystal**  
