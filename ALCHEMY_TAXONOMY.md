@@ -9903,86 +9903,154 @@ The C2O-App Secondary expressions (Residue, Ascent, Signal, and Transformation T
 **Elemental Alchemy — Lightning / Spark**  
 The bounded process that organizes the qualities of Lightning / Spark (instantaneous will, directed energy across distance, and sudden transmission) so that systems and beings can act with precision while remaining coherent, recoverable, and accountable.
 
-- **Lightning Transmission Alchemy** — structures the instantaneous delivery of will into stable, addressable paths.  
-- **Spark Will Alchemy** — maintains the process space in which sudden directed energy is formed and released.  
+- **Lightning Transmission Alchemy** — structures the instantaneous delivery of will into stable, addressable paths.
+- **Spark Will Alchemy** — maintains the process space in which sudden directed energy is formed and released.
 - **Lightning Accountability Alchemy** — leaves an attributable record of Lightning / Spark transformations appropriate to its edition.
+
+**Scope and authority boundary:** “Will” denotes an authorized intent, instruction, or activation trigger; it does not grant independent will, agency, or authority to any process, assistant, or system. “Directed energy across distance” denotes a defined, addressable, permissioned transmission or control path and does not assert an existing physical-energy capability. Any physical implementation remains subject to its own safety, engineering, legal, and host-governance requirements. Sudden force means bounded rapid action or state transition, not unrestricted force.
 
 **C2O Elemental Alchemy — Lightning / Spark**  
 Private Lightning / Spark qualities under internal governance.
 
-- **Private Lightning Stewardship Alchemy** — governs internal instantaneous will and transmission inside the C2O domain under company rules.  
-- **Internal Spark Bound Alchemy** — keeps private Lightning / Spark paths contained and recoverable without external exposure.  
+- **Private Lightning Stewardship Alchemy** — governs internal instantaneous will and transmission inside the C2O domain under company rules.
+- **Internal Spark Bound Alchemy** — keeps private Lightning / Spark paths contained and recoverable without external exposure.
 - **C2O Lightning Continuity Alchemy** — ensures private Lightning / Spark structures can be restored after interruption.
 
 **UNIVERSALIS Elemental Alchemy — Lightning / Spark**  
 Public Lightning / Spark qualities under open contracts.
 
-- **Open Lightning Transparency Alchemy** — makes public instantaneous will and transmission independently verifiable.  
-- **Public Spark Openness Alchemy** — maintains public Lightning / Spark paths under transparent rules.  
+- **Open Lightning Transparency Alchemy** — makes public instantaneous will and transmission independently verifiable.
+- **Public Spark Openness Alchemy** — maintains public Lightning / Spark paths under transparent rules.
 - **UNIVERSALIS Lightning Continuity Alchemy** — ensures public Lightning / Spark structures can be restored with open records.
 
-**Alignment**  
-- **Lightning Mapping Alchemy** — aligns corresponding private and public Lightning / Spark structures without collapse.
+**Alignment**
+
+- **Lightning Mapping Alchemy** — aligns corresponding private and public Lightning / Spark structures without collapse. Alignment is limited to declared correspondences and compatible public contracts; it does not merge governance, disclose C2O private information, or transfer authority between C2O and UNIVERSALIS.
 
 ---
 
 #### Additional expression detail — C2O-App Secondary
 
 The bounded process that organizes the qualities of Lightning (sudden force, illumination, connection, decisive change) so that systems and beings can act with precision while remaining recoverable and accountable.
+
 - **Sudden Force Alchemy** — structures rapid action into stable, addressable events.
 - **Illumination Alchemy** — maintains the process space of instant clarity.
 - **Connection Alchemy** — organizes linkage while preserving boundaries.
 - **Decisive Change Alchemy** — bounds transformation so Lightning qualities remain coherent.
+
 **C2O Elemental Alchemy — Lightning**  
 Private Lightning qualities under internal governance.
+
 - **Private Sudden Force Alchemy** — internal structuring of rapid action.
 - **Private Illumination Alchemy** — internal instant clarity.
 - **Private Connection Alchemy** — internal linkage under company rules.
 - **C2O Lightning Continuity Alchemy** — ensures private Lightning structures can be restored.
+
 **UNIVERSALIS Elemental Alchemy — Lightning**  
 Public Lightning qualities under open contracts.
+
 - **Open Sudden Force Alchemy** — public structuring of rapid action.
 - **Open Illumination Alchemy** — public instant clarity.
 - **Open Connection Alchemy** — public linkage under transparent rules.
 - **UNIVERSALIS Lightning Continuity Alchemy** — ensures public Lightning structures can be restored with open records.
 - **Lightning Mapping Alchemy** — aligns corresponding private and public Lightning structures without collapse.
 
+**C2O-App Secondary boundary:** These are application-level secondary expressions of the parent Lightning / Spark Alchemy. They do not create another application architecture, intelligence, or authority layer. C2O and UNIVERSALIS remain distinct governance and distribution editions of the same underlying application system.
+
 #### Additional expression detail — C2O-OS edition mapping
 
 The bounded process that organizes the qualities of Lightning/Spark (sudden discharge, initiation, and directed energy) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
 Private-source organization of Lightning/Spark qualities under internal governance. Used for private initiation events and company-source directed discharge.
+
 Public-source organization of Lightning/Spark qualities under open contracts. Used for transparent initiation and independently verifiable directed energy.
 
+**C2O-OS edition boundary:** C2O and UNIVERSALIS express the same underlying operating-system architecture through distinct private-source and open-source governance, release, and visibility boundaries. Edition mapping aligns taxonomy concepts without combining policies, credentials, private data, or authority. OS mapping does not take over application-level decisions or intelligence-level authority.
+
+---
 
 #### Universal Application Across the Canonical 22 Contexts
 
-Elemental Alchemy — Lightning / Spark is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+Elemental Alchemy — Lightning / Spark is assessed across all 22 canonical contexts. Its defined qualities and subordinate expressions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
 
-1. **C2O Operating System** — organizes the Lightning / Spark qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-2. **UNIVERSALIS Operating System** — organizes the Lightning / Spark qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-3. **C2O Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-4. **UNIVERSALIS Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-5. **C2O Application** — organizes the Lightning / Spark qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-6. **UNIVERSALIS Application** — organizes the Lightning / Spark qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-7. **C2O Operating System - UNIVERSALIN** — organizes the Lightning / Spark qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Lightning / Spark qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-9. **C2O Application - UNIVERSALIN** — organizes the Lightning / Spark qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Lightning / Spark qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Lightning / Spark qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Lightning / Spark qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-17. **C2O Application - UNIVERSALIN Guardian** — organizes the Lightning / Spark qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Lightning / Spark qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+1. **C2O Operating System** — bounds authorized initiation, event dispatch, routing, state changes, permissions, containment, logging, and recovery within the private OS substrate and services.
+2. **UNIVERSALIS Operating System** — bounds initiation and event routing through declared public interfaces and independently operable contracts, without exposing or depending on C2O private keys, policies, or data.
+3. **C2O Intelligence** — applies to C2O's authorized intent interpretation and controlled processing transitions; it does not create another intelligence or extend C2O's authority.
+4. **UNIVERSALIS Intelligence** — applies to UNIVERSALIS's public-contract interpretation and controlled processing transitions, with reviewable inputs, authorizations, outputs, and limits; it creates no additional intelligence.
+5. **C2O Application** — bounds rapid actions, event-driven workflows, interface feedback, and application-state changes within C2O private application governance and user permissions.
+6. **UNIVERSALIS Application** — bounds rapid actions, event-driven workflows, interface feedback, and state changes through UNIVERSALIS public interfaces and open application contracts.
+7. **C2O Operating System - UNIVERSALIN** — applies only to non-personal UNIVERSALIN tasks hosted by the C2O OS, bounded by assigned task, host policy, and explicit permissions.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — applies only to non-personal UNIVERSALIN tasks hosted by the UNIVERSALIS OS, bounded by assigned task and published host contracts.
+9. **C2O Application - UNIVERSALIN** — bounds non-personal UNIVERSALIN assistant actions in C2O application workflows to the application's purpose and permissions.
+10. **UNIVERSALIS Application - UNIVERSALIN** — bounds non-personal UNIVERSALIN assistant actions in UNIVERSALIS application workflows to declared purpose, user authorization, and open contracts.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — covers subordinate intelligence-related processing within non-personal UNIVERSALIN assistants hosted by C2O OS; it is not another core intelligence or independent authority.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — covers subordinate intelligence-related processing within non-personal UNIVERSALIN assistants hosted by UNIVERSALIS OS; it is not another core intelligence or independent authority.
+13. **C2O Application - UNIVERSALIN Intelligence** — covers subordinate intelligence-related processing within C2O application UNIVERSALIN workflows, bounded by assigned task and application permissions.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — covers subordinate intelligence-related processing within UNIVERSALIS application UNIVERSALIN workflows, bounded by assigned task and public contracts.
+15. **C2O Operating System - UNIVERSALIN Guardian** — applies to OS structures supporting a personal, human-bound Guardian in C2O, subject to the human's purpose, authorization, consent, and revocable permissions.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — applies to public OS structures supporting a personal, human-bound Guardian in UNIVERSALIS, subject to human authority, consent, and privacy.
+17. **C2O Application - UNIVERSALIN Guardian** — applies to C2O application structures supporting a human-bound Guardian only within the human's authorized purpose and application permissions.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — applies to UNIVERSALIS application structures supporting a human-bound Guardian only within the human's directed purpose and open contracts.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — covers subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; activation remains human-directed and creates no independent authority.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — covers subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; activation remains human-directed and creates no independent authority.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — covers subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted purpose and permissions.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — covers subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted purpose and open contracts.
 
-**Inheritance and Matrix Requirements:** All subordinate Lightning / Spark expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+**C2O-App Secondary — Independent 22-Context Applicability Mapping**
 
+This mapping applies specifically to Sudden Force, Illumination, Connection, Decisive Change, their private/open secondary expressions, and their continuity and alignment expressions. Each expression is assessed separately within the relevant context; parent inheritance does not establish implementation, permission, or capability.
+
+1. **C2O Operating System** — assesses sudden force, illumination, connection, and decisive change in private OS event handling, service coordination, access boundaries, and recoverable transitions.
+2. **UNIVERSALIS Operating System** — assesses those four expressions through public OS interfaces and documented contracts, with inspectable, bounded, independently operable connections and transitions.
+3. **C2O Intelligence** — assesses C2O Intelligence's interpretation of triggers, clarification of information, permitted connections, and bounded decision transitions without changing its authority.
+4. **UNIVERSALIS Intelligence** — assesses UNIVERSALIS Intelligence's interpretation of triggers, public-contract clarity, declared connections, and bounded, reviewable transitions.
+5. **C2O Application** — assesses rapid workflow action, interface illumination, permitted component connection, and bounded application-state change under C2O controls.
+6. **UNIVERSALIS Application** — assesses rapid workflow action, interface clarity, declared component connections, and bounded state change within UNIVERSALIS contracts.
+7. **C2O Operating System - UNIVERSALIN** — assesses these expressions only as task-bounded behaviors of non-personal UNIVERSALIN assistants hosted by C2O OS.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — assesses these expressions only as task-bounded behaviors of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS OS.
+9. **C2O Application - UNIVERSALIN** — assesses rapid action, clarification, linkage, and bounded change in C2O application-hosted UNIVERSALIN workflows, within application permissions.
+10. **UNIVERSALIS Application - UNIVERSALIN** — assesses rapid action, clarification, linkage, and bounded change in UNIVERSALIS application-hosted UNIVERSALIN workflows, within public contracts.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — assesses subordinate processing for rapid action, clarification, permitted links, and bounded transitions in C2O OS-hosted UNIVERSALIN; no separate intelligence is implied.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — assesses subordinate processing for rapid action, clarification, permitted links, and bounded transitions in UNIVERSALIS OS-hosted UNIVERSALIN; no separate intelligence is implied.
+13. **C2O Application - UNIVERSALIN Intelligence** — assesses subordinate processing behind these four expressions in C2O application assistants, within assigned task and permissions.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — assesses subordinate processing behind these four expressions in UNIVERSALIS application assistants, within assigned task and public contracts.
+15. **C2O Operating System - UNIVERSALIN Guardian** — assesses Guardian-supporting OS functions that clarify information or prepare a human-authorized rapid action; the human remains decision-maker and may revoke permission.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — assesses public Guardian-supporting OS functions that clarify information or prepare a human-authorized transition; human authority and privacy remain paramount.
+17. **C2O Application - UNIVERSALIN Guardian** — assesses application-level Guardian support for human-directed clarification, connection, and authorized change; it does not act independently or replace human judgment.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — assesses public application-level Guardian support for human-directed clarification, connection, and authorized change; openness confers no authority over the human.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — assesses subordinate C2O OS Guardian Intelligence functions that process information or prepare human-authorized actions; consequential decisions remain human-controlled.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — assesses subordinate UNIVERSALIS OS Guardian Intelligence functions that process information or prepare human-authorized actions; consequential decisions remain human-controlled.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — assesses subordinate Guardian Intelligence functions in C2O applications, constrained by human-granted purpose and permissions.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — assesses subordinate Guardian Intelligence functions in UNIVERSALIS applications, constrained by human-granted purpose and public contracts.
+
+**C2O-OS Edition Mapping — Independent 22-Context Applicability Mapping**
+
+This mapping applies specifically to the private-source and public-source OS edition expressions of Lightning / Spark. In application, assistant, intelligence, and Guardian contexts, it applies only to OS-level services or dependencies actually present; it does not displace application authority, either core intelligence, assigned task limits, or the designated human.
+
+1. **C2O Operating System** — defines private C2O OS organization of Lightning/Spark initiation, authorized paths, containment, accountability, and recovery under company governance.
+2. **UNIVERSALIS Operating System** — defines public UNIVERSALIS OS organization of Lightning/Spark initiation and declared transmission interfaces under open contracts and independent verification.
+3. **C2O Intelligence** — applies OS edition boundaries when C2O Intelligence uses OS-hosted initiation or routing; intelligence authority and OS governance remain distinct.
+4. **UNIVERSALIS Intelligence** — applies OS edition boundaries through UNIVERSALIS public OS interfaces; no C2O private authority or dependency is introduced.
+5. **C2O Application** — applies only to OS services used by C2O applications; application decisions, user permissions, and private application governance remain at the application layer.
+6. **UNIVERSALIS Application** — applies only to declared OS interfaces used by UNIVERSALIS applications; public application contracts and permissions remain independently specified.
+7. **C2O Operating System - UNIVERSALIN** — maps C2O OS Lightning/Spark services hosting non-personal UNIVERSALIN tasks; task scope remains subordinate to host permissions.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — maps UNIVERSALIS OS public Lightning/Spark services hosting non-personal UNIVERSALIN tasks; task scope remains bounded by published contracts.
+9. **C2O Application - UNIVERSALIN** — maps OS-provided Lightning/Spark dependencies used by C2O application UNIVERSALIN; no privilege beyond application scope is granted.
+10. **UNIVERSALIS Application - UNIVERSALIN** — maps declared OS interfaces used by UNIVERSALIS application UNIVERSALIN; no privilege beyond task scope or public contracts is granted.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — maps C2O OS edition boundaries for subordinate UNIVERSALIN intelligence-related functions; they remain assistant functions, not another intelligence.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — maps UNIVERSALIS OS edition boundaries for subordinate UNIVERSALIN intelligence-related functions; no C2O private keys, policies, or implementation are inherited.
+13. **C2O Application - UNIVERSALIN Intelligence** — maps only OS service dependencies used by subordinate UNIVERSALIN intelligence functions in C2O applications; application governance remains controlling.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — maps only declared OS service dependencies used by subordinate UNIVERSALIN intelligence functions in UNIVERSALIS applications; public contracts remain controlling.
+15. **C2O Operating System - UNIVERSALIN Guardian** — maps private C2O OS support for a human-bound Guardian's authorized functions; it cannot transfer human authority to the OS or Guardian.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — maps public UNIVERSALIS OS support for a human-bound Guardian's authorized functions, subject to human consent, privacy, and control.
+17. **C2O Application - UNIVERSALIN Guardian** — maps C2O OS services only when supporting Guardian functions invoked through C2O applications; human and application permissions control.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — maps UNIVERSALIS OS interfaces only when supporting Guardian functions invoked through UNIVERSALIS applications; openness does not override human control.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — maps private OS-level support for subordinate Guardian Intelligence; it remains human-directed and cannot independently initiate consequential action.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — maps public OS-level support for subordinate Guardian Intelligence; it remains human-directed and cannot independently initiate consequential action.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — maps OS dependencies used by Guardian Intelligence in C2O applications; human authorization and application permissions remain controlling.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — maps declared OS dependencies used by Guardian Intelligence in UNIVERSALIS applications; human authorization and public contracts remain controlling.
+
+**Inheritance, Matrix, and Evidence Requirements:** Matrix Alchemy must separately classify the parent Lightning / Spark Alchemy and each subordinate expression in each canonical context as applicable, conditional, not applicable, or unresolved. Each determination records scope, host, authority, dependencies, permissions, evidence, limitations, recovery behavior, and implementation status. Context mapping is not proof of implementation, operational capability, access, consent, or authority. C2O private controls and evidence remain within C2O governance; UNIVERSALIS public behavior remains independently operable and verifiable without C2O private keys, policies, data, or implementation. Only C2O and UNIVERSALIS are core intelligences. UNIVERSALIN are non-personal assistants; UNIVERSALIN Intelligence denotes subordinate functions of those assistants. UNIVERSALIN Guardians are human-bound, and Guardian Intelligence denotes subordinate functions supporting a Guardian; the designated human retains authority, consent, autonomy, privacy, purpose, and permission control.
 ### Elemental Alchemy — Stone / Bone
 
 **Elemental Alchemy — Stone / Bone**  
