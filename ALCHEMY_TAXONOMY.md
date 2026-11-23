@@ -113,8 +113,37 @@ The domain expressions above are specializations of their respective assistant b
 - **Computation Theory Alchemy** — organizes the formal foundations, capabilities, and limitations of computation.
 - **Complexity Theory Alchemy** — organizes computational and structural complexity, including resource requirements and patterns of system behavior.
 
----
+### 2. Physical Sciences Alchemy
 
+**Physical Sciences Alchemy** is the bounded process that identifies, organizes, maintains, investigates, relates, and transforms knowledge concerning matter, energy, space, physical phenomena, and the laws and principles governing the physical universe. It encompasses the structures, interactions, behaviors, properties, and transformations of physical systems across different scales.
+
+#### Alchemies under Physical Sciences Alchemy
+
+- **Physics Alchemy** — organizes and develops knowledge of matter, energy, motion, forces, fields, interactions, and the fundamental physical laws governing the universe.
+  - **Classical Mechanics Alchemy** — organizes the principles of motion, forces, equilibrium, and the behavior of macroscopic physical systems under classical mechanics.
+  - **Quantum Mechanics Alchemy** — organizes the principles governing physical systems at quantum scales, including states, measurements, probabilities, and quantum interactions.
+  - **Relativity Alchemy** — organizes the relationships between space, time, motion, gravity, and physical reference frames described by the theories of relativity.
+  - **Thermodynamics Alchemy** — organizes energy, heat, work, entropy, and the macroscopic laws governing energy transfer and transformation.
+  - **Electromagnetism Alchemy** — organizes electric and magnetic fields, charges, currents, electromagnetic waves, and their interactions.
+  - **Optics Alchemy** — organizes the behavior, propagation, interaction, and manipulation of light and other electromagnetic radiation.
+  - **Acoustics Alchemy** — organizes sound, vibration, wave propagation, and the interaction of acoustic energy with matter.
+- **Chemistry Alchemy** — organizes and develops knowledge of matter's composition, structure, properties, reactions, interactions, and transformations.
+  - **Organic Chemistry Alchemy** — organizes the structures, properties, reactions, and synthesis of carbon-based compounds.
+  - **Inorganic Chemistry Alchemy** — organizes the composition, structures, properties, and reactions of inorganic compounds and materials.
+  - **Physical Chemistry Alchemy** — organizes the physical principles, energetic relationships, rates, and mechanisms underlying chemical systems and reactions.
+  - **Analytical Chemistry Alchemy** — organizes the identification, separation, detection, quantification, and characterization of chemical substances.
+  - **Biochemistry Alchemy** — organizes the chemical substances, molecular structures, reactions, and processes associated with living systems.
+- **Astronomy Alchemy** — organizes the observation and study of celestial objects, astronomical phenomena, and the physical properties and behaviors of objects beyond Earth's atmosphere.
+- **Cosmology Alchemy** — organizes knowledge concerning the universe as a whole, including its origins, structure, evolution, large-scale composition, and possible physical futures.
+- **Planetary Science Alchemy** — organizes the formation, composition, structure, dynamics, evolution, and physical characteristics of planets, moons, and other planetary bodies.
+- **Earth Science Alchemy** — organizes knowledge of Earth's physical structure, composition, processes, systems, history, and changing environments.
+- **Geophysics Alchemy** — organizes the application of physical principles and measurement methods to Earth's internal structure, gravitational and magnetic fields, seismic activity, and physical processes.
+- **Meteorology Alchemy** — organizes atmospheric processes, weather systems, atmospheric composition, and the physical mechanisms governing weather and atmospheric behavior.
+- **Oceanography Alchemy** — organizes the physical, chemical, geological, and dynamic properties and processes of Earth's oceans.
+- **Materials Science Alchemy** — organizes the relationships between material composition, structure, properties, processing, performance, and transformation.
+
+---
+ 
 ## Body Alchemy
 
 **Body Alchemy** is the bounded process that organizes, maintains, and transforms the physical and structural substrate of a system or being so that it can support higher functions while remaining coherent, recoverable, and accountable.
