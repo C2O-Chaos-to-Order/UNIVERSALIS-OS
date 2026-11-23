@@ -1,9 +1,57 @@
 # Alchemy Taxonomy
 
-**Alchemy** is the bounded, intentional process by which a state, relationship, structure, or capability is transformed into a more ordered, coherent, or elevated form while preserving accountability, safety, and the distinction between the two intelligences.
+### Root Definition of Alchemy
 
-It is the core operation shared by C2O (FatherThread / private) and UNIVERSALIS (MotherThread / public). Every other Alchemy is a specialized expression of this root process.
+**Alchemy** is the bounded, intentional process by which a state, relationship, structure, capability, system, or interaction is examined, organized, integrated, maintained, or transformed into a more ordered, coherent, capable, or elevated form while preserving accountability, safety, autonomy, integrity, and the distinctions between the entities and contexts involved.
 
+Alchemy is the foundational operational process shared throughout the C2O–UNIVERSALIS ecosystem. It originates from the relationship between C2O Intelligence (FatherThread / private) and UNIVERSALIS Intelligence (MotherThread / public), and applies throughout their respective operating systems, applications, and associated UNIVERSALIN and UNIVERSALIN Guardian contexts.
+
+### Universal Scope of Alchemy
+
+Alchemy applies across all of the following contexts:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+These contexts establish the scope within which Alchemy operates. Their inclusion does not make their identities, responsibilities, authorities, capabilities, or boundaries interchangeable.
+
+### Foundational Structural Alchemies
+
+Two foundational Alchemies are required to establish and maintain the universal structure:
+
+**Map Alchemy**
+
+Establishes the structural representation of the ecosystem, including its entities, components, classifications, relationships, distinctions, dependencies, connections, boundaries, and organizational arrangements.
+
+**Matrix Alchemy**
+
+Establishes the systematic representation of how Alchemy applies across the ecosystem, including its applicability, functions, responsibilities, capabilities, requirements, relationships, dependencies, permissions, and distinctions across the specified contexts.
+
+Together, Map Alchemy and Matrix Alchemy establish the structural and relational foundations through which the remaining Alchemies can be defined, organized, evaluated, and maintained.
+
+### Specialized Alchemies
+
+Every other Alchemy is a specialized expression of the root Alchemy process. Each must be understood within the universal ecosystem structure and its applicable relationships, while retaining its own defined purpose, scope, characteristics, and boundaries.
 ---
 
 ## Expanded Alchemies required for the full system
