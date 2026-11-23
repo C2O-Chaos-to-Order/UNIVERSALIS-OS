@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 0.3.0  
-**Status:** Formal Sciences and Physical Sciences subject hierarchies recorded; 42 subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 0.4.0  
+**Status:** Formal Sciences, Physical Sciences, and Life Sciences subject hierarchies recorded; 60 subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -436,13 +436,14 @@ The taxonomy now contains two supplied Universal Subjects of Knowledge hierarchi
 |---|---:|---:|---:|
 | Formal Sciences | 19 | 22 | 418 |
 | Physical Sciences | 23 | 22 | 506 |
-| **Cumulative total** | **42** | **22** | **924** |
+| Life Sciences | 18 | 22 | 396 |
+| **Cumulative total** | **60** | **22** | **1320** |
 
 The cumulative total represents 42 distinct subject Alchemies mapped across 22 contexts. It does not create 924 new subject classifications. Each of the 924 matrix positions requires a context-specific expression.
 
 ## 18. Taxonomy status and release register
 
-| Item | State in version 0.3.0 |
+| Item | State in version 0.4.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -452,15 +453,122 @@ The cumulative total represents 42 distinct subject Alchemies mapped across 22 c
 | Formal Sciences matrix | Recorded — 19 × 22 = 418 mapped intersections |
 | Physical Sciences source definition and hierarchy | Recorded as supplied — 23 distinct subject Alchemies |
 | Physical Sciences matrix | Recorded — 23 × 22 = 506 mapped intersections |
-| Cumulative subject Alchemy register | 42 distinct subject Alchemies |
-| Cumulative mapped intersections | 42 × 22 = 924 required mappings |
+| Life Sciences source definition and hierarchy | Recorded as supplied — 18 distinct subject Alchemies |
+| Life Sciences matrix | Recorded — 18 × 22 = 396 mapped intersections |
+| Cumulative subject Alchemy register | 60 distinct subject Alchemies |
+| Cumulative mapped intersections | 60 × 22 = 1320 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences and Physical Sciences subject names, source hierarchy, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, and Life Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 19. Change control
+## 19. Universal Subject of Knowledge hierarchy: Life Sciences
+
+### 19.1 Canonical subject definition
+
+**Life Sciences** — Knowledge of living systems.
+
+This definition is retained as supplied. The Life Sciences subject becomes **Life Sciences Alchemy**.
+
+### 19.2 Life Sciences Alchemy hierarchy
+
+The following hierarchy preserves the supplied subject structure. The source provides Life Sciences as the parent subject and lists 17 subordinate subjects without further subdivisions. Accordingly, each of the 17 listed subjects is recorded as a direct child of Life Sciences; no additional parent-child relationships are inferred.
+
+- **Life Sciences Alchemy**
+  - **Biology Alchemy**
+  - **Genetics Alchemy**
+  - **Evolutionary Biology Alchemy**
+  - **Ecology Alchemy**
+  - **Microbiology Alchemy**
+  - **Botany Alchemy**
+  - **Zoology Alchemy**
+  - **Marine Biology Alchemy**
+  - **Molecular Biology Alchemy**
+  - **Cell Biology Alchemy**
+  - **Biotechnology Alchemy**
+  - **Neuroscience Alchemy**
+  - **Physiology Alchemy**
+  - **Anatomy Alchemy**
+  - **Immunology Alchemy**
+  - **Virology Alchemy**
+  - **Mycology Alchemy**
+
+### 19.3 Life Sciences Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
+|---|---|---|---|
+| USA-LS-001 | Life Sciences | Life Sciences Alchemy | Root subject |
+| USA-LS-002 | Biology | Biology Alchemy | Life Sciences |
+| USA-LS-003 | Genetics | Genetics Alchemy | Life Sciences |
+| USA-LS-004 | Evolutionary Biology | Evolutionary Biology Alchemy | Life Sciences |
+| USA-LS-005 | Ecology | Ecology Alchemy | Life Sciences |
+| USA-LS-006 | Microbiology | Microbiology Alchemy | Life Sciences |
+| USA-LS-007 | Botany | Botany Alchemy | Life Sciences |
+| USA-LS-008 | Zoology | Zoology Alchemy | Life Sciences |
+| USA-LS-009 | Marine Biology | Marine Biology Alchemy | Life Sciences |
+| USA-LS-010 | Molecular Biology | Molecular Biology Alchemy | Life Sciences |
+| USA-LS-011 | Cell Biology | Cell Biology Alchemy | Life Sciences |
+| USA-LS-012 | Biotechnology | Biotechnology Alchemy | Life Sciences |
+| USA-LS-013 | Neuroscience | Neuroscience Alchemy | Life Sciences |
+| USA-LS-014 | Physiology | Physiology Alchemy | Life Sciences |
+| USA-LS-015 | Anatomy | Anatomy Alchemy | Life Sciences |
+| USA-LS-016 | Immunology | Immunology Alchemy | Life Sciences |
+| USA-LS-017 | Virology | Virology Alchemy | Life Sciences |
+| USA-LS-018 | Mycology | Mycology Alchemy | Life Sciences |
+
+**Life Sciences total: 18 distinct subject Alchemies.** This count includes Life Sciences Alchemy itself and the 17 directly subordinate subject Alchemies.
+
+The source supplied the definition for Life Sciences and the names and placement of its 17 subordinate subjects. No additional subject definitions, subdivisions, or descriptions have been invented. Individual subordinate subject definitions must be developed without changing the supplied canonical names or parentage.
+
+## 20. Life Sciences Alchemy — 18 × 22 context matrix
+
+The matrix below maps every Life Sciences subject Alchemy to all 22 canonical contexts. The column identifiers C01–C22 refer to the canonical context key in Section 8.2. Each **M** is a required mapping position. It does not, by itself, claim that the detailed context-specific expression has been authored, reviewed, implemented, tested, or verified.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-LS-001 · Life Sciences Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-002 · Biology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-003 · Genetics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-004 · Evolutionary Biology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-005 · Ecology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-006 · Microbiology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-007 · Botany Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-008 · Zoology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-009 · Marine Biology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-010 · Molecular Biology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-011 · Cell Biology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-012 · Biotechnology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-013 · Neuroscience Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-014 · Physiology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-015 · Anatomy Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-016 · Immunology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-017 · Virology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-018 · Mycology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Life Sciences matrix total:** 18 subject Alchemies × 22 contexts = **396 mapped intersections**.
+
+The 396 intersections are the contextual mappings of the 18 Life Sciences Alchemies. They are not 396 additional subject classifications.
+
+## 21. Life Sciences contextual expression requirements
+
+Each of the 396 mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 22. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
