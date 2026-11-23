@@ -4,9 +4,9 @@ The public, open-source operating-system edition of UNIVERSALIS. UNIVERSALIS-OS 
 
 UNIVERSALIS is designed to remain independently operable through its public architecture and contracts.
 
-## Alchemy Taxonomy
+## Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-This repository uses the shared [Alchemy Taxonomy](./ALCHEMY_TAXONOMY.md). The taxonomy establishes 22 C2O and UNIVERSALIS contexts and the rules for defining, relating, and validating Alchemy classifications. A context is an application setting for the taxonomy, not automatically a separate system or classification. This shared taxonomy file contains no private C2O implementation details.
+This repository uses the shared [Alchemy Taxonomy for the Universal Subjects of Knowledge](./ALCHEMY_TAXONOMY_FOR_THE_UNIVERSAL_SUBJECTS_OF_KNOWLEDGE.md). The taxonomy establishes 22 C2O and UNIVERSALIS contexts and the rules for defining, relating, and validating Alchemy classifications. A context is an application setting for the taxonomy, not automatically a separate system or classification. This shared taxonomy file contains no private C2O implementation details.
 
 ## Related repositories
 
