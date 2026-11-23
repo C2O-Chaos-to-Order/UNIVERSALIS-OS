@@ -47,6 +47,21 @@ Alchemy's ecosystem-wide applicability is established across the following 22 ca
 
 The registry establishes where Alchemy applicability must be assessed. It does not imply that every Alchemy performs the same function in all 22 contexts, that every capability is implemented, or that authority, permissions, governance, source visibility, or evidence are interchangeable. Each Alchemy must have its context-specific scope, relationships, dependencies, controls, and evidence status established. C2O private-source governance remains separate from UNIVERSALIS public contracts, and UNIVERSALIS must remain independently operable without C2O private implementation, policies, keys, or records.
 
+#### Mandatory 22-Context Applicability and Inheritance Standard
+
+This standard applies to every root Alchemy, every named subordinate Alchemy, every additional expression, and every C2O or UNIVERSALIS edition-specific expression throughout this taxonomy.
+
+1. **Complete context coverage:** Every Alchemy entry must be traceable to each of the 22 canonical context identifiers in this registry. No context may be silently omitted from an applicability assessment.
+2. **Canonical identity and order:** When a section enumerates its contexts, it must use the exact canonical names and the same 1–22 order established above. “App” may be used in explanatory prose as an abbreviation for “Application,” but it must not replace the canonical identifier in a context record.
+3. **Required applicability state:** Each Alchemy-to-context relationship must be classified as **Applicable**, **Conditional**, **Not Applicable**, or **Unresolved**. A blank, omitted, or assumed state is not a valid classification. “Unresolved” is an explicit recorded state, not a pass or a claim of applicability.
+4. **Parent and child inheritance:** A subordinate Alchemy may inherit its parent's 22-context map only as an initial applicability frame. Its own Matrix Alchemy assessment must determine its state separately in all 22 contexts. Inheritance does not establish implementation, authority, permission, access, consent, capability, or evidence. A child may narrow its parent's scope but may not silently expand the parent's authority or scope.
+5. **Edition separation:** The C2O and UNIVERSALIS context pairs remain separately recorded. C2O expressions retain private-source governance and protected implementation; UNIVERSALIS expressions remain governed by public contracts and independently operable without C2O private dependencies. A paired context does not imply identical implementation, records, permissions, or evidence.
+6. **Host and subject correctness:** OS-hosted expressions must be assigned to OS contexts; application-hosted expressions must be assigned to Application contexts; the two core intelligences remain separate contexts; non-personal UNIVERSALIN assistant functions remain distinct from human-bound UNIVERSALIN Guardian functions; and their subordinate intelligence-related functions must not be represented as additional core intelligences.
+7. **Evidence and change control:** Each applicability state must identify its scope, rationale, responsible authority, dependencies, permissions, evidence, limitations, and review status. Changes to a parent mapping must trigger review of affected child Alchemies and all four repository editions. Taxonomy inclusion alone never establishes implementation or verified operation.
+
+**Consistency acceptance rule:** An Alchemy section is context-consistent only when all 22 canonical contexts are explicitly listed or referenced through a complete, version-matched 22-row mapping; every row has one of the four required applicability states; edition and host boundaries are preserved; and unresolved or unsupported assignments remain visibly unresolved. This rule governs all sections, not only the sections that reproduce the registry.
+
+
 ## 2. Foundational Structural Alchemies
 
 Foundational Structural Alchemies establish the structures, relationships, correspondences, and applicability requirements through which the wider Alchemy Taxonomy is organized and maintained.
