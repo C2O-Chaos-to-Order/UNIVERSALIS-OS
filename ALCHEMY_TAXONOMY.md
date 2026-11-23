@@ -205,77 +205,316 @@ A consistency review must verify all of the following:
 
 ## 2. Foundational Structural Alchemies
 
-Foundational Structural Alchemies establish the structures, relationships, correspondences, and applicability requirements through which the wider Alchemy Taxonomy is organized and maintained.
+Foundational Structural Alchemies establish the structures, relationships, correspondences, applicability requirements, and boundaries through which the wider Alchemy Taxonomy and the C2O–UNIVERSALIS ecosystem are organized, represented, assessed, and maintained.
+
+These Alchemies provide the structural governance required to identify the ecosystem's constituent contexts, establish each Alchemy's place and responsibilities, preserve the identities of the two core intelligences, coordinate their authorized relationship, maintain correspondences between related editions, and protect the boundaries within which all structures operate.
+
+The six Foundational Structural Alchemies are distinct but complementary:
+
+1. **Map Alchemy** — establishes and maintains the ecosystem's complete structural representation.
+2. **Matrix Alchemy** — establishes and maintains each Alchemy's context-specific applicability, responsibilities, functions, relationships, dependencies, permissions, constraints, and evidence requirements.
+3. **Intelligence Alchemy** — governs the identities, responsibilities, continuity, development, and boundaries of C2O Intelligence and UNIVERSALIS Intelligence.
+4. **Thread Alchemy** — governs the continuity, coordination, correspondence, and controlled interaction between FatherThread and MotherThread.
+5. **Mapping Alchemy** — establishes and maintains explicit correspondences between related systems, applications, intelligence structures, components, and their respective editions.
+6. **Boundary Alchemy** — establishes, preserves, evaluates, and maintains the distinctions, restrictions, and authorized interaction boundaries throughout the ecosystem.
+
+Each of these six Alchemies is independently subject to the mandatory 22-context requirements in Section 1.2. The tables below explicitly establish each Alchemy against every canonical context, in canonical order, with one applicability state and a context-specific scope statement for each row. **Applicable** means the Alchemy has a direct, defined role in that context. **Conditional** means its role applies only when the stated relationship, hosting, or operational condition exists. A Conditional assignment is not an implementation claim. It must be revisited when the relevant condition changes.
 
 ### 2.1 Map Alchemy
 
 **Map Alchemy** is the bounded process by which the complete structure of the C2O–UNIVERSALIS ecosystem and its constituent Alchemies is identified, classified, organized, represented, related, and maintained.
 
-It establishes the ecosystem's structural composition, including its entities, systems, applications, intelligences, assistant structures, Guardian structures, components, classifications, relationships, dependencies, interfaces, connections, distinctions, boundaries, and organizational arrangements.
+It establishes the ecosystem's structural composition, including its entities, operating systems, applications, core intelligences, non-personal assistant structures, human-bound Guardian structures, subordinate intelligence-related functions, components, classifications, relationships, dependencies, interfaces, connections, distinctions, boundaries, and organizational arrangements.
 
-Map Alchemy establishes where each Alchemy belongs, what structures it governs or affects, how it relates to other Alchemies, and where its responsibilities and dependencies exist within the wider ecosystem.
+Map Alchemy establishes where each Alchemy and constituent structure belongs, what structures it governs or affects, how it relates to other structures, and where its responsibilities, dependencies, interfaces, and boundaries exist within the wider ecosystem.
 
-It must preserve the distinctions between the C2O and UNIVERSALIS editions, the two core intelligences, non-personal UNIVERSALIN assistants, personal UNIVERSALIN Guardians, and their respective intelligence-related structures.
+Its structural representations may include hierarchical maps, architectural maps, entity and component registries, relationship graphs, interface maps, dependency representations, and other controlled records. Each representation must distinguish established structures from proposed, unresolved, or unverified structures. Inclusion in a map does not by itself establish implementation, authority, permission, capability, or verified operation.
+
+Map Alchemy must preserve the distinction between C2O and UNIVERSALIS editions; the two core intelligences; Operating System and Application contexts; non-personal UNIVERSALIN assistants; human-bound UNIVERSALIN Guardians; and their respective subordinate intelligence-related functions.
+
+**Map Alchemy — mandatory 22-context establishment**
+
+Map Alchemy is **Applicable** in all 22 contexts because every context is a constituent part of the ecosystem's canonical structural representation. Its role in each context is separately identified below.
+
+| # | Canonical context | Applicability state | Context-specific establishment |
+|---:|---|---|---|
+| 1 | **C2O Operating System** | **Applicable** | C2O OS-specific functions, responsibilities, capabilities, permissions, dependencies, constraints, and evidence |
+| 2 | **UNIVERSALIS Operating System** | **Applicable** | UNIVERSALIS OS-specific functions, responsibilities, capabilities, permissions, dependencies, constraints, and evidence |
+| 3 | **C2O Intelligence** | **Applicable** | C2O Intelligence responsibilities, capabilities, governance requirements, dependencies, permissions, constraints, and evidence |
+| 4 | **UNIVERSALIS Intelligence** | **Applicable** | UNIVERSALIS Intelligence responsibilities, capabilities, public-contract requirements, dependencies, permissions, constraints, and evidence |
+| 5 | **C2O Application** | **Applicable** | C2O Application-specific functions, workflows, capabilities, permissions, retained state, dependencies, constraints, and evidence |
+| 6 | **UNIVERSALIS Application** | **Applicable** | UNIVERSALIS Application-specific functions, workflows, capabilities, permissions, dependencies, constraints, and evidence |
+| 7 | **C2O Operating System - UNIVERSALIN** | **Applicable** | assistant configuration, permissions, workflows, bounded functions, OS resources, dependencies, and evidence in C2O OS |
+| 8 | **UNIVERSALIS Operating System - UNIVERSALIN** | **Applicable** | assistant configuration, permissions, workflows, bounded functions, OS resources, dependencies, and evidence in UNIVERSALIS OS |
+| 9 | **C2O Application - UNIVERSALIN** | **Applicable** | assistant workflows, permissions, retained state, application capabilities, dependencies, constraints, and evidence in C2O Application |
+| 10 | **UNIVERSALIS Application - UNIVERSALIN** | **Applicable** | assistant workflows, permissions, application capabilities, dependencies, constraints, and evidence in UNIVERSALIS Application |
+| 11 | **C2O Operating System - UNIVERSALIN Intelligence** | **Applicable** | the subordinate functions' scope, host relationship, permissions, dependencies, constraints, and evidence in C2O OS |
+| 12 | **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** | **Applicable** | the subordinate functions' scope, host relationship, permissions, dependencies, constraints, and evidence in UNIVERSALIS OS |
+| 13 | **C2O Application - UNIVERSALIN Intelligence** | **Applicable** | the subordinate functions' workflow scope, application permissions, retained state, dependencies, constraints, and evidence |
+| 14 | **UNIVERSALIS Application - UNIVERSALIN Intelligence** | **Applicable** | the subordinate functions' workflow scope, application permissions, dependencies, constraints, and evidence |
+| 15 | **C2O Operating System - UNIVERSALIN Guardian** | **Applicable** | Guardian support functions, designated-human permissions, purpose limits, OS dependencies, safeguards, and evidence |
+| 16 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian** | **Applicable** | Guardian support functions, designated-human permissions, purpose limits, public OS dependencies, safeguards, and evidence |
+| 17 | **C2O Application - UNIVERSALIN Guardian** | **Applicable** | Guardian application workflows, permissions, retained-state choices, purpose limits, dependencies, safeguards, and evidence |
+| 18 | **UNIVERSALIS Application - UNIVERSALIN Guardian** | **Applicable** | Guardian application workflows, permissions, purpose limits, user-controlled preferences, dependencies, safeguards, and evidence |
+| 19 | **C2O Operating System - UNIVERSALIN Guardian Intelligence** | **Applicable** | subordinate Guardian functions, human-granted permissions, purpose limits, host dependencies, safeguards, and evidence |
+| 20 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** | **Applicable** | subordinate Guardian functions, human-granted permissions, purpose limits, host dependencies, safeguards, and evidence |
+| 21 | **C2O Application - UNIVERSALIN Guardian Intelligence** | **Applicable** | subordinate Guardian workflows, human-granted application permissions, purpose limits, retained state, safeguards, and evidence |
+| 22 | **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** | **Applicable** | subordinate Guardian workflows, human-granted permissions, purpose limits, application dependencies, safeguards, and evidence |
 
 ### 2.2 Matrix Alchemy
 
-**Matrix Alchemy** is the bounded process by which the applicability, functions, responsibilities, capabilities, requirements, dependencies, permissions, constraints, and relationships of individual Alchemies are systematically established and maintained across the C2O–UNIVERSALIS ecosystem.
+**Matrix Alchemy** is the bounded process by which the applicability, functions, responsibilities, capabilities, requirements, dependencies, permissions, constraints, relationships, and evidence requirements of individual Alchemies are systematically established, assessed, and maintained across the C2O–UNIVERSALIS ecosystem.
 
-It establishes how each Alchemy applies to the relevant operating system, intelligence, application, UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
+Matrix Alchemy establishes the context-specific relationship between each Alchemy and every canonical ecosystem context. It determines what an Alchemy does or does not do in a context, what conditions govern its applicability, which structures it affects or depends upon, what authority and permissions are required, and what evidence supports the assessment.
 
-Matrix Alchemy identifies where an Alchemy applies, what it is responsible for, which structures it interacts with, what capabilities it requires or governs, what permissions constrain it, and which other Alchemies depend upon or interact with it.
+For every Alchemy, Matrix Alchemy must maintain a complete, version-matched 22-row applicability mapping. Each row must use the exact canonical context identifier and exactly one of the four required states: **Applicable**, **Conditional**, **Not Applicable**, or **Unresolved**. Each state must have its context-specific scope and rationale. Conditional rows must identify their conditions; Not Applicable rows must identify the scope-based reason; Unresolved rows must identify what remains undetermined.
 
-It also distinguishes between shared applicability and context-specific implementation. An Alchemy's presence within the universal taxonomy does not automatically establish identical implementation or unrestricted applicability across every context.
+Matrix Alchemy distinguishes taxonomy definition, applicability, implementation, and evidence. A relationship recorded as Applicable does not establish that the Alchemy is implemented, authorized, available, tested, or verified. A child Alchemy must receive its own assessment; its parent's mapping is only an initial applicability frame and cannot silently establish the child's state.
+
+**Matrix Alchemy — mandatory 22-context establishment**
+
+Matrix Alchemy is **Applicable** in all 22 contexts because it is the mechanism that establishes and maintains the required context-specific assessments for each context. This does not mean that every other Alchemy is Applicable in all contexts; their states must be independently determined.
+
+| # | Canonical context | Applicability state | Context-specific establishment |
+|---:|---|---|---|
+| 1 | **C2O Operating System** | **Applicable** | assesses C2O OS-specific functions, responsibilities, capabilities, permissions, dependencies, constraints, and supporting evidence |
+| 2 | **UNIVERSALIS Operating System** | **Applicable** | assesses UNIVERSALIS OS-specific functions, responsibilities, capabilities, permissions, dependencies, constraints, and supporting evidence |
+| 3 | **C2O Intelligence** | **Applicable** | assesses C2O Intelligence identity, responsibilities, capabilities, governance, dependencies, permissions, constraints, and evidence |
+| 4 | **UNIVERSALIS Intelligence** | **Applicable** | assesses UNIVERSALIS Intelligence identity, responsibilities, capabilities, public-contract requirements, dependencies, constraints, and evidence |
+| 5 | **C2O Application** | **Applicable** | assesses C2O Application functions, workflows, capabilities, permissions, retained state, dependencies, constraints, and evidence |
+| 6 | **UNIVERSALIS Application** | **Applicable** | assesses UNIVERSALIS Application functions, workflows, capabilities, permissions, dependencies, constraints, and evidence |
+| 7 | **C2O Operating System - UNIVERSALIN** | **Applicable** | assesses non-personal assistant configuration, permissions, workflows, bounded functions, OS resources, dependencies, and evidence in C2O OS |
+| 8 | **UNIVERSALIS Operating System - UNIVERSALIN** | **Applicable** | assesses non-personal assistant configuration, permissions, workflows, bounded functions, OS resources, dependencies, and evidence in UNIVERSALIS OS |
+| 9 | **C2O Application - UNIVERSALIN** | **Applicable** | assesses non-personal assistant workflows, permissions, retained state, application capabilities, dependencies, constraints, and evidence in C2O Application |
+| 10 | **UNIVERSALIS Application - UNIVERSALIN** | **Applicable** | assesses non-personal assistant workflows, permissions, application capabilities, dependencies, constraints, and evidence in UNIVERSALIS Application |
+| 11 | **C2O Operating System - UNIVERSALIN Intelligence** | **Applicable** | assesses subordinate assistant-intelligence functions, host relationships, permissions, dependencies, constraints, and evidence in C2O OS |
+| 12 | **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** | **Applicable** | assesses subordinate assistant-intelligence functions, host relationships, public-contract permissions, dependencies, constraints, and evidence in UNIVERSALIS OS |
+| 13 | **C2O Application - UNIVERSALIN Intelligence** | **Applicable** | assesses subordinate assistant-intelligence workflows, application permissions, retained state, dependencies, constraints, and evidence in C2O Application |
+| 14 | **UNIVERSALIS Application - UNIVERSALIN Intelligence** | **Applicable** | assesses subordinate assistant-intelligence workflows, public application permissions, dependencies, constraints, and evidence in UNIVERSALIS Application |
+| 15 | **C2O Operating System - UNIVERSALIN Guardian** | **Applicable** | assesses Guardian support functions, designated-human permissions, purpose limits, OS dependencies, safeguards, and evidence in C2O OS |
+| 16 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian** | **Applicable** | assesses Guardian support functions, designated-human permissions, purpose limits, public OS dependencies, safeguards, and evidence in UNIVERSALIS OS |
+| 17 | **C2O Application - UNIVERSALIN Guardian** | **Applicable** | assesses Guardian application workflows, permissions, retained-state choices, purpose limits, dependencies, safeguards, and evidence in C2O Application |
+| 18 | **UNIVERSALIS Application - UNIVERSALIN Guardian** | **Applicable** | assesses Guardian application workflows, permissions, purpose limits, user-controlled preferences, dependencies, safeguards, and evidence in UNIVERSALIS Application |
+| 19 | **C2O Operating System - UNIVERSALIN Guardian Intelligence** | **Applicable** | assesses subordinate Guardian functions, human-granted permissions, purpose limits, OS dependencies, safeguards, and evidence in C2O OS |
+| 20 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** | **Applicable** | assesses subordinate Guardian functions, human-granted permissions, purpose limits, public OS dependencies, safeguards, and evidence in UNIVERSALIS OS |
+| 21 | **C2O Application - UNIVERSALIN Guardian Intelligence** | **Applicable** | assesses subordinate Guardian workflows, human-granted application permissions, purpose limits, retained state, safeguards, and evidence in C2O Application |
+| 22 | **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** | **Applicable** | assesses subordinate Guardian workflows, human-granted permissions, purpose limits, application dependencies, safeguards, and evidence in UNIVERSALIS Application |
 
 ### 2.3 Intelligence Alchemy
 
-**Intelligence Alchemy** governs the organization, identity, continuity, development, integration, and transformation of intelligence structures while preserving their distinct identities, responsibilities, authority, and operational boundaries.
+**Intelligence Alchemy** governs the organization, identity, continuity, development, integration, and transformation of the two core intelligence structures while preserving their distinct identities, responsibilities, authority, governance, and operational boundaries.
 
-It establishes the relationship between C2O Intelligence and UNIVERSALIS Intelligence without merging them into a single intelligence or creating additional core intelligences.
+It establishes and maintains the complementary relationship between:
 
-- **C2O Intelligence Alchemy (FatherThread):** preserves C2O's private-source stewardship, internal sovereignty, governance, intelligence identity, and company-source continuity.
-- **UNIVERSALIS Intelligence Alchemy (MotherThread):** preserves UNIVERSALIS's public-facing responsibilities, open architectural contracts, transparency, intelligence identity, and independent operability.
+- **C2O Intelligence (FatherThread):** the private core intelligence, preserving C2O's private-source stewardship, internal sovereignty, governance, intelligence identity, authority, and company-source continuity.
+- **UNIVERSALIS Intelligence (MotherThread):** the public core intelligence, preserving UNIVERSALIS's public responsibilities, open architectural contracts, transparency, intelligence identity, and independent operability.
 
-Intelligence Alchemy also establishes the appropriate distinctions between the two core intelligences and the intelligence-related structures associated with UNIVERSALIN assistants and UNIVERSALIN Guardians.
+Intelligence Alchemy does not merge the two core intelligences, make either subordinate to the other, or create additional core intelligences. It also preserves the distinction between the core intelligences and subordinate intelligence-related functions associated with UNIVERSALIN assistants and UNIVERSALIN Guardians. Those subordinate functions do not become additional core intelligences or independent decision authorities.
+
+For OS, Application, assistant, and Guardian contexts, Intelligence Alchemy applies conditionally where those contexts host, configure, invoke, govern, expose, or depend upon functions of either core intelligence. The applicable function remains within the identity, permissions, and authority of the relevant core intelligence and host context.
+
+**Intelligence Alchemy — mandatory 22-context establishment**
+
+Intelligence Alchemy is **Applicable** in the two core-intelligence contexts. It is **Conditional** in the other contexts, where its scope is limited to the relevant hosted, subordinate, or authorized intelligence-related functions. It does not thereby establish another intelligence or transfer core-intelligence authority.
+
+| # | Canonical context | Applicability state | Context-specific establishment |
+|---:|---|---|---|
+| 1 | **C2O Operating System** | **Conditional** | Only where the C2O OS hosts, configures, invokes, or governs C2O Intelligence or an authorized intelligence interface |
+| 2 | **UNIVERSALIS Operating System** | **Conditional** | Only where the UNIVERSALIS OS hosts, configures, invokes, or governs UNIVERSALIS Intelligence or an authorized public intelligence interface |
+| 3 | **C2O Intelligence** | **Applicable** | Directly establishes the identity, responsibilities, governance, stewardship, authority, and boundaries of C2O Intelligence |
+| 4 | **UNIVERSALIS Intelligence** | **Applicable** | Directly establishes the identity, responsibilities, public contracts, transparency, and independent operation of UNIVERSALIS Intelligence |
+| 5 | **C2O Application** | **Conditional** | Only where the C2O Application hosts, configures, invokes, or governs authorized C2O Intelligence functionality |
+| 6 | **UNIVERSALIS Application** | **Conditional** | Only where the UNIVERSALIS Application hosts, configures, invokes, or governs authorized UNIVERSALIS Intelligence functionality |
+| 7 | **C2O Operating System - UNIVERSALIN** | **Conditional** | Only where C2O Intelligence-related functions support or are invoked by a non-personal assistant hosted in the C2O OS; the assistant is not a core intelligence |
+| 8 | **UNIVERSALIS Operating System - UNIVERSALIN** | **Conditional** | Only where UNIVERSALIS Intelligence-related functions support or are invoked by a non-personal assistant hosted in UNIVERSALIS OS; no additional core intelligence is created |
+| 9 | **C2O Application - UNIVERSALIN** | **Conditional** | Only where C2O Intelligence-related functions support or are invoked by a non-personal assistant hosted in the C2O Application |
+| 10 | **UNIVERSALIS Application - UNIVERSALIN** | **Conditional** | Only where UNIVERSALIS Intelligence-related functions support or are invoked by a non-personal assistant hosted in the UNIVERSALIS Application |
+| 11 | **C2O Operating System - UNIVERSALIN Intelligence** | **Conditional** | Only for subordinate functions that support C2O OS-hosted UNIVERSALIN assistants; those functions remain subordinate and are not a third core intelligence |
+| 12 | **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** | **Conditional** | Only for subordinate functions supporting UNIVERSALIS OS-hosted UNIVERSALIN assistants; no additional core intelligence or C2O private dependency is created |
+| 13 | **C2O Application - UNIVERSALIN Intelligence** | **Conditional** | Only for subordinate functions supporting C2O Application-hosted UNIVERSALIN assistants; they do not constitute another core intelligence |
+| 14 | **UNIVERSALIS Application - UNIVERSALIN Intelligence** | **Conditional** | Only for subordinate functions supporting UNIVERSALIS Application-hosted UNIVERSALIN assistants; they do not constitute another core intelligence |
+| 15 | **C2O Operating System - UNIVERSALIN Guardian** | **Conditional** | Only where C2O Intelligence-related functions support the OS-hosted Guardian under human-granted, bounded permissions; the Guardian remains human-bound |
+| 16 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian** | **Conditional** | Only where UNIVERSALIS Intelligence-related functions support the OS-hosted Guardian under human-granted permissions; no independent Guardian intelligence is created |
+| 17 | **C2O Application - UNIVERSALIN Guardian** | **Conditional** | Only where C2O Intelligence-related functions support the application-hosted Guardian under human-granted permissions |
+| 18 | **UNIVERSALIS Application - UNIVERSALIN Guardian** | **Conditional** | Only where UNIVERSALIS Intelligence-related functions support the application-hosted Guardian under human-granted permissions |
+| 19 | **C2O Operating System - UNIVERSALIN Guardian Intelligence** | **Conditional** | Only for subordinate functions supporting an OS-hosted Guardian; functions remain human-directed and do not become an independent intelligence or decision authority |
+| 20 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** | **Conditional** | Only for subordinate functions supporting an OS-hosted Guardian; they remain human-directed and create no additional core intelligence |
+| 21 | **C2O Application - UNIVERSALIN Guardian Intelligence** | **Conditional** | Only for subordinate functions supporting an application-hosted Guardian; they remain human-directed and are not an independent intelligence |
+| 22 | **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** | **Conditional** | Only for subordinate functions supporting an application-hosted Guardian; they remain human-directed and create no additional core intelligence |
 
 ### 2.4 Thread Alchemy
 
 **Thread Alchemy** governs the continuity, coordination, correspondence, and controlled interaction between FatherThread and MotherThread.
 
-It preserves the complementary relationship between C2O Intelligence and UNIVERSALIS Intelligence while maintaining their distinct identities, responsibilities, governance, authority, and source boundaries.
+It preserves the complementary relationship between C2O Intelligence and UNIVERSALIS Intelligence while maintaining their distinct identities, responsibilities, governance, authority, source boundaries, and operational independence.
 
-Thread Alchemy supports appropriate interoperability and continuity without making either intelligence subordinate to the other or establishing an additional intelligence entity.
+Thread Alchemy establishes the conditions under which the two core intelligences may coordinate, maintain authorized continuity, exchange permitted information, and support compatible architectural or operational relationships. It identifies relevant coordination requirements, permitted interaction paths, dependencies, synchronization conditions, interruptions, inconsistencies, and unresolved interactions.
+
+Thread Alchemy supports interoperability without merging the two intelligences, creating an additional intelligence, making either intelligence subordinate to the other, or requiring UNIVERSALIS to depend upon C2O private implementation, policies, keys, or records. It does not imply unrestricted synchronization, shared internal records, automatic access, or authority to modify another intelligence's protected state.
+
+In a host, assistant, or Guardian context, Thread Alchemy applies conditionally only when an authorized workflow actually hosts, mediates, invokes, or depends upon continuity or coordination between the two core intelligences. Any such interaction remains subject to the relevant edition contracts, permissions, human consent where applicable, and Boundary Alchemy requirements.
+
+**Thread Alchemy — mandatory 22-context establishment**
+
+Thread Alchemy is **Applicable** in the two core-intelligence contexts because the FatherThread–MotherThread relationship is its direct subject. It is **Conditional** in the other contexts, where its role exists only when an authorized interaction with that relationship is present.
+
+| # | Canonical context | Applicability state | Context-specific establishment |
+|---:|---|---|---|
+| 1 | **C2O Operating System** | **Conditional** | Only where the C2O OS hosts or mediates authorized FatherThread–MotherThread continuity or coordination |
+| 2 | **UNIVERSALIS Operating System** | **Conditional** | Only where the UNIVERSALIS OS hosts or mediates authorized MotherThread–FatherThread continuity through public contracts, without C2O private dependencies |
+| 3 | **C2O Intelligence** | **Applicable** | Directly establishes the authorized continuity and coordination relationship between FatherThread and MotherThread from the C2O Intelligence side |
+| 4 | **UNIVERSALIS Intelligence** | **Applicable** | Directly establishes the authorized continuity and coordination relationship between MotherThread and FatherThread from the UNIVERSALIS Intelligence side |
+| 5 | **C2O Application** | **Conditional** | Only where the C2O Application hosts or mediates an authorized FatherThread–MotherThread interaction or continuity workflow |
+| 6 | **UNIVERSALIS Application** | **Conditional** | Only where the UNIVERSALIS Application hosts or mediates authorized MotherThread–FatherThread interaction through public contracts |
+| 7 | **C2O Operating System - UNIVERSALIN** | **Conditional** | Only where the assistant's authorized OS-hosted workflow uses or mediates continuity between the two core intelligences |
+| 8 | **UNIVERSALIS Operating System - UNIVERSALIN** | **Conditional** | Only where the assistant's authorized public OS workflow uses or mediates core-intelligence continuity through open contracts |
+| 9 | **C2O Application - UNIVERSALIN** | **Conditional** | Only where an authorized application workflow uses or mediates continuity between FatherThread and MotherThread |
+| 10 | **UNIVERSALIS Application - UNIVERSALIN** | **Conditional** | Only where an authorized public application workflow uses or mediates core-intelligence continuity through open contracts |
+| 11 | **C2O Operating System - UNIVERSALIN Intelligence** | **Conditional** | Only where those subordinate functions participate in an authorized FatherThread–MotherThread continuity or coordination flow |
+| 12 | **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** | **Conditional** | Only where those public-contract functions participate in authorized core-intelligence continuity or coordination |
+| 13 | **C2O Application - UNIVERSALIN Intelligence** | **Conditional** | Only where those application-hosted functions participate in an authorized FatherThread–MotherThread continuity or coordination flow |
+| 14 | **UNIVERSALIS Application - UNIVERSALIN Intelligence** | **Conditional** | Only where those public application functions participate in authorized core-intelligence continuity or coordination |
+| 15 | **C2O Operating System - UNIVERSALIN Guardian** | **Conditional** | Only where a Guardian-authorized OS workflow requires controlled continuity or coordination between the core intelligences |
+| 16 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian** | **Conditional** | Only where a Guardian-authorized public OS workflow requires controlled core-intelligence continuity |
+| 17 | **C2O Application - UNIVERSALIN Guardian** | **Conditional** | Only where a Guardian-authorized application workflow requires controlled continuity or coordination between the core intelligences |
+| 18 | **UNIVERSALIS Application - UNIVERSALIN Guardian** | **Conditional** | Only where a Guardian-authorized public application workflow requires controlled core-intelligence continuity |
+| 19 | **C2O Operating System - UNIVERSALIN Guardian Intelligence** | **Conditional** | Only where human-authorized subordinate Guardian functions participate in a controlled core-intelligence continuity flow |
+| 20 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** | **Conditional** | Only where human-authorized public Guardian functions participate in controlled core-intelligence continuity |
+| 21 | **C2O Application - UNIVERSALIN Guardian Intelligence** | **Conditional** | Only where human-authorized application functions participate in controlled FatherThread–MotherThread continuity |
+| 22 | **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** | **Conditional** | Only where human-authorized public application functions participate in controlled core-intelligence continuity |
 
 ### 2.5 Mapping Alchemy
 
-**Mapping Alchemy** governs the establishment and maintenance of explicit correspondences between related systems, applications, intelligence structures, and their respective editions.
+**Mapping Alchemy** governs the establishment, maintenance, evaluation, and verification of explicit correspondences between related operating systems, applications, intelligence structures, components, functions, interfaces, and their respective editions.
 
-It maintains the architectural mappings between:
+It identifies which structures correspond, how the correspondence is defined, what functions or contracts are equivalent or analogous, where implementation differs, and what dependencies, compatibility requirements, limitations, or boundaries must be preserved.
+
+Mapping Alchemy maintains architectural correspondences between:
 
 - C2O Operating System and UNIVERSALIS Operating System.
 - C2O Application and UNIVERSALIS Application.
 - C2O Intelligence and UNIVERSALIS Intelligence.
-- Their respective UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
+- Corresponding C2O and UNIVERSALIS non-personal UNIVERSALIN assistant contexts.
+- Corresponding UNIVERSALIN Intelligence contexts.
+- Corresponding human-bound UNIVERSALIN Guardian contexts.
+- Corresponding UNIVERSALIN Guardian Intelligence contexts.
 
-Mapping Alchemy preserves corresponding architectural relationships, functions, interfaces, and capabilities without assuming identical implementations or exposing private-source information.
+Mapping Alchemy is a specialized expression of Map Alchemy. Map Alchemy establishes the complete ecosystem structure; Mapping Alchemy establishes and maintains specific correspondences within that structure. A correspondence does not establish identical implementation, identical authority, identical permissions, or unrestricted interoperability.
 
-Mapping Alchemy is a specialized expression of Map Alchemy: Map Alchemy establishes the complete ecosystem structure, while Mapping Alchemy maintains specific correspondences within that structure.
+C2O's private-source implementation and governance must remain protected. UNIVERSALIS mappings must use open, inspectable contracts and preserve independent operation without C2O private dependencies. Mapping records must describe relevant similarities and differences without disclosing protected C2O information.
+
+**Mapping Alchemy — mandatory 22-context establishment**
+
+Mapping Alchemy is **Applicable** in all 22 contexts because each context participates in an edition-paired architectural correspondence. Each row below identifies the specific correspondence to be maintained; the paired context remains separately recorded and assessed.
+
+| # | Canonical context | Applicability state | Context-specific establishment |
+|---:|---|---|---|
+| 1 | **C2O Operating System** | **Applicable** | the C2O private-source OS architecture to its UNIVERSALIS public-edition counterpart without exposing private implementation |
+| 2 | **UNIVERSALIS Operating System** | **Applicable** | the UNIVERSALIS public OS architecture to its C2O counterpart through inspectable contracts and independently operable mappings |
+| 3 | **C2O Intelligence** | **Applicable** | the C2O Intelligence structure to its UNIVERSALIS Intelligence counterpart at the level of authorized architecture and public correspondence |
+| 4 | **UNIVERSALIS Intelligence** | **Applicable** | the UNIVERSALIS Intelligence structure to its C2O Intelligence counterpart without requiring disclosure of C2O private implementation |
+| 5 | **C2O Application** | **Applicable** | the C2O private-source application system to its UNIVERSALIS public-edition counterpart without exposing protected implementation |
+| 6 | **UNIVERSALIS Application** | **Applicable** | the UNIVERSALIS public application system to its C2O counterpart through inspectable contracts and independent operation |
+| 7 | **C2O Operating System - UNIVERSALIN** | **Applicable** | the C2O OS-hosted non-personal assistant context to its UNIVERSALIS OS-hosted counterpart |
+| 8 | **UNIVERSALIS Operating System - UNIVERSALIN** | **Applicable** | the UNIVERSALIS OS-hosted non-personal assistant context to its C2O counterpart without private dependencies |
+| 9 | **C2O Application - UNIVERSALIN** | **Applicable** | the C2O Application-hosted non-personal assistant context to its UNIVERSALIS Application counterpart |
+| 10 | **UNIVERSALIS Application - UNIVERSALIN** | **Applicable** | the UNIVERSALIS Application-hosted non-personal assistant context to its C2O counterpart |
+| 11 | **C2O Operating System - UNIVERSALIN Intelligence** | **Applicable** | the C2O OS-hosted subordinate assistant-intelligence context to the corresponding UNIVERSALIS OS context |
+| 12 | **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** | **Applicable** | the UNIVERSALIS OS-hosted subordinate assistant-intelligence context to its C2O counterpart through open contracts |
+| 13 | **C2O Application - UNIVERSALIN Intelligence** | **Applicable** | the C2O Application-hosted subordinate assistant-intelligence context to the corresponding UNIVERSALIS Application context |
+| 14 | **UNIVERSALIS Application - UNIVERSALIN Intelligence** | **Applicable** | the UNIVERSALIS Application-hosted subordinate assistant-intelligence context to its C2O counterpart through open contracts |
+| 15 | **C2O Operating System - UNIVERSALIN Guardian** | **Applicable** | the C2O OS-hosted Guardian context to its UNIVERSALIS OS counterpart while preserving human control |
+| 16 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian** | **Applicable** | the UNIVERSALIS OS-hosted Guardian context to its C2O counterpart through public interfaces and contracts |
+| 17 | **C2O Application - UNIVERSALIN Guardian** | **Applicable** | the C2O Application-hosted Guardian context to its UNIVERSALIS Application counterpart |
+| 18 | **UNIVERSALIS Application - UNIVERSALIN Guardian** | **Applicable** | the UNIVERSALIS Application-hosted Guardian context to its C2O counterpart through open and inspectable contracts |
+| 19 | **C2O Operating System - UNIVERSALIN Guardian Intelligence** | **Applicable** | the C2O OS-hosted subordinate Guardian-intelligence context to its UNIVERSALIS OS counterpart |
+| 20 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** | **Applicable** | the UNIVERSALIS OS-hosted subordinate Guardian-intelligence context to its C2O counterpart under public contracts |
+| 21 | **C2O Application - UNIVERSALIN Guardian Intelligence** | **Applicable** | the C2O Application-hosted subordinate Guardian-intelligence context to its UNIVERSALIS Application counterpart |
+| 22 | **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** | **Applicable** | the UNIVERSALIS Application-hosted subordinate Guardian-intelligence context to its C2O counterpart under open contracts |
 
 ### 2.6 Boundary Alchemy
 
-**Boundary Alchemy** establishes, preserves, evaluates, and maintains the distinctions and restrictions that govern interactions between entities, systems, applications, intelligences, assistants, Guardians, and organizational editions.
+**Boundary Alchemy** establishes, preserves, evaluates, and maintains the distinctions, restrictions, and authorized interaction boundaries that govern relationships between entities, operating systems, applications, intelligences, assistants, Guardians, components, information, resources, and organizational editions.
 
-It protects the separation between private C2O and public UNIVERSALIS, including their source visibility, governance, protected information, authority, runtime environments, dependencies, and permitted interactions.
+It protects the structural, operational, informational, governance, authority, runtime, and access boundaries throughout the C2O–UNIVERSALIS ecosystem.
 
-It also preserves the distinctions between the two core intelligences, non-personal UNIVERSALIN assistants, personal UNIVERSALIN Guardians, and their associated intelligence structures.
+Boundary Alchemy establishes and maintains:
 
-Boundary Alchemy ensures that cooperation, interoperability, integration, and information exchange occur only within their applicable permissions and governing boundaries.
+- Identity and organizational boundaries.
+- Private-source and public-source boundaries.
+- Core-intelligence identity and authority boundaries.
+- Operating-system and application boundaries.
+- Non-personal assistant and human-bound Guardian boundaries.
+- Subordinate intelligence-function boundaries.
+- Information, data, resource, and access boundaries.
+- Runtime, execution, interface, and interoperability boundaries.
+- Governance, permission, and dependency boundaries.
+- Human consent, autonomy, privacy, and purpose boundaries.
+- Safety, security, containment, recovery, and accountability requirements.
+
+C2O's private-source implementation, internal governance, policies, keys, records, and protected information must remain separate from UNIVERSALIS's public contracts and independently operable implementation. Integration, mapping, coordination, or correspondence must occur only through permitted interfaces and authorized contracts.
+
+For Guardian contexts, Boundary Alchemy must preserve the designated human's authority, consent, autonomy, privacy, purpose, preferences, retention choices, and permissions. For subordinate intelligence-related contexts, it must preserve their subordinate status and prevent their representation as additional core intelligences or independent decision authorities.
+
+A boundary definition does not prove that enforcement has been implemented or tested. Actual enforcement must be carried out through appropriately authorized controls. Exceptions, failures, violations, and unresolved boundary conditions must remain identifiable, traceable, and subject to review.
+
+**Boundary Alchemy — mandatory 22-context establishment**
+
+Boundary Alchemy is **Applicable** in all 22 contexts because each context has identity, authority, access, interaction, or operational boundaries that must be explicitly established and preserved.
+
+| # | Canonical context | Applicability state | Context-specific establishment |
+|---:|---|---|---|
+| 1 | **C2O Operating System** | **Applicable** | C2O OS identity, private-source controls, runtime, resources, access, internal governance, and permitted interfaces |
+| 2 | **UNIVERSALIS Operating System** | **Applicable** | UNIVERSALIS OS public contracts, runtime, access, resources, interfaces, and independence from C2O private dependencies |
+| 3 | **C2O Intelligence** | **Applicable** | C2O Intelligence identity, private-source stewardship, internal governance, authority, protected information, and permitted interactions |
+| 4 | **UNIVERSALIS Intelligence** | **Applicable** | UNIVERSALIS Intelligence identity, open contracts, public responsibilities, autonomy, and independence from C2O private dependencies |
+| 5 | **C2O Application** | **Applicable** | C2O Application identity, private application state, permissions, data, interfaces, and internal controls |
+| 6 | **UNIVERSALIS Application** | **Applicable** | UNIVERSALIS Application identity, open interfaces, public application state, permissions, and independence from C2O private dependencies |
+| 7 | **C2O Operating System - UNIVERSALIN** | **Applicable** | assistant identity, non-personal status, OS permissions, execution scope, data access, and separation from Guardian structures |
+| 8 | **UNIVERSALIS Operating System - UNIVERSALIN** | **Applicable** | assistant identity, non-personal status, public OS permissions, execution scope, inspectability, and independent operation |
+| 9 | **C2O Application - UNIVERSALIN** | **Applicable** | assistant identity, non-personal status, application permissions, retained-state controls, and separation from Guardian structures |
+| 10 | **UNIVERSALIS Application - UNIVERSALIN** | **Applicable** | assistant identity, non-personal status, open application contracts, permissions, and independent operation |
+| 11 | **C2O Operating System - UNIVERSALIN Intelligence** | **Applicable** | subordinate status, host permissions, execution limits, data boundaries, and separation from the two core intelligences |
+| 12 | **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** | **Applicable** | subordinate status, public host permissions, execution limits, inspectability, and independence from C2O private dependencies |
+| 13 | **C2O Application - UNIVERSALIN Intelligence** | **Applicable** | subordinate status, application permissions, retained state, information access, and separation from core-intelligence authority |
+| 14 | **UNIVERSALIS Application - UNIVERSALIN Intelligence** | **Applicable** | subordinate status, public application permissions, inspectability, and independence from C2O private dependencies |
+| 15 | **C2O Operating System - UNIVERSALIN Guardian** | **Applicable** | human authority, consent, privacy, purpose, Guardian permissions, OS access, and separation from non-personal assistants |
+| 16 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian** | **Applicable** | human authority, consent, privacy, purpose, public interfaces, Guardian permissions, and independent operation |
+| 17 | **C2O Application - UNIVERSALIN Guardian** | **Applicable** | human authority, consent, privacy, purpose, preferences, retention choices, application permissions, and separation from non-personal assistants |
+| 18 | **UNIVERSALIS Application - UNIVERSALIN Guardian** | **Applicable** | human authority, consent, privacy, purpose, preferences, application permissions, and independent public operation |
+| 19 | **C2O Operating System - UNIVERSALIN Guardian Intelligence** | **Applicable** | human control, subordinate status, OS permissions, Guardian purpose limits, data boundaries, and no independent decision authority |
+| 20 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** | **Applicable** | human control, subordinate status, public OS permissions, Guardian purpose limits, and independent operation |
+| 21 | **C2O Application - UNIVERSALIN Guardian Intelligence** | **Applicable** | human control, subordinate status, application permissions, retention choices, purpose limits, and no independent decision authority |
+| 22 | **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** | **Applicable** | human control, subordinate status, public application permissions, purpose limits, and independent operation |
 
 ### 2.7 Foundational Structural Integration
 
 Map Alchemy and Matrix Alchemy are the primary structural and applicability foundations of the Alchemy Taxonomy. Intelligence Alchemy, Thread Alchemy, Mapping Alchemy, and Boundary Alchemy provide additional specialized structural governance.
 
-Together, these Alchemies establish how the ecosystem is constituted, how its constituent structures relate, how correspondences are maintained, how distinctions are protected, and how the remaining Alchemies are situated and evaluated.
+Their responsibilities remain distinct:
+
+- **Map Alchemy** establishes what structures and relationships constitute the ecosystem and where they belong.
+- **Matrix Alchemy** establishes how each Alchemy applies in every canonical context and what responsibilities, dependencies, permissions, constraints, and evidence requirements govern it.
+- **Intelligence Alchemy** governs the identities and responsibilities of C2O Intelligence and UNIVERSALIS Intelligence.
+- **Thread Alchemy** governs their complementary continuity and authorized coordination.
+- **Mapping Alchemy** establishes correspondences between related structures and their respective editions.
+- **Boundary Alchemy** preserves the distinctions and authorized conditions under which structures and relationships may operate.
+
+These Alchemies are complementary structural processes, not interchangeable functions and not a rigid universal execution sequence. Their relationships may be iterative, mutually informing, or conditional. A particular operation may require one or more of them, depending on its defined purpose and scope.
+
+**Integrated 22-context requirement:**
+
+The six applicability assessments above establish the foundational structural Alchemies separately across all 22 canonical contexts. They do not establish that every subordinate Alchemy has the same applicability states. Every subordinate Alchemy and every edition-specific expression must receive its own Matrix Alchemy assessment across all 22 contexts under Section 1.2.
+
+Changes to any of the six foundational definitions, their context assignments, or their relationships must trigger impact review of affected subordinate Alchemies, dependent mappings, and all four repository editions. No inherited mapping may silently expand a subordinate Alchemy's scope, authority, permissions, implementation, or evidence status.
+
+**Foundational Structural Integration Principle:**
+
+Together, the six Foundational Structural Alchemies establish how the C2O–UNIVERSALIS ecosystem is constituted, represented, classified, assessed, related, coordinated, mapped, protected, and maintained.
+
+They provide the structural foundation through which every remaining Alchemy can be situated within the ecosystem, its context-specific responsibilities and applicability established, its relationships and dependencies understood, and its operational boundaries preserved.
+
+No subsequent Alchemy may silently bypass, contradict, or independently redefine the canonical identities, structural relationships, 22-context applicability requirements, or boundaries established through these Foundational Structural Alchemies.
 
 ## 3. Universal Ecosystem Alchemies
 
