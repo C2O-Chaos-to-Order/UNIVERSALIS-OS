@@ -2357,51 +2357,219 @@ All applications must remain consistent with linguistic principles, semantic acc
 
 ### 12. Arts and Creative Expression Alchemy
 
-**Arts and Creative Expression Alchemy** is the bounded process that organizes, develops, creates, interprets, performs, preserves, and transforms artistic and creative expression through visual, physical, auditory, literary, spatial, dramatic, cinematic, interactive, and other expressive forms. It enables individuals and societies to communicate ideas, experiences, emotions, perspectives, imagination, and cultural meaning through creative works while maintaining artistic integrity, expressive coherence, technical quality, originality, and respect for creative intent.
+**Arts and Creative Expression Alchemy** is the bounded process by which artistic and creative expression is identified, classified, organized, imagined, designed, developed, created, interpreted, performed, presented, experienced, preserved, and transformed through visual, physical, auditory, literary, spatial, dramatic, cinematic, interactive, and other expressive forms.
 
-It encompasses the conceptual, aesthetic, technical, practical, and cultural disciplines through which creative works are imagined, designed, produced, performed, experienced, interpreted, and preserved. Every specialized Arts and Creative Expression Alchemy remains an expression of the root Alchemy.
+It governs the conceptual, aesthetic, technical, practical, and cultural structures, methods, relationships, and processes through which creative works are conceived, developed, produced, performed, presented, experienced, interpreted, and preserved. It enables individuals, groups, institutions, and creative systems to communicate ideas, experiences, emotions, perspectives, imagination, and cultural meaning through creative works while maintaining artistic integrity, expressive coherence, technical quality, originality, and respect for creative intent.
 
-#### 1. Visual and Plastic Arts Alchemies
+Arts and Creative Expression Alchemy encompasses the disciplines through which artistic forms, materials, techniques, compositions, performances, designed objects, built environments, narratives, moving images, interactive experiences, and other creative expressions are developed and experienced. It establishes a structured foundation for creative conception, artistic production, aesthetic composition, interpretation, multidisciplinary integration, and preservation while maintaining the distinctions between artistic disciplines, creative methods, technical processes, expressive purposes, and individual works.
 
-- **Visual Arts Alchemy** — organizes the creation, study, presentation, interpretation, and preservation of artistic works primarily experienced through visual perception, including their forms, compositions, materials, techniques, and aesthetic principles.
-- **Drawing Alchemy** — organizes the creation of images and representations through lines, marks, shapes, shading, and other drawing techniques to communicate forms, concepts, observations, and imagination.
-- **Painting Alchemy** — organizes artistic expression through pigments, colors, surfaces, compositions, and painting techniques to create visual works and convey aesthetic, conceptual, and expressive meaning.
-- **Sculpture Alchemy** — organizes the creation of three-dimensional artistic forms through modeling, carving, construction, casting, assembling, and manipulation of materials and spatial relationships.
-- **Photography Alchemy** — organizes the creation, capture, composition, processing, interpretation, and presentation of photographic images through optical, chemical, digital, and other imaging methods.
+Arts and Creative Expression Alchemy must preserve the identity, provenance, context, integrity, and relevant creative intent of works throughout their development, production, adaptation, interpretation, presentation, distribution, and preservation. Original works, drafts, studies, references, source materials, reproductions, remixes, adaptations, restorations, derivative works, collaborative contributions, and generated content must remain distinguishable wherever relevant. Their creators, contributors, sources, materials, methods, production processes, versions, modifications, contextual information, and applicable permissions must be represented accurately.
 
-#### 2. Spatial and Applied Design Alchemies
+It must preserve the distinction between a creator's stated intent, the characteristics of a completed work, an interpreter's understanding, an audience's experience, and subsequent critical or cultural interpretations. Interpretation must not be represented as definitive creator intent without appropriate supporting evidence. Adaptation, restoration, reproduction, or transformation must not be presented as an unchanged original when material alterations have occurred.
 
-- **Architecture Alchemy** — organizes the conceptualization, design, composition, and expression of built environments and spatial structures while integrating aesthetics, human experience, function, cultural context, and technical constraints.
-- **Design Alchemy** — organizes the creative development and refinement of forms, systems, experiences, and visual or functional solutions in response to defined purposes, needs, and constraints.
-- **Industrial Design Alchemy** — organizes the conceptualization and development of manufactured products, objects, and physical interfaces by integrating form, function, usability, ergonomics, materials, production requirements, and aesthetic expression.
+Arts and Creative Expression Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support interfaces, visual and auditory presentation, human-computer interaction, creative tools, design processes, simulations, visualization, multimedia experiences, interactive environments, documentation, personal creative assistance, and other authorized artistic and expressive activities relevant to each context.
 
-#### 3. Performing Arts Alchemies
+Its universal application does not mean that every context creates art, possesses an independent artistic identity, claims authorship, represents a creator or cultural community, or has authority to reproduce, modify, publish, or distribute creative works. The presence of artistic and creative knowledge establishes its classification and possible relevance, not automatic permission to use protected material, reproduce another creator's work, represent another person or community, or publish creative output.
 
-- **Music Alchemy** — organizes the creation, composition, arrangement, performance, interpretation, and production of musical expression through sound, rhythm, melody, harmony, instrumentation, and other musical structures.
-- **Dance Alchemy** — organizes artistic expression through movement, choreography, rhythm, physical coordination, gesture, spatial relationships, and embodied performance.
-- **Theater Alchemy** — organizes dramatic and theatrical expression through performance, acting, direction, scripts, staging, scenery, costume, movement, and audience experience.
+Every specialized Arts and Creative Expression Alchemy remains an expression of the root Alchemy. Its subject, purpose, methods, principles, relationships, requirements, and boundaries must remain identifiable while allowing specialized visual, spatial, applied, performing, cinematic, literary, animated, interactive, and cross-disciplinary creative methods to integrate into larger creative systems.
 
-#### 4. Cinematic, Literary, and Animated Arts Alchemies
+#### 12.1 Universal Application of Arts and Creative Expression Alchemy
 
-- **Film Alchemy** — organizes the conception, production, direction, cinematography, editing, sound, presentation, and interpretation of moving-image works through cinematic storytelling and audiovisual expression.
-- **Creative Writing Alchemy** — organizes the creation and refinement of original written expression, including imaginative, expressive, descriptive, narrative, poetic, and experimental forms.
-- **Animation Alchemy** — organizes the creation of the illusion of movement through sequential images, drawings, models, digital objects, simulated environments, and other frame-based or computational techniques.
+Arts and Creative Expression Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-#### 5. Interactive and Playable Creative Alchemies
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-- **Game Design Alchemy** — organizes the conception and design of interactive experiences through rules, objectives, mechanics, systems, narrative structures, player agency, challenges, feedback, and experiential progression.
+Within these contexts, Arts and Creative Expression Alchemy governs the appropriate organization, representation, development, production, interpretation, presentation, accessibility, preservation, and application of artistic and creative knowledge.
 
-#### 6. Cross-Disciplinary Arts and Creative Expression Relationships
+Its context-specific expressions include:
 
-These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+- **Operating System Contexts:** Arts and creative expression knowledge may support operating system visual presentation, interface composition, themes, icons, typography, sound design, animation, visualization, accessibility, and other expressive elements of system interaction. Its application must preserve visual and auditory coherence, usability, accessibility, consistency, technical constraints, and the distinction between interface design and the underlying operating system functions. Creative presentation must not obscure system behavior, misrepresent system status, or compromise human control and understanding.
 
-- **Creative Integration Alchemy** — coordinates multiple artistic disciplines, techniques, materials, and expressive forms into coherent multidisciplinary creative works.
-- **Aesthetic Composition Alchemy** — organizes the relationships among form, color, sound, rhythm, proportion, texture, space, movement, and other aesthetic elements within creative works.
-- **Creative Production Alchemy** — coordinates the resources, tools, techniques, workflows, collaboration, and practical processes required to develop and produce creative works.
-- **Artistic Interpretation Alchemy** — organizes the interpretation, contextual understanding, presentation, and appreciation of artistic works while preserving their expressive and cultural distinctions.
-- **Multimedia Expression Alchemy** — integrates visual, auditory, textual, spatial, cinematic, and interactive media into coordinated expressive experiences.
-- **Creative Preservation Alchemy** — organizes the documentation, conservation, restoration, archiving, and continued accessibility of creative works, artistic techniques, and cultural expressions.
-- **Human Experience and Expression Alchemy** — coordinates artistic methods and expressive forms through which human experience, imagination, emotion, identity, and perspective can be explored and communicated.
+- **Core Intelligence Contexts:** Arts and creative expression knowledge may support creative reasoning, conceptual development, aesthetic analysis, composition, visual and auditory interpretation, narrative development, design exploration, and the creation or transformation of artistic material. C2O Intelligence and UNIVERSALIS Intelligence must apply these capabilities within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities. Creative outputs must preserve the distinction between source material, references, human contributions, generated content, interpretations, and independently established information.
+
+- **Application Contexts:** Arts and creative expression knowledge may support creative software, drawing and painting tools, image and media processing, three-dimensional modeling, design environments, music and performance tools, animation, film production, writing environments, game design, and other creative workflows. Applications must preserve the integrity, provenance, version history, source materials, contributor information, and applicable permissions associated with creative works. Their ability to create, process, reproduce, or distribute creative material does not automatically grant permission to use, modify, or publish it.
+
+- **UNIVERSALIN Assistant Contexts:** Arts and creative expression knowledge may support authorized creative assistance, brainstorming, research, design exploration, composition, editing, visualization, production planning, media organization, and other assigned creative functions within operating system and application boundaries. Assistants must distinguish between human-authored work, assistant contributions, source references, generated material, and collaborative output. They must preserve the human's creative intent, decisions, ownership interests, attribution requirements, and authority over the resulting work. They must not presume permission to reproduce protected works, claim authorship for another person, or publish or distribute creative material without applicable authorization.
+
+- **UNIVERSALIN Intelligence Contexts:** Arts and creative expression knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through creative analysis, aesthetic interpretation, visual and auditory processing, composition, design reasoning, narrative development, and other authorized creative functions. These contexts do not constitute additional core intelligences or establish independent authority to claim authorship, represent creators or cultural communities, reproduce protected works, or distribute creative material.
+
+- **UNIVERSALIN Guardian Contexts:** Arts and creative expression knowledge may support the authorized personal, expressive, organizational, and creative assistance capabilities of human-bound Guardians. Its application may support personal creative projects, artistic exploration, design assistance, documentation, media organization, preservation of personal works, and human-directed creative activities. Guardians must preserve the human's creative intent, identity, voice, choices, privacy, consent, and authority over personal works. They must not independently claim authorship, modify or distribute personal creative material beyond the authorized scope, or represent the human's creative decisions without permission.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Arts and creative expression knowledge may support aesthetic reasoning, artistic interpretation, creative analysis, composition assistance, design exploration, and other human-directed creative capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human's creative identity, original works, artistic decisions, ownership interests, or public representation. The human retains authority over personal creative intent, expression, approval, and authorized Guardian activities.
+
+The specific applicability of each visual, spatial, applied, performing, cinematic, literary, animated, interactive, and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
+
+#### Alchemies under Arts and Creative Expression Alchemy
+
+##### 1. Visual and Plastic Arts Alchemies
+
+- **Visual Arts Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the creation, study, presentation, interpretation, and preservation of artistic works primarily experienced through visual perception, including their forms, compositions, materials, techniques, and aesthetic principles. It establishes methods for examining and developing visual expression across artistic media while preserving the distinctions between visual concepts, representational methods, materials, technical processes, and completed works.
+
+- **Drawing Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the creation of images and representations through lines, marks, shapes, shading, and other drawing techniques to communicate forms, concepts, observations, and imagination. It establishes methods for developing and representing drawing structures, techniques, materials, proportions, and visual relationships while preserving the distinction between preparatory studies, sketches, illustrations, technical drawings, and finished artistic works.
+
+- **Painting Alchemy** — organizes, examines, maintains, integrates, develops, and transforms artistic expression through pigments, colors, surfaces, compositions, and painting techniques to create visual works and convey aesthetic, conceptual, and expressive meaning. It establishes methods for examining and developing color relationships, application techniques, surface characteristics, composition, materials, and visual effects while preserving the distinctions between painting methods, material properties, artistic intent, and finished works.
+
+- **Sculpture Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the creation of three-dimensional artistic forms through modeling, carving, construction, casting, assembling, and manipulation of materials and spatial relationships. It establishes methods for developing sculptural form, volume, proportion, texture, material relationships, structural expression, and spatial presentation while preserving the distinctions between artistic conception, physical construction, material behavior, and completed sculptural works.
+
+- **Photography Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the creation, capture, composition, processing, interpretation, and presentation of photographic images through optical, chemical, digital, and other imaging methods. It establishes methods for examining imaging processes, photographic composition, exposure, lighting, processing, editing, presentation, and image provenance while preserving the distinctions between documentary photography, staged imagery, artistic photography, manipulated images, and other photographic forms.
+
+##### 2. Spatial and Applied Design Alchemies
+
+- **Architecture Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the conceptualization, design, composition, and expression of built environments and spatial structures while integrating aesthetics, human experience, function, cultural context, and technical constraints. It establishes methods for developing and interpreting architectural form, spatial organization, material expression, environmental relationships, and human experience while preserving the distinctions between architectural conception, artistic expression, technical design, construction, and the practical requirements of built environments.
+
+- **Design Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the creative development and refinement of forms, systems, experiences, and visual or functional solutions in response to defined purposes, needs, and constraints. It establishes methods for identifying design requirements, developing concepts, evaluating alternatives, refining compositions, and coordinating aesthetic and functional relationships while preserving the distinction between design intent, proposed solutions, implemented designs, and evaluated outcomes.
+
+- **Industrial Design Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the conceptualization and development of manufactured products, objects, and physical interfaces by integrating form, function, usability, ergonomics, materials, production requirements, and aesthetic expression. It establishes methods for developing product concepts, physical forms, user interactions, material selection, ergonomic relationships, and production-aware designs while preserving the distinctions between industrial design, engineering specifications, manufacturing processes, and finished products.
+
+##### 3. Performing Arts Alchemies
+
+- **Music Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the creation, composition, arrangement, performance, interpretation, and production of musical expression through sound, rhythm, melody, harmony, instrumentation, and other musical structures. It establishes methods for developing and examining musical forms, compositional relationships, performance techniques, instrumentation, sound characteristics, and musical presentation while preserving the distinctions between composition, arrangement, interpretation, performance, recording, and production.
+
+- **Dance Alchemy** — organizes, examines, maintains, integrates, develops, and transforms artistic expression through movement, choreography, rhythm, physical coordination, gesture, spatial relationships, and embodied performance. It establishes methods for developing and examining movement structures, choreographic composition, timing, physical expression, spatial organization, and performance relationships while preserving the distinctions between movement techniques, choreographic intent, individual performance, and collective expression.
+
+- **Theater Alchemy** — organizes, examines, maintains, integrates, develops, and transforms dramatic and theatrical expression through performance, acting, direction, scripts, staging, scenery, costume, movement, and audience experience. It establishes methods for developing and coordinating dramatic structures, stage composition, performance interpretation, theatrical production, and presentation while preserving the distinctions between dramatic writing, acting, directing, stagecraft, production, and live or recorded performance.
+
+##### 4. Cinematic, Literary, and Animated Arts Alchemies
+
+- **Film Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the conception, production, direction, cinematography, editing, sound, presentation, and interpretation of moving-image works through cinematic storytelling and audiovisual expression. It establishes methods for coordinating visual sequences, cinematographic techniques, sound, editing, narrative structure, production processes, and presentation while preserving the distinctions between original footage, staged material, edited sequences, visual effects, documentary representation, and completed film works.
+
+- **Creative Writing Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the creation and refinement of original written expression, including imaginative, expressive, descriptive, narrative, poetic, and experimental forms. It establishes methods for developing written concepts, language, structure, style, voice, imagery, and literary composition while preserving the distinctions between original writing, source material, quotation, adaptation, collaborative contribution, and editorial modification.
+
+- **Animation Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the creation of the illusion of movement through sequential images, drawings, models, digital objects, simulated environments, and other frame-based or computational techniques. It establishes methods for coordinating motion, timing, visual continuity, character and object movement, frame composition, rendering, and presentation while preserving the distinctions between hand-created frames, keyframes, procedural techniques, simulations, digital assets, and completed animated works.
+
+##### 5. Interactive and Playable Creative Alchemies
+
+- **Game Design Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the conception and design of interactive experiences through rules, objectives, mechanics, systems, narrative structures, player agency, challenges, feedback, and experiential progression. It establishes methods for developing and coordinating interactive systems, player choices, gameplay structures, interfaces, challenges, feedback mechanisms, narrative elements, and experience design while preserving the distinctions between game concepts, design specifications, prototypes, implemented mechanics, artistic assets, and completed interactive experiences.
+
+##### 6. Cross-Disciplinary Arts and Creative Expression Alchemies
+
+These specialized Alchemies coordinate the preceding visual, spatial, applied, performing, cinematic, literary, animated, and interactive disciplines without replacing or collapsing their individual identities. Their relationships must preserve distinctions between creative conception, artistic methods, aesthetic composition, production processes, interpretation, media integration, preservation, and human experience.
+
+- **Creative Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between multiple artistic disciplines, techniques, materials, and expressive forms into coherent multidisciplinary creative works. It establishes methods for coordinating creative contributions, artistic media, production approaches, and expressive relationships while preserving the identity, methods, and significance of each contributing discipline.
+
+- **Aesthetic Composition Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships among form, color, sound, rhythm, proportion, texture, space, movement, and other aesthetic elements within creative works. It establishes methods for examining and coordinating aesthetic structures, compositional balance, expressive emphasis, sensory relationships, and formal coherence while recognizing that aesthetic judgments may differ across creators, audiences, cultural contexts, and artistic purposes.
+
+- **Creative Production Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the coordination of resources, tools, techniques, workflows, collaboration, and practical processes required to develop and produce creative works. It establishes methods for planning, coordinating, documenting, evaluating, and refining creative production while preserving the distinctions between creative direction, artistic contributions, technical execution, production management, and completed output.
+
+- **Artistic Interpretation Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the interpretation, contextual understanding, presentation, and appreciation of artistic works while preserving their expressive and cultural distinctions. It establishes methods for examining artistic form, historical and cultural context, materials, techniques, creator statements, critical perspectives, and audience experience while distinguishing documented information, creator intent, critical interpretation, and personal response.
+
+- **Multimedia Expression Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the coordination of visual, auditory, textual, spatial, cinematic, and interactive media into coordinated expressive experiences. It establishes methods for combining media forms, sensory elements, narrative structures, interaction methods, and presentation environments while preserving the distinct properties, contributions, and technical requirements of each medium.
+
+- **Creative Preservation Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the documentation, conservation, restoration, archiving, and continued accessibility of creative works, artistic techniques, and cultural expressions. It establishes methods for recording provenance, creator and contributor information, original materials, production techniques, condition, modification history, preservation requirements, and access conditions while distinguishing original works, reproductions, restored versions, reconstructions, and subsequent interpretations.
+
+- **Human Experience and Expression Alchemy** — organizes, examines, maintains, integrates, develops, and transforms artistic methods and expressive forms through which human experience, imagination, emotion, identity, and perspective can be explored and communicated. It establishes methods for examining how creative works express and communicate lived experience, personal perspectives, emotional content, cultural identity, and imagination while respecting individual autonomy, privacy, dignity, cultural context, and the distinction between artistic representation and verified claims about a person or community.
+
+### 12.2 Arts and Creative Expression Structural and Applicability Requirements
+
+Every subordinate Alchemy under Arts and Creative Expression Alchemy must retain its own defined subject, purpose, methods, principles, creative requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+Arts and Creative Expression Alchemy must preserve the distinctions between its constituent disciplines and their respective subjects, methods, artistic media, materials, expressive functions, production processes, and preservation responsibilities. Relationships between visual arts, drawing, painting, sculpture, photography, architecture, design, industrial design, music, dance, theater, film, creative writing, animation, game design, and the cross-disciplinary Alchemies must be established without collapsing their distinct subjects or treating their methods as interchangeable.
+
+It must also preserve the distinctions between:
+
+- Artistic conception, creative intent, design requirements, artistic methods, technical execution, presentation, interpretation, and audience experience.
+- Original works, studies, sketches, drafts, prototypes, source materials, references, reproductions, adaptations, derivative works, restorations, and generated content.
+- Visual, physical, auditory, literary, spatial, dramatic, cinematic, animated, interactive, and other expressive forms.
+- Two-dimensional visual works, three-dimensional artistic forms, built environments, designed objects, performances, moving images, written works, and interactive experiences.
+- Artistic expression, functional design, technical design, engineering specifications, manufacturing processes, and practical implementation.
+- Drawing, painting, photography, sculpture, digital imaging, three-dimensional modeling, and other visual production methods.
+- Architecture, interior and spatial composition, industrial design, product development, construction, and the technical requirements of built environments and manufactured objects.
+- Musical composition, arrangement, performance, interpretation, recording, sound design, and production.
+- Movement, choreography, acting, dramatic writing, direction, staging, theatrical production, and audience experience.
+- Film conception, cinematography, editing, visual effects, sound production, documentary representation, and completed moving-image works.
+- Creative writing, literary composition, source material, quotation, adaptation, editing, and collaborative authorship.
+- Animation, sequential images, keyframes, procedural motion, digital simulation, and other methods for producing movement.
+- Game concepts, game mechanics, rules, objectives, player agency, narrative structures, interface design, prototypes, and implemented interactive experiences.
+- Individual artistic disciplines, multidisciplinary creative works, aesthetic coordination, and multimedia integration.
+- Original creator intent, documented creator statements, critical interpretation, cultural interpretation, and individual audience response.
+- Artistic originality, inspiration, reference, influence, reproduction, transformation, and material derivation.
+- Human creative contributions, assistant contributions, computational processes, generated materials, collaborative production, and attribution.
+- Preservation, conservation, restoration, reconstruction, reproduction, digitization, archival representation, and continued accessibility.
+- Artistic representation of human experience, documented personal testimony, fictional representation, cultural expression, and factual claims about individuals or communities.
+- Creative capability, technical production capability, permission to use source material, ownership interests, attribution requirements, and authorization to publish or distribute creative works.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Arts and Creative Expression Alchemy and each subordinate visual, spatial, applied, performing, cinematic, literary, animated, interactive, and cross-disciplinary Alchemy.
+- The parent–subordinate relationships between Arts and Creative Expression Alchemy, its six specialized groups, and their respective Alchemies.
+- The relationships between artistic and creative disciplines and relevant humanities, physical sciences, life sciences, social sciences, engineering and technology, computer and information sciences, health sciences, education, business, law, governance, and other knowledge-domain structures.
+- The connections between artistic and creative knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, resources, materials, tools, methods, information relationships, and connections between artistic and creative disciplines and other Alchemies.
+- The distinctions between visual and plastic arts, spatial and applied design, performing arts, cinematic and literary arts, animated arts, interactive creative disciplines, and cross-disciplinary creative methods.
+- The relationships between artistic concepts, creative intent, design requirements, materials, techniques, production methods, completed works, interpretation, presentation, and preservation.
+- The relationships between visual composition, spatial form, color, texture, proportion, sound, rhythm, movement, narrative, interaction, and other aesthetic and expressive elements.
+- The relationships between architectural expression, spatial organization, built environments, technical design, construction requirements, and human experience.
+- The relationships between artistic disciplines and the tools, materials, equipment, software, production facilities, performance environments, and other resources necessary for their application.
+- The relationships between musical composition, arrangement, instrumentation, performance, sound recording, production, and presentation.
+- The relationships between dance, choreography, physical movement, theatrical performance, stagecraft, dramatic writing, direction, and audience experience.
+- The relationships between film, animation, creative writing, visual production, sound, editing, narrative structures, and audiovisual presentation.
+- The relationships between game design, interactive systems, mechanics, rules, objectives, player agency, narrative structures, artistic assets, and implemented experiences.
+- The relationships between individual creative disciplines and Creative Integration Alchemy, Aesthetic Composition Alchemy, Creative Production Alchemy, Artistic Interpretation Alchemy, Multimedia Expression Alchemy, Creative Preservation Alchemy, and Human Experience and Expression Alchemy.
+- The relationships between original works, references, source materials, contributors, derivative works, adaptations, reproductions, generated content, and preservation records.
+- The relationships between creative works, their authors and contributors, cultural contexts, intended audiences, presentation environments, distribution methods, and applicable permissions.
+- The relationships between shared artistic and creative foundations and context-specific implementations while preserving the distinct private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each visual, spatial, applied, performing, cinematic, literary, animated, interactive, and subordinate Alchemy.
+- The specific artistic, creative, analytical, design, production, interpretive, interactive, and preservation functions associated with each applicable context.
+- The artistic knowledge, creative methods, materials, tools, production processes, media formats, technical resources, contextual requirements, and dependencies required for those functions.
+- Whether an application involves visual arts, drawing, painting, sculpture, photography, architecture, design, industrial design, music, dance, theater, film, creative writing, animation, game design, creative integration, aesthetic composition, creative production, artistic interpretation, multimedia expression, creative preservation, or human experience and expression.
+- Whether a creative work or experience is visual, physical, auditory, literary, spatial, dramatic, cinematic, animated, interactive, multidisciplinary, or presented through another expressive form.
+- Whether an application involves creative conception, design development, material selection, composition, construction, performance, recording, editing, rendering, interaction, interpretation, presentation, restoration, or preservation.
+- The actual capabilities, supported interfaces, creative tools, production environments, source materials, media formats, technical resources, and dependencies required to create, process, present, preserve, or operate a creative function.
+- The relationships between creative outputs, source materials, references, original works, drafts, prototypes, adaptations, derivative works, generated content, collaborative contributions, and finished works.
+- The creators, authors, artists, designers, performers, contributors, sources, production roles, and other relevant forms of participation associated with creative works, including the distinction between direct creation, assistance, technical processing, and generated contributions.
+- The provenance, source materials, creator information, contributor roles, creation dates, versions, methods, materials, modifications, contextual information, and applicable permissions that must accompany creative works and their derivative or transformed representations.
+- The ownership interests, usage rights, reproduction permissions, attribution requirements, licenses, consent, privacy protections, cultural obligations, publication rights, distribution conditions, and governance boundaries applicable to creative works and source materials.
+- The conditions under which human direction, creator review, contributor approval, cultural consultation, rights verification, technical validation, or other review is required before a creative work is finalized, altered, presented, published, or distributed.
+- The applicable requirements for preserving artistic integrity, creative intent, aesthetic coherence, technical quality, originality, accessibility, source provenance, attribution, and contextual meaning.
+- The conditions under which an application must distinguish original creative content from references, inspiration, reproduction, adaptation, transformation, restoration, reconstruction, or generated material.
+- The requirements for identifying material alterations introduced through editing, image manipulation, audio processing, performance modification, digital rendering, animation, restoration, reconstruction, or other creative production processes.
+- The specific technical, material, spatial, sensory, accessibility, performance, and presentation requirements associated with each applicable creative discipline.
+- The conditions under which preservation activities must retain original materials, document restoration methods, maintain version histories, distinguish reconstructed elements, or identify uncertainty and limitations.
+- The cultural, historical, personal, and contextual considerations relevant to the creation, interpretation, representation, presentation, and preservation of artistic works and cultural expressions.
+- The applicable safeguards against false attribution, unauthorized reproduction, deceptive representation, misappropriation, undisclosed material alteration, privacy violations, and misleading claims about creative provenance or authorship.
+- The specific responsibilities and limitations associated with creative functions performed by C2O Intelligence, UNIVERSALIS Intelligence, UNIVERSALIN assistants, and personal Guardians.
+
+Arts and Creative Expression Alchemy must not presume that the presence of an artistic or creative discipline in the universal taxonomy grants every context unrestricted access to creative works, source materials, images, recordings, performances, designs, cultural expressions, personal collections, proprietary tools, production environments, or external creative platforms.
+
+The inclusion of artistic and creative knowledge within an ecosystem context establishes its place in the knowledge structure, not an automatic implementation, creative capability, permission to use protected or private material, claim to authorship, authority to represent another creator or community, or authorization to publish or distribute creative works.
+
+Creative works and source materials must be handled according to their provenance, creator and contributor relationships, ownership interests, sensitivity, cultural context, intended purpose, and applicable permissions. Personal creative works, private collections, confidential production materials, protected source materials, and culturally sensitive expressions must remain subject to their applicable privacy, confidentiality, consent, rights, access, and governance requirements.
+
+Original works, quotations, reproductions, adaptations, derivative works, restorations, reconstructions, generated materials, and collaborative contributions must remain distinguishable. A reproduction, restoration, adaptation, or generated work must not be presented as an unchanged original when material changes or new contributions have occurred. Relevant source materials, contributors, transformations, uncertainties, and limitations must be identified wherever necessary to preserve creative provenance and prevent misrepresentation.
+
+The ability to generate or modify artistic material does not itself establish authorship, originality, ownership, cultural authority, informed consent, or permission to use another creator's work. Creative methods must not be used to justify false attribution, unauthorized reproduction, deceptive impersonation, misrepresentation of cultural expressions, or deliberate concealment of material source contributions.
+
+Artistic interpretation must preserve the distinction between documented creator intent, the observable characteristics of a work, historical and cultural context, critical interpretation, and individual audience response. No interpretation should be represented as the exclusive or definitive meaning of a work without appropriate support and authority. Cultural and community expressions must be treated with respect for their context, custodianship, contributors, and applicable rights rather than presumed to be freely reproducible or representative of an entire community.
+
+Creative preservation must maintain appropriate records of original works, source materials, condition, creators and contributors, production methods, restoration or reconstruction decisions, version histories, and access conditions. Preservation or restoration must not silently replace an original with a modified representation or obscure significant alterations.
+
+Applications involving personal expression, artistic identity, private creative works, cultural identity, or creative representation on behalf of another person must preserve applicable consent, privacy, confidentiality, dignity, autonomy, ownership interests, and control. Guardian assistance must remain subject to the authority and permissions of the human they serve. Neither creative knowledge nor artistic-generation capabilities grant a system, intelligence, assistant, or Guardian independent authority over another person's creative identity, works, artistic decisions, representation, or publication choices.
+
+All applications must remain consistent with artistic principles, creative intent, expressive coherence, technical and material requirements, source provenance, attribution, applicable permissions, cultural and contextual integrity, privacy and confidentiality protections, accessibility, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 13. Education and Learning Sciences Alchemy
 
