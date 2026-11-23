@@ -2573,42 +2573,208 @@ All applications must remain consistent with artistic principles, creative inten
 
 ### 13. Education and Learning Sciences Alchemy
 
-**Education and Learning Sciences Alchemy** is the bounded process that organizes, develops, facilitates, evaluates, and transforms the structures, methods, environments, and experiences through which individuals and groups acquire, develop, integrate, apply, and transmit knowledge, skills, understanding, and capabilities. It enables learning across different ages, contexts, disciplines, abilities, and environments while maintaining educational integrity, accessibility, intellectual development, meaningful assessment, and accountability.
+**Education and Learning Sciences Alchemy** is the bounded process by which the structures, methods, environments, and experiences through which individuals and groups acquire, develop, integrate, apply, evaluate, and transmit knowledge, skills, understanding, and capabilities are identified, classified, organized, developed, facilitated, assessed, maintained, and transformed.
 
-It encompasses the theoretical, scientific, practical, instructional, developmental, and technological disciplines concerned with teaching, learning, educational design, knowledge development, and the transfer of capabilities. Every specialized Education and Learning Sciences Alchemy remains an expression of the root Alchemy.
+It governs the theoretical, scientific, practical, instructional, developmental, and technological structures, methods, relationships, and processes through which learning occurs and educational experiences are designed, facilitated, evaluated, and improved. It enables learning across different ages, contexts, disciplines, abilities, and environments while maintaining educational integrity, accessibility, intellectual development, meaningful assessment, learner autonomy, and accountability.
 
-#### 1. Teaching and Instructional Alchemies
+Education and Learning Sciences Alchemy encompasses the disciplines concerned with teaching, learning, educational design, knowledge development, assessment, curriculum, training, and the acquisition and transfer of capabilities. It establishes a structured foundation for understanding how knowledge and skills are acquired, organized, retained, retrieved, integrated, applied, demonstrated, and developed. It also establishes how educational objectives, instructional methods, learning environments, resources, and assessment processes are coordinated while preserving the distinctions between educational theory, instructional practice, learner development, evaluation, and demonstrated capability.
 
-- **Pedagogy Alchemy** — organizes the principles, methods, practices, and relationships involved in teaching and facilitating learning, including instructional approaches, learner engagement, differentiation, and educational interaction.
-- **Instructional Design Alchemy** — organizes the analysis, design, development, implementation, and evaluation of structured learning experiences, instructional materials, educational activities, and learning environments.
+Education and Learning Sciences Alchemy must preserve the accuracy, provenance, accessibility, relevance, and integrity of educational content, learning resources, instructional methods, assessment processes, and educational records. Learning objectives, instructional materials, source knowledge, learner contributions, exercises, assessments, feedback, evaluations, credentials, and documented outcomes must remain distinguishable wherever relevant. Their sources, authors, educators, contributors, dates, intended learning outcomes, prerequisites, methods, assessment criteria, modifications, limitations, and applicable permissions must be represented accurately.
 
-#### 2. Learning and Developmental Science Alchemies
+It must preserve the distinction between exposure to information, participation in instruction, engagement in a learning activity, acquisition of knowledge, understanding, retention, practical application, and demonstrated competency. Participation or completion alone must not be represented as proof of understanding or mastery without appropriate supporting assessment. Likewise, assessment results must not be represented as comprehensive measures of a learner's knowledge, abilities, development, or potential beyond the scope and limitations of the assessment.
 
-- **Learning Theory Alchemy** — organizes the theoretical and scientific explanations of how individuals and groups acquire, process, retain, retrieve, integrate, and apply knowledge and skills.
-- **Educational Psychology Alchemy** — organizes the application of psychological knowledge to education, including cognition, motivation, development, memory, individual differences, learning behavior, and educational well-being.
+Education and Learning Sciences Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support knowledge acquisition, system and application documentation, technical instruction, onboarding, operational training, personal learning, research development, skill development, knowledge organization, learning assistance, educational tools, and other authorized educational activities relevant to each context.
 
-#### 3. Educational Assessment and Curriculum Alchemies
+Its universal application does not mean that every context is an educational institution, educator, learner, accrediting body, or independent authority over an individual's development. The presence of educational and learning-science knowledge establishes its classification and possible relevance, not automatic authority to direct a person's learning, evaluate their abilities, establish credentials, determine their educational outcomes, or access and disclose personal educational information.
 
-- **Assessment Alchemy** — organizes the measurement, evaluation, interpretation, and documentation of learning progress, knowledge, skills, competencies, educational outcomes, and instructional effectiveness.
-- **Curriculum Design Alchemy** — organizes the selection, sequencing, integration, development, and evaluation of educational content, learning objectives, competencies, instructional pathways, and programme structures.
+Every specialized Education and Learning Sciences Alchemy remains an expression of the root Alchemy. Its subject, purpose, methods, principles, relationships, requirements, and boundaries must remain identifiable while allowing specialized teaching, instructional, learning-science, developmental, assessment, curriculum, knowledge-management, training, and cross-disciplinary educational methods to integrate into larger educational systems.
 
-#### 4. Knowledge and Capability Development Alchemies
+#### 13.1 Universal Application of Education and Learning Sciences Alchemy
 
-- **Knowledge Management Alchemy** — organizes the creation, acquisition, classification, retention, retrieval, distribution, application, and continued development of knowledge within educational and learning environments.
-- **Training Systems Alchemy** — organizes structured processes through which individuals and groups develop, practice, demonstrate, maintain, and improve specific skills, competencies, procedures, and operational capabilities.
+Education and Learning Sciences Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-#### 5. Cross-Disciplinary Education and Learning Relationships
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+Within these contexts, Education and Learning Sciences Alchemy governs the appropriate organization, development, facilitation, representation, assessment, accessibility, maintenance, and application of educational and learning-science knowledge.
 
-- **Learning Integration Alchemy** — coordinates knowledge, skills, understanding, experience, and different learning methods into coherent developmental processes.
-- **Educational Systems Integration Alchemy** — coordinates learners, educators, curricula, instructional resources, institutions, technologies, and assessment structures into coherent educational environments.
-- **Personalized Learning Alchemy** — organizes learning pathways according to individual capabilities, interests, prior knowledge, developmental needs, accessibility requirements, and learning objectives.
-- **Experiential Learning Alchemy** — organizes learning through direct experience, practice, experimentation, reflection, application, and feedback.
-- **Knowledge Transfer Alchemy** — organizes the transmission and application of knowledge between individuals, groups, disciplines, institutions, and generations while preserving meaning and context.
-- **Competency Development Alchemy** — organizes the progressive acquisition, integration, demonstration, and improvement of knowledge, skills, judgment, and practical capabilities.
-- **Lifelong Learning Alchemy** — organizes continuous learning, adaptation, personal development, and knowledge renewal throughout an individual's life.
-- **Educational Continuity Alchemy** — maintains the accessibility, integrity, transferability, and recoverability of educational records, learning progress, instructional resources, and developmental pathways.
+Its context-specific expressions include:
+
+- **Operating System Contexts:** Education and learning-science knowledge may support system documentation, instructional interfaces, onboarding, tutorials, operational guidance, accessibility, user education, configuration assistance, and learning resources related to operating system functions. Its application must preserve technical accuracy, instructional clarity, accessibility, version relevance, and the distinction between explaining system capabilities and performing system operations. Educational functions must not obscure system behavior, misrepresent operational requirements, or assume authority over a human's choices and activities.
+
+- **Core Intelligence Contexts:** Education and learning-science knowledge may support knowledge acquisition, instructional reasoning, concept explanation, curriculum organization, learning-path development, assessment design, feedback, knowledge integration, and the analysis of educational methods. C2O Intelligence and UNIVERSALIS Intelligence must apply these capabilities within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities. Educational explanations and assessments must distinguish established information, source material, interpretation, illustrative examples, generated instructional content, and independently verified knowledge.
+
+- **Application Contexts:** Education and learning-science knowledge may support educational software, learning interfaces, instructional content, study tools, curriculum resources, assessment systems, knowledge-management functions, training workflows, and progress documentation. Applications must preserve the accuracy, provenance, version history, accessibility, confidentiality, and appropriate permissions associated with learning materials and educational records. Their ability to provide instruction, assess responses, or maintain progress records does not automatically establish authority to issue credentials, determine educational eligibility, or make consequential decisions about learners.
+
+- **UNIVERSALIN Assistant Contexts:** Education and learning-science knowledge may support authorized instruction, explanation, tutoring, study assistance, research guidance, learning-resource organization, practice activities, feedback, and skill-development assistance within operating system and application boundaries. Assistants must distinguish between supplied educational sources, instructional explanations, generated examples, learner responses, assessment results, and verified knowledge. They must support the learner's understanding and independent capability without presuming authority over the learner's educational choices, achievements, records, or future development.
+
+- **UNIVERSALIN Intelligence Contexts:** Education and learning-science knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through instructional reasoning, knowledge organization, concept explanation, learning analysis, educational content development, and assessment assistance. These contexts do not constitute additional core intelligences or establish independent authority to act as an educational institution, issue recognized credentials, determine a learner's abilities, access protected educational records, or make decisions on behalf of educators or learners.
+
+- **UNIVERSALIN Guardian Contexts:** Education and learning-science knowledge may support the authorized personal, developmental, organizational, and educational assistance capabilities of human-bound Guardians. Its application may support personal learning goals, educational planning, study organization, skill development, resource discovery, learning continuity, and human-directed educational activities. Guardians must preserve the human's autonomy, interests, privacy, consent, educational choices, and authority over personal learning and development. They must not independently make educational commitments, disclose personal educational records, or determine educational outcomes beyond their authorized scope.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Education and learning-science knowledge may support learning analysis, instructional reasoning, personalized learning assistance, knowledge integration, skill-development guidance, and other human-directed educational capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human's educational direction, assessment outcomes, credentials, personal development, or learning records. The human retains authority over personal learning objectives, educational choices, and authorized Guardian activities.
+
+The specific applicability of each teaching, instructional, learning-science, developmental, assessment, curriculum, knowledge-management, training, and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
+
+#### Alchemies under Education and Learning Sciences Alchemy
+
+##### 1. Teaching and Instructional Alchemies
+
+- **Pedagogy Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the principles, methods, practices, and relationships involved in teaching and facilitating learning, including instructional approaches, learner engagement, differentiation, and educational interaction. It establishes methods for examining instructional decisions, teaching approaches, educator–learner relationships, facilitation, participation, and the conditions that support learning while preserving the distinction between educational principles, teaching methods, and individual learning outcomes.
+
+- **Instructional Design Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the analysis, design, development, implementation, and evaluation of structured learning experiences, instructional materials, educational activities, and learning environments. It establishes methods for identifying learning requirements, defining instructional objectives, sequencing content, selecting appropriate instructional strategies, developing resources, and evaluating instructional effectiveness while preserving alignment between intended learning outcomes, instructional activities, and assessment methods.
+
+##### 2. Learning and Developmental Science Alchemies
+
+- **Learning Theory Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the theoretical and scientific explanations of how individuals and groups acquire, process, retain, retrieve, integrate, and apply knowledge and skills. It establishes methods for examining learning mechanisms, cognitive and behavioral processes, memory, knowledge construction, practice, feedback, and learning conditions while distinguishing theoretical explanations, empirical findings, educational interpretations, and context-dependent applications.
+
+- **Educational Psychology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the application of psychological knowledge to education, including cognition, motivation, development, memory, individual differences, learning behavior, and educational well-being. It establishes methods for examining psychological factors associated with learning, educational participation, learner development, motivation, and individual learning needs while preserving the distinction between educational support, psychological interpretation, clinical assessment, and other professional responsibilities.
+
+##### 3. Educational Assessment and Curriculum Alchemies
+
+- **Assessment Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the measurement, evaluation, interpretation, and documentation of learning progress, knowledge, skills, competencies, educational outcomes, and instructional effectiveness. It establishes methods for defining assessment objectives, selecting evaluation methods, developing assessment criteria, collecting evidence, interpreting results, providing feedback, and documenting limitations while preserving validity, reliability, fairness, accessibility, transparency, and the distinction between measured performance and broader learner capability.
+
+- **Curriculum Design Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the selection, sequencing, integration, development, and evaluation of educational content, learning objectives, competencies, instructional pathways, and programme structures. It establishes methods for organizing subject matter, defining learning progression, coordinating prerequisites, aligning instructional activities with intended outcomes, and evaluating curriculum relevance while preserving subject integrity, appropriate scope, developmental considerations, and the distinction between curriculum design and actual learner achievement.
+
+##### 4. Knowledge and Capability Development Alchemies
+
+- **Knowledge Management Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the creation, acquisition, classification, retention, retrieval, distribution, application, and continued development of knowledge within educational and learning environments. It establishes methods for structuring educational knowledge, managing learning resources, preserving source provenance, maintaining knowledge continuity, and supporting appropriate knowledge exchange while preserving distinctions between source information, instructional material, learner contributions, interpretations, and established knowledge.
+
+- **Training Systems Alchemy** — organizes, examines, maintains, integrates, develops, and transforms structured processes through which individuals and groups develop, practice, demonstrate, maintain, and improve specific skills, competencies, procedures, and operational capabilities. It establishes methods for identifying capability requirements, structuring practice, coordinating instructional resources, evaluating performance, documenting progression, and supporting continued skill development while preserving the distinction between completing training, demonstrating performance under defined conditions, and independently maintaining a capability.
+
+##### 5. Cross-Disciplinary Education and Learning Alchemies
+
+These specialized Alchemies coordinate the preceding teaching, instructional, learning-science, assessment, curriculum, knowledge-management, and training disciplines without replacing or collapsing their individual identities. Their relationships must preserve distinctions between educational theory, instructional methods, knowledge development, learner experience, assessment, competency formation, and educational continuity.
+
+- **Learning Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between knowledge, skills, understanding, experience, and different learning methods into coherent developmental processes. It establishes methods for coordinating learning across subjects, disciplines, environments, and experiences while preserving the distinct contributions, prerequisites, learning objectives, and assessment requirements of each area.
+
+- **Educational Systems Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between learners, educators, curricula, instructional resources, institutions, technologies, and assessment structures into coherent educational environments. It establishes methods for coordinating educational participants, processes, resources, information, and institutional structures while preserving their respective responsibilities, authority, access permissions, and operational boundaries.
+
+- **Personalized Learning Alchemy** — organizes, examines, maintains, integrates, develops, and transforms learning pathways according to individual capabilities, interests, prior knowledge, developmental needs, accessibility requirements, and learning objectives. It establishes methods for adapting instructional approaches, learning resources, pacing, support, and learning activities to relevant individual circumstances while preserving learner autonomy, privacy, dignity, informed participation, and the distinction between suggested adaptations and definitive judgments about an individual's abilities or potential.
+
+- **Experiential Learning Alchemy** — organizes, examines, maintains, integrates, develops, and transforms learning through direct experience, practice, experimentation, reflection, application, and feedback. It establishes methods for coordinating practical activities, observation, guided experience, reflection, and the application of acquired knowledge while preserving the distinction between simulated experiences, instructional exercises, supervised practice, and real-world performance.
+
+- **Knowledge Transfer Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the transmission and application of knowledge between individuals, groups, disciplines, institutions, and generations while preserving meaning and context. It establishes methods for documenting knowledge, organizing explanations, transferring practical understanding, preserving relevant source information, and supporting knowledge exchange while distinguishing explicit documentation, practical expertise, interpretation, contextual knowledge, and tacit understanding.
+
+- **Competency Development Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the progressive acquisition, integration, demonstration, and improvement of knowledge, skills, judgment, and practical capabilities. It establishes methods for defining competencies, identifying required proficiency, organizing developmental progression, evaluating evidence of performance, and supporting continued improvement while preserving the distinction between learning activities, demonstrated proficiency, assessed competency, and formal recognition or certification.
+
+- **Lifelong Learning Alchemy** — organizes, examines, maintains, integrates, develops, and transforms continuous learning, adaptation, personal development, and knowledge renewal throughout an individual's life. It establishes methods for identifying evolving learning needs, supporting ongoing development, integrating formal and informal learning, and maintaining access to relevant learning opportunities while respecting the individual's autonomy, circumstances, interests, and control over personal development.
+
+- **Educational Continuity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the accessibility, integrity, transferability, and recoverability of educational records, learning progress, instructional resources, and developmental pathways. It establishes methods for documenting educational history, preserving learning resources, maintaining appropriate records of progress, supporting transitions between learning environments, and recovering relevant educational information while respecting privacy, confidentiality, consent, accuracy, and applicable retention and access requirements.
+
+### 13.2 Education and Learning Sciences Structural and Applicability Requirements
+
+Every subordinate Alchemy under Education and Learning Sciences Alchemy must retain its own defined subject, purpose, methods, principles, educational requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+Education and Learning Sciences Alchemy must preserve the distinctions between its constituent disciplines and their respective subjects, methods, instructional foundations, learning mechanisms, developmental considerations, assessment functions, and knowledge-management responsibilities. Relationships between pedagogy, instructional design, learning theory, educational psychology, assessment, curriculum design, knowledge management, training systems, and the cross-disciplinary Alchemies must be established without collapsing their distinct subjects or treating their methods as interchangeable.
+
+It must also preserve the distinctions between:
+
+- Education, instruction, teaching, learning, training, practice, development, assessment, and the application of acquired knowledge and skills.
+- Educational theory, scientific findings, instructional principles, practical teaching methods, and context-specific educational applications.
+- Exposure to information, participation in instruction, engagement in learning, acquisition of knowledge, comprehension, retention, retrieval, integration, application, and demonstrated competency.
+- Learner characteristics, prior knowledge, learning objectives, instructional requirements, learning activities, assessment criteria, and demonstrated outcomes.
+- Pedagogical principles, instructional design, curriculum organization, educational delivery, and evaluation of educational effectiveness.
+- Learning theory, cognition, memory, motivation, psychological interpretation, developmental processes, and educational practice.
+- Formal education, informal learning, self-directed learning, experiential learning, supervised practice, and structured training.
+- Learning resources, source materials, instructional content, educational explanations, generated examples, learner contributions, and verified knowledge.
+- Curriculum objectives, subject content, prerequisites, instructional sequencing, competencies, learning pathways, and actual learner outcomes.
+- Formative assessment, summative assessment, diagnostic assessment, performance evaluation, self-assessment, and other evaluation methods.
+- Assessment instruments, measured performance, interpreted results, feedback, competency evidence, credentials, and formal certification.
+- Knowledge acquisition, knowledge management, knowledge retention, knowledge retrieval, knowledge transfer, and practical knowledge application.
+- Skills, knowledge, judgment, competencies, procedures, operational capabilities, and demonstrated proficiency.
+- Individual learning needs, personalized instruction, differentiated learning, accessibility accommodations, and assumptions about individual ability or potential.
+- Direct experience, simulated experience, experimentation, practice, reflection, feedback, and independently demonstrated real-world performance.
+- Educator responsibilities, instructional assistance, learner participation, institutional authority, assessment authority, and formal credentialing responsibilities.
+- Human educational decisions, system-generated instructional recommendations, automated assessment outputs, and authorized human review.
+- Educational records, learning histories, personal information, assessment results, credentials, instructional resources, and knowledge archives.
+- Educational continuity, records transfer, knowledge preservation, learning-resource availability, and authorization to access or disclose educational information.
+- Learning assistance, tutoring, coaching, instruction, assessment, professional educational services, and institutional educational authority.
+- Technical capability to provide educational content or evaluate responses and authority to determine educational standing, establish credentials, or make consequential decisions about learners.
+- C2O and UNIVERSALIS educational capabilities, UNIVERSALIN assistant functions, and human-directed UNIVERSALIN Guardian assistance.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Education and Learning Sciences Alchemy and each subordinate teaching, instructional, learning-science, developmental, assessment, curriculum, knowledge-management, training, and cross-disciplinary Alchemy.
+- The parent–subordinate relationships between Education and Learning Sciences Alchemy, its five specialized groups, and their respective Alchemies.
+- The relationships between education and learning-science disciplines and relevant formal sciences, natural sciences, health sciences, social sciences, humanities, engineering and technology, computer and information sciences, business, law, governance, and other knowledge-domain structures.
+- The connections between educational knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, resources, instructional relationships, information relationships, and connections between educational disciplines and other Alchemies.
+- The distinctions between teaching and instructional disciplines, learning and developmental sciences, assessment and curriculum disciplines, knowledge and capability development, and cross-disciplinary educational methods.
+- The relationships between learning objectives, prerequisites, instructional methods, learning activities, educational resources, assessment criteria, feedback, and demonstrated outcomes.
+- The relationships between pedagogy, instructional design, learning theory, educational psychology, assessment, curriculum design, knowledge management, and training systems.
+- The relationships between learner characteristics, prior knowledge, developmental needs, learning environments, instructional adaptations, accessibility requirements, and individual learning pathways.
+- The relationships between educational knowledge, source information, instructional materials, knowledge repositories, learning resources, and other relevant information structures.
+- The relationships between teaching, practice, experimentation, experiential learning, reflection, feedback, assessment, and competency development.
+- The relationships between subject knowledge, curriculum structures, interdisciplinary learning, competency requirements, practical applications, and knowledge transfer.
+- The relationships between educational systems, learners, educators, instructional resources, curricula, technologies, institutions, assessment processes, and applicable governance structures.
+- The relationships between educational records, learning histories, assessment evidence, competency documentation, credentials, learning continuity, and preservation requirements.
+- The relationships between individual educational disciplines and Learning Integration Alchemy, Educational Systems Integration Alchemy, Personalized Learning Alchemy, Experiential Learning Alchemy, Knowledge Transfer Alchemy, Competency Development Alchemy, Lifelong Learning Alchemy, and Educational Continuity Alchemy.
+- The relationships between shared educational and learning-science foundations and context-specific implementations while preserving the distinct private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each teaching, instructional, learning-science, developmental, assessment, curriculum, knowledge-management, training, and subordinate Alchemy.
+- The specific educational, instructional, explanatory, learning, analytical, developmental, assessment, knowledge-management, and training functions associated with each applicable context.
+- The educational knowledge, learning objectives, instructional methods, curricula, resources, assessment criteria, feedback methods, technical capabilities, contextual requirements, and dependencies required for those functions.
+- Whether an application involves pedagogy, instructional design, learning theory, educational psychology, assessment, curriculum design, knowledge management, training systems, learning integration, educational systems integration, personalized learning, experiential learning, knowledge transfer, competency development, lifelong learning, or educational continuity.
+- Whether a learning activity is formal, informal, self-directed, instructor-led, assisted, experiential, simulated, practice-based, research-oriented, or part of a structured training process.
+- Whether an application concerns knowledge acquisition, comprehension, retention, retrieval, integration, application, skill development, competency demonstration, assessment, or continued learning.
+- The specific learner, educator, instructional participant, institutional role, or system function involved in an educational process and the relevant responsibilities, permissions, and boundaries associated with that role.
+- The actual capabilities, supported interfaces, instructional resources, source materials, learning environments, assessment tools, knowledge repositories, technologies, and dependencies required to implement or operate an educational function.
+- The relationships between learning objectives, instructional activities, assessment methods, feedback, learning progression, and documented outcomes.
+- The conditions under which a learning pathway must account for prior knowledge, individual interests, developmental needs, accessibility, available resources, or other relevant learner circumstances.
+- The provenance, author, source, date, intended learning outcomes, subject coverage, prerequisites, instructional methods, version history, modifications, limitations, and applicable permissions associated with educational content and learning resources.
+- The permissions, ownership, authorship, attribution, consent, privacy protections, confidentiality requirements, educational-record access rights, retention requirements, and governance boundaries applicable to learners, educational information, assessments, and learning materials.
+- The requirements for ensuring that educational explanations, instructional materials, examples, assessments, and generated resources are accurate, appropriately scoped, understandable, accessible, and distinguishable from source evidence or verified knowledge.
+- The conditions under which human review, educator approval, subject-matter verification, assessment validation, learner consent, institutional authorization, or additional evaluation is required before educational content is adopted, learning outcomes are recorded, or consequential educational decisions are made.
+- The applicable requirements for maintaining assessment validity, reliability, fairness, accessibility, transparency, appropriate context, and acknowledgment of assessment limitations.
+- The conditions under which a system or assistant may provide learning assistance, instructional feedback, practice activities, or assessment suggestions and the boundaries separating those functions from educator, institutional, professional, or credentialing authority.
+- The conditions under which an educational function must distinguish completed instruction from demonstrated learning, generated assessment results from reviewed evaluations, and learning progress from formal recognition of competency.
+- The relationships between educational progress, competency evidence, documented achievements, credentials, and the applicable verification or authorization required for formal recognition.
+- The applicable safeguards against fabricated educational records, misleading assessments, unauthorized disclosure of learner information, biased evaluation, misrepresentation of qualifications, and unsupported claims about individual abilities or potential.
+- The conditions under which educational records, learning histories, instructional resources, and developmental pathways must be preserved, transferred, recovered, updated, or restricted.
+- The specific responsibilities and limitations associated with educational functions performed by C2O Intelligence, UNIVERSALIS Intelligence, UNIVERSALIN assistants, and personal Guardians.
+
+Education and Learning Sciences Alchemy must not presume that the presence of an educational discipline in the universal taxonomy grants every context unrestricted access to learner information, educational records, assessment results, credentials, personal learning histories, institutional resources, protected instructional materials, or external educational systems.
+
+The inclusion of educational and learning-science knowledge within an ecosystem context establishes its place in the knowledge structure, not an automatic implementation, teaching function, assessment capability, credentialing authority, permission to access or disclose educational information, or authority to determine an individual's educational direction or outcomes.
+
+Educational information and learning records must be handled according to their source, nature, ownership, sensitivity, intended purpose, learner or institutional relationship, and applicable permissions. Personal learning histories, assessment results, educational records, confidential institutional materials, and other sensitive information must remain subject to applicable privacy, confidentiality, consent, security, retention, access, and governance requirements.
+
+Educational content, source knowledge, instructional explanations, generated learning materials, assessment questions, learner responses, feedback, evaluated outcomes, and formal educational records must remain distinguishable. Generated instructional material must not be represented as authoritative source knowledge without appropriate verification. Assessment results must not be presented as comprehensive or definitive judgments about a learner when the method, scope, conditions, or evidence do not support such conclusions.
+
+Learning assistance and instructional capabilities do not themselves establish educator status, institutional authority, professional qualifications, assessment authority, or permission to issue recognized credentials. System-generated explanations, recommendations, feedback, and evaluation results must remain subject to their stated purposes, evidence, limitations, and applicable review requirements.
+
+Educational assessment must account for the purpose, scope, method, conditions, accessibility, and limitations of the assessment. Performance in a particular exercise or environment must not automatically be generalized into a permanent judgment about a person's knowledge, capability, intelligence, character, or potential. Where assessment outcomes may affect educational standing, access, credentials, opportunities, or other consequential interests, applicable human review, procedural safeguards, and authorized institutional decision-making must be preserved.
+
+Personalized learning and educational adaptation must respect the learner's autonomy, interests, circumstances, accessibility needs, privacy, and right to participate in decisions affecting their learning. A learning system must not impose an educational identity, restrict a learner's opportunities, or treat inferred characteristics as definitive without appropriate evidence, context, and authorization.
+
+Educational continuity must preserve the accuracy, integrity, accessibility, provenance, and appropriate transferability of learning records and resources. Changes to educational records, reconstructed learning histories, transferred credentials, and recovered materials must remain identifiable and must not silently replace or distort original information.
+
+Applications involving personal development, learner information, educational assessment, or learning decisions must preserve applicable consent, privacy, confidentiality, dignity, autonomy, and control. Guardian assistance must remain subject to the authority and permissions of the human they serve. Neither educational knowledge nor learning-related capabilities grant a system, intelligence, assistant, or Guardian independent authority over another person's learning choices, educational identity, assessment outcomes, records, credentials, or developmental direction.
+
+All applications must remain consistent with educational principles, learning-science foundations, instructional integrity, assessment requirements, knowledge provenance, learner autonomy, accessibility, privacy and confidentiality protections, authorized educational responsibilities, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 14. Environmental Sciences Alchemy
 
