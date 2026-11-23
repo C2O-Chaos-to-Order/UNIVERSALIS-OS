@@ -2184,44 +2184,176 @@ All applications must remain consistent with humanistic principles, intellectual
 
 ### 11. Language and Communication Alchemy
 
-**Language and Communication Alchemy** is the bounded process that organizes, develops, interprets, translates, expresses, and transmits language, meaning, narratives, and information between individuals, groups, institutions, and communication systems. It enables the creation and exchange of understandable messages across languages, contexts, cultures, and media while preserving meaning, accuracy, clarity, context, accessibility, and accountability.
+**Language and Communication Alchemy** is the bounded process by which language, meaning, narratives, messages, and information are identified, classified, organized, developed, interpreted, translated, expressed, transmitted, received, and transformed into coherent and understandable forms of communication.
 
-It encompasses the structures of language, the interpretation of meaning, the practical use of communication, and the creation and distribution of messages through spoken, written, visual, and digital forms. Every specialized Language and Communication Alchemy remains an expression of the root Alchemy.
+It governs the structures, methods, relationships, and processes through which individuals, groups, institutions, and communication systems create and exchange meaning across languages, contexts, cultures, and media. It establishes how messages are formulated, represented, encoded, communicated, received, interpreted, adapted, and evaluated while preserving meaning, accuracy, clarity, context, accessibility, and accountability.
 
-#### 1. Linguistic Structure and Meaning Alchemies
+Language and Communication Alchemy encompasses the structures of language, the interpretation of meaning, the practical use of communication, and the creation and distribution of messages through spoken, written, visual, symbolic, and digital forms. It provides a structured foundation for linguistic analysis, semantic interpretation, contextual communication, translation, narrative development, journalism, media, information exchange, and public communication while preserving the distinctions between language systems, communicative intent, message construction, transmission methods, interpretation, and received meaning.
 
-- **Linguistics Alchemy** — organizes the study and application of language systems, including their structures, sounds, grammar, meaning, development, variation, acquisition, and use across individuals and communities.
-- **Semantics Alchemy** — organizes the meaning of words, expressions, sentences, symbols, and other linguistic forms, including relationships between signs, concepts, references, and interpretations.
-- **Syntax Alchemy** — organizes the rules and structures through which words and linguistic elements combine into meaningful phrases, clauses, and sentences.
-- **Pragmatics Alchemy** — organizes the interpretation and use of language in context, including speaker intention, conversational meaning, shared assumptions, social conventions, and implied communication.
+Language and Communication Alchemy must preserve the provenance, accuracy, integrity, intelligibility, context, attribution, and appropriate handling of communication and information. Original messages, source statements, translations, adaptations, paraphrases, summaries, interpretations, quotations, attributed statements, editorial modifications, generated communications, and transmitted representations must remain distinguishable. Their authors, sources, languages, dates, intended audiences, communication channels, contextual assumptions, modifications, uncertainties, limitations, and applicable permissions must be represented wherever relevant.
 
-#### 2. Translation and Expressive Communication Alchemies
+It must preserve the distinction between what a message literally communicates, what its creator intends to communicate, what its audience understands, and what may reasonably be inferred from its context. A translated, summarized, adapted, or interpreted message must not be represented as an exact reproduction of its source when meaning, tone, context, structure, or content has materially changed.
 
-- **Translation Alchemy** — organizes the interpretation and transfer of meaning between languages while preserving relevant semantic, contextual, cultural, stylistic, and communicative distinctions.
-- **Rhetoric Alchemy** — organizes the effective construction and presentation of communication through argumentation, persuasive expression, reasoning, organization, and audience awareness.
-- **Storytelling Alchemy** — organizes the creation, structuring, presentation, and transmission of narratives through characters, events, perspectives, themes, and other expressive elements.
-- **Public Speaking Alchemy** — organizes the preparation, delivery, and evaluation of spoken communication before audiences through verbal expression, structure, presentation, and audience engagement.
+Language and Communication Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support system interfaces, human-computer interaction, information exchange, multilingual capabilities, knowledge communication, technical documentation, personal assistance, research communication, media-related functions, and other authorized communication activities relevant to each context.
 
-#### 3. Journalism and Media Alchemies
+Its universal application does not mean that every context speaks on behalf of a person, represents an institution, publishes information, communicates publicly, or has authority to originate, disclose, modify, or distribute messages. The presence of language and communication knowledge establishes its classification and possible relevance, not automatic permission to access private communications, impersonate another person, publish information, represent an institution, or communicate on behalf of an individual or organization.
 
-- **Journalism Alchemy** — organizes the gathering, verification, investigation, interpretation, production, and dissemination of information about events, developments, and public-interest subjects through responsible reporting.
-- **Media Studies Alchemy** — organizes the examination and application of media forms, communication technologies, content, institutions, audiences, representation, distribution, and media effects across traditional and digital environments.
+Every specialized Language and Communication Alchemy remains an expression of the root Alchemy. Its subject, purpose, methods, principles, relationships, requirements, and boundaries must remain identifiable while allowing specialized linguistic, expressive, journalistic, media, and information-communication disciplines to integrate into larger communication systems.
 
-#### 4. Information Communication Alchemies
+#### 11.1 Universal Application of Language and Communication Alchemy
 
-- **Information Communication Alchemy** — organizes the creation, encoding, structuring, transmission, reception, interpretation, and exchange of information through communication channels, systems, and formats while maintaining intelligibility, integrity, and appropriate context.
+Language and Communication Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-#### 5. Cross-Disciplinary Language and Communication Relationships
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+Within these contexts, Language and Communication Alchemy governs the appropriate organization, representation, interpretation, expression, accessibility, transmission, reception, and application of language and communication knowledge.
 
-- **Communication Integration Alchemy** — coordinates linguistic, verbal, written, visual, digital, and mediated forms of communication into coherent information-exchange processes.
-- **Language Structure Integration Alchemy** — coordinates syntax, semantics, pragmatics, and other linguistic structures so that language can be interpreted and used coherently.
-- **Meaning and Context Alchemy** — preserves the relationships between messages, intended meanings, audiences, circumstances, and cultural or situational contexts.
-- **Multilingual Communication Alchemy** — coordinates communication across multiple languages while preserving meaning, cultural distinctions, and accessibility.
-- **Media and Information Integrity Alchemy** — organizes the accuracy, provenance, contextual integrity, attribution, and responsible presentation of information across media.
-- **Public Communication Alchemy** — coordinates communication intended for public audiences through accessible, understandable, appropriately contextualized, and accountable messages.
-- **Narrative Transmission Alchemy** — organizes the preservation, adaptation, interpretation, and transmission of stories and narratives across languages, media, cultures, and generations.
+Its context-specific expressions include:
+
+- **Operating System Contexts:** Language and communication knowledge may support operating system interfaces, system messages, documentation, notifications, commands, accessibility features, multilingual functionality, communication protocols at the information-representation level, and interactions between humans and system functions. Its application must preserve the accuracy, clarity, consistency, context, and accessibility of system communications while respecting system permissions, privacy requirements, and operational boundaries. An operating system does not acquire authority to communicate on behalf of a human or institution through the presence of communication capabilities.
+- **Core Intelligence Contexts:** Language and communication knowledge may support linguistic reasoning, semantic interpretation, contextual understanding, translation, narrative analysis, information synthesis, message construction, and communication-related reasoning. C2O Intelligence and UNIVERSALIS Intelligence must apply these capabilities within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities. Communication capabilities must preserve the distinction between source information, interpretation, generated statements, and verified facts.
+- **Application Contexts:** Language and communication knowledge may support text processing, multilingual interfaces, message organization, document creation, translation, communication workflows, content management, media representation, and information exchange. Applications must preserve source attribution, meaning, message integrity, version history, access permissions, and relevant communication context. Their ability to produce or transmit messages does not automatically grant permission to publish, disclose, alter, or distribute information.
+- **UNIVERSALIN Assistant Contexts:** Language and communication knowledge may support assigned communication, translation, interpretation, writing assistance, information retrieval, summarization, documentation, presentation, and coordination functions within authorized operating system and application boundaries. Assistants must distinguish between messages authored by their human, messages generated as assistance, source quotations, translations, and independently verified information. They must not presume authority to represent a human, speak for an institution, disclose private communications, or send messages without applicable authorization.
+- **UNIVERSALIN Intelligence Contexts:** Language and communication knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through linguistic processing, semantic analysis, contextual interpretation, multilingual communication, narrative understanding, and information exchange. These contexts do not constitute additional core intelligences or establish independent authority to represent people, publish information, communicate externally, or act on behalf of institutions.
+- **UNIVERSALIN Guardian Contexts:** Language and communication knowledge may support the authorized personal, informational, expressive, organizational, and assistance capabilities of human-bound Guardians. Its application may support personal communication, translation, document organization, message preparation, language accessibility, and human-directed interactions. Guardians must preserve the human's intended meaning, voice, identity, privacy, consent, and authority over personal communications. They must not independently impersonate the human, make commitments on the human's behalf, or communicate externally without the required authorization.
+- **UNIVERSALIN Guardian Intelligence Contexts:** Language and communication knowledge may support contextual interpretation, linguistic reasoning, translation, communication analysis, narrative understanding, and other human-directed Guardian capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human's words, identity, expression, communications, relationships, or representation. The human retains authority over personal meaning, communication choices, and authorized Guardian activities.
+
+The specific applicability of each linguistic, expressive, journalistic, media, information-communication, and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
+
+#### Alchemies under Language and Communication Alchemy
+
+##### 1. Linguistic Structure and Meaning Alchemies
+
+- **Linguistics Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning language systems, including their structures, sounds, grammar, meaning, development, variation, acquisition, and use across individuals and communities. It establishes methods for examining linguistic characteristics, language relationships, language variation, linguistic development, and patterns of language use while preserving the distinctions between linguistic foundations, language expression, and practical communication.
+- **Semantics Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the meaning of words, expressions, sentences, symbols, and other linguistic forms, including relationships between signs, concepts, references, and interpretations. It establishes methods for examining literal meaning, conceptual relationships, semantic structures, ambiguity, and differences in interpretation while preserving relevant linguistic and contextual distinctions.
+- **Syntax Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the rules and structures through which words and linguistic elements combine into meaningful phrases, clauses, and sentences. It establishes methods for representing grammatical structures, syntactic relationships, sentence organization, and language-specific rules while preserving the distinctions between grammatical structure and intended meaning.
+- **Pragmatics Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the interpretation and use of language in context, including speaker intention, conversational meaning, shared assumptions, social conventions, and implied communication. It establishes methods for examining how meaning changes according to circumstances, relationships, audience expectations, conversational context, and communicative purpose while preserving the distinction between expressed information and contextual inference.
+
+##### 2. Translation and Expressive Communication Alchemies
+
+- **Translation Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the interpretation and transfer of meaning between languages while preserving relevant semantic, contextual, cultural, stylistic, and communicative distinctions. It establishes methods for representing source and target languages, translation decisions, terminology, contextual equivalence, ambiguity, and unavoidable differences in expression. Translations must preserve intended meaning as accurately as possible while identifying material uncertainties, adaptations, omissions, or differences where relevant.
+- **Rhetoric Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to construct and present communication through argumentation, persuasive expression, reasoning, organization, and audience awareness. It establishes methods for examining arguments, claims, supporting evidence, rhetorical structures, presentation techniques, and audience relationships while preserving the distinction between persuasive presentation, factual accuracy, logical validity, and ethical communication.
+- **Storytelling Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the creation, structuring, presentation, and transmission of narratives through characters, events, perspectives, themes, settings, and other expressive elements. It establishes methods for developing and examining narratives across spoken, written, visual, and digital forms while preserving the distinctions between fiction, nonfiction, historical accounts, personal testimony, and other narrative forms.
+- **Public Speaking Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the preparation, delivery, and evaluation of spoken communication before audiences through verbal expression, structure, presentation, and audience engagement. It establishes methods for organizing spoken messages, evaluating presentation effectiveness, adapting communication to an audience, and maintaining clarity and accountability while preserving the distinction between preparing a speech, delivering an authorized message, and representing another person or institution.
+
+##### 3. Journalism and Media Alchemies
+
+- **Journalism Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the processes used to gather, verify, investigate, interpret, produce, and disseminate information about events, developments, and public-interest subjects through responsible reporting. It establishes methods for source evaluation, fact-checking, corroboration, interviewing, documentation, editorial review, attribution, and correction while preserving the distinction between verified reporting, allegations, commentary, opinion, analysis, and unconfirmed information.
+- **Media Studies Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning media forms, communication technologies, content, institutions, audiences, representation, distribution, and media effects across traditional and digital environments. It establishes methods for examining how media are created, organized, distributed, interpreted, and experienced while preserving the distinctions between media formats, communication channels, content, ownership, audience interpretation, and social effects.
+
+##### 4. Information Communication Alchemies
+
+- **Information Communication Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the creation, encoding, structuring, transmission, reception, interpretation, and exchange of information through communication channels, systems, and formats while maintaining intelligibility, integrity, and appropriate context. It establishes methods for representing information exchanged between people, applications, institutions, and systems, including message structures, communication requirements, transmission context, information integrity, and the distinction between successful transmission and successful understanding.
+
+##### 5. Cross-Disciplinary Language and Communication Alchemies
+
+These specialized Alchemies coordinate the preceding linguistic, expressive, journalistic, media, and information-communication disciplines without replacing or collapsing their individual identities. Their relationships must preserve distinctions between linguistic structure, intended meaning, message construction, communication channels, audience interpretation, media representation, and information integrity.
+
+- **Communication Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between linguistic, verbal, written, visual, digital, and mediated forms of communication into coherent information-exchange processes. It establishes methods for coordinating communication forms, channels, message structures, audience requirements, and contextual information while preserving the distinct capabilities and limitations of each communication method.
+- **Language Structure Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between syntax, semantics, pragmatics, and other linguistic structures so that language can be represented, interpreted, and used coherently. It establishes methods for coordinating linguistic rules, meaning structures, contextual relationships, and language-specific characteristics while preserving their distinct functions and analytical boundaries.
+- **Meaning and Context Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships between messages, intended meanings, audiences, circumstances, and cultural or situational contexts. It establishes methods for identifying and preserving contextual information necessary to interpret communication while distinguishing explicit statements, intended meanings, implied meanings, reasonable inferences, and uncertain interpretations.
+- **Multilingual Communication Alchemy** — organizes, examines, maintains, integrates, develops, and transforms communication across multiple languages while preserving meaning, cultural distinctions, linguistic accuracy, and accessibility. It establishes methods for coordinating multilingual terminology, language-specific structures, translation processes, localization, audience requirements, and cross-language communication while preserving differences that cannot be directly transferred between languages.
+- **Media and Information Integrity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to preserve accuracy, provenance, contextual integrity, attribution, and responsible presentation of information across media. It establishes methods for examining source reliability, message alterations, content attribution, editorial changes, media context, and the distinction between original information, modified representations, and generated content.
+- **Public Communication Alchemy** — organizes, examines, maintains, integrates, develops, and transforms communication intended for public audiences through accessible, understandable, appropriately contextualized, and accountable messages. It establishes methods for preparing and evaluating public-facing information, announcements, explanations, and other public communications while preserving factual accuracy, transparency, audience accessibility, appropriate attribution, and authorization to speak on behalf of the relevant individual or institution.
+- **Narrative Transmission Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the preservation, adaptation, interpretation, and transmission of stories and narratives across languages, media, cultures, and generations. It establishes methods for maintaining narrative structure, contextual meaning, attribution, historical relationships, and continuity while identifying material changes introduced through adaptation, translation, retelling, or reproduction.
+
+### 11.2 Language and Communication Structural and Applicability Requirements
+
+Every subordinate Alchemy under Language and Communication Alchemy must retain its own defined subject, purpose, methods, principles, communication requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+Language and Communication Alchemy must preserve the distinctions between its constituent disciplines and their respective subjects, methods, linguistic foundations, expressive functions, communication processes, and information responsibilities. Relationships between linguistics, semantics, syntax, pragmatics, translation, rhetoric, storytelling, public speaking, journalism, media studies, information communication, and the cross-disciplinary Alchemies must be established without collapsing their distinct subjects or treating their methods as interchangeable.
+
+It must also preserve the distinctions between:
+
+- Language systems, linguistic structures, meaning, communicative intent, message construction, transmission, reception, and audience interpretation.
+- Literal meaning, implied meaning, intended meaning, contextual meaning, ambiguity, inference, and interpretation.
+- Syntax, semantics, pragmatics, linguistic variation, and practical language use.
+- Source languages, target languages, translation, transliteration, localization, adaptation, paraphrasing, and summarization.
+- Original messages, quotations, translated messages, edited messages, generated messages, and attributed statements.
+- Persuasive communication, reasoned argument, factual evidence, rhetoric, and manipulation.
+- Fiction, nonfiction, storytelling, journalism, historical accounts, personal testimony, and documentary representation.
+- Journalism, editorial commentary, opinion, analysis, public relations, advertising, and general content creation.
+- Media formats, communication channels, transmission infrastructure, information content, and audience interpretation.
+- Information encoding and transmission, message reception, semantic interpretation, comprehension, and successful communication.
+- Private communication, interpersonal communication, organizational communication, institutional communication, and public communication.
+- Accessibility, linguistic accommodation, localization, cultural adaptation, and the preservation of original meaning.
+- Technical capability to send or publish a message and authorization to represent an individual, organization, or institution.
+- Communication assistance, message preparation, message approval, external transmission, publication, and authority to speak on behalf of another person.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Language and Communication Alchemy and each subordinate linguistic, expressive, journalistic, media, information-communication, and cross-disciplinary Alchemy.
+- The parent–subordinate relationships between Language and Communication Alchemy, its five specialized groups, and their respective Alchemies.
+- The relationships between language and communication disciplines and relevant humanities, social-science, computer and information-science, arts, education, legal, governance, business, and other knowledge-domain structures.
+- The connections between language and communication knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, information relationships, and connections between language and communication disciplines and other Alchemies.
+- The distinctions between foundational linguistic disciplines, expressive communication disciplines, journalism and media disciplines, information communication, and cross-disciplinary communication methods.
+- The relationships between language structures, semantic representations, message content, intended meaning, communication channels, audiences, and contextual information.
+- The relationships between source languages, target languages, translation methods, localization processes, cultural contexts, terminology, and interpretive decisions.
+- The relationships between original content, quotations, translations, adaptations, generated content, attribution, authorship, and applicable usage rights.
+- The relationships between journalism, source verification, editorial processes, media formats, distribution systems, audience interpretation, and information integrity.
+- The relationships between information encoding, communication protocols, transmission systems, message reception, semantic interpretation, and successful information exchange.
+- The relationships between private, interpersonal, institutional, public, and system-to-system communication and their respective permissions and responsibilities.
+- The relationships between shared linguistic and communication foundations and context-specific implementations while preserving the distinct private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each linguistic, expressive, journalistic, media, information-communication, and subordinate Alchemy.
+- The specific linguistic, translation, expressive, informational, analytical, and communication functions associated with each applicable context.
+- The language knowledge, message structures, linguistic methods, communication channels, information formats, contextual requirements, and technical dependencies required for those functions.
+- Whether an application involves language analysis, semantic interpretation, syntax analysis, contextual interpretation, translation, multilingual communication, writing assistance, rhetoric, storytelling, public speaking, journalism, media analysis, information transmission, or public communication.
+- Whether communication is spoken, written, visual, symbolic, digital, mediated, interpersonal, organizational, institutional, public, or system-to-system.
+- Whether a message is original, quoted, translated, adapted, summarized, edited, generated, attributed to another source, or intended for direct transmission.
+- The actual capabilities, supported interfaces, information sources, communication channels, media platforms, transmission systems, and dependencies required to implement or operate a communication function.
+- The permissions, ownership, authorship, attribution, consent, privacy protections, confidentiality requirements, publication rights, retention limits, and governance boundaries applicable to communication and information.
+- The provenance, source language, target language, author, date, intended audience, message context, translation method, modifications, assumptions, uncertainty, limitations, and applicable permissions that must accompany messages, translations, interpretations, and derived communication.
+- The distinctions between a source statement, direct quotation, paraphrase, summary, translation, interpretation, editorial modification, inferred intention, and generated message.
+- The relationships between shared language and communication foundations and context-specific methods, responsibilities, technical requirements, and implementations.
+- The applicable requirements for preserving semantic accuracy, linguistic integrity, message clarity, accessibility, contextual meaning, attribution, and communication consistency across languages and media.
+- The conditions under which human review, source verification, author approval, participant consent, editorial review, owner authorization, or additional validation is required before communication is transmitted or published.
+- The applicable safeguards against impersonation, unauthorized representation, deceptive attribution, fabricated quotations, misinformation, manipulated narratives, privacy violations, and misleading communication.
+- The boundaries between message preparation, message approval, transmission, publication, and authority to communicate on behalf of an individual or institution.
+- The conditions under which a communication function must preserve an original-language source, provide a translation alongside it, identify uncertainty, or disclose material changes introduced during interpretation or adaptation.
+- The specific responsibilities and limitations associated with communication functions performed by C2O Intelligence, UNIVERSALIS Intelligence, UNIVERSALIN assistants, and personal Guardians.
+
+Language and Communication Alchemy must not presume that the presence of a language or communication discipline in the universal taxonomy grants every context unrestricted access to private messages, personal communications, recordings, correspondence, accounts, media platforms, communication networks, or external information systems.
+
+The inclusion of language and communication knowledge within an ecosystem context establishes its place in the knowledge structure, not an automatic implementation, communication channel, permission to access or disclose information, authority to publish content, or authorization to represent another person or institution.
+
+Communication and information must be handled according to their source, nature, authorship, sensitivity, intended audience, context, purpose, and applicable permissions. Private communications, personal information, confidential institutional messages, protected source material, and other sensitive communication must remain subject to their applicable privacy, confidentiality, security, consent, and governance requirements.
+
+Original messages, quotations, translations, paraphrases, summaries, interpretations, adaptations, generated content, and editorial modifications must remain distinguishable. A translation or adaptation must not be presented as an exact reproduction of a source when meaningful changes have occurred. Material uncertainties, omissions, contextual limitations, and interpretive decisions must be identified where necessary to prevent misrepresentation.
+
+The ability to generate persuasive or compelling communication does not itself establish factual accuracy, ethical legitimacy, informed consent, or authority to influence or direct another person. Rhetorical and narrative methods must not be used to justify fabricated evidence, deceptive attribution, coercion, impersonation, or deliberate distortion of information.
+
+Journalistic and media-related information must preserve source provenance, verification status, editorial context, attribution, and the distinction between reporting, commentary, opinion, analysis, allegation, and confirmed information. Model-generated content must not be presented as independently verified reporting or as a direct statement from an identifiable source without the required supporting evidence and authorization.
+
+Information transmission must remain distinct from semantic understanding and successful communication. The successful encoding, sending, receipt, or delivery of a message does not establish that its meaning was correctly interpreted, understood, accepted, or acted upon.
+
+Applications involving personal expression, private correspondence, cultural or linguistic identity, or communication on behalf of another person must preserve applicable consent, privacy, confidentiality, dignity, autonomy, and control. Guardian assistance must remain subject to the authority and permissions of the human they serve. Neither communication knowledge nor language-processing capabilities grant a system, intelligence, assistant, or Guardian independent authority over another person's words, identity, messages, representation, or communication choices.
+
+All applications must remain consistent with linguistic principles, semantic accuracy, contextual integrity, communication requirements, source provenance, attribution, privacy and confidentiality protections, accessibility, authorized representation, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 12. Arts and Creative Expression Alchemy
 
