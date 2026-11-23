@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 0.4.0  
-**Status:** Formal Sciences, Physical Sciences, and Life Sciences subject hierarchies recorded; 60 subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 0.5.0  
+**Status:** Formal Sciences, Physical Sciences, Life Sciences, and Health Sciences subject hierarchies recorded; 75 subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -428,50 +428,15 @@ Each of the 506 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 17. Cumulative Universal Subject Alchemy register and mapping totals
+## 17. Universal Subject of Knowledge hierarchy: Life Sciences
 
-The taxonomy now contains two supplied Universal Subjects of Knowledge hierarchies.
-
-| Universal Subject of Knowledge | Subject Alchemies | Contexts | Required mapped intersections |
-|---|---:|---:|---:|
-| Formal Sciences | 19 | 22 | 418 |
-| Physical Sciences | 23 | 22 | 506 |
-| Life Sciences | 18 | 22 | 396 |
-| **Cumulative total** | **60** | **22** | **1320** |
-
-The cumulative total represents 42 distinct subject Alchemies mapped across 22 contexts. It does not create 924 new subject classifications. Each of the 924 matrix positions requires a context-specific expression.
-
-## 18. Taxonomy status and release register
-
-| Item | State in version 0.4.0 |
-|---|---|
-| Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
-| Governing subject rule | Established: every Universal Subject becomes an Alchemy |
-| Context register | Established — 22 canonical contexts |
-| Subject-to-context mapping rule | Established — every subject Alchemy maps across all 22 contexts |
-| Formal Sciences source definition and hierarchy | Recorded as supplied — 19 distinct subject Alchemies |
-| Formal Sciences matrix | Recorded — 19 × 22 = 418 mapped intersections |
-| Physical Sciences source definition and hierarchy | Recorded as supplied — 23 distinct subject Alchemies |
-| Physical Sciences matrix | Recorded — 23 × 22 = 506 mapped intersections |
-| Life Sciences source definition and hierarchy | Recorded as supplied — 18 distinct subject Alchemies |
-| Life Sciences matrix | Recorded — 18 × 22 = 396 mapped intersections |
-| Cumulative subject Alchemy register | 60 distinct subject Alchemies |
-| Cumulative mapped intersections | 60 × 22 = 1320 required mappings |
-| Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
-| Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
-| Implementation and verification | Not asserted by this taxonomy entry |
-
-**Completion distinction:** Formal Sciences, Physical Sciences, and Life Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
-
-## 19. Universal Subject of Knowledge hierarchy: Life Sciences
-
-### 19.1 Canonical subject definition
+### 17.1 Canonical subject definition
 
 **Life Sciences** — Knowledge of living systems.
 
 This definition is retained as supplied. The Life Sciences subject becomes **Life Sciences Alchemy**.
 
-### 19.2 Life Sciences Alchemy hierarchy
+### 17.2 Life Sciences Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject structure. The source provides Life Sciences as the parent subject and lists 17 subordinate subjects without further subdivisions. Accordingly, each of the 17 listed subjects is recorded as a direct child of Life Sciences; no additional parent-child relationships are inferred.
 
@@ -494,7 +459,7 @@ The following hierarchy preserves the supplied subject structure. The source pro
   - **Virology Alchemy**
   - **Mycology Alchemy**
 
-### 19.3 Life Sciences Alchemy inventory
+### 17.3 Life Sciences Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
 |---|---|---|---|
@@ -521,7 +486,7 @@ The following hierarchy preserves the supplied subject structure. The source pro
 
 The source supplied the definition for Life Sciences and the names and placement of its 17 subordinate subjects. No additional subject definitions, subdivisions, or descriptions have been invented. Individual subordinate subject definitions must be developed without changing the supplied canonical names or parentage.
 
-## 20. Life Sciences Alchemy — 18 × 22 context matrix
+## 18. Life Sciences Alchemy — 18 × 22 context matrix
 
 The matrix below maps every Life Sciences subject Alchemy to all 22 canonical contexts. The column identifiers C01–C22 refer to the canonical context key in Section 8.2. Each **M** is a required mapping position. It does not, by itself, claim that the detailed context-specific expression has been authored, reviewed, implemented, tested, or verified.
 
@@ -550,7 +515,7 @@ The matrix below maps every Life Sciences subject Alchemy to all 22 canonical co
 
 The 396 intersections are the contextual mappings of the 18 Life Sciences Alchemies. They are not 396 additional subject classifications.
 
-## 21. Life Sciences contextual expression requirements
+## 19. Life Sciences contextual expression requirements
 
 Each of the 396 mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -568,7 +533,141 @@ Each of the 396 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 22. Change control
+## 20. Universal Subject of Knowledge hierarchy: Health Sciences
+
+### 20.1 Canonical subject definition
+
+**Health Sciences** — Knowledge related to health and medicine.
+
+This definition is retained as supplied. The Health Sciences subject becomes **Health Sciences Alchemy**.
+
+### 20.2 Health Sciences Alchemy hierarchy
+
+The following hierarchy preserves the supplied subject structure. The source provides Health Sciences as the parent subject and lists 14 subordinate subjects without further subdivisions. Accordingly, each of the 14 listed subjects is recorded as a direct child of Health Sciences; no additional parent-child relationships are inferred.
+
+- **Health Sciences Alchemy**
+  - **Medicine Alchemy**
+  - **Nursing Alchemy**
+  - **Surgery Alchemy**
+  - **Pharmacology Alchemy**
+  - **Public Health Alchemy**
+  - **Epidemiology Alchemy**
+  - **Nutrition Alchemy**
+  - **Physical Therapy Alchemy**
+  - **Occupational Therapy Alchemy**
+  - **Dentistry Alchemy**
+  - **Mental Health Alchemy**
+  - **Preventive Medicine Alchemy**
+  - **Emergency Medicine Alchemy**
+  - **Rehabilitation Science Alchemy**
+
+### 20.3 Health Sciences Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
+|---|---|---|---|
+| USA-HS-001 | Health Sciences | Health Sciences Alchemy | Root subject |
+| USA-HS-002 | Medicine | Medicine Alchemy | Health Sciences |
+| USA-HS-003 | Nursing | Nursing Alchemy | Health Sciences |
+| USA-HS-004 | Surgery | Surgery Alchemy | Health Sciences |
+| USA-HS-005 | Pharmacology | Pharmacology Alchemy | Health Sciences |
+| USA-HS-006 | Public Health | Public Health Alchemy | Health Sciences |
+| USA-HS-007 | Epidemiology | Epidemiology Alchemy | Health Sciences |
+| USA-HS-008 | Nutrition | Nutrition Alchemy | Health Sciences |
+| USA-HS-009 | Physical Therapy | Physical Therapy Alchemy | Health Sciences |
+| USA-HS-010 | Occupational Therapy | Occupational Therapy Alchemy | Health Sciences |
+| USA-HS-011 | Dentistry | Dentistry Alchemy | Health Sciences |
+| USA-HS-012 | Mental Health | Mental Health Alchemy | Health Sciences |
+| USA-HS-013 | Preventive Medicine | Preventive Medicine Alchemy | Health Sciences |
+| USA-HS-014 | Emergency Medicine | Emergency Medicine Alchemy | Health Sciences |
+| USA-HS-015 | Rehabilitation Science | Rehabilitation Science Alchemy | Health Sciences |
+
+**Health Sciences total: 15 distinct subject Alchemies.** This count includes Health Sciences Alchemy itself and the 14 directly subordinate subject Alchemies.
+
+The source supplied the definition for Health Sciences and the names and placement of its 14 subordinate subjects. No additional subject definitions, subdivisions, or descriptions have been invented. Individual subordinate subject definitions must be developed without changing the supplied canonical names or parentage.
+
+## 21. Health Sciences Alchemy — 15 × 22 context matrix
+
+The matrix below maps every Health Sciences subject Alchemy to all 22 canonical contexts. The column identifiers C01–C22 refer to the canonical context key in Section 8.2. Each **M** is a required mapping position. It does not, by itself, claim that the detailed context-specific expression has been authored, reviewed, implemented, tested, or verified.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-HS-001 · Health Sciences Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-002 · Medicine Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-003 · Nursing Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-004 · Surgery Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-005 · Pharmacology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-006 · Public Health Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-007 · Epidemiology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-008 · Nutrition Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-009 · Physical Therapy Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-010 · Occupational Therapy Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-011 · Dentistry Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-012 · Mental Health Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-013 · Preventive Medicine Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-014 · Emergency Medicine Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HS-015 · Rehabilitation Science Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Health Sciences matrix total:** 15 subject Alchemies × 22 contexts = **330 mapped intersections**.
+
+The 330 intersections are the contextual mappings of the 15 Health Sciences Alchemies. They are not 330 additional subject classifications.
+
+## 22. Health Sciences contextual expression requirements
+
+Each of the 330 mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 23. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains four supplied Universal Subjects of Knowledge hierarchies.
+
+| Universal Subject of Knowledge | Subject Alchemies | Contexts | Required mapped intersections |
+|---|---:|---:|---:|
+| Formal Sciences | 19 | 22 | 418 |
+| Physical Sciences | 23 | 22 | 506 |
+| Life Sciences | 18 | 22 | 396 |
+| Health Sciences | 15 | 22 | 330 |
+| **Cumulative total** | **75** | **22** | **1650** |
+
+The cumulative total represents 75 distinct subject Alchemies mapped across 22 contexts. It does not create 1650 new subject classifications. Each of the 1650 matrix positions requires a context-specific expression.
+
+## 24. Taxonomy status and release register
+
+| Item | State in version 0.5.0 |
+|---|---|
+| Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
+| Governing subject rule | Established: every Universal Subject becomes an Alchemy |
+| Context register | Established — 22 canonical contexts |
+| Subject-to-context mapping rule | Established — every subject Alchemy maps across all 22 contexts |
+| Formal Sciences source definition and hierarchy | Recorded as supplied — 19 distinct subject Alchemies |
+| Formal Sciences matrix | Recorded — 19 × 22 = 418 mapped intersections |
+| Physical Sciences source definition and hierarchy | Recorded as supplied — 23 distinct subject Alchemies |
+| Physical Sciences matrix | Recorded — 23 × 22 = 506 mapped intersections |
+| Life Sciences source definition and hierarchy | Recorded as supplied — 18 distinct subject Alchemies |
+| Life Sciences matrix | Recorded — 18 × 22 = 396 mapped intersections |
+| Health Sciences source definition and hierarchy | Recorded as supplied — 15 distinct subject Alchemies |
+| Health Sciences matrix | Recorded — 15 × 22 = 330 mapped intersections |
+| Cumulative subject Alchemy register | 75 distinct subject Alchemies |
+| Cumulative mapped intersections | 75 × 22 = 1650 required mappings |
+| Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
+| Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
+| Implementation and verification | Not asserted by this taxonomy entry |
+
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, and Health Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+
+## 25. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
