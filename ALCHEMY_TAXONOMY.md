@@ -768,6 +768,50 @@ These specializations coordinate the preceding disciplines without replacing or 
 - **Transportation Safety and Resilience Alchemy** — organizes the assessment, prevention, mitigation, and recovery of transportation hazards, operational disruptions, infrastructure failures, and mobility risks.
 - **Infrastructure Continuity Alchemy** — maintains the availability, accessibility, integrity, and recoverability of essential infrastructure and transportation services during routine operation, maintenance, emergencies, and disruptions.
 
+### 19. Agriculture, Food, and Resource Sciences Alchemy
+
+**Agriculture, Food, and Resource Sciences Alchemy** is the bounded process that organizes, studies, develops, produces, manages, processes, and transforms knowledge concerning agricultural systems, cultivated and managed biological resources, food production, forestry, fisheries, aquatic resources, soils, and water resources. It enables individuals, communities, and organizations to cultivate, harvest, process, distribute, and responsibly manage the biological and natural resources that support food systems, livelihoods, and human societies while maintaining productivity, nutritional quality, ecological integrity, resource continuity, and accountability.
+
+It encompasses the scientific, biological, agricultural, ecological, technological, operational, and resource-management disciplines concerned with food production, managed natural resources, agricultural development, and the systems that sustain food and resource availability. Every specialized Agriculture, Food, and Resource Sciences Alchemy remains an expression of the root Alchemy.
+
+#### 1. Agricultural and Crop Production Sciences Alchemies
+
+- **Agriculture Alchemy** — organizes the scientific and practical systems involved in cultivating crops, raising livestock, managing agricultural land, producing food and agricultural materials, and coordinating agricultural operations.
+- **Agronomy Alchemy** — organizes the science and management of crop production, soil productivity, plant nutrition, cultivation methods, crop rotation, agricultural practices, and the relationships between crops and their growing environments.
+
+#### 2. Forestry and Terrestrial Resource Sciences Alchemies
+
+- **Forestry Alchemy** — organizes the cultivation, management, conservation, harvesting, regeneration, and sustainable use of forests and woodland resources, including forest ecosystems, timber, and associated biological resources.
+- **Soil Science Alchemy** — organizes the study, classification, assessment, management, and improvement of soil composition, structure, fertility, biological activity, physical properties, and interactions with plants and environmental systems.
+
+#### 3. Food and Animal Sciences Alchemies
+
+- **Food Science Alchemy** — organizes the scientific study and application of principles concerning food composition, nutrition, processing, preservation, safety, quality, sensory characteristics, and food-related technologies.
+- **Animal Science Alchemy** — organizes the study and management of domesticated and managed animals, including their biology, genetics, nutrition, reproduction, health, behavior, welfare, and roles in agricultural and food-production systems.
+
+#### 4. Fisheries and Aquatic Resource Sciences Alchemies
+
+- **Fisheries Alchemy** — organizes the assessment, management, conservation, harvesting, and responsible use of fish populations and aquatic living resources across marine, freshwater, and other aquatic environments.
+- **Aquaculture Alchemy** — organizes the controlled cultivation, breeding, feeding, health management, production, and harvesting of aquatic organisms, including fish, shellfish, and aquatic plants.
+
+#### 5. Water Resource Sciences Alchemies
+
+- **Water Resource Management Alchemy** — organizes the assessment, allocation, development, conservation, monitoring, and responsible use of surface water, groundwater, and other freshwater resources to support agricultural, ecological, industrial, and human needs.
+
+#### 6. Cross-Disciplinary Agriculture, Food, and Resource Relationships
+
+These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+
+- **Agricultural Systems Integration Alchemy** — coordinates crop production, animal systems, soil management, water resources, agricultural technologies, and farming operations into coherent agricultural systems.
+- **Food Systems Integration Alchemy** — coordinates food production, processing, preservation, safety, distribution, access, and consumption across interconnected food systems.
+- **Food Security and Continuity Alchemy** — organizes the conditions, resources, infrastructure, and systems necessary to maintain reliable access to sufficient, safe, and nutritious food across changing circumstances.
+- **Soil and Crop Integration Alchemy** — coordinates soil characteristics, fertility, biological activity, crop requirements, and agricultural management to maintain productive and sustainable growing systems.
+- **Forest and Resource Continuity Alchemy** — organizes forest regeneration, resource management, biodiversity considerations, harvesting practices, and long-term continuity of forest resources.
+- **Aquatic Food Systems Integration Alchemy** — coordinates fisheries, aquaculture, aquatic ecosystems, production methods, food processing, and responsible aquatic resource management.
+- **Agricultural Water Systems Alchemy** — coordinates irrigation, drainage, water allocation, water conservation, agricultural water infrastructure, and crop and livestock water requirements.
+- **Food Quality and Safety Integration Alchemy** — coordinates food composition, nutritional characteristics, contamination prevention, processing controls, preservation, quality evaluation, and food safety throughout production and distribution.
+- **Biological Resource Production Alchemy** — coordinates the responsible cultivation, breeding, management, harvesting, and renewal of biological resources used for food, materials, and other productive purposes.
+
 ---
 
 ## Body Alchemy
