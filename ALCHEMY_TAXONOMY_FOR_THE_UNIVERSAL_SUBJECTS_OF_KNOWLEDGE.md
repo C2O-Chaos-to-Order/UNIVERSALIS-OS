@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.5.0  
-**Status:** Fourteen supplied Universal Subject hierarchies recorded; 207 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 1.6.0  
+**Status:** Fifteen supplied Universal Subject hierarchies recorded; 217 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -1572,9 +1572,92 @@ The 22 existing Ecology mappings are not duplicated here. They remain associated
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 68. Cumulative Universal Subject Alchemy register and mapping totals
+## 71. Universal Subject of Knowledge hierarchy: Earth, Space, and Planetary Sciences
 
-The taxonomy now contains fourteen supplied Universal Subjects of Knowledge hierarchies.
+### 71.1 Canonical subject definition
+
+**Source definition:** Not supplied in the Universal Subject material provided for this entry.
+
+The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Earth, Space, and Planetary Sciences subject becomes **Earth, Space, and Planetary Sciences Alchemy**.
+
+### 71.2 Earth, Space, and Planetary Sciences Alchemy hierarchy
+
+The following hierarchy preserves the supplied subject list. The source provides nine subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Earth, Space, and Planetary Sciences; no additional parent-child groupings have been inferred.
+
+- **Earth, Space, and Planetary Sciences Alchemy**
+  - **Geology Alchemy**
+  - **Hydrology Alchemy**
+  - **Volcanology Alchemy**
+  - **Seismology Alchemy**
+  - **Cartography Alchemy**
+  - **Remote Sensing Alchemy**
+  - **Space Science Alchemy**
+  - **Planetary Exploration Alchemy**
+  - **Astrobiology Alchemy**
+
+### 71.3 Earth, Space, and Planetary Sciences Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
+|---|---|---|---|
+| USA-ESP-001 | Earth, Space, and Planetary Sciences | Earth, Space, and Planetary Sciences Alchemy | Root subject |
+| USA-ESP-002 | Geology | Geology Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-003 | Hydrology | Hydrology Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-004 | Volcanology | Volcanology Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-005 | Seismology | Seismology Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-006 | Cartography | Cartography Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-007 | Remote Sensing | Remote Sensing Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-008 | Space Science | Space Science Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-009 | Planetary Exploration | Planetary Exploration Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-010 | Astrobiology | Astrobiology Alchemy | Earth, Space, and Planetary Sciences |
+
+**Earth, Space, and Planetary Sciences total: 10 distinct subject Alchemies** — one parent subject and nine supplied subordinate subjects. No exact canonical subject-Alchemy identity in the existing register is reused in this hierarchy. Related existing subjects, including Earth Science, Geophysics, Astronomy, Cosmology, and Planetary Science, remain distinct from the supplied subjects. Their conceptual relationships may be examined during the later mapping and relationship-analysis stages; conceptual proximity does not itself create a duplicate identity or justify merging subjects.
+
+The source supplied the subject name and its nine subordinate subject names, but no definition for Earth, Space, and Planetary Sciences and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred.
+
+## 72. Earth, Space, and Planetary Sciences Alchemy — 10 × 22 context matrix
+
+The matrix below maps all ten Earth, Space, and Planetary Sciences subject Alchemies to the 22 canonical contexts. Every row is a new subject Alchemy and contributes 10 × 22 = **220 new mapped intersections**. Each **M** records a required mapping position; it does not by itself claim that the detailed contextual expression has been authored, reviewed, implemented, tested, or verified.
+
+The column identifiers C01–C22 refer to the canonical context key in Section 8.2.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-ESP-001 · Earth, Space, and Planetary Sciences Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ESP-002 · Geology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ESP-003 · Hydrology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ESP-004 · Volcanology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ESP-005 · Seismology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ESP-006 · Cartography Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ESP-007 · Remote Sensing Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ESP-008 · Space Science Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ESP-009 · Planetary Exploration Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ESP-010 · Astrobiology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Earth, Space, and Planetary Sciences matrix total:** 10 subject Alchemies × 22 contexts = **220 new mapped intersections**.
+
+The 220 intersections are the context mappings of the ten established Earth, Space, and Planetary Sciences Alchemies. They are not 220 additional subject classifications. Each intersection must receive its own context-specific expression under its corresponding canonical Alchemy identity.
+
+## 73. Earth, Space, and Planetary Sciences contextual expression requirements
+
+Each of the 220 mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 74. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains fifteen supplied Universal Subjects of Knowledge hierarchies.
 
 | Universal Subject of Knowledge | Alchemy hierarchy positions | New unique subject Alchemies | Contexts | New unique mapped intersections |
 |---|---:|---:|---:|---:|
@@ -1592,13 +1675,14 @@ The taxonomy now contains fourteen supplied Universal Subjects of Knowledge hier
 | Arts and Creative Expression | 16 | 16 | 22 | 352 |
 | Education and Learning Sciences | 9 | 9 | 22 | 198 |
 | Environmental Sciences | 11 (10 new + 1 shared) | 10 | 22 | 220 (22 shared, not added) |
-| **Cumulative unique total** | **211 hierarchy positions** | **207** | **22** | **4554** |
+| Earth, Space, and Planetary Sciences | 10 | 10 | 22 | 220 |
+| **Cumulative unique total** | **221 hierarchy positions** | **217** | **22** | **4774** |
 
-The cumulative total represents 207 distinct subject Alchemies mapped across 22 contexts, producing 4554 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes nine new subject Alchemies and 198 new mapped intersections. Environmental Sciences contributes ten new subject Alchemies and 220 new mapped intersections; the existing Ecology Alchemy contributes 22 shared mapping references and is not counted twice.
+The cumulative total represents 217 distinct subject Alchemies mapped across 22 contexts, producing 4774 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes nine new subject Alchemies and 198 new mapped intersections. Environmental Sciences contributes ten new subject Alchemies and 220 new mapped intersections; the existing Ecology Alchemy contributes 22 shared mapping references and is not counted twice. Earth, Space, and Planetary Sciences contributes ten new subject Alchemies and 220 new mapped intersections.
 
-## 69. Taxonomy status and release register
+## 75. Taxonomy status and release register
 
-| Item | State in version 1.5.0 |
+| Item | State in version 1.6.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -1640,15 +1724,18 @@ The cumulative total represents 207 distinct subject Alchemies mapped across 22 
 | Environmental Sciences source definition | Not supplied; no definition inferred |
 | Environmental Sciences hierarchy | Recorded — 11 positions: 10 new Alchemies and 1 shared existing Ecology Alchemy |
 | Environmental Sciences matrix | Recorded — 242 positions: 220 new mappings and 22 references to existing Ecology mappings |
-| Cumulative unique subject Alchemy register | 207 distinct subject Alchemies |
-| Cumulative unique mapped intersections | 207 × 22 = 4554 required mappings |
+| Earth, Space, and Planetary Sciences source definition | Not supplied; no definition inferred |
+| Earth, Space, and Planetary Sciences hierarchy | Recorded — 10 distinct subject Alchemies: 1 parent and 9 supplied subordinate subjects |
+| Earth, Space, and Planetary Sciences matrix | Recorded — 10 × 22 = 220 new mapped intersections |
+| Cumulative unique subject Alchemy register | 217 distinct subject Alchemies |
+| Cumulative unique mapped intersections | 217 × 22 = 4774 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, and Environmental Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, Environmental Sciences, and Earth, Space, and Planetary Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 70. Change control
+## 76. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
