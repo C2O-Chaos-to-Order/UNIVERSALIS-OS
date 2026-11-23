@@ -62,6 +62,142 @@ This standard applies to every root Alchemy, every named subordinate Alchemy, ev
 **Consistency acceptance rule:** An Alchemy section is context-consistent only when all 22 canonical contexts are explicitly listed or referenced through a complete, version-matched 22-row mapping; every row has one of the four required applicability states; edition and host boundaries are preserved; and unresolved or unsupported assignments remain visibly unresolved. This rule governs all sections, not only the sections that reproduce the registry.
 
 
+### 1.3 Universal Operational Lifecycle
+
+Every Alchemy is assessed against a common operational lifecycle reference. This lifecycle describes the operations that may be required to examine, organize, maintain, develop, or transform its subject. It is a reference model, not a requirement that every Alchemy perform every operation, perform them in a fixed order, or possess authority to execute them. Each Alchemy's definition and Matrix Alchemy record must establish which operations apply, their sequence or dependencies, any repetition or conditional triggers, the inputs and outputs involved, the applicable controls, and the evidence needed to evaluate them.
+
+The common operational lifecycle consists of:
+
+1. **Identification** — Identify the subject, intended purpose, relevant state, domain, entities, relationships, and applicable context.
+2. **Examination** — Examine relevant characteristics, conditions, history, constraints, dependencies, risks, and available evidence.
+3. **Classification** — Establish the appropriate identity, category, distinctions, status, and boundaries without collapsing materially different subjects or contexts.
+4. **Organization** — Arrange relevant components, information, responsibilities, interfaces, and relationships within the defined scope.
+5. **Integration** — Establish compatible connections or coordinated operation while preserving autonomy, identity, authority, permissions, and applicable boundaries.
+6. **Maintenance** — Preserve required continuity, integrity, accountability, safety, and operational condition.
+7. **Development** — Improve or extend structures, relationships, processes, or capabilities only within authorized scope and defined constraints.
+8. **Transformation** — Perform bounded changes toward an identified outcome, with appropriate controls, traceability, and recovery provisions.
+9. **Verification** — Evaluate the resulting state against defined requirements, acceptance criteria, tests, and evidence.
+10. **Accountability and Recordkeeping** — Record actions, decisions, responsible authorities, inputs, outputs, limitations, failures, unresolved matters, and review outcomes.
+
+The applicable lifecycle is specific to each Alchemy. Omission of a lifecycle operation must be intentional and supported by its scope and purpose; it must not be inferred from a missing definition. No lifecycle operation authorizes itself. Required authority, permissions, consent, safeguards, and evidence must be established independently.
+
+### 1.4 Alchemy Identity and Definition Standard
+
+Every root Alchemy, named subordinate Alchemy, and edition-specific expression must have a sufficiently complete definition record to establish what it is, why it exists, what it does, where it applies, and how its boundaries are maintained.
+
+Each definition record must identify, where applicable:
+
+1. **Canonical name** — The exact name used throughout the taxonomy.
+2. **Parent and structural position** — The parent Alchemy, subordinate relationship, and location in the taxonomy; a root Alchemy must be identified as such.
+3. **Domain and classification** — The domain, category, and relevant classification.
+4. **Purpose** — The reason the Alchemy exists and the problem, responsibility, or function it addresses.
+5. **Operational definition** — The bounded process it performs, governs, supports, or describes.
+6. **Intended outcomes and criteria** — The intended result and the criteria by which that result may be assessed.
+7. **Scope and exclusions** — The subjects, functions, contexts, and activities included, together with explicit exclusions and limits.
+8. **Functions and lifecycle operations** — The operations it performs or governs and the applicable lifecycle stages.
+9. **Subjects and components** — The entities, structures, processes, information, interfaces, or states with which it works.
+10. **Relationships and dependencies** — Its parent, child, complementary, supporting, sequential, interdependent, conditional, and other material relationships.
+11. **Canonical context applicability** — Its separately assessed relationship to all 22 contexts under Section 1.2.
+12. **Edition and hosting boundaries** — Whether an expression is associated with C2O or UNIVERSALIS and whether it is OS-hosted, application-hosted, or associated with a core-intelligence context.
+13. **Authority, permissions, and consent** — The authority responsible for the expression and the permissions or human consent required for its operation.
+14. **Constraints and safeguards** — Applicable safety, privacy, autonomy, security, integrity, containment, and recovery requirements.
+15. **Inputs, outputs, and effects** — Relevant inputs, outputs, state changes, side effects, and downstream impacts.
+16. **Evidence and limitations** — Evidence sources, evidence status, known limitations, assumptions, gaps, and unresolved matters.
+17. **Verification requirements** — Review methods, tests, acceptance criteria, and results needed to substantiate its defined operation.
+18. **Review and revision history** — The applicable version or revision identifier, change rationale, review status, and recorded approvals or acceptance.
+
+A definition record may reference a shared registry or controlled mapping instead of repeating information, but the reference must be complete, accessible within the relevant edition, version-matched, and unambiguous. A missing field must be recorded as unresolved or not applicable with a rationale where required; it must not be silently assumed.
+
+### 1.5 Relationship and Dependency Standard
+
+Every Alchemy must identify the material relationships through which it connects to other Alchemies and ecosystem structures. Relationship descriptions must distinguish, as applicable:
+
+- **Parent–child relationships** — Structural placement of a subordinate Alchemy beneath a parent Alchemy.
+- **Complementary relationships** — Distinct Alchemies whose functions support or complete one another without becoming the same function.
+- **Supporting relationships** — An Alchemy provides a defined service, capability, or function to another.
+- **Sequential relationships** — One Alchemy's output, result, or completed operation is a defined input or prerequisite for another.
+- **Interdependent relationships** — Two or more Alchemies require one another to perform a specified function or achieve a specified outcome.
+- **Conditional relationships** — A relationship or operation applies only when stated conditions are satisfied.
+- **Independent relationships** — Alchemies may coexist or interact without requiring operational dependence on one another.
+- **Conflicting or incompatible relationships** — Requirements, permissions, operations, or assumptions that cannot safely or coherently coexist under the stated conditions.
+
+Each material relationship must identify its purpose, direction where relevant, conditions, dependencies, applicable contexts, authority boundaries, and evidence or rationale. Where a relationship is uncertain, it must be recorded as unresolved rather than inferred.
+
+A structural relationship does not automatically confer authority, permission, access, implementation, or operational dependency. Parent–child placement establishes taxonomy structure; it does not grant a child the parent's authority or allow the child to expand the parent's scope. Complementarity does not imply equivalence, and interoperability does not imply shared governance or unrestricted exchange.
+
+### 1.6 Separation of Taxonomy, Applicability, Implementation, and Evidence
+
+The taxonomy must maintain four distinct dimensions:
+
+1. **Taxonomy** establishes an Alchemy's identity, definition, classification, purpose, scope, structure, and declared relationships.
+2. **Applicability** establishes whether and under what conditions that Alchemy applies to each of the 22 canonical contexts. Applicability is recorded using the four states defined in Section 1.2: **Applicable**, **Conditional**, **Not Applicable**, or **Unresolved**.
+3. **Implementation** establishes whether and how the Alchemy has been realized in an operating system, application, intelligence structure, assistant structure, Guardian structure, process, or other relevant environment.
+4. **Evidence and verification** establish what has been observed, inspected, tested, reviewed, or otherwise substantiated about the definition, applicability, or implementation.
+
+These dimensions must never be treated as interchangeable. Taxonomy inclusion does not establish applicability in every context. An **Applicable** state does not establish that an Alchemy is implemented, authorized, available, tested, or verified. A **Conditional** state must identify the conditions and the evidence needed to determine whether they are satisfied. A **Not Applicable** state must have a scope-based rationale. An **Unresolved** state identifies an open question or insufficient determination and must remain visible until resolved.
+
+Implementation and evidence statuses must be recorded separately from applicability states. Where the project evidence framework uses statuses such as proposed, documented, implemented, tested, verified, unverified, failed, or unresolved, those statuses describe the evidence or implementation condition; they do not replace the four applicability states. Every claim must be limited to what its evidence actually supports.
+
+### 1.7 Authority, Autonomy, and Boundary Preservation
+
+Alchemy is an operational and organizational process; its inclusion in this taxonomy does not itself create, transfer, enlarge, or delegate authority. Authority must derive from the applicable governance structure, designated responsibility, authorized permissions, and explicit human consent where required.
+
+Every Alchemy must preserve:
+
+- The distinct identities, governance, source visibility, responsibilities, and authority boundaries of C2O and UNIVERSALIS.
+- C2O's private-source governance, protected implementation, internal policies, keys, records, and other non-public material.
+- UNIVERSALIS's public contracts, inspectability, and independent operability without dependence on C2O private implementation, policies, keys, or records.
+- The distinction between the two core intelligences and subordinate intelligence-related functions.
+- The distinction between non-personal UNIVERSALIN assistants and human-bound UNIVERSALIN Guardians.
+- The designated human's authority, consent, autonomy, privacy, purpose, and permissions in every Guardian-related context.
+
+Capability does not establish permission; permission does not prove capability; taxonomy inheritance does not establish either. Integration, mapping, shared terminology, or a paired C2O–UNIVERSALIS context must not be interpreted as authorization to access, disclose, control, or transfer another entity's protected resources or authority.
+
+Where an operation would exceed its defined scope, violate an applicable boundary, lack required consent, or fail a necessary safeguard, the operation must be withheld, constrained, or stopped under the applicable governance and safety controls. Any resulting exception, failure, or unresolved condition must be recorded and reviewed.
+
+### 1.8 Change Control and Version Management
+
+Changes to an Alchemy definition, relationship, parent mapping, applicability state, or foundational standard must be evaluated for their effects on the wider taxonomy before acceptance.
+
+A change-impact review must identify, as applicable:
+
+1. The previous and proposed definitions or mappings.
+2. The reason and intended effect of the change.
+3. The affected parent, child, related, and dependent Alchemies.
+4. The affected canonical contexts and their applicability states.
+5. The effects on C2O and UNIVERSALIS edition boundaries.
+6. The effects on OS-hosted and application-hosted expressions.
+7. The effects on authority, permissions, consent, security, privacy, safety, and dependencies.
+8. The evidence, tests, and verification required after the change.
+9. The review status, responsible authority, acceptance status, and implementation status.
+10. The corresponding changes required in all four repositories.
+
+Changes to a parent Alchemy or a shared standard must trigger review of every affected subordinate Alchemy and dependent mapping. A change in one repository must not be allowed to create an unreviewed divergence in another. The four repository copies must be updated from the same approved content and revision, with the change traceable across all four.
+
+The change record must preserve the prior state, the revised state, the rationale, and the review and acceptance history. Proposed, reviewed, accepted, implemented, and verified are distinct states and must not be conflated. No change is treated as accepted, implemented, or verified merely because text has been edited or copied into a repository.
+
+### 1.9 Taxonomy Consistency and Verification Standard
+
+The Alchemy Taxonomy is one shared canonical body of definitions and structural requirements maintained consistently across **C2O-OS**, **C2O-App**, **UNIVERSALIS-OS**, and **UNIVERSALIS-App**. The four copies must contain identical taxonomy text. Repository-specific governance, access controls, source visibility, implementation, and evidence remain governed by their respective boundaries; those differences do not justify divergent definitions in the shared taxonomy document.
+
+A consistency review must verify all of the following:
+
+1. **Content parity:** The complete `ALCHEMY_TAXONOMY.md` content is identical across all four repositories, including wording, headings, ordering, lists, tables, and punctuation.
+2. **Canonical naming:** Canonical names, spellings, abbreviations, and identity boundaries are preserved consistently.
+3. **Context completeness:** Every Alchemy is traceable to all 22 canonical context identifiers in the exact order established in Section 1.2, either through an explicit listing or a complete, version-matched mapping.
+4. **Applicability completeness:** Every context relationship has exactly one required applicability state, with rationale and conditions where applicable. No blank, omitted, or assumed state is accepted.
+5. **Structural correctness:** Parent–child placement, domain classification, relationship direction, and dependency claims are explicit and internally consistent.
+6. **Edition correctness:** C2O and UNIVERSALIS remain separately represented where required, without leakage of private-source material or introduction of C2O private dependencies into UNIVERSALIS.
+7. **Host and subject correctness:** OS, Application, core-intelligence, UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts are correctly distinguished.
+8. **Authority and boundary correctness:** No definition, inheritance rule, relationship, mapping, or implementation claim silently expands authority, permission, access, consent, or scope.
+9. **Evidence correctness:** Proposed, documented, implemented, tested, verified, unverified, failed, and unresolved matters are represented according to their actual evidence status. Unsupported claims remain qualified or unresolved.
+10. **Change traceability:** Changes to foundational or parent definitions have corresponding impact reviews and synchronized records for all four repositories.
+11. **Preservation of unaffected material:** A section update does not silently alter, remove, reorder, or replace unrelated taxonomy content.
+12. **Independent review:** The revised section and its four repository copies are checked against the acceptance criteria rather than accepted solely because the same text was copied.
+
+**Section acceptance rule:** Section 1 is consistent when its definitions and standards are complete and internally coherent; the 22-context registry and all four applicability states remain intact; the required distinctions and boundaries are preserved; the change and evidence records are traceable; and all four repository copies contain identical taxonomy text. An explicitly recorded **Unresolved** matter may remain open without being misrepresented as resolved or verified. Acceptance of taxonomy consistency does not, by itself, claim that every Alchemy is implemented or operationally verified.
+
+
 ## 2. Foundational Structural Alchemies
 
 Foundational Structural Alchemies establish the structures, relationships, correspondences, and applicability requirements through which the wider Alchemy Taxonomy is organized and maintained.
