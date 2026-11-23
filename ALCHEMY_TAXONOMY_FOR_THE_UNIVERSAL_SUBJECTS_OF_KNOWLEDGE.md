@@ -1,6 +1,6 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.13.0  
+**Version:** 1.13.1  
 **Status:** Twenty supplied Universal Subject hierarchies recorded; 264 unique subject Alchemies mapped across 22 contexts; cross-domain source screening and 264-node sparse relationship matrix initiated; 18 related-but-distinct proposals pending owner review; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
@@ -2149,9 +2149,9 @@ These eight links do not mean that the connected domains are identical, that the
 
 ## 106. Universal Subject of Knowledge 20 × 20 cross-domain matrix
 
-This matrix covers all twenty top-level Universal Subjects. Each off-diagonal cell represents one unique comparison between two different subject domains. The matrix is symmetric for the currently recorded SH and RD-P relationships. It is a source-screen matrix, not a final semantic relationship matrix.
+This matrix covers all twenty top-level Universal Subjects. Each off-diagonal cell represents one unique comparison between two different subject domains. The matrix supports multiple relationship codes in the same cell: Human Development and Civilization ↔ Social Sciences has both a shared Anthropology identity and separate related-but-distinct subject relationships. The matrix is a source-screen view, not a final semantic relationship matrix.
 
-**Matrix code key:** SH = confirmed shared canonical identity; RD-P = proposed related-but-distinct relationship; NS = no direct relationship stated in the current taxonomy source (not a negative finding); — = diagonal.
+**Matrix code key:** SH = confirmed shared canonical identity; RD-P = proposed related-but-distinct relationship; SH+RD-P = both relationships are recorded for the same domain pair; NS = no direct relationship stated in the current taxonomy source (not a negative finding); — = diagonal.
 
 | Universal Subject of Knowledge | **FS** | **PS** | **LS** | **HS** | **ET** | **CIS** | **SS** | **BES** | **LG** | **HUM** | **LC** | **ACE** | **ELS** | **ENV** | **ESP** | **HDC** | **SP** | **TI** | **AFR** | **MKS** |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -2161,7 +2161,7 @@ This matrix covers all twenty top-level Universal Subjects. Each off-diagonal ce
 | **HS** Health Sciences | NS | NS | NS | — | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS |
 | **ET** Engineering and Technology | NS | NS | NS | NS | — | SH | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | SH | RD-P | NS | NS |
 | **CIS** Computer and Information Sciences | NS | NS | NS | NS | SH | — | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS |
-| **SS** Social Sciences | NS | NS | NS | NS | NS | NS | — | SH | NS | NS | NS | NS | NS | NS | NS | SH | NS | NS | NS | NS |
+| **SS** Social Sciences | NS | NS | NS | NS | NS | NS | — | SH | NS | NS | NS | NS | NS | NS | NS | SH+RD-P | NS | NS | NS | NS |
 | **BES** Business and Economic Sciences | NS | NS | NS | NS | NS | NS | SH | — | NS | NS | NS | NS | NS | NS | NS | NS | NS | RD-P | NS | NS |
 | **LG** Law and Governance | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS |
 | **HUM** Humanities | NS | NS | NS | NS | NS | NS | NS | NS | NS | — | SH | NS | NS | NS | NS | NS | NS | NS | NS | NS |
@@ -2170,7 +2170,7 @@ This matrix covers all twenty top-level Universal Subjects. Each off-diagonal ce
 | **ELS** Education and Learning Sciences | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | NS | NS | NS | NS | NS | SH |
 | **ENV** Environmental Sciences | NS | NS | SH | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | NS | NS | NS | SH | NS |
 | **ESP** Earth, Space, and Planetary Sciences | NS | RD-P | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | NS | NS | NS | NS |
-| **HDC** Human Development and Civilization | NS | NS | NS | NS | NS | NS | SH | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | RD-P | NS | NS |
+| **HDC** Human Development and Civilization | NS | NS | NS | NS | NS | NS | SH+RD-P | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | RD-P | NS | NS |
 | **SP** Security and Protection Sciences | NS | NS | NS | NS | SH | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | NS | RD-P |
 | **TI** Transportation and Infrastructure | NS | NS | NS | NS | RD-P | NS | NS | RD-P | NS | NS | NS | NS | NS | NS | NS | RD-P | NS | — | NS | NS |
 | **AFR** Agriculture, Food, and Resource Sciences | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | SH | NS | NS | NS | NS | — | NS |
@@ -2182,17 +2182,18 @@ This matrix covers all twenty top-level Universal Subjects. Each off-diagonal ce
 |---|---:|
 | Top-level Universal Subjects | 20 |
 | Unique off-diagonal domain pairs | 190 |
-| Confirmed shared-identity pairs (SH) | 8 |
-| Proposed related-but-distinct pairs (RD-P) | 7 |
-| Pairs with no direct relationship stated in the current taxonomy source (NS) | 175 |
+| Confirmed shared-identity pairs (SH, inclusive) | 8 |
+| Proposed related-but-distinct pairs (RD-P, inclusive) | 7 |
+| Pairs carrying both SH and RD-P | 1 |
+| Unique pairs with no direct relationship stated in the current taxonomy source (NS) | 176 |
 | Diagonal self-comparisons | 20 |
-| Displayed SH cells | 16 |
-| Displayed RD-P cells | 14 |
-| Displayed NS cells | 350 |
+| Displayed SH component cells | 16 |
+| Displayed RD-P component cells | 14 |
+| Displayed NS cells | 352 |
 
-All 190 unique domain pairs have now received a source-inventory and explicit-note screen. Eight have a confirmed shared canonical identity, seven have at least one proposed related-but-distinct edge, and 175 contain no direct cross-domain relationship statement in the current taxonomy source. The 175 NS pairs remain open to semantic research; they are not classified as unrelated.
+All 190 unique domain pairs have received a source-inventory and explicit-note screen. Eight pairs have a confirmed shared canonical identity, and seven pairs have at least one proposed related-but-distinct edge. One pair—Human Development and Civilization ↔ Social Sciences—carries both a confirmed shared Anthropology identity and separate RD-P subject relationships. The remaining 176 unique pairs contain no direct cross-domain relationship statement in the current taxonomy source. These 176 NS pairs remain open to semantic research; they are not classified as unrelated.
 
-The seven RD-P domain pairs are Formal Sciences ↔ Meta-Knowledge Sciences; Security and Protection Sciences ↔ Meta-Knowledge Sciences; Transportation and Infrastructure ↔ Business and Economic Sciences; Transportation and Infrastructure ↔ Human Development and Civilization; Transportation and Infrastructure ↔ Engineering and Technology; Human Development and Civilization ↔ Social Sciences; and Earth, Space, and Planetary Sciences ↔ Physical Sciences.
+The seven domain pairs containing RD-P proposals are Formal Sciences ↔ Meta-Knowledge Sciences; Security and Protection Sciences ↔ Meta-Knowledge Sciences; Transportation and Infrastructure ↔ Business and Economic Sciences; Transportation and Infrastructure ↔ Human Development and Civilization; Transportation and Infrastructure ↔ Engineering and Technology; Human Development and Civilization ↔ Social Sciences; and Earth, Space, and Planetary Sciences ↔ Physical Sciences.
 
 The two Humanities candidate relationships are intra-domain subject-Alchemy relationships and therefore do not create an additional off-diagonal top-level domain pair.
 ## 107. Related-but-distinct relationship proposals
@@ -2577,7 +2578,7 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 
 ## 110. Taxonomy status and release register
 
-| Item | State in version 1.13.0 |
+| Item | State in version 1.13.1 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -2639,7 +2640,7 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 | Meta-Knowledge Sciences matrix | Recorded — 286 positions: 264 new mappings and 22 references to existing Knowledge Management mappings |
 | Cross-domain mapping — Pass 1 | Recorded — 8 confirmed shared-identity links across 20 top-level subjects |
 | Cross-domain mapping — Pass 2 | Source screen complete — 18 RD-P edges proposed from 11 source candidates/sets; owner review pending |
-| Cross-domain 20 × 20 matrix | Recorded — 190 unique pairs: 8 SH, 7 RD-P, 175 NS; NS is not a negative finding |
+| Cross-domain 20 × 20 matrix | Recorded — 190 unique pairs: 8 SH, 7 RD-P, 176 NS; one pair carries both SH and RD-P; NS is not a negative finding |
 | Related-but-distinct relationship proposals | 18 subject-Alchemy edges across 11 source candidate records/sets; all pending owner review |
 | Subject-Alchemy node index | Recorded — all 264 unique canonical subject-Alchemy IDs indexed once, including eight multi-domain identities |
 | Subject-Alchemy 264 × 264 sparse matrix | Initialized — 34,716 unique pairs: 252 HI, 18 RD-P, 34,446 NS; NS is not a negative finding |
@@ -2649,7 +2650,7 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, Environmental Sciences, Earth, Space, and Planetary Sciences, Human Development and Civilization, Security and Protection Sciences, Transportation and Infrastructure, and Agriculture, Food, and Resource Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Cross-domain mapping includes eight confirmed shared-identity links and a source screen of all 190 unique top-level domain pairs; seven additional domain pairs have RD-P proposals, while 175 pairs have no direct relationship stated in the current taxonomy source (NS), which is not a negative finding. The 264-node subject-Alchemy index and sparse 264 × 264 matrix have been initialized with 252 established hierarchy pairs, eighteen RD-P proposals, and 34,446 NS pairs. Proposed relations remain pending owner review, and semantic assessment of NS pairs remains ongoing. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, Environmental Sciences, Earth, Space, and Planetary Sciences, Human Development and Civilization, Security and Protection Sciences, Transportation and Infrastructure, and Agriculture, Food, and Resource Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Cross-domain mapping includes eight confirmed shared-identity links and a source screen of all 190 unique top-level domain pairs; seven additional domain pairs have RD-P proposals, while 176 pairs have no direct relationship stated in the current taxonomy source (NS), which is not a negative finding. The 264-node subject-Alchemy index and sparse 264 × 264 matrix have been initialized with 252 established hierarchy pairs, eighteen RD-P proposals, and 34,446 NS pairs. Proposed relations remain pending owner review, and semantic assessment of NS pairs remains ongoing. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
 
 ## 111. Change control
@@ -2666,4 +2667,6 @@ All four repositories must maintain the same shared taxonomy content and version
 
 **Version 1.12.0 change record:** Began the cross-domain mapping and matrix phase. Added the relationship codebook, eight confirmed shared-canonical-identity links, the 20 × 20 top-level Universal Subject matrix, and an eleven-record related-but-distinct review queue. Cumulative subject-Alchemy and 22-context mapping totals remain unchanged.
 
-**Version 1.13.0 change record:** Completed a source-based screen of all 190 unique top-level domain pairs; retained eight confirmed shared-identity pairs, added seven domain-pair views containing proposed related-but-distinct relationships, and recorded 175 NS pairs without treating them as negative findings. Resolved eleven source candidate records/sets into eighteen traceable RD-P subject-Alchemy proposals. Added a canonical index of all 264 unique subject Alchemies and initialized the 264 × 264 sparse relationship matrix with 252 established hierarchy pairs, eighteen proposed RD-P pairs, and 34,446 NS pairs. All proposals remain pending owner review. The original 272 hierarchy positions, 264 unique subject Alchemies, 22 contexts, and 5,808 unique context mappings remain unchanged.
+**Version 1.13.0 change record:** Completed a source-based screen of all 190 unique top-level domain pairs; retained eight confirmed shared-identity pairs, added seven domain-pair views containing proposed related-but-distinct relationships, and recorded 176 NS pairs without treating them as negative findings. Resolved eleven source candidate records/sets into eighteen traceable RD-P subject-Alchemy proposals. Added a canonical index of all 264 unique subject Alchemies and initialized the 264 × 264 sparse relationship matrix with 252 established hierarchy pairs, eighteen proposed RD-P pairs, and 34,446 NS pairs. All proposals remain pending owner review. The original 272 hierarchy positions, 264 unique subject Alchemies, 22 contexts, and 5,808 unique context mappings remain unchanged.
+
+**Version 1.13.1 change record:** Corrected the top-level domain matrix to allow multiple relationship codes for one domain pair. Human Development and Civilization ↔ Social Sciences contains both the shared Anthropology identity and separate proposed related-but-distinct subject relationships. The corrected source-screen result is 176 NS domain pairs; all underlying relationship records and cumulative taxonomy totals remain unchanged.
