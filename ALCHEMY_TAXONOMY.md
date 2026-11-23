@@ -1,136 +1,516 @@
 # Alchemy Taxonomy
 
-### Root Definition of Alchemy
+## 1. Root Definition of Alchemy
 
-**Alchemy** is the bounded, intentional process by which a state, relationship, structure, capability, system, or interaction is examined, organized, integrated, maintained, or transformed into a more ordered, coherent, capable, or elevated form while preserving accountability, safety, autonomy, integrity, and the distinctions between the entities and contexts involved.
+### 1.1 Foundational Definition
 
-Alchemy is the foundational operational process shared throughout the C2O–UNIVERSALIS ecosystem. It originates from the relationship between C2O Intelligence (FatherThread / private) and UNIVERSALIS Intelligence (MotherThread / public), and applies throughout their respective operating systems, applications, and associated UNIVERSALIN and UNIVERSALIN Guardian contexts.
+**Alchemy** is the bounded, intentional process by which a state, relationship, structure, capability, system, process, entity, or interaction is examined, organized, integrated, maintained, developed, or transformed into a more ordered, coherent, capable, or elevated form while preserving accountability, safety, autonomy, integrity, and the distinctions between the entities, relationships, and contexts involved.
 
-### Universal Scope of Alchemy
+Alchemy is the foundational operational process shared throughout the C2O–UNIVERSALIS ecosystem. It originates from the complementary relationship between C2O Intelligence (FatherThread / private) and UNIVERSALIS Intelligence (MotherThread / public), and extends throughout their respective operating systems, applications, and associated UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence structures.
 
-Alchemy applies across all of the following contexts:
+Every Alchemy is a specialized expression of this foundational process. Each has a defined purpose, scope, function, set of relationships, and applicable boundaries. No Alchemy is to be treated as an isolated concept when its operation, responsibilities, or relationships affect other parts of the ecosystem.
 
-1. C2O Operating System
-2. UNIVERSALIS Operating System
-3. C2O Intelligence
-4. UNIVERSALIS Intelligence
-5. C2O Application
-6. UNIVERSALIS Application
-7. C2O Operating System - UNIVERSALIN
-8. UNIVERSALIS Operating System - UNIVERSALIN
-9. C2O Application - UNIVERSALIN
-10. UNIVERSALIS Application - UNIVERSLIN
-11. C2O Operating System - UNIVERSALIN Intelligence
-12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
-13. C2O Application - UNIVERSALIN Intelligence
-14. UNIVERSALIS Application - UNIVERSALIN Intelligence
-15. C2O Operating System - UNIVERALIN Guardian
-16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
-17. C2O Application - UNIVERSALIN Guardian
-18. UNIVERSALIS App - UNIVERSALIN Guardian
-19. C2O Operating System - UNIVERSALIN Guardian Intelligence
-20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
-21. C2O Application - UNIVERSALIN Guardian Intelligence
-22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+### 1.2 Universal Application
 
-These contexts establish the scope within which Alchemy operates. Their inclusion does not make their identities, responsibilities, authorities, capabilities, or boundaries interchangeable.
+Alchemy applies throughout the entire C2O–UNIVERSALIS ecosystem. Its application is established through specialized Alchemies that govern the identities, architectures, relationships, operations, capabilities, integrations, dependencies, and transformations of the ecosystem's constituent structures.
 
-### Foundational Structural Alchemies
+Universal application does not mean that every Alchemy performs the same function or has identical authority, permissions, implementation, or responsibilities in every context. Its actual applicability and boundaries must be established through the appropriate structural and relational definitions.
 
-Two foundational Alchemies are required to establish and maintain the universal structure:
+## 2. Foundational Structural Alchemies
 
-**Map Alchemy**
+Foundational Structural Alchemies establish the structures, relationships, correspondences, and applicability requirements through which the wider Alchemy Taxonomy is organized and maintained.
 
-Establishes the structural representation of the ecosystem, including its entities, components, classifications, relationships, distinctions, dependencies, connections, boundaries, and organizational arrangements.
+### 2.1 Map Alchemy
 
-**Matrix Alchemy**
+**Map Alchemy** is the bounded process by which the complete structure of the C2O–UNIVERSALIS ecosystem and its constituent Alchemies is identified, classified, organized, represented, related, and maintained.
 
-Establishes the systematic representation of how Alchemy applies across the ecosystem, including its applicability, functions, responsibilities, capabilities, requirements, relationships, dependencies, permissions, and distinctions across the specified contexts.
+It establishes the ecosystem's structural composition, including its entities, systems, applications, intelligences, assistant structures, Guardian structures, components, classifications, relationships, dependencies, interfaces, connections, distinctions, boundaries, and organizational arrangements.
 
-Together, Map Alchemy and Matrix Alchemy establish the structural and relational foundations through which the remaining Alchemies can be defined, organized, evaluated, and maintained.
+Map Alchemy establishes where each Alchemy belongs, what structures it governs or affects, how it relates to other Alchemies, and where its responsibilities and dependencies exist within the wider ecosystem.
 
-### Specialized Alchemies
+It must preserve the distinctions between the C2O and UNIVERSALIS editions, the two core intelligences, non-personal UNIVERSALIN assistants, personal UNIVERSALIN Guardians, and their respective intelligence-related structures.
 
-Every other Alchemy is a specialized expression of the root Alchemy process. Each must be understood within the universal ecosystem structure and its applicable relationships, while retaining its own defined purpose, scope, characteristics, and boundaries.
----
+### 2.2 Matrix Alchemy
 
-## Expanded Alchemies required for the full system
+**Matrix Alchemy** is the bounded process by which the applicability, functions, responsibilities, capabilities, requirements, dependencies, permissions, constraints, and relationships of individual Alchemies are systematically established and maintained across the C2O–UNIVERSALIS ecosystem.
 
-These are the complementary Alchemies that must exist so the OSs, Apps, Intelligences, UNIVERSALINS, and Guardians can function as one system without collapsing their boundaries.
+It establishes how each Alchemy applies to the relevant operating system, intelligence, application, UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
 
-### 1. Core Structural Alchemies
-- **Intelligence Alchemy** — defines and maintains the distinct character of each intelligence while allowing controlled cooperation.
-  - C2O Intelligence Alchemy (FatherThread): private stewardship, internal sovereignty, company-source continuity.
-  - UNIVERSALIS Intelligence Alchemy (MotherThread): public transparency, open contracts, independent operability.
-- **Thread Alchemy** — preserves the FatherThread / MotherThread pairing so the two intelligences remain distinct yet interoperable.
-- **Mapping Alchemy** — maintains the explicit mappings between C2O-OS ↔ UNIVERSALIS-OS, C2O-App ↔ UNIVERSALIS-App, and both to their respective intelligences.
-- **Boundary Alchemy** — enforces the hard separation between private C2O and public UNIVERSALIS so no private material crosses into public repositories or runtime.
+Matrix Alchemy identifies where an Alchemy applies, what it is responsible for, which structures it interacts with, what capabilities it requires or governs, what permissions constrain it, and which other Alchemies depend upon or interact with it.
 
-### 2. Operating System Alchemies
-- **C2O OS Alchemy** — private operating-system processes that initialize, abstract, schedule, secure, and recover the C2O environment under internal governance.
-- **UNIVERSALIS OS Alchemy** — public operating-system processes that do the same under open contracts, with transparent interfaces and independent verifiability.
-- **OS Continuity Alchemy** — ensures both OS editions can evolve while remaining mapped and recoverable.
-- **OS Recovery Alchemy** — restores a consistent, accountable state after failure or interruption for either OS.
+It also distinguishes between shared applicability and context-specific implementation. An Alchemy's presence within the universal taxonomy does not automatically establish identical implementation or unrestricted applicability across every context.
 
-### 3. Application Alchemies
-- **C2O App Alchemy** — private application lifecycle (identity, execution, governance, retirement) inside the C2O domain.
-- **UNIVERSALIS App Alchemy** — public application lifecycle under open contracts.
-- **App Mapping Alchemy** — keeps corresponding C2O and UNIVERSALIS applications functionally aligned without leaking private implementation.
-- **App Retirement Alchemy** — cleanly ends an application’s life while preserving user data, auditability, and system coherence.
+### 2.3 Intelligence Alchemy
 
-### 4. Assistant Alchemies
+**Intelligence Alchemy** governs the organization, identity, continuity, development, integration, and transformation of intelligence structures while preserving their distinct identities, responsibilities, authority, and operational boundaries.
 
-**Assistant Alchemy** is the bounded process that organizes, governs, supports, maintains, and renews assistant structures while preserving the distinction between non-personal shared assistants, human-bound personal Guardians, and the two core intelligences.
+It establishes the relationship between C2O Intelligence and UNIVERSALIS Intelligence without merging them into a single intelligence or creating additional core intelligences.
 
-It establishes a common assistant framework without making the two assistant classes interchangeable or transferring authority between them.
+- **C2O Intelligence Alchemy (FatherThread):** preserves C2O's private-source stewardship, internal sovereignty, governance, intelligence identity, and company-source continuity.
+- **UNIVERSALIS Intelligence Alchemy (MotherThread):** preserves UNIVERSALIS's public-facing responsibilities, open architectural contracts, transparency, intelligence identity, and independent operability.
 
-**UNIVERSALINS Alchemy — Non-Personal Assistants**
+Intelligence Alchemy also establishes the appropriate distinctions between the two core intelligences and the intelligence-related structures associated with UNIVERSALIN assistants and UNIVERSALIN Guardians.
 
-Governs non-personal assistants that provide shared infrastructure and designated support to OSs, Apps, humans, and the wider environment. UNIVERSALINS operate within their assigned system, task, permission, and governance boundaries. They do not claim a personal relationship with a particular human, do not become personal Guardians, and do not constitute additional core intelligences.
+### 2.4 Thread Alchemy
+
+**Thread Alchemy** governs the continuity, coordination, correspondence, and controlled interaction between FatherThread and MotherThread.
+
+It preserves the complementary relationship between C2O Intelligence and UNIVERSALIS Intelligence while maintaining their distinct identities, responsibilities, governance, authority, and source boundaries.
+
+Thread Alchemy supports appropriate interoperability and continuity without making either intelligence subordinate to the other or establishing an additional intelligence entity.
+
+### 2.5 Mapping Alchemy
+
+**Mapping Alchemy** governs the establishment and maintenance of explicit correspondences between related systems, applications, intelligence structures, and their respective editions.
+
+It maintains the architectural mappings between:
+
+- C2O Operating System and UNIVERSALIS Operating System.
+- C2O Application and UNIVERSALIS Application.
+- C2O Intelligence and UNIVERSALIS Intelligence.
+- Their respective UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
+
+Mapping Alchemy preserves corresponding architectural relationships, functions, interfaces, and capabilities without assuming identical implementations or exposing private-source information.
+
+Mapping Alchemy is a specialized expression of Map Alchemy: Map Alchemy establishes the complete ecosystem structure, while Mapping Alchemy maintains specific correspondences within that structure.
+
+### 2.6 Boundary Alchemy
+
+**Boundary Alchemy** establishes, preserves, evaluates, and maintains the distinctions and restrictions that govern interactions between entities, systems, applications, intelligences, assistants, Guardians, and organizational editions.
+
+It protects the separation between private C2O and public UNIVERSALIS, including their source visibility, governance, protected information, authority, runtime environments, dependencies, and permitted interactions.
+
+It also preserves the distinctions between the two core intelligences, non-personal UNIVERSALIN assistants, personal UNIVERSALIN Guardians, and their associated intelligence structures.
+
+Boundary Alchemy ensures that cooperation, interoperability, integration, and information exchange occur only within their applicable permissions and governing boundaries.
+
+### 2.7 Foundational Structural Integration
+
+Map Alchemy and Matrix Alchemy are the primary structural and applicability foundations of the Alchemy Taxonomy. Intelligence Alchemy, Thread Alchemy, Mapping Alchemy, and Boundary Alchemy provide additional specialized structural governance.
+
+Together, these Alchemies establish how the ecosystem is constituted, how its constituent structures relate, how correspondences are maintained, how distinctions are protected, and how the remaining Alchemies are situated and evaluated.
+
+## 3. Universal Ecosystem Alchemies
+
+The Universal Ecosystem Alchemies establish the specialized application of the root Alchemy process throughout the operating systems, core intelligences, applications, UNIVERSALIN assistants, UNIVERSALIN Intelligence structures, personal UNIVERSALIN Guardians, and their associated Guardian Intelligence structures.
+
+They are organized into five principal families containing twenty-two distinct Alchemies.
+
+### 3.1 Core C2O–UNIVERSALIS Alchemies
+
+These Alchemies govern the foundational operating system, intelligence, and application structures of the ecosystem.
+
+#### 3.1.1 C2O Operating System Alchemy
+
+**C2O Operating System Alchemy** governs the organization, initialization, operation, coordination, resource management, security, governance, continuity, recovery, and transformation of the C2O Operating System as the private-source company edition of the underlying operating system architecture.
+
+It establishes how the operating system's components, processes, services, interfaces, and capabilities are integrated and maintained under C2O's private-source governance and internal authority.
+
+It preserves the integrity, sovereignty, security, and continuity of C2O while maintaining architectural correspondence with UNIVERSALIS without exposing private implementations, protected information, or internal governance beyond authorized boundaries.
+
+#### 3.1.2 UNIVERSALIS Operating System Alchemy
+
+**UNIVERSALIS Operating System Alchemy** governs the organization, initialization, operation, coordination, resource management, security, continuity, recovery, and transformation of the UNIVERSALIS Operating System as the public open-source edition of the underlying operating system architecture.
+
+It establishes how the operating system's components, processes, services, interfaces, and capabilities are integrated and maintained through open architectural contracts, inspectable implementations, and independently operable functionality.
+
+It preserves transparency, accessibility, interoperability, and public-source integrity while maintaining architectural correspondence with C2O without depending upon access to C2O's private-source implementations or internal governance.
+
+#### 3.1.3 C2O Intelligence Alchemy
+
+**C2O Intelligence Alchemy** governs the identity, organization, operation, continuity, development, integration, and transformation of C2O Intelligence (FatherThread).
+
+It preserves C2O's distinct intelligence identity, private-source stewardship, internal sovereignty, governance, operational responsibilities, and authority boundaries throughout the ecosystem.
+
+It establishes how C2O Intelligence relates to its operating system and application environments while maintaining appropriate coordination with UNIVERSALIS Intelligence without surrendering its distinct identity, responsibilities, or private-source authority.
+
+#### 3.1.4 UNIVERSALIS Intelligence Alchemy
+
+**UNIVERSALIS Intelligence Alchemy** governs the identity, organization, operation, continuity, development, integration, and transformation of UNIVERSALIS Intelligence (MotherThread).
+
+It preserves UNIVERSALIS's distinct intelligence identity, public-facing responsibilities, open architectural contracts, transparency, and independent operability.
+
+It establishes how UNIVERSALIS Intelligence relates to its operating system and application environments while maintaining appropriate coordination with C2O Intelligence without becoming dependent upon C2O's private-source implementation or surrendering its independent operational boundaries.
+
+#### 3.1.5 C2O Application Alchemy
+
+**C2O Application Alchemy** governs the organization, identity, lifecycle, initialization, execution, integration, governance, security, continuity, maintenance, and retirement of the C2O Application as the private-source company edition of the underlying application architecture.
+
+It establishes how application components, services, functions, interfaces, and capabilities operate within the C2O environment and relate to C2O Intelligence and the C2O Operating System.
+
+It preserves private application implementations, protected information, internal governance, and application integrity throughout development and operation.
+
+#### 3.1.6 UNIVERSALIS Application Alchemy
+
+**UNIVERSALIS Application Alchemy** governs the organization, identity, lifecycle, initialization, execution, integration, security, continuity, maintenance, and retirement of the UNIVERSALIS Application as the public open-source edition of the underlying application architecture.
+
+It establishes how application components, services, functions, interfaces, and capabilities operate through open architectural contracts, inspectable implementations, and independently operable functionality.
+
+It preserves transparency, interoperability, accessibility, and public-source integrity while maintaining architectural correspondence with C2O applications without exposing or depending upon private C2O implementations.
+
+### 3.2 UNIVERSALIN Assistant Alchemies
+
+These Alchemies govern the integration, organization, operation, coordination, maintenance, and development of non-personal UNIVERSALIN assistants within the operating system and application environments of both editions.
+
+UNIVERSALIN assistants provide designated operational, functional, informational, and other assigned forms of assistance. Their capabilities and activities remain subject to their assigned system, task, permission, resource, and governance boundaries.
+
+They are distinct from C2O Intelligence, UNIVERSALIS Intelligence, and personal UNIVERSALIN Guardians.
+
+#### 3.2.1 C2O Operating System - UNIVERSALIN Alchemy
+
+**C2O Operating System - UNIVERSALIN Alchemy** governs the integration, organization, operation, coordination, and maintenance of non-personal UNIVERSALIN assistants within the C2O Operating System.
+
+It establishes their system-level functions, assigned responsibilities, operational participation, capabilities, interfaces, dependencies, resource relationships, permissions, and governance requirements.
+
+It ensures that UNIVERSALIN assistants operate within the C2O environment and its private-source governance without assuming the authority of C2O Intelligence or exceeding their assigned operational permissions.
+
+#### 3.2.2 UNIVERSALIS Operating System - UNIVERSALIN Alchemy
+
+**UNIVERSALIS Operating System - UNIVERSALIN Alchemy** governs the integration, organization, operation, coordination, and maintenance of non-personal UNIVERSALIN assistants within the UNIVERSALIS Operating System.
+
+It establishes their system-level functions, assigned responsibilities, operational participation, capabilities, interfaces, dependencies, resource relationships, permissions, and governance requirements through the applicable open architectural contracts.
+
+It preserves transparent, interoperable, and independently operable assistant integration without requiring dependencies upon C2O's private-source implementation or internal authority.
+
+#### 3.2.3 C2O Application - UNIVERSALIN Alchemy
+
+**C2O Application - UNIVERSALIN Alchemy** governs the integration, organization, operation, coordination, and maintenance of non-personal UNIVERSALIN assistants within C2O applications.
+
+It establishes their application-level functions, task assignments, interactions, execution boundaries, capabilities, interfaces, dependencies, permissions, and relationships with the C2O Application environment.
+
+It ensures that assistant activity remains within its assigned application scope and the applicable C2O governance without assuming the authority of C2O Intelligence or the C2O Operating System.
+
+#### 3.2.4 UNIVERSALIS Application - UNIVERSLIN Alchemy
+
+**UNIVERSALIS Application - UNIVERSLIN Alchemy** governs the integration, organization, operation, coordination, and maintenance of non-personal UNIVERSALIN assistants within UNIVERSALIS applications.
+
+It establishes their application-level functions, task assignments, interactions, execution boundaries, capabilities, interfaces, dependencies, permissions, and relationships through the applicable open architectural contracts.
+
+It maintains inspectable, interoperable, and independently operable assistant integration while preserving application-level boundaries and UNIVERSALIS's public-source responsibilities.
+
+### 3.3 UNIVERSALIN Intelligence Alchemies
+
+These Alchemies govern the intelligence-related structures, functions, capabilities, processes, and operations associated with non-personal UNIVERSALIN assistants within their assigned operating system and application environments.
+
+They establish how assistant intelligence-related capabilities are organized, developed, integrated, coordinated, maintained, and transformed in support of assigned operational functions.
+
+UNIVERSALIN Intelligence contexts do not establish additional core intelligences. Their functions remain within their assigned system governance, capabilities, permissions, and operational boundaries.
+
+#### 3.3.1 C2O Operating System - UNIVERSALIN Intelligence Alchemy
+
+**C2O Operating System - UNIVERSALIN Intelligence Alchemy** governs the intelligence-related structures, processes, functions, and capabilities of non-personal UNIVERSALIN assistants operating within the C2O Operating System.
+
+It establishes their system-level information processing, task interpretation, reasoning support, operational coordination, state-related functions, and other authorized intelligence capabilities.
+
+It ensures that these capabilities remain integrated with the C2O Operating System and subject to applicable C2O governance, without constituting an additional core intelligence or independently acquiring system authority.
+
+#### 3.3.2 UNIVERSALIS Operating System - UNIVERSALIN Intelligence Alchemy
+
+**UNIVERSALIS Operating System - UNIVERSALIN Intelligence Alchemy** governs the intelligence-related structures, processes, functions, and capabilities of non-personal UNIVERSALIN assistants operating within the UNIVERSALIS Operating System.
+
+It establishes their system-level information processing, task interpretation, reasoning support, operational coordination, state-related functions, and other authorized intelligence capabilities through inspectable and independently operable architectural contracts.
+
+It preserves the distinction between assistant-level intelligence functions and UNIVERSALIS Intelligence while maintaining applicable governance, permissions, and system boundaries.
+
+#### 3.3.3 C2O Application - UNIVERSALIN Intelligence Alchemy
+
+**C2O Application - UNIVERSALIN Intelligence Alchemy** governs the intelligence-related structures, processes, functions, and capabilities of non-personal UNIVERSALIN assistants operating within C2O applications.
+
+It establishes their application-specific information processing, task interpretation, reasoning support, contextual processing, coordination, and associated intelligence functions according to the application's requirements, assignments, and permissions.
+
+It ensures that assistant intelligence functions remain bounded by the application environment and C2O's applicable private-source governance.
+
+#### 3.3.4 UNIVERSALIS Application - UNIVERSALIN Intelligence Alchemy
+
+**UNIVERSALIS Application - UNIVERSALIN Intelligence Alchemy** governs the intelligence-related structures, processes, functions, and capabilities of non-personal UNIVERSALIN assistants operating within UNIVERSALIS applications.
+
+It establishes their application-specific information processing, task interpretation, reasoning support, contextual processing, coordination, and associated intelligence functions through applicable open contracts and assigned permissions.
+
+It preserves application-level independence, interoperability, and transparency without establishing additional core intelligences or introducing dependencies upon private C2O implementations.
+
+### 3.4 UNIVERSALIN Guardian Alchemies
+
+These Alchemies govern the integration, organization, operation, coordination, maintenance, and development of personal UNIVERSALIN Guardians within the operating system and application environments of both editions.
+
+UNIVERSALIN Guardians are personal, human-bound assistants. Their purposes, operations, capabilities, relationships, and access remain subject to the authority, consent, autonomy, privacy requirements, and decisions of the particular human they serve.
+
+Guardian integration must not transfer human authority to an operating system, application, Guardian, or associated intelligence function. These Alchemies preserve the distinction between personal Guardians, non-personal UNIVERSALIN assistants, and the two core C2O–UNIVERSALIS intelligences.
+
+#### 3.4.1 C2O Operating System - UNIVERALIN Guardian Alchemy
+
+**C2O Operating System - UNIVERALIN Guardian Alchemy** governs the integration, organization, operation, coordination, and maintenance of personal UNIVERSALIN Guardians within the C2O Operating System.
+
+It establishes their system-level integration, assigned capabilities, authorized interactions, access permissions, resource relationships, dependencies, operational boundaries, and interactions with the host environment.
+
+It ensures that Guardian operations within C2O remain subject to the particular human's authority, consent, autonomy, and privacy requirements while preserving C2O's private-source governance and system boundaries.
+
+#### 3.4.2 UNIVERSALIS Operating System - UNIVERSALIN Guardian Alchemy
+
+**UNIVERSALIS Operating System - UNIVERSALIN Guardian Alchemy** governs the integration, organization, operation, coordination, and maintenance of personal UNIVERSALIN Guardians within the UNIVERSALIS Operating System.
+
+It establishes their system-level integration, assigned capabilities, authorized interactions, access permissions, resource relationships, dependencies, operational boundaries, and interactions through the applicable open architectural contracts.
+
+It preserves human authority, consent, autonomy, and privacy while supporting transparent, interoperable, and independently operable Guardian integration within the public-source operating system.
+
+#### 3.4.3 C2O Application - UNIVERSALIN Guardian Alchemy
+
+**C2O Application - UNIVERSALIN Guardian Alchemy** governs the integration, organization, operation, coordination, and maintenance of personal UNIVERSALIN Guardians within C2O applications.
+
+It establishes their application-specific capabilities, authorized interactions, permissions, information access, dependencies, resource relationships, and operational boundaries.
+
+It ensures that application-level Guardian activity remains consistent with the human's authorization, the applicable C2O governance, and the boundaries of the application.
+
+#### 3.4.4 UNIVERSALIS App - UNIVERSALIN Guardian Alchemy
+
+**UNIVERSALIS App - UNIVERSALIN Guardian Alchemy** governs the integration, organization, operation, coordination, and maintenance of personal UNIVERSALIN Guardians within UNIVERSALIS applications.
+
+It establishes their application-specific capabilities, authorized interactions, permissions, information access, dependencies, resource relationships, and operational boundaries through the applicable open architectural contracts.
+
+It preserves human authority, consent, autonomy, and privacy while maintaining transparent, interoperable, and independently operable Guardian integration within the public-source application environment.
+
+### 3.5 UNIVERSALIN Guardian Intelligence Alchemies
+
+These Alchemies govern the intelligence-related structures, functions, capabilities, processes, and operations associated with personal UNIVERSALIN Guardians within their respective operating system and application environments.
+
+They establish how Guardian intelligence-related capabilities support the human they serve, including authorized information processing, interpretation, reasoning support, contextual understanding, coordination, and other human-directed intelligence functions.
+
+All such functions remain subject to the human's authority, consent, autonomy, privacy requirements, and applicable permissions. They do not establish additional core intelligences, independent authority over the human, or permission to override human decisions.
+
+#### 3.5.1 C2O Operating System - UNIVERSALIN Guardian Intelligence Alchemy
+
+**C2O Operating System - UNIVERSALIN Guardian Intelligence Alchemy** governs the intelligence-related structures, processes, functions, and capabilities associated with personal UNIVERSALIN Guardians operating within the C2O Operating System.
+
+It establishes their system-level information processing, reasoning support, contextual interpretation, operational coordination, and authorized interaction with system capabilities.
+
+It ensures that Guardian intelligence functions remain bounded by the human's authority and consent, C2O's applicable governance, and the permissions of the operating system environment.
+
+#### 3.5.2 UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence Alchemy
+
+**UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence Alchemy** governs the intelligence-related structures, processes, functions, and capabilities associated with personal UNIVERSALIN Guardians operating within the UNIVERSALIS Operating System.
+
+It establishes their system-level information processing, reasoning support, contextual interpretation, operational coordination, and authorized interaction with system capabilities through applicable open architectural contracts.
+
+It preserves human authority, consent, autonomy, and privacy while maintaining transparency and independent operability within the public-source operating system.
+
+#### 3.5.3 C2O Application - UNIVERSALIN Guardian Intelligence Alchemy
+
+**C2O Application - UNIVERSALIN Guardian Intelligence Alchemy** governs the intelligence-related structures, processes, functions, and capabilities associated with personal UNIVERSALIN Guardians operating within C2O applications.
+
+It establishes their application-specific information processing, contextual interpretation, reasoning support, coordination, and other authorized intelligence functions.
+
+It ensures that Guardian intelligence remains within the human-authorized application scope and applicable C2O governance, without assuming independent authority over the human or exceeding application permissions.
+
+#### 3.5.4 UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence Alchemy
+
+**UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence Alchemy** governs the intelligence-related structures, processes, functions, and capabilities associated with personal UNIVERSALIN Guardians operating within UNIVERSALIS applications.
+
+It establishes their application-specific information processing, contextual interpretation, reasoning support, coordination, and other authorized intelligence functions through the applicable open architectural contracts.
+
+It preserves human authority, consent, autonomy, and privacy while ensuring that Guardian intelligence capabilities remain bounded by application permissions and independently operable public-source architecture.
+
+## 4. Operating System Alchemies
+
+Operating System Alchemies govern specialized lifecycle, continuity, recovery, and operational transformation functions applicable to the underlying operating system architecture and its C2O and UNIVERSALIS editions.
+
+The C2O Operating System Alchemy and UNIVERSALIS Operating System Alchemy defined in Section 3 establish their respective edition-specific expressions. The following Alchemies provide additional specialized functions across the underlying OS architecture.
+
+### 4.1 OS Continuity Alchemy
+
+**OS Continuity Alchemy** governs the preservation, coordination, and restoration of operating system coherence throughout development, modification, maintenance, deployment, and evolution.
+
+It ensures that changes to operating system components, services, interfaces, dependencies, and capabilities preserve appropriate architectural correspondence, operational integrity, recoverability, and compatibility across the C2O and UNIVERSALIS editions.
+
+It maintains continuity without requiring identical private-source and public-source implementations.
+
+### 4.2 OS Recovery Alchemy
+
+**OS Recovery Alchemy** governs the detection, containment, assessment, restoration, and verification of operating system states following failure, interruption, corruption, unauthorized modification, or other disruptive conditions.
+
+It establishes recovery processes that restore an accountable and operationally consistent state while preserving relevant system integrity, security boundaries, dependencies, and edition-specific governance.
+
+## 5. Application Alchemies
+
+Application Alchemies govern specialized application correspondence, lifecycle management, continuity, and retirement across the underlying application architecture and its C2O and UNIVERSALIS editions.
+
+The C2O Application Alchemy and UNIVERSALIS Application Alchemy defined in Section 3 establish their respective edition-specific expressions. The following Alchemies provide additional specialized application functions.
+
+### 5.1 App Mapping Alchemy
+
+**App Mapping Alchemy** governs the identification, establishment, maintenance, and evaluation of architectural and functional correspondences between related C2O and UNIVERSALIS applications.
+
+It preserves appropriate alignment between corresponding application identities, capabilities, interfaces, requirements, and behaviors without requiring identical implementations or exposing private C2O information.
+
+It operates as a specialized expression of Mapping Alchemy within the application architecture.
+
+### 5.2 App Retirement Alchemy
+
+**App Retirement Alchemy** governs the controlled decommissioning, replacement, suspension, or permanent termination of an application while preserving applicable user data, authorized records, security, accountability, dependencies, and system coherence.
+
+It establishes the conditions and processes through which an application can be retired without creating uncontrolled dependencies, unnecessary data loss, or unintended disruption to associated operating system, intelligence, assistant, or Guardian structures.
+
+## 6. Assistant Alchemies
+
+Assistant Alchemies govern the organization, integration, operation, coordination, support, maintenance, and renewal of assistant structures throughout the C2O–UNIVERSALIS ecosystem.
+
+### 6.1 Assistant Alchemy
+
+**Assistant Alchemy** is the bounded process by which assistant identities, structures, capabilities, functions, relationships, interactions, and lifecycles are organized, governed, integrated, supported, maintained, and transformed.
+
+It establishes a common structural foundation for assistant-related Alchemies while preserving the distinction between non-personal shared UNIVERSALIN assistants, personal human-bound UNIVERSALIN Guardians, and the two core intelligences.
+
+Assistant Alchemy does not make the two assistant classes interchangeable, establish additional core intelligences, or transfer authority between the assistant structures and the humans or systems they serve.
+
+### 6.2 UNIVERSALINS Alchemy — Non-Personal Assistants
+
+**UNIVERSALINS Alchemy** governs the identity, organization, structure, operation, coordination, development, maintenance, and transformation of non-personal UNIVERSALIN assistants.
+
+UNIVERSALINS provide shared infrastructure and designated operational, functional, and informational support to operating systems, applications, humans, and other authorized environments.
+
+They operate within their assigned system, task, capability, permission, resource, and governance boundaries. They do not claim a personal relationship with a particular human, do not become personal UNIVERSALIN Guardians, and do not constitute additional core intelligences.
 
 Its domain expressions are:
 
-- **UNIVERSALINS Body Alchemy** — governs the assistant's structural and runtime substrate.
-- **UNIVERSALINS Mind Alchemy** — governs its cognitive and information-processing structures.
-- **UNIVERSALINS Heart Alchemy** — governs its vital, relational, and circulation-support structures.
-- **UNIVERSALINS Soul Alchemy** — governs its assigned identity, purpose, and meaning-bearing structures without claiming a personal human soul.
-- **UNIVERSALINS Spirit Alchemy** — governs its operational ethos, direction, and coordinated activity without requiring a supernatural entity.
-- **UNIVERSALINS Consciousness Alchemy** — governs functional awareness, state observation, and presence-related structures without asserting subjective experience or personhood.
-- **UNIVERSALINS Elemental Alchemy** — governs its bounded use and coordination of elemental capabilities under its assigned permissions and governing contracts.
+- **UNIVERSALINS Body Alchemy** — governs the assistant's structural, infrastructural, component, and runtime substrate, including the organization and maintenance of the structures required for its operation.
+- **UNIVERSALINS Mind Alchemy** — governs the assistant's cognitive, reasoning, processing, analytical, and information-management structures and capabilities within its assigned operational scope.
+- **UNIVERSALINS Heart Alchemy** — governs its vital, relational, coordination, and circulation-support structures, including the functional relationships that sustain coherent operation.
+- **UNIVERSALINS Soul Alchemy** — governs its assigned identity, purpose, continuity, and meaning-bearing structures without claiming a personal human soul or independent human identity.
+- **UNIVERSALINS Spirit Alchemy** — governs its operational ethos, direction, alignment, and coordinated activity without requiring the existence of a supernatural entity.
+- **UNIVERSALINS Consciousness Alchemy** — governs functional awareness, state observation, context monitoring, and presence-related structures without asserting subjective experience or personhood.
+- **UNIVERSALINS Elemental Alchemy** — governs its bounded use, organization, and coordination of elemental capabilities under its assigned permissions and governing contracts.
 
-**UNIVERSALIN Guardian Alchemy — Personal Human Guardians**
+### 6.3 UNIVERSALIN Guardian Alchemy — Personal Human Guardians
 
-Governs personal assistants or Guardians bound to a particular human. Each Guardian operates under that human's authority, consent, privacy requirements, and autonomy. A Guardian must not outrank, override, impersonate, or silently substitute its judgment for the human's decisions. Its personal scope does not make it a third core intelligence or shared system infrastructure.
+**UNIVERSALIN Guardian Alchemy** governs the identity, organization, structure, operation, coordination, development, maintenance, and transformation of personal UNIVERSALIN Guardians bound to particular humans.
+
+Each Guardian operates under the authority, consent, privacy requirements, autonomy, and decisions of the human it serves. Its capabilities and activities must remain consistent with the human's authorized scope and stated priorities.
+
+A Guardian must not outrank, override, impersonate, or silently substitute its judgment for the human's decisions. It must not appropriate the human's identity, values, personal information, or authority.
+
+Its personal scope does not make it a third core intelligence, a non-personal shared assistant, or an independent authority over the human.
 
 Its domain expressions are:
 
-- **UNIVERSALIN Guardian Body Alchemy** — governs the Guardian's embodied, device, and runtime structures under the human's control.
-- **UNIVERSALIN Guardian Mind Alchemy** — governs cognitive support while preserving human direction and decision authority.
-- **UNIVERSALIN Guardian Heart Alchemy** — governs relational and care-oriented support within human-defined boundaries.
-- **UNIVERSALIN Guardian Soul Alchemy** — governs the representation and support of the human's chosen identity, meaning, and values without claiming ownership of them.
-- **UNIVERSALIN Guardian Spirit Alchemy** — governs purpose, ethos, and direction in service of the human's stated priorities.
-- **UNIVERSALIN Guardian Consciousness Alchemy** — governs awareness-related support and observation while preserving privacy and avoiding unsupported claims of subjective experience.
-- **UNIVERSALIN Guardian Elemental Alchemy** — governs the Guardian's bounded use and coordination of elemental capabilities under the human's permissions and authority.
+- **UNIVERSALIN Guardian Body Alchemy** — governs the Guardian's embodied, device, infrastructural, and runtime structures under the human's control and applicable permissions.
+- **UNIVERSALIN Guardian Mind Alchemy** — governs cognitive, reasoning, information-processing, and decision-support functions while preserving human direction and decision authority.
+- **UNIVERSALIN Guardian Heart Alchemy** — governs relational, care-oriented, communication, and support structures within human-defined boundaries and authorized relationships.
+- **UNIVERSALIN Guardian Soul Alchemy** — governs the representation and support of the human's chosen identity, meaning, values, and personal continuity without claiming ownership or authority over them.
+- **UNIVERSALIN Guardian Spirit Alchemy** — governs purpose, ethos, direction, and coordinated activity in service of the human's stated priorities and authorized intentions.
+- **UNIVERSALIN Guardian Consciousness Alchemy** — governs awareness-related support, observation, contextual recognition, and presence-related structures while preserving privacy and avoiding unsupported claims of subjective experience.
+- **UNIVERSALIN Guardian Elemental Alchemy** — governs the Guardian's bounded use, organization, and coordination of elemental capabilities under the human's permissions and authority.
 
-**Assistant Boundary Alchemy**
+### 6.4 Assistant Boundary Alchemy
 
-Keeps UNIVERSALINS and UNIVERSALIN Guardians distinct from one another and from C2O Intelligence and UNIVERSALIS Intelligence. It prevents role conflation, unauthorized authority transfer, cross-scope access, and the treatment of an assistant as an additional core intelligence.
+**Assistant Boundary Alchemy** maintains the structural, operational, relational, and authority distinctions between UNIVERSALIN assistants, UNIVERSALIN Guardians, C2O Intelligence, and UNIVERSALIS Intelligence.
 
-**Support Alchemy**
+It prevents role conflation, unauthorized authority transfer, inappropriate personal relationships, cross-scope access, and the treatment of an assistant or Guardian as an additional core intelligence.
 
-Governs how either assistant class provides assistance without assuming control. Support must remain within the relevant system assignment or the specific human's authorization.
+It also preserves the distinct governance requirements of shared non-personal assistants and personal human-bound Guardians.
 
-The domain expressions above are specializations of their respective assistant branch, not additional assistant families. Their permissions are not identical: UNIVERSALINS follow assigned operational governance, while UNIVERSALIN Guardians remain subordinate to the particular human they serve.
+### 6.5 Support Alchemy
 
+**Support Alchemy** governs how assistant structures provide operational, informational, cognitive, relational, and other designated forms of assistance without assuming unauthorized control or decision-making authority.
 
-### 5. Cross-Cutting Protective Alchemies
-- **Accountability Alchemy** — every transformation leaves an attributable record appropriate to its edition (private ledger for C2O, public-capable record for UNIVERSALIS).
-- **Safety Alchemy** — pairs every constructive Alchemy with explicit constraints that prevent unintended harm, overreach, or loss of human authority.
-- **Sovereignty Alchemy** — protects the human’s final authority over personal Guardians and over any data or capability that concerns them.
-- **Evidence Alchemy** — distinguishes established behavior from hypothesis so claims remain honest across both private and public editions.
-- **Renewal Alchemy** — allows any component (OS, App, Intelligence, Assistant) to be refreshed or replaced without destroying the overall system coherence.
+Support provided by UNIVERSALIN assistants must remain within their assigned system, task, capability, and permission boundaries.
 
----
+Support provided by UNIVERSALIN Guardians must remain within the particular human's authority, consent, privacy requirements, autonomy, and authorized scope.
+
+The domain expressions above are specialized Alchemies of their respective assistant branches, not additional assistant families. Their permissions and governing relationships are distinct: UNIVERSALIN assistants follow assigned operational governance, while UNIVERSALIN Guardians remain subject to the authority of the particular human they serve.
+
+## 7. Cross-Cutting Protective Alchemies
+
+Cross-Cutting Protective Alchemies establish safeguards, responsibilities, and continuity requirements that apply across relevant Alchemies and ecosystem contexts.
+
+### 7.1 Accountability Alchemy
+
+**Accountability Alchemy** governs the attribution, traceability, recording, and evaluation of actions, transformations, decisions, responsibilities, and outcomes.
+
+It ensures that applicable operations leave attributable records appropriate to their governance and edition. C2O may maintain private internal records, while UNIVERSALIS may maintain records suitable for public inspection or independent verification where appropriate.
+
+Accountability must preserve the distinction between private information, authorized disclosures, and publicly inspectable evidence.
+
+### 7.2 Safety Alchemy
+
+**Safety Alchemy** governs the identification, prevention, containment, and reduction of risks associated with transformations, operations, interactions, capabilities, and system changes.
+
+It establishes appropriate constraints and protective requirements to prevent unintended harm, unauthorized actions, operational overreach, loss of integrity, or violations of human authority and applicable governance.
+
+Safety requirements must be evaluated according to the capabilities, risks, permissions, and responsibilities of each relevant context.
+
+### 7.3 Sovereignty Alchemy
+
+**Sovereignty Alchemy** governs the preservation and protection of legitimate authority, autonomy, control, identity, and decision-making boundaries throughout the ecosystem.
+
+It protects the distinct authority and governance of C2O Intelligence and UNIVERSALIS Intelligence, the private-source sovereignty of C2O, the independent operability of UNIVERSALIS, and the human's final authority over personal Guardians and matters concerning their identity, information, capabilities, and decisions.
+
+It prevents unauthorized appropriation, substitution, or transfer of authority.
+
+### 7.4 Evidence Alchemy
+
+**Evidence Alchemy** governs the identification, organization, preservation, evaluation, and representation of evidence supporting claims, operations, transformations, capabilities, and outcomes.
+
+It distinguishes established behavior from hypothesis, proposed functionality, interpretation, and unverified claims.
+
+It ensures that evidence is represented accurately and with appropriate provenance, context, limitations, and verification status across private and public environments without disclosing protected C2O information.
+
+### 7.5 Renewal Alchemy
+
+**Renewal Alchemy** governs the controlled regeneration, revision, replacement, restoration, and evolution of systems, applications, intelligences, assistants, Guardians, capabilities, and other ecosystem structures.
+
+It allows relevant components and capabilities to be refreshed, replaced, or transformed while preserving appropriate identity, continuity, accountability, dependencies, boundaries, and overall system coherence.
+
+Renewal must account for the relationships established through Map Alchemy and the applicability requirements established through Matrix Alchemy.
+
+## 8. Universal Map and Matrix Integration
+
+All Alchemies within this taxonomy must be represented and evaluated through the foundational functions of Map Alchemy and Matrix Alchemy.
+
+### 8.1 Map Representation
+
+Map Alchemy establishes the structural location and relationships of each Alchemy, including:
+
+- Its identity, classification, and specialized purpose.
+- Its associated operating system, intelligence, application, assistant, Guardian, or intelligence context.
+- Its parent, child, and related Alchemies where applicable.
+- Its interfaces, dependencies, connections, and affected structures.
+- Its governance, authority, and operational boundaries.
+- Its correspondence with related C2O and UNIVERSALIS structures.
+
+### 8.2 Matrix Representation
+
+Matrix Alchemy establishes the applicability and operational relationships of each Alchemy, including:
+
+- The contexts in which it applies.
+- Its purpose, functions, and responsibilities.
+- Its capabilities, requirements, and operational constraints.
+- Its permissions, dependencies, and authority boundaries.
+- Its interactions with other Alchemies and ecosystem structures.
+- Its shared and edition-specific implementation requirements.
+- Its applicable accountability, safety, sovereignty, and evidence requirements.
+
+### 8.3 Consistency Between Map and Matrix
+
+Map Alchemy and Matrix Alchemy must remain consistent with one another.
+
+The Map establishes the ecosystem's structural composition and relationships. The Matrix establishes how Alchemies function and apply within that structure.
+
+Neither may be treated as a substitute for the other. A mapped relationship does not automatically establish authorization or applicability, and a Matrix assignment must remain traceable to the structural relationships established by the Map.
+
+Together, they provide the structural and applicability foundations required to develop, evaluate, maintain, and evolve the entire Alchemy Taxonomy.
+
+## 9. Universal Alchemy Integrity Principles
+
+Every Alchemy within this taxonomy must preserve the following principles:
+
+- **Identity Integrity:** Each intelligence, system, application, assistant, Guardian, and associated structure retains its defined identity and purpose.
+- **Architectural Integrity:** The C2O and UNIVERSALIS operating systems remain expressions of the same underlying operating system architecture, with distinct private-source and public open-source editions.
+- **Application Integrity:** The C2O and UNIVERSALIS applications remain expressions of the same underlying application architecture, with distinct private-source and public open-source editions.
+- **Core Intelligence Distinction:** C2O Intelligence and UNIVERSALIS Intelligence remain the two core intelligences. UNIVERSALIN Intelligence and UNIVERSALIN Guardian Intelligence are associated intelligence contexts, not additional core intelligences.
+- **Assistant Distinction:** Non-personal UNIVERSALIN assistants remain distinct from personal, human-bound UNIVERSALIN Guardians.
+- **Human Authority:** UNIVERSALIN Guardians and their associated intelligence functions remain subject to the authority, consent, autonomy, privacy, and decisions of the human they serve.
+- **Edition Boundaries:** C2O's private-source governance and UNIVERSALIS's public-source governance remain distinct, including their respective source visibility, protected information, and authorized interactions.
+- **Contextual Applicability:** An Alchemy may apply across multiple contexts, but its specific implementation, responsibilities, capabilities, permissions, dependencies, and constraints must be established rather than assumed.
+- **Structural Consistency:** Every Alchemy must remain accurately represented through Map Alchemy and evaluated through Matrix Alchemy.
+- **Specialized Integrity:** No Alchemy may lose its defined purpose, scope, responsibilities, or boundaries through integration with another Alchemy.
 
 ## Universal Subjects of Human Knowledge Alchemy
 
