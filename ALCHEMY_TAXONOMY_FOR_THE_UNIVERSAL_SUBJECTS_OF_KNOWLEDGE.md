@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 0.7.0  
-**Status:** Six supplied Universal Subject hierarchies recorded; 107 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 0.8.0  
+**Status:** Seven supplied Universal Subject hierarchies recorded; 121 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -831,9 +831,102 @@ Each of the 308 new mapped intersections must receive an individually authored a
 The 22 Artificial Intelligence contextual expressions are not duplicated here. They remain associated with the shared canonical subject-Alchemy identity USA-ET-017 and must be understood through that existing record and its additional parent relationship.
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
-## 32. Cumulative Universal Subject Alchemy register and mapping totals
+## 32. Universal Subject of Knowledge hierarchy: Social Sciences
 
-The taxonomy now contains six supplied Universal Subjects of Knowledge hierarchies.
+### 32.1 Canonical subject definition
+
+**Social Sciences** — Knowledge of human societies and behavior.
+
+This definition is retained as supplied. The Social Sciences subject becomes **Social Sciences Alchemy**.
+
+### 32.2 Social Sciences Alchemy hierarchy
+
+The following hierarchy preserves the supplied subject structure. The source provides Social Sciences as the parent subject and lists 13 subordinate subjects without further subdivisions. Accordingly, each of the 13 listed subjects is recorded as a direct child of Social Sciences; no additional parent-child relationships are inferred.
+
+- **Social Sciences Alchemy**
+  - **Psychology Alchemy**
+  - **Sociology Alchemy**
+  - **Anthropology Alchemy**
+  - **Economics Alchemy**
+  - **Political Science Alchemy**
+  - **International Relations Alchemy**
+  - **Human Geography Alchemy**
+  - **Demography Alchemy**
+  - **Criminology Alchemy**
+  - **Behavioral Science Alchemy**
+  - **Cultural Studies Alchemy**
+  - **Social Work Alchemy**
+  - **Communication Studies Alchemy**
+
+### 32.3 Social Sciences Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
+|---|---|---|---|
+| USA-SS-001 | Social Sciences | Social Sciences Alchemy | Root subject |
+| USA-SS-002 | Psychology | Psychology Alchemy | Social Sciences |
+| USA-SS-003 | Sociology | Sociology Alchemy | Social Sciences |
+| USA-SS-004 | Anthropology | Anthropology Alchemy | Social Sciences |
+| USA-SS-005 | Economics | Economics Alchemy | Social Sciences |
+| USA-SS-006 | Political Science | Political Science Alchemy | Social Sciences |
+| USA-SS-007 | International Relations | International Relations Alchemy | Social Sciences |
+| USA-SS-008 | Human Geography | Human Geography Alchemy | Social Sciences |
+| USA-SS-009 | Demography | Demography Alchemy | Social Sciences |
+| USA-SS-010 | Criminology | Criminology Alchemy | Social Sciences |
+| USA-SS-011 | Behavioral Science | Behavioral Science Alchemy | Social Sciences |
+| USA-SS-012 | Cultural Studies | Cultural Studies Alchemy | Social Sciences |
+| USA-SS-013 | Social Work | Social Work Alchemy | Social Sciences |
+| USA-SS-014 | Communication Studies | Communication Studies Alchemy | Social Sciences |
+
+**Social Sciences total: 14 distinct subject Alchemies.** This count includes Social Sciences Alchemy itself and the 13 directly subordinate subject Alchemies.
+
+The source supplied the definition for Social Sciences and the names of its 13 subordinate subjects. It did not supply further subdivisions or individual definitions for those subjects. No additional parent-child relationships, subdivisions, or subject descriptions have been invented. Individual subordinate subject definitions must be developed without changing the supplied canonical names or parentage.
+
+## 33. Social Sciences Alchemy — 14 × 22 context matrix
+
+The matrix below maps every Social Sciences subject Alchemy to all 22 canonical contexts. The column identifiers C01–C22 refer to the canonical context key in Section 8.2. Each **M** is a required mapping position. It does not, by itself, claim that the detailed context-specific expression has been authored, reviewed, implemented, tested, or verified.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-SS-001 · Social Sciences Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-002 · Psychology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-003 · Sociology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-004 · Anthropology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-005 · Economics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-006 · Political Science Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-007 · International Relations Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-008 · Human Geography Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-009 · Demography Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-010 · Criminology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-011 · Behavioral Science Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-012 · Cultural Studies Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-013 · Social Work Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-014 · Communication Studies Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Social Sciences matrix total:** 14 subject Alchemies × 22 contexts = **308 mapped intersections**.
+
+The 308 intersections are the contextual mappings of the 14 Social Sciences Alchemies. They are not 308 additional subject classifications.
+
+## 34. Social Sciences contextual expression requirements
+
+Each of the 308 mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 35. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains seven supplied Universal Subjects of Knowledge hierarchies.
 
 | Universal Subject of Knowledge | Alchemy hierarchy positions | New unique subject Alchemies | Contexts | New unique mapped intersections |
 |---|---:|---:|---:|---:|
@@ -843,13 +936,14 @@ The taxonomy now contains six supplied Universal Subjects of Knowledge hierarchi
 | Health Sciences | 15 | 15 | 22 | 330 |
 | Engineering and Technology | 18 | 18 | 22 | 396 |
 | Computer and Information Sciences | 15 (14 new + 1 shared) | 14 | 22 | 308 (22 shared, not added) |
-| **Cumulative unique total** | **108 hierarchy positions** | **107** | **22** | **2354** |
+| Social Sciences | 14 | 14 | 22 | 308 |
+| **Cumulative unique total** | **122 hierarchy positions** | **121** | **22** | **2662** |
 
-The cumulative total represents 107 distinct subject Alchemies mapped across 22 contexts, producing 2354 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. The full Computer and Information Sciences section matrix therefore shows 330 positions, of which 308 are new and 22 reference existing mappings.
+The cumulative total represents 121 distinct subject Alchemies mapped across 22 contexts, producing 2662 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. The full Computer and Information Sciences section matrix therefore shows 330 positions, of which 308 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections.
 
-## 33. Taxonomy status and release register
+## 36. Taxonomy status and release register
 
-| Item | State in version 0.7.0 |
+| Item | State in version 0.8.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -868,15 +962,17 @@ The cumulative total represents 107 distinct subject Alchemies mapped across 22 
 | Computer and Information Sciences source definition | Not supplied; no definition inferred |
 | Computer and Information Sciences hierarchy | Recorded — 15 positions: 14 new Alchemies and 1 shared existing Artificial Intelligence Alchemy |
 | Computer and Information Sciences matrix | Recorded — 330 positions: 308 new mappings and 22 references to existing Artificial Intelligence mappings |
-| Cumulative unique subject Alchemy register | 107 distinct subject Alchemies |
-| Cumulative unique mapped intersections | 107 × 22 = 2354 required mappings |
+| Social Sciences source definition and hierarchy | Recorded as supplied — 14 distinct subject Alchemies |
+| Social Sciences matrix | Recorded — 14 × 22 = 308 mapped intersections |
+| Cumulative unique subject Alchemy register | 121 distinct subject Alchemies |
+| Cumulative unique mapped intersections | 121 × 22 = 2662 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, and Computer and Information Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, and Social Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 34. Change control
+## 37. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
