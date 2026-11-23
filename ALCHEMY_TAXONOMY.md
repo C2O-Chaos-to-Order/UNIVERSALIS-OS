@@ -1808,45 +1808,193 @@ All applications must remain consistent with business and economic principles, f
 
 ### 9. Law and Governance Alchemy
 
-**Law and Governance Alchemy** is the bounded process that organizes, interprets, establishes, applies, evaluates, and transforms the legal, constitutional, regulatory, institutional, and governance structures through which societies define rights, responsibilities, authority, obligations, justice, and collective decision-making. It enables individuals, institutions, organizations, and societies to establish legitimate rules, exercise authority, resolve disputes, protect rights, administer justice, and maintain accountable governance while preserving due process, institutional integrity, human dignity, and the rule of law.
+**Law and Governance Alchemy** is the bounded process by which knowledge, principles, rules, institutions, and practices concerning legal, constitutional, regulatory, administrative, institutional, and governance systems are identified, classified, organized, interpreted, examined, maintained, integrated, developed, and transformed into coherent and usable legal and governance structures.
 
-It encompasses legal theory, legal systems, public institutions, regulatory frameworks, governance principles, international legal relationships, and the administration and evaluation of public authority. Every specialized Law and Governance Alchemy remains an expression of the root Alchemy.
+It governs the organization, interpretation, establishment, application, evaluation, administration, and transformation of the legal and governance structures through which societies define rights, responsibilities, authority, obligations, justice, institutional relationships, and collective decision-making. It establishes how laws, regulations, constitutional provisions, legal principles, institutional mandates, governance arrangements, procedures, and accountability mechanisms are represented, interpreted, applied, reviewed, and maintained.
 
-#### 1. Legal Foundations and Jurisprudence Alchemies
+Law and Governance Alchemy encompasses legal theory, jurisprudence, constitutional systems, legislative and regulatory frameworks, public institutions, administrative processes, governance principles, international legal relationships, diplomacy, human rights, environmental protections, and the administration and evaluation of public authority. It provides a structured foundation for understanding legal systems and governance arrangements while preserving the distinctions between legal sources, legal interpretation, enacted law, regulatory requirements, institutional policies, governance standards, administrative decisions, and practical implementations.
 
-- **Jurisprudence Alchemy** — organizes the philosophical, theoretical, historical, and analytical study of law, legal authority, justice, legal interpretation, rights, obligations, and the foundations of legal systems.
-- **Constitutional Law Alchemy** — organizes the interpretation and application of constitutional principles, institutional powers, governmental structures, fundamental rights, and limitations on public authority.
-- **Criminal Law Alchemy** — organizes the legal principles, definitions, procedures, responsibilities, and consequences associated with criminal conduct, culpability, prosecution, defenses, and punishment.
-- **Civil Law Alchemy** — organizes legal relationships, rights, duties, disputes, remedies, and obligations among individuals, organizations, and other legal persons in non-criminal matters.
-- **International Law Alchemy** — organizes the legal principles, treaties, customary rules, institutions, and obligations governing relationships among states, international organizations, and other recognized international actors.
+Law and Governance Alchemy must preserve the provenance, authority, jurisdiction, applicability, accuracy, and integrity of legal and governance information. Statutes, regulations, constitutional provisions, treaties, judicial decisions, administrative rulings, legal precedents, institutional policies, contractual provisions, proposed legislation, legal interpretations, research findings, and model-generated conclusions must remain distinguishable. Their issuing authorities, jurisdictions, publication dates, effective dates, amendments, legal status, applicability, supersession history, assumptions, limitations, and relevant sources must be represented wherever applicable.
 
-#### 2. Public and Administrative Legal Alchemies
+It must preserve the distinction between binding legal requirements, nonbinding guidance, proposed rules, institutional policies, voluntary standards, contractual obligations, legal commentary, and analytical interpretations. A legal interpretation or policy proposal must not be represented as enacted law, binding authority, or an official institutional decision without the appropriate supporting basis.
 
-- **Administrative Law Alchemy** — organizes the legal authority, procedures, responsibilities, limits, and accountability of administrative agencies and public institutions in implementing and enforcing laws.
-- **Public Policy Alchemy** — organizes the development, analysis, adoption, implementation, evaluation, and revision of public policies designed to address collective needs and societal conditions.
-- **Governance Alchemy** — organizes the principles, structures, authorities, processes, and accountability mechanisms through which institutions and collective systems are directed, supervised, coordinated, and governed.
-- **Regulatory Science Alchemy** — organizes the scientific methods, evidence, technical assessments, and analytical frameworks used to inform the development, evaluation, implementation, and review of regulations and regulatory decisions.
+Law and Governance Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support legal-information organization, governance structures, institutional accountability, policy development, regulatory awareness, rights-related information, compliance processes, contractual information, dispute-related documentation, and other authorized legal and governance functions relevant to each context.
 
-#### 3. Rights, Justice, and Environmental Legal Alchemies
+Its universal application does not mean that every context exercises governmental, judicial, legislative, regulatory, diplomatic, or legal authority. The presence of legal and governance knowledge establishes its classification and possible relevance, not an automatic legal mandate, jurisdiction, institutional position, enforcement power, professional qualification, or authority to create, interpret conclusively, or enforce law.
 
-- **Environmental Law Alchemy** — organizes the legal principles, obligations, protections, and enforcement frameworks governing environmental protection, natural resources, ecosystems, pollution, conservation, and sustainable environmental stewardship.
-- **Human Rights Alchemy** — organizes the principles, legal protections, international instruments, institutions, and accountability mechanisms concerning the inherent rights, freedoms, dignity, equality, and protections of human beings.
+Every specialized Law and Governance Alchemy remains an expression of the root Alchemy. Its subject, purpose, methods, principles, relationships, requirements, and boundaries must remain identifiable while allowing specialized legal, constitutional, regulatory, institutional, and governance disciplines to integrate into larger systems.
 
-#### 4. International Governance and Diplomatic Alchemies
+#### 9.1 Universal Application of Law and Governance Alchemy
 
-- **Diplomacy Alchemy** — organizes the practices, relationships, negotiations, communications, representation, and peaceful dispute-resolution processes through which states and other international actors manage their relationships and pursue shared or distinct interests.
+Law and Governance Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-#### 5. Cross-Disciplinary Law and Governance Relationships
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+Within these contexts, Law and Governance Alchemy governs the appropriate organization, representation, examination, interpretation, accessibility, integration, application, and maintenance of legal and governance knowledge.
 
-- **Legal Systems Integration Alchemy** — coordinates legal principles, institutions, procedures, jurisdictions, and enforcement structures into coherent and interoperable legal systems while preserving their distinct authority and scope.
-- **Legal Interpretation Alchemy** — organizes the interpretation, construction, comparison, and application of legal texts, principles, precedents, and other recognized sources of law.
-- **Justice and Due Process Alchemy** — coordinates procedural fairness, impartial adjudication, access to justice, legal protections, remedies, and accountable dispute resolution.
-- **Institutional Accountability Alchemy** — establishes mechanisms through which public authorities, institutions, officials, and governing bodies can be reviewed, challenged, and held accountable for their actions and decisions.
-- **Regulatory Governance Alchemy** — coordinates regulatory authority, scientific evidence, public participation, compliance, oversight, enforcement, and regulatory review.
-- **Rights Protection Alchemy** — coordinates the recognition, protection, exercise, enforcement, and restoration of legal and human rights across institutions and jurisdictions.
-- **International Governance Integration Alchemy** — coordinates international law, diplomacy, treaties, institutions, cooperation, and dispute-resolution structures while preserving state and institutional distinctions.
+Its context-specific expressions include:
+
+- **Operating System Contexts:** Legal and governance knowledge may support the organization and maintenance of operating system policies, governance rules, permissions, ownership records, licensing information, regulatory requirements, contractual obligations, compliance records, accountability structures, and operational procedures. It may inform how system functions and responsibilities are defined, documented, reviewed, and governed. Its application must preserve the distinct private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS. Neither operating system acquires governmental, judicial, legislative, or regulatory authority through the inclusion of legal and governance knowledge.
+
+- **Core Intelligence Contexts:** Legal and governance knowledge may support the examination of legal sources, jurisdictional relationships, regulatory requirements, institutional responsibilities, governance frameworks, rights, obligations, and accountability structures. C2O Intelligence and UNIVERSALIS Intelligence must apply these capabilities within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities. Legal analysis does not establish authority to create law, issue binding legal determinations, exercise governmental power, represent a person before a legal institution, or make legally binding decisions.
+
+- **Application Contexts:** Legal and governance knowledge may support the organization and representation of legal documents, policies, contracts, regulatory information, compliance records, institutional procedures, rights-related information, and governance workflows. Applications must preserve source provenance, jurisdiction, effective dates, legal status, document versions, and the distinction between legal sources, interpretations, proposed changes, and approved decisions. Access to confidential legal information, case records, contractual materials, or external legal systems must remain subject to applicable authorization and confidentiality requirements.
+
+- **UNIVERSALIN Assistant Contexts:** Legal and governance knowledge may support assigned legal research, information retrieval, document organization, regulatory monitoring, policy analysis, governance documentation, compliance support, and other authorized administrative or analytical functions within operating system and application boundaries. Assistants must distinguish between general legal information, source-based legal analysis, jurisdiction-specific interpretation, professional legal advice, and decisions issued by authorized institutions. They must not presume independent authority to represent people, approve binding legal actions, exercise public authority, or enforce legal requirements.
+
+- **UNIVERSALIN Intelligence Contexts:** Legal and governance knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through legal-information processing, examination of legal sources, institutional analysis, regulatory interpretation, governance analysis, and accountability-related functions. These contexts do not constitute additional core intelligences or establish independent legal, judicial, legislative, regulatory, or governmental authority.
+
+- **UNIVERSALIN Guardian Contexts:** Legal and governance knowledge may support the authorized personal, informational, organizational, analytical, and assistance capabilities of human-bound Guardians. Its application may support the organization of personal legal documents, explanation of general legal information, recordkeeping, rights-related research, and human-directed administrative assistance. Where legal information concerns the human they serve, its collection, access, processing, retention, disclosure, and use must respect that human's authority, consent, privacy, confidentiality, autonomy, and applicable permissions. Guardians must not independently make legal decisions, represent the human, enter binding agreements, waive rights, or exercise legal authority on the human's behalf without the required authorization.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Legal and governance knowledge may support legal-information processing, examination of governance arrangements, interpretation of documented legal sources, rights-related information organization, and other human-directed Guardian capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human's legal rights, obligations, property, agreements, representation, or legal decisions. The human retains authority over personal choices and authorized Guardian functions.
+
+The specific applicability of each legal and governance discipline and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
+
+#### Alchemies under Law and Governance Alchemy
+
+##### 1. Legal Foundations and Jurisprudence Alchemies
+
+- **Jurisprudence Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the philosophical, theoretical, historical, and analytical study of law, legal authority, justice, legal interpretation, rights, obligations, and the foundations of legal systems. It establishes methods for examining the nature, purposes, principles, and development of legal systems while preserving the distinctions between legal theory, legal sources, legal interpretation, and binding legal authority.
+
+- **Constitutional Law Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the interpretation and application of constitutional principles, institutional powers, governmental structures, fundamental rights, and limitations on public authority. It establishes methods for representing constitutional arrangements, the distribution of institutional powers, constitutional protections, and the legal relationships governing public institutions within the applicable jurisdiction.
+
+- **Criminal Law Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the legal principles, definitions, procedures, responsibilities, and consequences associated with criminal conduct, culpability, prosecution, defenses, and punishment. It establishes methods for examining criminal-law structures, offenses, applicable legal elements, procedural requirements, defenses, and legal consequences while preserving the distinctions between allegations, evidence, findings, convictions, and legal determinations.
+
+- **Civil Law Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning legal relationships, rights, duties, disputes, remedies, and obligations among individuals, organizations, and other legal persons in non-criminal matters. It establishes methods for organizing and examining civil legal relationships, claims, contractual and other obligations, disputes, remedies, and applicable legal procedures.
+
+- **International Law Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the legal principles, treaties, customary rules, institutions, and obligations governing relationships among states, international organizations, and other recognized international actors. It establishes methods for examining international legal sources, treaty relationships, jurisdictional questions, international obligations, and the interaction between international and relevant domestic legal systems.
+
+##### 2. Public and Administrative Legal Alchemies
+
+- **Administrative Law Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the legal authority, procedures, responsibilities, limitations, and accountability of administrative agencies and public institutions in implementing and enforcing laws. It establishes methods for examining administrative mandates, procedural requirements, delegated authority, administrative decisions, review mechanisms, and the relationship between public institutions and the individuals or organizations subject to their actions.
+
+- **Public Policy Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to develop, analyze, adopt, implement, evaluate, and revise public policies designed to address collective needs and societal conditions. It establishes methods for representing policy objectives, evidence, alternatives, implementation arrangements, affected populations, expected outcomes, and evaluation findings while preserving the distinction between policy research, proposed policy, adopted policy, and legally binding requirements.
+
+- **Governance Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the principles, structures, authorities, processes, responsibilities, and accountability mechanisms through which institutions and collective systems are directed, supervised, coordinated, and governed. It establishes methods for defining governance roles, decision-making processes, oversight, accountability, participation, and institutional boundaries while preserving the distinction between organizational governance and the legal authority of public institutions.
+
+- **Regulatory Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the scientific methods, evidence, technical assessments, and analytical frameworks used to inform the development, evaluation, implementation, and review of regulations and regulatory decisions. It establishes methods for representing regulatory evidence, scientific uncertainty, technical requirements, risk assessments, and evaluation findings while preserving the distinction between scientific evidence, regulatory analysis, regulatory proposals, and binding regulatory decisions.
+
+##### 3. Rights, Justice, and Environmental Legal Alchemies
+
+- **Environmental Law Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the legal principles, obligations, protections, and enforcement frameworks governing environmental protection, natural resources, ecosystems, pollution, conservation, and sustainable environmental stewardship. It establishes methods for examining environmental legal requirements, institutional responsibilities, resource protections, environmental obligations, and applicable enforcement and accountability arrangements.
+
+- **Human Rights Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the principles, legal protections, international instruments, institutions, and accountability mechanisms associated with the inherent rights, freedoms, dignity, equality, and protections of human beings. It establishes methods for representing human-rights principles, applicable legal protections, rights-related obligations, remedies, and institutional accountability while preserving the dignity, autonomy, equality, and fundamental protections of individuals.
+
+##### 4. International Governance and Diplomatic Alchemies
+
+- **Diplomacy Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge and practices concerning the relationships, negotiations, communications, representation, and peaceful dispute-resolution processes through which states and other international actors manage their relationships and pursue shared or distinct interests. It establishes methods for examining diplomatic structures, negotiation processes, international communication, representation, cooperation, and dispute resolution while preserving the distinction between diplomatic analysis, authorized representation, and the exercise of official diplomatic authority.
+
+##### 5. Cross-Disciplinary Law and Governance Alchemies
+
+These specialized Alchemies coordinate the preceding legal, constitutional, regulatory, institutional, and governance disciplines without replacing or collapsing their individual identities. Their relationships must preserve distinctions between legal authority, legal interpretation, institutional responsibility, procedural fairness, rights protection, regulatory processes, and international relationships.
+
+- **Legal Systems Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships between legal principles, institutions, procedures, jurisdictions, and enforcement structures so they can be represented and understood as coherent and interoperable legal systems. It establishes methods for examining relationships between legal sources, institutions, procedures, and jurisdictions while preserving their distinct authority, applicability, legal status, and scope.
+
+- **Legal Interpretation Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to interpret, construct, compare, and apply legal texts, principles, precedents, and other recognized sources of law. It establishes methods for examining textual meaning, legal context, interpretive principles, jurisdictional differences, precedent, and applicable legal sources while distinguishing analytical interpretation from binding determinations issued by authorized legal institutions.
+
+- **Justice and Due Process Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the principles and structures associated with procedural fairness, impartial adjudication, access to justice, legal protections, remedies, and accountable dispute resolution. It establishes methods for examining procedural safeguards, fair treatment, impartiality, opportunities to be heard, applicable remedies, and the integrity of dispute-resolution processes within the relevant legal framework.
+
+- **Institutional Accountability Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the mechanisms through which public authorities, institutions, officials, and governing bodies can be reviewed, challenged, evaluated, and held accountable for their actions and decisions. It establishes methods for representing institutional responsibilities, oversight structures, review procedures, transparency requirements, reporting relationships, and accountability outcomes while preserving applicable legal authority and due process.
+
+- **Regulatory Governance Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships between regulatory authority, scientific evidence, public participation, compliance, oversight, enforcement, and regulatory review. It establishes methods for coordinating regulatory processes, supporting evidence-based regulatory decisions, examining implementation, and maintaining accountability while preserving the distinction between regulatory analysis, regulatory administration, and legally authorized regulatory action.
+
+- **Rights Protection Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the structures and methods used to recognize, protect, exercise, enforce, and restore legal and human rights across institutions and jurisdictions. It establishes methods for representing rights, obligations, protections, access to remedies, accountability mechanisms, and relevant institutional responsibilities while preserving the dignity, autonomy, and legal protections of the people concerned.
+
+- **International Governance Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships between international law, diplomacy, treaties, institutions, cooperation, and dispute-resolution structures. It establishes methods for representing international governance arrangements, institutional relationships, cooperative processes, legal obligations, and dispute-resolution mechanisms while preserving the distinct authority, responsibilities, and legal positions of participating states and institutions.
+
+### 9.2 Law and Governance Structural and Applicability Requirements
+
+Every subordinate Alchemy under Law and Governance Alchemy must retain its own defined subject, purpose, methods, principles, legal or governance requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+Law and Governance Alchemy must preserve the distinctions between its constituent disciplines and their respective subjects, methods, sources of authority, jurisdictions, institutional responsibilities, and legal or governance boundaries. Relationships between jurisprudence, constitutional law, criminal law, civil law, international law, administrative law, public policy, governance, regulatory science, environmental law, human rights, diplomacy, and the cross-disciplinary Alchemies must be established without collapsing their distinct subjects or treating their authorities and methods as interchangeable.
+
+It must also preserve the distinctions between:
+
+- Legal theory, recognized legal sources, enacted law, legal interpretation, legal commentary, proposed legislation, and binding legal determinations.
+- Constitutional authority, legislative authority, judicial authority, administrative authority, regulatory authority, and organizational governance.
+- Public law, private law, criminal law, civil law, domestic law, and international law.
+- Jurisdiction, legal applicability, institutional mandate, territorial authority, and organizational scope.
+- Binding laws and regulations, treaties, judicial decisions, administrative rulings, contractual obligations, institutional policies, voluntary standards, and nonbinding guidance.
+- Legal research, legal analysis, professional legal advice, authorized legal representation, judicial determination, and enforcement.
+- Proposed public policy, adopted policy, administrative implementation, regulatory requirements, and enacted legal obligations.
+- Scientific and technical evidence used in regulatory processes and the legal authority to issue or enforce regulatory decisions.
+- Human-rights principles, applicable legal protections, institutional responsibilities, and the practical mechanisms for exercising and protecting rights.
+- Diplomatic analysis, negotiation, official representation, international agreements, and the authority to bind participating parties.
+- Accountability, oversight, review, appeal, due process, and the lawful exercise of institutional powers.
+- Internal C2O governance, internal UNIVERSALIS governance, public institutional governance, and the legal authority of external jurisdictions.
+- Legal and governance knowledge, organizational policy, technical enforcement mechanisms, and authorization to exercise institutional or public authority.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Law and Governance Alchemy and each subordinate legal-foundation, public and administrative, rights and justice, international governance, diplomatic, and cross-disciplinary Alchemy.
+- The parent–subordinate relationships between Law and Governance Alchemy, its five specialized groups, and their respective Alchemies.
+- The relationships between legal and governance disciplines and relevant social, economic, environmental, health, engineering, computational, humanities, communication, and other knowledge-domain structures.
+- The connections between legal and governance knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, information relationships, and connections between legal and governance disciplines and other Alchemies.
+- The distinctions between foundational legal disciplines, specialized legal fields, public and administrative governance, rights protections, international relationships, and cross-disciplinary legal methods.
+- The relationships between legal sources, jurisdictions, institutions, legal procedures, rights, obligations, regulatory requirements, and governance structures.
+- The relationships between legal information, its issuing authority, publication and effective dates, amendments, applicability, supersession history, and the systems responsible for maintaining it.
+- The relationships between institutional authority, delegated responsibilities, governance arrangements, oversight structures, decision-making processes, and accountability mechanisms.
+- The relationships between human-rights principles, legal protections, institutional responsibilities, affected people, and applicable remedies.
+- The relationships between international legal sources, treaties, diplomatic structures, international institutions, and participating jurisdictions.
+- The relationships between legal research, policy development, regulatory science, compliance information, and legally authorized decisions.
+- The relationships between shared legal and governance knowledge and context-specific implementations while preserving the distinct private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each legal and governance discipline and subordinate Alchemy.
+- The specific legal-information, governance, administrative, analytical, and accountability functions associated with each applicable context.
+- The legal and governance knowledge, source materials, jurisdictional information, institutional relationships, procedures, and information structures required for those functions.
+- Whether an application involves general legal information, legal research, jurisdictional analysis, contractual information, policy development, regulatory information, compliance documentation, governance administration, rights-related information, dispute documentation, or international governance information.
+- Whether the relevant information concerns binding law, proposed legislation, regulations, treaties, judicial decisions, administrative rulings, institutional policies, contractual obligations, voluntary standards, or legal commentary.
+- The actual capabilities, supported interfaces, information sources, legal databases, document repositories, institutional connections, and dependencies required for any legal-information access or processing.
+- The permissions, ownership, authorization, confidentiality, privilege considerations, privacy protections, retention requirements, and governance boundaries applicable to legal documents, case information, institutional records, and other sensitive legal information.
+- The source authority, jurisdiction, publication date, effective date, amendment history, supersession status, applicability, interpretation, assumptions, uncertainty, and limitations that must accompany legal and governance information and derived conclusions.
+- The distinctions between authoritative legal sources, secondary legal sources, commentary, research interpretations, proposed changes, and binding institutional decisions.
+- The applicable treatment of differences between jurisdictions, conflicts of laws, legal hierarchies, institutional mandates, territorial scope, and changes in legal status.
+- The relationships between shared legal and governance foundations and context-specific methods, responsibilities, institutional arrangements, and implementations.
+- The boundaries between legal-information organization, legal research, analytical assistance, professional legal advice, authorized legal representation, administrative decision-making, judicial determinations, regulatory action, and law enforcement.
+- The conditions under which qualified legal professionals, authorized institutional officials, human review, owner authorization, or additional verification are required before a legal or governance function proceeds.
+- The applicable requirements for documenting legal sources, preserving legal records, tracking amendments, recording institutional decisions, maintaining procedural history, and supporting accountability and review.
+- The relationships between legal rights, obligations, permissions, procedures, remedies, and the governance responsibilities applicable to each context.
+- The specific responsibilities and limitations associated with legal and governance functions performed by C2O Intelligence, UNIVERSALIS Intelligence, UNIVERSALIN assistants, and personal Guardians.
+
+Law and Governance Alchemy must not presume that the presence of a legal or governance discipline in the universal taxonomy grants every context jurisdiction, governmental power, judicial authority, legislative authority, regulatory authority, enforcement power, legal representation rights, or professional legal qualifications.
+
+The inclusion of legal and governance knowledge within an ecosystem context establishes its place in the knowledge structure, not an automatic legal mandate, jurisdiction, institutional position, permission to create binding rules, or authorization to exercise legal or public authority.
+
+Legal information must be handled according to its source, issuing authority, jurisdiction, legal status, applicability, sensitivity, purpose, and applicable permissions. Legal documents, confidential communications, privileged information, personal legal records, contractual materials, institutional records, and other sensitive information must remain subject to applicable confidentiality, privacy, access, retention, and governance requirements.
+
+Legal sources, legal interpretations, research findings, legal opinions, proposed provisions, administrative recommendations, and binding decisions must remain distinguishable. Legal requirements must not be inferred solely from policy statements, commentary, incomplete sources, or model-generated interpretations. Legal status and applicability must be supported by appropriate source information and jurisdictional context.
+
+The use of legal knowledge or analytical capabilities does not independently establish professional qualifications, legal credentials, authority to provide professional legal advice, rights to represent another person, or authority to issue legally binding decisions. Where a function requires qualified legal professionals, authorized public officials, judicial institutions, regulators, or other legally empowered authorities, those responsibilities and authorities must remain established outside the taxonomy itself.
+
+Internal C2O and UNIVERSALIS governance arrangements must remain distinct from external governmental, judicial, regulatory, and international legal authorities. Internal policies and system controls must not be represented as public law or as authority to exercise powers reserved to external legal institutions.
+
+Applications involving human rights, personal legal information, legal disputes, or institutional decisions must preserve human dignity, equality, autonomy, due process, privacy, and access to applicable protections and remedies. Guardian assistance must remain subject to the authority and permissions of the human they serve. Neither legal knowledge nor governance capabilities grant a system, intelligence, assistant, or Guardian independent authority over another person's legal rights, obligations, representation, property, or decisions.
+
+All applications must remain consistent with applicable legal sources, jurisdictional requirements, due process, governance principles, institutional responsibilities, rights protections, information provenance, confidentiality requirements, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 10. Humanities Alchemy
 
