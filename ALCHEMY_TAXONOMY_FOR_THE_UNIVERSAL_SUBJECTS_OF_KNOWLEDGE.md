@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.6.0  
-**Status:** Fifteen supplied Universal Subject hierarchies recorded; 217 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 1.7.0  
+**Status:** Sixteen supplied Universal Subject hierarchies recorded; 226 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -1655,9 +1655,96 @@ Each of the 220 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 74. Cumulative Universal Subject Alchemy register and mapping totals
+## 77. Universal Subject of Knowledge hierarchy: Human Development and Civilization
 
-The taxonomy now contains fifteen supplied Universal Subjects of Knowledge hierarchies.
+### 77.1 Canonical subject definition
+
+**Source definition:** Not supplied in the Universal Subject material provided for this entry.
+
+The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Human Development and Civilization subject becomes **Human Development and Civilization Alchemy**.
+
+### 77.2 Human Development and Civilization Alchemy hierarchy
+
+The following hierarchy preserves the supplied subject list. The source provides nine subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Human Development and Civilization; no additional parent-child groupings have been inferred.
+
+- **Human Development and Civilization Alchemy**
+  - **Human Development Alchemy**
+  - **Family Studies Alchemy**
+  - **Childhood Development Alchemy**
+  - **Gerontology Alchemy**
+  - **Urban Studies Alchemy**
+  - **Civilization Studies Alchemy**
+  - **Anthropology Alchemy** *(shared canonical Alchemy: USA-SS-004; also parented under Social Sciences)*
+  - **Cultural Evolution Alchemy**
+  - **Migration Studies Alchemy**
+
+### 77.3 Human Development and Civilization Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
+|---|---|---|---|
+| USA-HDC-001 | Human Development and Civilization | Human Development and Civilization Alchemy | Root subject |
+| USA-HDC-002 | Human Development | Human Development Alchemy | Human Development and Civilization |
+| USA-HDC-003 | Family Studies | Family Studies Alchemy | Human Development and Civilization |
+| USA-HDC-004 | Childhood Development | Childhood Development Alchemy | Human Development and Civilization |
+| USA-HDC-005 | Gerontology | Gerontology Alchemy | Human Development and Civilization |
+| USA-HDC-006 | Urban Studies | Urban Studies Alchemy | Human Development and Civilization |
+| USA-HDC-007 | Civilization Studies | Civilization Studies Alchemy | Human Development and Civilization |
+| USA-SS-004 | Anthropology | Anthropology Alchemy | Social Sciences; Human Development and Civilization (shared canonical subject) |
+| USA-HDC-008 | Cultural Evolution | Cultural Evolution Alchemy | Human Development and Civilization |
+| USA-HDC-009 | Migration Studies | Migration Studies Alchemy | Human Development and Civilization |
+
+**Human Development and Civilization total: 10 hierarchy positions comprising nine new distinct subject Alchemies and one shared existing subject Alchemy.**
+
+**Anthropology remains one canonical subject Alchemy, identified as USA-SS-004.** Its parent relationships are Social Sciences and Human Development and Civilization. The existing 22 Anthropology context mappings are referenced rather than duplicated or counted a second time. The parent subject and eight other subordinate subjects are established as nine new distinct Alchemies.
+
+The source supplied the subject name and its nine subordinate subject names, but no definition for Human Development and Civilization and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred. Related subjects such as Cultural Studies, Demography, Sociology, and Human Geography remain distinct unless an exact shared subject identity is established; conceptual association alone does not justify merging subject identities.
+
+## 78. Human Development and Civilization Alchemy — 10 × 22 context matrix
+
+The matrix below records all ten Human Development and Civilization hierarchy positions across the 22 canonical contexts. Nine rows represent new subject Alchemies and contribute 9 × 22 = **198 new mapped intersections**. The Anthropology row references the existing canonical Alchemy USA-SS-004 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
+
+The column identifiers C01–C22 refer to the canonical context key in Section 8.2.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-HDC-001 · Human Development and Civilization Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HDC-002 · Human Development Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HDC-003 · Family Studies Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HDC-004 · Childhood Development Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HDC-005 · Gerontology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HDC-006 · Urban Studies Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HDC-007 · Civilization Studies Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-004 · Anthropology Alchemy [shared canonical Alchemy] | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HDC-008 · Cultural Evolution Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HDC-009 · Migration Studies Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Human Development and Civilization matrix coverage:** 10 hierarchy positions × 22 contexts = **220 section mapping positions**, comprising **198 new mapped intersections and 22 references to the existing Anthropology mappings**.
+
+The 22 Anthropology cells in this section point to the same subject-Alchemy/context intersections already represented by USA-SS-004 in the Social Sciences matrix. They must not be counted twice in the cumulative unique-mapping total. Anthropology retains its existing canonical identifier and is not assigned a second Alchemy identity.
+
+## 79. Human Development and Civilization contextual expression requirements
+
+Each of the 198 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+The 22 existing Anthropology mappings are not duplicated here. They remain associated with the shared canonical subject-Alchemy identity USA-SS-004 and its two parent relationships.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 80. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains sixteen supplied Universal Subjects of Knowledge hierarchies.
 
 | Universal Subject of Knowledge | Alchemy hierarchy positions | New unique subject Alchemies | Contexts | New unique mapped intersections |
 |---|---:|---:|---:|---:|
@@ -1676,13 +1763,14 @@ The taxonomy now contains fifteen supplied Universal Subjects of Knowledge hiera
 | Education and Learning Sciences | 9 | 9 | 22 | 198 |
 | Environmental Sciences | 11 (10 new + 1 shared) | 10 | 22 | 220 (22 shared, not added) |
 | Earth, Space, and Planetary Sciences | 10 | 10 | 22 | 220 |
-| **Cumulative unique total** | **221 hierarchy positions** | **217** | **22** | **4774** |
+| Human Development and Civilization | 10 (9 new + 1 shared) | 9 | 22 | 198 (22 shared, not added) |
+| **Cumulative unique total** | **231 hierarchy positions** | **226** | **22** | **4972** |
 
-The cumulative total represents 217 distinct subject Alchemies mapped across 22 contexts, producing 4774 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes nine new subject Alchemies and 198 new mapped intersections. Environmental Sciences contributes ten new subject Alchemies and 220 new mapped intersections; the existing Ecology Alchemy contributes 22 shared mapping references and is not counted twice. Earth, Space, and Planetary Sciences contributes ten new subject Alchemies and 220 new mapped intersections.
+The cumulative total represents 226 distinct subject Alchemies mapped across 22 contexts, producing 4972 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes nine new subject Alchemies and 198 new mapped intersections. Environmental Sciences contributes ten new subject Alchemies and 220 new mapped intersections; the existing Ecology Alchemy contributes 22 shared mapping references and is not counted twice. Earth, Space, and Planetary Sciences contributes ten new subject Alchemies and 220 new mapped intersections. Human Development and Civilization contributes nine new subject Alchemies and 198 new mapped intersections; the existing Anthropology Alchemy contributes 22 shared mapping references and is not counted twice.
 
-## 75. Taxonomy status and release register
+## 81. Taxonomy status and release register
 
-| Item | State in version 1.6.0 |
+| Item | State in version 1.7.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -1727,15 +1815,18 @@ The cumulative total represents 217 distinct subject Alchemies mapped across 22 
 | Earth, Space, and Planetary Sciences source definition | Not supplied; no definition inferred |
 | Earth, Space, and Planetary Sciences hierarchy | Recorded — 10 distinct subject Alchemies: 1 parent and 9 supplied subordinate subjects |
 | Earth, Space, and Planetary Sciences matrix | Recorded — 10 × 22 = 220 new mapped intersections |
-| Cumulative unique subject Alchemy register | 217 distinct subject Alchemies |
-| Cumulative unique mapped intersections | 217 × 22 = 4774 required mappings |
+| Human Development and Civilization source definition | Not supplied; no definition inferred |
+| Human Development and Civilization hierarchy | Recorded — 10 positions: nine new Alchemies and one shared existing Anthropology Alchemy |
+| Human Development and Civilization matrix | Recorded — 220 positions: 198 new mappings and 22 references to existing Anthropology mappings |
+| Cumulative unique subject Alchemy register | 226 distinct subject Alchemies |
+| Cumulative unique mapped intersections | 226 × 22 = 4972 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, Environmental Sciences, and Earth, Space, and Planetary Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, Environmental Sciences, Earth, Space, and Planetary Sciences, and Human Development and Civilization subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 76. Change control
+## 82. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
