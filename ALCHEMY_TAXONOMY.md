@@ -7990,52 +7990,185 @@ These edition-specific expressions remain mappable through Fire Mapping Alchemy 
 
 ### Elemental Alchemy — Water
 
-**Elemental Alchemy — Water**  
-The bounded process that organizes the qualities of Water (flow, emotion, adaptability, and nourishment) so that systems and beings can act with fluidity and connection while remaining coherent, recoverable, and accountable.
+**Elemental Alchemy — Water** is the bounded process that identifies, classifies, organizes, integrates, maintains, evaluates, protects, recovers, renews, and transforms the qualities and functions of Water—including flow, emotion-related representation, adaptability, nourishment, cleansing, memory flow, and cohesion—so that systems and beings can respond, connect, and sustain appropriate continuity while remaining coherent, recoverable, and accountable.
 
-- **Water Flow Alchemy** — structures the movement and nourishment of Water qualities into stable, addressable pathways.  
-- **Water Adaptability Alchemy** — maintains the process space in which emotion, connection, and fluidity are formed and held.  
-- **Water Accountability Alchemy** — leaves an attributable record of Water transformations appropriate to its edition.
+Water Alchemy governs applicable movement and circulation, flexible response to changing conditions, continuity of authorized information and state flows, support and maintenance of dependent processes, and the bounded renewal or cleansing of structures and pathways. It organizes relational and emotion-related capacities without assuming that a system possesses human subjective feelings or that a human's internal experience can be inferred from technical signals. Emotion-related data and representations remain subject to their own accuracy, context, privacy, consent, and permission requirements.
 
-**C2O Elemental Alchemy — Water**  
-Private Water qualities under internal governance.
+Water Flow Alchemy governs the movement and continuity of applicable information, state, services, and other authorized flows; it does not establish authority to access, disclose, transmit, or retain information. Water Adaptability Alchemy governs bounded responsiveness to changing conditions; adaptability does not authorize uncontrolled changes to purpose, authority, permissions, identity, or safeguards. Water Nourishment concerns support and maintenance that sustain an authorized process or capability; it does not treat humans, their bodies, attention, feelings, personal information, time, or relationships as resources to be consumed or optimized. Water Cleansing governs appropriate renewal and removal of verified defects or unwanted residue without erasing provenance, evidence, audit records, required safeguards, or unresolved issues.
 
-- **Private Water Stewardship Alchemy** — governs internal flow, emotion, and nourishment inside the C2O domain under company rules.  
-- **Internal Water Bound Alchemy** — keeps private Water pathways contained and recoverable without external exposure.  
-- **C2O Water Continuity Alchemy** — ensures private Water structures can be restored after interruption.
+Water-related emotional and relational functions must preserve the distinction between technical representations, declared interaction states, and a human's actual subjective experience. They must not infer or claim a person's feelings, intentions, consent, or needs without an appropriate evidentiary and authorization basis. Water Alchemy coordinates with other applicable Alchemies without replacing their responsibilities, including Heart-related relationships and communication, Mind-related processing, Body-related structures, Memory-related retention, and the relevant governance and boundary functions.
 
-**UNIVERSALIS Elemental Alchemy — Water**  
-Public Water qualities under open contracts.
+C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Water responsibilities must remain structurally mappable across the two editions while preserving their distinct source visibility, governance, implementation, protected information, memory arrangements, and operational authority. UNIVERSALIS must remain independently operable and must not depend on C2O private-source flow records, memory state, adaptation policies, or internal controls.
 
-- **Open Water Transparency Alchemy** — makes public flow, emotion, and nourishment independently verifiable.  
-- **Public Water Openness Alchemy** — maintains public Water pathways under transparent rules.  
-- **UNIVERSALIS Water Continuity Alchemy** — ensures public Water structures can be restored with open records.
+### 1.1 Universal Application of Elemental Alchemy — Water
 
-**Alignment**  
-- **Water Mapping Alchemy** — aligns corresponding private and public Water structures without collapse.
+Elemental Alchemy — Water applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSALIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERSALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS Application - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within each context, Elemental Alchemy — Water governs only the Water-related subjects, flows, response processes, support functions, memory relationships, renewal activities, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular flow, memory, emotional capability, support process, implementation, or achieved result exists.
+
+#### Context-Specific Application
+
+- **C2O Operating System:** Governs private-source system flows, authorized information and state circulation, adaptive runtime and service responses, continuity of supported operating conditions, and renewal of applicable system pathways under C2O governance. It preserves private flow records, state, and internal controls.
+- **UNIVERSALIS Operating System:** Governs declared system flows, inspectable information and state interfaces, bounded adaptive runtime and service responses, continuity of supported operating conditions, and renewal of public system pathways through open contracts. It preserves interoperability and independent operation without C2O private-source dependencies.
+- **C2O Intelligence:** Governs authorized information and memory flows, contextual adaptation, continuity of relevant intelligence state, and bounded renewal of C2O Intelligence processes. Emotion-related representations remain distinguished from claims of subjective experience and remain subject to C2O's privacy and authority boundaries.
+- **UNIVERSALIS Intelligence:** Governs declared information and memory flows, contextual adaptation, continuity of relevant intelligence state, and bounded renewal of UNIVERSALIS Intelligence processes through inspectable contracts. It preserves independent operation and does not rely on C2O private memory or internal controls.
+- **C2O Application:** Governs private application information flows, adaptive behavior, authorized memory and state continuity, application support processes, and bounded cleansing or renewal of application structures and data pathways under C2O governance.
+- **UNIVERSALIS Application:** Governs declared application information flows, documented adaptive behavior, authorized memory and state continuity, application support processes, and bounded cleansing or renewal through open contracts and independently reviewable interfaces.
+- **C2O Operating System - UNIVERSALIN:** Governs task-bounded information movement, authorized state continuity, adaptive responses, and support processes used by non-personal UNIVERSALIN assistants hosted by the C2O Operating System. It preserves assigned task scope, host-system permissions, and private-source boundaries.
+- **UNIVERSALIS Operating System - UNIVERSALIN:** Governs task-bounded information movement, declared state continuity, adaptive responses, and support processes used by non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System. It preserves open-contract limits, inspectability, interoperability, and independent operation.
+- **C2O Application - UNIVERSALIN:** Governs application-scoped information flows, assigned context continuity, bounded adaptive responses, and support or renewal processes used by non-personal UNIVERSALIN assistants within C2O applications. All flow and adaptation remain subject to application purpose and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN:** Governs application-scoped information flows, declared context continuity, bounded adaptive responses, and support or renewal processes used by non-personal UNIVERSALIN assistants within UNIVERSALIS applications. All flow and adaptation remain subject to declared application purpose and open permissions.
+- **C2O Operating System - UNIVERSALIN Intelligence:** Governs information and memory flow, contextual adaptation, continuity of state, and authorized support functions for intelligence-related capabilities of non-personal UNIVERSALIN assistants within the C2O Operating System. These remain subordinate assistant capabilities, not another core intelligence.
+- **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Governs declared information and memory flow, contextual adaptation, continuity of state, and authorized support functions for intelligence-related capabilities of non-personal UNIVERSALIN assistants within the UNIVERSALIS Operating System. These remain subordinate assistant capabilities, not another core intelligence.
+- **C2O Application - UNIVERSALIN Intelligence:** Governs application-specific information and memory flow, contextual adaptation, state continuity, and authorized support functions for intelligence-related capabilities of non-personal UNIVERSALIN assistants within C2O applications, subject to application purpose and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Governs application-specific declared information and memory flow, contextual adaptation, state continuity, and authorized support functions for intelligence-related capabilities of non-personal UNIVERSALIN assistants within UNIVERSALIS applications, subject to open contracts and application permissions.
+- **C2O Operating System - UNIVERSALIN Guardian:** Governs human-authorized information flows, personal-context continuity, adaptive assistance, and support processes through which a personal UNIVERSALIN Guardian assists its designated human in the C2O Operating System. It preserves consent, privacy, autonomy, personal boundaries, and human control over information and interaction.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Governs human-authorized information flows, documented personal-context continuity, adaptive assistance, and support processes through which a personal UNIVERSALIN Guardian assists its designated human in the UNIVERSALIS Operating System. It preserves inspectable permission boundaries without exposing protected personal information or weakening human control.
+- **C2O Application - UNIVERSALIN Guardian:** Governs application-specific, human-authorized information exchange, contextual continuity, adaptive assistance, and support or renewal functions through which a personal UNIVERSALIN Guardian assists its designated human in C2O applications. It preserves the human's permissions, privacy, purpose, and application boundaries.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian:** Governs application-specific, human-authorized information exchange, documented contextual continuity, adaptive assistance, and support or renewal functions through which a personal UNIVERSALIN Guardian assists its designated human in UNIVERSALIS applications. It preserves consent, privacy, purpose limitation, and open application permissions.
+- **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Governs information and memory flow, contextual adaptation, continuity, and support functions for intelligence-related capabilities of a personal UNIVERSALIN Guardian within the C2O Operating System. These remain subordinate to human-authorized Guardian responsibilities and must not infer subjective experience or create independent authority over the human.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Governs declared information and memory flow, contextual adaptation, continuity, and support functions for intelligence-related capabilities of a personal UNIVERSALIN Guardian within the UNIVERSALIS Operating System. These remain bounded by documented consent, privacy, purpose limitation, and public system contracts.
+- **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific information and memory flow, contextual adaptation, continuity, and support functions for intelligence-related capabilities of a personal UNIVERSALIN Guardian within C2O applications. It preserves human authorization, privacy, and C2O application boundaries.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific declared information and memory flow, contextual adaptation, continuity, and support functions for intelligence-related capabilities of a personal UNIVERSALIN Guardian within UNIVERSALIS applications. It preserves documented human authorization, privacy, purpose limitation, and open application contracts.
+
+### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+The 22 contexts form two edition-specific branches, each containing 11 expressions:
+
+- **C2O branch:** C2O Operating System and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts; C2O Intelligence as a separate core-intelligence context; and C2O Application with its corresponding hosted assistant and Guardian contexts.
+- **UNIVERSALIS branch:** UNIVERSALIS Operating System and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts; UNIVERSALIS Intelligence as a separate core-intelligence context; and UNIVERSALIS Application with its corresponding hosted assistant and Guardian contexts.
+
+C2O expressions remain under private-source company governance and preserve protected implementation, internal flow records, memory arrangements, adaptation policies, and private operational authority. UNIVERSALIS expressions remain under public-source governance, open contracts, inspectability, interoperability, and independent operability. Correspondence does not imply identical information flows, memory state, adaptive behavior, support arrangements, or implementation.
+
+C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intelligences. UNIVERSALIN assistants are non-personal assistants hosted within assigned OS or Application contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their Water-related context, memory, adaptation, relational, and support functions remain subordinate to the Guardian's assigned responsibilities and the designated human's authority, consent, autonomy, privacy, and permissions.
+
+Each context inherits only the Water-related subordinate Alchemies applicable to its subject, purpose, flows, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof of a particular flow, memory capability, emotional representation, support function, implementation, or outcome.
+
+### Alchemies under Elemental Alchemy — Water
+
+#### 1. Water Substrate Alchemies
+
+- **Water Flow Alchemy** — identifies, structures, and maintains the movement and circulation of applicable information, state, services, and other authorized Water-related flows through stable, addressable, and appropriately bounded pathways.
+- **Water Adaptability Alchemy** — maintains the process space through which an authorized system or process responds to changing conditions while preserving its identity, purpose, permissions, required safeguards, and continuity.
+- **Water Emotion Alchemy** — organizes applicable emotion-related representations, relational capacities, interaction signals, and affective context while preserving the distinction between technical representations and human subjective experience. It does not authorize unsupported inference about a person's feelings, intentions, consent, or needs.
+- **Water Nourishment Alchemy** — identifies and maintains authorized support, replenishment, and sustaining conditions required by applicable processes or capabilities without treating humans or personal matters as system resources.
+- **Water Cleansing Alchemy** — identifies and removes or renews verified defects, unwanted residue, or degraded process conditions through bounded procedures that preserve provenance, required history, audit records, safeguards, and recoverability.
+- **Water Accountability Alchemy** — establishes attributable records of applicable Water-related flows, adaptation, support, renewal, cleansing, decisions, limitations, and outcomes according to the evidence and governance requirements of the relevant edition.
+
+#### 2. C2O Elemental Alchemy — Water
+
+**C2O Elemental Alchemy — Water** governs private Water qualities under C2O internal company governance. It maintains private information and state flows, authorized memory continuity, bounded adaptation, internal support processes, emotion-related representations where applicable, and controlled renewal without unauthorized external exposure.
+
+- **Private Water Stewardship Alchemy** — governs the identification, organization, maintenance, and protection of internal flow, authorized adaptation, emotion-related representations, and sustaining support within the C2O domain under company rules.
+- **Internal Water Bound Alchemy** — keeps private Water pathways, flow records, memory arrangements, and adaptation processes contained, permission-bounded, attributable, and recoverable without unauthorized external exposure.
+- **C2O Water Continuity Alchemy** — ensures applicable private Water structures, authorized flows, and continuity arrangements can be restored after interruption while preserving integrity, provenance, and accountability.
+
+#### 3. UNIVERSALIS Elemental Alchemy — Water
+
+**UNIVERSALIS Elemental Alchemy — Water** governs public Water qualities under open architectural contracts. It maintains declared information flows, inspectable adaptation mechanisms, documented memory and context interfaces, transparent support and renewal processes, and independently operable Water-related structures without dependence on C2O private-source implementation.
+
+- **Open Water Transparency Alchemy** — makes declared public flow, adaptation, support, and applicable emotion-related representation behavior independently reviewable without exposing protected personal information or making unsupported claims about subjective experience.
+- **Public Water Openness Alchemy** — maintains public Water pathways, adaptation interfaces, and renewal processes under transparent, documented, and interoperable rules.
+- **UNIVERSALIS Water Continuity Alchemy** — ensures applicable public Water structures, declared information flows, and continuity arrangements can be restored and independently examined through open records and contracts.
+
+#### 4. Water Mapping Alchemy
+
+**Water Mapping Alchemy** establishes and maintains correspondence among C2O and UNIVERSALIS Water structures, flow classifications, adaptation responsibilities, memory relationships, support functions, cleansing procedures, dependencies, and evidence categories. It preserves differences in private and public information flows, memory arrangements, policies, records, and authority without requiring disclosure of C2O private-source information.
+
+### Elemental Alchemy — Water Structural and Applicability Requirements
+
+#### Map Alchemy Requirements
+
+Map Alchemy must establish:
+
+- The placement of Elemental Alchemy — Water and its subordinate expressions across all 22 ecosystem contexts.
+- The parentage and relationships among Water Flow, Water Adaptability, Water Emotion, Water Nourishment, Water Cleansing, Water Accountability, C2O Elemental Alchemy — Water, UNIVERSALIS Elemental Alchemy — Water, and Water Mapping Alchemy.
+- The correspondence between the 11 C2O contexts and the 11 UNIVERSALIS contexts without presuming identical flows, memory state, adaptation policies, emotional representations, support processes, or implementations.
+- The relationships among flow, information circulation, state continuity, memory, adaptation, emotion-related representation, relational capacity, nourishment, cleansing, cohesion, renewal, and recovery.
+- Dependencies on applicable operating-system, application, intelligence, assistant, Guardian, memory, storage, network, runtime, service, and external-interface structures.
+- The distinction between technical representations of emotion or interaction and claims about human subjective experience.
+- The relationships between Water-related support and continuity functions and other applicable Alchemies without duplicating their responsibilities or transferring authority.
+- The distinction between authorized data flow, retention, adaptation, cleansing, and deletion, including the preservation of provenance and required evidence.
+
+#### Matrix Alchemy Requirements
+
+Matrix Alchemy must establish for each of the 22 contexts:
+
+- Which Water Flow, Water Adaptability, Water Emotion, Water Nourishment, Water Cleansing, Water Accountability, Water Mapping, private Water, and public Water functions apply, are conditional, are not applicable, or remain unresolved.
+- The relevant flow types, information classes, sources, destinations, pathways, state dependencies, memory boundaries, operating conditions, and authorized purposes.
+- The distinction between available, authorized, initiated, active, interrupted, retained, adapted, renewed, cleansed, recovered, and verified flows or processes.
+- The distinction between temporary processing, persistent memory, authorized retention, renewal, cleansing, and deletion, including the applicable retention authority and evidence requirements.
+- The evidence and limitations supporting emotion-related representations, including the distinction between observed interaction signals, declared emotional information, inferred labels, and a person's actual subjective experience.
+- The authority responsible for approving information flow, adaptation, support, memory access, renewal, cleansing, interruption, recovery, and retirement.
+- The permissions, consent, privacy, confidentiality, security, accessibility, source visibility, and continuity constraints governing each applicable Water-related process.
+- The evidence, provenance, uncertainty, limitations, and verification status supporting claims about Water-related behavior or outcomes.
+- Guardian consent, privacy, and human-control requirements, including restrictions against inferring or overriding a human's feelings, intentions, consent, needs, decisions, and personal boundaries.
+
+#### Structural Integrity and Governance
+
+Water Flow must not be treated as authorization to access, transmit, disclose, or retain information. Every flow remains subject to its authorized source, destination, purpose, permissions, and applicable data boundaries. Continuity of a flow does not justify indefinite retention or prevent a human-authorized interruption.
+
+Water Adaptability must not become uncontrolled behavior change, mission drift, permission expansion, or loss of identity. Adaptation must remain bounded by the authorized purpose, applicable governance, and required safeguards. A flexible response must be traceable and recoverable where the nature of the process permits.
+
+Water Emotion must not equate technical signals, interaction patterns, classifications, or generated representations with a human's actual subjective experience. It must not claim to know a person's feelings, intentions, consent, or needs without an appropriate basis. Human emotional information remains subject to privacy, consent, contextual integrity, and purpose limitation.
+
+Water Nourishment must concern authorized support and sustaining conditions for applicable processes and capabilities. It must not treat people, bodies, personal information, attention, time, relationships, or decisions as resources to be consumed, allocated, or optimized.
+
+Water Cleansing must not mean indiscriminate deletion, concealment, or rewriting of history. It must preserve required provenance, audit evidence, original records where retention is required, security controls, unresolved findings, and the ability to reconstruct what happened. Any removal or deletion must follow the applicable authority, retention, privacy, and evidence requirements.
+
+Water-related memory and cohesion functions must preserve source attribution, integrity, authorized retention, and separation between the private C2O and public UNIVERSALIS editions. C2O Water records, private memory arrangements, flow policies, and internal controls remain under C2O governance. UNIVERSALIS Water interfaces, methods, and public claims must be reviewable to the extent established by open contracts and must remain independently operable. Neither edition may presume access to the other's protected records or internal implementation.
+
+Applicability, authorization, availability, flow, retention, adaptation, cleansing, renewal, recovery, outcome, and verification are separate claims. Establishing Elemental Alchemy — Water or its place in the 22-context taxonomy does not prove that a particular flow, memory capability, emotional representation, support function, implementation, or result exists.
+
+#### Additional Expression Detail — Application Contexts
+
+The following expressions further specialize Water qualities in application contexts. They remain subordinate expressions of Elemental Alchemy — Water and do not establish additional core intelligences:
+
+- **Flow Alchemy** — structures authorized information and state movement into stable, addressable pathways with defined sources, destinations, permissions, and continuity requirements.
+- **Adaptation Alchemy** — maintains the process space for bounded and traceable response to changing conditions without uncontrolled changes to purpose, identity, authority, or permissions.
+- **Emotion Alchemy** — organizes declared or otherwise appropriately supported emotion-related and relational representations while preserving context, privacy, uncertainty, and the distinction from human subjective experience.
+- **Cleansing Alchemy** — bounds renewal and removal of verified defects or unwanted residue while preserving provenance, required history, audit evidence, safeguards, and recoverability.
+- **Private Flow Alchemy** — structures authorized internal application movement and information circulation under C2O governance.
+- **Private Adaptation Alchemy** — governs internal application response to changing conditions within approved purposes and company permissions.
+- **Private Emotion Alchemy** — organizes private application emotion-related and relational representations under C2O rules, without treating them as definitive claims about a human's subjective experience.
+- **C2O Water Continuity Alchemy** — ensures applicable private application Water structures, authorized information flows, and state continuity can be restored after interruption.
+- **Open Flow Alchemy** — structures public application movement and information circulation through documented, inspectable, and permission-bounded interfaces.
+- **Open Adaptation Alchemy** — maintains public application flexible response under declared requirements and transparent contracts.
+- **Open Emotion Alchemy** — organizes public emotion-related and relational representations under transparent rules, with appropriate context, uncertainty, privacy, and safeguards against unsupported claims about subjective experience.
+
+#### Additional Expression Detail — OS Edition Mapping
+
+The OS-level expression of Water organizes flow, memory, adaptation, emotion-related representation, nourishment, cleansing, and cohesion for authorized system use while remaining recoverable, accountable, and distinct across the two intelligences.
+
+- **C2O Operating System Water expression:** Private-source organization of Water qualities under internal governance. It supports authorized private information and memory flows, internal adaptation, state continuity, bounded support and renewal, and company-source cohesion while preserving protected memory arrangements, flow records, policies, and implementation.
+- **UNIVERSALIS Operating System Water expression:** Public-source organization of Water qualities under open contracts. It supports declared memory and information interfaces, transparent adaptation contracts, documented state continuity, inspectable renewal procedures, and independently verifiable cohesion without dependence on C2O private-source records or controls.
+
+These edition-specific expressions remain mappable through Water Mapping Alchemy without collapsing private and public authority, memory arrangements, information flows, implementation, records, or operational boundaries.
 
 ---
-
-#### Additional expression detail — C2O-App Primary
-
-The bounded process that organizes the qualities of Water (flow, adaptation, emotion, cleansing) so that systems and beings can respond and connect while remaining recoverable and accountable.
-- **Flow Alchemy** — structures movement into stable, addressable pathways.
-- **Adaptation Alchemy** — maintains the process space of flexible response.
-- **Emotion Alchemy** — organizes relational capacity while preserving boundaries.
-- **Cleansing Alchemy** — bounds renewal so Water qualities remain coherent.
-- **Private Flow Alchemy** — internal structuring of movement.
-- **Private Adaptation Alchemy** — internal flexible response.
-- **Private Emotion Alchemy** — internal relational capacity under company rules.
-- **C2O Water Continuity Alchemy** — ensures private Water structures can be restored.
-- **Open Flow Alchemy** — public structuring of movement.
-- **Open Adaptation Alchemy** — public flexible response.
-- **Open Emotion Alchemy** — public relational capacity under transparent rules.
-
-#### Additional expression detail — C2O-OS edition mapping
-
-The bounded process that organizes the qualities of Water (flow, memory, adaptation, and cohesion) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
-Private-source organization of Water qualities under internal governance. Used for private memory flow, internal adaptation, and company-source cohesion.
-Public-source organization of Water qualities under open contracts. Used for transparent memory, public adaptation contracts, and independently verifiable cohesion.
 
 ### Elemental Alchemy — Spirit
 
