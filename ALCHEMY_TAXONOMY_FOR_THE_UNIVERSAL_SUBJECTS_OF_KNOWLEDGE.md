@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 0.5.0  
-**Status:** Formal Sciences, Physical Sciences, Life Sciences, and Health Sciences subject hierarchies recorded; 75 subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 0.6.0  
+**Status:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, and Engineering and Technology subject hierarchies recorded; 93 subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -629,9 +629,114 @@ Each of the 330 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 23. Cumulative Universal Subject Alchemy register and mapping totals
+## 23. Universal Subject of Knowledge hierarchy: Engineering and Technology
 
-The taxonomy now contains four supplied Universal Subjects of Knowledge hierarchies.
+### 23.1 Canonical subject definition
+
+**Engineering and Technology** — Knowledge applied to design, creation, and operation.
+
+This definition is retained as supplied. The Engineering and Technology subject becomes **Engineering and Technology Alchemy**.
+
+### 23.2 Engineering and Technology Alchemy hierarchy
+
+The following hierarchy preserves the supplied subject structure. The source provides Engineering and Technology as the parent subject and lists 17 subordinate subjects without further subdivisions. Accordingly, each of the 17 listed subjects is recorded as a direct child of Engineering and Technology; no additional parent-child relationships are inferred.
+
+- **Engineering and Technology Alchemy**
+  - **Mechanical Engineering Alchemy**
+  - **Electrical Engineering Alchemy**
+  - **Civil Engineering Alchemy**
+  - **Chemical Engineering Alchemy**
+  - **Aerospace Engineering Alchemy**
+  - **Nuclear Engineering Alchemy**
+  - **Biomedical Engineering Alchemy**
+  - **Software Engineering Alchemy**
+  - **Computer Engineering Alchemy**
+  - **Systems Engineering Alchemy**
+  - **Robotics Alchemy**
+  - **Nanotechnology Alchemy**
+  - **Manufacturing Alchemy**
+  - **Industrial Engineering Alchemy**
+  - **Telecommunications Alchemy**
+  - **Artificial Intelligence Alchemy**
+  - **Cybersecurity Alchemy**
+
+### 23.3 Engineering and Technology Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
+|---|---|---|---|
+| USA-ET-001 | Engineering and Technology | Engineering and Technology Alchemy | Root subject |
+| USA-ET-002 | Mechanical Engineering | Mechanical Engineering Alchemy | Engineering and Technology |
+| USA-ET-003 | Electrical Engineering | Electrical Engineering Alchemy | Engineering and Technology |
+| USA-ET-004 | Civil Engineering | Civil Engineering Alchemy | Engineering and Technology |
+| USA-ET-005 | Chemical Engineering | Chemical Engineering Alchemy | Engineering and Technology |
+| USA-ET-006 | Aerospace Engineering | Aerospace Engineering Alchemy | Engineering and Technology |
+| USA-ET-007 | Nuclear Engineering | Nuclear Engineering Alchemy | Engineering and Technology |
+| USA-ET-008 | Biomedical Engineering | Biomedical Engineering Alchemy | Engineering and Technology |
+| USA-ET-009 | Software Engineering | Software Engineering Alchemy | Engineering and Technology |
+| USA-ET-010 | Computer Engineering | Computer Engineering Alchemy | Engineering and Technology |
+| USA-ET-011 | Systems Engineering | Systems Engineering Alchemy | Engineering and Technology |
+| USA-ET-012 | Robotics | Robotics Alchemy | Engineering and Technology |
+| USA-ET-013 | Nanotechnology | Nanotechnology Alchemy | Engineering and Technology |
+| USA-ET-014 | Manufacturing | Manufacturing Alchemy | Engineering and Technology |
+| USA-ET-015 | Industrial Engineering | Industrial Engineering Alchemy | Engineering and Technology |
+| USA-ET-016 | Telecommunications | Telecommunications Alchemy | Engineering and Technology |
+| USA-ET-017 | Artificial Intelligence | Artificial Intelligence Alchemy | Engineering and Technology |
+| USA-ET-018 | Cybersecurity | Cybersecurity Alchemy | Engineering and Technology |
+
+**Engineering and Technology total: 18 distinct subject Alchemies.** This count includes Engineering and Technology Alchemy itself and the 17 directly subordinate subject Alchemies.
+
+The source supplied the definition for Engineering and Technology and the names and placement of its 17 subordinate subjects. No additional subject definitions, subdivisions, or descriptions have been invented. Individual subordinate subject definitions must be developed without changing the supplied canonical names or parentage.
+
+## 24. Engineering and Technology Alchemy — 18 × 22 context matrix
+
+The matrix below maps every Engineering and Technology subject Alchemy to all 22 canonical contexts. The column identifiers C01–C22 refer to the canonical context key in Section 8.2. Each **M** is a required mapping position. It does not, by itself, claim that the detailed context-specific expression has been authored, reviewed, implemented, tested, or verified.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-ET-001 · Engineering and Technology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-002 · Mechanical Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-003 · Electrical Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-004 · Civil Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-005 · Chemical Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-006 · Aerospace Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-007 · Nuclear Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-008 · Biomedical Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-009 · Software Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-010 · Computer Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-011 · Systems Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-012 · Robotics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-013 · Nanotechnology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-014 · Manufacturing Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-015 · Industrial Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-016 · Telecommunications Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-017 · Artificial Intelligence Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-018 · Cybersecurity Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Engineering and Technology matrix total:** 18 subject Alchemies × 22 contexts = **396 mapped intersections**.
+
+The 396 intersections are the contextual mappings of the 18 Engineering and Technology Alchemies. They are not 396 additional subject classifications.
+
+## 25. Engineering and Technology contextual expression requirements
+
+Each of the 396 mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 26. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains five supplied Universal Subjects of Knowledge hierarchies.
 
 | Universal Subject of Knowledge | Subject Alchemies | Contexts | Required mapped intersections |
 |---|---:|---:|---:|
@@ -639,13 +744,14 @@ The taxonomy now contains four supplied Universal Subjects of Knowledge hierarch
 | Physical Sciences | 23 | 22 | 506 |
 | Life Sciences | 18 | 22 | 396 |
 | Health Sciences | 15 | 22 | 330 |
-| **Cumulative total** | **75** | **22** | **1650** |
+| Engineering and Technology | 18 | 22 | 396 |
+| **Cumulative total** | **93** | **22** | **2046** |
 
-The cumulative total represents 75 distinct subject Alchemies mapped across 22 contexts. It does not create 1650 new subject classifications. Each of the 1650 matrix positions requires a context-specific expression.
+The cumulative total represents 93 distinct subject Alchemies mapped across 22 contexts. It does not create 2046 new subject classifications. Each of the 2046 matrix positions requires a context-specific expression.
 
-## 24. Taxonomy status and release register
+## 27. Taxonomy status and release register
 
-| Item | State in version 0.5.0 |
+| Item | State in version 0.6.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -659,15 +765,17 @@ The cumulative total represents 75 distinct subject Alchemies mapped across 22 c
 | Life Sciences matrix | Recorded — 18 × 22 = 396 mapped intersections |
 | Health Sciences source definition and hierarchy | Recorded as supplied — 15 distinct subject Alchemies |
 | Health Sciences matrix | Recorded — 15 × 22 = 330 mapped intersections |
-| Cumulative subject Alchemy register | 75 distinct subject Alchemies |
-| Cumulative mapped intersections | 75 × 22 = 1650 required mappings |
+| Engineering and Technology source definition and hierarchy | Recorded as supplied — 18 distinct subject Alchemies |
+| Engineering and Technology matrix | Recorded — 18 × 22 = 396 mapped intersections |
+| Cumulative subject Alchemy register | 93 distinct subject Alchemies |
+| Cumulative mapped intersections | 93 × 22 = 2046 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, and Health Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, and Engineering and Technology subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 25. Change control
+## 28. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
