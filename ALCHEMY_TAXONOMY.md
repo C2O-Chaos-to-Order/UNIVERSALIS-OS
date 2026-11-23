@@ -694,6 +694,45 @@ These specializations coordinate the preceding disciplines without replacing or 
 - **Cultural and Social Continuity Alchemy** — organizes the preservation, transmission, adaptation, and transformation of cultural practices, collective identities, social relationships, and shared traditions.
 - **Human Mobility and Settlement Integration Alchemy** — coordinates migration, population distribution, settlement development, urbanization, and their relationships with social, cultural, economic, and environmental conditions.
 
+### 17. Security and Protection Sciences Alchemy
+
+**Security and Protection Sciences Alchemy** is the bounded process that organizes, studies, assesses, establishes, coordinates, and improves the structures, methods, technologies, and practices used to protect people, communities, institutions, information, infrastructure, and interconnected systems from threats, hazards, vulnerabilities, disruptions, and harmful events. It enables individuals and organizations to understand risks, prevent or reduce harm, prepare for emergencies, coordinate protective responses, maintain essential functions, and recover from disruption while preserving human safety, autonomy, privacy, proportionality, resilience, and accountability.
+
+It encompasses the scientific, analytical, engineering, organizational, operational, and strategic disciplines concerned with security, protection, preparedness, emergency response, risk, and resilience. Every specialized Security and Protection Sciences Alchemy remains an expression of the root Alchemy.
+
+#### 1. Digital and Information Security Alchemies
+
+- **Cybersecurity Alchemy** — organizes the assessment and protection of computational systems, networks, devices, applications, information, and digital infrastructure against unauthorized access, compromise, disruption, exploitation, and misuse, including the monitoring, response, and recovery of affected systems.
+
+#### 2. National and Institutional Security Alchemies
+
+- **National Security Alchemy** — organizes the assessment, coordination, and protection of a nation's people, institutions, territory, infrastructure, essential services, and constitutional systems against threats and disruptions while respecting lawful authority, civil liberties, and human rights.
+- **Intelligence Analysis Alchemy** — organizes the collection, evaluation, corroboration, interpretation, and synthesis of information from appropriate sources to produce assessed findings, identify uncertainties, understand potential threats, and support accountable decisions.
+
+#### 3. Emergency and Disaster Protection Alchemies
+
+- **Emergency Management Alchemy** — organizes the planning, preparedness, coordination, mitigation, response, and recovery structures used to manage emergencies and protect people, communities, institutions, and essential services.
+- **Disaster Response Alchemy** — organizes the immediate and coordinated actions taken during and following disasters to protect life, reduce suffering, address urgent needs, stabilize affected environments, and support recovery.
+
+#### 4. Safety, Risk, and Protective Engineering Alchemies
+
+- **Safety Engineering Alchemy** — organizes the identification, analysis, prevention, and control of hazards through engineering principles, safety requirements, protective design, verification, and lifecycle management.
+- **Risk Analysis Alchemy** — organizes the identification, characterization, estimation, comparison, and evaluation of risks, including their likelihood, consequences, uncertainty, exposure, and potential effects on people and systems.
+- **Resilience Engineering Alchemy** — organizes the design, assessment, and improvement of systems so they can anticipate, withstand, adapt to, recover from, and learn from disruptions while preserving essential functions.
+
+#### 5. Cross-Disciplinary Security and Protection Relationships
+
+These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+
+- **Protective Systems Integration Alchemy** — coordinates people, processes, technologies, policies, infrastructure, and resources into coherent protective systems with clearly defined responsibilities and boundaries.
+- **Threat and Hazard Assessment Alchemy** — coordinates the identification, classification, analysis, and evaluation of intentional threats, accidental hazards, natural events, and systemic vulnerabilities.
+- **Security Governance Alchemy** — organizes the authority, policies, oversight, responsibilities, constraints, and accountability mechanisms governing security and protective activities.
+- **Incident Coordination Alchemy** — coordinates communication, responsibilities, resources, decision-making, and information exchange among authorized participants during incidents and disruptions.
+- **Continuity and Recovery Alchemy** — organizes the maintenance, restoration, and verification of essential functions, services, information, and capabilities following disruption.
+- **Human Safety and Protection Alchemy** — coordinates protective measures that prioritize human life, physical safety, dignity, autonomy, privacy, and access to essential support.
+- **Security Evidence and Verification Alchemy** — organizes the collection, preservation, evaluation, and verification of evidence concerning threats, incidents, protective controls, and recovery outcomes.
+- **Adaptive Protection Alchemy** — organizes the improvement of protective systems through feedback, incident learning, changing conditions, revised assessments, and verified lessons.
+
 ---
 
 ## Body Alchemy
