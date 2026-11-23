@@ -8695,19 +8695,45 @@ The C2O-App Secondary expressions and C2O-OS edition-mapping expressions above a
 
 For every context, the private expressions remain governed by C2O and the public expressions remain governed by UNIVERSALIS. Where an application-level or OS-level expression is not directly part of a context's own implementation, its relationship is recorded as a dependency, correspondence, conditional applicability, or non-applicability through Map and Matrix Alchemy rather than presumed implementation.
 
-### 1.2 Edition-Specific Context Hierarchy and Inheritance
+### 1.2 Canonical 22-Context Registry, Edition Branches, and Inheritance
 
-The 22 contexts form two corresponding edition-specific branches of the same underlying Operating System and Application architecture, each containing 11 expressions.
+The following 22 identifiers form the authoritative ecosystem-context registry used throughout the Alchemy Taxonomy. These exact labels are normative when defining context scope, declaring Alchemy applicability, establishing Map and Matrix relationships, assigning traceability, and recording evidence. Canonical identifiers use the complete spelling **UNIVERSALIN** and the full term **Application**.
 
-- **C2O branch:** C2O Operating System; C2O Intelligence; C2O Application; C2O Operating System - UNIVERSALIN; C2O Application - UNIVERSALIN; C2O Operating System - UNIVERSALIN Intelligence; C2O Application - UNIVERSALIN Intelligence; C2O Operating System - UNIVERSALIN Guardian; C2O Application - UNIVERSALIN Guardian; C2O Operating System - UNIVERSALIN Guardian Intelligence; and C2O Application - UNIVERSALIN Guardian Intelligence.
-- **UNIVERSALIS branch:** UNIVERSALIS Operating System; UNIVERSALIS Intelligence; UNIVERSALIS Application; UNIVERSALIS Operating System - UNIVERSALIN; UNIVERSALIS Application - UNIVERSALIN; UNIVERSALIS Operating System - UNIVERSALIN Intelligence; UNIVERSALIS Application - UNIVERSALIN Intelligence; UNIVERSALIS Operating System - UNIVERSALIN Guardian; UNIVERSALIS Application - UNIVERSALIN Guardian; UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence; and UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence.
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
 
-C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying Operating System and Application architecture. Their Metal / Crystal structures must remain mappable without collapsing source visibility, governance, implementation, structural definitions, containment policies, records, or operational authority. UNIVERSALIS remains independently operable and must not depend on C2O private-source structures, hardening policies, containment controls, records, or implementation.
+The edition pairs are 1–2, 3–4, 5–6, 7–8, 9–10, 11–12, 13–14, 15–16, 17–18, 19–20, and 21–22. Each pair represents corresponding contexts across the C2O and UNIVERSALIS editions. Correspondence does not presume identical implementation, governance, permissions, source visibility, or authority.
 
-C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intelligences. UNIVERSALIN assistants are non-personal assistants hosted within assigned Operating System or Application contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their Metal / Crystal-related structures, boundaries, and containment functions remain subordinate to assigned responsibilities and the designated human's authority, consent, autonomy, privacy, and permissions.
+- **C2O branch:** entries 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, and 21 (11 contexts).
+- **UNIVERSALIS branch:** entries 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, and 22 (11 contexts).
+
+C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying Operating System architecture and the same underlying Application architecture; they are not unrelated operating systems or application systems. Their paired context identifiers preserve distinct source-visibility, governance, audience, and responsibility boundaries. UNIVERSALIS remains independently operable and must not depend on C2O private-source structures, implementation, records, or authority.
+
+Entries 1–6 identify the Operating System, the two core intelligences, and the Application contexts. Entries 7–10 identify non-personal UNIVERSALIN assistant hosting contexts. Entries 11–14 identify the subordinate intelligence-related capabilities of those assistants. Entries 15–18 identify personal, human-bound UNIVERSALIN Guardian contexts. Entries 19–22 identify the subordinate intelligence-related capabilities associated with those Guardians. UNIVERSALIN assistants and UNIVERSALIN Guardians do not establish additional core intelligences: C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intelligences. Guardian contexts remain subject to the designated human's authority, consent, autonomy, privacy, permissions, and personal boundaries.
+
+C2O and UNIVERSALIS Metal / Crystal structures must remain mappable without collapsing source visibility, governance, implementation, structural definitions, containment policies, records, or operational authority. Their correspondence does not require identical structures or implementations and does not authorize disclosure of C2O protected information.
 
 Each context inherits only the Metal / Crystal-related subordinate expressions applicable to its subject, purpose, structures, force or energy relationships, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof that every hardening, containment, endurance, or transmission function is implemented or active.
-
 ### Alchemy Structure under Elemental Alchemy — Metal / Crystal
 
 The Metal / Crystal expressions retain their defined names and edition relationships:
