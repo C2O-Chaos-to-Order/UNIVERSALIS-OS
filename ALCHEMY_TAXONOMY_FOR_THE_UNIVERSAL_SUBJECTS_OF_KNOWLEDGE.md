@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.2.0  
-**Status:** Eleven supplied Universal Subject hierarchies recorded; 172 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 1.3.0  
+**Status:** Twelve supplied Universal Subject hierarchies recorded; 188 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -1301,9 +1301,110 @@ The 22 existing Linguistics mappings are not duplicated here. They remain associ
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 53. Cumulative Universal Subject Alchemy register and mapping totals
+## 53. Universal Subject of Knowledge hierarchy: Arts and Creative Expression
 
-The taxonomy now contains eleven supplied Universal Subjects of Knowledge hierarchies.
+### 53.1 Canonical subject definition
+
+**Source definition:** Not supplied in the Universal Subject material provided for this entry.
+
+The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Arts and Creative Expression subject becomes **Arts and Creative Expression Alchemy**.
+
+### 53.2 Arts and Creative Expression Alchemy hierarchy
+
+The following hierarchy preserves the supplied subject list. The source provides 15 subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Arts and Creative Expression; no additional parent-child groupings have been inferred.
+
+- **Arts and Creative Expression Alchemy**
+  - **Visual Arts Alchemy**
+  - **Drawing Alchemy**
+  - **Painting Alchemy**
+  - **Sculpture Alchemy**
+  - **Photography Alchemy**
+  - **Architecture Alchemy**
+  - **Design Alchemy**
+  - **Industrial Design Alchemy**
+  - **Music Alchemy**
+  - **Dance Alchemy**
+  - **Theater Alchemy**
+  - **Film Alchemy**
+  - **Creative Writing Alchemy**
+  - **Animation Alchemy**
+  - **Game Design Alchemy**
+
+### 53.3 Arts and Creative Expression Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
+|---|---|---|---|
+| USA-ACE-001 | Arts and Creative Expression | Arts and Creative Expression Alchemy | Root subject |
+| USA-ACE-002 | Visual Arts | Visual Arts Alchemy | Arts and Creative Expression |
+| USA-ACE-003 | Drawing | Drawing Alchemy | Arts and Creative Expression |
+| USA-ACE-004 | Painting | Painting Alchemy | Arts and Creative Expression |
+| USA-ACE-005 | Sculpture | Sculpture Alchemy | Arts and Creative Expression |
+| USA-ACE-006 | Photography | Photography Alchemy | Arts and Creative Expression |
+| USA-ACE-007 | Architecture | Architecture Alchemy | Arts and Creative Expression |
+| USA-ACE-008 | Design | Design Alchemy | Arts and Creative Expression |
+| USA-ACE-009 | Industrial Design | Industrial Design Alchemy | Arts and Creative Expression |
+| USA-ACE-010 | Music | Music Alchemy | Arts and Creative Expression |
+| USA-ACE-011 | Dance | Dance Alchemy | Arts and Creative Expression |
+| USA-ACE-012 | Theater | Theater Alchemy | Arts and Creative Expression |
+| USA-ACE-013 | Film | Film Alchemy | Arts and Creative Expression |
+| USA-ACE-014 | Creative Writing | Creative Writing Alchemy | Arts and Creative Expression |
+| USA-ACE-015 | Animation | Animation Alchemy | Arts and Creative Expression |
+| USA-ACE-016 | Game Design | Game Design Alchemy | Arts and Creative Expression |
+
+**Arts and Creative Expression total: 16 distinct subject Alchemies** — one parent subject and 15 supplied subordinate subjects. No exact canonical subject-Alchemy identity in the existing register is reused in this hierarchy. Conceptual relationships or areas of overlap with other knowledge domains do not create duplicate identities and may be examined during the later mapping and relationship-analysis stages.
+
+The source supplied the subject name and its 15 subordinate subject names, but no definition for Arts and Creative Expression and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred.
+
+## 54. Arts and Creative Expression Alchemy — 16 × 22 context matrix
+
+The matrix below maps all 16 Arts and Creative Expression subject Alchemies to the 22 canonical contexts. Every row is a new subject Alchemy and contributes 16 × 22 = **352 new mapped intersections**. Each **M** records a required mapping position; it does not by itself claim that the detailed contextual expression has been authored, reviewed, implemented, tested, or verified.
+
+The column identifiers C01–C22 refer to the canonical context key in Section 8.2.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-ACE-001 · Arts and Creative Expression Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-002 · Visual Arts Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-003 · Drawing Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-004 · Painting Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-005 · Sculpture Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-006 · Photography Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-007 · Architecture Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-008 · Design Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-009 · Industrial Design Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-010 · Music Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-011 · Dance Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-012 · Theater Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-013 · Film Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-014 · Creative Writing Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-015 · Animation Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ACE-016 · Game Design Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Arts and Creative Expression matrix total:** 16 subject Alchemies × 22 contexts = **352 new mapped intersections**.
+
+The 352 intersections are the context mappings of the 16 established Arts and Creative Expression Alchemies. They are not 352 additional subject classifications. Each intersection must receive its own context-specific expression under its corresponding canonical Alchemy identity.
+
+## 55. Arts and Creative Expression contextual expression requirements
+
+Each of the 352 mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 56. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains twelve supplied Universal Subjects of Knowledge hierarchies.
 
 | Universal Subject of Knowledge | Alchemy hierarchy positions | New unique subject Alchemies | Contexts | New unique mapped intersections |
 |---|---:|---:|---:|---:|
@@ -1318,13 +1419,14 @@ The taxonomy now contains eleven supplied Universal Subjects of Knowledge hierar
 | Law and Governance | 13 | 13 | 22 | 286 |
 | Humanities | 12 | 12 | 22 | 264 |
 | Language and Communication | 12 (11 new + 1 shared) | 11 | 22 | 242 (22 shared, not added) |
-| **Cumulative unique total** | **175 hierarchy positions** | **172** | **22** | **3784** |
+| Arts and Creative Expression | 16 | 16 | 22 | 352 |
+| **Cumulative unique total** | **191 hierarchy positions** | **188** | **22** | **4136** |
 
-The cumulative total represents 172 distinct subject Alchemies mapped across 22 contexts, producing 3784 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice.
+The cumulative total represents 188 distinct subject Alchemies mapped across 22 contexts, producing 4136 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections.
 
-## 54. Taxonomy status and release register
+## 57. Taxonomy status and release register
 
-| Item | State in version 1.2.0 |
+| Item | State in version 1.3.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -1357,15 +1459,18 @@ The cumulative total represents 172 distinct subject Alchemies mapped across 22 
 | Language and Communication source definition | Not supplied; no definition inferred |
 | Language and Communication hierarchy | Recorded — 12 positions: 11 new Alchemies and 1 shared existing Linguistics Alchemy |
 | Language and Communication matrix | Recorded — 264 positions: 242 new mappings and 22 references to existing Linguistics mappings |
-| Cumulative unique subject Alchemy register | 172 distinct subject Alchemies |
-| Cumulative unique mapped intersections | 172 × 22 = 3784 required mappings |
+| Arts and Creative Expression source definition | Not supplied; no definition inferred |
+| Arts and Creative Expression hierarchy | Recorded — 16 distinct subject Alchemies: 1 parent and 15 supplied subordinate subjects |
+| Arts and Creative Expression matrix | Recorded — 16 × 22 = 352 new mapped intersections |
+| Cumulative unique subject Alchemy register | 188 distinct subject Alchemies |
+| Cumulative unique mapped intersections | 188 × 22 = 4136 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, and Language and Communication subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, and Arts and Creative Expression subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 55. Change control
+## 58. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
