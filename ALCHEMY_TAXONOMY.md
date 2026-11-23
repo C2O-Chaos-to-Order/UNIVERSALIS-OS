@@ -1244,46 +1244,187 @@ All applications must remain consistent with engineering principles, defined req
 
 ### 6. Computer and Information Sciences Alchemy
 
-**Computer and Information Sciences Alchemy** is the bounded process that organizes, maintains, develops, and transforms computational principles, information structures, data, knowledge representations, and digital systems. It enables systems and beings to represent, process, analyze, store, retrieve, communicate, understand, and preserve information while maintaining accuracy, integrity, security, accessibility, interoperability, and accountability.
+**Computer and Information Sciences Alchemy** is the bounded process by which computational principles, information structures, data, knowledge representations, digital environments, and computer-based systems are identified, classified, organized, examined, maintained, integrated, developed, and transformed into coherent and usable computational and information systems.
 
-It encompasses the theoretical foundations of computing, computational methods, information systems, digital environments, and the organization and preservation of knowledge. Every specialized Computer and Information Sciences Alchemy remains an expression of the root Alchemy.
+It governs the organization and development of computational and information-science knowledge, including the theoretical foundations of computing, algorithms, programming languages, data structures, information processing, knowledge representation, digital communication, computational architectures, and information-management methods. It establishes how information and knowledge are represented, created, processed, analyzed, stored, retrieved, communicated, interpreted, protected, maintained, and preserved.
 
-#### 1. Computational Science Alchemies
+Computer and Information Sciences Alchemy encompasses the scientific principles, computational methods, information models, data structures, software concepts, algorithms, architectures, protocols, and technological frameworks used to develop and understand computational and information systems. It provides a structured foundation for computing, information organization, knowledge representation, digital interaction, and computational continuity while preserving the distinctions between theoretical computer science, applied computation, software development, information management, digital infrastructure, and human-computer interaction.
 
-- **Computer Science Alchemy** — organizes the theoretical and practical foundations of computation, algorithms, data structures, programming languages, computational complexity, and computer architectures.
-- **Software Development Alchemy** — organizes the practical creation, implementation, testing, integration, deployment, maintenance, and improvement of software.
-- **Data Science Alchemy** — organizes the collection, preparation, processing, analysis, interpretation, visualization, and application of data to produce reliable insights and support decisions.
-- **Machine Learning Alchemy** — organizes the development, training, evaluation, and application of computational models that identify patterns, learn from data, and improve task performance through experience.
-- **Artificial Intelligence Alchemy** — organizes computational methods and architectures for systems capable of perception, reasoning, learning, planning, problem-solving, generation, and decision-making.
+Computer and Information Sciences Alchemy must preserve the provenance, accuracy, integrity, consistency, context, meaning, security, accessibility, interoperability, and appropriate governance of information. Source information, transformed data, derived results, classifications, interpretations, computational outputs, inferred relationships, predictions, and model-generated representations must remain distinguishable. Their sources, formats, structures, assumptions, transformations, processing methods, dependencies, limitations, and applicable permissions must be represented wherever relevant.
 
-#### 2. Information and Knowledge System Alchemies
+Computer and Information Sciences Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support operating system architecture, application architecture, computational processes, intelligence-related information processing, data management, knowledge organization, digital communication, software systems, information infrastructure, human-computer interaction, and the preservation of digital environments.
 
-- **Information Systems Alchemy** — organizes the people, processes, technologies, and information structures involved in collecting, processing, storing, managing, and distributing information to support operations and decisions.
-- **Database Systems Alchemy** — organizes the modeling, structuring, storage, retrieval, querying, updating, and management of data while maintaining integrity, consistency, availability, and controlled access.
-- **Knowledge Engineering Alchemy** — organizes the acquisition, representation, formalization, integration, validation, and application of knowledge through structured models, ontologies, rules, and reasoning systems.
-- **Information Architecture Alchemy** — organizes information into coherent structures, classifications, relationships, labeling systems, and navigation pathways so information can be understood, located, accessed, and used effectively.
+Its application must preserve the distinction between information, data, knowledge representations, computational methods, software implementations, and intelligence-related capabilities. The existence of computational methods or information-processing capabilities does not independently establish additional core intelligences, unrestricted information access, authority to modify system resources, or permission to communicate with external systems.
 
-#### 3. Human Interaction and Computing Infrastructure Alchemies
+Every specialized Computer and Information Sciences Alchemy remains an expression of the root Alchemy. Its subject, purpose, methods, principles, relationships, requirements, and boundaries must remain identifiable while allowing specialized computational and information disciplines to integrate into larger systems.
 
-- **Human-Computer Interaction Alchemy** — organizes the relationships between humans and computational systems through interface design, usability, accessibility, interaction models, human factors, and user experience evaluation.
-- **Networking Alchemy** — organizes the protocols, addressing, routing, connections, and communication structures that enable computers, devices, and computational systems to exchange information.
-- **Cloud Computing Alchemy** — organizes the provision, allocation, management, and use of remotely accessible computational resources, platforms, storage, and services.
-- **Distributed Systems Alchemy** — organizes computation and information processing across multiple connected nodes while maintaining coordination, communication, consistency, fault tolerance, and recoverability.
+#### 6.1 Universal Application of Computer and Information Sciences Alchemy
 
-#### 4. Digital Continuity Alchemies
+Computer and Information Sciences Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-- **Digital Preservation Alchemy** — organizes the protection, maintenance, authentication, migration, and long-term accessibility of digital information, records, software, and other digital objects.
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-#### 5. Cross-Disciplinary Computer and Information Sciences Relationships
+Within these contexts, Computer and Information Sciences Alchemy governs the appropriate organization, representation, processing, interpretation, accessibility, integration, protection, maintenance, and application of computational and information-science knowledge.
 
-These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+Its context-specific expressions include:
 
-- **Computational Integration Alchemy** — coordinates computational methods, software, data, and information systems into coherent and interoperable computational environments.
-- **Data Lifecycle Alchemy** — organizes data from creation and acquisition through validation, processing, storage, use, sharing, retention, and responsible disposal.
-- **Information Governance Alchemy** — establishes the structures, permissions, responsibilities, quality controls, and accountability requirements governing information.
-- **Knowledge Interoperability Alchemy** — enables distinct knowledge models, representations, databases, and information systems to exchange and interpret knowledge while preserving their respective structures.
-- **Human-Centered Computing Alchemy** — coordinates computational capabilities with human needs, autonomy, accessibility, comprehension, and meaningful interaction.
-- **Digital Continuity Alchemy** — maintains the integrity, recoverability, usability, and accessibility of computational and information environments across technological changes.
+- **Operating System Contexts:** Computer and information-science knowledge may support operating system architecture, computational execution, memory and resource management, data structures, storage, filesystems, networking, interfaces, process coordination, access controls, information exchange, software integration, and digital continuity. Its application must remain consistent with the actual architecture, supported interfaces, configured resources, dependencies, security controls, and operational boundaries of each operating system. Computational knowledge does not establish unrestricted access to system resources, private information, external networks, or other devices.
+
+- **Core Intelligence Contexts:** Computer and information-science knowledge may support computational reasoning, algorithmic methods, information representation, data analysis, knowledge organization, search, retrieval, computational modeling, and the processing of information. C2O Intelligence and UNIVERSALIS Intelligence must apply these capabilities within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities. Computational methods, software architectures, and information-processing capabilities do not establish additional core intelligences or independent authority.
+
+- **Application Contexts:** Computer and information-science knowledge may support application architecture, data models, information structures, software functions, computational processes, database operations, interfaces, information exchange, and digital preservation. Applications must preserve data integrity, source provenance, access permissions, information context, and the distinctions between stored information, transformed data, derived results, and generated outputs. Application access to operating system resources, databases, services, and external systems must remain subject to applicable permissions and technical boundaries.
+
+- **UNIVERSALIN Assistant Contexts:** Computer and information-science knowledge may support assigned computation, information retrieval, data organization, knowledge representation, software-related functions, information processing, technical analysis, coordination, and other authorized operational responsibilities within operating system and application boundaries. Assistants must preserve the distinction between their assigned computational functions, the information they process, and the authority governing their activities.
+
+- **UNIVERSALIN Intelligence Contexts:** Computer and information-science knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through algorithms, data processing, knowledge representations, computational methods, information retrieval, and analytical functions. These contexts do not constitute additional core intelligences or establish independent authority to access information, modify systems, execute operations, or interact with external resources.
+
+- **UNIVERSALIN Guardian Contexts:** Computer and information-science knowledge may support the authorized computational, informational, organizational, and assistance capabilities of personal, human-bound Guardians. Its application may support personal information organization, human-computer interaction, accessibility, authorized data retrieval, information continuity, and human-directed computational activities. Access to personal information and connected systems must respect the human's authority, consent, autonomy, privacy, and applicable permissions.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Computer and information-science knowledge may support information processing, computational reasoning, data organization, knowledge representation, digital interaction, and other human-directed Guardian capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human's information, devices, accounts, software, or external systems.
+
+The specific applicability of each computational and information-science discipline and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
+
+#### Alchemies under Computer and Information Sciences Alchemy
+
+##### 1. Computational Science Alchemies
+
+- **Computer Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the theoretical and practical foundations of computation, algorithms, data structures, programming languages, computational complexity, and computer architectures. It establishes methods for understanding computational problems, defining computational processes, evaluating algorithms, and examining the capabilities and limitations of computer-based systems.
+
+- **Software Development Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the practical methods used to create, implement, test, integrate, deploy, maintain, and improve software. It establishes methods for translating requirements and designs into functioning software while preserving code integrity, documentation, testability, maintainability, version control, and lifecycle accountability.
+
+- **Data Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to collect, prepare, classify, process, analyze, interpret, visualize, and apply data to produce reliable insights and support decisions. It establishes methods for examining data quality, patterns, relationships, uncertainty, analytical validity, and the limitations of conclusions derived from data.
+
+- **Machine Learning Alchemy** — organizes, examines, maintains, integrates, develops, and transforms computational methods and models that identify patterns, learn from data, and improve task performance through experience or training processes. It establishes methods for data preparation, model development, training, evaluation, testing, deployment, monitoring, and maintenance while preserving the distinctions between training data, evaluation data, model outputs, measured performance, and expected capabilities.
+
+- **Artificial Intelligence Alchemy** — organizes, examines, maintains, integrates, develops, and transforms computational methods and architectures for systems capable of perception, reasoning, learning, planning, problem-solving, generation, and decision-support functions. It establishes methods for representing and examining computational intelligence capabilities, their algorithms, information inputs, processing methods, model structures, evaluations, and limitations. Within Computer and Information Sciences Alchemy, this discipline addresses the computational and informational foundations of artificial intelligence. It remains distinct from the engineering and technological methods for designing, constructing, integrating, deploying, and maintaining intelligence technologies under Artificial Intelligence Alchemy within Engineering and Technology Alchemy. Neither classification establishes an additional core intelligence or changes the distinction between C2O Intelligence, UNIVERSALIS Intelligence, and their associated UNIVERSALIN contexts.
+
+##### 2. Information and Knowledge System Alchemies
+
+- **Information Systems Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the people, processes, technologies, and information structures involved in collecting, processing, storing, managing, retrieving, and distributing information to support operations and decisions. It establishes methods for coordinating information flows, system components, operational requirements, and organizational information responsibilities.
+
+- **Database Systems Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to model, structure, store, retrieve, query, update, protect, and manage data. It establishes methods for database architecture, data relationships, integrity, consistency, availability, controlled access, transaction management, and the maintenance of reliable data systems.
+
+- **Knowledge Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to acquire, represent, formalize, classify, integrate, validate, and apply knowledge through structured models, ontologies, rules, and reasoning systems. It establishes methods for translating knowledge into explicit and maintainable computational representations while preserving source provenance, conceptual distinctions, relationships, assumptions, and limitations.
+
+- **Information Architecture Alchemy** — organizes, examines, maintains, integrates, develops, and transforms information into coherent structures, classifications, relationships, labeling systems, metadata structures, and navigation pathways so information can be understood, located, accessed, and used effectively. It establishes methods for structuring information environments while preserving the distinctions between information hierarchy, semantic relationships, organizational classification, and access permissions.
+
+##### 3. Human Interaction and Computing Infrastructure Alchemies
+
+- **Human-Computer Interaction Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships between humans and computational systems through interface design, usability, accessibility, interaction models, human factors, and user experience evaluation. It establishes methods for designing and evaluating interactions that support human comprehension, meaningful use, accessibility, user control, and appropriate relationships between human intentions and computational behavior.
+
+- **Networking Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the protocols, addressing systems, routing methods, connections, communication structures, and network relationships that enable computers, devices, and computational systems to exchange information. It establishes methods for representing, configuring, analyzing, securing, and maintaining network communication and interconnected computational environments.
+
+- **Cloud Computing Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the provision, allocation, management, and use of remotely accessible computational resources, platforms, storage, and services. It establishes methods for representing and coordinating shared computational resources, service dependencies, resource allocation, availability, scalability, security, and operational requirements while preserving the distinction between local, remote, and externally managed resources.
+
+- **Distributed Systems Alchemy** — organizes, examines, maintains, integrates, develops, and transforms computation and information processing across multiple connected nodes. It establishes methods for coordinating communication, processing, data consistency, synchronization, resource distribution, fault tolerance, availability, and recoverability while preserving the relationships and boundaries between participating components and systems.
+
+##### 4. Digital Continuity Alchemies
+
+- **Digital Preservation Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to protect, maintain, authenticate, migrate, document, and preserve the long-term accessibility and usability of digital information, records, software, and other digital objects. It establishes methods for maintaining digital integrity, provenance, authenticity, format compatibility, metadata, preservation records, and accessibility across technological changes.
+
+##### 5. Cross-Disciplinary Computer and Information Sciences Alchemies
+
+These specialized Alchemies coordinate the preceding computational and information-science disciplines without replacing or collapsing their individual identities. Their relationships must preserve the distinctions between computation, information, data, knowledge, human interaction, infrastructure, and digital continuity.
+
+- **Computational Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships between computational methods, software, data, and information systems into coherent and interoperable computational environments. It establishes methods for coordinating computational components, interfaces, dependencies, information flows, and system-level behavior.
+
+- **Data Lifecycle Alchemy** — organizes, examines, maintains, integrates, develops, and transforms data throughout its lifecycle, from creation and acquisition through validation, classification, processing, storage, use, sharing, retention, archiving, and responsible disposal. It establishes methods for maintaining data provenance, quality, integrity, accessibility, lifecycle records, and applicable governance requirements.
+
+- **Information Governance Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the structures, permissions, responsibilities, policies, quality controls, and accountability requirements governing information. It establishes methods for determining how information is classified, accessed, processed, maintained, shared, retained, and protected within applicable organizational, system, and application boundaries.
+
+- **Knowledge Interoperability Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships that enable distinct knowledge models, representations, databases, classifications, and information systems to exchange and interpret knowledge while preserving their respective structures. It establishes methods for mapping, translating, reconciling, and exchanging knowledge representations without erasing differences in meaning, context, provenance, or governance.
+
+- **Human-Centered Computing Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships between computational capabilities and human needs, autonomy, accessibility, comprehension, control, and meaningful interaction. It establishes methods for evaluating computational systems according to their effects on human understanding, participation, decision-making, accessibility, and ability to exercise control over their interactions.
+
+- **Digital Continuity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods required to maintain the integrity, recoverability, usability, accessibility, and operational continuity of computational and information environments across technological changes. It establishes methods for managing digital dependencies, software and data continuity, system migration, compatibility, recovery, and preservation of functional and informational relationships over time.
+
+### 6.2 Computer and Information Sciences Structural and Applicability Requirements
+
+Every subordinate Alchemy under Computer and Information Sciences Alchemy must retain its own defined subject, purpose, methods, principles, technical requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+Computer and Information Sciences Alchemy must preserve the distinctions between its constituent disciplines and their respective subjects, methods, computational foundations, information responsibilities, and technical boundaries. Relationships between computer science, software development, data science, machine learning, artificial intelligence, information systems, database systems, knowledge engineering, information architecture, human-computer interaction, networking, cloud computing, distributed systems, digital preservation, and the cross-disciplinary Alchemies must be established without collapsing their distinct subjects or treating their methods as interchangeable.
+
+It must also preserve the distinctions between:
+
+- Computer science foundations, computational methods, software development practices, and deployed software systems.
+- Data, information, knowledge representations, interpretations, and derived computational results.
+- Algorithms, models, data-processing methods, and their implemented computational systems.
+- Machine learning methods, artificial intelligence methods, intelligence technologies, and the two established core intelligences.
+- Information architecture, knowledge engineering, database structures, and information governance.
+- Local computation, distributed computation, cloud-based resources, and externally managed services.
+- Human-computer interaction, human-centered computing, interface design, accessibility, and human authority.
+- Data acquisition, transformation, analysis, interpretation, retention, preservation, and disposal.
+- Technical interoperability, semantic compatibility, permission to exchange information, and authorization to access or use information.
+- Digital preservation, system recovery, operational continuity, and the authority to restore or modify a system.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Computer and Information Sciences Alchemy and each subordinate computational, information-system, infrastructure, digital-continuity, and cross-disciplinary Alchemy.
+- The parent–subordinate relationships between Computer and Information Sciences Alchemy, its five specialized groups, and their respective Alchemies.
+- The relationships between computational and information-science disciplines and relevant formal, physical, life, health, engineering, social, business, governance, and other knowledge-domain structures.
+- The connections between computational and information-science knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, data relationships, computational resources, and connections between the disciplines and other Alchemies.
+- The distinctions between theoretical computing foundations, applied computational methods, information systems, human-computing relationships, infrastructure, and digital preservation.
+- The relationships between data sources, data structures, information models, knowledge representations, computational processes, outputs, and downstream applications.
+- The relationships between software, databases, networks, cloud resources, distributed components, interfaces, and external information systems.
+- The relationships between information architecture, knowledge engineering, data governance, access permissions, semantic relationships, and information lifecycle requirements.
+- The relationships between digital records, preservation methods, migration processes, system dependencies, and long-term accessibility.
+- The relationships between shared computational foundations and context-specific implementations while preserving the distinct private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each computational discipline, information-system discipline, infrastructure discipline, and subordinate Alchemy.
+- The specific computational functions, information responsibilities, technical capabilities, and operational purposes associated with each applicable context.
+- The algorithms, data structures, information models, software components, protocols, computational resources, and technical dependencies required for those functions.
+- Whether an application involves computation, information organization, data acquisition, data processing, analysis, storage, retrieval, communication, knowledge representation, machine learning, artificial intelligence, human-computer interaction, distributed processing, or digital preservation.
+- Whether an information or computational capability is local, system-internal, application-specific, distributed, cloud-based, externally managed, or dependent on another system or service.
+- The actual resources, supported interfaces, software, hardware, databases, networks, storage, services, and external dependencies required to implement or operate a computational or information capability.
+- The permissions, ownership, authorization, access requirements, responsibilities, and governance boundaries applicable to the collection, processing, storage, retrieval, sharing, modification, retention, preservation, and disposal of information.
+- The provenance, classification, structure, format, source, context, assumptions, transformations, dependencies, uncertainty, limitations, and applicable permissions that must accompany information and computational outputs.
+- The distinctions between source data, validated data, transformed data, derived information, interpreted knowledge, model-generated outputs, and independently verified results.
+- The relationships between shared computational and information-science foundations and context-specific methods, responsibilities, technical requirements, and implementations.
+- The applicable requirements for data integrity, consistency, availability, confidentiality, security, accessibility, interoperability, recoverability, and preservation.
+- The conditions under which human review, owner authorization, access approval, technical verification, semantic validation, or additional testing is required before information or computational functions are used.
+- The requirements for maintaining digital continuity, including preservation of information, metadata, source references, software dependencies, configuration records, compatibility information, and recovery procedures.
+- The distinctions between an informational operation, a computational operation, a software implementation, a persistent data change, an external communication, and an action that modifies another system.
+- The applicable boundaries for data exchange and interoperability, including the distinction between technical ability to communicate and permission to access or disclose information.
+
+Computer and Information Sciences Alchemy must not presume that the presence of a computational or information-science discipline in the universal taxonomy grants every context unrestricted access to data, databases, system resources, user information, networks, cloud infrastructure, external services, software, or connected devices.
+
+The inclusion of a computational or information-science discipline within an ecosystem context establishes its place in the knowledge structure, not an automatic implementation, technical dependency, resource allocation, permission, access grant, or authority to modify or control a system.
+
+Information must be handled according to its source, nature, sensitivity, classification, subject, purpose, and applicable permissions. Data and knowledge representations must not be detached from the context, provenance, and limitations necessary for their appropriate interpretation and use.
+
+Computational outputs, analytical findings, inferred relationships, model-generated results, and knowledge representations must remain distinguishable from source information and independently verified facts. The use of algorithms, machine learning, or artificial intelligence methods does not automatically establish correctness, reliability, completeness, or authority.
+
+The Artificial Intelligence Alchemy under Computer and Information Sciences Alchemy must remain focused on computational and informational methods and architectures. Its relationship with Artificial Intelligence Alchemy under Engineering and Technology Alchemy must be established through Map Alchemy and Matrix Alchemy, preserving the distinction between computational foundations and engineering implementation without creating duplicate authority or additional core intelligences.
+
+Information exchange and technical interoperability must preserve the identity, meaning, provenance, permissions, security requirements, and governance boundaries of participating systems. The ability to connect, transmit, retrieve, or interpret information does not itself grant permission to access, disclose, modify, or use it.
+
+Digital preservation and continuity must maintain the integrity, authenticity, context, and accessibility of information and computational environments while respecting applicable ownership, retention, privacy, security, and retirement requirements.
+
+All applications must remain consistent with computational principles, information integrity, data provenance, technical requirements, human-computer interaction principles, security and privacy protections, digital continuity requirements, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 7. Social Sciences Alchemy
 
