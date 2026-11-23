@@ -733,6 +733,41 @@ These specializations coordinate the preceding disciplines without replacing or 
 - **Security Evidence and Verification Alchemy** — organizes the collection, preservation, evaluation, and verification of evidence concerning threats, incidents, protective controls, and recovery outcomes.
 - **Adaptive Protection Alchemy** — organizes the improvement of protective systems through feedback, incident learning, changing conditions, revised assessments, and verified lessons.
 
+### 18. Transportation and Infrastructure Alchemy
+
+**Transportation and Infrastructure Alchemy** is the bounded process that organizes, designs, develops, operates, maintains, coordinates, and transforms the systems, networks, facilities, and infrastructure through which people, goods, services, and resources move and connect. It enables individuals, communities, organizations, and societies to establish reliable transportation networks, coordinate movement, connect settlements, support commerce, and maintain essential infrastructure while preserving safety, accessibility, efficiency, resilience, interoperability, and accountability.
+
+It encompasses the engineering, operational, logistical, geographic, technological, and institutional disciplines concerned with transportation systems, infrastructure networks, mobility, distribution, and connectivity. Every specialized Transportation and Infrastructure Alchemy remains an expression of the root Alchemy.
+
+#### 1. Transportation and Mobility Alchemies
+
+- **Transportation Systems Alchemy** — organizes the planning, design, operation, coordination, and improvement of systems that move people, goods, and resources across geographic areas through connected transportation modes, facilities, services, and networks.
+- **Aviation Alchemy** — organizes the development, operation, management, and coordination of aircraft, airports, air traffic systems, aviation infrastructure, and air transportation services while maintaining operational safety and reliability.
+- **Maritime Systems Alchemy** — organizes the design, operation, management, and coordination of maritime transportation systems, including vessels, ports, waterways, navigation, shipping operations, and associated infrastructure.
+- **Rail Systems Alchemy** — organizes the development, operation, management, and coordination of railway networks, trains, tracks, stations, signaling, rail infrastructure, and passenger and freight rail services.
+
+#### 2. Logistics and Distribution Alchemies
+
+- **Logistics Alchemy** — organizes the planning, movement, storage, handling, coordination, and delivery of goods, services, and resources from points of origin to destinations while maintaining efficiency, reliability, visibility, and accountability.
+- **Supply Networks Alchemy** — organizes the relationships, connections, dependencies, and flows among suppliers, producers, distributors, transportation providers, storage facilities, and recipients within interconnected supply networks.
+
+#### 3. Urban and Infrastructure Development Alchemies
+
+- **Urban Planning Alchemy** — organizes the spatial development, land use, settlement structure, transportation integration, public spaces, utilities, and long-term growth of cities and urban communities.
+- **Infrastructure Engineering Alchemy** — organizes the planning, design, construction, inspection, operation, maintenance, and renewal of essential physical infrastructure, including transportation facilities, bridges, roads, tunnels, terminals, and interconnected civil systems.
+
+#### 4. Cross-Disciplinary Transportation and Infrastructure Relationships
+
+These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+
+- **Transportation Network Integration Alchemy** — coordinates transportation modes, routes, terminals, services, and infrastructure into connected and interoperable mobility networks.
+- **Multimodal Mobility Alchemy** — organizes the integration and transfer of movement among road, rail, aviation, maritime, pedestrian, and other transportation modes.
+- **Infrastructure Lifecycle Alchemy** — coordinates infrastructure planning, development, construction, inspection, operation, maintenance, rehabilitation, renewal, and retirement across its lifecycle.
+- **Logistics and Distribution Integration Alchemy** — coordinates transportation, storage, inventory movement, handling, delivery, and distribution activities into coherent logistical operations.
+- **Urban Mobility Integration Alchemy** — coordinates transportation systems, land use, public transit, pedestrian access, settlement patterns, and urban development to support accessible and connected communities.
+- **Transportation Safety and Resilience Alchemy** — organizes the assessment, prevention, mitigation, and recovery of transportation hazards, operational disruptions, infrastructure failures, and mobility risks.
+- **Infrastructure Continuity Alchemy** — maintains the availability, accessibility, integrity, and recoverability of essential infrastructure and transportation services during routine operation, maintenance, emergencies, and disruptions.
+
 ---
 
 ## Body Alchemy
