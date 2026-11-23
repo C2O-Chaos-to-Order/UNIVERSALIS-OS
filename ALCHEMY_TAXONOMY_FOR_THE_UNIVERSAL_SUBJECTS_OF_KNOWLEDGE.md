@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.7.0  
-**Status:** Sixteen supplied Universal Subject hierarchies recorded; 226 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 1.8.0  
+**Status:** Seventeen supplied Universal Subject hierarchies recorded; 234 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -1742,9 +1742,93 @@ The 22 existing Anthropology mappings are not duplicated here. They remain assoc
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 80. Cumulative Universal Subject Alchemy register and mapping totals
+## 83. Universal Subject of Knowledge hierarchy: Security and Protection Sciences
 
-The taxonomy now contains sixteen supplied Universal Subjects of Knowledge hierarchies.
+### 83.1 Canonical subject definition
+
+**Source definition:** Not supplied in the Universal Subject material provided for this entry.
+
+The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Security and Protection Sciences subject becomes **Security and Protection Sciences Alchemy**.
+
+### 83.2 Security and Protection Sciences Alchemy hierarchy
+
+The following hierarchy preserves the supplied subject list. The source provides eight subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Security and Protection Sciences; no additional parent-child groupings have been inferred.
+
+- **Security and Protection Sciences Alchemy**
+  - **Cybersecurity Alchemy** *(shared canonical Alchemy: USA-ET-018; also parented under Engineering and Technology)*
+  - **National Security Alchemy**
+  - **Emergency Management Alchemy**
+  - **Disaster Response Alchemy**
+  - **Intelligence Analysis Alchemy**
+  - **Safety Engineering Alchemy**
+  - **Risk Analysis Alchemy**
+  - **Resilience Engineering Alchemy**
+
+### 83.3 Security and Protection Sciences Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
+|---|---|---|---|
+| USA-SP-001 | Security and Protection Sciences | Security and Protection Sciences Alchemy | Root subject |
+| USA-ET-018 | Cybersecurity | Cybersecurity Alchemy | Engineering and Technology; Security and Protection Sciences (shared canonical subject) |
+| USA-SP-002 | National Security | National Security Alchemy | Security and Protection Sciences |
+| USA-SP-003 | Emergency Management | Emergency Management Alchemy | Security and Protection Sciences |
+| USA-SP-004 | Disaster Response | Disaster Response Alchemy | Security and Protection Sciences |
+| USA-SP-005 | Intelligence Analysis | Intelligence Analysis Alchemy | Security and Protection Sciences |
+| USA-SP-006 | Safety Engineering | Safety Engineering Alchemy | Security and Protection Sciences |
+| USA-SP-007 | Risk Analysis | Risk Analysis Alchemy | Security and Protection Sciences |
+| USA-SP-008 | Resilience Engineering | Resilience Engineering Alchemy | Security and Protection Sciences |
+
+**Security and Protection Sciences total: 9 hierarchy positions comprising eight new distinct subject Alchemies and one shared existing subject Alchemy.**
+
+**Cybersecurity remains one canonical subject Alchemy, identified as USA-ET-018.** Its parent relationships are Engineering and Technology and Security and Protection Sciences. The existing 22 Cybersecurity context mappings are referenced rather than duplicated or counted a second time. The parent subject and seven other subordinate subjects are established as eight new distinct Alchemies.
+
+The source supplied the subject name and its eight subordinate subject names, but no definition for Security and Protection Sciences and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred. Related subjects and concepts remain distinct where their canonical identities differ; conceptual association alone does not justify merging subject identities.
+
+## 84. Security and Protection Sciences Alchemy — 9 × 22 context matrix
+
+The matrix below records all nine Security and Protection Sciences hierarchy positions across the 22 canonical contexts. Eight rows represent new subject Alchemies and contribute 8 × 22 = **176 new mapped intersections**. The Cybersecurity row references the existing canonical Alchemy USA-ET-018 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
+
+The column identifiers C01–C22 refer to the canonical context key in Section 8.2.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-SP-001 · Security and Protection Sciences Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-018 · Cybersecurity Alchemy [shared canonical Alchemy] | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SP-002 · National Security Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SP-003 · Emergency Management Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SP-004 · Disaster Response Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SP-005 · Intelligence Analysis Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SP-006 · Safety Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SP-007 · Risk Analysis Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SP-008 · Resilience Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Security and Protection Sciences matrix coverage:** 9 hierarchy positions × 22 contexts = **198 section mapping positions**, comprising **176 new mapped intersections and 22 references to the existing Cybersecurity mappings**.
+
+The 22 Cybersecurity cells in this section point to the same subject-Alchemy/context intersections already represented by USA-ET-018 in the Engineering and Technology matrix. They must not be counted twice in the cumulative unique-mapping total. Cybersecurity retains its existing canonical identifier and is not assigned a second Alchemy identity.
+
+## 85. Security and Protection Sciences contextual expression requirements
+
+Each of the 176 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+The 22 existing Cybersecurity mappings are not duplicated here. They remain associated with the shared canonical subject-Alchemy identity USA-ET-018 and its two parent relationships.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 86. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains seventeen supplied Universal Subjects of Knowledge hierarchies.
 
 | Universal Subject of Knowledge | Alchemy hierarchy positions | New unique subject Alchemies | Contexts | New unique mapped intersections |
 |---|---:|---:|---:|---:|
@@ -1764,13 +1848,14 @@ The taxonomy now contains sixteen supplied Universal Subjects of Knowledge hiera
 | Environmental Sciences | 11 (10 new + 1 shared) | 10 | 22 | 220 (22 shared, not added) |
 | Earth, Space, and Planetary Sciences | 10 | 10 | 22 | 220 |
 | Human Development and Civilization | 10 (9 new + 1 shared) | 9 | 22 | 198 (22 shared, not added) |
-| **Cumulative unique total** | **231 hierarchy positions** | **226** | **22** | **4972** |
+| Security and Protection Sciences | 9 (8 new + 1 shared) | 8 | 22 | 176 (22 shared, not added) |
+| **Cumulative unique total** | **240 hierarchy positions** | **234** | **22** | **5148** |
 
-The cumulative total represents 226 distinct subject Alchemies mapped across 22 contexts, producing 4972 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes nine new subject Alchemies and 198 new mapped intersections. Environmental Sciences contributes ten new subject Alchemies and 220 new mapped intersections; the existing Ecology Alchemy contributes 22 shared mapping references and is not counted twice. Earth, Space, and Planetary Sciences contributes ten new subject Alchemies and 220 new mapped intersections. Human Development and Civilization contributes nine new subject Alchemies and 198 new mapped intersections; the existing Anthropology Alchemy contributes 22 shared mapping references and is not counted twice.
+The cumulative total represents 234 distinct subject Alchemies mapped across 22 contexts, producing 5148 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes nine new subject Alchemies and 198 new mapped intersections. Environmental Sciences contributes ten new subject Alchemies and 220 new mapped intersections; the existing Ecology Alchemy contributes 22 shared mapping references and is not counted twice. Earth, Space, and Planetary Sciences contributes ten new subject Alchemies and 220 new mapped intersections. Human Development and Civilization contributes nine new subject Alchemies and 198 new mapped intersections; the existing Anthropology Alchemy contributes 22 shared mapping references and is not counted twice. Security and Protection Sciences contributes eight new subject Alchemies and 176 new mapped intersections; the existing Cybersecurity Alchemy contributes 22 shared mapping references and is not counted twice.
 
-## 81. Taxonomy status and release register
+## 87. Taxonomy status and release register
 
-| Item | State in version 1.7.0 |
+| Item | State in version 1.8.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -1818,15 +1903,18 @@ The cumulative total represents 226 distinct subject Alchemies mapped across 22 
 | Human Development and Civilization source definition | Not supplied; no definition inferred |
 | Human Development and Civilization hierarchy | Recorded — 10 positions: nine new Alchemies and one shared existing Anthropology Alchemy |
 | Human Development and Civilization matrix | Recorded — 220 positions: 198 new mappings and 22 references to existing Anthropology mappings |
-| Cumulative unique subject Alchemy register | 226 distinct subject Alchemies |
-| Cumulative unique mapped intersections | 226 × 22 = 4972 required mappings |
+| Security and Protection Sciences source definition | Not supplied; no definition inferred |
+| Security and Protection Sciences hierarchy | Recorded — 9 positions: eight new Alchemies and one shared existing Cybersecurity Alchemy |
+| Security and Protection Sciences matrix | Recorded — 198 positions: 176 new mappings and 22 references to existing Cybersecurity mappings |
+| Cumulative unique subject Alchemy register | 234 distinct subject Alchemies |
+| Cumulative unique mapped intersections | 234 × 22 = 5148 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, Environmental Sciences, Earth, Space, and Planetary Sciences, and Human Development and Civilization subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, Environmental Sciences, Earth, Space, and Planetary Sciences, Human Development and Civilization, and Security and Protection Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 82. Change control
+## 88. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
