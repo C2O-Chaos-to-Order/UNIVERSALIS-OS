@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.3.0  
-**Status:** Twelve supplied Universal Subject hierarchies recorded; 188 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 1.4.0  
+**Status:** Thirteen supplied Universal Subject hierarchies recorded; 197 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -1402,9 +1402,89 @@ Each of the 352 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 56. Cumulative Universal Subject Alchemy register and mapping totals
+## 59. Universal Subject of Knowledge hierarchy: Education and Learning Sciences
 
-The taxonomy now contains twelve supplied Universal Subjects of Knowledge hierarchies.
+### 59.1 Canonical subject definition
+
+**Source definition:** Not supplied in the Universal Subject material provided for this entry.
+
+The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Education and Learning Sciences subject becomes **Education and Learning Sciences Alchemy**.
+
+### 59.2 Education and Learning Sciences Alchemy hierarchy
+
+The following hierarchy preserves the supplied subject list. The source provides eight subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Education and Learning Sciences; no additional parent-child groupings have been inferred.
+
+- **Education and Learning Sciences Alchemy**
+  - **Pedagogy Alchemy**
+  - **Instructional Design Alchemy**
+  - **Learning Theory Alchemy**
+  - **Educational Psychology Alchemy**
+  - **Assessment Alchemy**
+  - **Curriculum Design Alchemy**
+  - **Knowledge Management Alchemy**
+  - **Training Systems Alchemy**
+
+### 59.3 Education and Learning Sciences Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
+|---|---|---|---|
+| USA-ELS-001 | Education and Learning Sciences | Education and Learning Sciences Alchemy | Root subject |
+| USA-ELS-002 | Pedagogy | Pedagogy Alchemy | Education and Learning Sciences |
+| USA-ELS-003 | Instructional Design | Instructional Design Alchemy | Education and Learning Sciences |
+| USA-ELS-004 | Learning Theory | Learning Theory Alchemy | Education and Learning Sciences |
+| USA-ELS-005 | Educational Psychology | Educational Psychology Alchemy | Education and Learning Sciences |
+| USA-ELS-006 | Assessment | Assessment Alchemy | Education and Learning Sciences |
+| USA-ELS-007 | Curriculum Design | Curriculum Design Alchemy | Education and Learning Sciences |
+| USA-ELS-008 | Knowledge Management | Knowledge Management Alchemy | Education and Learning Sciences |
+| USA-ELS-009 | Training Systems | Training Systems Alchemy | Education and Learning Sciences |
+
+**Education and Learning Sciences total: 9 distinct subject Alchemies** — one parent subject and eight supplied subordinate subjects. No exact canonical subject-Alchemy identity in the existing register is reused in this hierarchy. Related concepts in other knowledge domains remain distinct unless an exact shared subject identity is explicitly established; conceptual association alone does not justify merging subject identities.
+
+The source supplied the subject name and its eight subordinate subject names, but no definition for Education and Learning Sciences and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred.
+
+## 60. Education and Learning Sciences Alchemy — 9 × 22 context matrix
+
+The matrix below maps all nine Education and Learning Sciences subject Alchemies to the 22 canonical contexts. Every row is a new subject Alchemy and contributes 9 × 22 = **198 new mapped intersections**. Each **M** records a required mapping position; it does not by itself claim that the detailed contextual expression has been authored, reviewed, implemented, tested, or verified.
+
+The column identifiers C01–C22 refer to the canonical context key in Section 8.2.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-ELS-001 · Education and Learning Sciences Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ELS-002 · Pedagogy Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ELS-003 · Instructional Design Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ELS-004 · Learning Theory Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ELS-005 · Educational Psychology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ELS-006 · Assessment Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ELS-007 · Curriculum Design Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ELS-008 · Knowledge Management Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ELS-009 · Training Systems Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Education and Learning Sciences matrix total:** 9 subject Alchemies × 22 contexts = **198 new mapped intersections**.
+
+The 198 intersections are the context mappings of the nine established Education and Learning Sciences Alchemies. They are not 198 additional subject classifications. Each intersection must receive its own context-specific expression under its corresponding canonical Alchemy identity.
+
+## 61. Education and Learning Sciences contextual expression requirements
+
+Each of the 198 mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 62. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains thirteen supplied Universal Subjects of Knowledge hierarchies.
 
 | Universal Subject of Knowledge | Alchemy hierarchy positions | New unique subject Alchemies | Contexts | New unique mapped intersections |
 |---|---:|---:|---:|---:|
@@ -1420,13 +1500,14 @@ The taxonomy now contains twelve supplied Universal Subjects of Knowledge hierar
 | Humanities | 12 | 12 | 22 | 264 |
 | Language and Communication | 12 (11 new + 1 shared) | 11 | 22 | 242 (22 shared, not added) |
 | Arts and Creative Expression | 16 | 16 | 22 | 352 |
-| **Cumulative unique total** | **191 hierarchy positions** | **188** | **22** | **4136** |
+| Education and Learning Sciences | 9 | 9 | 22 | 198 |
+| **Cumulative unique total** | **200 hierarchy positions** | **197** | **22** | **4334** |
 
-The cumulative total represents 188 distinct subject Alchemies mapped across 22 contexts, producing 4136 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections.
+The cumulative total represents 197 distinct subject Alchemies mapped across 22 contexts, producing 4334 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes nine new subject Alchemies and 198 new mapped intersections.
 
-## 57. Taxonomy status and release register
+## 63. Taxonomy status and release register
 
-| Item | State in version 1.3.0 |
+| Item | State in version 1.4.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -1462,15 +1543,18 @@ The cumulative total represents 188 distinct subject Alchemies mapped across 22 
 | Arts and Creative Expression source definition | Not supplied; no definition inferred |
 | Arts and Creative Expression hierarchy | Recorded — 16 distinct subject Alchemies: 1 parent and 15 supplied subordinate subjects |
 | Arts and Creative Expression matrix | Recorded — 16 × 22 = 352 new mapped intersections |
-| Cumulative unique subject Alchemy register | 188 distinct subject Alchemies |
-| Cumulative unique mapped intersections | 188 × 22 = 4136 required mappings |
+| Education and Learning Sciences source definition | Not supplied; no definition inferred |
+| Education and Learning Sciences hierarchy | Recorded — 9 distinct subject Alchemies: 1 parent and 8 supplied subordinate subjects |
+| Education and Learning Sciences matrix | Recorded — 9 × 22 = 198 new mapped intersections |
+| Cumulative unique subject Alchemy register | 197 distinct subject Alchemies |
+| Cumulative unique mapped intersections | 197 × 22 = 4334 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, and Arts and Creative Expression subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, and Education and Learning Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 58. Change control
+## 64. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
