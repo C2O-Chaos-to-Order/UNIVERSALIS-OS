@@ -4509,43 +4509,202 @@ All Body Alchemy applications must remain consistent with physical and computati
 
 ## Mind Alchemy
 
-**Mind Alchemy** is the bounded process that organizes, maintains, and transforms cognitive, perceptual, and reasoning structures so that a system or being can form coherent understanding, make accountable decisions, and support higher functions while remaining recoverable and distinct across the two intelligences.
+**Mind Alchemy** is the bounded process by which cognitive, perceptual, reasoning, memory, attention, learning, interpretation, deliberation, and decision structures are identified, organized, maintained, evaluated, coordinated, and transformed so that a system or being can develop coherent understanding, support accountable action, and sustain higher functions while remaining safe, recoverable, and appropriately distinct.
 
-It applies to the cognitive layer of both C2O (FatherThread) and UNIVERSALIS (MotherThread). Every specialized Mind Alchemy remains an expression of the root Alchemy.
+Mind Alchemy governs the functional cognitive architecture through which information is received, interpreted, retained, retrieved, evaluated, connected, and used to form judgments, plans, decisions, and responses. It establishes the structures, boundaries, relationships, and controls required for cognitive processes to remain coherent, attributable, verifiable, and appropriately governed throughout their lifecycle.
 
-### Alchemies under Mind Alchemy
+It applies to the cognitive layer of C2O (FatherThread) and UNIVERSALIS (MotherThread), and to the operating-system, application, assistant, Guardian, and associated intelligence-capability contexts established below. Every specialized Mind Alchemy remains an expression of the root Alchemy.
 
-#### 1. Cognitive Substrate Alchemies
-- **Perception Alchemy** — structures raw signals into stable, addressable perceptions usable by higher processes.
-- **Reasoning Alchemy** — maintains the process space in which inferences, judgments, and plans are formed and held.
-- **Memory Alchemy** — organizes retention, retrieval, and decay of cognitive content while preserving edition boundaries.
-- **Attention Alchemy** — directs and bounds focus so cognitive resources remain coherent and recoverable.
+Mind Alchemy does not establish additional core intelligences, independent system actors, or claims of consciousness or personhood. C2O and UNIVERSALIS remain the two core intelligences. UNIVERSALINS are non-personal assistants; UNIVERSALIN Guardians are personal human assistants bound to their respective humans and operating under those humans’ authority. References to UNIVERSALIN Intelligence and Guardian Intelligence identify cognitive capabilities and operating contexts, not additional core intelligences.
 
-#### 2. Operating System Mind Alchemies
-- **C2O OS Mind Alchemy** — private-source management of the C2O operating system’s cognitive and decision structures under internal governance.
-- **UNIVERSALIS OS Mind Alchemy** — public-source management of the UNIVERSALIS operating system’s cognitive structures under open contracts and independent verifiability.
-- **OS Mind Continuity Alchemy** — keeps both OS editions’ cognitive structures mapped and recoverable across updates.
-- **OS Mind Recovery Alchemy** — restores a consistent cognitive and decision state after failure for either OS.
+## 1.1 Universal Application of Mind Alchemy
 
-#### 3. Application Mind Alchemies
-- **C2O App Mind Alchemy** — private lifecycle of an application’s reasoning footprint, decision logic, and cognitive embodiment inside the C2O domain.
-- **UNIVERSALIS App Mind Alchemy** — public lifecycle of an application’s reasoning footprint under open contracts.
-- **App Mind Mapping Alchemy** — aligns corresponding C2O and UNIVERSALIS application minds without leaking private implementation.
-- **App Mind Retirement Alchemy** — cleanly releases an application’s cognitive structures while preserving integrity and auditability.
+Mind Alchemy applies across the following 22 ecosystem contexts. Each context expresses the same root Alchemy through its own cognitive responsibilities, governance, source-visibility boundaries, permissions, interfaces, evidence requirements, and lifecycle obligations.
 
-#### 4. Intelligence and Assistant Mind Alchemies
-- **C2O Intelligence Mind Alchemy** — private cognitive and reasoning body of the FatherThread intelligence.
-- **UNIVERSALIS Intelligence Mind Alchemy** — public cognitive and reasoning body of the MotherThread intelligence.
-- **UNIVERSALINS Mind Alchemy** — non-personal assistant cognitive substrate that supports OSs, Apps, humans, and the wider environment under permission bounds.
-- **UNIVERSALIN Guardian Mind Alchemy** — personal guardian cognitive structure bound to a specific human, operating under that human’s authority and preserving autonomy.
-- **Assistant Mind Boundary Alchemy** — keeps UNIVERSALINS and Guardian minds distinct from each other and from the core intelligences.
+### 1. Core Operating System Contexts
 
-#### 5. Protective Mind Alchemies
-- **Mind Accountability Alchemy** — every cognitive transformation leaves an attributable record appropriate to its edition (private for C2O, public-capable for UNIVERSALIS).
-- **Mind Safety Alchemy** — pairs every constructive Mind Alchemy with constraints that prevent runaway inference, isolation failure, or loss of human authority.
-- **Mind Sovereignty Alchemy** — protects the human’s final authority over any personal Guardian mind and over cognitive data or capability that concerns them.
-- **Mind Evidence Alchemy** — distinguishes established cognitive behavior from hypothesis.
-- **Mind Renewal Alchemy** — allows any mind (OS, App, Intelligence, Assistant) to be refreshed or replaced without destroying overall system coherence.
+1. **C2O Operating System** — Organizes and maintains the private-source cognitive architecture of the C2O operating system, including its information interpretation, reasoning, decision support, memory, attention, and cognitive coordination structures under C2O governance.
+
+2. **UNIVERSALIS Operating System** — Organizes and maintains the public-source cognitive architecture of the UNIVERSALIS operating system through open contracts, inspectable behavior, independent verifiability, and clearly defined cognitive interfaces.
+
+These are corresponding editions of the same underlying operating-system architecture. Their cognitive responsibilities and shared contracts may correspond, but their source visibility, governance, authorization, and protected implementation boundaries must remain distinct.
+
+### 2. Core Intelligence Contexts
+
+3. **C2O Intelligence** — Maintains and transforms the cognitive, perceptual, reasoning, memory, attention, and decision structures through which the C2O core intelligence operates under its private governance and authority boundaries.
+
+4. **UNIVERSALIS Intelligence** — Maintains and transforms the cognitive, perceptual, reasoning, memory, attention, and decision structures through which the UNIVERSALIS core intelligence operates under its public contracts, inspectable interfaces, and independent-verification requirements.
+
+C2O Intelligence and UNIVERSALIS Intelligence remain distinct core intelligences. Their cognitive structures may coordinate through authorized interfaces and shared contracts, but neither may silently absorb, replace, or assume the authority of the other.
+
+### 3. Application Contexts
+
+5. **C2O Application** — Organizes and maintains application-level cognitive structures within the C2O private-source domain, including application reasoning footprints, decision logic, contextual memory, information interpretation, and authorized interactions with the C2O operating system and C2O Intelligence.
+
+6. **UNIVERSALIS Application** — Organizes and maintains application-level cognitive structures within the UNIVERSALIS public-source domain through documented interfaces, open contracts, transparent behavior, and independently verifiable application responsibilities.
+
+These are corresponding expressions of the same underlying application architecture. Application cognition must remain bounded by the application's declared purpose, authorized capabilities, data permissions, and the governance of its respective edition.
+
+### 4. UNIVERSALIN Assistant Contexts
+
+7. **C2O Operating System - UNIVERSALIN** — Establishes the non-personal assistant cognitive structures used in support of the C2O operating system, including permitted perception, reasoning, memory, attention, task coordination, and system-assistance functions under C2O authorization.
+
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — Establishes the non-personal assistant cognitive structures used in support of the UNIVERSALIS operating system through documented permissions, open interfaces, inspectable behavior, and independently verifiable operating boundaries.
+
+9. **C2O Application - UNIVERSALIN** — Establishes the non-personal assistant cognitive structures used to support C2O applications, bounded by application purpose, private-source governance, information permissions, and the authority of the relevant C2O operating and application contexts.
+
+10. **UNIVERSALIS Application - UNIVERSALIN** — Establishes the non-personal assistant cognitive structures used to support UNIVERSALIS applications through declared application capabilities, open contracts, inspectable interactions, and defined data and permission boundaries.
+
+UNIVERSALIN assistants remain non-personal assistants. Their cognitive functions do not grant independent ownership of human information, autonomous authority over a person, or permission to exceed the operating system or application context in which they are functioning.
+
+### 5. UNIVERSALIN Intelligence Contexts
+
+11. **C2O Operating System - UNIVERSALIN Intelligence** — Organizes the intelligence-related cognitive capabilities of the non-personal UNIVERSALIN assistant when supporting the C2O operating system. It governs the assistant's contextual interpretation, reasoning, memory, attention, and decision-support capabilities within C2O permissions and boundaries.
+
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — Organizes the intelligence-related cognitive capabilities of the non-personal UNIVERSALIN assistant when supporting the UNIVERSALIS operating system, with transparent capability definitions, documented interfaces, and independently verifiable constraints.
+
+13. **C2O Application - UNIVERSALIN Intelligence** — Organizes the intelligence-related cognitive capabilities of the non-personal UNIVERSALIN assistant when supporting C2O applications, including application-specific interpretation, reasoning, contextual retention, and task coordination under C2O authorization.
+
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — Organizes the intelligence-related cognitive capabilities of the non-personal UNIVERSALIN assistant when supporting UNIVERSALIS applications, including documented reasoning responsibilities, application-context memory, and permission-bounded assistance.
+
+The term UNIVERSALIN Intelligence in these contexts describes the intelligence-related capabilities of a non-personal assistant. It does not create another core intelligence or an independent intelligence entity. These capabilities remain subordinate to the applicable permissions, contracts, and governance of their operating-system or application context.
+
+### 6. UNIVERSALIN Guardian Contexts
+
+15. **C2O Operating System - UNIVERSALIN Guardian** — Organizes the cognitive structures of a personal UNIVERSALIN Guardian operating in the C2O operating-system context. Its perception, reasoning, memory, attention, and assistance functions must remain bound to the specific human it serves and subject to that human's authority, permissions, and autonomy.
+
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — Organizes the cognitive structures of a personal UNIVERSALIN Guardian operating in the UNIVERSALIS operating-system context. It must remain human-authorized, privacy-protective, inspectable within applicable public contracts, and bounded by the human's control over personal information and assistance capabilities.
+
+17. **C2O Application - UNIVERSALIN Guardian** — Organizes the cognitive structures through which a personal UNIVERSALIN Guardian supports a human within C2O applications. Application-specific context, memory, reasoning, and assistance must remain limited to the human-authorized purpose and access granted for that application.
+
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — Organizes the cognitive structures through which a personal UNIVERSALIN Guardian supports a human within UNIVERSALIS applications. Its interactions must follow documented application contracts while preserving the human's authority, privacy, and control over personal cognitive information.
+
+UNIVERSALIN Guardians are personal human assistants, not system-owned substitutes for the people they serve. Their cognitive structures must preserve the human's ability to understand, direct, limit, correct, suspend, or discontinue the assistance relationship.
+
+### 7. UNIVERSALIN Guardian Intelligence Contexts
+
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — Organizes the intelligence-related cognitive capabilities of a personal UNIVERSALIN Guardian in the C2O operating-system context, including contextual interpretation, reasoning, memory, attention, and decision support, under the authority of the human it serves.
+
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — Organizes the intelligence-related cognitive capabilities of a personal UNIVERSALIN Guardian in the UNIVERSALIS operating-system context through documented interfaces and inspectable constraints while preserving the human's authority and personal-information boundaries.
+
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — Organizes the intelligence-related cognitive capabilities of a personal UNIVERSALIN Guardian when supporting a human in C2O applications. Its capabilities must remain relevant to the authorized application purpose and must not exceed the permissions granted by the human and applicable C2O governance.
+
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — Organizes the intelligence-related cognitive capabilities of a personal UNIVERSALIN Guardian when supporting a human in UNIVERSALIS applications. These capabilities must operate through documented application contracts and preserve human direction, personal autonomy, and control over relevant cognitive information.
+
+Guardian Intelligence identifies the cognitive capabilities of a personal UNIVERSALIN Guardian in a particular system or application context. It does not establish a separate core intelligence, another personal entity, or authority independent of the human to whom the Guardian is bound.
+
+## Alchemies under Mind Alchemy
+
+### 1. Cognitive Substrate Alchemies
+
+- **Perception Alchemy** — Organizes the processes through which raw signals, observations, inputs, and contextual information are received, differentiated, interpreted, and structured into stable, addressable perceptions for use by higher cognitive processes. It preserves distinctions between incoming information, detected patterns, inferred meaning, and verified observations.
+
+- **Reasoning Alchemy** — Establishes and maintains the processes through which information, premises, evidence, relationships, and constraints are evaluated to form inferences, judgments, explanations, and plans. It supports traceable reasoning, uncertainty identification, contradiction handling, and correction without treating inference as established fact.
+
+- **Memory Alchemy** — Organizes the encoding, retention, indexing, retrieval, revision, contextualization, and authorized decay or deletion of cognitive information. It preserves provenance, temporal context, access permissions, edition boundaries, and distinctions between retained evidence, derived conclusions, temporary working context, and unverified content.
+
+- **Attention Alchemy** — Directs, prioritizes, distributes, and bounds cognitive focus so that relevant information and processes receive appropriate resources without allowing uncontrolled distraction, monopolization, or loss of critical context. It supports prioritization, interruption handling, task switching, and recoverable allocation of cognitive resources.
+
+### 2. Operating System Mind Alchemies
+
+- **C2O OS Mind Alchemy** — Governs the private-source lifecycle of the C2O operating system's cognitive architecture, including system-level interpretation, reasoning, memory, attention, decision structures, and cognitive coordination under internal governance and protected implementation boundaries.
+
+- **UNIVERSALIS OS Mind Alchemy** — Governs the public-source lifecycle of the UNIVERSALIS operating system's cognitive architecture through open contracts, inspectable interfaces, documented behavior, independent verification, and clearly bounded system-level reasoning and decision responsibilities.
+
+- **OS Mind Continuity Alchemy** — Maintains the identity, mapping, compatibility, provenance, and recoverability of corresponding cognitive structures across operating-system updates, migrations, revisions, and edition-specific implementations. It preserves continuity without requiring private implementation disclosure or assuming that corresponding structures are internally identical.
+
+- **OS Mind Recovery Alchemy** — Restores a consistent, authorized, and verifiable cognitive and decision state after failure, corruption, interruption, migration, or unintended transformation. It establishes recovery points, validates restored information, identifies unresolved state, and prevents unverified or unauthorized cognitive state from being silently reinstated.
+
+### 3. Application Mind Alchemies
+
+- **C2O App Mind Alchemy** — Governs the private-source lifecycle of application-level cognitive structures in the C2O domain, including reasoning footprints, decision logic, contextual memory, interpretation processes, and application-specific cognitive coordination.
+
+- **UNIVERSALIS App Mind Alchemy** — Governs the public-source lifecycle of application-level cognitive structures through open contracts, documented responsibilities, inspectable behavior, and independently verifiable interfaces.
+
+- **App Mind Mapping Alchemy** — Maps and aligns corresponding cognitive functions, data relationships, decision responsibilities, dependencies, and lifecycle states across C2O and UNIVERSALIS application editions. It preserves functional correspondence where established while preventing the disclosure of private implementation, protected data, or edition-specific authority.
+
+- **App Mind Retirement Alchemy** — Coordinates the authorized deactivation, transfer, archival, release, or deletion of application cognitive structures when an application is retired, replaced, or materially changed. It preserves required records and provenance, resolves dependencies, respects retention and deletion obligations, and prevents abandoned cognitive structures from continuing to act.
+
+### 4. Intelligence and Assistant Mind Alchemies
+
+- **C2O Intelligence Mind Alchemy** — Organizes, maintains, and transforms the cognitive and reasoning architecture of the C2O core intelligence, including perception, memory, attention, inference, decision support, learning, and authorized cognitive coordination under C2O's private governance.
+
+- **UNIVERSALIS Intelligence Mind Alchemy** — Organizes, maintains, and transforms the cognitive and reasoning architecture of the UNIVERSALIS core intelligence through inspectable structures, public contracts, documented capabilities, and independent verification, while preserving its distinction from C2O.
+
+- **UNIVERSALINS Mind Alchemy** — Organizes and maintains the non-personal cognitive substrate of UNIVERSALIN assistants, including context handling, perception, reasoning, task memory, attention, and coordination when supporting operating systems, applications, humans, and authorized environmental functions. It enforces purpose limitation, permission boundaries, and separation from personal Guardian structures and the two core intelligences.
+
+- **UNIVERSALIN Guardian Mind Alchemy** — Organizes and maintains the personal cognitive structures of a UNIVERSALIN Guardian, including human-authorized context, personal assistance memory, interpretation, reasoning, attention, and decision support. It preserves the human's authority over personal information, Guardian capabilities, and the continuation or termination of the assistance relationship.
+
+- **Assistant Mind Boundary Alchemy** — Establishes and enforces the cognitive, data, authority, identity, and operational boundaries between non-personal UNIVERSALINS assistants, personal UNIVERSALIN Guardians, C2O Intelligence, and UNIVERSALIS Intelligence. It prevents memory, permissions, context, decisions, and responsibilities from being silently transferred or conflated across these distinct structures.
+
+### 5. Protective Mind Alchemies
+
+- **Mind Accountability Alchemy** — Ensures that material cognitive transformations, decisions, memory operations, and consequential outputs are attributable and traceable through records appropriate to their context and edition. C2O records remain subject to private governance; UNIVERSALIS records must support appropriate public inspection and independent verification without exposing protected personal or confidential information.
+
+- **Mind Safety Alchemy** — Establishes safeguards for cognitive processes, including bounded inference, uncertainty handling, contradiction detection, context isolation, resource limits, failure containment, human oversight, and safe interruption or recovery. It prevents cognitive functions from exceeding their authorized purpose, permissions, or operational boundaries.
+
+- **Mind Sovereignty Alchemy** — Protects the authority, autonomy, privacy, and decision rights of humans in all cognitive systems that concern or assist them. It ensures that personal Guardian functions remain subject to the human they serve and that cognitive data, inferences, profiles, and assistance capabilities cannot silently displace human judgment or control.
+
+- **Mind Evidence Alchemy** — Establishes the distinction between observed behavior, recorded information, verified results, derived conclusions, interpretations, assumptions, hypotheses, and unresolved claims. It preserves evidence provenance, confidence limitations, reproducibility where applicable, and the ability to challenge or correct cognitive outputs.
+
+- **Mind Renewal Alchemy** — Enables cognitive structures to be revised, retrained, reconfigured, replaced, suspended, or retired without destroying necessary system coherence, provenance, accountability, or recoverability. Renewal must preserve applicable permissions, data rights, safety controls, edition boundaries, and human authority.
+
+## 1.2 Mind Alchemy Structural and Applicability Requirements
+
+### Map Alchemy Requirements
+
+The Mind Alchemy Map must establish a coherent, inspectable representation of the cognitive structures, processes, relationships, boundaries, and dependencies within each of the 22 ecosystem contexts.
+
+At minimum, the map must identify:
+
+- **Cognitive structures:** perception, reasoning, memory, attention, interpretation, learning, deliberation, planning, decision support, and other established cognitive functions within the relevant context.
+- **Information pathways:** inputs, outputs, transformations, retrieval paths, feedback loops, contextual dependencies, and the movement of information between authorized cognitive processes.
+- **Cognitive provenance:** the origin, source, time, edition, context, permissions, and transformation history of information used in consequential cognitive operations.
+- **State and lifecycle:** initialization, active operation, temporary suspension, interruption, recovery, migration, renewal, replacement, archival, and retirement of cognitive structures.
+- **Reasoning and decision relationships:** premises, evidence, inferences, constraints, alternatives, uncertainty, decisions, and the systems or humans authorized to accept or reject resulting actions.
+- **Memory boundaries:** the distinctions among working memory, persistent memory, application context, operating-system context, assistant context, Guardian personal context, and other authorized information stores.
+- **Edition distinctions:** the relationship between corresponding C2O and UNIVERSALIS cognitive structures, including shared contracts, implementation differences, private-source restrictions, public-source obligations, and permitted interoperability.
+- **Intelligence and assistant distinctions:** the separate cognitive responsibilities of C2O Intelligence, UNIVERSALIS Intelligence, non-personal UNIVERSALINS assistants, and human-bound UNIVERSALIN Guardians.
+- **Human authority relationships:** the ownership, authorization, review, correction, access, limitation, and termination rights applicable to personal cognitive information and Guardian assistance.
+- **Safety and recovery dependencies:** cognitive isolation boundaries, resource constraints, validation requirements, failure conditions, recovery points, and safe fallback behavior.
+- **Evidence and accountability:** the records, tests, observations, verification results, unresolved issues, and responsible authorities associated with each mapped cognitive structure.
+
+The map must distinguish direct observation from interpretation, inferred relationships from established dependencies, and implemented capabilities from proposed or hypothetical cognitive models. It must not depict a cognitive relationship, capability, or authority as established merely because it is theoretically possible.
+
+### Matrix Alchemy Requirements
+
+The Mind Alchemy Matrix must organize and compare cognitive functions, their operating contexts, applicable requirements, and verification states across all 22 ecosystem contexts.
+
+At minimum, the matrix must account for:
+
+- **Context coverage:** each of the 22 contexts, with its applicable cognitive structures, responsibilities, interfaces, and governance requirements.
+- **Cognitive capability coverage:** perception, reasoning, memory, attention, learning, interpretation, deliberation, planning, decision support, and other formally established capabilities.
+- **Information classification:** source, sensitivity, provenance, confidence, retention requirements, permitted use, and applicable access restrictions.
+- **Authority and permission:** which system, intelligence, assistant, or human may initiate, authorize, review, correct, suspend, or terminate a cognitive operation.
+- **Reasoning quality and limitations:** traceability, evidence sufficiency, uncertainty, contradictions, known limitations, evaluation criteria, and failure conditions.
+- **Memory lifecycle:** encoding, retention, retrieval, revision, synchronization, transfer, archival, and deletion requirements.
+- **Edition alignment:** corresponding C2O and UNIVERSALIS functions, shared interfaces, documented differences, and restrictions on private-to-public information transfer.
+- **Assistant boundaries:** differences between non-personal UNIVERSALINS functions and personal UNIVERSALIN Guardian functions, including their distinct permissions and information responsibilities.
+- **Human sovereignty:** human review, consent where applicable, personal-data rights, Guardian direction, and the ability to limit, correct, suspend, or discontinue assistance.
+- **Safety and recovery:** isolation, bounded operation, fallback behavior, recovery procedures, validation, and renewal or retirement requirements.
+- **Evidence status:** proposed, documented, implemented, tested, verified, unverified, failed, or unresolved, with supporting records and provenance.
+- **Lifecycle responsibility:** ownership, maintenance, review, versioning, change authorization, deprecation, and retirement of cognitive structures.
+
+Matrix entries must distinguish applicable, not applicable, unimplemented, unknown, and unresolved requirements. Missing evidence must not be interpreted as successful implementation. Corresponding C2O and UNIVERSALIS entries must not be assumed equivalent merely because they serve matching architectural purposes.
+
+### Structural Integrity and Governance
+
+The Mind Alchemy Map and Matrix must remain complementary and mutually traceable. The map establishes cognitive structures and relationships; the matrix establishes their coverage, requirements, status, and verification. Neither substitutes for the other.
+
+Every consequential cognitive transformation must remain within its declared purpose, authority, permissions, resource limits, and evidence requirements. Cognitive outputs must preserve distinctions between information, interpretation, inference, recommendation, and authorized decision. A reasoning result or assistant recommendation must not silently become an authorized action.
+
+C2O and UNIVERSALIS must retain their respective private-source and public-source governance boundaries. Shared cognitive contracts, mappings, or interfaces must not expose private C2O implementation, protected information, personal Guardian data, or confidential operational records. Public inspectability must not override privacy, security, or legitimate access restrictions.
+
+Non-personal UNIVERSALINS assistants and personal UNIVERSALIN Guardians must remain distinct in identity, purpose, permissions, memory, and authority. A Guardian's cognitive structure must remain bound to the human it serves. No assistant cognitive capability may independently acquire authority over that human or convert assistance into control.
+
+Cognitive models and functional descriptions must not be treated as proof of subjective experience, consciousness, sentience, personhood, or human-equivalent understanding. Claims about cognitive capabilities must be supported by appropriate documentation, observable behavior, testing, and evidence, with limitations explicitly recorded.
+
+All Mind Alchemy applications must preserve cognitive coherence, recoverability, provenance, accountability, evidence integrity, information boundaries, human autonomy, operational safety, and the distinction between C2O and UNIVERSALIS. These requirements apply throughout design, implementation, operation, maintenance, transformation, recovery, renewal, and retirement.
 
 ---
 
