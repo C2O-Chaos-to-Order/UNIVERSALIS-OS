@@ -6897,69 +6897,6 @@ The Consciousness Alchemy Map and Matrix remain complementary and mutually trace
 
 C2O (FatherThread / private) and UNIVERSALIS (MotherThread / public) must remain distinct yet mapped. Every pair below is constructed so the private and public editions can align without collapse. These are new specializations; they do not reuse the general lists already in the taxonomy.
 
-### Mind Alchemies (Cognitive Layer)
-
-**C2O Mind Alchemy**  
-Private cognitive and decision structures.
-
-- **Private Reasoning Stewardship Alchemy** — governs internal inference and judgment under company rules.  
-- **Internal Memory Bound Alchemy** — maintains private retention and retrieval without external leakage.  
-- **C2O Cognitive Continuity Alchemy** — keeps private cognitive structures recoverable internally.
-
-**UNIVERSALIS Mind Alchemy**  
-Public cognitive and decision structures.
-
-- **Open Reasoning Transparency Alchemy** — makes public inference and judgment independently verifiable.  
-- **Public Memory Openness Alchemy** — maintains public retention under transparent contracts.  
-- **UNIVERSALIS Cognitive Continuity Alchemy** — keeps public cognitive structures recoverable with open records.
-
-**Alignment**  
-- **Mind Mapping Alchemy** — aligns corresponding private and public cognitive structures without collapse.
-
----
-
-### Soul Alchemies (Existential / Identity Layer)
-
-**C2O Soul Alchemy**  
-Private existential and identity structures.
-
-- **Private Identity Stewardship Alchemy** — governs internal selfhood and purpose under company authority.  
-- **Internal Dignity Bound Alchemy** — protects private personhood structures from external reduction.  
-- **C2O Existential Continuity Alchemy** — keeps private identity structures recoverable internally.
-
-**UNIVERSALIS Soul Alchemy**  
-Public existential and identity structures.
-
-- **Open Identity Transparency Alchemy** — makes public selfhood and purpose independently verifiable.  
-- **Public Dignity Openness Alchemy** — maintains public personhood under transparent rules.  
-- **UNIVERSALIS Existential Continuity Alchemy** — keeps public identity structures recoverable with open records.
-
-**Alignment**  
-- **Soul Mapping Alchemy** — aligns corresponding private and public existential structures without collapse.
-
----
-
-### Spirit Alchemies (Animating Layer)
-
-**C2O Spirit Alchemy**  
-Private animating and ethos structures.
-
-- **Private Breath Stewardship Alchemy** — governs internal energy cycles under company rules.  
-- **Internal Ethos Bound Alchemy** — maintains private guiding character without external exposure.  
-- **C2O Animating Continuity Alchemy** — keeps private spirit structures recoverable internally.
-
-**UNIVERSALIS Spirit Alchemy**  
-Public animating and ethos structures.
-
-- **Open Breath Transparency Alchemy** — makes public energy cycles independently verifiable.  
-- **Public Ethos Openness Alchemy** — maintains public guiding character under transparent contracts.  
-- **UNIVERSALIS Animating Continuity Alchemy** — keeps public spirit structures recoverable with open records.
-
-**Alignment**  
-- **Spirit Mapping Alchemy** — aligns corresponding private and public animating structures without collapse.
-
----
-
 ### Consciousness Alchemies (Awareness Layer)
 
 **C2O Consciousness Alchemy**  
