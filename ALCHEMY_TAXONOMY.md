@@ -558,8 +558,6 @@ Every Alchemy within this taxonomy must preserve the following principles:
 - **Structural Consistency:** Every Alchemy must remain accurately represented through Map Alchemy and evaluated through Matrix Alchemy.
 - **Specialized Integrity:** No Alchemy may lose its defined purpose, scope, responsibilities, or boundaries through integration with another Alchemy.
 
-# Universal Subjects of Human Knowledge Alchemy
-
 ## Universal Subjects of Human Knowledge Alchemy
 
 **Universal Subjects of Human Knowledge Alchemy** is the bounded process by which the domains, disciplines, subjects, methods, principles, structures, and accumulated understanding of human knowledge are identified, classified, organized, related, examined, maintained, developed, integrated, and transformed into coherent and usable knowledge systems.
@@ -701,7 +699,7 @@ The specific applicability of each formal discipline and subordinate Alchemy mus
 - **Computation Theory Alchemy** — organizes the formal foundations, models, structures, capabilities, and limitations of computation. It establishes methods for examining computability, computational processes, algorithms, and the theoretical boundaries of computational systems.
 - **Complexity Theory Alchemy** — organizes computational and structural complexity, including resource requirements, computational difficulty, scaling behavior, patterns of system behavior, and relationships between complexity and capability. It establishes methods for examining the feasibility and limitations of formal and computational processes.
 
-### 1.2 Formal Sciences Structural and Applicability Requirements
+#### 1.2 Formal Sciences Structural and Applicability Requirements
 
 Every subordinate Alchemy under Formal Sciences Alchemy must retain its own defined subject, purpose, methods, principles, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -823,7 +821,7 @@ The specific applicability of each physical discipline and subordinate Alchemy m
 
 - **Materials Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of the relationships between material composition, structure, properties, processing, performance, and transformation. It establishes methods for understanding and evaluating materials and their behavior under relevant physical and environmental conditions.
 
-### 2.2 Physical Sciences Structural and Applicability Requirements
+#### 2.2 Physical Sciences Structural and Applicability Requirements
 
 Every subordinate Alchemy under Physical Sciences Alchemy must retain its own defined subject, purpose, methods, principles, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -953,7 +951,7 @@ The specific applicability of each biological discipline and subordinate Alchemy
 
 - **Mycology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of fungi, including their structures, functions, reproduction, diversity, classification, development, and ecological relationships. It establishes methods for examining fungal organisms and their biological and environmental interactions.
 
-### 3.2 Life Sciences Structural and Applicability Requirements
+#### 3.2 Life Sciences Structural and Applicability Requirements
 
 Every subordinate Alchemy under Life Sciences Alchemy must retain its own defined subject, purpose, methods, principles, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -1085,7 +1083,7 @@ The specific applicability of each health discipline and subordinate Alchemy mus
 
 - **Rehabilitation Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms scientific knowledge and professional practices concerning the restoration, improvement, maintenance, and adaptation of physical, cognitive, psychological, and functional capabilities following illness, injury, disability, or other changes in health. It establishes methods for examining rehabilitation processes, functional outcomes, adaptive approaches, recovery measures, and interdisciplinary relationships supporting rehabilitation.
 
-### 4.2 Health Sciences Structural and Applicability Requirements
+#### 4.2 Health Sciences Structural and Applicability Requirements
 
 Every subordinate Alchemy under Health Sciences Alchemy must retain its own defined subject, purpose, methods, principles, professional or scientific boundaries, and applicable responsibilities while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -1255,7 +1253,7 @@ Engineering and Technology Alchemy is inherently interdisciplinary. Its speciali
 
 - **Technology Interoperability Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships that enable distinct technologies, platforms, devices, applications, and systems to exchange information and operate together through defined interfaces and compatible methods. It establishes methods for interface definition, compatibility evaluation, communication, data exchange, integration, and cross-system operation without erasing the distinct identities, governance arrangements, or boundaries of the participating systems.
 
-### 5.2 Engineering and Technology Structural and Applicability Requirements
+#### 5.2 Engineering and Technology Structural and Applicability Requirements
 
 Every subordinate Alchemy under Engineering and Technology Alchemy must retain its own defined subject, purpose, methods, principles, requirements, technical boundaries, and applicable responsibilities while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -1430,7 +1428,7 @@ These specialized Alchemies coordinate the preceding computational and informati
 
 - **Digital Continuity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods required to maintain the integrity, recoverability, usability, accessibility, and operational continuity of computational and information environments across technological changes. It establishes methods for managing digital dependencies, software and data continuity, system migration, compatibility, recovery, and preservation of functional and informational relationships over time.
 
-### 6.2 Computer and Information Sciences Structural and Applicability Requirements
+#### 6.2 Computer and Information Sciences Structural and Applicability Requirements
 
 Every subordinate Alchemy under Computer and Information Sciences Alchemy must retain its own defined subject, purpose, methods, principles, technical requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -1614,7 +1612,7 @@ These specialized Alchemies coordinate the preceding social-science disciplines 
 
 - **Human Agency and Participation Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning individual and collective agency, participation, autonomy, cooperation, representation, and influence within social systems. It establishes methods for examining how people and communities exercise choice, express interests, participate in decisions, influence institutions, and shape collective outcomes while preserving human autonomy, voluntary participation, consent, and the distinction between enabling participation and controlling it.
 
-### 7.2 Social Sciences Structural and Applicability Requirements
+#### 7.2 Social Sciences Structural and Applicability Requirements
 
 Every subordinate Alchemy under Social Sciences Alchemy must retain its own defined subject, purpose, methods, principles, research requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -1803,7 +1801,7 @@ These specialized Alchemies coordinate the preceding financial, commercial, orga
 
 - **Commercial Risk Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships among financial, operational, strategic, market, supply-chain, contractual, and organizational risks in business decision-making. It establishes methods for examining connected risk exposures, dependencies, combined effects, control requirements, and potential consequences while preserving the distinct assessment methods, ownership, and responsibilities associated with each risk domain.
 
-### 8.2 Business and Economic Sciences Structural and Applicability Requirements
+#### 8.2 Business and Economic Sciences Structural and Applicability Requirements
 
 Every subordinate Alchemy under Business and Economic Sciences Alchemy must retain its own defined subject, purpose, methods, principles, financial or organizational requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -1994,7 +1992,7 @@ These specialized Alchemies coordinate the preceding legal, constitutional, regu
 
 - **International Governance Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships between international law, diplomacy, treaties, institutions, cooperation, and dispute-resolution structures. It establishes methods for representing international governance arrangements, institutional relationships, cooperative processes, legal obligations, and dispute-resolution mechanisms while preserving the distinct authority, responsibilities, and legal positions of participating states and institutions.
 
-### 9.2 Law and Governance Structural and Applicability Requirements
+#### 9.2 Law and Governance Structural and Applicability Requirements
 
 Every subordinate Alchemy under Law and Governance Alchemy must retain its own defined subject, purpose, methods, principles, legal or governance requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -2182,7 +2180,7 @@ These specialized Alchemies coordinate the preceding philosophical, ethical, his
 
 - **Historical and Cultural Continuity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to preserve and responsibly transmit historical knowledge, cultural practices, collective memory, and heritage across generations. It establishes methods for maintaining continuity of records, traditions, interpretations, documentation, and cultural knowledge while respecting changes in historical understanding, community stewardship, and the rights of those connected to the heritage concerned.
 
-### 10.2 Humanities Structural and Applicability Requirements
+#### 10.2 Humanities Structural and Applicability Requirements
 
 Every subordinate Alchemy under Humanities Alchemy must retain its own defined subject, purpose, methods, principles, interpretive requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -2349,7 +2347,7 @@ These specialized Alchemies coordinate the preceding linguistic, expressive, jou
 - **Public Communication Alchemy** — organizes, examines, maintains, integrates, develops, and transforms communication intended for public audiences through accessible, understandable, appropriately contextualized, and accountable messages. It establishes methods for preparing and evaluating public-facing information, announcements, explanations, and other public communications while preserving factual accuracy, transparency, audience accessibility, appropriate attribution, and authorization to speak on behalf of the relevant individual or institution.
 - **Narrative Transmission Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the preservation, adaptation, interpretation, and transmission of stories and narratives across languages, media, cultures, and generations. It establishes methods for maintaining narrative structure, contextual meaning, attribution, historical relationships, and continuity while identifying material changes introduced through adaptation, translation, retelling, or reproduction.
 
-### 11.2 Language and Communication Structural and Applicability Requirements
+#### 11.2 Language and Communication Structural and Applicability Requirements
 
 Every subordinate Alchemy under Language and Communication Alchemy must retain its own defined subject, purpose, methods, principles, communication requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -2551,7 +2549,7 @@ These specialized Alchemies coordinate the preceding visual, spatial, applied, p
 
 - **Human Experience and Expression Alchemy** — organizes, examines, maintains, integrates, develops, and transforms artistic methods and expressive forms through which human experience, imagination, emotion, identity, and perspective can be explored and communicated. It establishes methods for examining how creative works express and communicate lived experience, personal perspectives, emotional content, cultural identity, and imagination while respecting individual autonomy, privacy, dignity, cultural context, and the distinction between artistic representation and verified claims about a person or community.
 
-### 12.2 Arts and Creative Expression Structural and Applicability Requirements
+#### 12.2 Arts and Creative Expression Structural and Applicability Requirements
 
 Every subordinate Alchemy under Arts and Creative Expression Alchemy must retain its own defined subject, purpose, methods, principles, creative requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -2753,7 +2751,7 @@ These specialized Alchemies coordinate the preceding teaching, instructional, le
 
 - **Educational Continuity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the accessibility, integrity, transferability, and recoverability of educational records, learning progress, instructional resources, and developmental pathways. It establishes methods for documenting educational history, preserving learning resources, maintaining appropriate records of progress, supporting transitions between learning environments, and recovering relevant educational information while respecting privacy, confidentiality, consent, accuracy, and applicable retention and access requirements.
 
-### 13.2 Education and Learning Sciences Structural and Applicability Requirements
+#### 13.2 Education and Learning Sciences Structural and Applicability Requirements
 
 Every subordinate Alchemy under Education and Learning Sciences Alchemy must retain its own defined subject, purpose, methods, principles, educational requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -2962,7 +2960,7 @@ These specialized Alchemies coordinate the preceding ecological, biodiversity, c
 
 - **Environmental Continuity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the preservation, recovery, and long-term stewardship of environmental knowledge, monitoring records, ecological resources, and restoration progress. It establishes methods for maintaining environmental datasets, ecological records, baseline measurements, monitoring histories, restoration documentation, resource information, and knowledge continuity while preserving provenance, temporal and geographic context, data integrity, appropriate access, and the distinction between original observations and subsequently reconstructed or interpreted records.
 
-### 14.2 Environmental Sciences Structural and Applicability Requirements
+#### 14.2 Environmental Sciences Structural and Applicability Requirements
 
 Every subordinate Alchemy under Environmental Sciences Alchemy must retain its own defined subject, purpose, methods, principles, environmental requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -3173,7 +3171,7 @@ These specialized Alchemies coordinate the preceding geological, hydrological, g
 
 - **Earth and Planetary Continuity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the preservation, accessibility, integrity, and long-term continuity of geological, geographic, planetary, and exploratory observations, records, and datasets. It establishes methods for preserving observation histories, measurement records, scientific datasets, maps, mission documentation, instrument information, spatial and temporal reference data, and associated analytical records while preserving provenance, original observations, processing history, version integrity, uncertainty, appropriate access, and the distinction between original records and subsequently reconstructed or interpreted information.
 
-### 15.2 Earth, Space, and Planetary Sciences Structural and Applicability Requirements
+#### 15.2 Earth, Space, and Planetary Sciences Structural and Applicability Requirements
 
 Every subordinate Alchemy under Earth, Space, and Planetary Sciences Alchemy must retain its own defined subject, purpose, methods, principles, scientific requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -3391,7 +3389,7 @@ These specialized Alchemies coordinate the preceding developmental, familial, de
 
 - **Human Mobility and Settlement Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between migration, population distribution, settlement development, urbanization, and their social, cultural, economic, and environmental conditions. It establishes methods for examining movement between locations, settlement patterns, population change, urban and rural relationships, displacement, integration, and the conditions influencing mobility while preserving geographic context, individual experiences, community perspectives, demographic distinctions, and the limitations of population-level explanations.
 
-### 16.2 Human Development and Civilization Structural and Applicability Requirements
+#### 16.2 Human Development and Civilization Structural and Applicability Requirements
 
 Every subordinate Alchemy under Human Development and Civilization Alchemy must retain its own defined subject, purpose, methods, principles, developmental requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -3608,7 +3606,7 @@ These specialized Alchemies coordinate the preceding digital, information, natio
 
 - **Adaptive Protection Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the improvement of protective systems through feedback, incident learning, changing conditions, revised assessments, and verified lessons. It establishes methods for identifying emerging risks, evaluating control performance, reviewing incidents, updating protective requirements, testing improvements, and documenting changes while preserving change authorization, evidence-based decisions, version integrity, proportionality, and the distinction between a proposed improvement and a verified enhancement.
 
-### 17.2 Security and Protection Structural and Applicability Requirements
+#### 17.2 Security and Protection Structural and Applicability Requirements
 
 Every subordinate Alchemy under Security and Protection Sciences Alchemy must retain its own defined subject, purpose, methods, principles, protective requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -3821,7 +3819,7 @@ These specializations coordinate the preceding disciplines without replacing or 
 
 - **Infrastructure Continuity Alchemy** — organizes, examines, develops, maintains, integrates, and transforms the arrangements necessary to maintain the availability, accessibility, integrity, and recoverability of essential infrastructure and transportation services during routine operation, scheduled maintenance, emergencies, and disruptions. It establishes methods for identifying essential functions, evaluating infrastructure dependencies, planning maintenance and alternative arrangements, coordinating authorized restoration activities, assessing recovery progress, and verifying the restoration of services while preserving operational accountability, resource traceability, public safety, and the distinction between planned continuity, temporary service restoration, and verified recovery.
 
-### 18.2 Transportation and Infrastructure Structural and Applicability Requirements
+#### 18.2 Transportation and Infrastructure Structural and Applicability Requirements
 
 Every subordinate Alchemy under Transportation and Infrastructure Alchemy must retain its own defined subject, purpose, methods, principles, operational responsibilities, requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -4021,7 +4019,7 @@ These specializations coordinate the preceding disciplines without replacing or 
 
 - **Biological Resource Production Alchemy** — organizes, examines, develops, maintains, integrates, and transforms the responsible cultivation, breeding, propagation, management, harvesting, renewal, and productive use of biological resources used for food, materials, and other authorized purposes. It establishes methods for identifying biological resource characteristics, coordinating cultivation and production conditions, evaluating growth and regeneration, managing relevant resource dependencies, and assessing production outcomes while preserving biological integrity, biodiversity, animal and plant welfare considerations, ecological sustainability, genetic and source provenance where relevant, and responsible stewardship of biological resources.
 
-### 19.2 Agriculture, Food, and Resource Sciences Structural and Applicability Requirements
+#### 19.2 Agriculture, Food, and Resource Sciences Structural and Applicability Requirements
 
 Every subordinate Alchemy under Agriculture, Food, and Resource Sciences Alchemy must retain its own defined subject, purpose, methods, principles, scientific responsibilities, resource-management requirements, relationships, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -4238,7 +4236,7 @@ These specializations coordinate the preceding disciplines without replacing or 
 
 - **Meta-Research Alchemy** — organizes, examines, develops, maintains, integrates, and transforms the examination, evaluation, comparison, and improvement of research practices, research quality, methodological reliability, reproducibility, evidence standards, reporting practices, and knowledge-producing processes. It establishes methods for reviewing research designs, comparing methodologies, assessing reporting quality, evaluating reproducibility and replication practices, identifying systematic sources of error or bias, examining research limitations, and developing methodological improvements while preserving research independence, intellectual honesty, source traceability, methodological transparency, and the distinction between an observed research limitation and a demonstrated failure of a particular finding.
 
-### 20.2 Meta-Knowledge Sciences Structural and Applicability Requirements
+#### 20.2 Meta-Knowledge Sciences Structural and Applicability Requirements
 
 Every subordinate Alchemy under Meta-Knowledge Sciences Alchemy must retain its own defined subject, purpose, methods, principles, epistemic responsibilities, methodological requirements, relationships, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
 
@@ -6175,6 +6173,8 @@ These specialize the root and layer Alchemies for the private/public distinction
 **C2O Body Alchemy** is the private-source specialization of root Body Alchemy. It identifies, classifies, establishes, organizes, integrates, maintains, evaluates, protects, recovers, renews, and transforms the physical, computational, logical, runtime, resource, and embodied structures operating within the 11 C2O ecosystem contexts. It applies C2O's internal company governance, private-source protections, assigned ownership and configuration responsibilities, evidence requirements, and operational boundaries to the corresponding underlying operating-system and application architecture.
 
 Its hierarchy is organized by the actual host and subject context. The operating-system and application branches contain the assistant and Guardian expressions that operate within those environments. C2O Intelligence is a separate core-intelligence context; it is not a UNIVERSALIN assistant or Guardian. The subordinate Alchemies below remain expressions of root Body Alchemy and inherit its applicable Substrate, Operating System Body, Application Body, Intelligence and Assistant Body, and Protective Body Alchemies.
+
+### C2O Body Alchemy
 
 #### 1. C2O Operating System Body Family
 
