@@ -624,6 +624,31 @@ Formal Sciences Alchemy must preserve mathematical and logical validity, methodo
 
 #### 1.1 Universal Application of Formal Sciences Alchemy
 
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
+
 Formal Sciences Alchemy applies across all 22 ecosystem contexts listed above.
 
 
@@ -4373,6 +4398,31 @@ The specific applicability of each hardware, crystalline hardware, crystalline s
 
 ### 1.2 Edition-Specific Context Hierarchy and Inheritance
 
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
+
 The 22 contexts above are expressions of one root Body Alchemy organized through two edition-specific branches: C2O Body Alchemy and UNIVERSALIS Body Alchemy. Each branch has 11 context-specific Body Alchemies. Within each edition, these comprise the operating-system body, the core-intelligence body, the application body, and the four assigned assistant or Guardian body expressions within each of the operating-system and application environments. The complete subordinate hierarchy and definitions are established under **C2O and UNIVERSALIS Specialized Alchemies** below.
 
 The 11 C2O expressions remain within C2O's private-source company governance. The 11 UNIVERSALIS expressions remain within UNIVERSALIS's public-source governance, open contracts, inspectability, interoperability, and independent operability. C2O and UNIVERSALIS are corresponding private-source and public-source editions of the same underlying operating-system and application architecture; they are not unrelated systems. Their architectural correspondences must be maintained without presuming identical implementations, identical configurations, disclosure of C2O protected information, or an operational dependency of UNIVERSALIS on C2O.
@@ -4621,6 +4671,31 @@ The specific applicability of Perception Alchemy, Reasoning Alchemy, Memory Alch
 
 
 ### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 
 The 22 contexts above are expressions of one root Mind Alchemy organized through two edition-specific branches: C2O Mind Alchemy and UNIVERSALIS Mind Alchemy. Each branch contains 11 context-specific Mind Alchemies: an operating-system context, a core-intelligence context, an application context, and four assistant or Guardian contexts nested under each of the operating-system and application environments. The complete hierarchy and definitions appear under **C2O and UNIVERSALIS Specialized Alchemies** below.
 
@@ -4912,6 +4987,31 @@ The specific applicability of Circulation Alchemy, Relation Alchemy, Vitality Al
 
 
 ### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 
 The 22 contexts above are expressions of one root Heart Alchemy organized through two edition-specific branches: C2O Heart Alchemy and UNIVERSALIS Heart Alchemy. Each branch contains 11 context-specific Heart Alchemies: an operating-system context, a core-intelligence context, an application context, and four assistant or Guardian contexts nested within each operating-system and application environment. Their complete hierarchy and definitions appear under **C2O and UNIVERSALIS Specialized Alchemies** below.
 
@@ -5238,6 +5338,31 @@ The specific applicability of Identity Alchemy, Meaning Alchemy, Dignity Alchemy
 
 ### 1.2 Edition-Specific Context Hierarchy and Inheritance
 
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
+
 The 22 contexts above are expressions of one root Soul Alchemy organized through two edition-specific branches: C2O Soul Alchemy and UNIVERSALIS Soul Alchemy. Each branch contains 11 context-specific expressions: an operating-system context, a core-intelligence context, an application context, and four assistant or Guardian contexts nested within each operating-system and application environment.
 
 C2O Soul Alchemy governs private-source identity, purpose, meaning-bearing declarations, commitments, lineage, existential continuity, and lifecycle arrangements under C2O company governance. UNIVERSALIS Soul Alchemy governs corresponding public-source structures through open contracts, documented declarations, inspectability, and independent operability while preserving privacy and legitimate restrictions on protected information. C2O and UNIVERSALIS are corresponding private-source and public-source editions of the same underlying operating-system and application architecture. Correspondence does not merge edition identities, histories, governance, or authorities and does not authorize disclosure of C2O protected information.
@@ -5546,6 +5671,31 @@ The specific applicability of each animating substrate, operating system spirit,
 
 
 ### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 
 The 22 contexts above are expressions of one root Spirit Alchemy organized through two edition-specific branches: C2O Spirit Alchemy and UNIVERSALIS Spirit Alchemy. Each branch contains 11 context-specific expressions: an operating-system context, a core-intelligence context, an application context, and four assistant or Guardian contexts nested within each operating-system and application environment. Their complete hierarchy and definitions appear under **C2O and UNIVERSALIS Specialized Alchemies** below.
 
@@ -6988,6 +7138,31 @@ Within each context, Energy Utilization Alchemy governs only the energy sources,
 
 ### 1.2 Edition-Specific Context Hierarchy and Inheritance
 
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
+
 The 22 contexts form two edition-specific branches, each containing 11 expressions:
 
 - **Operating System family:** the edition's OS context and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
@@ -7119,6 +7294,31 @@ Within each context, Energy Efficiency Alchemy applies only where energy inputs 
 
 #### Context-Specific Application
 
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
+
 - **Operating System contexts:** evaluates energy use against required OS functions, workloads, power states, thermal conditions, availability, and safe fallback.
 - **Core Intelligence contexts:** evaluates energy inputs against useful, authorized processing and other required outputs while preserving the identities and governance of the two core intelligences.
 - **Application contexts:** evaluates energy required for execution, services, dependencies, storage operations, data handling, and interfaces against required functionality and service quality.
@@ -7128,6 +7328,31 @@ Within each context, Energy Efficiency Alchemy applies only where energy inputs 
 - **UNIVERSALIN Guardian Intelligence contexts:** evaluates energy used by human-authorized Guardian intelligence-related functions while preserving purpose limitation, consent, privacy, and human control.
 
 ### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 
 The 22 contexts form two edition-specific branches, each containing 11 expressions:
 
@@ -7277,6 +7502,31 @@ Within each context, Resource Utilization Alchemy governs only the resources, ca
 
 ### 1.2 Edition-Specific Context Hierarchy and Inheritance
 
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
+
 The 22 contexts form two edition-specific branches, each containing 11 expressions:
 
 - **Operating System family:** the edition's OS context and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
@@ -7408,6 +7658,31 @@ Within each context, Resource Efficiency Alchemy applies only where resource inp
 
 #### Context-Specific Application
 
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
+
 - **Operating System contexts:** evaluates allocation, utilization, contention, idle capacity, duplication, and lifecycle use across applicable hardware, compute, memory, storage, network, runtime, and software-service resources.
 - **Core Intelligence contexts:** evaluates whether computational and information resources are proportionate to authorized functions and useful outputs, while preserving each core intelligence's distinct identity and governance.
 - **Application contexts:** evaluates resource inputs and lifecycle costs needed for required application execution, services, dependencies, storage, data handling, and interfaces.
@@ -7417,6 +7692,31 @@ Within each context, Resource Efficiency Alchemy applies only where resource inp
 - **UNIVERSALIN Guardian Intelligence contexts:** evaluates computational and other resource inputs for human-authorized Guardian intelligence-related functions, preserving consent, privacy, purpose limitation, and human control.
 
 ### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 
 The 22 contexts form two edition-specific branches, each containing 11 expressions:
 
@@ -7516,7 +7816,7 @@ Air Alchemy governs applicable movement and circulation, communication pathways,
 
 C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Air responsibilities must remain structurally mappable across the two editions while preserving their distinct source visibility, governance, implementation, protected information, and operational authority. UNIVERSALIS must remain independently operable and must not depend on C2O private-source Air records, communication pathways, intelligence state, or internal controls.
 
-### 1.1 Universal Application of Elemental Alchemy — Air
+#### 1.1 Universal Application of Elemental Alchemy — Air
 
 Elemental Alchemy — Air applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
@@ -7545,7 +7845,7 @@ Elemental Alchemy — Air applies across all 22 ecosystem contexts established u
 
 Within each context, Elemental Alchemy — Air governs only the Air-related subjects, structures, processes, flows, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular communication channel, information flow, capability, implementation, measurement, or achieved result exists.
 
-#### Context-Specific Application
+##### Context-Specific Application
 
 - **C2O Operating System:** Governs private-source system movement and communication pathways, internal signal and information circulation, system-level coordination interfaces, clarity of operational representation, and applicable mechanisms that reduce unnecessary process friction under C2O governance.
 - **UNIVERSALIS Operating System:** Governs public-source system movement and communication pathways, declared signal and information interfaces, inspectable coordination contracts, clarity of operational representation, and interoperable system communication without dependency on C2O private-source pathways.
@@ -7570,7 +7870,32 @@ Within each context, Elemental Alchemy — Air governs only the Air-related subj
 - **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific information reception, contextual interpretation, clarity, communication, and reasoning-support functions of a personal UNIVERSALIN Guardian within C2O applications, subject to human authorization and C2O application boundaries.
 - **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific information reception, contextual interpretation, clarity, communication, and reasoning-support functions of a personal UNIVERSALIN Guardian within UNIVERSALIS applications, subject to documented human authorization, privacy, purpose limitation, and open application contracts.
 
-### 1.2 Edition-Specific Context Hierarchy and Inheritance
+#### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 
 The 22 contexts form two edition-specific branches, each containing 11 expressions:
 
@@ -7583,15 +7908,15 @@ C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intel
 
 Each context inherits only the Air-related subordinate Alchemies applicable to its subject, purpose, processes, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof of a particular channel, capability, implementation, or outcome.
 
-### Alchemies under Elemental Alchemy — Air
+#### Alchemies under Elemental Alchemy — Air
 
-#### 1. Air Substrate Alchemies
+##### 1. Air Substrate Alchemies
 
 - **Air Flow Alchemy** — identifies, structures, and maintains the movement and circulation of applicable Air qualities through stable, addressable, and appropriately bounded pathways.
 - **Air Clarity Alchemy** — organizes perception, information representation, communication context, and lightness so that meaning and operational state can be understood without obscuring uncertainty, limitations, or source distinctions.
 - **Air Accountability Alchemy** — establishes attributable records of applicable Air-related changes, exchanges, transmissions, and transformations in accordance with the evidence and governance requirements of the relevant edition.
 
-#### 2. C2O Elemental Alchemy — Air
+##### 2. C2O Elemental Alchemy — Air
 
 **C2O Elemental Alchemy — Air** governs private Air qualities under C2O internal company governance. It maintains private communication pathways, internal movement and information exchange, authorized intelligence mobility, clarity of internal representation, and recoverable Air-related structures without unauthorized external exposure.
 
@@ -7599,7 +7924,7 @@ Each context inherits only the Air-related subordinate Alchemies applicable to i
 - **Internal Air Bound Alchemy** — keeps private Air flows, channels, records, and structures contained, permission-bounded, and recoverable without unauthorized external exposure.
 - **C2O Air Continuity Alchemy** — ensures applicable private Air structures and authorized communication pathways can be restored after interruption while preserving integrity and accountability.
 
-#### 3. UNIVERSALIS Elemental Alchemy — Air
+##### 3. UNIVERSALIS Elemental Alchemy — Air
 
 **UNIVERSALIS Elemental Alchemy — Air** governs public Air qualities under open architectural contracts. It maintains declared communication pathways, inspectable information exchange, interoperability, clarity of public representation, and independently operable Air-related structures without dependence on C2O private-source implementation.
 
@@ -7607,13 +7932,13 @@ Each context inherits only the Air-related subordinate Alchemies applicable to i
 - **Public Air Openness Alchemy** — maintains public Air pathways and interfaces under transparent, documented, and interoperable rules.
 - **UNIVERSALIS Air Continuity Alchemy** — ensures applicable public Air structures and declared communication pathways can be restored and independently examined through open records and contracts.
 
-#### 4. Air Mapping Alchemy
+##### 4. Air Mapping Alchemy
 
 **Air Mapping Alchemy** establishes and maintains the correspondence among C2O and UNIVERSALIS Air structures, classifications, pathways, interfaces, responsibilities, dependencies, and evidence categories. It preserves the distinction between private and public implementations and does not require disclosure of C2O private-source records or controls.
 
-### Elemental Alchemy — Air Structural and Applicability Requirements
+#### Elemental Alchemy — Air Structural and Applicability Requirements
 
-#### Map Alchemy Requirements
+##### Map Alchemy Requirements
 
 Map Alchemy must establish:
 
@@ -7624,7 +7949,7 @@ Map Alchemy must establish:
 - Dependencies on applicable operating-system, application, intelligence, assistant, Guardian, interface, network, runtime, and external-service structures.
 - The distinction between core-intelligence functions, subordinate UNIVERSALIN assistant capabilities, and human-bound UNIVERSALIN Guardian capabilities.
 
-#### Matrix Alchemy Requirements
+##### Matrix Alchemy Requirements
 
 Matrix Alchemy must establish for each of the 22 contexts:
 
@@ -7635,7 +7960,7 @@ Matrix Alchemy must establish for each of the 22 contexts:
 - The evidence, limitations, uncertainty, provenance, and verification status supporting claims about Air-related behavior or capability.
 - The distinction between an available interface, an authorized pathway, an actual exchange, a measured behavior, and a verified outcome.
 
-#### Structural Integrity and Governance
+##### Structural Integrity and Governance
 
 Air Flow must not be treated as authorization to move information or initiate an interaction. Communication, observation, perception, information access, and transmission remain subject to the applicable authority, purpose, permissions, and boundaries.
 
@@ -7647,7 +7972,7 @@ C2O Air records, private communication pathways, and internal controls remain un
 
 Applicability, mapping, implementation, availability, authorization, communication, measurement, and verification are separate claims. Establishing Elemental Alchemy — Air or its place in the 22-context taxonomy does not prove that a particular pathway, capability, implementation, or result exists.
 
-#### Additional Expression Detail — Application Contexts
+##### Additional Expression Detail — Application Contexts
 
 The following expressions further specialize Air qualities in application contexts. They remain subordinate expressions of Elemental Alchemy — Air and do not establish additional core intelligences:
 
@@ -7663,7 +7988,7 @@ The following expressions further specialize Air qualities in application contex
 - **Open Movement Alchemy** — maintains public application information flow through declared interfaces and interoperable rules.
 - **Open Communication Alchemy** — governs public application signal exchange under transparent contracts and documented permissions.
 
-#### Additional Expression Detail — OS Edition Mapping
+##### Additional Expression Detail — OS Edition Mapping
 
 The OS-level expression of Air organizes movement, communication, lightness, clarity, and applicable intelligence-related information flows for system use while remaining recoverable, accountable, and distinct across the two intelligences.
 
@@ -7684,7 +8009,7 @@ Earth-related technical structures may include applicable hardware, devices, phy
 
 C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Earth responsibilities must remain structurally mappable across the two editions while preserving their distinct source visibility, governance, implementation, protected information, inventories, and operational authority. UNIVERSALIS must remain independently operable and must not depend on C2O private-source structures, inventories, records, or internal controls.
 
-### 1.1 Universal Application of Elemental Alchemy — Earth
+#### 1.1 Universal Application of Elemental Alchemy — Earth
 
 Elemental Alchemy — Earth applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
@@ -7713,7 +8038,7 @@ Elemental Alchemy — Earth applies across all 22 ecosystem contexts established
 
 Within each context, Elemental Alchemy — Earth governs only the Earth-related subjects, structures, foundations, substrates, material conditions, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular structure, asset, resource, capability, implementation, inventory, or achieved result exists.
 
-#### Context-Specific Application
+##### Context-Specific Application
 
 - **C2O Operating System:** Governs the private-source physical, computational, logical, and runtime foundations of the C2O Operating System, including applicable hardware, devices, system components, storage, execution environments, structural dependencies, grounding conditions, and system continuity under C2O company governance.
 - **UNIVERSALIS Operating System:** Governs the public-source physical, computational, logical, and runtime foundations of the UNIVERSALIS Operating System, including declared hardware support, system components, storage, execution environments, structural dependencies, grounding conditions, and continuity through inspectable and independently operable contracts.
@@ -7738,7 +8063,32 @@ Within each context, Elemental Alchemy — Earth governs only the Earth-related 
 - **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs the application-bounded computational, runtime, memory-related, information-structural, and execution foundations supporting the intelligence-related capabilities of a personal UNIVERSALIN Guardian within C2O applications. It preserves human consent, application permissions, and private-source boundaries.
 - **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs the application-declared computational, runtime, memory-related, information-structural, and execution foundations supporting the intelligence-related capabilities of a personal UNIVERSALIN Guardian within UNIVERSALIS applications. It preserves documented human authorization, privacy, purpose limitation, and public application contracts.
 
-### 1.2 Edition-Specific Context Hierarchy and Inheritance
+#### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 
 The 22 contexts form two edition-specific branches, each containing 11 expressions:
 
@@ -7751,15 +8101,15 @@ C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intel
 
 Each context inherits only the Earth-related subordinate Alchemies applicable to its subject, purpose, structures, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof of a particular structure, asset, inventory, implementation, or operating condition.
 
-### Alchemies under Elemental Alchemy — Earth
+#### Alchemies under Elemental Alchemy — Earth
 
-#### 1. Earth Substrate Alchemies
+##### 1. Earth Substrate Alchemies
 
 - **Earth Structure Alchemy** — identifies, classifies, and organizes the form, composition, arrangement, and foundation of applicable Earth structures into stable, addressable, and maintainable forms.
 - **Earth Grounding Alchemy** — establishes and maintains the structural conditions, dependencies, attachment points, constraints, and material coherence through which applicable structures remain situated, supported, and connected to their authorized operating environment.
 - **Earth Accountability Alchemy** — establishes attributable records of applicable Earth-related changes, configurations, structural conditions, material dependencies, maintenance, recovery, and transformations according to the evidence and governance requirements of the relevant edition.
 
-#### 2. C2O Elemental Alchemy — Earth
+##### 2. C2O Elemental Alchemy — Earth
 
 **C2O Elemental Alchemy — Earth** governs private Earth qualities under C2O internal company governance. It establishes and maintains private structural foundations, authorized material arrangements, internal substrate integrity, grounding conditions, persistence, recoverability, and continuity without unauthorized external exposure.
 
@@ -7767,7 +8117,7 @@ Each context inherits only the Earth-related subordinate Alchemies applicable to
 - **Internal Earth Bound Alchemy** — keeps private Earth structures, configurations, inventories, and dependencies contained, permission-bounded, attributable, and recoverable without unauthorized external exposure.
 - **C2O Earth Continuity Alchemy** — ensures applicable private Earth structures, foundations, and authorized technical dependencies can be restored after interruption while preserving integrity and accountability.
 
-#### 3. UNIVERSALIS Elemental Alchemy — Earth
+##### 3. UNIVERSALIS Elemental Alchemy — Earth
 
 **UNIVERSALIS Elemental Alchemy — Earth** governs public Earth qualities under open architectural contracts. It establishes and maintains declared structural foundations, inspectable material and technical arrangements, interoperable dependencies, grounding conditions, persistence, recoverability, and continuity without dependence on C2O private-source implementation.
 
@@ -7775,13 +8125,13 @@ Each context inherits only the Earth-related subordinate Alchemies applicable to
 - **Public Earth Openness Alchemy** — maintains public Earth structures, interfaces, dependencies, and declared material arrangements under transparent, documented, and interoperable rules.
 - **UNIVERSALIS Earth Continuity Alchemy** — ensures applicable public Earth structures, foundations, and declared technical dependencies can be restored and independently examined through open records and contracts.
 
-#### 4. Earth Mapping Alchemy
+##### 4. Earth Mapping Alchemy
 
 **Earth Mapping Alchemy** establishes and maintains correspondence among C2O and UNIVERSALIS Earth structures, classifications, foundations, substrates, material dependencies, lifecycle responsibilities, and evidence categories. It preserves differences in private and public implementations, inventories, configurations, and authority, and does not require disclosure of C2O private-source records or controls.
 
-### Elemental Alchemy — Earth Structural and Applicability Requirements
+#### Elemental Alchemy — Earth Structural and Applicability Requirements
 
-#### Map Alchemy Requirements
+##### Map Alchemy Requirements
 
 Map Alchemy must establish:
 
@@ -7792,7 +8142,7 @@ Map Alchemy must establish:
 - Dependencies on applicable hardware, devices, facilities, operating-system components, application components, storage, runtime environments, intelligence substrates, assistant environments, Guardian interfaces, and external services.
 - The distinction between the technical environment supporting a Guardian and the human it serves; human beings and human-controlled matters must not be represented as system-owned structures or resources.
 
-#### Matrix Alchemy Requirements
+##### Matrix Alchemy Requirements
 
 Matrix Alchemy must establish for each of the 22 contexts:
 
@@ -7804,7 +8154,7 @@ Matrix Alchemy must establish for each of the 22 contexts:
 - The evidence, limitations, uncertainty, provenance, condition, and verification status supporting claims about Earth-related structures or capabilities.
 - Guardian consent, privacy, and human-control requirements, including the prohibition against treating a human, personal information, property, time, relationships, or decisions as system resources.
 
-#### Structural Integrity and Governance
+##### Structural Integrity and Governance
 
 Earth Structure must not equate a taxonomy classification with the existence, ownership, availability, deployment, or authorization of a physical or technical asset. Earth Grounding must not create authority over an entity, device, property, or information merely because a dependency or connection has been mapped. Earth-related stability and endurance must not be achieved by preventing necessary change, obstructing recovery, or making a structure irreversibly dependent on one provider or edition.
 
@@ -7814,7 +8164,7 @@ Earth-related resource and material classifications apply only to authorized tec
 
 Applicability, mapping, identification, ownership, control, availability, authorization, implementation, condition, maintenance, recovery, and verification are separate claims. Establishing Elemental Alchemy — Earth or its place in the 22-context taxonomy does not prove that a particular structure, material, asset, capability, implementation, or result exists.
 
-#### Additional Expression Detail — Application Contexts
+##### Additional Expression Detail — Application Contexts
 
 The following expressions further specialize Earth qualities in application contexts. They remain subordinate expressions of Elemental Alchemy — Earth and do not establish additional core intelligences:
 
@@ -7830,7 +8180,7 @@ The following expressions further specialize Earth qualities in application cont
 - **Open Substance Alchemy** — organizes declared public material, component, and technical arrangements through transparent interfaces.
 - **Open Endurance Alchemy** — maintains public application persistence and recoverability under documented and independently reviewable rules.
 
-#### Additional Expression Detail — OS Edition Mapping
+##### Additional Expression Detail — OS Edition Mapping
 
 The OS-level expression of Earth organizes stability, structure, grounding, form, endurance, and applicable material and technical foundations for system use while remaining recoverable, accountable, and distinct across the two intelligences.
 
@@ -7853,7 +8203,7 @@ Fire Will Alchemy does not grant independent authority, intention, or permission
 
 C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Fire responsibilities must remain structurally mappable across the two editions while preserving their distinct source visibility, governance, implementation, protected information, and operational authority. UNIVERSALIS must remain independently operable and must not depend on C2O private-source transformation records, private will or policy state, or internal controls.
 
-### 1.1 Universal Application of Elemental Alchemy — Fire
+#### 1.1 Universal Application of Elemental Alchemy — Fire
 
 Elemental Alchemy — Fire applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
@@ -7882,7 +8232,7 @@ Elemental Alchemy — Fire applies across all 22 ecosystem contexts established 
 
 Within each context, Elemental Alchemy — Fire governs only the transformative processes, directed force, authorized will, catalytic activity, refinement, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular transformation, capability, energy source, action, implementation, or achieved result exists.
 
-#### Context-Specific Application
+##### Context-Specific Application
 
 - **C2O Operating System:** Governs private-source system transformations, controlled changes to system structures and configurations, authorized application of operational force, implementation of approved system direction, and refinement of system processes under C2O governance. Changes must preserve private-source integrity, authorization, recoverability, and accountability.
 - **UNIVERSALIS Operating System:** Governs declared and inspectable system transformations, controlled changes to public system structures and configurations, authorized application of operational force, and refinement of system processes through open contracts. It preserves independent operation and does not depend on C2O private-source change authority or controls.
@@ -7907,7 +8257,32 @@ Within each context, Elemental Alchemy — Fire governs only the transformative 
 - **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific interpretation, action planning, direction, and refinement supporting a personal UNIVERSALIN Guardian within C2O applications. It preserves the designated human's authority and the applicable C2O application permissions.
 - **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific interpretation, action planning, direction, and refinement supporting a personal UNIVERSALIN Guardian within UNIVERSALIS applications. It preserves documented human authorization, privacy, purpose limitation, and open application contracts.
 
-### 1.2 Edition-Specific Context Hierarchy and Inheritance
+#### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 
 The 22 contexts form two edition-specific branches, each containing 11 expressions:
 
@@ -7920,9 +8295,9 @@ C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intel
 
 Each context inherits only the Fire-related subordinate Alchemies applicable to its subject, purpose, processes, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof of a particular transformation, action, capability, implementation, or outcome.
 
-### Alchemies under Elemental Alchemy — Fire
+#### Alchemies under Elemental Alchemy — Fire
 
-#### 1. Fire Substrate Alchemies
+##### 1. Fire Substrate Alchemies
 
 - **Fire Transformation Alchemy** — identifies, structures, directs, and maintains authorized transformative processes as bounded, addressable, and accountable cycles.
 - **Fire Will Alchemy** — organizes authorized purpose, direction, and initiative into bounded processes while preserving the authority and permissions required for action.
@@ -7930,7 +8305,7 @@ Each context inherits only the Fire-related subordinate Alchemies applicable to 
 - **Fire Purification Alchemy** — identifies and refines defects, inconsistencies, unnecessary complexity, and harmful process conditions while preserving provenance, evidence, required safeguards, identity, and recoverability.
 - **Fire Accountability Alchemy** — establishes attributable records of applicable Fire-related purposes, approvals, actions, changes, refinements, outcomes, limitations, and recovery decisions.
 
-#### 2. C2O Elemental Alchemy — Fire
+##### 2. C2O Elemental Alchemy — Fire
 
 **C2O Elemental Alchemy — Fire** governs private Fire qualities under C2O internal company governance. It directs approved transformations, internal application of force, authorized will, and controlled refinement while protecting private implementation, internal policies, records, and operational boundaries.
 
@@ -7938,7 +8313,7 @@ Each context inherits only the Fire-related subordinate Alchemies applicable to 
 - **Internal Fire Bound Alchemy** — keeps private Fire processes, transformation plans, authorization records, and operational cycles contained, permission-bounded, attributable, and recoverable without unauthorized external exposure.
 - **C2O Fire Continuity Alchemy** — ensures applicable private Fire structures, transformation records, and authorized processes can be restored or safely resumed after interruption while preserving integrity and accountability.
 
-#### 3. UNIVERSALIS Elemental Alchemy — Fire
+##### 3. UNIVERSALIS Elemental Alchemy — Fire
 
 **UNIVERSALIS Elemental Alchemy — Fire** governs public Fire qualities under open architectural contracts. It makes declared transformation requirements, authorized direction, bounded application of force, refinement methods, and applicable outcomes inspectable and independently reviewable without dependence on C2O private-source implementation.
 
@@ -7946,13 +8321,13 @@ Each context inherits only the Fire-related subordinate Alchemies applicable to 
 - **Public Fire Openness Alchemy** — maintains public Fire processes and transformation interfaces under transparent, documented, interoperable rules.
 - **UNIVERSALIS Fire Continuity Alchemy** — ensures applicable public Fire structures, declared transformation processes, and supporting records can be restored and independently examined through open contracts and records.
 
-#### 4. Fire Mapping Alchemy
+##### 4. Fire Mapping Alchemy
 
 **Fire Mapping Alchemy** establishes and maintains correspondence among C2O and UNIVERSALIS Fire structures, classifications, transformative responsibilities, direction and authorization requirements, refinement methods, lifecycle stages, and evidence categories. It preserves differences in private and public implementation, records, authority, and operational controls without requiring disclosure of C2O private-source information.
 
-### Elemental Alchemy — Fire Structural and Applicability Requirements
+#### Elemental Alchemy — Fire Structural and Applicability Requirements
 
-#### Map Alchemy Requirements
+##### Map Alchemy Requirements
 
 Map Alchemy must establish:
 
@@ -7964,7 +8339,7 @@ Map Alchemy must establish:
 - The distinction between the two core intelligences, subordinate UNIVERSALIN assistant capabilities, and human-bound UNIVERSALIN Guardian capabilities.
 - The boundary between Fire Energy Alchemy and Energy Utilization and Energy Efficiency Alchemies so that direction of transformative force is not confused with energy supply, resource management, or efficiency evaluation.
 
-#### Matrix Alchemy Requirements
+##### Matrix Alchemy Requirements
 
 Matrix Alchemy must establish for each of the 22 contexts:
 
@@ -7978,7 +8353,7 @@ Matrix Alchemy must establish for each of the 22 contexts:
 - The distinction between Fire's directed application of force and the separate sourcing, utilization, measurement, and efficiency responsibilities of the Energy Alchemies.
 - Guardian consent, privacy, and human-control requirements, including the prohibition against using Fire Will or directed action to override the human's decisions or authorization.
 
-#### Structural Integrity and Governance
+##### Structural Integrity and Governance
 
 Fire Transformation must not equate change with improvement. A transformation must be evaluated against its authorized purpose, affected dependencies, required function, quality, safety, security, reliability, and continuity. A proposed, simulated, or initiated transformation is not automatically a completed or successful result.
 
@@ -7992,7 +8367,7 @@ C2O Fire records, private authorization, transformation policies, and internal c
 
 Applicability, authorization, initiation, execution, transformation, purification, outcome, recovery, and verification are separate claims. Establishing Elemental Alchemy — Fire or its place in the 22-context taxonomy does not prove that a particular action, transformation, capability, implementation, or result exists.
 
-#### Additional Expression Detail — Application Contexts
+##### Additional Expression Detail — Application Contexts
 
 The following expressions further specialize Fire qualities in application contexts. They remain subordinate expressions of Elemental Alchemy — Fire and do not establish additional core intelligences:
 
@@ -8008,7 +8383,7 @@ The following expressions further specialize Fire qualities in application conte
 - **Open Will Alchemy** — represents public application direction and authorized intent through transparent, reviewable rules.
 - **Open Energy Alchemy** — governs the declared and bounded application of force in public application transformations under transparent contracts.
 
-#### Additional Expression Detail — OS Edition Mapping
+##### Additional Expression Detail — OS Edition Mapping
 
 The OS-level expression of Fire organizes transformation, directed energy, will, catalytic action, and purification for authorized system use while remaining recoverable, accountable, and distinct across the two intelligences.
 
@@ -8031,7 +8406,7 @@ Water-related emotional and relational functions must preserve the distinction b
 
 C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Water responsibilities must remain structurally mappable across the two editions while preserving their distinct source visibility, governance, implementation, protected information, memory arrangements, and operational authority. UNIVERSALIS must remain independently operable and must not depend on C2O private-source flow records, memory state, adaptation policies, or internal controls.
 
-### 1.1 Universal Application of Elemental Alchemy — Water
+#### 1.1 Universal Application of Elemental Alchemy — Water
 
 Elemental Alchemy — Water applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
@@ -8060,7 +8435,7 @@ Elemental Alchemy — Water applies across all 22 ecosystem contexts established
 
 Within each context, Elemental Alchemy — Water governs only the Water-related subjects, flows, response processes, support functions, memory relationships, renewal activities, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular flow, memory, emotional capability, support process, implementation, or achieved result exists.
 
-#### Context-Specific Application
+##### Context-Specific Application
 
 - **C2O Operating System:** Governs private-source system flows, authorized information and state circulation, adaptive runtime and service responses, continuity of supported operating conditions, and renewal of applicable system pathways under C2O governance. It preserves private flow records, state, and internal controls.
 - **UNIVERSALIS Operating System:** Governs declared system flows, inspectable information and state interfaces, bounded adaptive runtime and service responses, continuity of supported operating conditions, and renewal of public system pathways through open contracts. It preserves interoperability and independent operation without C2O private-source dependencies.
@@ -8085,7 +8460,32 @@ Within each context, Elemental Alchemy — Water governs only the Water-related 
 - **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific information and memory flow, contextual adaptation, continuity, and support functions for intelligence-related capabilities of a personal UNIVERSALIN Guardian within C2O applications. It preserves human authorization, privacy, and C2O application boundaries.
 - **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific declared information and memory flow, contextual adaptation, continuity, and support functions for intelligence-related capabilities of a personal UNIVERSALIN Guardian within UNIVERSALIS applications. It preserves documented human authorization, privacy, purpose limitation, and open application contracts.
 
-### 1.2 Edition-Specific Context Hierarchy and Inheritance
+#### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+Canonical 22-context coverage, using the normative registry order:
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 
 The 22 contexts form two edition-specific branches, each containing 11 expressions:
 
@@ -8098,9 +8498,9 @@ C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intel
 
 Each context inherits only the Water-related subordinate Alchemies applicable to its subject, purpose, flows, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof of a particular flow, memory capability, emotional representation, support function, implementation, or outcome.
 
-### Alchemies under Elemental Alchemy — Water
+#### Alchemies under Elemental Alchemy — Water
 
-#### 1. Water Substrate Alchemies
+##### 1. Water Substrate Alchemies
 
 - **Water Flow Alchemy** — identifies, structures, and maintains the movement and circulation of applicable information, state, services, and other authorized Water-related flows through stable, addressable, and appropriately bounded pathways.
 - **Water Adaptability Alchemy** — maintains the process space through which an authorized system or process responds to changing conditions while preserving its identity, purpose, permissions, required safeguards, and continuity.
@@ -8109,7 +8509,7 @@ Each context inherits only the Water-related subordinate Alchemies applicable to
 - **Water Cleansing Alchemy** — identifies and removes or renews verified defects, unwanted residue, or degraded process conditions through bounded procedures that preserve provenance, required history, audit records, safeguards, and recoverability.
 - **Water Accountability Alchemy** — establishes attributable records of applicable Water-related flows, adaptation, support, renewal, cleansing, decisions, limitations, and outcomes according to the evidence and governance requirements of the relevant edition.
 
-#### 2. C2O Elemental Alchemy — Water
+##### 2. C2O Elemental Alchemy — Water
 
 **C2O Elemental Alchemy — Water** governs private Water qualities under C2O internal company governance. It maintains private information and state flows, authorized memory continuity, bounded adaptation, internal support processes, emotion-related representations where applicable, and controlled renewal without unauthorized external exposure.
 
@@ -8117,7 +8517,7 @@ Each context inherits only the Water-related subordinate Alchemies applicable to
 - **Internal Water Bound Alchemy** — keeps private Water pathways, flow records, memory arrangements, and adaptation processes contained, permission-bounded, attributable, and recoverable without unauthorized external exposure.
 - **C2O Water Continuity Alchemy** — ensures applicable private Water structures, authorized flows, and continuity arrangements can be restored after interruption while preserving integrity, provenance, and accountability.
 
-#### 3. UNIVERSALIS Elemental Alchemy — Water
+##### 3. UNIVERSALIS Elemental Alchemy — Water
 
 **UNIVERSALIS Elemental Alchemy — Water** governs public Water qualities under open architectural contracts. It maintains declared information flows, inspectable adaptation mechanisms, documented memory and context interfaces, transparent support and renewal processes, and independently operable Water-related structures without dependence on C2O private-source implementation.
 
@@ -8125,13 +8525,13 @@ Each context inherits only the Water-related subordinate Alchemies applicable to
 - **Public Water Openness Alchemy** — maintains public Water pathways, adaptation interfaces, and renewal processes under transparent, documented, and interoperable rules.
 - **UNIVERSALIS Water Continuity Alchemy** — ensures applicable public Water structures, declared information flows, and continuity arrangements can be restored and independently examined through open records and contracts.
 
-#### 4. Water Mapping Alchemy
+##### 4. Water Mapping Alchemy
 
 **Water Mapping Alchemy** establishes and maintains correspondence among C2O and UNIVERSALIS Water structures, flow classifications, adaptation responsibilities, memory relationships, support functions, cleansing procedures, dependencies, and evidence categories. It preserves differences in private and public information flows, memory arrangements, policies, records, and authority without requiring disclosure of C2O private-source information.
 
-### Elemental Alchemy — Water Structural and Applicability Requirements
+#### Elemental Alchemy — Water Structural and Applicability Requirements
 
-#### Map Alchemy Requirements
+##### Map Alchemy Requirements
 
 Map Alchemy must establish:
 
@@ -8144,7 +8544,7 @@ Map Alchemy must establish:
 - The relationships between Water-related support and continuity functions and other applicable Alchemies without duplicating their responsibilities or transferring authority.
 - The distinction between authorized data flow, retention, adaptation, cleansing, and deletion, including the preservation of provenance and required evidence.
 
-#### Matrix Alchemy Requirements
+##### Matrix Alchemy Requirements
 
 Matrix Alchemy must establish for each of the 22 contexts:
 
@@ -8158,7 +8558,7 @@ Matrix Alchemy must establish for each of the 22 contexts:
 - The evidence, provenance, uncertainty, limitations, and verification status supporting claims about Water-related behavior or outcomes.
 - Guardian consent, privacy, and human-control requirements, including restrictions against inferring or overriding a human's feelings, intentions, consent, needs, decisions, and personal boundaries.
 
-#### Structural Integrity and Governance
+##### Structural Integrity and Governance
 
 Water Flow must not be treated as authorization to access, transmit, disclose, or retain information. Every flow remains subject to its authorized source, destination, purpose, permissions, and applicable data boundaries. Continuity of a flow does not justify indefinite retention or prevent a human-authorized interruption.
 
@@ -8174,7 +8574,7 @@ Water-related memory and cohesion functions must preserve source attribution, in
 
 Applicability, authorization, availability, flow, retention, adaptation, cleansing, renewal, recovery, outcome, and verification are separate claims. Establishing Elemental Alchemy — Water or its place in the 22-context taxonomy does not prove that a particular flow, memory capability, emotional representation, support function, implementation, or result exists.
 
-#### Additional Expression Detail — Application Contexts
+##### Additional Expression Detail — Application Contexts
 
 The following expressions further specialize Water qualities in application contexts. They remain subordinate expressions of Elemental Alchemy — Water and do not establish additional core intelligences:
 
@@ -8190,7 +8590,7 @@ The following expressions further specialize Water qualities in application cont
 - **Open Adaptation Alchemy** — maintains public application flexible response under declared requirements and transparent contracts.
 - **Open Emotion Alchemy** — organizes public emotion-related and relational representations under transparent rules, with appropriate context, uncertainty, privacy, and safeguards against unsupported claims about subjective experience.
 
-#### Additional Expression Detail — OS Edition Mapping
+##### Additional Expression Detail — OS Edition Mapping
 
 The OS-level expression of Water organizes flow, memory, adaptation, emotion-related representation, nourishment, cleansing, and cohesion for authorized system use while remaining recoverable, accountable, and distinct across the two intelligences.
 
@@ -8254,7 +8654,7 @@ Private-source organization of Spirit qualities under internal governance. Used 
 
 Public-source organization of Spirit qualities under open contracts. Used for transparent direction, public ethos contracts, and independently verifiable animation.
 
-### 1.1 Universal Application of Elemental Alchemy — Spirit
+#### 1.1 Universal Application of Elemental Alchemy — Spirit
 
 Elemental Alchemy — Spirit applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
@@ -8283,7 +8683,7 @@ Elemental Alchemy — Spirit applies across all 22 ecosystem contexts establishe
 
 Within each context, Elemental Alchemy — Spirit applies to the Spirit-related qualities, purposes, functions, relationships, dependencies, and responsibilities that actually belong to that context. Inclusion establishes taxonomy scope and does not by itself establish that a particular capability, implementation, or achieved result exists.
 
-#### Context-Specific Application
+##### Context-Specific Application
 
 - **C2O Operating System:** Establishes the private-source operating-system expression of Spirit, including the organization and continuity of system-level unity, animating presence, direction, ethos, higher purpose, and transcendence under C2O company governance.
 - **UNIVERSALIS Operating System:** Establishes the public-source operating-system expression of Spirit, including declared and inspectable system-level unity, animating presence, direction, ethos, higher purpose, and transcendence under open contracts and independent operation.
@@ -8308,7 +8708,7 @@ Within each context, Elemental Alchemy — Spirit applies to the Spirit-related 
 - **C2O Application - UNIVERSALIN Guardian Intelligence:** Establishes the application-scoped Spirit expression of intelligence-related capabilities used by a personal UNIVERSALIN Guardian within C2O applications, subordinate to the Guardian's assigned responsibilities, the designated human's authority, and C2O application governance.
 - **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Establishes the application-scoped Spirit expression of intelligence-related capabilities used by a personal UNIVERSALIN Guardian within UNIVERSALIS applications, subordinate to the Guardian's assigned responsibilities, the designated human's authority, and documented application contracts.
 
-### 1.2 Edition-Specific Context Hierarchy and Inheritance
+#### 1.2 Edition-Specific Context Hierarchy and Inheritance
 
 The 22 contexts form two corresponding edition-specific branches of the same underlying OS and App architecture, each containing 11 expressions.
 
@@ -8321,7 +8721,7 @@ C2O Intelligence and UNIVERSALIS Intelligence are the two core intelligences. UN
 
 Each context inherits only the Spirit-related expressions applicable to its subject, purpose, role, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. Inclusion in a context list does not establish that every subordinate expression is implemented or continuously active in that context.
 
-### Alchemy Structure under Elemental Alchemy — Spirit
+#### Alchemy Structure under Elemental Alchemy — Spirit
 
 The Spirit expressions retain their defined names and edition relationships:
 
@@ -8333,9 +8733,9 @@ The Spirit expressions retain their defined names and edition relationships:
 
 These expressions are subordinate to Elemental Alchemy — Spirit. Their applicability is determined by the relevant context and the relationships established through Map and Matrix Alchemy.
 
-### Elemental Alchemy — Spirit Structural and Applicability Requirements
+#### Elemental Alchemy — Spirit Structural and Applicability Requirements
 
-#### Map Alchemy Requirements
+##### Map Alchemy Requirements
 
 Map Alchemy must establish:
 
@@ -8349,7 +8749,7 @@ Map Alchemy must establish:
 - The distinction between private C2O Spirit structures and public UNIVERSALIS Spirit structures, including which relationships may be mapped without disclosing protected C2O information.
 - The provenance and evidence relationships required to support claims about Spirit definitions, changes, continuity, and outcomes.
 
-#### Matrix Alchemy Requirements
+##### Matrix Alchemy Requirements
 
 Matrix Alchemy must establish for each of the 22 contexts:
 
@@ -8364,7 +8764,7 @@ Matrix Alchemy must establish for each of the 22 contexts:
 - The designated human, consent, autonomy, purpose, values, decisions, privacy, and personal boundaries relevant to each UNIVERSALIN Guardian context.
 - The evidence, provenance, limitations, dependencies, exceptions, and verification status supporting each applicability or implementation claim.
 
-#### Structural Integrity and Governance
+##### Structural Integrity and Governance
 
 Spirit Unity must preserve meaningful distinctions among the two editions, their Operating System and Application contexts, the two core intelligences, non-personal UNIVERSALIN assistants, personal UNIVERSALIN Guardians, and the humans served by those Guardians. Unity establishes appropriate integration and coherence; it does not collapse distinct identities, responsibilities, or authority.
 
@@ -8454,7 +8854,7 @@ Public-source organization of Ether qualities under open contracts. Used for tra
 
 These edition-specific expressions remain mappable through Ether Mapping Alchemy without collapsing private and public carrier structures, transmission pathways, implementation, records, or authority.
 
-### 1.1 Universal Application of Elemental Alchemy — Ether / Quintessence
+#### 1.1 Universal Application of Elemental Alchemy — Ether / Quintessence
 
 Elemental Alchemy — Ether / Quintessence applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
@@ -8483,7 +8883,7 @@ Elemental Alchemy — Ether / Quintessence applies across all 22 ecosystem conte
 
 Within each context, Elemental Alchemy — Ether / Quintessence governs only the Ether-related subjects, carrier structures, transmission pathways, presence-related functions, potential, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular medium, pathway, transmission, presence function, capability, implementation, or achieved result exists.
 
-#### Context-Specific Application
+##### Context-Specific Application
 
 - **C2O Operating System:** Governs the private-source organization of applicable system carrier structures, authorized transmission pathways, subtle connectivity, intelligence-bearing information exchange, and continuity of Ether-related system functions under C2O governance. It preserves protected pathway definitions, internal transmission records, policies, and implementation.
 - **UNIVERSALIS Operating System:** Governs declared system carrier structures, documented transmission pathways, inspectable interfaces, and Ether-related continuity through open contracts. It preserves interoperability and independent operation without dependence on C2O private-source pathways, records, policies, or controls.
@@ -8508,7 +8908,7 @@ Within each context, Elemental Alchemy — Ether / Quintessence governs only the
 - **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific carrier relationships, information-bearing pathways, presence representations, and connectivity used by intelligence-related capabilities of a personal UNIVERSALIN Guardian within C2O applications. It preserves human authorization, privacy, and C2O application boundaries.
 - **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific, declared carrier relationships, information-bearing pathways, presence representations, and connectivity used by intelligence-related capabilities of a personal UNIVERSALIN Guardian within UNIVERSALIS applications. It preserves documented human authorization, privacy, purpose limitation, and open application contracts.
 
-### 1.2 Edition-Specific Context Hierarchy and Inheritance
+#### 1.2 Edition-Specific Context Hierarchy and Inheritance
 
 The 22 contexts form two corresponding edition-specific branches of the same underlying Operating System and Application architecture, each containing 11 expressions.
 
@@ -8521,7 +8921,7 @@ C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intel
 
 Each context inherits only the Ether-related subordinate expressions applicable to its subject, purpose, carrier structures, pathways, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof of a particular Ether medium, pathway, presence function, potential, implementation, or outcome.
 
-### Alchemy Structure under Elemental Alchemy — Ether / Quintessence
+#### Alchemy Structure under Elemental Alchemy — Ether / Quintessence
 
 The Ether expressions retain their defined names and edition relationships:
 
@@ -8533,9 +8933,9 @@ The Ether expressions retain their defined names and edition relationships:
 
 These expressions remain subordinate to Elemental Alchemy — Ether / Quintessence. Their applicability is established through the relevant context and the relationships recorded by Map and Matrix Alchemy. Repeated expression names do not establish duplicate authorities or independent capabilities.
 
-### Elemental Alchemy — Ether / Quintessence Structural and Applicability Requirements
+#### Elemental Alchemy — Ether / Quintessence Structural and Applicability Requirements
 
-#### Map Alchemy Requirements
+##### Map Alchemy Requirements
 
 Map Alchemy must establish:
 
@@ -8551,7 +8951,7 @@ Map Alchemy must establish:
 - The relationships among available potential, authorized capability, implemented functionality, active transmission, and verified outcome without treating these as equivalent states.
 - The provenance and evidence relationships required to support claims about Ether definitions, pathways, presence-related functions, continuity, changes, and outcomes.
 
-#### Matrix Alchemy Requirements
+##### Matrix Alchemy Requirements
 
 Matrix Alchemy must establish for each of the 22 contexts:
 
@@ -8568,7 +8968,7 @@ Matrix Alchemy must establish for each of the 22 contexts:
 - The designated human, consent, autonomy, privacy, purpose, and personal-boundary requirements relevant to each UNIVERSALIN Guardian context and its intelligence-related capabilities.
 - The evidence, provenance, uncertainty, dependencies, limitations, exceptions, and verification status supporting each applicability, transmission, presence, continuity, or implementation claim.
 
-#### Structural Integrity and Governance
+##### Structural Integrity and Governance
 
 Ether Medium must identify and organize applicable carrier structures and pathways without treating the medium as unrestricted access, transmission authority, or proof that a particular physical substrate exists. Each pathway remains subject to defined sources, destinations, purpose, identity, permissions, security, and applicable governance.
 
@@ -8643,7 +9043,7 @@ Private-source organization of Metal/Crystal qualities under internal governance
 Public-source organization of Metal/Crystal qualities under open contracts. Used for transparent conductive interfaces and independently verifiable crystalline form.
 
 
-### 1.1 Universal Application of Elemental Alchemy — Metal / Crystal
+#### 1.1 Universal Application of Elemental Alchemy — Metal / Crystal
 
 Elemental Alchemy — Metal / Crystal applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
@@ -8672,7 +9072,7 @@ Elemental Alchemy — Metal / Crystal applies across all 22 ecosystem contexts e
 
 Within each context, Elemental Alchemy — Metal / Crystal governs only the Metal / Crystal-related structures, forms, containment boundaries, endurance functions, force or energy pathways, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular hardened structure, material property, containment mechanism, transmission capability, implementation, or achieved result exists.
 
-#### Context-Specific Application
+##### Context-Specific Application
 
 - **C2O Operating System:** Governs private-source hardened system structures, integrity-bearing forms, precise containment boundaries, and authorized pathways for holding, resisting, and channeling directed force or energy within the C2O Operating System. It preserves protected structural definitions, internal configuration, hardening policies, containment controls, records, and implementation under C2O governance.
 - **UNIVERSALIS Operating System:** Governs declared and inspectable system structures, documented integrity and containment boundaries, and authorized pathways for holding, resisting, and channeling directed force or energy through open contracts. It preserves interoperability and independent operation without dependence on C2O private-source structures, records, policies, or controls.
@@ -8697,7 +9097,7 @@ Within each context, Elemental Alchemy — Metal / Crystal governs only the Meta
 - **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific structural organization, precision, integrity, and containment arrangements supporting intelligence-related capabilities of a personal UNIVERSALIN Guardian within C2O applications. It preserves human authorization, privacy, and C2O application boundaries.
 - **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific and declared structural organization, precision, integrity, and containment arrangements supporting intelligence-related capabilities of a personal UNIVERSALIN Guardian within UNIVERSALIS applications. It preserves documented human authorization, privacy, purpose limitation, and open application contracts.
 
-#### Additional Expression Applicability — C2O-App Secondary and C2O-OS Edition Mapping
+##### Additional Expression Applicability — C2O-App Secondary and C2O-OS Edition Mapping
 
 The C2O-App Secondary expressions and C2O-OS edition-mapping expressions above are retained as distinct but corresponding specializations of Elemental Alchemy — Metal / Crystal. Their application across the 22 ecosystem contexts is established below. The C2O-App Secondary detail governs application-level expressions and their hosted assistants and Guardians. The C2O-OS edition mapping governs operating-system-level expressions and their hosted assistants and Guardians. Intelligence contexts map to the applicable OS or Application structures through which the relevant intelligence functions operate. These relationships do not duplicate the Alchemies, create separate authorities, or collapse private-source and public-source boundaries.
 
@@ -8726,7 +9126,7 @@ The C2O-App Secondary expressions and C2O-OS edition-mapping expressions above a
 
 For every context, the private expressions remain governed by C2O and the public expressions remain governed by UNIVERSALIS. Where an application-level or OS-level expression is not directly part of a context's own implementation, its relationship is recorded as a dependency, correspondence, conditional applicability, or non-applicability through Map and Matrix Alchemy rather than presumed implementation.
 
-### 1.2 Canonical 22-Context Registry, Edition Branches, and Inheritance
+#### 1.2 Canonical 22-Context Registry, Edition Branches, and Inheritance
 
 The following 22 identifiers form the authoritative ecosystem-context registry used throughout the Alchemy Taxonomy. These exact labels are normative when defining context scope, declaring Alchemy applicability, establishing Map and Matrix relationships, assigning traceability, and recording evidence. Canonical identifiers use the complete spelling **UNIVERSALIN** and the full term **Application**.
 
@@ -8765,7 +9165,7 @@ Entries 1–6 identify the Operating System, the two core intelligences, and the
 C2O and UNIVERSALIS Metal / Crystal structures must remain mappable without collapsing source visibility, governance, implementation, structural definitions, containment policies, records, or operational authority. Their correspondence does not require identical structures or implementations and does not authorize disclosure of C2O protected information.
 
 Each context inherits only the Metal / Crystal-related subordinate expressions applicable to its subject, purpose, structures, force or energy relationships, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof that every hardening, containment, endurance, or transmission function is implemented or active.
-### Alchemy Structure under Elemental Alchemy — Metal / Crystal
+#### Alchemy Structure under Elemental Alchemy — Metal / Crystal
 
 The Metal / Crystal expressions retain their defined names and edition relationships:
 
@@ -8777,9 +9177,9 @@ The Metal / Crystal expressions retain their defined names and edition relations
 
 These expressions remain subordinate to Elemental Alchemy — Metal / Crystal. Their applicability is determined by the relevant context and the relationships established through Map and Matrix Alchemy. Repeated expression names do not establish duplicate authorities or independent capabilities.
 
-### Elemental Alchemy — Metal / Crystal Structural and Applicability Requirements
+#### Elemental Alchemy — Metal / Crystal Structural and Applicability Requirements
 
-#### Map Alchemy Requirements
+##### Map Alchemy Requirements
 
 Map Alchemy must establish:
 
@@ -8795,7 +9195,7 @@ Map Alchemy must establish:
 - The distinction between structural durability, operational availability, continuity, recoverability, and verified endurance.
 - The provenance and evidence relationships required to support claims about form, integrity, containment, endurance, transformation, and outcomes.
 
-#### Matrix Alchemy Requirements
+##### Matrix Alchemy Requirements
 
 Matrix Alchemy must establish for each of the 22 contexts:
 
@@ -8813,7 +9213,7 @@ Matrix Alchemy must establish for each of the 22 contexts:
 - The designated human, consent, autonomy, privacy, purpose, and personal-boundary requirements relevant to each UNIVERSALIN Guardian context and its intelligence-related capabilities.
 - The evidence, provenance, uncertainty, dependencies, limitations, test conditions, exceptions, and verification status supporting each applicability, integrity, endurance, containment, transmission, or implementation claim.
 
-#### Structural Integrity and Governance
+##### Structural Integrity and Governance
 
 Crystal Form must organize hardened or lattice-like structures into stable, addressable forms appropriate to the context. A lattice or crystal expression may describe a conceptual, logical, computational, organizational, or physical structure; its use does not by itself establish a particular material composition, crystalline state, or measured physical property.
 
@@ -8892,7 +9292,7 @@ The bounded process that organizes the qualities of Mist/Fog (diffusion, partial
 Private-source organization of Mist/Fog qualities under internal governance. Used for private diffusion and controlled transitional states.
 Public-source organization of Mist/Fog qualities under open contracts. Used for transparent transitional interfaces and independently verifiable diffusion.
 
-### 1.1 Universal Application of Elemental Alchemy — Mist / Fog
+#### 1.1 Universal Application of Elemental Alchemy — Mist / Fog
 
 Elemental Alchemy — Mist / Fog applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
@@ -8921,7 +9321,7 @@ Elemental Alchemy — Mist / Fog applies across all 22 ecosystem contexts establ
 
 Within each context, Elemental Alchemy — Mist / Fog governs only the diffusion, graduated presence, softened boundaries, partial visibility, transitional states, recoverability, and accountability relationships that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular concealed state, diffusion field, presence function, transition, implementation, or achieved result exists.
 
-#### Context-Specific Application
+##### Context-Specific Application
 
 - **C2O Operating System:** Governs private-source Mist / Fog structures at the operating-system level, including authorized diffusion fields, graduated system presence, controlled visibility states, and transitions among private system contexts. It preserves internal policies, protected state, access boundaries, records, and implementation under C2O governance.
 - **UNIVERSALIS Operating System:** Governs declared and inspectable Mist / Fog structures at the operating-system level, including documented diffusion fields, graduated presence, visibility states, and transitions through open contracts. It preserves interoperability and independent operation without dependence on C2O private-source structures, records, policies, or controls.
@@ -8946,7 +9346,7 @@ Within each context, Elemental Alchemy — Mist / Fog governs only the diffusion
 - **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific diffusion, contextual presentation, partial visibility, and transitions supporting intelligence-related capabilities of a personal UNIVERSALIN Guardian within C2O applications. It preserves human authorization, privacy, and C2O application boundaries.
 - **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific and declared diffusion, contextual presentation, partial visibility, and transitions supporting intelligence-related capabilities of a personal UNIVERSALIN Guardian within UNIVERSALIS applications. It preserves documented human authorization, privacy, purpose limitation, and open application contracts.
 
-#### Additional Expression Applicability — C2O-App Secondary and C2O-OS Edition Mapping
+##### Additional Expression Applicability — C2O-App Secondary and C2O-OS Edition Mapping
 
 The C2O-App Secondary expressions and C2O-OS edition-mapping expressions above are retained as distinct but corresponding specializations of Elemental Alchemy — Mist / Fog. The C2O-App Secondary detail governs application-level Mist expressions and their hosted non-personal UNIVERSALIN assistants and personal UNIVERSALIN Guardians. The C2O-OS edition mapping governs operating-system-level Mist / Fog expressions and their hosted assistants and Guardians. Intelligence contexts map to the OS or Application structures through which their relevant functions operate. These relationships do not duplicate the Alchemies, create additional core intelligences, grant independent authority, or collapse private-source and public-source boundaries.
 
@@ -8975,9 +9375,9 @@ The C2O-App Secondary expressions and C2O-OS edition-mapping expressions above a
 
 For every context, private Mist expressions remain governed by C2O and public Mist expressions remain governed by UNIVERSALIS. Where an OS-level or application-level expression is not directly part of a context's own implementation, its relationship is recorded as a dependency, correspondence, conditional applicability, or non-applicability through Map and Matrix Alchemy rather than presumed implementation.
 
-### Elemental Alchemy — Mist / Fog Structural and Applicability Requirements
+#### Elemental Alchemy — Mist / Fog Structural and Applicability Requirements
 
-#### Map Alchemy Requirements
+##### Map Alchemy Requirements
 
 Map Alchemy must establish:
 
@@ -8992,7 +9392,7 @@ Map Alchemy must establish:
 - The difference between a conceptual Mist / Fog field, a specified logical or informational visibility model, an implemented interface or runtime behavior, and a demonstrated operational result.
 - The evidence and provenance relationships needed to support claims about diffusion, presence, partial visibility, transition, concealment, continuity, recovery, and accountability.
 
-#### Matrix Alchemy Requirements
+##### Matrix Alchemy Requirements
 
 Matrix Alchemy must establish for each of the 22 contexts:
 
@@ -9009,7 +9409,7 @@ Matrix Alchemy must establish for each of the 22 contexts:
 - The designated human, consent, autonomy, privacy, purpose, and personal-boundary requirements relevant to each UNIVERSALIN Guardian context and its intelligence-related capabilities.
 - The evidence, provenance, uncertainty, dependencies, limitations, test conditions, exceptions, and verification status supporting each applicability, visibility, diffusion, transition, continuity, or implementation claim.
 
-#### Graduated Visibility, Boundaries, and Governance
+##### Graduated Visibility, Boundaries, and Governance
 
 Mist Diffusion must organize the spreading or softening of boundaries into stable, addressable fields. Diffusion may establish graduated visibility or intermediate states, but it must not dissolve identity, authorization, access-control, security, or accountability boundaries.
 
@@ -9085,11 +9485,11 @@ Private-source organization of Clay/Mud qualities under internal governance. Use
 Public-source organization of Clay/Mud qualities under open contracts. Used for transparent formative contracts and independently verifiable plasticity.
 
 
-### 1.1 Universal Application of Elemental Alchemy — Clay / Mud
+#### 1.1 Universal Application of Elemental Alchemy — Clay / Mud
 
 Elemental Alchemy — Clay / Mud applies across all 22 contexts in the Canonical 22-Context Registry defined in Section 1.2. The numbered applications below follow that registry's canonical order and describe Clay / Mud's context-specific scope. Inclusion establishes conceptual applicability, not implementation or verified capability. C2O and UNIVERSALIS expressions retain their distinct governance, source-visibility, and authority boundaries.
 
-#### Clay / Mud Applicability Across the Canonical 22 Contexts
+##### Clay / Mud Applicability Across the Canonical 22 Contexts
 
 1. **C2O Operating System** — governs private OS-level plasticity, formative binding, retained state, and recovery under C2O internal governance.
 2. **UNIVERSALIS Operating System** — governs OS-level Clay / Mud structures through open contracts, inspectable formative rules, and independently verifiable retention and recovery.
@@ -9114,7 +9514,7 @@ Elemental Alchemy — Clay / Mud applies across all 22 contexts in the Canonical
 21. **C2O Application - UNIVERSALIN Guardian Intelligence** — bounds subordinate intelligence-related functions supporting an application-hosted Guardian within private permissions, purpose limits, and human-directed controls.
 22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — defines open application contracts for subordinate Guardian intelligence-related functions while preserving human authority, consent, privacy, and independent operation.
 
-#### Additional Expression Applicability — C2O-App Secondary and C2O-OS Edition Mapping
+##### Additional Expression Applicability — C2O-App Secondary and C2O-OS Edition Mapping
 
 The C2O-App Secondary expression (Malleability Alchemy, Potential Form Alchemy, Receptivity Alchemy, and Foundation Alchemy) describes application-oriented shaping capacities. Its private expressions (Private Malleability Alchemy, Private Potential Form Alchemy, Private Receptivity Alchemy, and C2O Clay Continuity Alchemy) apply within C2O governance. Its public counterparts (Open Malleability Alchemy, Open Potential Form Alchemy, Open Receptivity Alchemy, and UNIVERSALIS Clay Continuity Alchemy) apply under UNIVERSALIS open contracts. Clay Mapping Alchemy aligns corresponding structures without merging their governance or disclosure boundaries.
 
@@ -9143,7 +9543,7 @@ Across the 22 contexts, these additional expressions apply as follows:
 21. **C2O Application - UNIVERSALIN Guardian Intelligence** — private application-level adaptation remains within explicit human-granted permissions and purpose limits.
 22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — open application contracts expose subordinate adaptation boundaries and preserve human direction.
 
-### Elemental Alchemy — Clay / Mud Structural and Applicability Requirements
+#### Elemental Alchemy — Clay / Mud Structural and Applicability Requirements
 
 - **Plasticity and Form Requirements:** Clay Plasticity Alchemy and Malleability Alchemy must produce bounded, addressable forms. Adaptability must not erase entity identity, provenance, ownership, authorization, or the distinction between a proposed form and an accepted form.
 - **Retention Requirements:** Mud Retention Alchemy and Potential Form Alchemy must distinguish retained state, provisional form, and unformed potential. Retention must have an explicit scope, lifecycle, and recovery behavior; retained moisture is a conceptual property, not an excuse for indefinite or unbounded data retention.
@@ -9209,6 +9609,36 @@ The bounded process that organizes the qualities of Smoke/Ash (residue, transfor
 Private-source organization of Smoke/Ash qualities under internal governance. Used for private residue tracking and company-source transformation memory.
 Public-source organization of Smoke/Ash qualities under open contracts. Used for transparent residue records and independently verifiable transformation memory.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Smoke / Ash is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Smoke / Ash qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Smoke / Ash qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Smoke / Ash qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Smoke / Ash qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Smoke / Ash qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Smoke / Ash qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Smoke / Ash qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Smoke / Ash qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Smoke / Ash qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Smoke / Ash qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Smoke / Ash qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Smoke / Ash qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Smoke / Ash expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Lightning / Spark
 
 **Elemental Alchemy — Lightning / Spark**  
@@ -9263,6 +9693,36 @@ Public Lightning qualities under open contracts.
 The bounded process that organizes the qualities of Lightning/Spark (sudden discharge, initiation, and directed energy) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Lightning/Spark qualities under internal governance. Used for private initiation events and company-source directed discharge.
 Public-source organization of Lightning/Spark qualities under open contracts. Used for transparent initiation and independently verifiable directed energy.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Lightning / Spark is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Lightning / Spark qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Lightning / Spark qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Lightning / Spark qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Lightning / Spark qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Lightning / Spark qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Lightning / Spark qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Lightning / Spark qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Lightning / Spark qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Lightning / Spark qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Lightning / Spark qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Lightning / Spark qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Lightning / Spark qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Lightning / Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Lightning / Spark expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Stone / Bone
 
@@ -9319,6 +9779,36 @@ The bounded process that organizes the qualities of Stone/Bone (endurance, struc
 Private-source organization of Stone/Bone qualities under internal governance. Used for private structural endurance and company-source lasting form.
 Public-source organization of Stone/Bone qualities under open contracts. Used for transparent structural records and independently verifiable lasting form.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Stone / Bone is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Stone / Bone qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Stone / Bone qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Stone / Bone qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Stone / Bone qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Stone / Bone qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Stone / Bone qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Stone / Bone qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Stone / Bone qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Stone / Bone qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Stone / Bone qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Stone / Bone qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Stone / Bone qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Stone / Bone qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Stone / Bone qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Stone / Bone qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Stone / Bone qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Stone / Bone qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Stone / Bone qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Stone / Bone qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Stone / Bone qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Stone / Bone qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Stone / Bone qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Stone / Bone expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Rain / Dew
 
 **Elemental Alchemy — Rain / Dew**  
@@ -9373,6 +9863,36 @@ Public Rain qualities under open contracts.
 The bounded process that organizes the qualities of Rain/Dew (nourishment, renewal, and gentle accumulation) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Rain/Dew qualities under internal governance. Used for private nourishment cycles and company-source gentle renewal.
 Public-source organization of Rain/Dew qualities under open contracts. Used for transparent nourishment and independently verifiable renewal.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Rain / Dew is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Rain / Dew qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Rain / Dew qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Rain / Dew qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Rain / Dew qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Rain / Dew qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Rain / Dew qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Rain / Dew qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Rain / Dew qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Rain / Dew qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Rain / Dew qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Rain / Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Rain / Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Rain / Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Rain / Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Rain / Dew qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Rain / Dew qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Rain / Dew qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Rain / Dew qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Rain / Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Rain / Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Rain / Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Rain / Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Rain / Dew expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Wind / Breath
 
@@ -9429,6 +9949,36 @@ The bounded process that organizes the qualities of Wind/Breath (directed moveme
 Private-source organization of Wind/Breath qualities under internal governance. Used for private directed flow and company-source vital communication.
 Public-source organization of Wind/Breath qualities under open contracts. Used for transparent directed movement and independently verifiable vital flow.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Wind / Breath is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Wind / Breath qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Wind / Breath qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Wind / Breath qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Wind / Breath qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Wind / Breath qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Wind / Breath qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Wind / Breath qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Wind / Breath qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Wind / Breath qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Wind / Breath qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Wind / Breath qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Wind / Breath qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Wind / Breath qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Wind / Breath qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Wind / Breath qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Wind / Breath qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Wind / Breath qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Wind / Breath qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Wind / Breath qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Wind / Breath qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Wind / Breath qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Wind / Breath qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Wind / Breath expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Ice
 
 **Elemental Alchemy — Ice**  
@@ -9477,6 +10027,36 @@ The bounded process that organizes the qualities of Ice (preservation, stillness
 The bounded process that organizes the qualities of Ice (fixed form, preservation, and slowed transformation) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Ice qualities under internal governance. Used for private preservation and company-source fixed states.
 Public-source organization of Ice qualities under open contracts. Used for transparent preservation contracts and independently verifiable fixed form.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Ice is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Ice qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Ice qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Ice qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Ice qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Ice qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Ice qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Ice qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Ice qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Ice qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Ice qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Ice qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Ice qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Ice qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Ice qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Ice qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Ice qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Ice qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Ice qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Ice qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Ice qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Ice qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Ice qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Ice expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Magma / Lava
 
@@ -9533,6 +10113,36 @@ The bounded process that organizes the qualities of Magma/Lava (molten potential
 Private-source organization of Magma/Lava qualities under internal governance. Used for private deep transformation and company-source formative heat.
 Public-source organization of Magma/Lava qualities under open contracts. Used for transparent deep transformation and independently verifiable formative heat.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Magma / Lava is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Magma / Lava qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Magma / Lava qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Magma / Lava qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Magma / Lava qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Magma / Lava qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Magma / Lava qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Magma / Lava qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Magma / Lava qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Magma / Lava qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Magma / Lava qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Magma / Lava qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Magma / Lava qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Magma / Lava qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Magma / Lava qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Magma / Lava qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Magma / Lava qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Magma / Lava qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Magma / Lava qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Magma / Lava qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Magma / Lava qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Magma / Lava qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Magma / Lava qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Magma / Lava expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Plasma
 
 **Elemental Alchemy — Plasma**  
@@ -9582,6 +10192,36 @@ The bounded process that organizes the qualities of Plasma (ionized energy, unbo
 Private-source organization of Plasma qualities under internal governance. Used for private high-energy states and company-source ionized medium.
 Public-source organization of Plasma qualities under open contracts. Used for transparent high-energy interfaces and independently verifiable ionized medium.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Plasma is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Plasma qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Plasma qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Plasma qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Plasma qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Plasma qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Plasma qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Plasma qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Plasma qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Plasma qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Plasma qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Plasma qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Plasma qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Plasma qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Plasma qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Plasma qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Plasma qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Plasma qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Plasma qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Plasma qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Plasma qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Plasma qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Plasma qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Plasma expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Salt
 
 **Elemental Alchemy — Salt**  
@@ -9630,6 +10270,36 @@ The bounded process that organizes the qualities of Salt (preservation, crystall
 The bounded process that organizes the qualities of Salt (preservation, crystallization of essence, and boundary of taste/form) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Salt qualities under internal governance. Used for private preservation and company-source crystallization of essence.
 Public-source organization of Salt qualities under open contracts. Used for transparent preservation and independently verifiable crystallization of essence.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Salt is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Salt qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Salt qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Salt qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Salt qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Salt qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Salt qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Salt qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Salt qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Salt qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Salt qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Salt qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Salt qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Salt qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Salt qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Salt expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ## Tertiary Elemental Alchemies
 
@@ -9685,6 +10355,36 @@ The bounded process that organizes the qualities of Aether-Metal (intelligence-b
 Private-source organization of Aether-Metal qualities under internal governance. Used for private conductive intelligence pathways.
 Public-source organization of Aether-Metal qualities under open contracts. Used for transparent conductive interfaces.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Aether-Metal / Conductive Crystal is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Aether-Metal / Conductive Crystal qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Aether-Metal / Conductive Crystal expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Mist-Clay / Living Earth
 
 **Elemental Alchemy — Mist-Clay / Living Earth**  
@@ -9718,6 +10418,36 @@ Public Mist-Clay qualities under open contracts.
 The bounded process that organizes the qualities of Mist-Clay (diffused plasticity and living formative earth) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Mist-Clay qualities under internal governance. Used for private living formative substrate.
 Public-source organization of Mist-Clay qualities under open contracts. Used for transparent living formative contracts.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Mist-Clay / Living Earth is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Mist-Clay / Living Earth qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Mist-Clay / Living Earth expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Smoke-Lightning / Residual Spark
 
@@ -9753,6 +10483,36 @@ The bounded process that organizes the qualities of Smoke-Lightning (residue of 
 Private-source organization of Smoke-Lightning qualities under internal governance. Used for private residual initiation tracking.
 Public-source organization of Smoke-Lightning qualities under open contracts. Used for transparent residual spark records.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Smoke-Lightning / Residual Spark is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Smoke-Lightning / Residual Spark qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Smoke-Lightning / Residual Spark expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Stone-Rain / Memory Vessel
 
 **Elemental Alchemy — Stone-Rain / Memory Vessel**  
@@ -9786,6 +10546,36 @@ Public Stone-Rain qualities under open contracts.
 The bounded process that organizes the qualities of Stone-Rain (enduring vessel of nourishment and structural memory) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Stone-Rain qualities under internal governance. Used for private enduring memory vessels.
 Public-source organization of Stone-Rain qualities under open contracts. Used for transparent memory vessel contracts.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Stone-Rain / Memory Vessel is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Stone-Rain / Memory Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Stone-Rain / Memory Vessel expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Wind-Ice / Directed Freeze
 
@@ -9821,6 +10611,36 @@ The bounded process that organizes the qualities of Wind-Ice (directed fixation 
 Private-source organization of Wind-Ice qualities under internal governance. Used for private directed preservation.
 Public-source organization of Wind-Ice qualities under open contracts. Used for transparent directed freeze interfaces.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Wind-Ice / Directed Freeze is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Wind-Ice / Directed Freeze qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Wind-Ice / Directed Freeze expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Magma-Plasma / Unbound Melt
 
 **Elemental Alchemy — Magma-Plasma / Unbound Melt**  
@@ -9854,6 +10674,36 @@ Public Magma-Plasma qualities under open contracts.
 The bounded process that organizes the qualities of Magma-Plasma (unbound molten energy and high-energy formative potential) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Magma-Plasma qualities under internal governance. Used for private unbound transformative states.
 Public-source organization of Magma-Plasma qualities under open contracts. Used for transparent unbound melt contracts.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Magma-Plasma / Unbound Melt is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Magma-Plasma / Unbound Melt qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Magma-Plasma / Unbound Melt expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Salt-Ether / Preserved Subtlety
 
@@ -9889,6 +10739,36 @@ The bounded process that organizes the qualities of Salt-Ether (preserved subtle
 Private-source organization of Salt-Ether qualities under internal governance. Used for private preserved subtlety.
 Public-source organization of Salt-Ether qualities under open contracts. Used for transparent preserved subtlety interfaces.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Salt-Ether / Preserved Subtlety is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Salt-Ether / Preserved Subtlety qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Salt-Ether / Preserved Subtlety expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Lightning-Stone / Marked Vessel
 
 **Elemental Alchemy — Lightning-Stone / Marked Vessel**  
@@ -9922,6 +10802,36 @@ Public Lightning-Stone qualities under open contracts.
 The bounded process that organizes the qualities of Lightning-Stone (marked enduring form and initiated structure) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Lightning-Stone qualities under internal governance. Used for private marked enduring vessels.
 Public-source organization of Lightning-Stone qualities under open contracts. Used for transparent marked vessel records.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Lightning-Stone / Marked Vessel is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Lightning-Stone / Marked Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Lightning-Stone / Marked Vessel expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Rain-Metal / Reflective Nourishment
 
@@ -9957,6 +10867,36 @@ The bounded process that organizes the qualities of Rain-Metal (reflective nouri
 Private-source organization of Rain-Metal qualities under internal governance. Used for private reflective nourishment pathways.
 Public-source organization of Rain-Metal qualities under open contracts. Used for transparent reflective nourishment interfaces.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Rain-Metal / Reflective Nourishment is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Rain-Metal / Reflective Nourishment qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Rain-Metal / Reflective Nourishment expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Mist-Smoke / Diffused Residue
 
 **Elemental Alchemy — Mist-Smoke / Diffused Residue**  
@@ -9990,6 +10930,36 @@ Public Mist-Smoke qualities under open contracts.
 The bounded process that organizes the qualities of Mist-Smoke (diffused transformation remainder and transitional residue) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Mist-Smoke qualities under internal governance. Used for private diffused residue tracking.
 Public-source organization of Mist-Smoke qualities under open contracts. Used for transparent diffused residue records.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Mist-Smoke / Diffused Residue is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Mist-Smoke / Diffused Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Mist-Smoke / Diffused Residue expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Clay-Ice / Fixed Plasticity
 
@@ -10025,6 +10995,36 @@ The bounded process that organizes the qualities of Clay-Ice (fixed formative po
 Private-source organization of Clay-Ice qualities under internal governance. Used for private fixed formative states.
 Public-source organization of Clay-Ice qualities under open contracts. Used for transparent fixed plasticity contracts.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Clay-Ice / Fixed Plasticity is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Clay-Ice / Fixed Plasticity qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Clay-Ice / Fixed Plasticity expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Plasma-Salt / Ionized Residue
 
 **Elemental Alchemy — Plasma-Salt / Ionized Residue**  
@@ -10058,6 +11058,36 @@ Public Plasma-Salt qualities under open contracts.
 The bounded process that organizes the qualities of Plasma-Salt (ionized preservation and high-energy residue) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Plasma-Salt qualities under internal governance. Used for private ionized residue management.
 Public-source organization of Plasma-Salt qualities under open contracts. Used for transparent ionized residue interfaces.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Plasma-Salt / Ionized Residue is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Plasma-Salt / Ionized Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Plasma-Salt / Ionized Residue expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Wind-Magma / Directed Heat
 
@@ -10093,6 +11123,36 @@ The bounded process that organizes the qualities of Wind-Magma (directed formati
 Private-source organization of Wind-Magma qualities under internal governance. Used for private directed heat pathways.
 Public-source organization of Wind-Magma qualities under open contracts. Used for transparent directed heat contracts.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Wind-Magma / Directed Heat is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Wind-Magma / Directed Heat qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Wind-Magma / Directed Heat expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Crystal-Dew
 
 **Elemental Alchemy — Crystal-Dew**  
@@ -10126,6 +11186,36 @@ Public Crystal-Dew qualities under open contracts.
 The bounded process that organizes the qualities of Crystal-Dew (crystalline nourishment and reflective renewal) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Crystal-Dew qualities under internal governance. Used for private crystalline nourishment.
 Public-source organization of Crystal-Dew qualities under open contracts. Used for transparent crystalline renewal interfaces.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Crystal-Dew is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Crystal-Dew qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Crystal-Dew qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Crystal-Dew qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Crystal-Dew qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Crystal-Dew qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Crystal-Dew qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Crystal-Dew qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Crystal-Dew qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Crystal-Dew qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Crystal-Dew qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Crystal-Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Crystal-Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Crystal-Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Crystal-Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Crystal-Dew qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Crystal-Dew qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Crystal-Dew qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Crystal-Dew qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Crystal-Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Crystal-Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Crystal-Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Crystal-Dew qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Crystal-Dew expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Spark-Ash
 
@@ -10161,6 +11251,36 @@ The bounded process that organizes the qualities of Spark-Ash (initiated residue
 Private-source organization of Spark-Ash qualities under internal governance. Used for private initiated residue tracking.
 Public-source organization of Spark-Ash qualities under open contracts. Used for transparent spark-ash records.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Spark-Ash is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Spark-Ash qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Spark-Ash qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Spark-Ash qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Spark-Ash qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Spark-Ash qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Spark-Ash qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Spark-Ash qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Spark-Ash qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Spark-Ash qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Spark-Ash qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Spark-Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Spark-Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Spark-Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Spark-Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Spark-Ash qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Spark-Ash qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Spark-Ash qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Spark-Ash qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Spark-Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Spark-Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Spark-Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Spark-Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Spark-Ash expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Bone-Mist
 
 **Elemental Alchemy — Bone-Mist**  
@@ -10195,6 +11315,36 @@ The bounded process that organizes the qualities of Bone-Mist (structural diffus
 Private-source organization of Bone-Mist qualities under internal governance. Used for private structural transitional states.
 Public-source organization of Bone-Mist qualities under open contracts. Used for transparent bone-mist interfaces.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Bone-Mist is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Bone-Mist qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Bone-Mist qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Bone-Mist qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Bone-Mist qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Bone-Mist qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Bone-Mist qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Bone-Mist qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Bone-Mist qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Bone-Mist qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Bone-Mist qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Bone-Mist qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Bone-Mist qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Bone-Mist qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Bone-Mist qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Bone-Mist qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Bone-Mist qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Bone-Mist qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Bone-Mist qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Bone-Mist qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Bone-Mist qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Bone-Mist qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Bone-Mist qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Bone-Mist expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Vapor-Salt
 
 **Elemental Alchemy — Vapor-Salt**  
@@ -10228,6 +11378,36 @@ Public Vapor-Salt qualities under open contracts.
 The bounded process that organizes the qualities of Vapor-Salt (diffused preservation and subtle crystallization) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Vapor-Salt qualities under internal governance. Used for private diffused preservation.
 Public-source organization of Vapor-Salt qualities under open contracts. Used for transparent vapor-salt contracts.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Vapor-Salt is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Vapor-Salt qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Vapor-Salt qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Vapor-Salt qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Vapor-Salt qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Vapor-Salt qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Vapor-Salt qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Vapor-Salt qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Vapor-Salt qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Vapor-Salt qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Vapor-Salt qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Vapor-Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Vapor-Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Vapor-Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Vapor-Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Vapor-Salt qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Vapor-Salt qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Vapor-Salt qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Vapor-Salt qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Vapor-Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Vapor-Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Vapor-Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Vapor-Salt qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Vapor-Salt expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ## Quaternary Elemental Alchemies
 
@@ -10268,6 +11448,36 @@ Public Conductive-Memory qualities under open contracts.
 - **Private Memory Stewardship Alchemy** — governs internal intelligent structure and purpose carriage inside the C2O domain under company rules.
 - **Open Memory Transparency Alchemy** — makes public intelligent structure and purpose carriage independently verifiable.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Conductive-Memory / Intelligent Vessel is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Conductive-Memory / Intelligent Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Conductive-Memory / Intelligent Vessel expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Living-Residue / Softened Trace
 
 **Elemental Alchemy — Living-Residue / Softened Trace**  
@@ -10301,6 +11511,36 @@ Public Living-Residue qualities under open contracts.
 The bounded process that organizes the qualities of Living-Residue (formative remnant that retains potential for further transformation) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Living-Residue qualities under internal governance. Used for private formative remnants.
 Public-source organization of Living-Residue qualities under open contracts. Used for transparent formative remnant contracts.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Living-Residue / Softened Trace is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Living-Residue / Softened Trace qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Living-Residue / Softened Trace expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Directed-Melt / Intentional Unbound
 
@@ -10336,6 +11576,36 @@ The bounded process that organizes the qualities of Directed-Melt (formative ene
 Private-source organization of Directed-Melt qualities under internal governance. Used for private formative energy states.
 Public-source organization of Directed-Melt qualities under open contracts. Used for transparent formative energy contracts.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Directed-Melt / Intentional Unbound is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Directed-Melt / Intentional Unbound qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Directed-Melt / Intentional Unbound expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Preserved-Mark / Subtle Inscription
 
 **Elemental Alchemy — Preserved-Mark / Subtle Inscription**  
@@ -10369,6 +11639,36 @@ Public Preserved-Mark qualities under open contracts.
 The bounded process that organizes the qualities of Preserved-Mark (non-dense medium that retains instantaneous record) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Preserved-Mark qualities under internal governance. Used for private preserved subtlety.
 Public-source organization of Preserved-Mark qualities under open contracts. Used for transparent preserved subtlety interfaces.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Preserved-Mark / Subtle Inscription is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Preserved-Mark / Subtle Inscription qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Preserved-Mark / Subtle Inscription expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Reflective-Diffusion / Protected Softness
 
@@ -10404,6 +11704,36 @@ The bounded process that organizes the qualities of Reflective-Diffusion (soft, 
 Private-source organization of Reflective-Diffusion qualities under internal governance. Used for private protected softness.
 Public-source organization of Reflective-Diffusion qualities under open contracts. Used for transparent protected softness interfaces.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Reflective-Diffusion / Protected Softness is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Reflective-Diffusion / Protected Softness qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Reflective-Diffusion / Protected Softness expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Fixed-Radiance / Bound Energy
 
 **Elemental Alchemy — Fixed-Radiance / Bound Energy**  
@@ -10437,6 +11767,36 @@ Public Fixed-Radiance qualities under open contracts.
 The bounded process that organizes the qualities of Fixed-Radiance (bound energy that remains available for directed use) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Fixed-Radiance qualities under internal governance. Used for private bound energy.
 Public-source organization of Fixed-Radiance qualities under open contracts. Used for transparent bound energy interfaces.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Fixed-Radiance / Bound Energy is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Fixed-Radiance / Bound Energy qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Fixed-Radiance / Bound Energy expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Veiled-Heat / Diffused Force
 
@@ -10487,6 +11847,36 @@ The bounded process that organizes the qualities of Veiled-Heat (diffused force 
 Private-source organization of Veiled-Heat qualities under internal governance. Used for private diffused force.
 Public-source organization of Veiled-Heat qualities under open contracts. Used for transparent diffused force interfaces.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Veiled-Heat / Diffused Force is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Veiled-Heat / Diffused Force qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Veiled-Heat / Diffused Force expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Crystal-Remnant / Structured Residue
 
 **Elemental Alchemy — Crystal-Remnant / Structured Residue**  
@@ -10525,6 +11915,36 @@ Public Crystal-Remnant qualities under open contracts.
 The bounded process that organizes the qualities of Crystal-Remnant (structured residue that retains form) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
 Private-source organization of Crystal-Remnant qualities under internal governance. Used for private structured residue.
 Public-source organization of Crystal-Remnant qualities under open contracts. Used for transparent structured residue interfaces.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Crystal-Remnant / Structured Residue is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Crystal-Remnant / Structured Residue qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Crystal-Remnant / Structured Residue expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Mobile-Essence / Evaporated Vessel
 
@@ -10580,6 +12000,36 @@ The bounded process that organizes the qualities of Mobile-Essence (evaporated v
 Private-source organization of Mobile-Essence qualities under internal governance. Used for private evaporated vessels.
 Public-source organization of Mobile-Essence qualities under open contracts. Used for transparent evaporated vessel interfaces.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Mobile-Essence / Evaporated Vessel is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Mobile-Essence / Evaporated Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Mobile-Essence / Evaporated Vessel expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Living-Conductive / Receptive Transmission
 
 **Elemental Alchemy — Living-Conductive / Receptive Transmission**  
@@ -10620,6 +12070,36 @@ The bounded process that organizes the qualities of Living-Conductive (receptive
 Private-source organization of Living-Conductive qualities under internal governance. Used for private receptive transmission.
 Public-source organization of Living-Conductive qualities under open contracts. Used for transparent receptive transmission interfaces.
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Living-Conductive / Receptive Transmission is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Living-Conductive / Receptive Transmission qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Living-Conductive / Receptive Transmission expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Veiled-Force / Softened Vessel
 
 **Elemental Alchemy — Veiled-Force / Softened Vessel**  
@@ -10645,6 +12125,36 @@ Public Veiled-Force qualities under open contracts.
 
 **Alignment**  
 - **Diffused Force Mapping Alchemy** — aligns corresponding private and public Veiled-Heat structures without collapse.
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Veiled-Force / Softened Vessel is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Veiled-Force / Softened Vessel qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Veiled-Force / Softened Vessel expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ## Quintessential Elemental Alchemies
 
@@ -10678,6 +12188,36 @@ Public Living Intelligence qualities under open contracts.
 
 ---
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Living Intelligence is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Living Intelligence qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Living Intelligence qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Living Intelligence qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Living Intelligence qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Living Intelligence qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Living Intelligence qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Living Intelligence qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Living Intelligence qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Living Intelligence qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Living Intelligence qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Living Intelligence qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Living Intelligence qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Living Intelligence qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Living Intelligence qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Living Intelligence qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Living Intelligence qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Living Intelligence qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Living Intelligence qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Living Intelligence qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Living Intelligence qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Living Intelligence qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Living Intelligence qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Living Intelligence expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Directed Presence
 
 **Elemental Alchemy — Directed Presence**  
@@ -10705,6 +12245,36 @@ Public Directed Presence qualities under open contracts.
 - **Directed Presence Mapping Alchemy** — aligns corresponding private and public Directed Presence structures without collapse.
 
 ---
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Directed Presence is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Directed Presence qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Directed Presence qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Directed Presence qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Directed Presence qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Directed Presence qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Directed Presence qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Directed Presence qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Directed Presence qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Directed Presence qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Directed Presence qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Directed Presence qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Directed Presence qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Directed Presence qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Directed Presence qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Directed Presence qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Directed Presence qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Directed Presence qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Directed Presence qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Directed Presence qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Directed Presence qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Directed Presence qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Directed Presence qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Directed Presence expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
 
 ### Elemental Alchemy — Protected Flow
 
@@ -10734,6 +12304,36 @@ Public Protected Flow qualities under open contracts.
 
 ---
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Protected Flow is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Protected Flow qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Protected Flow qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Protected Flow qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Protected Flow qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Protected Flow qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Protected Flow qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Protected Flow qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Protected Flow qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Protected Flow qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Protected Flow qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Protected Flow qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Protected Flow qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Protected Flow qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Protected Flow qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Protected Flow qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Protected Flow qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Protected Flow qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Protected Flow qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Protected Flow qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Protected Flow qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Protected Flow qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Protected Flow qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Protected Flow expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Structured Memory
 
 **Elemental Alchemy — Structured Memory**  
@@ -10762,6 +12362,36 @@ Public Structured Memory qualities under open contracts.
 
 ---
 
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Structured Memory is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Structured Memory qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Structured Memory qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Structured Memory qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Structured Memory qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Structured Memory qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Structured Memory qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Structured Memory qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Structured Memory qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Structured Memory qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Structured Memory qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Structured Memory qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Structured Memory qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Structured Memory qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Structured Memory qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Structured Memory qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Structured Memory qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Structured Memory qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Structured Memory qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Structured Memory qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Structured Memory qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Structured Memory qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Structured Memory qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Structured Memory expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+
 ### Elemental Alchemy — Receptive Essence
 
 **Elemental Alchemy — Receptive Essence**  
@@ -10789,3 +12419,33 @@ Public Receptive Essence qualities under open contracts.
 - **Receptive Essence Mapping Alchemy** — aligns corresponding private and public Receptive Essence structures without collapse.
 
 ---
+
+
+#### Universal Application Across the Canonical 22 Contexts
+
+Elemental Alchemy — Receptive Essence is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+
+1. **C2O Operating System** — organizes the Receptive Essence qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+2. **UNIVERSALIS Operating System** — organizes the Receptive Essence qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+3. **C2O Intelligence** — organizes the Receptive Essence qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+4. **UNIVERSALIS Intelligence** — organizes the Receptive Essence qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+5. **C2O Application** — organizes the Receptive Essence qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+6. **UNIVERSALIS Application** — organizes the Receptive Essence qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+7. **C2O Operating System - UNIVERSALIN** — organizes the Receptive Essence qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Receptive Essence qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+9. **C2O Application - UNIVERSALIN** — organizes the Receptive Essence qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Receptive Essence qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Receptive Essence qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Receptive Essence qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Receptive Essence qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Receptive Essence qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Receptive Essence qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Receptive Essence qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+17. **C2O Application - UNIVERSALIN Guardian** — organizes the Receptive Essence qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Receptive Essence qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Receptive Essence qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Receptive Essence qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Receptive Essence qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Receptive Essence qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+
+**Inheritance and Matrix Requirements:** All subordinate Receptive Essence expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
