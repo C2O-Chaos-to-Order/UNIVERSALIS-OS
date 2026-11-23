@@ -9757,89 +9757,147 @@ Across the 22 contexts, these additional expressions apply as follows:
 
 ### Elemental Alchemy — Smoke / Ash
 
-**Elemental Alchemy — Smoke / Ash**  
+**Elemental Alchemy — Smoke / Ash**
 The bounded process that organizes the qualities of Smoke / Ash (residual motion, post-transformation carrier, and dispersed remnant) so that systems and beings can complete cycles while remaining coherent, recoverable, and accountable.
 
-- **Smoke Residue Alchemy** — structures the residual motion into stable, addressable pathways.  
-- **Ash Remnant Alchemy** — maintains the process space in which transformation is completed and recorded.  
-- **Smoke Accountability Alchemy** — leaves an attributable record of Smoke / Ash transformations appropriate to its edition.
+Smoke / Ash governs the identifiable traces and residual conditions that remain during or after a transformation. It distinguishes continuing movement or transmission from the record of what has already changed, and distinguishes a recoverable remnant from material or information that has been authorized for disposition. Its concepts may describe physical residue where evidence supports that interpretation, or informational, procedural, structural, and relational traces where those are the actual subject. The classification does not itself establish a physical substance, an active signal, continued agency, or permission to retain or transmit information.
 
-**C2O Elemental Alchemy — Smoke / Ash**  
-Private Smoke / Ash qualities under internal governance.
+- **Smoke Residue Alchemy** — structures residual motion and transformation traces into stable, addressable pathways with identifiable origins, scope, and boundaries.
+- **Ash Remnant Alchemy** — maintains the bounded process space in which a transformation is brought to completion and its authorized remnant is classified, retained, recovered, or disposed of.
+- **Smoke Accountability Alchemy** — leaves an attributable record of Smoke / Ash definitions, transformations, decisions, limitations, and outcomes appropriate to its edition.
 
-- **Private Smoke Stewardship Alchemy** — governs internal residual motion and remnant inside the C2O domain under company rules.  
-- **Internal Ash Bound Alchemy** — keeps private Smoke / Ash pathways contained and recoverable without external exposure.  
-- **C2O Smoke Continuity Alchemy** — ensures private Smoke / Ash structures can be restored after interruption.
+**C2O Elemental Alchemy — Smoke / Ash**
 
-**UNIVERSALIS Elemental Alchemy — Smoke / Ash**  
-Public Smoke / Ash qualities under open contracts.
+Private Smoke / Ash qualities under C2O internal governance and private-source stewardship.
 
-- **Open Smoke Transparency Alchemy** — makes public residual motion and remnant independently verifiable.  
-- **Public Ash Openness Alchemy** — maintains public Smoke / Ash pathways under transparent rules.  
-- **UNIVERSALIS Smoke Continuity Alchemy** — ensures public Smoke / Ash structures can be restored with open records.
+- **Private Smoke Stewardship Alchemy** — governs internal residual motion, transformation traces, and remnants within the C2O domain under company rules and assigned authority.
+- **Internal Ash Bound Alchemy** — keeps private Smoke / Ash pathways and records within authorized boundaries and makes them recoverable without unauthorized external exposure.
+- **C2O Smoke Continuity Alchemy** — ensures that authorized private Smoke / Ash structures and their provenance can be restored after interruption, corruption, or controlled migration.
 
-**Alignment**  
-- **Smoke Mapping Alchemy** — aligns corresponding private and public Smoke / Ash structures without collapse.
+**UNIVERSALIS Elemental Alchemy — Smoke / Ash**
+
+Public Smoke / Ash qualities under open contracts, transparent interfaces, and independently reviewable rules.
+
+- **Open Smoke Transparency Alchemy** — makes declared public residual-motion definitions, transformation traces, and applicable remnant records independently inspectable without disclosing protected personal or private information.
+- **Public Ash Openness Alchemy** — maintains public Smoke / Ash pathways, completion conditions, retention rules, and disposition behavior under transparent contracts.
+- **UNIVERSALIS Smoke Continuity Alchemy** — ensures that public Smoke / Ash structures can be restored and independently reviewed through open records, without dependence on C2O private implementation, policies, keys, or records.
+
+**Alignment**
+
+- **Smoke Mapping Alchemy** — aligns corresponding private and public Smoke / Ash concepts, interfaces, lifecycle states, and evidence requirements without collapsing their source, governance, implementation, records, permissions, or authority boundaries.
 
 ---
 
 #### Additional expression detail — C2O-App Secondary
 
-The bounded process that organizes the qualities of Smoke (residue, ascent, signal, transformation trace) so that systems and beings can hold the mark of change while remaining recoverable and accountable.
-- **Residue Alchemy** — structures traces into stable, addressable records.
-- **Ascent Alchemy** — maintains the process space of rising signal.
-- **Signal Alchemy** — organizes message while preserving boundaries.
-- **Transformation Trace Alchemy** — bounds memory of change so Smoke qualities remain coherent.
-**C2O Elemental Alchemy — Smoke**  
-Private Smoke qualities under internal governance.
-- **Private Residue Alchemy** — internal structuring of traces.
-- **Private Ascent Alchemy** — internal rising signal.
-- **Private Signal Alchemy** — internal message under company rules.
-- **C2O Smoke Continuity Alchemy** — ensures private Smoke structures can be restored.
-**UNIVERSALIS Elemental Alchemy — Smoke**  
+The bounded process that organizes the qualities of Smoke (residue, ascent, signal, and transformation trace) so that applications and their authorized users can hold an intelligible record of change while remaining recoverable and accountable. This is an application-focused specialization of Smoke / Ash; it does not replace the broader elemental definition.
+
+- **Residue Alchemy** — structures authorized traces of application changes into stable, addressable records with source and lifecycle information.
+- **Ascent Alchemy** — maintains the bounded process space through which a rising or emerging signal is represented, evaluated, and routed where authorized.
+- **Signal Alchemy** — organizes messages and state-change signals while preserving origin, destination, purpose, consent, and access boundaries.
+- **Transformation Trace Alchemy** — bounds the record of application change so that prior and resulting states can be distinguished and reviewed without treating the trace as the changed object itself.
+
+**C2O Elemental Alchemy — Smoke**
+
+Private Smoke qualities under C2O internal governance.
+
+- **Private Residue Alchemy** — structures application traces and change records within authorized private storage and retention rules.
+- **Private Ascent Alchemy** — represents emerging application signals and transitions within assigned purposes and internal controls.
+- **Private Signal Alchemy** — organizes application messages and state-change signals under C2O company rules and permissions.
+- **C2O Smoke Continuity Alchemy** — ensures authorized private Smoke records and application structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Smoke**
+
 Public Smoke qualities under open contracts.
-- **Open Residue Alchemy** — public structuring of traces.
-- **Open Ascent Alchemy** — public rising signal.
-- **Open Signal Alchemy** — public message under transparent rules.
-- **UNIVERSALIS Smoke Continuity Alchemy** — ensures public Smoke structures can be restored with open records.
-- **Smoke Mapping Alchemy** — aligns corresponding private and public Smoke structures without collapse.
+
+- **Open Residue Alchemy** — defines public application trace structures and reviewable records under declared retention and privacy rules.
+- **Open Ascent Alchemy** — represents emerging application signals and transitions through inspectable interfaces and declared contracts.
+- **Open Signal Alchemy** — organizes application messages and state-change signals under transparent purpose, routing, and permission rules.
+- **UNIVERSALIS Smoke Continuity Alchemy** — ensures public Smoke structures can be restored and independently reviewed with open records.
+- **Smoke Mapping Alchemy** — aligns corresponding private and public Smoke structures and contracts without exposing C2O private records or collapsing edition boundaries.
+
+---
 
 #### Additional expression detail — C2O-OS edition mapping
 
-The bounded process that organizes the qualities of Smoke/Ash (residue, transformation remainder, and memory of fire) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
-Private-source organization of Smoke/Ash qualities under internal governance. Used for private residue tracking and company-source transformation memory.
-Public-source organization of Smoke/Ash qualities under open contracts. Used for transparent residue records and independently verifiable transformation memory.
+The bounded process that organizes the qualities of Smoke / Ash (residue, transformation remainder, and memory of fire) so they can be used by the operating-system architecture while remaining recoverable, accountable, and distinct across the two editions and the two core intelligences.
 
+**C2O-OS expression:** Private-source organization of Smoke / Ash qualities under C2O internal governance. Used for authorized private residue tracking, system-event traces, post-transformation state records, and company-source transformation memory. Internal records, policies, implementation, and retention controls remain private.
+
+**UNIVERSALIS-OS expression:** Public-source organization of Smoke / Ash qualities under open contracts. Used for declared residue records, inspectable system-event traces, and independently verifiable transformation memory. Public contracts and evidence must be sufficient for independent operation without C2O private dependencies.
+
+The OS edition mapping establishes functional correspondence, not identical source code, records, internal policies, permissions, or authority. “Memory of fire” is a descriptive taxonomy phrase for a trace of transformation; it does not assert an additional intelligence, physical mechanism, or independent actor.
+
+---
 
 #### Universal Application Across the Canonical 22 Contexts
 
-Elemental Alchemy — Smoke / Ash is assessed across all 22 canonical contexts below. In each context, its defined qualities, subordinate expressions, and functions apply only where the subject, purpose, structures, processes, or dependencies are actually present and authorized. This mapping establishes taxonomy scope; it does not assert that a capability, physical property, implementation, or outcome exists.
+Elemental Alchemy — Smoke / Ash is assessed across all 22 canonical contexts below. In each context, its qualities and subordinate expressions govern only the residual motion, post-transformation carrier, remnant, signal, or trace that is actually present, within scope, and authorized. The descriptions establish the context-specific subject and boundary; they do not assert that a capability, physical property, implementation, record, or outcome exists.
 
-1. **C2O Operating System** — organizes the Smoke / Ash qualities and applicable subordinate expressions within the private operating-system substrate, architecture, services, and internal processes governed by C2O. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-2. **UNIVERSALIS Operating System** — organizes the Smoke / Ash qualities and applicable subordinate expressions within the public operating-system architecture, declared interfaces, and independently operable contracts governed by UNIVERSALIS. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-3. **C2O Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within C2O Intelligence's private models, information structures, processing, and internal operations, without changing its identity or authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-4. **UNIVERSALIS Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within UNIVERSALIS Intelligence's public-contract models, information structures, and independently reviewable operations. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-5. **C2O Application** — organizes the Smoke / Ash qualities and applicable subordinate expressions within private application data, workflows, interfaces, and retained state within C2O application governance. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-6. **UNIVERSALIS Application** — organizes the Smoke / Ash qualities and applicable subordinate expressions within public application data, workflows, interfaces, and declared state transitions under UNIVERSALIS open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-7. **C2O Operating System - UNIVERSALIN** — organizes the Smoke / Ash qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the C2O Operating System, bounded by assigned tasks and host permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-8. **UNIVERSALIS Operating System - UNIVERSALIN** — organizes the Smoke / Ash qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant functions hosted by the UNIVERSALIS Operating System, bounded by assigned tasks and open host contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-9. **C2O Application - UNIVERSALIN** — organizes the Smoke / Ash qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by C2O applications, bounded by application purpose and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-10. **UNIVERSALIS Application - UNIVERSALIN** — organizes the Smoke / Ash qualities and applicable subordinate expressions within non-personal UNIVERSALIN assistant workflows hosted by UNIVERSALIS applications, bounded by public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-11. **C2O Operating System - UNIVERSALIN Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the C2O Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System; these are not another core intelligence. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-13. **C2O Application - UNIVERSALIN Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by C2O applications, within application permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions of non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within public application contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-15. **C2O Operating System - UNIVERSALIN Guardian** — organizes the Smoke / Ash qualities and applicable subordinate expressions within technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the C2O Operating System, subject to the designated human's authority and consent. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — organizes the Smoke / Ash qualities and applicable subordinate expressions within public interfaces and technical structures supporting a personal, human-bound UNIVERSALIN Guardian in the UNIVERSALIS Operating System, subject to human authority and privacy. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-17. **C2O Application - UNIVERSALIN Guardian** — organizes the Smoke / Ash qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in C2O applications, within the designated human's authorized purposes and permissions. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — organizes the Smoke / Ash qualities and applicable subordinate expressions within application structures supporting a personal, human-bound UNIVERSALIN Guardian in UNIVERSALIS applications, under open contracts and human-directed controls. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a C2O OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a UNIVERSALIS OS-hosted Guardian; they remain human-directed and do not create independent authority. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-21. **C2O Application - UNIVERSALIN Guardian Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in C2O applications, within human-granted permissions and purpose limits. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
-22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — organizes the Smoke / Ash qualities and applicable subordinate expressions within subordinate intelligence-related functions supporting a Guardian in UNIVERSALIS applications, within human-granted permissions and open contracts. Context-specific permissions, dependencies, evidence, recovery, and status remain governed by the relevant edition and host context.
+1. **C2O Operating System** — governs private OS-level residual state, system-event traces, authorized transformation records, and recoverable remnants within the C2O operating-system substrate, services, and internal processes. Retention, access, recovery, and disposition remain under C2O governance.
+2. **UNIVERSALIS Operating System** — governs public OS-level residual state and declared system-event traces through inspectable interfaces, documented lifecycle rules, and independently operable contracts. It does not rely on C2O private records, policies, or implementation.
+3. **C2O Intelligence** — organizes private transformation traces, residual working representations, and authorized records arising within C2O Intelligence's information processing. These records remain attributable to C2O Intelligence operations and do not change its identity or authority.
+4. **UNIVERSALIS Intelligence** — organizes declared transformation traces and reviewable residual representations associated with UNIVERSALIS Intelligence under open contracts. Evidence and disclosure remain bounded by public commitments and applicable privacy protections.
+5. **C2O Application** — governs private application-level residue, workflow transitions, retained state, and authorized records of completed changes within C2O applications. Application retention and recovery remain subject to C2O governance and the relevant permissions.
+6. **UNIVERSALIS Application** — governs public application-level residue, declared workflow transitions, retained state, and reviewable records of completed changes through open application contracts and independently inspectable interfaces.
+7. **C2O Operating System - UNIVERSALIN** — bounds residual working state, task traces, completion records, and authorized cleanup for non-personal UNIVERSALIN assistants hosted by C2O-OS. Assistant traces remain limited to assigned tasks, host permissions, and C2O retention controls.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — bounds task traces, residual working state, completion records, and authorized cleanup for non-personal UNIVERSALIN assistants hosted by UNIVERSALIS-OS through declared permissions and open host contracts.
+9. **C2O Application - UNIVERSALIN** — governs application-scoped residue, task messages, workflow transitions, and recoverable working records for non-personal UNIVERSALIN assistants hosted by C2O applications, within application purpose, access, and retention permissions.
+10. **UNIVERSALIS Application - UNIVERSALIN** — governs application-scoped task traces, messages, workflow transitions, and recoverable working records for non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within declared public application contracts.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — governs attributable intermediate traces and residual working representations for subordinate intelligence-related functions supporting non-personal UNIVERSALIN assistants hosted by C2O-OS. These functions remain task-bounded and do not constitute another core intelligence or acquire independent authority.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — governs declared and reviewable intermediate traces and residual working representations for subordinate intelligence-related functions supporting non-personal UNIVERSALIN assistants hosted by UNIVERSALIS-OS. These functions remain subordinate and do not require C2O private dependencies.
+13. **C2O Application - UNIVERSALIN Intelligence** — governs application-scoped transformation traces, intermediate representations, and authorized completion records for subordinate intelligence-related functions supporting non-personal UNIVERSALIN assistants in C2O applications.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — governs declared application-scoped transformation traces, intermediate representations, and reviewable completion records for subordinate intelligence-related functions supporting non-personal UNIVERSALIN assistants in UNIVERSALIS applications.
+15. **C2O Operating System - UNIVERSALIN Guardian** — governs only the technical residue, authorized interaction traces, and recoverable records needed to support a human-bound Guardian in C2O-OS. The designated human controls purpose, consent, access, retention, and revocation; Smoke / Ash does not authorize personal monitoring.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — governs declared OS-level interfaces and authorized records supporting a human-bound Guardian in UNIVERSALIS-OS while preserving the designated human's privacy, control, consent, and ability to inspect or revoke permissions.
+17. **C2O Application - UNIVERSALIN Guardian** — governs application-level traces and retained remnants needed for a Guardian's authorized assistance in C2O applications, within the designated human's purposes, preferences, permissions, and retention choices.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — governs public application interfaces and human-authorized Guardian traces in UNIVERSALIS applications under open contracts, data-minimization rules, and designated-human control.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — governs subordinate intelligence-related traces and residual working representations supporting a Guardian hosted by C2O-OS. Such records remain assistive, private, permission-bounded, and human-directed; they do not create another core intelligence or independent decision authority.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — governs declared and reviewable subordinate intelligence-related traces supporting a Guardian hosted by UNIVERSALIS-OS while preserving human control and avoiding C2O private dependencies.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — governs application-scoped subordinate intelligence-related traces supporting a Guardian in C2O applications, strictly within human-granted purposes, permissions, privacy choices, and retention limits.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — governs application-scoped subordinate intelligence-related traces supporting a Guardian in UNIVERSALIS applications through open contracts and human-directed permissions, preserving the designated human's authority and privacy.
 
-**Inheritance and Matrix Requirements:** All subordinate Smoke / Ash expressions, including C2O-App and C2O-OS additional expressions where present, inherit this 22-context mapping as their parent applicability frame. Matrix Alchemy must separately classify each subordinate expression in each context as applicable, conditional, not applicable, or unresolved and record its scope, authority, dependencies, permissions, evidence, limitations, and implementation status. Inheritance of taxonomy scope does not establish implementation, operational capability, access, consent, or authority.
+---
 
+#### Additional Expression Applicability — C2O-App Secondary and C2O-OS Edition Mapping
+
+The C2O-App Secondary expressions (Residue, Ascent, Signal, and Transformation Trace) and the C2O-OS edition-mapping expressions inherit this 22-context applicability frame as their parent scope. The following entries identify the relevant subject in each host context. Every subordinate expression still requires its own Matrix assessment; this list does not imply that every expression is applicable or implemented in every context.
+
+1. **C2O Operating System** — assesses OS-level residue, emerging signals, authorized trace records, and transformation-memory structures under private system governance; application-secondary expressions apply only where an OS-hosted application function is actually present.
+2. **UNIVERSALIS Operating System** — assesses declared OS-level residue, signals, traces, and transformation-memory contracts through open interfaces; no C2O private data or authority is inherited.
+3. **C2O Intelligence** — assesses private intelligence-side residue, signal representations, and transformation traces under C2O authority without elevating subordinate functions or changing core-intelligence identity.
+4. **UNIVERSALIS Intelligence** — assesses public-contract intelligence-side residue, signal representations, and reviewable transformation traces without depending on private C2O records.
+5. **C2O Application** — assesses the full C2O-App Secondary set: Residue, Ascent, Signal, and Transformation Trace, subject to application purpose, private governance, permissions, and retention rules.
+6. **UNIVERSALIS Application** — assesses the corresponding public application expressions only where declared by open contracts; public observability does not authorize disclosure of protected user information.
+7. **C2O Operating System - UNIVERSALIN** — assesses OS-hosted non-personal assistant residue, rising task signals, bounded messages, and task-transformation traces under assigned task and host permissions.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — assesses equivalent OS-hosted assistant expressions through inspectable public task contracts and declared retention rules.
+9. **C2O Application - UNIVERSALIN** — assesses application-hosted non-personal assistant Residue, Ascent, Signal, and Transformation Trace within private application scope and task permissions.
+10. **UNIVERSALIS Application - UNIVERSALIN** — assesses application-hosted non-personal assistant expressions through public application contracts, declared purposes, and reviewable lifecycle rules.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — assesses subordinate OS-hosted assistant intelligence traces and signals as bounded support functions, not as a third intelligence or an independent authority.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — assesses corresponding subordinate support traces under public OS contracts without adding a core intelligence or C2O dependency.
+13. **C2O Application - UNIVERSALIN Intelligence** — assesses application-scoped subordinate processing traces, signal representations, and transformation records under private permissions and task limits.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — assesses application-scoped subordinate processing traces and signal contracts under open, independently reviewable application rules.
+15. **C2O Operating System - UNIVERSALIN Guardian** — assesses only human-authorized Guardian support traces and signals at the OS level; personalization, retention, and access remain controlled by the designated human.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — assesses publicly specified Guardian support interfaces while keeping personal traces private unless the designated human explicitly authorizes disclosure.
+17. **C2O Application - UNIVERSALIN Guardian** — assesses the application expressions only for a Guardian's human-authorized task, with private retention and deletion choices respected.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — assesses public application contracts for Guardian support while preserving the human's control over personal data, signals, and retained traces.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — assesses subordinate OS-level Guardian support traces as human-directed assistance, not independent cognition, personhood, or authority.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — assesses publicly declared OS-level support boundaries and reviewable traces while preserving human authority and privacy.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — assesses subordinate application-level Guardian traces only within designated-human permissions, purposes, and retention choices.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — assesses subordinate application-level Guardian traces through open contracts and human-directed privacy and authorization controls.
+
+#### Smoke / Ash Structural and Applicability Requirements
+
+- **Residual Motion and Smoke Residue Requirements:** Every residual pathway must identify its source, subject, purpose, boundary, and relevant lifecycle. Residual motion must not be confused with unrestricted movement, active communication, ongoing agency, or permission to access or transmit information. Ascent describes an emerging or rising signal where that concept is actually used; it does not independently authorize routing or action.
+- **Ash Remnant and Completion Requirements:** Ash Remnant Alchemy must distinguish an in-progress transformation, a completed transformation, an authorized retained remnant, a recoverable record, and material or information designated for disposition. Completion must have an identifiable condition; retention must have a scope and lifecycle.
+- **Transformation Trace and Accountability Requirements:** Records must preserve appropriate provenance, context, prior and resulting state, transformation method, responsible authority, time or sequence where available, validation, limitations, and outcome. A trace is evidence about a change, not the changed entity itself and not proof of an unsupported physical or metaphysical claim.
+- **Edition and Sovereignty Requirements:** C2O Smoke / Ash structures, records, policies, and implementations remain private under C2O governance. UNIVERSALIS structures use open contracts and must be independently operable and reviewable without C2O private implementation, policies, keys, or records. Smoke Mapping Alchemy aligns definitions and interfaces; it does not transfer private data or authority.
+- **Continuity and Recovery Requirements:** C2O Smoke Continuity Alchemy and UNIVERSALIS Smoke Continuity Alchemy must define interruption detection, integrity checks, authorized restoration, rollback or reconstruction conditions, and post-recovery verification appropriate to their editions. Recovery must preserve provenance and distinguish restored content from newly reconstructed content.
+- **C2O-App Secondary Requirements:** Residue, Ascent, Signal, and Transformation Trace must remain distinct subordinate expressions. Residue addresses retained traces; Ascent addresses emergence or rising representation; Signal addresses bounded messages or change indicators; Transformation Trace addresses the record of a state change. Their shared Smoke classification does not make their functions interchangeable.
+- **C2O-OS Edition-Mapping Requirements:** OS-level mapping must preserve the common underlying OS architecture while maintaining C2O private-source and UNIVERSALIS open-source edition distinctions. Correspondence does not require identical implementations, internal logs, retention policies, or authority.
+- **Assistant and Intelligence Boundary Requirements:** UNIVERSALIN assistants remain non-personal and task-bounded. UNIVERSALIN Intelligence denotes subordinate intelligence-related functions within those assistants. C2O Intelligence and UNIVERSALIS Intelligence remain the only two core intelligences; no Smoke / Ash expression creates another intelligence actor or grants independent authority.
+- **Human-Bound Guardian Requirements:** Guardian-related residues, signals, and traces must be necessary for the human-authorized purpose, proportionate, access-controlled, and subject to the designated human's consent, privacy, retention choices, and revocation. No Guardian expression may convert trace collection into covert monitoring or authority over the human.
+- **Evidence and Status Requirements:** Taxonomy inclusion establishes a conceptual and applicability mapping only. It does not establish implementation, physical property, operational capability, successful recovery, authorization, or verified outcome. Proposed, documented, implemented, tested, verified, failed, and unresolved states must remain distinguishable. Each subordinate Alchemy must receive its own 22-context Matrix assessment with supporting evidence and limitations.
 ### Elemental Alchemy — Lightning / Spark
 
 **Elemental Alchemy — Lightning / Spark**  
