@@ -314,6 +314,51 @@ These specializations coordinate the preceding disciplines without replacing or 
 - **Social Impact Alchemy** — evaluates how policies, institutions, technologies, economic conditions, and collective actions affect individuals, communities, and societies.
 - **Human Agency and Participation Alchemy** — examines individual and collective agency, participation, autonomy, cooperation, and influence within social systems.
 
+### 8. Business and Economic Sciences Alchemy
+
+**Business and Economic Sciences Alchemy** is the bounded process that organizes, studies, manages, and transforms the financial, commercial, organizational, entrepreneurial, and operational structures through which individuals and organizations create, exchange, allocate, manage, and preserve value. It enables enterprises and economic organizations to establish objectives, manage resources, coordinate activities, make financial decisions, manage risk, and sustain operations while maintaining efficiency, accountability, transparency, and responsible governance.
+
+It encompasses the theoretical, quantitative, practical, and applied disciplines involved in business administration, financial systems, economic activity, markets, organizations, and enterprise development. Every specialized Business and Economic Sciences Alchemy remains an expression of the root Alchemy.
+
+#### 1. Financial and Capital Systems Alchemies
+
+- **Accounting Alchemy** — organizes the identification, recording, classification, measurement, reconciliation, and reporting of financial and economic transactions to maintain accurate records and support accountability and decision-making.
+- **Finance Alchemy** — organizes the acquisition, allocation, management, and preservation of financial resources, including capital structures, financial planning, valuation, and financial decision-making.
+- **Investment Alchemy** — organizes the evaluation, selection, allocation, management, and monitoring of capital committed to assets, enterprises, projects, and other opportunities in pursuit of defined financial or strategic objectives.
+- **Banking Alchemy** — organizes financial intermediation, deposits, lending, payment systems, credit, liquidity, and other banking services while maintaining financial integrity and regulatory accountability.
+- **Economics Alchemy** — organizes the application of economic principles to business activity, markets, enterprise decisions, production, resource allocation, incentives, costs, prices, and economic performance.
+
+#### 2. Markets and Commercial Development Alchemies
+
+- **Marketing Alchemy** — organizes the research, understanding, development, communication, positioning, and delivery of offerings in relation to customer needs, market conditions, and organizational objectives.
+- **Sales Alchemy** — organizes the identification of prospective customers, relationship development, presentation of offerings, negotiation, transaction completion, and management of commercial relationships.
+- **Entrepreneurship Alchemy** — organizes the identification, evaluation, development, creation, and growth of enterprises and ventures through opportunity recognition, innovation, resource mobilization, and business-model development.
+
+#### 3. Organizational and Operational Management Alchemies
+
+- **Operations Management Alchemy** — organizes the design, coordination, execution, monitoring, and improvement of the processes through which organizations produce goods, deliver services, and utilize resources.
+- **Supply Chain Management Alchemy** — organizes the planning, sourcing, procurement, production, inventory, logistics, distribution, and coordination of material, information, and resource flows across supply networks.
+- **Human Resources Alchemy** — organizes workforce planning, recruitment, selection, development, compensation, performance management, employee relations, and the administration of employment structures.
+- **Organizational Behavior Alchemy** — organizes the study and application of knowledge concerning individual, group, and organizational behavior, including motivation, leadership, communication, culture, collaboration, and organizational dynamics.
+
+#### 4. Strategy, Projects, and Risk Alchemies
+
+- **Strategic Management Alchemy** — organizes the development, evaluation, implementation, and adaptation of organizational direction, objectives, competitive positioning, capabilities, and long-term plans.
+- **Project Management Alchemy** — organizes the initiation, planning, execution, monitoring, control, and completion of temporary initiatives under defined objectives, scope, resources, schedules, and constraints.
+- **Risk Management Alchemy** — organizes the identification, analysis, evaluation, treatment, monitoring, and communication of uncertainties that may affect organizational objectives, assets, operations, or stakeholders.
+
+#### 5. Cross-Disciplinary Business and Economic Relationships
+
+These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+
+- **Enterprise Integration Alchemy** — coordinates financial, commercial, organizational, operational, and strategic structures into coherent enterprise systems.
+- **Value Creation and Delivery Alchemy** — organizes how organizations develop, produce, communicate, exchange, and deliver value to customers, stakeholders, and communities.
+- **Financial Governance Alchemy** — coordinates financial authority, accounting integrity, financial controls, reporting, compliance, and accountability.
+- **Capital Allocation Alchemy** — coordinates the evaluation and distribution of financial and other resources across organizational activities, investments, projects, and strategic priorities.
+- **Organizational Development Alchemy** — organizes organizational learning, structural improvement, workforce development, cultural adaptation, and institutional change.
+- **Business Continuity Alchemy** — organizes the preparation, response, recovery, and adaptation processes required to maintain or restore essential organizational functions during disruption.
+- **Commercial Risk Integration Alchemy** — coordinates financial, operational, strategic, market, supply-chain, and organizational risk considerations in business decision-making.
+
 ---
 
 ## Body Alchemy
