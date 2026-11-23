@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 0.8.0  
-**Status:** Seven supplied Universal Subject hierarchies recorded; 121 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 0.9.0  
+**Status:** Eight supplied Universal Subject hierarchies recorded; 136 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -924,9 +924,112 @@ Each of the 308 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 35. Cumulative Universal Subject Alchemy register and mapping totals
+## 35. Universal Subject of Knowledge hierarchy: Business and Economic Sciences
 
-The taxonomy now contains seven supplied Universal Subjects of Knowledge hierarchies.
+### 35.1 Canonical subject definition
+
+**Source definition:** Not supplied in the Universal Subject material provided for this entry.
+
+The canonical subject name is retained as supplied. No definition is inferred or added without an owner-provided definition. The Business and Economic Sciences subject becomes **Business and Economic Sciences Alchemy**.
+
+### 35.2 Business and Economic Sciences Alchemy hierarchy
+
+The following hierarchy preserves the supplied subject list. The source lists 15 subordinate subjects without further subdivisions. Accordingly, the listed subjects are represented as direct children of Business and Economic Sciences. Economics already exists as a canonical subject Alchemy under Social Sciences; it is cross-listed here using its existing identifier rather than duplicated as a new Alchemy.
+
+- **Business and Economic Sciences Alchemy**
+  - **Accounting Alchemy**
+  - **Finance Alchemy**
+  - **Investment Alchemy**
+  - **Banking Alchemy**
+  - **Economics Alchemy** *(shared canonical Alchemy: USA-SS-005)*
+  - **Marketing Alchemy**
+  - **Sales Alchemy**
+  - **Entrepreneurship Alchemy**
+  - **Operations Management Alchemy**
+  - **Supply Chain Management Alchemy**
+  - **Human Resources Alchemy**
+  - **Organizational Behavior Alchemy**
+  - **Strategic Management Alchemy**
+  - **Project Management Alchemy**
+  - **Risk Management Alchemy**
+
+### 35.3 Business and Economic Sciences Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
+|---|---|---|---|
+| USA-BES-001 | Business and Economic Sciences | Business and Economic Sciences Alchemy | Root subject |
+| USA-BES-002 | Accounting | Accounting Alchemy | Business and Economic Sciences |
+| USA-BES-003 | Finance | Finance Alchemy | Business and Economic Sciences |
+| USA-BES-004 | Investment | Investment Alchemy | Business and Economic Sciences |
+| USA-BES-005 | Banking | Banking Alchemy | Business and Economic Sciences |
+| USA-SS-005 | Economics | Economics Alchemy | Social Sciences; Business and Economic Sciences (shared canonical subject) |
+| USA-BES-006 | Marketing | Marketing Alchemy | Business and Economic Sciences |
+| USA-BES-007 | Sales | Sales Alchemy | Business and Economic Sciences |
+| USA-BES-008 | Entrepreneurship | Entrepreneurship Alchemy | Business and Economic Sciences |
+| USA-BES-009 | Operations Management | Operations Management Alchemy | Business and Economic Sciences |
+| USA-BES-010 | Supply Chain Management | Supply Chain Management Alchemy | Business and Economic Sciences |
+| USA-BES-011 | Human Resources | Human Resources Alchemy | Business and Economic Sciences |
+| USA-BES-012 | Organizational Behavior | Organizational Behavior Alchemy | Business and Economic Sciences |
+| USA-BES-013 | Strategic Management | Strategic Management Alchemy | Business and Economic Sciences |
+| USA-BES-014 | Project Management | Project Management Alchemy | Business and Economic Sciences |
+| USA-BES-015 | Risk Management | Risk Management Alchemy | Business and Economic Sciences |
+
+**Business and Economic Sciences total: 16 hierarchy positions comprising 15 new distinct subject Alchemies and 1 shared existing subject Alchemy.**
+
+Economics remains one canonical subject Alchemy, identified as **USA-SS-005**. Its parent relationships include both Social Sciences and Business and Economic Sciences. Its existing 22 context mappings are referenced rather than duplicated or counted a second time.
+
+The source supplied the subject name and its 15 subordinate subject names, but no definition for Business and Economic Sciences. No subject definition, additional subdivision, or description has been invented. Fourteen of the subordinate subjects are new distinct subject Alchemies; Economics is represented by its existing shared canonical identity.
+
+## 36. Business and Economic Sciences Alchemy — 16 × 22 context matrix
+
+The matrix below records all 16 subject-hierarchy positions across the 22 canonical contexts. Fifteen rows represent new subject Alchemies and contribute 15 × 22 = **330 new mapped intersections**. The Economics row references the existing canonical Alchemy USA-SS-005 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-BES-001 · Business and Economic Sciences Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-002 · Accounting Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-003 · Finance Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-004 · Investment Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-005 · Banking Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-SS-005 · Economics Alchemy [shared canonical Alchemy] | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-006 · Marketing Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-007 · Sales Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-008 · Entrepreneurship Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-009 · Operations Management Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-010 · Supply Chain Management Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-011 · Human Resources Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-012 · Organizational Behavior Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-013 · Strategic Management Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-014 · Project Management Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-BES-015 · Risk Management Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Business and Economic Sciences matrix coverage:** 16 hierarchy positions × 22 contexts = **352 section mapping positions**, comprising **330 new mapped intersections and 22 references to the existing Economics mappings**.
+
+The 22 Economics cells in this section point to the same subject-Alchemy/context intersections already represented by USA-SS-005 in the Social Sciences matrix. They must not be counted twice in the cumulative unique-mapping total.
+
+## 37. Business and Economic Sciences contextual expression requirements
+
+Each of the 330 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+The 22 Economics contextual expressions are not duplicated here. They remain associated with the shared canonical subject-Alchemy identity USA-SS-005 and must be understood through its existing record and additional parent relationship.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 38. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains eight supplied Universal Subjects of Knowledge hierarchies.
 
 | Universal Subject of Knowledge | Alchemy hierarchy positions | New unique subject Alchemies | Contexts | New unique mapped intersections |
 |---|---:|---:|---:|---:|
@@ -937,13 +1040,14 @@ The taxonomy now contains seven supplied Universal Subjects of Knowledge hierarc
 | Engineering and Technology | 18 | 18 | 22 | 396 |
 | Computer and Information Sciences | 15 (14 new + 1 shared) | 14 | 22 | 308 (22 shared, not added) |
 | Social Sciences | 14 | 14 | 22 | 308 |
-| **Cumulative unique total** | **122 hierarchy positions** | **121** | **22** | **2662** |
+| Business and Economic Sciences | 16 (15 new + 1 shared) | 15 | 22 | 330 (22 shared, not added) |
+| **Cumulative unique total** | **138 hierarchy positions** | **136** | **22** | **2992** |
 
-The cumulative total represents 121 distinct subject Alchemies mapped across 22 contexts, producing 2662 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. The full Computer and Information Sciences section matrix therefore shows 330 positions, of which 308 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections.
+The cumulative total represents 136 distinct subject Alchemies mapped across 22 contexts, producing 2992 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections.
 
-## 36. Taxonomy status and release register
+## 39. Taxonomy status and release register
 
-| Item | State in version 0.8.0 |
+| Item | State in version 0.9.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -964,15 +1068,18 @@ The cumulative total represents 121 distinct subject Alchemies mapped across 22 
 | Computer and Information Sciences matrix | Recorded — 330 positions: 308 new mappings and 22 references to existing Artificial Intelligence mappings |
 | Social Sciences source definition and hierarchy | Recorded as supplied — 14 distinct subject Alchemies |
 | Social Sciences matrix | Recorded — 14 × 22 = 308 mapped intersections |
-| Cumulative unique subject Alchemy register | 121 distinct subject Alchemies |
-| Cumulative unique mapped intersections | 121 × 22 = 2662 required mappings |
+| Business and Economic Sciences source definition | Not supplied; no definition inferred |
+| Business and Economic Sciences hierarchy | Recorded — 16 positions: 15 new Alchemies and 1 shared existing Economics Alchemy |
+| Business and Economic Sciences matrix | Recorded — 352 positions: 330 new mappings and 22 references to existing Economics mappings |
+| Cumulative unique subject Alchemy register | 136 distinct subject Alchemies |
+| Cumulative unique mapped intersections | 136 × 22 = 2992 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, and Social Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, and Business and Economic Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 37. Change control
+## 40. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
