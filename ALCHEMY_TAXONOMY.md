@@ -271,6 +271,49 @@ These specializations coordinate the preceding disciplines without replacing or 
 - **Human-Centered Computing Alchemy** — coordinates computational capabilities with human needs, autonomy, accessibility, comprehension, and meaningful interaction.
 - **Digital Continuity Alchemy** — maintains the integrity, recoverability, usability, and accessibility of computational and information environments across technological changes.
 
+### 7. Social Sciences Alchemy
+
+**Social Sciences Alchemy** is the bounded process that organizes, studies, interprets, and transforms knowledge concerning human societies, behavior, relationships, institutions, cultures, populations, and collective systems. It enables the examination of individual and collective experiences, social structures, human interactions, institutions, and societal changes while maintaining analytical rigor, contextual understanding, ethical responsibility, and accountability.
+
+It encompasses the scientific, interpretive, quantitative, qualitative, and applied study of human behavior and social organization. Every specialized Social Sciences Alchemy remains an expression of the root Alchemy.
+
+#### 1. Human Behavior and Society Alchemies
+
+- **Psychology Alchemy** — organizes knowledge concerning mental processes, cognition, emotion, perception, motivation, development, personality, and individual behavior.
+- **Sociology Alchemy** — organizes the study of social relationships, institutions, groups, communities, social structures, inequality, and societal change.
+- **Anthropology Alchemy** — organizes the study of human origins, evolution, societies, cultures, languages, practices, and ways of life across time and place.
+- **Behavioral Science Alchemy** — integrates systematic approaches to understanding, measuring, and explaining human behavior, decision-making, and behavioral patterns across individuals and groups.
+- **Cultural Studies Alchemy** — organizes the study of cultural production, identity, representation, beliefs, practices, symbols, traditions, and the ways culture influences social life.
+
+#### 2. Economic, Political, and Institutional Alchemies
+
+- **Economics Alchemy** — organizes knowledge concerning production, distribution, consumption, markets, resources, incentives, economic systems, and the behavior of individuals, organizations, and economies.
+- **Political Science Alchemy** — organizes the study of political systems, governance, power, institutions, public policy, political behavior, political theory, and relationships between citizens and governing structures.
+- **International Relations Alchemy** — organizes the study of relationships among states, international organizations, transnational actors, global institutions, diplomacy, conflict, cooperation, and international systems.
+
+#### 3. Population, Geography, and Social Structure Alchemies
+
+- **Human Geography Alchemy** — organizes the study of relationships between people, places, environments, spatial patterns, migration, settlement, and the geographic organization of human activities.
+- **Demography Alchemy** — organizes the quantitative and qualitative study of human populations, including population size, composition, distribution, fertility, mortality, migration, and population change.
+- **Criminology Alchemy** — organizes the study of crime, criminal behavior, victimization, social conditions, criminal justice systems, prevention, and responses to unlawful activity.
+
+#### 4. Applied Social and Communication Alchemies
+
+- **Social Work Alchemy** — organizes knowledge and practices that support individuals, families, groups, and communities through assessment, advocacy, intervention, resource coordination, and the improvement of social well-being.
+- **Communication Studies Alchemy** — organizes the study of human communication, language use, interpersonal interaction, group communication, organizational communication, mass media, and the social effects of information exchange.
+
+#### 5. Cross-Disciplinary Social Sciences Relationships
+
+These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+
+- **Social Systems Integration Alchemy** — coordinates knowledge of individuals, groups, institutions, communities, and societies to understand how social structures interact.
+- **Human Behavior Integration Alchemy** — connects psychological, sociological, anthropological, and behavioral perspectives while preserving their distinct methodologies and explanatory scopes.
+- **Societal Change Alchemy** — organizes the study of social transformation, institutional development, cultural change, population movement, and changing relationships across societies.
+- **Social Evidence Alchemy** — organizes the collection, evaluation, interpretation, and verification of qualitative and quantitative evidence concerning human behavior and social conditions.
+- **Cultural Interrelationship Alchemy** — examines relationships, exchanges, distinctions, and interactions among cultures while preserving cultural context and identity.
+- **Social Impact Alchemy** — evaluates how policies, institutions, technologies, economic conditions, and collective actions affect individuals, communities, and societies.
+- **Human Agency and Participation Alchemy** — examines individual and collective agency, participation, autonomy, cooperation, and influence within social systems.
+
 ---
 
 ## Body Alchemy
