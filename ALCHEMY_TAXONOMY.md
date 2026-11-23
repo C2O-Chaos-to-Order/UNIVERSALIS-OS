@@ -613,6 +613,45 @@ These specializations coordinate the preceding disciplines without replacing or 
 - **Food and Ecological Systems Integration Alchemy** — coordinates agriculture, biodiversity, land management, water systems, food production, and ecosystem health while preserving the distinct requirements of each.
 - **Environmental Continuity Alchemy** — organizes the preservation, recovery, and long-term stewardship of environmental knowledge, monitoring records, ecological resources, and restoration progress.
 
+### 15. Earth, Space, and Planetary Sciences Alchemy
+
+**Earth, Space, and Planetary Sciences Alchemy** is the bounded process that organizes, studies, observes, models, explores, and transforms knowledge concerning Earth, planetary bodies, geological structures, hydrological systems, geophysical processes, and the wider space environment. It enables individuals and societies to understand the formation, composition, structure, behavior, and evolution of Earth and other celestial bodies while maintaining scientific rigor, observational integrity, spatial accuracy, and accountability.
+
+It encompasses the geological, hydrological, geophysical, cartographic, observational, astronomical, planetary, and astrobiological disciplines concerned with Earth and the physical environments beyond it. Every specialized Earth, Space, and Planetary Sciences Alchemy remains an expression of the root Alchemy.
+
+#### 1. Geological and Geophysical Sciences Alchemies
+
+- **Geology Alchemy** — organizes the study of Earth's materials, structure, composition, history, formation, and geological processes, including rocks, minerals, tectonics, landforms, and the evolution of the planet.
+- **Volcanology Alchemy** — organizes the study, observation, modeling, and interpretation of volcanoes, volcanic materials, magma systems, eruptions, and associated geological processes and hazards.
+- **Seismology Alchemy** — organizes the study, measurement, analysis, and interpretation of seismic waves, earthquakes, Earth's internal structure, tectonic activity, and related geophysical processes.
+
+#### 2. Hydrological Sciences Alchemies
+
+- **Hydrology Alchemy** — organizes the study of the occurrence, distribution, movement, storage, and properties of water across Earth's surface, subsurface, atmosphere, and interconnected hydrological systems.
+
+#### 3. Geographic Representation and Earth Observation Alchemies
+
+- **Cartography Alchemy** — organizes the design, creation, interpretation, and maintenance of maps and spatial representations of geographic features, environments, boundaries, and relationships.
+- **Remote Sensing Alchemy** — organizes the acquisition, processing, analysis, and interpretation of information about Earth and other objects or environments through satellite, aerial, electromagnetic, and other remotely operated observation systems.
+
+#### 4. Space and Planetary Sciences Alchemies
+
+- **Space Science Alchemy** — organizes the study and observation of space environments, celestial phenomena, astronomical objects, radiation, fields, particles, and physical processes occurring beyond Earth's atmosphere.
+- **Planetary Exploration Alchemy** — organizes the observation, investigation, mapping, measurement, and exploration of planets, moons, asteroids, comets, and other planetary bodies through ground-based instruments, spacecraft, robotic missions, and other exploratory systems.
+- **Astrobiology Alchemy** — organizes the interdisciplinary study of the origin, evolution, distribution, conditions, and potential existence of life in the universe, including the relationship between life and planetary environments.
+
+#### 5. Cross-Disciplinary Earth, Space, and Planetary Relationships
+
+These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+
+- **Earth Systems Integration Alchemy** — coordinates geological, hydrological, atmospheric, geophysical, and other Earth processes to understand their interactions and dependencies.
+- **Geospatial Integration Alchemy** — coordinates cartographic information, geographic data, spatial measurements, and remotely sensed observations into coherent spatial representations and analytical systems.
+- **Geophysical Observation Alchemy** — coordinates measurement, sensing, modeling, and interpretation of physical processes and structures within Earth and other planetary bodies.
+- **Planetary Systems Integration Alchemy** — coordinates the study of planetary composition, geology, atmospheres, surfaces, interiors, orbital environments, and evolutionary processes.
+- **Celestial Observation and Mapping Alchemy** — organizes the observation, measurement, classification, and spatial representation of celestial objects and their environments.
+- **Planetary Habitability Alchemy** — organizes the evaluation of physical, chemical, geological, and environmental conditions that may support or sustain life on planetary bodies.
+- **Earth and Planetary Continuity Alchemy** — organizes the preservation, accessibility, integrity, and long-term continuity of geological, geographic, planetary, and exploratory observations, records, and datasets.
+
 ---
 
 ## Body Alchemy
