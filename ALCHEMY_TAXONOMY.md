@@ -187,6 +187,47 @@ The domain expressions above are specializations of their respective assistant b
 - **Emergency Medicine Alchemy** — organizes knowledge and practices concerning the rapid assessment, stabilization, diagnosis, and initial treatment of acute illness, injury, and life-threatening conditions.
 - **Rehabilitation Science Alchemy** — organizes scientific knowledge and practices concerning the restoration, improvement, maintenance, and adaptation of physical, cognitive, psychological, and functional capabilities following illness, injury, disability, or other changes in health.
 
+
+### 5. Engineering and Technology Alchemy
+
+**Engineering and Technology Alchemy** is the bounded process that organizes, integrates, applies, and transforms scientific, mathematical, computational, and practical knowledge into designed artifacts, infrastructure, processes, and technologies. It enables systems and beings to design, construct, test, operate, maintain, improve, and retire technologies while remaining coherent, safe, reliable, recoverable, efficient, and accountable.
+
+It encompasses the engineering disciplines and applied technologies used to develop physical, biological, computational, digital, industrial, and interconnected systems. Every specialized Engineering and Technology Alchemy remains an expression of the root Alchemy.
+
+#### 1. Engineering Discipline Alchemies
+
+- **Mechanical Engineering Alchemy** — organizes the principles of mechanics, motion, forces, materials, machines, and mechanical systems into designs that can be constructed, operated, maintained, and improved.
+- **Electrical Engineering Alchemy** — organizes electrical and electromagnetic principles into circuits, power systems, electronic devices, and electrical infrastructure.
+- **Civil Engineering Alchemy** — organizes the design, construction, operation, and maintenance of buildings, transportation systems, utilities, and other civil infrastructure.
+- **Chemical Engineering Alchemy** — organizes chemical processes, material transformations, reactions, and process systems for controlled and scalable production.
+- **Aerospace Engineering Alchemy** — organizes the design, construction, testing, and operation of aircraft, spacecraft, propulsion systems, and aerospace infrastructure.
+- **Nuclear Engineering Alchemy** — organizes nuclear processes, radiation systems, reactors, and associated technologies under rigorous safety, containment, and accountability requirements.
+- **Biomedical Engineering Alchemy** — integrates engineering principles with biological and medical knowledge to develop medical devices, diagnostic technologies, assistive systems, and biological engineering applications.
+- **Software Engineering Alchemy** — organizes the specification, architecture, development, testing, deployment, maintenance, and retirement of software systems.
+- **Computer Engineering Alchemy** — integrates computer hardware, digital systems, embedded technologies, processors, and software interfaces into functioning computational systems.
+- **Systems Engineering Alchemy** — organizes requirements, architecture, integration, verification, validation, lifecycle management, and relationships across complex systems and their components.
+- **Industrial Engineering Alchemy** — organizes people, processes, equipment, information, and resources to improve the performance, reliability, safety, and efficiency of complex operations.
+
+#### 2. Applied Technology Alchemies
+
+- **Robotics Alchemy** — organizes mechanical structures, sensing, computation, control, and actuation into robotic systems capable of performing assigned physical or computational operations.
+- **Nanotechnology Alchemy** — organizes the manipulation, engineering, and application of materials and structures at nanoscale dimensions.
+- **Manufacturing Alchemy** — organizes the transformation of materials, components, designs, and resources into finished products through controlled production processes.
+- **Telecommunications Alchemy** — organizes the transmission, reception, exchange, and management of information across communication networks and transmission systems.
+- **Artificial Intelligence Alchemy** — organizes the design, development, integration, operation, evaluation, and governance of intelligence technologies and their computational capabilities.
+- **Cybersecurity Alchemy** — organizes the protection, monitoring, assessment, and recovery of systems, networks, devices, applications, information, and technological infrastructure against unauthorized access, compromise, disruption, and misuse.
+
+#### 3. Cross-Disciplinary Engineering and Technology Relationships
+
+Engineering and Technology Alchemy is inherently interdisciplinary. Its specialized branches may operate independently or combine within larger systems.
+
+- **Engineering Integration Alchemy** — coordinates multiple engineering disciplines and technologies into coherent, interoperable systems.
+- **Technology Lifecycle Alchemy** — organizes technology from conception and design through development, deployment, operation, maintenance, adaptation, and retirement.
+- **Engineering Verification Alchemy** — establishes whether engineered systems satisfy their specified requirements through testing, inspection, analysis, and validation.
+- **Technology Safety Alchemy** — establishes protections against foreseeable hazards, unsafe operation, and unintended consequences.
+- **Engineering Reliability Alchemy** — organizes system performance, durability, fault tolerance, maintenance, and recovery.
+- **Technology Interoperability Alchemy** — enables distinct technologies, platforms, devices, and systems to exchange information and operate together without erasing their differences.
+
 ---
 
 ## Body Alchemy
