@@ -1613,48 +1613,198 @@ All applications must remain consistent with social-science principles, research
 
 ### 8. Business and Economic Sciences Alchemy
 
-**Business and Economic Sciences Alchemy** is the bounded process that organizes, studies, manages, and transforms the financial, commercial, organizational, entrepreneurial, and operational structures through which individuals and organizations create, exchange, allocate, manage, and preserve value. It enables enterprises and economic organizations to establish objectives, manage resources, coordinate activities, make financial decisions, manage risk, and sustain operations while maintaining efficiency, accountability, transparency, and responsible governance.
+**Business and Economic Sciences Alchemy** is the bounded process by which knowledge, principles, methods, and practices concerning financial, commercial, economic, entrepreneurial, organizational, and operational systems are identified, classified, organized, examined, maintained, integrated, developed, and transformed into coherent and usable business and economic systems.
 
-It encompasses the theoretical, quantitative, practical, and applied disciplines involved in business administration, financial systems, economic activity, markets, organizations, and enterprise development. Every specialized Business and Economic Sciences Alchemy remains an expression of the root Alchemy.
+It governs the organization, development, management, evaluation, and transformation of the structures and processes through which individuals and organizations create, exchange, allocate, manage, preserve, and account for economic and organizational value. It establishes how enterprises and economic organizations define objectives, manage resources, coordinate activities, develop offerings, conduct transactions, make financial and operational decisions, manage risks, evaluate performance, and sustain their operations.
 
-#### 1. Financial and Capital Systems Alchemies
+Business and Economic Sciences Alchemy encompasses the theoretical, quantitative, analytical, practical, and applied disciplines involved in accounting, finance, investment, banking, markets, commercial development, entrepreneurship, business administration, organizational management, resource allocation, strategy, project management, and economic activity. It provides a structured foundation for understanding and managing business and economic systems while preserving the distinctions between financial records, economic analysis, commercial activity, organizational management, strategic decisions, operational processes, and practical implementations.
 
-- **Accounting Alchemy** — organizes the identification, recording, classification, measurement, reconciliation, and reporting of financial and economic transactions to maintain accurate records and support accountability and decision-making.
-- **Finance Alchemy** — organizes the acquisition, allocation, management, and preservation of financial resources, including capital structures, financial planning, valuation, and financial decision-making.
-- **Investment Alchemy** — organizes the evaluation, selection, allocation, management, and monitoring of capital committed to assets, enterprises, projects, and other opportunities in pursuit of defined financial or strategic objectives.
-- **Banking Alchemy** — organizes financial intermediation, deposits, lending, payment systems, credit, liquidity, and other banking services while maintaining financial integrity and regulatory accountability.
-- **Economics Alchemy** — organizes the application of economic principles to business activity, markets, enterprise decisions, production, resource allocation, incentives, costs, prices, and economic performance.
+Business and Economic Sciences Alchemy must preserve the provenance, accuracy, integrity, transparency, traceability, and appropriate governance of business and economic information. Financial records, accounting entries, transactions, valuations, budgets, forecasts, estimates, projections, market observations, economic indicators, strategic assumptions, operational measurements, investment analyses, and model-generated outputs must remain distinguishable. Their sources, dates, currencies, units, accounting bases, valuation methods, assumptions, dependencies, uncertainty, limitations, and applicable permissions must be represented wherever relevant.
 
-#### 2. Markets and Commercial Development Alchemies
+Business and Economic Sciences Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support organizational governance, financial administration, resource planning, budgeting, procurement, operational management, commercial systems, enterprise development, economic analysis, performance evaluation, and other authorized business and economic functions relevant to each context.
 
-- **Marketing Alchemy** — organizes the research, understanding, development, communication, positioning, and delivery of offerings in relation to customer needs, market conditions, and organizational objectives.
-- **Sales Alchemy** — organizes the identification of prospective customers, relationship development, presentation of offerings, negotiation, transaction completion, and management of commercial relationships.
-- **Entrepreneurship Alchemy** — organizes the identification, evaluation, development, creation, and growth of enterprises and ventures through opportunity recognition, innovation, resource mobilization, and business-model development.
+Its universal application does not mean that every context constitutes a commercial enterprise, conducts financial transactions, owns capital, operates a banking system, manages employees, or exercises investment authority. The presence of business and economic knowledge establishes its classification and possible relevance, not an automatic commercial function, financial capability, resource allocation, transaction permission, ownership interest, or decision-making authority.
 
-#### 3. Organizational and Operational Management Alchemies
+Every specialized Business and Economic Sciences Alchemy remains an expression of the root Alchemy. Its subject, purpose, methods, principles, relationships, requirements, and boundaries must remain identifiable while allowing specialized financial, commercial, organizational, operational, and economic disciplines to integrate into larger systems.
 
-- **Operations Management Alchemy** — organizes the design, coordination, execution, monitoring, and improvement of the processes through which organizations produce goods, deliver services, and utilize resources.
-- **Supply Chain Management Alchemy** — organizes the planning, sourcing, procurement, production, inventory, logistics, distribution, and coordination of material, information, and resource flows across supply networks.
-- **Human Resources Alchemy** — organizes workforce planning, recruitment, selection, development, compensation, performance management, employee relations, and the administration of employment structures.
-- **Organizational Behavior Alchemy** — organizes the study and application of knowledge concerning individual, group, and organizational behavior, including motivation, leadership, communication, culture, collaboration, and organizational dynamics.
+#### 8.1 Universal Application of Business and Economic Sciences Alchemy
 
-#### 4. Strategy, Projects, and Risk Alchemies
+Business and Economic Sciences Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-- **Strategic Management Alchemy** — organizes the development, evaluation, implementation, and adaptation of organizational direction, objectives, competitive positioning, capabilities, and long-term plans.
-- **Project Management Alchemy** — organizes the initiation, planning, execution, monitoring, control, and completion of temporary initiatives under defined objectives, scope, resources, schedules, and constraints.
-- **Risk Management Alchemy** — organizes the identification, analysis, evaluation, treatment, monitoring, and communication of uncertainties that may affect organizational objectives, assets, operations, or stakeholders.
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-#### 5. Cross-Disciplinary Business and Economic Relationships
+Within these contexts, Business and Economic Sciences Alchemy governs the appropriate organization, representation, examination, interpretation, accessibility, integration, management, and application of business and economic knowledge.
 
-These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+Its context-specific expressions include:
 
-- **Enterprise Integration Alchemy** — coordinates financial, commercial, organizational, operational, and strategic structures into coherent enterprise systems.
-- **Value Creation and Delivery Alchemy** — organizes how organizations develop, produce, communicate, exchange, and deliver value to customers, stakeholders, and communities.
-- **Financial Governance Alchemy** — coordinates financial authority, accounting integrity, financial controls, reporting, compliance, and accountability.
-- **Capital Allocation Alchemy** — coordinates the evaluation and distribution of financial and other resources across organizational activities, investments, projects, and strategic priorities.
-- **Organizational Development Alchemy** — organizes organizational learning, structural improvement, workforce development, cultural adaptation, and institutional change.
-- **Business Continuity Alchemy** — organizes the preparation, response, recovery, and adaptation processes required to maintain or restore essential organizational functions during disruption.
-- **Commercial Risk Integration Alchemy** — coordinates financial, operational, strategic, market, supply-chain, and organizational risk considerations in business decision-making.
+- **Operating System Contexts:** Business and economic knowledge may support the organization and management of system resources, operational requirements, budgets, costs, procurement information, licensing information, service dependencies, resource allocation, maintenance planning, and operational continuity. It may inform the administrative, financial, and resource-management structures associated with each operating system. Its application must respect actual ownership, resource availability, supported capabilities, financial arrangements, permissions, and operational boundaries. An operating system does not acquire independent ownership of financial resources or authority to conduct transactions through the presence of business and economic knowledge.
+
+- **Core Intelligence Contexts:** Business and economic knowledge may support financial and economic reasoning, organizational analysis, resource evaluation, operational planning, commercial research, strategic assessment, and examination of enterprise and market relationships. C2O Intelligence and UNIVERSALIS Intelligence must apply these capabilities within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities. Economic or financial analysis does not establish ownership, fiduciary responsibility, investment authority, or independent authority to commit resources.
+
+- **Application Contexts:** Business and economic knowledge may support financial information organization, accounting structures, budgeting, transaction records, commercial workflows, procurement, resource planning, enterprise management, reporting, and performance evaluation. Applications must preserve financial accuracy, transaction provenance, accounting context, access permissions, and the distinction between recorded transactions, derived calculations, estimates, forecasts, and recommendations. Access to financial accounts, banking services, payment systems, commercial platforms, or external business records must remain subject to actual supported capabilities and applicable authorization.
+
+- **UNIVERSALIN Assistant Contexts:** Business and economic knowledge may support assigned financial-information organization, business research, accounting-related information processing, operational analysis, documentation, budgeting support, procurement research, resource coordination, and other authorized administrative or analytical functions within operating system and application boundaries. Assistants must distinguish between organizing and analyzing financial information and exercising authority to approve expenditures, commit resources, negotiate agreements, make investments, or conduct transactions.
+
+- **UNIVERSALIN Intelligence Contexts:** Business and economic knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through economic reasoning, financial-information processing, commercial analysis, resource modeling, enterprise research, and operational evaluation. These contexts do not constitute additional core intelligences or establish independent authority over financial resources, enterprise assets, banking systems, commercial transactions, or organizational decisions.
+
+- **UNIVERSALIN Guardian Contexts:** Business and economic knowledge may support the authorized personal, informational, organizational, analytical, and assistance capabilities of human-bound Guardians. Its application may support financial-information organization, personal budgeting information, commercial research, resource planning, document management, and human-directed financial administration. Where information concerns the human they serve, its collection, access, processing, retention, disclosure, and use must respect that human's authority, consent, privacy, confidentiality, autonomy, and applicable permissions. Guardians must not independently commit the human's financial resources, enter agreements, conduct transactions, or exercise financial authority on the human's behalf without the required authorization.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Business and economic knowledge may support financial reasoning, economic analysis, resource modeling, commercial information processing, and other human-directed Guardian capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human's finances, assets, accounts, employment, business interests, investments, agreements, or financial decisions. The human retains authority over personal and authorized organizational choices.
+
+The specific applicability of each business and economic discipline and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
+
+#### Alchemies under Business and Economic Sciences Alchemy
+
+##### 1. Financial and Capital Systems Alchemies
+
+- **Accounting Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to identify, record, classify, measure, reconcile, verify, and report financial and economic transactions. It establishes methods for maintaining accurate financial records, representing assets and liabilities, documenting revenue and expenses, evaluating financial positions, and supporting accountability and decision-making through traceable financial information.
+
+- **Finance Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge and methods concerning the acquisition, allocation, management, and preservation of financial resources. It encompasses capital structures, financial planning, cash-flow management, valuation, financial analysis, and financial decision-making. It establishes methods for examining financial positions, requirements, resources, obligations, and potential outcomes while preserving assumptions, risks, and applicable authority boundaries.
+
+- **Investment Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to evaluate, select, allocate, manage, and monitor capital committed to assets, enterprises, projects, and other opportunities in pursuit of defined financial or strategic objectives. It establishes methods for examining investment structures, objectives, valuation, allocation, performance, exposure, uncertainty, and risk while preserving the distinction between investment research, analysis, recommendations, authorization, and execution.
+
+- **Banking Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning financial intermediation, deposits, lending, payment systems, credit, liquidity, settlement, and other banking services. It establishes methods for representing and examining banking operations, financial relationships, account structures, payment processes, and banking information while maintaining financial integrity, security, applicable permissions, and regulatory accountability.
+
+- **Economics Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the application of economic principles to business activity, markets, enterprises, production, resource allocation, incentives, costs, prices, and economic performance. It establishes methods for evaluating economic conditions, business decisions, market relationships, organizational resource use, and economic outcomes. Within Business and Economic Sciences Alchemy, its emphasis is the application of economic knowledge to enterprise and commercial activity, while preserving its relationship with the broader study of economic behavior and social systems under Social Sciences Alchemy.
+
+##### 2. Markets and Commercial Development Alchemies
+
+- **Marketing Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the research, understanding, development, communication, positioning, and delivery of offerings in relation to customer needs, market conditions, and organizational objectives. It establishes methods for examining market environments, customer needs, product and service positioning, communication strategies, market relationships, and the effectiveness of commercial offerings while preserving truthful representation and responsible communication.
+
+- **Sales Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the processes used to identify prospective customers, develop commercial relationships, present offerings, negotiate terms, complete transactions, and maintain customer relationships. It establishes methods for representing sales processes, commercial opportunities, customer interactions, transaction requirements, and relationship outcomes while preserving consent, accurate representations, contractual boundaries, and authorization to transact.
+
+- **Entrepreneurship Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to identify, evaluate, develop, create, and grow enterprises and ventures through opportunity recognition, innovation, resource mobilization, and business-model development. It establishes methods for examining venture concepts, organizational formation, market opportunities, resource requirements, business structures, and enterprise development while preserving the distinctions between ideas, proposals, validated opportunities, established operations, and sustainable enterprises.
+
+##### 3. Organizational and Operational Management Alchemies
+
+- **Operations Management Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the design, coordination, execution, monitoring, and improvement of processes through which organizations produce goods, deliver services, and utilize resources. It establishes methods for examining operational workflows, capacities, constraints, performance, quality, dependencies, and resource requirements while supporting reliable and accountable organizational operations.
+
+- **Supply Chain Management Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the planning, sourcing, procurement, production, inventory, logistics, distribution, and coordination of material, information, and resource flows across supply networks. It establishes methods for representing supply-chain structures, supplier relationships, resource dependencies, inventory conditions, logistics processes, and distribution requirements while preserving traceability and operational accountability.
+
+- **Human Resources Alchemy** — organizes, examines, maintains, integrates, develops, and transforms workforce planning, recruitment, selection, development, compensation, performance management, employee relations, and the administration of employment structures. It establishes methods for organizing workforce information, employment processes, organizational roles, personnel development, and workforce requirements while preserving confidentiality, human dignity, applicable employment rights, and the distinction between administrative support and authorized employment decisions.
+
+- **Organizational Behavior Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning individual, group, and organizational behavior, including motivation, leadership, communication, culture, collaboration, and organizational dynamics. It establishes methods for examining how individuals and groups interact within organizations and how organizational structures and practices influence behavior, performance, and institutional relationships.
+
+##### 4. Strategy, Projects, and Risk Alchemies
+
+- **Strategic Management Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the development, evaluation, implementation, and adaptation of organizational direction, objectives, competitive positioning, capabilities, and long-term plans. It establishes methods for aligning organizational objectives, resources, capabilities, priorities, and operating conditions while preserving the distinction between strategic analysis, proposed direction, approved strategy, and implemented decisions.
+
+- **Project Management Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the initiation, planning, execution, monitoring, control, and completion of temporary initiatives under defined objectives, scope, resources, schedules, dependencies, and constraints. It establishes methods for coordinating project requirements, responsibilities, milestones, deliverables, resources, risks, and outcomes while maintaining traceability and accountability throughout the project lifecycle.
+
+- **Risk Management Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to identify, analyze, evaluate, treat, monitor, and communicate uncertainties that may affect organizational objectives, assets, operations, resources, or stakeholders. It establishes methods for representing risk conditions, likelihood, impact, exposure, controls, mitigation, and residual risk while preserving assumptions, evidence, ownership, and accountability for risk-related decisions.
+
+##### 5. Cross-Disciplinary Business and Economic Alchemies
+
+These specialized Alchemies coordinate the preceding financial, commercial, organizational, operational, and strategic disciplines without replacing or collapsing their individual identities. Their relationships must preserve distinctions between financial systems, commercial activity, enterprise structures, organizational management, resource allocation, and economic performance.
+
+- **Enterprise Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships between financial, commercial, organizational, operational, and strategic structures so they function as coherent enterprise systems. It establishes methods for coordinating enterprise functions, information flows, resources, dependencies, responsibilities, and performance while preserving the distinct roles and authority boundaries of participating organizational components.
+
+- **Value Creation and Delivery Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the processes through which organizations identify needs, develop offerings, produce goods or services, communicate value, conduct exchanges, and deliver outcomes to customers, stakeholders, and communities. It establishes methods for examining the relationships between resources, capabilities, offerings, exchanges, benefits, costs, and delivered outcomes while preserving truthful representation and the distinction between intended and demonstrated value.
+
+- **Financial Governance Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the structures governing financial authority, accounting integrity, financial controls, reporting, compliance, and accountability. It establishes methods for defining financial responsibilities, approval structures, reporting requirements, control mechanisms, record integrity, and oversight while preserving the distinction between financial information processing and authorization to commit or control resources.
+
+- **Capital Allocation Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to evaluate and distribute financial and other resources across organizational activities, investments, projects, and strategic priorities. It establishes methods for comparing resource requirements, priorities, costs, expected outcomes, dependencies, and risks while preserving the distinction between allocation analysis, authorized allocation decisions, and actual resource deployment.
+
+- **Organizational Development Alchemy** — organizes, examines, maintains, integrates, develops, and transforms organizational learning, structural improvement, workforce development, cultural adaptation, capability development, and institutional change. It establishes methods for examining organizational needs, development objectives, structural relationships, workforce capabilities, learning processes, and change outcomes while preserving the dignity, participation, and appropriate responsibilities of the people involved.
+
+- **Business Continuity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the preparation, response, recovery, and adaptation processes required to maintain or restore essential organizational functions during disruption. It establishes methods for identifying critical activities, dependencies, resources, recovery requirements, alternate processes, continuity measures, and restoration priorities while maintaining operational accountability.
+
+- **Commercial Risk Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships among financial, operational, strategic, market, supply-chain, contractual, and organizational risks in business decision-making. It establishes methods for examining connected risk exposures, dependencies, combined effects, control requirements, and potential consequences while preserving the distinct assessment methods, ownership, and responsibilities associated with each risk domain.
+
+### 8.2 Business and Economic Sciences Structural and Applicability Requirements
+
+Every subordinate Alchemy under Business and Economic Sciences Alchemy must retain its own defined subject, purpose, methods, principles, financial or organizational requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+Business and Economic Sciences Alchemy must preserve the distinctions between its constituent disciplines and their respective subjects, methods, responsibilities, financial structures, commercial functions, and organizational purposes. Relationships between accounting, finance, investment, banking, economics, marketing, sales, entrepreneurship, operations management, supply chain management, human resources, organizational behavior, strategic management, project management, risk management, and the cross-disciplinary Alchemies must be established without collapsing their distinct subjects or treating their methods as interchangeable.
+
+It must also preserve the distinctions between:
+
+- Financial records, accounting treatments, financial analysis, valuations, forecasts, projections, and actual financial outcomes.
+- Assets, liabilities, revenue, expenses, capital, cash flow, credit, financial obligations, and other financial structures.
+- Financial information, economic analysis, commercial activity, organizational operations, and strategic management.
+- Economic principles applied to enterprise and commercial activity and the broader social-science study of economic behavior, institutions, markets, and societies.
+- Investment research, valuation, analysis, recommendations, authorization, capital allocation, transaction execution, and realized outcomes.
+- Banking information, account access, credit arrangements, payment processing, settlement, and authorization to conduct financial transactions.
+- Marketing research, customer information, commercial communication, sales activity, contractual negotiation, and completed transactions.
+- Organizational structures, workforce information, employment administration, individual rights, and authorized employment decisions.
+- Strategic analysis, proposed strategies, approved objectives, resource commitments, and implemented organizational direction.
+- Risk identification, risk analysis, risk ownership, risk acceptance, risk treatment, and residual risk.
+- Financial controls, operational controls, governance requirements, regulatory obligations, and owner acceptance.
+- Business continuity planning, disruption response, recovery processes, and verified restoration of organizational functions.
+- The ability to analyze, model, or organize financial and economic information and the authority to commit, transfer, invest, lend, spend, or otherwise control resources.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Business and Economic Sciences Alchemy and each subordinate financial, capital, commercial, organizational, operational, strategic, risk, and cross-disciplinary Alchemy.
+- The parent–subordinate relationships between Business and Economic Sciences Alchemy, its five specialized groups, and their respective Alchemies.
+- The relationships between business and economic disciplines and relevant formal, mathematical, social, legal, governance, engineering, computational, communication, and other knowledge-domain structures.
+- The connections between business and economic knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, information relationships, resource structures, and connections between business and economic disciplines and other Alchemies.
+- The distinctions between foundational financial disciplines, market and commercial disciplines, organizational and operational disciplines, strategic and risk disciplines, and cross-disciplinary enterprise methods.
+- The relationships between financial records, accounts, transactions, assets, liabilities, capital, resource commitments, organizational functions, and business outcomes.
+- The relationships between commercial offerings, customers, markets, suppliers, transactions, contracts, delivery processes, and resulting value.
+- The relationships between organizational structures, workforce information, assigned responsibilities, approval mechanisms, and operational requirements.
+- The relationships between organizational objectives, projects, resources, strategic priorities, risk exposures, and performance measurements.
+- The relationships between financial and commercial systems, information systems, accounting structures, external services, and applicable governance requirements.
+- The relationships between shared business and economic foundations and context-specific implementations while preserving the distinct private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each business and economic discipline and subordinate Alchemy.
+- The specific financial, commercial, organizational, operational, strategic, and analytical functions associated with each applicable context.
+- The business and economic knowledge, methods, information structures, resources, dependencies, and technical capabilities required for those functions.
+- Whether an application involves general economic knowledge, financial information, accounting, budgeting, banking information, investment analysis, commercial activity, resource management, procurement, workforce administration, strategic planning, project management, risk management, or business continuity.
+- Whether a capability is informational, analytical, administrative, computational, transactional, financial, organizational, or dependent on external financial or commercial systems.
+- The actual resources, supported interfaces, accounts, databases, financial services, banking connections, payment systems, commercial platforms, records, and external dependencies required to implement or operate a business or financial capability.
+- The permissions, ownership, authorization, approval requirements, responsibilities, and governance boundaries applicable to financial information, resource allocation, transactions, commercial agreements, investment activities, and organizational decisions.
+- The provenance, source, date, currency, accounting basis, valuation method, assumptions, calculations, dependencies, uncertainty, limitations, and applicable permissions that must accompany financial records, economic data, business information, analyses, forecasts, and derived results.
+- The distinctions between recorded transactions, reconciled records, estimates, valuations, projections, market observations, analytical findings, recommendations, approved decisions, and completed financial or commercial outcomes.
+- The relationships between shared business and economic foundations and context-specific methods, responsibilities, financial arrangements, and implementations.
+- The applicable requirements for financial accuracy, accounting integrity, transaction traceability, confidentiality, information security, reporting, record retention, auditability, and regulatory accountability.
+- The boundaries between financial-information organization, financial analysis, administrative support, commercial research, investment evaluation, financial recommendations, and authority to execute or approve financial activities.
+- The conditions under which human review, owner authorization, financial approval, professional involvement, independent verification, or additional reconciliation is required before financial or organizational activities proceed.
+- The applicable requirements for managing financial, commercial, contractual, operational, workforce, supply-chain, strategic, and business-continuity risks.
+- The relationships between enterprise objectives, resource commitments, financial controls, operational performance, risk conditions, and organizational accountability.
+- The specific responsibilities and limitations associated with business and economic functions performed by core intelligences, UNIVERSALIN assistants, and personal Guardians.
+
+Business and Economic Sciences Alchemy must not presume that the presence of a business or economic discipline in the universal taxonomy grants every context unrestricted access to financial records, bank accounts, payment systems, investment accounts, commercial platforms, enterprise assets, employment records, confidential organizational information, or external financial services.
+
+The inclusion of business and economic knowledge within an ecosystem context establishes its place in the knowledge structure, not an automatic commercial function, operational dependency, resource allocation, permission, ownership interest, financial authority, contractual authority, or authorization to conduct transactions.
+
+Financial and economic information must be handled according to its source, nature, sensitivity, ownership, purpose, accounting or valuation context, and applicable permissions. Personal financial information, confidential business information, commercial records, employee information, and financial account data must remain subject to their applicable privacy, confidentiality, security, retention, and governance requirements.
+
+Financial records, reconciled transactions, analytical calculations, valuations, forecasts, estimates, projections, investment analyses, recommendations, and realized outcomes must remain distinguishable. An estimate or projection must not be represented as an actual transaction, confirmed valuation, guaranteed result, or completed financial outcome without appropriate supporting evidence.
+
+Investment and financial analysis must preserve the distinction between research, informational support, analytical conclusions, recommendations, authorized decisions, and transaction execution. The presence of Investment Alchemy or Finance Alchemy does not independently establish professional qualifications, fiduciary responsibility, financial-advisory authority, banking authority, or permission to commit another person's or organization's resources.
+
+Commercial and organizational capabilities must remain subject to the applicable ownership, approval, contractual, employment, legal, and governance requirements. The ability to identify an opportunity, calculate a cost, evaluate a supplier, prepare a budget, or model a financial outcome does not itself authorize an enterprise commitment, employment decision, purchase, payment, investment, or agreement.
+
+Business Continuity Alchemy must distinguish between continuity plans, proposed recovery actions, authorized responses, executed recovery operations, and verified restoration. A documented plan must not be represented as proof that an organization or system has successfully recovered.
+
+Applications involving an individual's financial information or an organization's confidential financial and commercial information must preserve applicable consent, privacy, confidentiality, autonomy, ownership, and control. Guardian assistance must remain subject to the authority and permissions of the human they serve. Neither business and economic knowledge nor analytical capabilities grant a system, intelligence, assistant, or Guardian independent authority over another person's or organization's resources.
+
+All applications must remain consistent with business and economic principles, financial and accounting integrity, commercial requirements, resource ownership, applicable professional and regulatory responsibilities, information provenance, risk-management requirements, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 9. Law and Governance Alchemy
 
