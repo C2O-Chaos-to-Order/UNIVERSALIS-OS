@@ -84,6 +84,37 @@ The domain expressions above are specializations of their respective assistant b
 
 ---
 
+## Universal Subjects of Human Knowledge Alchemy
+
+**Universal Subjects of Human Knowledge Alchemy** is the bounded process that identifies, organizes, maintains, relates, develops, and transforms the domains and structures of human knowledge so that their subjects, methods, principles, relationships, and accumulated understanding can be coherently represented and developed.
+
+### 1. Formal Sciences Alchemy
+
+**Formal Sciences Alchemy** is the bounded process that organizes, maintains, and transforms formal knowledge systems based on logic, abstraction, symbolic structures, and formally defined relationships.
+
+#### Alchemies under Formal Sciences Alchemy
+
+- **Logic Alchemy** — organizes formal reasoning, inference, validity, consistency, and proof.
+- **Mathematics Alchemy** — organizes mathematical structures, operations, abstractions, and relationships.
+  - **Arithmetic Alchemy** — organizes numerical operations and relationships.
+  - **Algebra Alchemy** — organizes symbols, variables, equations, and abstract mathematical structures.
+  - **Geometry Alchemy** — organizes spatial forms, dimensions, configurations, and relationships.
+  - **Trigonometry Alchemy** — organizes angular relationships and the mathematical relationships between sides and angles.
+  - **Calculus Alchemy** — organizes change, limits, derivatives, integrals, and continuous mathematical relationships.
+  - **Statistics Alchemy** — organizes the collection, analysis, interpretation, and representation of data.
+  - **Probability Alchemy** — organizes uncertainty and mathematical likelihood.
+  - **Number Theory Alchemy** — organizes the properties, structures, and relationships of numbers.
+  - **Topology Alchemy** — organizes spatial properties and relationships preserved under continuous transformations.
+  - **Discrete Mathematics Alchemy** — organizes distinct, countable, and discrete mathematical structures.
+- **Systems Theory Alchemy** — organizes systems, their components, interactions, boundaries, behaviors, and relationships.
+- **Information Theory Alchemy** — organizes the mathematical representation, measurement, transmission, and processing of information.
+- **Decision Theory Alchemy** — organizes decisions, alternatives, outcomes, preferences, and uncertainty.
+- **Game Theory Alchemy** — organizes strategic interactions, participants, choices, incentives, and outcomes.
+- **Computation Theory Alchemy** — organizes the formal foundations, capabilities, and limitations of computation.
+- **Complexity Theory Alchemy** — organizes computational and structural complexity, including resource requirements and patterns of system behavior.
+
+---
+
 ## Body Alchemy
 
 **Body Alchemy** is the bounded process that organizes, maintains, and transforms the physical and structural substrate of a system or being so that it can support higher functions while remaining coherent, recoverable, and accountable.
