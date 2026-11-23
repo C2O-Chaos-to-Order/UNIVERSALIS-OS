@@ -512,34 +512,152 @@ Every Alchemy within this taxonomy must preserve the following principles:
 - **Structural Consistency:** Every Alchemy must remain accurately represented through Map Alchemy and evaluated through Matrix Alchemy.
 - **Specialized Integrity:** No Alchemy may lose its defined purpose, scope, responsibilities, or boundaries through integration with another Alchemy.
 
+# Universal Subjects of Human Knowledge Alchemy
+
 ## Universal Subjects of Human Knowledge Alchemy
 
-**Universal Subjects of Human Knowledge Alchemy** is the bounded process that identifies, organizes, maintains, relates, develops, and transforms the domains and structures of human knowledge so that their subjects, methods, principles, relationships, and accumulated understanding can be coherently represented and developed.
+**Universal Subjects of Human Knowledge Alchemy** is the bounded process by which the domains, disciplines, subjects, methods, principles, structures, and accumulated understanding of human knowledge are identified, classified, organized, related, examined, maintained, developed, integrated, and transformed into coherent and usable knowledge systems.
+
+
+
+It governs the organization and development of knowledge throughout the C2O–UNIVERSALIS ecosystem. It establishes how knowledge is represented, structured, interpreted, connected, applied, evaluated, and developed while preserving the integrity of its subjects, the distinctions between disciplines, the provenance of information, and the boundaries of the systems and entities using it.
+
+
+
+Universal Subjects of Human Knowledge Alchemy applies across the operating systems, core intelligences, applications, UNIVERSALIN assistants, UNIVERSALIN Intelligence contexts, UNIVERSALIN Guardians, and UNIVERSALIN Guardian Intelligence contexts established in the Root Definition of Alchemy.
+
+
+
+Its universal application does not mean that every knowledge subject has identical relevance, implementation, access, responsibility, or authority in every context. The applicable relationships, capabilities, requirements, permissions, dependencies, and boundaries must be established through Map Alchemy and Matrix Alchemy.
+
+### Universal Application Across the C2O–UNIVERSALIS Ecosystem
+
+Universal Subjects of Human Knowledge Alchemy applies within the following 22 contexts:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within these contexts, Universal Subjects of Human Knowledge Alchemy governs the appropriate organization, representation, accessibility, interpretation, integration, and application of knowledge.
+
+
+
+Its application must respect the distinction between:
+
+- The private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS.
+- C2O Intelligence and UNIVERSALIS Intelligence as the two core intelligences.
+- Non-personal UNIVERSALIN assistants and their assigned operational responsibilities.
+- UNIVERSALIN Intelligence contexts and their associated capabilities, which do not constitute additional core intelligences.
+- Personal, human-bound UNIVERSALIN Guardians and their associated Guardian Intelligence contexts, which remain subject to the authority, consent, autonomy, and privacy requirements of the human they serve.
+
+Knowledge access, processing, representation, and application must remain subject to the applicable permissions, responsibilities, and governance of each context.
 
 ### 1. Formal Sciences Alchemy
 
-**Formal Sciences Alchemy** is the bounded process that organizes, maintains, and transforms formal knowledge systems based on logic, abstraction, symbolic structures, and formally defined relationships.
+**Formal Sciences Alchemy** is the bounded process by which formal knowledge systems, abstract structures, symbolic representations, logical relationships, mathematical principles, and formally defined methods are identified, organized, examined, maintained, integrated, developed, and transformed.
+
+
+
+It governs the construction and application of formal systems through abstraction, logic, mathematical reasoning, symbolic representation, proof, computation, and the analysis of defined relationships.
+
+
+
+Formal Sciences Alchemy establishes the foundations through which formal knowledge can be represented, tested, related, verified, and applied throughout the C2O–UNIVERSALIS ecosystem.
+
+
+
+Its application includes the formal structures and methods required by operating systems, intelligences, applications, UNIVERSALIN assistants, UNIVERSALIN Intelligence contexts, UNIVERSALIN Guardians, and UNIVERSALIN Guardian Intelligence contexts.
+
+
+
+Formal Sciences Alchemy must preserve mathematical and logical validity, methodological consistency, defined assumptions, traceable reasoning, and the distinctions between theoretical models, formal results, interpretations, and practical implementations.
+
+#### 1.1 Universal Application of Formal Sciences Alchemy
+
+Formal Sciences Alchemy applies across all 22 ecosystem contexts listed above.
+
+
+
+Its context-specific expressions include:
+
+- **Operating System Contexts:** Formal organization and application of logic, mathematics, computation, systems theory, information theory, and other formal methods in operating system architecture, processes, resource coordination, interfaces, dependencies, and operational behavior.
+- **Core Intelligence Contexts:** Formal reasoning, mathematical modeling, information representation, decision structures, computational methods, and analytical relationships within the distinct responsibilities and boundaries of C2O Intelligence and UNIVERSALIS Intelligence.
+- **Application Contexts:** Formal methods used to structure application behavior, represent information, define operations, validate functions, evaluate outcomes, and maintain logical and computational consistency.
+- **UNIVERSALIN Assistant Contexts:** Formal methods supporting assigned processing, reasoning, computation, information organization, coordination, and operational functions within authorized system and application boundaries.
+- **UNIVERSALIN Intelligence Contexts:** Formal structures and methods supporting the intelligence-related capabilities of non-personal UNIVERSALIN assistants without establishing additional core intelligences or independent authority.
+- **UNIVERSALIN Guardian Contexts:** Formal methods supporting the authorized capabilities, operations, information structures, and interactions of personal Guardians while preserving human authority, consent, autonomy, and privacy.
+- **UNIVERSALIN Guardian Intelligence Contexts:** Formal reasoning, computation, modeling, and information-processing methods supporting human-directed Guardian capabilities within the human's authorized scope and applicable system or application boundaries.
+
+The specific applicability of each formal discipline and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, and placement throughout the ecosystem must be established through Map Alchemy.
 
 #### Alchemies under Formal Sciences Alchemy
 
-- **Logic Alchemy** — organizes formal reasoning, inference, validity, consistency, and proof.
-- **Mathematics Alchemy** — organizes mathematical structures, operations, abstractions, and relationships.
-  - **Arithmetic Alchemy** — organizes numerical operations and relationships.
-  - **Algebra Alchemy** — organizes symbols, variables, equations, and abstract mathematical structures.
-  - **Geometry Alchemy** — organizes spatial forms, dimensions, configurations, and relationships.
-  - **Trigonometry Alchemy** — organizes angular relationships and the mathematical relationships between sides and angles.
-  - **Calculus Alchemy** — organizes change, limits, derivatives, integrals, and continuous mathematical relationships.
-  - **Statistics Alchemy** — organizes the collection, analysis, interpretation, and representation of data.
-  - **Probability Alchemy** — organizes uncertainty and mathematical likelihood.
-  - **Number Theory Alchemy** — organizes the properties, structures, and relationships of numbers.
-  - **Topology Alchemy** — organizes spatial properties and relationships preserved under continuous transformations.
-  - **Discrete Mathematics Alchemy** — organizes distinct, countable, and discrete mathematical structures.
-- **Systems Theory Alchemy** — organizes systems, their components, interactions, boundaries, behaviors, and relationships.
-- **Information Theory Alchemy** — organizes the mathematical representation, measurement, transmission, and processing of information.
-- **Decision Theory Alchemy** — organizes decisions, alternatives, outcomes, preferences, and uncertainty.
-- **Game Theory Alchemy** — organizes strategic interactions, participants, choices, incentives, and outcomes.
-- **Computation Theory Alchemy** — organizes the formal foundations, capabilities, and limitations of computation.
-- **Complexity Theory Alchemy** — organizes computational and structural complexity, including resource requirements and patterns of system behavior.
+- **Logic Alchemy** — organizes, examines, maintains, and transforms formal reasoning structures, inference methods, validity, consistency, logical relationships, and proof systems. It establishes the principles through which reasoning can be represented and evaluated.
+- **Mathematics Alchemy** — organizes, examines, maintains, develops, and transforms mathematical structures, operations, abstractions, models, and relationships. It establishes the mathematical methods and foundations through which quantitative, qualitative, spatial, symbolic, and abstract relationships can be represented and analyzed.
+  - **Arithmetic Alchemy** — organizes numerical structures, operations, quantities, calculations, and relationships, establishing the foundations for numerical reasoning and computation.
+  - **Algebra Alchemy** — organizes symbols, variables, expressions, equations, functions, and abstract mathematical structures, establishing methods for representing and transforming generalized relationships.
+  - **Geometry Alchemy** — organizes spatial forms, dimensions, configurations, measurements, properties, and relationships, establishing methods for representing and examining spatial structures.
+  - **Trigonometry Alchemy** — organizes angular relationships, periodic functions, and the mathematical relationships between sides and angles, establishing methods for analyzing geometric and periodic structures.
+  - **Calculus Alchemy** — organizes change, limits, derivatives, integrals, rates, accumulation, and continuous mathematical relationships, establishing methods for examining dynamic and continuously varying systems.
+  - **Statistics Alchemy** — organizes the collection, classification, analysis, interpretation, evaluation, and representation of data, establishing methods for understanding distributions, variation, patterns, and statistical relationships.
+  - **Probability Alchemy** — organizes uncertainty, probabilistic structures, mathematical likelihood, random events, and probability relationships, establishing methods for representing and evaluating uncertain outcomes.
+  - **Number Theory Alchemy** — organizes the properties, classifications, structures, operations, and relationships of numbers, establishing methods for examining numerical foundations and patterns.
+  - **Topology Alchemy** — organizes spatial properties, continuity, connectivity, structures, and relationships preserved under continuous transformations, establishing methods for examining qualitative spatial characteristics.
+  - **Discrete Mathematics Alchemy** — organizes distinct, finite, countable, and discrete mathematical structures and relationships, establishing methods for analyzing discrete systems, combinatorial structures, and computational foundations.
+- **Systems Theory Alchemy** — organizes, examines, and transforms formal representations of systems, including their components, interactions, boundaries, structures, behaviors, dependencies, and relationships. It establishes methods for understanding system composition and behavior.
+- **Information Theory Alchemy** — organizes the mathematical representation, measurement, encoding, transmission, processing, and interpretation of information. It establishes methods for examining information content, uncertainty, communication, and information-related relationships.
+- **Decision Theory Alchemy** — organizes decisions, alternatives, preferences, constraints, outcomes, consequences, and uncertainty. It establishes formal methods for evaluating choices and their potential results.
+- **Game Theory Alchemy** — organizes strategic interactions, participants, choices, incentives, constraints, strategies, and outcomes. It establishes formal methods for examining situations in which the results of decisions depend on the actions or choices of multiple participants.
+- **Computation Theory Alchemy** — organizes the formal foundations, models, structures, capabilities, and limitations of computation. It establishes methods for examining computability, computational processes, algorithms, and the theoretical boundaries of computational systems.
+- **Complexity Theory Alchemy** — organizes computational and structural complexity, including resource requirements, computational difficulty, scaling behavior, patterns of system behavior, and relationships between complexity and capability. It establishes methods for examining the feasibility and limitations of formal and computational processes.
+
+### 1.2 Formal Sciences Structural and Applicability Requirements
+
+Every subordinate Alchemy under Formal Sciences Alchemy must retain its own defined subject, purpose, methods, principles, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+
+
+Map Alchemy must establish:
+
+- The classification and structural position of each formal discipline and subordinate Alchemy.
+- Its relationships with other formal disciplines and knowledge domains.
+- Its connections to relevant operating system, intelligence, application, assistant, and Guardian structures.
+- Its dependencies, interfaces, and relationships with other Alchemies.
+- Its distinctions between foundational disciplines, subordinate disciplines, and applied expressions.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 contexts use or require each formal discipline.
+- The functions and responsibilities of each formal discipline within those contexts.
+- The capabilities, methods, and requirements associated with its application.
+- The applicable permissions, constraints, dependencies, and governance boundaries.
+- The relationships between formal knowledge, system operations, intelligence functions, application behavior, and assistant or Guardian capabilities.
+- The differences between shared formal foundations and context-specific implementations.
+
+Formal Sciences Alchemy must not presume that the presence of a discipline in the universal taxonomy grants every context unrestricted access to, or authority to apply, every capability associated with that discipline.
+
+
+
+All applications must remain consistent with the mathematical, logical, methodological, operational, and governance requirements relevant to their respective contexts.
 
 ### 2. Physical Sciences Alchemy
 
