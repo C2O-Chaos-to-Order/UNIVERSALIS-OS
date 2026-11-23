@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.11.0  
-**Status:** Twenty supplied Universal Subject hierarchies recorded; 264 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 1.12.0  
+**Status:** Twenty supplied Universal Subject hierarchies recorded; 264 unique subject Alchemies mapped across 22 contexts; cross-domain map and matrix work initiated; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -2088,7 +2088,127 @@ Each of the 264 new mapped intersections must receive an individually authored a
 The 22 existing Knowledge Management mappings are not duplicated here. They remain associated with the shared canonical subject-Alchemy identity USA-ELS-008 and its two parent relationships. Detailed contextual expressions remain separate from the mapping references and must be evaluated according to the taxonomy's contextual-expression requirements.
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
-## 104. Cumulative Universal Subject Alchemy register and mapping totals
+## 104. Cross-domain mapping and matrix method
+
+This phase maps relationships among the twenty established top-level Universal Subjects of Knowledge and, in subsequent passes, among their canonical subject Alchemies. It is distinct from the existing 22-context matrix. The 22-context matrix answers where each Alchemy is mapped; the cross-domain map and matrix answer how distinct subject domains and subject Alchemies relate to one another.
+
+### 104.1 Mapping unit and direction
+
+- **Domain-level node:** one of the twenty canonical top-level Universal Subjects of Knowledge listed in the cumulative register.
+- **Subject-Alchemy node:** one of the 264 unique canonical subject Alchemies in the current taxonomy.
+- **Relationship edge:** a recorded relationship between two nodes, with a defined type, direction where applicable, supporting source or rationale, and review status.
+- **Domain-level matrix:** a twenty-by-twenty comparison of the 190 possible unordered pairs of distinct top-level subject domains. Diagonal cells represent a domain compared with itself and are not relationship edges.
+- **Subject-Alchemy-level map and matrices:** subsequent finer-grained work that records the individual subject identities and their relationships. Domain-level links must not be treated as proof that every Alchemy within the two domains is related.
+
+### 104.2 Relationship codes
+
+| Code | Meaning | Recording rule |
+|---|---|---|
+| SH | Shared canonical subject identity | The same stable subject-Alchemy ID is explicitly placed under two or more Universal Subject hierarchies. This is an identity-preserving cross-listing, not a similarity claim. |
+| RD | Related but distinct | Two different canonical subject-Alchemy IDs have a specifically described relationship while remaining separate identities. Requires an authored relationship statement and supporting rationale. |
+| DP | Dependency | One subject or Alchemy depends on another for a defined input, capability, condition, or operation. Requires evidence and direction. |
+| EN | Enables or supports | One subject or Alchemy provides a defined enabling or supporting function to another. Requires evidence and direction. |
+| UA | Unassessed | The pair has not yet been assessed sufficiently to assign a relationship code. UA does not mean unrelated, independent, or absent. |
+| — | Diagonal | A node compared with itself; excluded from pair counts. |
+
+Relationship codes are not interchangeable. SH is reserved for exact canonical identity reuse. RD, DP, and EN must not be assigned solely because names appear similar or because two subjects are grouped near one another. A pair may receive multiple codes only when each relationship is separately described and supported. Directed relationships such as DP and EN must also preserve direction in the relationship register; their matrix rendering may require an ordered matrix or a direction marker.
+
+### 104.3 Evidence and status requirements
+
+Each relationship record must preserve: source node IDs; target node IDs; relationship type; direction where applicable; canonical source wording or evidence reference; relationship rationale; known distinctions and boundaries; confidence or review status; reviewer/acceptance state; and change history. Relationship assessment status must remain distinct from source evidence status and owner acceptance.
+
+An unassessed pair must remain UA until it has been examined. A confirmed lack of a particular relationship may only be recorded after the relevant scope has been reviewed; it must not be inferred from a blank cell.
+
+## 105. Cross-domain shared-identity map
+
+This is the initial confirmed map of exact shared canonical subject-Alchemy identities across the twenty top-level Universal Subjects. It records only identities already explicitly established in the taxonomy's hierarchy and inventory records.
+
+| Map ID | Universal Subject A | Shared canonical subject-Alchemy | Canonical ID | Universal Subject B |
+|---|---|---|---|---|
+| SH-001 | Engineering and Technology | Artificial Intelligence | USA-ET-017 | Computer and Information Sciences |
+| SH-002 | Social Sciences | Economics | USA-SS-005 | Business and Economic Sciences |
+| SH-003 | Humanities | Linguistics | USA-HUM-006 | Language and Communication |
+| SH-004 | Life Sciences | Ecology | USA-LS-005 | Environmental Sciences |
+| SH-005 | Social Sciences | Anthropology | USA-SS-004 | Human Development and Civilization |
+| SH-006 | Engineering and Technology | Cybersecurity | USA-ET-018 | Security and Protection Sciences |
+| SH-007 | Environmental Sciences | Agriculture | USA-ENV-010 | Agriculture, Food, and Resource Sciences |
+| SH-008 | Education and Learning Sciences | Knowledge Management | USA-ELS-008 | Meta-Knowledge Sciences |
+
+**Pass 1 result:** eight confirmed shared-identity links connect eight unique domain pairs. Each shared subject retains one canonical subject-Alchemy identifier and one set of 22 context mappings, regardless of how many parent hierarchies reference it.
+
+These eight links do not mean that the connected domains are identical, that their entire subject inventories overlap, or that their contextual responsibilities are interchangeable. Each link establishes only the shared identity of the named subject Alchemy and its multiple parent relationships.
+
+## 106. Universal Subject of Knowledge 20 × 20 cross-domain matrix
+
+The matrix covers all twenty top-level Universal Subjects. Each off-diagonal cell represents one comparison between two different subject domains. The matrix is symmetric for this first pass because SH represents an undirected shared-identity relationship. Future directional relationships such as dependency or enablement must be represented in a directed relationship register and, where needed, a separate directed matrix.
+
+**Matrix code key:** SH = shared canonical subject identity; UA = not yet assessed; — = diagonal. UA is not a negative finding.
+
+| Universal Subject of Knowledge | **FS** | **PS** | **LS** | **HS** | **ET** | **CIS** | **SS** | **BES** | **LG** | **HUM** | **LC** | **ACE** | **ELS** | **ENV** | **ESP** | **HDC** | **SP** | **TI** | **AFR** | **MKS** |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **FS** Formal Sciences | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA |
+| **PS** Physical Sciences | UA | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA |
+| **LS** Life Sciences | UA | UA | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | SH | UA | UA | UA | UA | UA | UA |
+| **HS** Health Sciences | UA | UA | UA | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA |
+| **ET** Engineering and Technology | UA | UA | UA | UA | — | SH | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | SH | UA | UA | UA |
+| **CIS** Computer and Information Sciences | UA | UA | UA | UA | SH | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA |
+| **SS** Social Sciences | UA | UA | UA | UA | UA | UA | — | SH | UA | UA | UA | UA | UA | UA | UA | SH | UA | UA | UA | UA |
+| **BES** Business and Economic Sciences | UA | UA | UA | UA | UA | UA | SH | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA |
+| **LG** Law and Governance | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA |
+| **HUM** Humanities | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | SH | UA | UA | UA | UA | UA | UA | UA | UA | UA |
+| **LC** Language and Communication | UA | UA | UA | UA | UA | UA | UA | UA | UA | SH | — | UA | UA | UA | UA | UA | UA | UA | UA | UA |
+| **ACE** Arts and Creative Expression | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA | UA | UA | UA | UA | UA |
+| **ELS** Education and Learning Sciences | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA | UA | UA | UA | SH |
+| **ENV** Environmental Sciences | UA | UA | SH | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA | UA | SH | UA |
+| **ESP** Earth, Space, and Planetary Sciences | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA | UA | UA |
+| **HDC** Human Development and Civilization | UA | UA | UA | UA | UA | UA | SH | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA | UA |
+| **SP** Security and Protection Sciences | UA | UA | UA | UA | SH | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA |
+| **TI** Transportation and Infrastructure | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA |
+| **AFR** Agriculture, Food, and Resource Sciences | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | SH | UA | UA | UA | UA | — | UA |
+| **MKS** Meta-Knowledge Sciences | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | SH | UA | UA | UA | UA | UA | UA | — |
+
+### 106.1 Matrix coverage and current result
+
+| Measure | Pass 1 result |
+|---|---:|
+| Top-level Universal Subjects | 20 |
+| Possible unique off-diagonal domain pairs | 190 |
+| Confirmed shared-identity pairs (SH) | 8 |
+| Unassessed unique pairs (UA) | 182 |
+| Diagonal self-comparisons | 20 |
+| Symmetric SH cells displayed | 16 |
+| Symmetric UA cells displayed | 364 |
+
+**Assessment coverage:** 8 of 190 unique domain pairs (4.21%) have a confirmed shared-identity relationship recorded in this first pass. The remaining 182 unique pairs are explicitly unassessed, not classified as unrelated. The matrix is a first-pass identity matrix, not a completed semantic, functional, dependency, or influence map.
+
+## 107. Related-but-distinct relationship review queue
+
+The source taxonomy explicitly identifies the following subject distinctions or related subject groupings. These are retained as review candidates for later subject-Alchemy mapping. They are not yet encoded as RD, DP, or EN relationships in the twenty-by-twenty matrix because the exact relationship definition, scope, direction, and evidence have not been assessed in this pass.
+
+| Candidate | Subject Alchemy A | Subject Alchemy B or comparison set | Source-grounded reason for review | Current state |
+|---|---|---|---|---|
+| RD-CAND-001 | Systems Theory (USA-FS-014) | Systems Thinking (USA-MKS-009) | The taxonomy explicitly preserves them as distinct. | Candidate; relationship not yet typed. |
+| RD-CAND-002 | Complexity Theory (USA-FS-019) | Complexity Science (USA-MKS-010) | The taxonomy explicitly preserves them as distinct. | Candidate; relationship not yet typed. |
+| RD-CAND-003 | Intelligence Analysis (USA-SP-005) | Intelligence Studies (USA-MKS-012) | The taxonomy explicitly preserves them as distinct. | Candidate; relationship not yet typed. |
+| RD-CAND-004 | Logistics (USA-TI-003) | Supply Chain Management (USA-BES-010) | The Transportation and Infrastructure entry explicitly says Logistics is not collapsed into Supply Chain Management. | Candidate; relationship not yet typed. |
+| RD-CAND-005 | Urban Planning (USA-TI-005) | Urban Studies (USA-HDC-006) | The Transportation and Infrastructure entry explicitly says Urban Planning is not merged with Urban Studies. | Candidate; relationship not yet typed. |
+| RD-CAND-006 | Infrastructure Engineering (USA-TI-006) | Civil Engineering (USA-ET-004) | The Transportation and Infrastructure entry explicitly says Infrastructure Engineering is not merged with Civil Engineering. | Candidate; relationship not yet typed. |
+| RD-CAND-007 | Transportation and Infrastructure (USA-TI-001) | Aerospace Engineering (USA-ET-006) | Aerospace Engineering is named among related existing subjects that remain distinct; the source does not identify a one-to-one subject counterpart. | Parent-to-subject candidate; exact relation not yet typed. |
+| RD-CAND-008 | Human Development and Civilization (USA-HDC-001) | Cultural Studies (USA-SS-012); Demography (USA-SS-009); Sociology (USA-SS-003); Human Geography (USA-SS-008) | The Human Development and Civilization entry names these as related subjects that remain distinct; it does not specify individual relationship types. | Candidate set; individual edges not yet typed. |
+| RD-CAND-009 | Earth, Space, and Planetary Sciences (USA-ESP-001) | Astronomy (USA-PS-016); Cosmology (USA-PS-017); Planetary Science (USA-PS-018); Earth Science (USA-PS-019); Geophysics (USA-PS-020) | The Earth, Space, and Planetary Sciences entry explicitly identifies these existing subjects as related yet distinct from the supplied hierarchy. | Candidate set; individual edges not yet typed. |
+| RD-CAND-010 | Religious Studies (USA-HUM-008) | Comparative Religion (USA-HUM-009) | The Humanities entry identifies the names as closely related while preserving separate subject and Alchemy identities. | Candidate; relationship not yet typed. |
+| RD-CAND-011 | History (USA-HUM-004) | Historical Analysis (USA-HUM-012) | The Humanities entry identifies the names as closely related while preserving separate subject and Alchemy identities. | Candidate; relationship not yet typed. |
+
+The review queue preserves the source taxonomy's explicit distinctions without prematurely turning every distinction into a confirmed semantic relationship. The candidate sets RD-CAND-008 and RD-CAND-009 require finer-grained pairing before any individual edges are accepted. These candidates do not change the shared-identity matrix counts.
+
+### 107.1 Next mapping passes
+
+1. Resolve the candidate related-but-distinct pairs and sets into precise subject-Alchemy relationship records, or retain them as unresolved where evidence is insufficient.
+2. Examine the remaining unassessed top-level domain pairs, using the canonical subject inventories rather than category names alone.
+3. Build the subject-Alchemy-level relationship map for all 264 unique subject Alchemies, distinguishing identity, relation, dependency, enablement, and explicit non-equivalence.
+4. Produce subject-Alchemy-level matrices and supporting relationship registers; validate symmetry, directionality, duplicate edges, missing nodes, and evidence traceability.
+5. Review the maps and matrices across the 22 C2O and UNIVERSALIS contexts without assuming that a relationship has identical responsibilities, authority, implementation, or visibility in every context.
+## 108. Cumulative Universal Subject Alchemy register and mapping totals
 
 The taxonomy now contains twenty supplied Universal Subjects of Knowledge hierarchies.
 
@@ -2117,9 +2237,9 @@ The taxonomy now contains twenty supplied Universal Subjects of Knowledge hierar
 | **Cumulative unique total** | **272 hierarchy positions** | **264** | **22** | **5808** |
 
 The cumulative total represents 264 distinct subject Alchemies mapped across 22 contexts, producing 5808 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing Artificial Intelligence mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing Economics mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes nine new subject Alchemies and 198 new mapped intersections. Environmental Sciences contributes ten new subject Alchemies and 220 new mapped intersections; the existing Ecology Alchemy contributes 22 shared mapping references and is not counted twice. Earth, Space, and Planetary Sciences contributes ten new subject Alchemies and 220 new mapped intersections. Human Development and Civilization contributes nine new subject Alchemies and 198 new mapped intersections; the existing Anthropology Alchemy contributes 22 shared mapping references and is not counted twice. Security and Protection Sciences contributes eight new subject Alchemies and 176 new mapped intersections; the existing Cybersecurity Alchemy contributes 22 shared mapping references and is not counted twice. Transportation and Infrastructure contributes nine new distinct subject Alchemies and 198 new mapped intersections; no existing subject-Alchemy identities or context mappings are shared or counted again in that entry. Agriculture, Food, and Resource Sciences contributes nine new distinct subject Alchemies and 198 new mapped intersections; the existing Agriculture Alchemy USA-ENV-010 contributes 22 shared mapping references and is not counted a second time. Meta-Knowledge Sciences contributes twelve new distinct subject Alchemies and 264 new mapped intersections; the existing Knowledge Management Alchemy USA-ELS-008 contributes 22 shared mapping references and is not counted a second time.
-## 105. Taxonomy status and release register
+## 109. Taxonomy status and release register
 
-| Item | State in version 1.11.0 |
+| Item | State in version 1.12.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -2179,15 +2299,15 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 | Meta-Knowledge Sciences source definition | Recorded as supplied: Knowledge about knowledge itself. |
 | Meta-Knowledge Sciences hierarchy | Recorded — 13 positions: 12 new Alchemies and 1 shared existing Knowledge Management Alchemy |
 | Meta-Knowledge Sciences matrix | Recorded — 286 positions: 264 new mappings and 22 references to existing Knowledge Management mappings |
-| Cumulative unique subject Alchemy register | 264 distinct subject Alchemies |
+| Cross-domain mapping — Pass 1 | Started — 8 confirmed shared-identity links recorded across 20 top-level subjects; related-but-distinct review queue established |\n| Cross-domain 20 × 20 matrix | Recorded — 190 unique off-diagonal pairs: 8 SH confirmed and 182 UA unassessed |\n| Related-but-distinct candidate relationships | 11 candidate records/sets preserved for subsequent assessment; not yet encoded as confirmed matrix relationships |\n| Subject-Alchemy-level relationship map | Pending — 264 unique subject nodes require finer-grained relationship assessment |\n| Cumulative unique subject Alchemy register | 264 distinct subject Alchemies |
 | Cumulative unique mapped intersections | 264 × 22 = 5808 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, Environmental Sciences, Earth, Space, and Planetary Sciences, Human Development and Civilization, Security and Protection Sciences, Transportation and Infrastructure, and Agriculture, Food, and Resource Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, Environmental Sciences, Earth, Space, and Planetary Sciences, Human Development and Civilization, Security and Protection Sciences, Transportation and Infrastructure, and Agriculture, Food, and Resource Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Cross-domain relationship mapping has begun with the confirmed shared-identity pass; the initial 20 × 20 matrix leaves 182 of 190 unique domain pairs unassessed, and the subject-Alchemy-level map remains pending. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 106. Change control
+## 110. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
@@ -2198,3 +2318,5 @@ All four repositories must maintain the same shared taxonomy content and version
 **Version 1.10.0 change record:** Added the owner-supplied Agriculture, Food, and Resource Sciences hierarchy, nine new canonical subject-Alchemy identities, 198 new required context mappings, and one shared Agriculture identity reference (USA-ENV-010); updated cumulative totals. Agriculture was not duplicated or counted a second time.
 
 **Version 1.11.0 change record:** Added the owner-supplied Meta-Knowledge Sciences hierarchy and source definition, twelve new canonical subject-Alchemy identities, 264 new required context mappings, and one shared Knowledge Management identity reference (USA-ELS-008); updated cumulative totals. Knowledge Management was not duplicated or counted a second time.
+
+**Version 1.12.0 change record:** Began the cross-domain mapping and matrix phase. Added the relationship codebook, eight confirmed shared-canonical-identity links, the 20 × 20 top-level Universal Subject matrix, and an eleven-record related-but-distinct review queue. Cumulative subject-Alchemy and 22-context mapping totals remain unchanged.
