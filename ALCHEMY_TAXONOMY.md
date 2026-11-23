@@ -2778,44 +2778,216 @@ All applications must remain consistent with educational principles, learning-sc
 
 ### 14. Environmental Sciences Alchemy
 
-**Environmental Sciences Alchemy** is the bounded process that organizes, studies, monitors, protects, manages, restores, and transforms knowledge concerning natural environments, ecological systems, climate processes, biodiversity, natural resources, and the relationships between human activities and the environment. It enables individuals and societies to understand environmental conditions, conserve ecological integrity, manage resources responsibly, address environmental degradation, and develop sustainable relationships with the natural world while maintaining scientific rigor, ecological responsibility, long-term resilience, and accountability.
+**Environmental Sciences Alchemy** is the bounded process by which knowledge concerning natural environments, ecological systems, climate processes, biodiversity, natural resources, and the relationships between human activities and the environment is identified, classified, organized, studied, monitored, assessed, protected, managed, restored, maintained, and transformed.
 
-It encompasses the scientific, applied, technological, ecological, and resource-management disciplines concerned with environmental systems, conservation, sustainability, climate, energy, restoration, and agriculture. Every specialized Environmental Sciences Alchemy remains an expression of the root Alchemy.
+It governs the scientific, applied, technological, ecological, and resource-management structures, methods, relationships, and processes through which environmental conditions are observed, understood, evaluated, protected, and improved. It enables individuals, groups, institutions, and societies to understand environmental systems, conserve ecological integrity, manage resources responsibly, address environmental degradation, and develop sustainable relationships with the natural world while maintaining scientific rigor, ecological responsibility, long-term resilience, and accountability.
 
-#### 1. Ecological Systems and Biodiversity Alchemies
+Environmental Sciences Alchemy encompasses the disciplines concerned with ecological systems, biodiversity, environmental protection, sustainability, climate, natural resources, environmental engineering, energy, restoration, agriculture, and the interactions between natural and human systems. It establishes a structured foundation for understanding environmental conditions, ecological processes, resource availability, environmental change, conservation requirements, and the consequences of human activities. It also establishes how environmental observations, scientific evidence, management methods, technological applications, and restoration practices are coordinated while preserving the distinctions between environmental research, ecological assessment, resource management, engineering intervention, and environmental stewardship.
 
-- **Ecology Alchemy** — organizes the study of relationships among organisms, populations, communities, and their physical environments, including ecosystem structures, ecological processes, interactions, and change.
-- **Biodiversity Studies Alchemy** — organizes the identification, classification, assessment, monitoring, and understanding of biological diversity across genes, species, ecosystems, and ecological communities.
-- **Conservation Alchemy** — organizes the protection, management, and preservation of species, habitats, ecosystems, natural landscapes, and ecological processes to maintain biodiversity and environmental integrity.
+Environmental Sciences Alchemy must preserve the accuracy, provenance, context, reliability, and appropriate interpretation of environmental information and evidence. Environmental observations, measurements, samples, models, forecasts, scientific findings, historical records, management plans, impact assessments, restoration activities, and projected outcomes must remain distinguishable wherever relevant. Their sources, collection methods, geographic and temporal coverage, measurement conditions, assumptions, uncertainty, limitations, analytical methods, modifications, and applicable permissions must be represented accurately.
 
-#### 2. Environmental Protection and Sustainability Alchemies
+It must preserve the distinction between observed environmental conditions, measured indicators, modeled estimates, scientific interpretations, projected scenarios, proposed interventions, implemented actions, and verified environmental outcomes. A model, simulation, forecast, or proposed restoration outcome must not be represented as a direct observation or established result. Environmental assessments must identify relevant uncertainties, geographic limitations, temporal coverage, data gaps, and methodological constraints.
 
-- **Sustainability Alchemy** — organizes approaches to maintaining and improving environmental, social, and economic systems over time while respecting ecological limits, resource availability, and the needs of present and future generations.
-- **Climate Science Alchemy** — organizes the observation, measurement, modeling, analysis, and interpretation of Earth's climate systems, including climate variability, long-term change, feedback processes, and environmental impacts.
-- **Resource Management Alchemy** — organizes the assessment, allocation, utilization, conservation, monitoring, and responsible stewardship of natural resources, including water, land, soil, forests, minerals, and biological resources.
+Environmental Sciences Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support environmental monitoring, resource awareness, ecological data organization, energy management, environmental research, infrastructure planning, operational efficiency, sustainability analysis, environmental impact evaluation, restoration planning, agricultural knowledge, and other authorized environmental activities relevant to each context.
 
-#### 3. Environmental Engineering and Energy Alchemies
+Its universal application does not mean that every context directly manages natural resources, controls ecological systems, conducts environmental fieldwork, possesses environmental authority, or has permission to access or modify environmental infrastructure. The presence of environmental knowledge establishes its classification and possible relevance, not automatic authority to extract resources, intervene in ecosystems, alter land or water systems, represent affected communities, or make environmental decisions on behalf of another individual, organization, or public authority.
 
-- **Environmental Engineering Alchemy** — organizes the application of engineering principles to prevent, control, and remediate environmental impacts, including pollution management, water and wastewater systems, waste treatment, environmental infrastructure, and ecological protection.
-- **Renewable Energy Alchemy** — organizes the development, integration, storage, distribution, and management of energy systems that use naturally replenished energy sources, including solar, wind, hydroelectric, geothermal, and sustainable bioenergy.
+Every specialized Environmental Sciences Alchemy remains an expression of the root Alchemy. Its subject, purpose, methods, principles, relationships, requirements, and boundaries must remain identifiable while allowing specialized ecological, conservation, sustainability, climatic, resource-management, engineering, energy, restoration, agricultural, and cross-disciplinary environmental methods to integrate into larger environmental systems.
 
-#### 4. Ecological Restoration and Agricultural Alchemies
+#### 14.1 Universal Application of Environmental Sciences Alchemy
 
-- **Restoration Science Alchemy** — organizes the scientific assessment, planning, implementation, monitoring, and evaluation of efforts to assist the recovery of degraded, damaged, or destroyed ecosystems and ecological processes.
-- **Agriculture Alchemy** — organizes the cultivation of plants, raising and management of animals, soil stewardship, crop and livestock systems, food production, and agricultural practices while considering productivity, ecological conditions, resource use, and long-term environmental effects.
+Environmental Sciences Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-#### 5. Cross-Disciplinary Environmental Sciences Relationships
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+Within these contexts, Environmental Sciences Alchemy governs the appropriate organization, representation, monitoring, assessment, protection, management, interpretation, and application of environmental knowledge.
 
-- **Environmental Systems Integration Alchemy** — coordinates ecological, climatic, geological, biological, technological, and human systems to understand their interactions and dependencies.
-- **Ecosystem Health Alchemy** — organizes the assessment and maintenance of ecosystem condition, function, resilience, biodiversity, and capacity to sustain ecological processes.
-- **Environmental Monitoring and Assessment Alchemy** — coordinates observation, measurement, sampling, modeling, data interpretation, and evaluation of environmental conditions and changes.
-- **Climate Adaptation and Resilience Alchemy** — organizes the evaluation and development of responses that help ecological and human systems prepare for, withstand, and recover from climate-related pressures and changes.
-- **Environmental Impact Alchemy** — organizes the identification, assessment, monitoring, and mitigation of the environmental consequences of human activities, projects, technologies, and organizational decisions.
-- **Circular Resource Alchemy** — coordinates resource recovery, reuse, recycling, material efficiency, and waste minimization to reduce resource depletion and environmental burdens.
-- **Food and Ecological Systems Integration Alchemy** — coordinates agriculture, biodiversity, land management, water systems, food production, and ecosystem health while preserving the distinct requirements of each.
-- **Environmental Continuity Alchemy** — organizes the preservation, recovery, and long-term stewardship of environmental knowledge, monitoring records, ecological resources, and restoration progress.
+Its context-specific expressions include:
+
+- **Operating System Contexts:** Environmental sciences knowledge may support environmental resource monitoring, energy-use information, system efficiency, environmental data presentation, operational reporting, infrastructure awareness, and other authorized environmental functions associated with operating systems. Its application must preserve the accuracy, relevance, provenance, and appropriate interpretation of environmental measurements and operational information while respecting system permissions, privacy requirements, technical limitations, and operational boundaries. Environmental monitoring capabilities must not be represented as direct authority to control external infrastructure, allocate natural resources, or intervene in environmental systems.
+
+- **Core Intelligence Contexts:** Environmental sciences knowledge may support ecological reasoning, environmental research, climate analysis, biodiversity assessment, resource evaluation, sustainability analysis, environmental impact interpretation, and the development of environmental management and restoration knowledge. C2O Intelligence and UNIVERSALIS Intelligence must apply these capabilities within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities. Their environmental analyses must distinguish observed evidence, source data, scientific findings, modeled estimates, interpretations, proposed interventions, and verified outcomes.
+
+- **Application Contexts:** Environmental sciences knowledge may support environmental data systems, monitoring applications, resource-management tools, energy applications, sustainability analysis, ecological modeling, agricultural systems, restoration planning, environmental reporting, and other authorized environmental workflows. Applications must preserve source attribution, measurement context, data integrity, version history, geographic and temporal coverage, access permissions, and applicable environmental requirements. Their ability to analyze environmental information or support resource-management decisions does not automatically grant authority to operate infrastructure, modify ecosystems, allocate resources, or make regulated environmental decisions.
+
+- **UNIVERSALIN Assistant Contexts:** Environmental sciences knowledge may support assigned environmental research, ecological information retrieval, monitoring assistance, resource organization, sustainability analysis, technical documentation, environmental reporting, and other authorized functions within operating system and application boundaries. Assistants must distinguish between verified observations, source information, scientific interpretation, modeled estimates, generated explanations, and proposed actions. They must not presume authority to access restricted environmental information, operate environmental infrastructure, make commitments on behalf of an organization, or intervene in ecological or resource systems without applicable authorization.
+
+- **UNIVERSALIN Intelligence Contexts:** Environmental sciences knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through environmental analysis, ecological interpretation, climate and resource reasoning, biodiversity information organization, and environmental knowledge integration. These contexts do not constitute additional core intelligences or establish independent authority to represent environmental agencies, determine resource allocation, conduct unauthorized interventions, or make decisions on behalf of affected individuals, institutions, or communities.
+
+- **UNIVERSALIN Guardian Contexts:** Environmental sciences knowledge may support the authorized personal, informational, organizational, and assistance capabilities of human-bound Guardians. Its application may support environmental awareness, personal resource information, energy-use understanding, sustainability planning, environmental research, and human-directed decisions concerning environmental activities. Guardians must preserve the human's autonomy, interests, privacy, consent, and authority over personal environmental choices and activities. They must not independently make commitments involving land, resources, property, environmental infrastructure, or affected communities beyond their authorized scope.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Environmental sciences knowledge may support environmental information analysis, ecological interpretation, resource awareness, sustainability reasoning, and other human-directed environmental capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human's environmental decisions, resource use, property, activities, or relationships with affected communities. The human retains authority over personal environmental choices and authorized Guardian activities.
+
+The specific applicability of each ecological, biodiversity, conservation, sustainability, climate, resource-management, environmental-engineering, renewable-energy, restoration, agricultural, and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
+
+#### Alchemies under Environmental Sciences Alchemy
+
+##### 1. Ecological Systems and Biodiversity Alchemies
+
+- **Ecology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning relationships among organisms, populations, communities, and their physical environments, including ecosystem structures, ecological processes, interactions, and change. It establishes methods for examining ecological relationships, population dynamics, species interactions, habitat conditions, energy and material flows, ecosystem functions, and environmental changes while preserving the distinctions between observed ecological conditions, scientific explanations, modeled relationships, and context-dependent interpretations.
+
+- **Biodiversity Studies Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the identification, classification, assessment, monitoring, and understanding of biological diversity across genes, species, ecosystems, and ecological communities. It establishes methods for representing species diversity, genetic variation, population characteristics, habitat distributions, ecological communities, and biodiversity changes while preserving taxonomic accuracy, geographic and temporal context, source provenance, and the limitations of biological observations and assessments.
+
+- **Conservation Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the protection, management, and preservation of species, habitats, ecosystems, natural landscapes, and ecological processes to maintain biodiversity and environmental integrity. It establishes methods for identifying conservation priorities, evaluating ecological threats, coordinating protective measures, monitoring conservation outcomes, and maintaining ecological resources while respecting ecosystem complexity, applicable environmental requirements, land and resource rights, and the participation and interests of affected communities.
+
+##### 2. Environmental Protection and Sustainability Alchemies
+
+- **Sustainability Alchemy** — organizes, examines, maintains, integrates, develops, and transforms approaches to maintaining and improving environmental, social, and economic systems over time while respecting ecological limits, resource availability, and the needs of present and future generations. It establishes methods for evaluating resource use, long-term environmental effects, system resilience, environmental and social responsibilities, and intergenerational considerations while preserving the distinctions between environmental sustainability, social outcomes, economic objectives, sustainability indicators, and demonstrated results.
+
+- **Climate Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the observation, measurement, modeling, analysis, and interpretation of Earth's climate systems, including climate variability, long-term change, feedback processes, and environmental impacts. It establishes methods for examining atmospheric, oceanic, terrestrial, and other relevant climate processes, climate records, model outputs, variability, trends, and projected conditions while preserving the distinctions between weather, climate, observed change, modeled scenarios, attribution findings, and uncertainty.
+
+- **Resource Management Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the assessment, allocation, utilization, conservation, monitoring, and responsible stewardship of natural resources, including water, land, soil, forests, minerals, and biological resources. It establishes methods for evaluating resource availability, condition, use, renewability, distribution, environmental constraints, and management requirements while preserving ecological limits, applicable ownership and access rights, relevant governance responsibilities, and the long-term consequences of resource decisions.
+
+##### 3. Environmental Engineering and Energy Alchemies
+
+- **Environmental Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the application of engineering principles to prevent, control, and remediate environmental impacts, including pollution management, water and wastewater systems, waste treatment, environmental infrastructure, and ecological protection. It establishes methods for identifying engineering requirements, evaluating environmental hazards and impacts, designing treatment and control systems, assessing infrastructure performance, and monitoring remediation outcomes while preserving engineering safety, environmental standards, technical constraints, and the distinction between proposed designs, implemented systems, and verified performance.
+
+- **Renewable Energy Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the development, integration, storage, distribution, and management of energy systems that use naturally replenished energy sources, including solar, wind, hydroelectric, geothermal, and sustainable bioenergy. It establishes methods for evaluating renewable energy resources, generation technologies, storage requirements, distribution systems, integration constraints, and environmental effects while preserving distinctions between energy sources, generation capacity, energy delivery, storage, lifecycle impacts, and verified sustainability outcomes.
+
+##### 4. Ecological Restoration and Agricultural Alchemies
+
+- **Restoration Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the scientific assessment, planning, implementation, monitoring, and evaluation of efforts to assist the recovery of degraded, damaged, or destroyed ecosystems and ecological processes. It establishes methods for assessing ecological condition, identifying degradation, defining restoration objectives, selecting scientifically supported interventions, monitoring recovery, and evaluating long-term outcomes while preserving baseline conditions, ecosystem context, uncertainty, restoration limitations, and the distinction between restoration activities and demonstrated ecological recovery.
+
+- **Agriculture Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the cultivation of plants, raising and management of animals, soil stewardship, crop and livestock systems, food production, and agricultural practices while considering productivity, ecological conditions, resource use, and long-term environmental effects. It establishes methods for examining agricultural systems, land and soil conditions, crop and livestock management, water and nutrient use, production processes, biodiversity relationships, and environmental impacts while preserving distinctions between agricultural productivity, ecological sustainability, animal and plant requirements, food production, and resource stewardship.
+
+##### 5. Cross-Disciplinary Environmental Sciences Alchemies
+
+These specialized Alchemies coordinate the preceding ecological, biodiversity, conservation, sustainability, climate, resource-management, environmental-engineering, renewable-energy, restoration, and agricultural disciplines without replacing or collapsing their individual identities. Their relationships must preserve distinctions between natural-system processes, environmental conditions, human activities, resource use, technological intervention, ecological recovery, and environmental outcomes.
+
+- **Environmental Systems Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between ecological, climatic, geological, biological, technological, and human systems to understand their interactions and dependencies. It establishes methods for coordinating environmental system models, cross-domain observations, interdependencies, material and energy relationships, and human–environment interactions while preserving the distinct characteristics, causal relationships, evidence, and boundaries of each contributing system.
+
+- **Ecosystem Health Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the assessment and maintenance of ecosystem condition, function, resilience, biodiversity, and capacity to sustain ecological processes. It establishes methods for evaluating ecological indicators, habitat condition, species relationships, ecosystem functions, stressors, and resilience while preserving the distinction between measured ecological conditions, selected indicators, interpreted ecosystem health, and the limitations of any assessment.
+
+- **Environmental Monitoring and Assessment Alchemy** — organizes, examines, maintains, integrates, develops, and transforms observation, measurement, sampling, modeling, data interpretation, and evaluation of environmental conditions and changes. It establishes methods for coordinating monitoring programmes, sampling procedures, measurement systems, environmental datasets, analytical methods, and reporting while preserving measurement accuracy, provenance, geographic and temporal coverage, data quality, uncertainty, and the distinctions between observation, estimation, and interpretation.
+
+- **Climate Adaptation and Resilience Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the evaluation and development of responses that help ecological and human systems prepare for, withstand, and recover from climate-related pressures and changes. It establishes methods for identifying climate-related vulnerabilities, evaluating risks, developing adaptation approaches, assessing resilience, and monitoring responses while preserving the distinctions between observed conditions, projected climate scenarios, adaptation planning, implemented measures, and demonstrated resilience outcomes.
+
+- **Environmental Impact Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the identification, assessment, monitoring, and mitigation of the environmental consequences of human activities, projects, technologies, and organizational decisions. It establishes methods for identifying potential impacts, defining assessment boundaries, evaluating environmental pathways, examining alternatives, documenting mitigation measures, and monitoring consequences while preserving scientific evidence, affected environmental systems, relevant stakeholder interests, uncertainty, and applicable assessment requirements.
+
+- **Circular Resource Alchemy** — organizes, examines, maintains, integrates, develops, and transforms resource recovery, reuse, recycling, material efficiency, and waste minimization to reduce resource depletion and environmental burdens. It establishes methods for examining material flows, resource recovery, product and material lifecycles, waste streams, reuse opportunities, recycling systems, and efficiency improvements while preserving the distinctions between waste reduction, reuse, repair, recycling, recovery, disposal, and demonstrated environmental benefits.
+
+- **Food and Ecological Systems Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between agriculture, biodiversity, land management, water systems, food production, and ecosystem health while preserving the distinct requirements of each. It establishes methods for examining interactions between food systems, agricultural practices, land and water resources, ecological processes, biodiversity, and environmental conditions while preserving the distinctions between food production, food-system organization, ecological sustainability, resource constraints, and the environmental consequences of agricultural activities.
+
+- **Environmental Continuity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the preservation, recovery, and long-term stewardship of environmental knowledge, monitoring records, ecological resources, and restoration progress. It establishes methods for maintaining environmental datasets, ecological records, baseline measurements, monitoring histories, restoration documentation, resource information, and knowledge continuity while preserving provenance, temporal and geographic context, data integrity, appropriate access, and the distinction between original observations and subsequently reconstructed or interpreted records.
+
+### 14.2 Environmental Sciences Structural and Applicability Requirements
+
+Every subordinate Alchemy under Environmental Sciences Alchemy must retain its own defined subject, purpose, methods, principles, environmental requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+Environmental Sciences Alchemy must preserve the distinctions between its constituent disciplines and their respective subjects, methods, scientific foundations, ecological processes, environmental responsibilities, and management functions. Relationships between ecology, biodiversity studies, conservation, sustainability, climate science, resource management, environmental engineering, renewable energy, restoration science, agriculture, and the cross-disciplinary Alchemies must be established without collapsing their distinct subjects or treating their methods as interchangeable.
+
+It must also preserve the distinctions between:
+
+- Natural environments, ecological systems, biological organisms, populations, communities, habitats, ecosystems, and human-created environmental systems.
+- Ecological structure, ecological function, biodiversity, ecosystem condition, ecosystem resilience, and ecosystem health.
+- Genetic diversity, species diversity, ecosystem diversity, ecological communities, species abundance, population distribution, and habitat condition.
+- Environmental observation, sampling, measurement, monitoring, scientific analysis, modeling, interpretation, forecasting, and verified environmental outcomes.
+- Weather, climate variability, long-term climate change, climate feedback processes, projected climate scenarios, and observed environmental impacts.
+- Natural resources, renewable resources, nonrenewable resources, resource availability, resource extraction, resource use, resource allocation, and resource stewardship.
+- Conservation, environmental protection, resource management, ecological preservation, restoration, rehabilitation, and environmental remediation.
+- Environmental sustainability, ecological limits, social considerations, economic objectives, resource efficiency, and long-term resilience.
+- Environmental engineering, pollution prevention, pollution control, remediation, water and wastewater treatment, waste management, and environmental infrastructure.
+- Renewable energy sources, energy generation, energy storage, energy distribution, energy efficiency, and lifecycle environmental impacts.
+- Restoration objectives, baseline ecological conditions, restoration interventions, recovery processes, monitoring evidence, and demonstrated restoration outcomes.
+- Agricultural production, crop systems, livestock systems, soil stewardship, water management, biodiversity relationships, food production, and agricultural environmental impacts.
+- Environmental models, scientific hypotheses, projected scenarios, management proposals, implemented interventions, and measured environmental results.
+- Environmental risks, environmental impacts, ecological stressors, climate vulnerabilities, mitigation measures, adaptation strategies, and resilience outcomes.
+- Material extraction, consumption, reuse, repair, recycling, recovery, waste processing, and disposal.
+- Environmental monitoring data, ecological records, geographic information, temporal datasets, model outputs, restoration records, and reconstructed environmental histories.
+- Natural environmental processes, human activities, technological interventions, infrastructure operations, and the relationships between their respective effects and dependencies.
+- Scientific evidence, traditional and local ecological knowledge, community observations, stakeholder perspectives, management priorities, and formal environmental decisions.
+- Environmental research, environmental assessment, operational monitoring, resource-management recommendations, regulatory responsibilities, and authorized environmental decisions.
+- Environmental knowledge, technical capability, permission to access environmental systems, authority to manage natural resources, and authorization to conduct environmental interventions.
+- Shared environmental foundations, context-specific implementations, C2O private-source governance boundaries, and UNIVERSALIS public-source governance and independent operability.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Environmental Sciences Alchemy and each subordinate ecological, biodiversity, conservation, sustainability, climate, resource-management, environmental-engineering, renewable-energy, restoration, agricultural, and cross-disciplinary Alchemy.
+- The parent–subordinate relationships between Environmental Sciences Alchemy, its five specialized groups, and their respective Alchemies.
+- The relationships between environmental science disciplines and relevant physical sciences, life sciences, health sciences, engineering and technology, computer and information sciences, social sciences, business, law, governance, and other knowledge-domain structures.
+- The connections between environmental knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, resources, environmental relationships, information relationships, and connections between environmental disciplines and other Alchemies.
+- The distinctions between ecological systems and biodiversity disciplines, environmental protection and sustainability disciplines, environmental engineering and energy disciplines, ecological restoration and agricultural disciplines, and cross-disciplinary environmental methods.
+- The relationships between organisms, populations, species, habitats, ecological communities, ecosystems, climate processes, geological conditions, and environmental changes.
+- The relationships between biodiversity, ecosystem structure, ecological functions, conservation priorities, habitat conditions, environmental stressors, and ecosystem health.
+- The relationships between climate systems, climate observations, environmental models, projected scenarios, climate impacts, adaptation measures, and resilience assessments.
+- The relationships between land, soil, water, forests, minerals, biological resources, resource availability, resource use, conservation requirements, and applicable management responsibilities.
+- The relationships between environmental engineering, pollution prevention, waste management, water and wastewater systems, remediation, environmental infrastructure, and ecological protection.
+- The relationships between renewable energy resources, generation methods, energy storage, distribution systems, energy demand, infrastructure requirements, and lifecycle environmental effects.
+- The relationships between ecological degradation, restoration objectives, baseline conditions, restoration interventions, monitoring systems, and demonstrated recovery.
+- The relationships between agricultural practices, food production, soil conditions, water use, biodiversity, land management, and ecosystem health.
+- The relationships between environmental monitoring, data collection, sampling, measurement systems, environmental modeling, scientific interpretation, assessment methods, and reporting.
+- The relationships between Environmental Systems Integration Alchemy, Ecosystem Health Alchemy, Environmental Monitoring and Assessment Alchemy, Climate Adaptation and Resilience Alchemy, Environmental Impact Alchemy, Circular Resource Alchemy, Food and Ecological Systems Integration Alchemy, and Environmental Continuity Alchemy.
+- The relationships between environmental systems, human activities, technology, infrastructure, communities, resource dependencies, environmental pressures, and long-term ecological outcomes.
+- The relationships between shared environmental science foundations and context-specific implementations while preserving the distinct private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each ecological, biodiversity, conservation, sustainability, climate, resource-management, environmental-engineering, renewable-energy, restoration, agricultural, and subordinate Alchemy.
+- The specific environmental, ecological, analytical, monitoring, assessment, conservation, resource-management, engineering, energy, agricultural, restoration, and continuity functions associated with each applicable context.
+- The environmental knowledge, scientific evidence, observations, measurements, models, data sources, analytical methods, technological resources, contextual requirements, and dependencies required for those functions.
+- Whether an application involves ecology, biodiversity studies, conservation, sustainability, climate science, resource management, environmental engineering, renewable energy, restoration science, agriculture, environmental systems integration, ecosystem health, environmental monitoring and assessment, climate adaptation and resilience, environmental impact, circular resource management, food and ecological systems integration, or environmental continuity.
+- Whether an environmental function concerns natural ecosystems, biodiversity, climate processes, land, soil, water, forests, minerals, biological resources, energy systems, agricultural systems, built infrastructure, waste streams, or human–environment relationships.
+- Whether an application involves observation, sampling, measurement, monitoring, modeling, scientific analysis, assessment, conservation planning, resource evaluation, environmental engineering, energy management, restoration, agricultural management, or long-term stewardship.
+- The actual capabilities, supported interfaces, monitoring equipment, data sources, environmental models, infrastructure, resource-management tools, technologies, and dependencies required to implement or operate an environmental function.
+- The geographic, temporal, ecological, climatic, operational, and system boundaries applicable to each environmental analysis, monitoring activity, assessment, or intervention.
+- The provenance, collection method, source, date, geographic location, measurement conditions, resolution, sampling strategy, analytical method, uncertainty, limitations, modifications, and applicable permissions associated with environmental information.
+- The distinctions between direct environmental observations, remote measurements, sampled data, derived indicators, modeled estimates, projections, scientific interpretations, and verified outcomes.
+- The dependencies between environmental conditions, ecosystem processes, biodiversity, natural resources, human activities, technology, infrastructure, and environmental management decisions.
+- The permissions, ownership, access rights, consent, privacy protections, confidentiality requirements, environmental responsibilities, resource rights, and governance boundaries applicable to environmental data, monitoring systems, natural resources, and environmental infrastructure.
+- The conditions under which field observations, environmental samples, scientific measurements, modeling assumptions, source datasets, or analytical findings require independent verification, expert review, additional sampling, or contextual evaluation.
+- The requirements for identifying uncertainty, incomplete data, geographic limitations, seasonal variation, measurement error, model assumptions, and other limitations that may affect environmental conclusions.
+- The conditions under which environmental interventions require ecological assessment, engineering validation, applicable authorization, stakeholder participation, human review, or additional safeguards before implementation.
+- The applicable requirements for preserving biodiversity, ecosystem condition, ecological integrity, resource sustainability, environmental safety, and long-term environmental resilience.
+- The conditions under which environmental monitoring must establish baseline measurements, identify changes, evaluate interventions, distinguish natural variation from other influences, or document the limitations of causal conclusions.
+- The requirements for evaluating resource use, energy generation, material recovery, agricultural practices, environmental impacts, and lifecycle effects without presuming that a proposed improvement produces a verified environmental benefit.
+- The conditions under which environmental restoration must document original ecological conditions, intervention methods, monitoring results, recovery indicators, limitations, and long-term maintenance requirements.
+- The relationships between environmental records, monitoring histories, ecological datasets, restoration documentation, baseline measurements, and continuity or recovery requirements.
+- The safeguards against inaccurate environmental claims, fabricated measurements, unsupported sustainability claims, misleading impact assessments, unauthorized environmental intervention, misuse of restricted ecological information, and misrepresentation of environmental outcomes.
+- The specific responsibilities and limitations associated with environmental functions performed by C2O Intelligence, UNIVERSALIS Intelligence, UNIVERSALIN assistants, and personal Guardians.
+
+Environmental Sciences Alchemy must not presume that the presence of an environmental discipline in the universal taxonomy grants every context unrestricted access to environmental monitoring systems, geographic information, ecological databases, protected species records, private property information, resource inventories, utility infrastructure, industrial systems, or external environmental platforms.
+
+The inclusion of environmental knowledge within an ecosystem context establishes its place in the knowledge structure, not an automatic implementation, monitoring capability, environmental intervention, permission to access environmental information, authority to allocate or extract natural resources, or authorization to make environmental decisions on behalf of another individual, organization, community, or public authority.
+
+Environmental information and evidence must be handled according to their source, nature, sensitivity, geographic and temporal context, collection conditions, intended purpose, and applicable permissions. Restricted ecological information, sensitive species locations, private land information, confidential environmental assessments, protected resource information, and other sensitive material must remain subject to applicable privacy, confidentiality, conservation, security, access, and governance requirements.
+
+Scientific observations, environmental measurements, derived indicators, modeled estimates, forecasts, interpretations, proposals, implemented interventions, and verified outcomes must remain distinguishable. Models and projections must identify relevant assumptions and uncertainty. Environmental claims must not exceed the available evidence, and conclusions must account for measurement limitations, incomplete observations, natural variability, geographic scope, and relevant contextual factors.
+
+Environmental management and engineering capabilities do not themselves establish environmental authority, permission to access or alter land, ownership of natural resources, or authorization to conduct regulated activities. Environmental recommendations, resource-management plans, engineering proposals, and restoration designs must remain distinguishable from authorized decisions, implemented activities, and independently evaluated results.
+
+Environmental interventions must account for relevant ecological processes, affected species and habitats, resource constraints, environmental risks, long-term consequences, and applicable human and community interests. Conservation, restoration, resource management, agricultural activities, and infrastructure development must not presume that a single environmental objective overrides other relevant ecological conditions, rights, responsibilities, or governance requirements.
+
+Sustainability and environmental impact assessments must preserve the scope, assumptions, time horizons, boundaries, methods, and evidence used to reach their conclusions. Proposed efficiency gains, renewable energy systems, circular resource practices, agricultural methods, and restoration activities must not automatically be represented as environmentally beneficial without appropriate evaluation of their direct, indirect, cumulative, and lifecycle effects where relevant.
+
+Environmental knowledge must preserve the distinction between scientific findings, traditional and local ecological knowledge, community observations, stakeholder perspectives, policy considerations, and formal management decisions. Relevant knowledge must be attributed and interpreted within its appropriate context. No individual, system, intelligence, assistant, or Guardian should presume authority to speak for an affected community, claim ownership of its knowledge, or represent its interests without appropriate authorization and participation.
+
+Environmental continuity must maintain the accuracy, provenance, accessibility, and appropriate preservation of environmental records, monitoring datasets, baseline conditions, resource information, and restoration histories. Recovered, reconstructed, transferred, or modified environmental records must remain identifiable and must not silently replace original observations or obscure material changes.
+
+Applications involving environmental resources, ecological systems, personal property, community interests, or environmental decisions must preserve applicable consent, privacy, confidentiality, ecological responsibility, human autonomy, and governance boundaries. Guardian assistance must remain subject to the authority and permissions of the human they serve. Neither environmental knowledge nor environmental analysis capabilities grant a system, intelligence, assistant, or Guardian independent authority over another person's property, resource use, environmental decisions, or relationship with affected communities.
+
+All applications must remain consistent with environmental science principles, ecological integrity, scientific evidence, data provenance, measurement accuracy, environmental responsibility, resource constraints, applicable permissions, privacy and confidentiality protections, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 15. Earth, Space, and Planetary Sciences Alchemy
 
