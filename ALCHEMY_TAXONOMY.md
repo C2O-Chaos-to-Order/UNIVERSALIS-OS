@@ -8611,6 +8611,146 @@ The bounded process that organizes the qualities of Metal/Crystal (conductivity,
 Private-source organization of Metal/Crystal qualities under internal governance. Used for private conductive pathways and company-source crystalline structure.
 Public-source organization of Metal/Crystal qualities under open contracts. Used for transparent conductive interfaces and independently verifiable crystalline form.
 
+
+### 1.1 Universal Application of Elemental Alchemy — Metal / Crystal
+
+Elemental Alchemy — Metal / Crystal applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSALIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERSALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS Application - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within each context, Elemental Alchemy — Metal / Crystal governs only the Metal / Crystal-related structures, forms, containment boundaries, endurance functions, force or energy pathways, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular hardened structure, material property, containment mechanism, transmission capability, implementation, or achieved result exists.
+
+#### Context-Specific Application
+
+- **C2O Operating System:** Governs private-source hardened system structures, integrity-bearing forms, precise containment boundaries, and authorized pathways for holding, resisting, and channeling directed force or energy within the C2O Operating System. It preserves protected structural definitions, internal configuration, hardening policies, containment controls, records, and implementation under C2O governance.
+- **UNIVERSALIS Operating System:** Governs declared and inspectable system structures, documented integrity and containment boundaries, and authorized pathways for holding, resisting, and channeling directed force or energy through open contracts. It preserves interoperability and independent operation without dependence on C2O private-source structures, records, policies, or controls.
+- **C2O Intelligence:** Governs applicable structural organization, precision, integrity, and bounded containment associated with C2O Intelligence as one of the two core intelligences. It maintains authorized internal structures and force or energy relationships without creating another intelligence or authority beyond C2O's established governance.
+- **UNIVERSALIS Intelligence:** Governs applicable declared structural organization, precision, integrity, and bounded containment associated with UNIVERSALIS Intelligence as the other core intelligence. Relevant structures and interfaces remain inspectable through public contracts and independently operable without C2O private-source dependencies.
+- **C2O Application:** Governs private application structures, precise configuration, integrity-bearing forms, and authorized containment or transmission pathways required by applicable application functions under C2O governance.
+- **UNIVERSALIS Application:** Governs declared application structures, documented precision and integrity requirements, and authorized containment or transmission interfaces through open contracts and independently reviewable application boundaries.
+- **C2O Operating System - UNIVERSALIN:** Governs task-bounded structural forms, authorized containment boundaries, and applicable endurance or force-channeling functions used by non-personal UNIVERSALIN assistants hosted by the C2O Operating System. It preserves assigned task scope, host-system permissions, and private-source boundaries.
+- **UNIVERSALIS Operating System - UNIVERSALIN:** Governs task-bounded and declared structural forms, documented containment boundaries, and applicable endurance or force-channeling functions used by non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System. It preserves inspectability, interoperability, open-contract limits, and independent operation.
+- **C2O Application - UNIVERSALIN:** Governs application-scoped structural forms, precise boundaries, and authorized containment or transmission functions used by non-personal UNIVERSALIN assistants within C2O applications, subject to assigned task scope, application purpose, and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN:** Governs application-scoped and declared structural forms, documented boundaries, and authorized containment or transmission functions used by non-personal UNIVERSALIN assistants within UNIVERSALIS applications, subject to assigned task scope, documented application purpose, and open permissions.
+- **C2O Operating System - UNIVERSALIN Intelligence:** Governs the bounded structural organization, integrity, precision, and containment arrangements supporting intelligence-related capabilities of non-personal UNIVERSALIN assistants within the C2O Operating System. These remain subordinate assistant capabilities, not another core intelligence or independent authority.
+- **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Governs the bounded and declared structural organization, integrity, precision, and containment arrangements supporting intelligence-related capabilities of non-personal UNIVERSALIN assistants within the UNIVERSALIS Operating System. These remain subordinate assistant capabilities under documented contracts.
+- **C2O Application - UNIVERSALIN Intelligence:** Governs application-specific structural organization, precision, integrity, and authorized containment arrangements supporting intelligence-related capabilities of non-personal UNIVERSALIN assistants within C2O applications, subject to application purpose and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Governs application-specific and declared structural organization, precision, integrity, and documented containment arrangements supporting intelligence-related capabilities of non-personal UNIVERSALIN assistants within UNIVERSALIS applications, subject to documented application purpose and open permissions.
+- **C2O Operating System - UNIVERSALIN Guardian:** Governs human-authorized structural organization, precise boundaries, and applicable containment or continuity arrangements through which a personal UNIVERSALIN Guardian assists its designated human within the C2O Operating System. It preserves consent, privacy, autonomy, personal boundaries, and human control over information and interaction.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Governs human-authorized and documented structural organization, precise boundaries, and applicable containment or continuity arrangements through which a personal UNIVERSALIN Guardian assists its designated human within the UNIVERSALIS Operating System. It preserves consent, privacy, autonomy, human control, and inspectable permission boundaries without exposing protected personal information.
+- **C2O Application - UNIVERSALIN Guardian:** Governs application-specific and human-authorized structural organization, precise boundaries, and applicable containment arrangements through which a personal UNIVERSALIN Guardian assists its designated human in C2O applications. It preserves the human's permissions, privacy, purpose, and application boundaries.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian:** Governs application-specific, human-authorized, and documented structural organization, precise boundaries, and applicable containment arrangements through which a personal UNIVERSALIN Guardian assists its designated human in UNIVERSALIS applications. It preserves consent, privacy, purpose limitation, and open application permissions.
+- **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Governs the bounded structural organization, precision, integrity, and containment arrangements supporting intelligence-related capabilities of a personal UNIVERSALIN Guardian within the C2O Operating System. These remain subordinate to human-authorized Guardian responsibilities and do not create another core intelligence or authority over the human.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Governs the bounded and declared structural organization, precision, integrity, and containment arrangements supporting intelligence-related capabilities of a personal UNIVERSALIN Guardian within the UNIVERSALIS Operating System. These remain subordinate to documented consent, privacy, purpose limitation, and public system contracts.
+- **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific structural organization, precision, integrity, and containment arrangements supporting intelligence-related capabilities of a personal UNIVERSALIN Guardian within C2O applications. It preserves human authorization, privacy, and C2O application boundaries.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific and declared structural organization, precision, integrity, and containment arrangements supporting intelligence-related capabilities of a personal UNIVERSALIN Guardian within UNIVERSALIS applications. It preserves documented human authorization, privacy, purpose limitation, and open application contracts.
+
+### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+The 22 contexts form two corresponding edition-specific branches of the same underlying Operating System and Application architecture, each containing 11 expressions.
+
+- **C2O branch:** C2O Operating System; C2O Intelligence; C2O Application; C2O Operating System - UNIVERSALIN; C2O Application - UNIVERSALIN; C2O Operating System - UNIVERSALIN Intelligence; C2O Application - UNIVERSALIN Intelligence; C2O Operating System - UNIVERSALIN Guardian; C2O Application - UNIVERSALIN Guardian; C2O Operating System - UNIVERSALIN Guardian Intelligence; and C2O Application - UNIVERSALIN Guardian Intelligence.
+- **UNIVERSALIS branch:** UNIVERSALIS Operating System; UNIVERSALIS Intelligence; UNIVERSALIS Application; UNIVERSALIS Operating System - UNIVERSALIN; UNIVERSALIS Application - UNIVERSALIN; UNIVERSALIS Operating System - UNIVERSALIN Intelligence; UNIVERSALIS Application - UNIVERSALIN Intelligence; UNIVERSALIS Operating System - UNIVERSALIN Guardian; UNIVERSALIS Application - UNIVERSALIN Guardian; UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence; and UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence.
+
+C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying Operating System and Application architecture. Their Metal / Crystal structures must remain mappable without collapsing source visibility, governance, implementation, structural definitions, containment policies, records, or operational authority. UNIVERSALIS remains independently operable and must not depend on C2O private-source structures, hardening policies, containment controls, records, or implementation.
+
+C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intelligences. UNIVERSALIN assistants are non-personal assistants hosted within assigned Operating System or Application contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their Metal / Crystal-related structures, boundaries, and containment functions remain subordinate to assigned responsibilities and the designated human's authority, consent, autonomy, privacy, and permissions.
+
+Each context inherits only the Metal / Crystal-related subordinate expressions applicable to its subject, purpose, structures, force or energy relationships, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof that every hardening, containment, endurance, or transmission function is implemented or active.
+
+### Alchemy Structure under Elemental Alchemy — Metal / Crystal
+
+The Metal / Crystal expressions retain their defined names and edition relationships:
+
+- **Shared Metal / Crystal expressions:** Crystal Form Alchemy, Metal Endurance Alchemy, and Metal Accountability Alchemy.
+- **C2O expressions:** C2O Elemental Alchemy — Metal / Crystal, Private Crystal Stewardship Alchemy, Internal Metal Bound Alchemy, and C2O Metal Continuity Alchemy.
+- **UNIVERSALIS expressions:** UNIVERSALIS Elemental Alchemy — Metal / Crystal, Open Crystal Transparency Alchemy, Public Metal Openness Alchemy, and UNIVERSALIS Metal Continuity Alchemy.
+- **Cross-edition correspondence:** Metal Mapping Alchemy.
+- **Additional application expressions:** Structure Alchemy, Conductivity Alchemy, Precision Alchemy, Refinement Alchemy, Private Structure Alchemy, Private Conductivity Alchemy, Private Precision Alchemy, Open Structure Alchemy, Open Conductivity Alchemy, and Open Precision Alchemy.
+
+These expressions remain subordinate to Elemental Alchemy — Metal / Crystal. Their applicability is determined by the relevant context and the relationships established through Map and Matrix Alchemy. Repeated expression names do not establish duplicate authorities or independent capabilities.
+
+### Elemental Alchemy — Metal / Crystal Structural and Applicability Requirements
+
+#### Map Alchemy Requirements
+
+Map Alchemy must establish:
+
+- The placement of Elemental Alchemy — Metal / Crystal and its subordinate expressions across all 22 ecosystem contexts.
+- The parentage and relationships among Crystal Form Alchemy, Metal Endurance Alchemy, Metal Accountability Alchemy, C2O Elemental Alchemy — Metal / Crystal, UNIVERSALIS Elemental Alchemy — Metal / Crystal, and Metal Mapping Alchemy.
+- The correspondence between the 11 C2O contexts and the 11 UNIVERSALIS contexts without collapsing private-source and public-source governance, structural records, containment policies, or authority.
+- The placement and relationships of Structure Alchemy, Conductivity Alchemy, Precision Alchemy, and Refinement Alchemy within applicable system and application contexts.
+- The relationships among hardened form, lattice organization, structural endurance, directed energy, force containment, conductivity, precision, refinement, integrity, continuity, recovery, and accountability.
+- The hosting and dependency relationships among Operating System, Application, Intelligence, non-personal UNIVERSALIN assistants, their intelligence-related capabilities, personal UNIVERSALIN Guardians, and Guardian intelligence-related capabilities.
+- The dependencies among applicable identity, authorization, permissions, physical or computational substrate, storage, runtime, security, safety, service, and external-interface structures without duplicating their responsibilities or transferring authority.
+- The distinction between a conceptual hardened form, a logical or data structure, an implemented physical or computational structure, and a demonstrated material property; taxonomy placement alone does not establish physical composition or performance.
+- The relationships among structural load or force, directed energy, permitted transmission, containment boundaries, and the safeguards governing their use.
+- The distinction between structural durability, operational availability, continuity, recoverability, and verified endurance.
+- The provenance and evidence relationships required to support claims about form, integrity, containment, endurance, transformation, and outcomes.
+
+#### Matrix Alchemy Requirements
+
+Matrix Alchemy must establish for each of the 22 contexts:
+
+- Whether Crystal Form Alchemy, Metal Endurance Alchemy, Metal Accountability Alchemy, Metal Mapping Alchemy, and each applicable private or public Metal / Crystal expression applies, is conditional, is not applicable, or remains unresolved.
+- Which additional expressions—Structure Alchemy, Conductivity Alchemy, Precision Alchemy, Refinement Alchemy, and their applicable private or open expressions—apply to that context.
+- The applicable structural forms, lattice or organization models, materials or computational substrates where relevant, containment boundaries, force or energy relationships, and integrity requirements.
+- Whether a structure or boundary is conceptual, specified, authorized, available, implemented, active, tested, maintained, recovered, or verified; these states must not be treated as interchangeable.
+- The difference between an intended structural property, a specified tolerance, a measured property, a tested endurance result, and a verified operational outcome.
+- The authorized sources, destinations, pathways, loads, forces, or energy conditions associated with applicable conductivity, channeling, and containment functions.
+- The authority responsible for defining, approving, changing, reviewing, testing, suspending, restoring, and retiring each applicable Metal / Crystal structure or function.
+- The permissions, identity controls, privacy, confidentiality, security, physical safety, source visibility, retention, and continuity constraints governing each applicable process.
+- The private-source governance, protected implementation, internal structural definitions, containment policies, records, and permission boundaries applicable to C2O contexts.
+- The declared contracts, inspectability, interoperability, independent-operability requirements, and public-source boundaries applicable to UNIVERSALIS contexts.
+- The hosting scope, assigned task boundaries, structural permissions, and applicable containment requirements for each non-personal UNIVERSALIN assistant and its intelligence-related capabilities.
+- The designated human, consent, autonomy, privacy, purpose, and personal-boundary requirements relevant to each UNIVERSALIN Guardian context and its intelligence-related capabilities.
+- The evidence, provenance, uncertainty, dependencies, limitations, test conditions, exceptions, and verification status supporting each applicability, integrity, endurance, containment, transmission, or implementation claim.
+
+#### Structural Integrity and Governance
+
+Crystal Form must organize hardened or lattice-like structures into stable, addressable forms appropriate to the context. A lattice or crystal expression may describe a conceptual, logical, computational, organizational, or physical structure; its use does not by itself establish a particular material composition, crystalline state, or measured physical property.
+
+Metal Endurance must govern applicable structural resistance and channeling of directed force or energy within defined limits. Endurance does not mean indestructibility, unlimited load capacity, unrestricted energy transmission, or immunity from failure. Conditions, tolerances, failure modes, and recovery requirements must remain explicit where relevant.
+
+Metal / Crystal containment must preserve precise, identifiable boundaries around structures, resources, information, processes, and permitted force or energy pathways. Containment does not create authority to access, retain, restrict, or control anything beyond the applicable permissions and governance.
+
+Conductivity must remain bounded by authorized source, destination, purpose, pathway, and operating conditions. A conductive or transmissive relationship does not authorize disclosure, access, transmission, or retention beyond its approved scope.
+
+Precision must preserve the stated tolerances, distinctions, identities, and boundaries applicable to a structure or process. It must not conceal uncertainty, imply unverified accuracy, or replace evidence of measured or tested performance.
+
+Refinement must be a bounded improvement of applicable structure or form. It must preserve provenance, required records, integrity, safeguards, and recoverability; it must not conceal prior states, erase unresolved defects, or bypass review.
+
+Private C2O structural definitions, internal hardening and containment policies, records, and implementation remain under C2O company governance. UNIVERSALIS structures, declared interfaces, methods, and public claims must be reviewable to the extent established by open contracts and must remain independently operable. Neither edition may presume access to the other's protected structures, records, or implementation.
+
+Metal Accountability must maintain attributable evidence of applicable definitions, approvals, structural changes, containment decisions, endurance tests, failures, recovery actions, limitations, and outcomes. Continuity and restoration must preserve integrity, provenance, authorization, and required evidence. Restoring a structure does not automatically reauthorize its previous permissions, pathways, loads, or operating conditions.
+
+The application of Metal / Crystal qualities to UNIVERSALIN assistants and UNIVERSALIN Guardians must remain within their assigned contexts and authorities. These specializations do not create additional core intelligences, independent actors, or authority over a designated human. Guardian-related structural and containment functions must preserve human authorization, autonomy, privacy, and personal boundaries.
+
+Applicability, specification, authorization, availability, implementation, structural integrity, endurance, containment, transmission, recovery, outcome, and verification are separate claims. Establishing Elemental Alchemy — Metal / Crystal or its place in the 22-context taxonomy does not prove that a particular structure, material property, containment mechanism, transmission capability, implementation, or result exists.
+
+---
+
 ### Elemental Alchemy — Mist / Fog
 
 **Elemental Alchemy — Mist / Fog**  
