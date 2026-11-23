@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 0.2.0  
-**Status:** Formal Sciences subject hierarchy recorded; 19 subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 0.3.0  
+**Status:** Formal Sciences and Physical Sciences subject hierarchies recorded; 42 subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -308,24 +308,159 @@ Each subject Alchemy and each of its 22 contextual expressions must be reviewed 
 
 A subject's presence in the matrix establishes the required mapping. It does not by itself establish that its full contextual expression has passed review or that an implementation exists.
 
-## 14. Taxonomy status and release register
+## 14. Universal Subject of Knowledge hierarchy: Physical Sciences
 
-| Item | State in version 0.2.0 |
+### 14.1 Canonical subject definition
+
+**Physical Sciences** — Study of matter, energy, space, and physical laws.
+
+This definition is retained as supplied. The Physical Sciences subject becomes **Physical Sciences Alchemy**.
+
+### 14.2 Physical Sciences Alchemy hierarchy
+
+The following hierarchy preserves the supplied parent-child structure. Each listed subject, including Physical Sciences and the parent subjects Physics and Chemistry, becomes its own distinct Alchemy.
+
+- **Physical Sciences Alchemy**
+  - **Physics Alchemy**
+    - **Classical Mechanics Alchemy**
+    - **Quantum Mechanics Alchemy**
+    - **Relativity Alchemy**
+    - **Thermodynamics Alchemy**
+    - **Electromagnetism Alchemy**
+    - **Optics Alchemy**
+    - **Acoustics Alchemy**
+  - **Chemistry Alchemy**
+    - **Organic Chemistry Alchemy**
+    - **Inorganic Chemistry Alchemy**
+    - **Physical Chemistry Alchemy**
+    - **Analytical Chemistry Alchemy**
+    - **Biochemistry Alchemy**
+  - **Astronomy Alchemy**
+  - **Cosmology Alchemy**
+  - **Planetary Science Alchemy**
+  - **Earth Science Alchemy**
+  - **Geophysics Alchemy**
+  - **Meteorology Alchemy**
+  - **Oceanography Alchemy**
+  - **Materials Science Alchemy**
+
+### 14.3 Physical Sciences Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
+|---|---|---|---|
+| USA-PS-001 | Physical Sciences | Physical Sciences Alchemy | Root subject |
+| USA-PS-002 | Physics | Physics Alchemy | Physical Sciences |
+| USA-PS-003 | Classical Mechanics | Classical Mechanics Alchemy | Physics |
+| USA-PS-004 | Quantum Mechanics | Quantum Mechanics Alchemy | Physics |
+| USA-PS-005 | Relativity | Relativity Alchemy | Physics |
+| USA-PS-006 | Thermodynamics | Thermodynamics Alchemy | Physics |
+| USA-PS-007 | Electromagnetism | Electromagnetism Alchemy | Physics |
+| USA-PS-008 | Optics | Optics Alchemy | Physics |
+| USA-PS-009 | Acoustics | Acoustics Alchemy | Physics |
+| USA-PS-010 | Chemistry | Chemistry Alchemy | Physical Sciences |
+| USA-PS-011 | Organic Chemistry | Organic Chemistry Alchemy | Chemistry |
+| USA-PS-012 | Inorganic Chemistry | Inorganic Chemistry Alchemy | Chemistry |
+| USA-PS-013 | Physical Chemistry | Physical Chemistry Alchemy | Chemistry |
+| USA-PS-014 | Analytical Chemistry | Analytical Chemistry Alchemy | Chemistry |
+| USA-PS-015 | Biochemistry | Biochemistry Alchemy | Chemistry |
+| USA-PS-016 | Astronomy | Astronomy Alchemy | Physical Sciences |
+| USA-PS-017 | Cosmology | Cosmology Alchemy | Physical Sciences |
+| USA-PS-018 | Planetary Science | Planetary Science Alchemy | Physical Sciences |
+| USA-PS-019 | Earth Science | Earth Science Alchemy | Physical Sciences |
+| USA-PS-020 | Geophysics | Geophysics Alchemy | Physical Sciences |
+| USA-PS-021 | Meteorology | Meteorology Alchemy | Physical Sciences |
+| USA-PS-022 | Oceanography | Oceanography Alchemy | Physical Sciences |
+| USA-PS-023 | Materials Science | Materials Science Alchemy | Physical Sciences |
+
+**Physical Sciences total: 23 distinct subject Alchemies.** This count includes Physical Sciences Alchemy itself, Physics Alchemy and its seven subordinate Alchemies, Chemistry Alchemy and its five subordinate Alchemies, and the eight additional direct subordinate Alchemies of Physical Sciences.
+
+The source supplied a definition for Physical Sciences and names and hierarchy for its subordinate subjects. No additional subject definitions or descriptions have been invented. The subordinate subject definitions must be developed without changing their supplied canonical names or parentage.
+
+## 15. Physical Sciences Alchemy — 23 × 22 context matrix
+
+The matrix below maps every Physical Sciences subject Alchemy to all 22 canonical contexts. The column identifiers C01–C22 refer to the canonical context key in Section 8.2. Each **M** is a required mapping position. It does not, by itself, claim that the detailed context-specific expression has been authored, reviewed, implemented, tested, or verified.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-PS-001 · Physical Sciences Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-002 · Physics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-003 · Classical Mechanics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-004 · Quantum Mechanics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-005 · Relativity Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-006 · Thermodynamics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-007 · Electromagnetism Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-008 · Optics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-009 · Acoustics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-010 · Chemistry Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-011 · Organic Chemistry Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-012 · Inorganic Chemistry Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-013 · Physical Chemistry Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-014 · Analytical Chemistry Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-015 · Biochemistry Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-016 · Astronomy Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-017 · Cosmology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-018 · Planetary Science Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-019 · Earth Science Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-020 · Geophysics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-021 · Meteorology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-022 · Oceanography Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-PS-023 · Materials Science Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Physical Sciences matrix total:** 23 subject Alchemies × 22 contexts = **506 mapped intersections**.
+
+The 506 intersections are the contextual mappings of the 23 Physical Sciences Alchemies. They are not 506 additional subject classifications.
+
+## 16. Physical Sciences contextual expression requirements
+
+Each of the 506 mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 17. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains two supplied Universal Subjects of Knowledge hierarchies.
+
+| Universal Subject of Knowledge | Subject Alchemies | Contexts | Required mapped intersections |
+|---|---:|---:|---:|
+| Formal Sciences | 19 | 22 | 418 |
+| Physical Sciences | 23 | 22 | 506 |
+| **Cumulative total** | **42** | **22** | **924** |
+
+The cumulative total represents 42 distinct subject Alchemies mapped across 22 contexts. It does not create 924 new subject classifications. Each of the 924 matrix positions requires a context-specific expression.
+
+## 18. Taxonomy status and release register
+
+| Item | State in version 0.3.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
 | Context register | Established — 22 canonical contexts |
 | Subject-to-context mapping rule | Established — every subject Alchemy maps across all 22 contexts |
-| Formal Sciences source definition | Recorded as supplied |
-| Formal Sciences subject hierarchy | Recorded — 19 distinct subject Alchemies |
+| Formal Sciences source definition and hierarchy | Recorded as supplied — 19 distinct subject Alchemies |
 | Formal Sciences matrix | Recorded — 19 × 22 = 418 mapped intersections |
-| Detailed Formal Sciences contextual expressions | To be authored and reviewed for each intersection |
+| Physical Sciences source definition and hierarchy | Recorded as supplied — 23 distinct subject Alchemies |
+| Physical Sciences matrix | Recorded — 23 × 22 = 506 mapped intersections |
+| Cumulative subject Alchemy register | 42 distinct subject Alchemies |
+| Cumulative mapped intersections | 42 × 22 = 924 required mappings |
+| Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** the Formal Sciences subject list and its 418 required mapping positions are recorded. The detailed definitions and operational expressions for those 418 intersections remain to be authored and reviewed. These states must not be represented as interchangeable.
+**Completion distinction:** Formal Sciences and Physical Sciences subject names, source hierarchy, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 15. Change control
+## 19. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
