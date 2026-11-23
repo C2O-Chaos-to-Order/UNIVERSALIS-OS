@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 0.1.0  
-**Status:** Foundational draft — awaiting the authoritative Universal Subjects of Knowledge; subject classifications pending definition and review  
+**Version:** 0.2.0  
+**Status:** Formal Sciences subject hierarchy recorded; 19 subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -18,14 +18,14 @@ This is the working root definition for the taxonomy. Its wording and implicatio
 
 ## 3. What the taxonomy classifies
 
-The taxonomy must keep four different concepts distinct:
+The taxonomy distinguishes four foundational concepts:
 
-1. **Alchemy domain** — the subject matter or field to which a bounded Alchemical process applies.
-2. **Alchemy classification** — a defined category of Alchemical responsibility, process, or specialization within a domain.
-3. **Context** — the C2O or UNIVERSALIS setting in which an Alchemy may apply. The 22 contexts in this file establish the coverage universe; they are not, by themselves, 22 Alchemy classifications.
-4. **Contextual expression** — the bounded way an Alchemy applies within one or more of those contexts. A contextual expression does not automatically constitute a new Alchemy classification.
+1. **Universal Subject of Knowledge** — a canonical subject supplied within the Universal Subjects of Knowledge hierarchy. Its name, definition, and parent-child placement are preserved.
+2. **Subject Alchemy** — the distinct Alchemical identity established for each Universal Subject of Knowledge. Every supplied subject, including parent subjects and subordinate subjects, becomes its own Alchemy.
+3. **Context** — one of the 22 canonical C2O and UNIVERSALIS contexts established in Section 4. Contexts are the fixed matrix dimension through which every subject Alchemy is mapped.
+4. **Contextual expression** — the specific definition, purpose, responsibilities, operations, relationships, dependencies, and boundaries of a subject Alchemy within one of the 22 contexts.
 
-A repository, operating system, application, intelligence, assistant, or guardian is not automatically an Alchemy classification merely because the taxonomy applies to it.
+An operating system, application, intelligence, assistant, or guardian is not made into an additional subject Alchemy merely because it is a context. It remains a context dimension unless it is separately supplied and established as a Universal Subject of Knowledge.
 
 ## 4. Established context register
 
@@ -70,7 +70,7 @@ The Alchemy Taxonomy applies across the following 22 contexts. Names and groupin
 
 **Register total: 22 contexts.**
 
-The register defines where the taxonomy must be considered. It does not mean every Alchemy classification applies in every context. Each classification must state its actual applicability.
+Every supplied subject Alchemy is mapped across all 22 contexts. Each matrix intersection requires its own context-specific expression; the mapping does not imply identical operations, authority, implementation, or source visibility.
 
 The context labels also do not create additional operating systems, applications, or independent intelligence entities. They identify the specified context in which a capability, responsibility, or process is considered.
 
