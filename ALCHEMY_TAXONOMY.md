@@ -16,6 +16,37 @@ Alchemy applies throughout the entire C2O–UNIVERSALIS ecosystem. Its applicati
 
 Universal application does not mean that every Alchemy performs the same function or has identical authority, permissions, implementation, or responsibilities in every context. Its actual applicability and boundaries must be established through the appropriate structural and relational definitions.
 
+#### Canonical 22-Context Registry
+
+Alchemy's ecosystem-wide applicability is established across the following 22 canonical contexts. These are applicability contexts, not 22 separate systems or 22 independent intelligences. The C2O and UNIVERSALIS operating-system and application entries identify the private-source company edition and open-source public edition of their respective underlying systems.
+
+1. **C2O Operating System** — the private-source company edition of the underlying operating-system architecture, governed by C2O authority and internal controls.
+2. **UNIVERSALIS Operating System** — the open-source public edition of the same underlying operating-system architecture, governed through open contracts and independently operable without C2O private dependencies.
+3. **C2O Intelligence** — the private core intelligence, preserving C2O's identity, stewardship, internal governance, authority, and source boundaries.
+4. **UNIVERSALIS Intelligence** — the public core intelligence, preserving UNIVERSALIS's identity, open architectural contracts, transparency, and independent operability.
+5. **C2O Application** — the private-source company edition of the underlying application system, governed by C2O internal authority and controls.
+6. **UNIVERSALIS Application** — the open-source public edition of the same underlying application system, governed through open contracts and independently operable without C2O private dependencies.
+7. **C2O Operating System - UNIVERSALIN** — the C2O OS context for non-personal UNIVERSALIN assistant configuration, operation, permissions, and bounded working structures.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — the UNIVERSALIS OS context for non-personal UNIVERSALIN assistant configuration and operation through open, inspectable contracts.
+9. **C2O Application - UNIVERSALIN** — the C2O application context for non-personal UNIVERSALIN assistant workflows, configuration, permissions, and retained application state.
+10. **UNIVERSALIS Application - UNIVERSALIN** — the UNIVERSALIS application context for non-personal UNIVERSALIN assistant workflows through open, inspectable application contracts.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — the C2O OS context for subordinate intelligence-related functions supporting OS-hosted, non-personal UNIVERSALIN assistants; these functions do not constitute another core intelligence.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — the UNIVERSALIS OS context for corresponding subordinate intelligence-related functions under public contracts; these functions do not constitute another core intelligence or require C2O private dependencies.
+13. **C2O Application - UNIVERSALIN Intelligence** — the C2O application context for subordinate intelligence-related functions supporting application-hosted, non-personal UNIVERSALIN assistants within private application permissions.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — the UNIVERSALIS application context for corresponding subordinate intelligence-related functions under open, inspectable application contracts.
+15. **C2O Operating System - UNIVERSALIN Guardian** — the C2O OS context for structures supporting a human-bound, personal UNIVERSALIN Guardian, subject to the designated human's authority, consent, autonomy, privacy, purpose, and permissions.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — the UNIVERSALIS OS context for public interfaces and structures supporting a human-bound Guardian while preserving the designated human's authority, consent, autonomy, privacy, purpose, and permissions.
+17. **C2O Application - UNIVERSALIN Guardian** — the C2O application context for structures supporting a human-bound Guardian within the designated human's authorized purposes, preferences, retention choices, and permissions.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — the UNIVERSALIS application context for open, inspectable structures supporting a human-bound Guardian while preserving the designated human's authority and control. "UNIVERSALIS App - UNIVERSALIN Guardian" is an accepted abbreviated reference to this context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — the C2O OS context for subordinate intelligence-related functions supporting an OS-hosted Guardian; those functions remain human-directed and do not become an independent intelligence or decision authority.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — the UNIVERSALIS OS context for corresponding subordinate Guardian intelligence-related functions under public contracts, without weakening human control or creating an additional core intelligence.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — the C2O application context for subordinate intelligence-related functions supporting an application-hosted Guardian within human-granted permissions and purpose limits.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — the UNIVERSALIS application context for corresponding subordinate Guardian intelligence-related functions under open application contracts and designated-human control.
+
+**Canonical naming and identity boundaries:** "Application" is the expanded canonical form; "App" is an accepted abbreviation. The canonical spelling is **UNIVERSALIN**. UNIVERSALIN identifies non-personal assistants; UNIVERSALIN Guardian identifies a personal, human-bound Guardian. UNIVERSALIN Intelligence and UNIVERSALIN Guardian Intelligence identify subordinate intelligence-related functions within their respective contexts, not additional core intelligences. The only two core intelligences are C2O Intelligence and UNIVERSALIS Intelligence.
+
+The registry establishes where Alchemy applicability must be assessed. It does not imply that every Alchemy performs the same function in all 22 contexts, that every capability is implemented, or that authority, permissions, governance, source visibility, or evidence are interchangeable. Each Alchemy must have its context-specific scope, relationships, dependencies, controls, and evidence status established. C2O private-source governance remains separate from UNIVERSALIS public contracts, and UNIVERSALIS must remain independently operable without C2O private implementation, policies, keys, or records.
+
 ## 2. Foundational Structural Alchemies
 
 Foundational Structural Alchemies establish the structures, relationships, correspondences, and applicability requirements through which the wider Alchemy Taxonomy is organized and maintained.
@@ -9056,9 +9087,9 @@ Public-source organization of Clay/Mud qualities under open contracts. Used for 
 
 ### 1.1 Universal Application of Elemental Alchemy — Clay / Mud
 
-Elemental Alchemy — Clay / Mud applies across the canonical 22 ecosystem contexts below. The context registry is authoritative; each entry describes the relevant scope without implying that a capability has been implemented or that the C2O and UNIVERSALIS editions share private governance, source visibility, or authority.
+Elemental Alchemy — Clay / Mud applies across all 22 contexts in the Canonical 22-Context Registry defined in Section 1.2. The numbered applications below follow that registry's canonical order and describe Clay / Mud's context-specific scope. Inclusion establishes conceptual applicability, not implementation or verified capability. C2O and UNIVERSALIS expressions retain their distinct governance, source-visibility, and authority boundaries.
 
-#### Canonical 22-Context Applicability
+#### Clay / Mud Applicability Across the Canonical 22 Contexts
 
 1. **C2O Operating System** — governs private OS-level plasticity, formative binding, retained state, and recovery under C2O internal governance.
 2. **UNIVERSALIS Operating System** — governs OS-level Clay / Mud structures through open contracts, inspectable formative rules, and independently verifiable retention and recovery.
