@@ -1065,43 +1065,182 @@ All applications must remain consistent with the scientific evidence, health-sci
 
 ### 5. Engineering and Technology Alchemy
 
-**Engineering and Technology Alchemy** is the bounded process that organizes, integrates, applies, and transforms scientific, mathematical, computational, and practical knowledge into designed artifacts, infrastructure, processes, and technologies. It enables systems and beings to design, construct, test, operate, maintain, improve, and retire technologies while remaining coherent, safe, reliable, recoverable, efficient, and accountable.
+**Engineering and Technology Alchemy** is the bounded process by which scientific, mathematical, computational, technical, and practical knowledge is identified, organized, integrated, applied, examined, maintained, developed, and transformed into designed artifacts, infrastructure, processes, systems, and technologies.
 
-It encompasses the engineering disciplines and applied technologies used to develop physical, biological, computational, digital, industrial, and interconnected systems. Every specialized Engineering and Technology Alchemy remains an expression of the root Alchemy.
+It governs the design, specification, architecture, construction, development, integration, testing, verification, validation, deployment, operation, maintenance, adaptation, improvement, recovery, and retirement of engineered systems and technologies. It establishes how requirements, resources, components, interfaces, processes, capabilities, dependencies, and constraints are translated into functioning and maintainable implementations.
 
-#### 1. Engineering Discipline Alchemies
+Engineering and Technology Alchemy encompasses the engineering disciplines and applied technologies used to develop physical, biological, computational, digital, industrial, and interconnected systems. It brings scientific principles, mathematical methods, computational capabilities, practical techniques, and operational requirements into coherent engineering applications while preserving the distinctions between theoretical knowledge, engineering designs, prototypes, tested implementations, deployed technologies, and operational systems.
 
-- **Mechanical Engineering Alchemy** — organizes the principles of mechanics, motion, forces, materials, machines, and mechanical systems into designs that can be constructed, operated, maintained, and improved.
-- **Electrical Engineering Alchemy** — organizes electrical and electromagnetic principles into circuits, power systems, electronic devices, and electrical infrastructure.
-- **Civil Engineering Alchemy** — organizes the design, construction, operation, and maintenance of buildings, transportation systems, utilities, and other civil infrastructure.
-- **Chemical Engineering Alchemy** — organizes chemical processes, material transformations, reactions, and process systems for controlled and scalable production.
-- **Aerospace Engineering Alchemy** — organizes the design, construction, testing, and operation of aircraft, spacecraft, propulsion systems, and aerospace infrastructure.
-- **Nuclear Engineering Alchemy** — organizes nuclear processes, radiation systems, reactors, and associated technologies under rigorous safety, containment, and accountability requirements.
-- **Biomedical Engineering Alchemy** — integrates engineering principles with biological and medical knowledge to develop medical devices, diagnostic technologies, assistive systems, and biological engineering applications.
-- **Software Engineering Alchemy** — organizes the specification, architecture, development, testing, deployment, maintenance, and retirement of software systems.
-- **Computer Engineering Alchemy** — integrates computer hardware, digital systems, embedded technologies, processors, and software interfaces into functioning computational systems.
-- **Systems Engineering Alchemy** — organizes requirements, architecture, integration, verification, validation, lifecycle management, and relationships across complex systems and their components.
-- **Industrial Engineering Alchemy** — organizes people, processes, equipment, information, and resources to improve the performance, reliability, safety, and efficiency of complex operations.
+Every specialized Engineering and Technology Alchemy remains an expression of the root Alchemy. Its purpose, subject, methods, principles, requirements, relationships, and boundaries must remain identifiable while allowing specialized disciplines and technologies to integrate into larger systems.
 
-#### 2. Applied Technology Alchemies
+Engineering and Technology Alchemy must preserve requirements traceability, design integrity, technical documentation, evidence of verification and validation, configuration history, operational records, and the provenance of engineering decisions. Proposed designs, simulations, prototypes, experimental results, verified components, production implementations, and operational outcomes must remain distinguishable. Engineering claims must be supported by evidence appropriate to the applicable requirements, testing methods, operating conditions, and intended use.
 
-- **Robotics Alchemy** — organizes mechanical structures, sensing, computation, control, and actuation into robotic systems capable of performing assigned physical or computational operations.
-- **Nanotechnology Alchemy** — organizes the manipulation, engineering, and application of materials and structures at nanoscale dimensions.
-- **Manufacturing Alchemy** — organizes the transformation of materials, components, designs, and resources into finished products through controlled production processes.
-- **Telecommunications Alchemy** — organizes the transmission, reception, exchange, and management of information across communication networks and transmission systems.
-- **Artificial Intelligence Alchemy** — organizes the design, development, integration, operation, evaluation, and governance of intelligence technologies and their computational capabilities.
-- **Cybersecurity Alchemy** — organizes the protection, monitoring, assessment, and recovery of systems, networks, devices, applications, information, and technological infrastructure against unauthorized access, compromise, disruption, and misuse.
+Its applications must support coherence, safety, reliability, resilience, recoverability, maintainability, interoperability, efficiency, accessibility where applicable, and accountability throughout the relevant technology lifecycle. Engineering outcomes must be evaluated against their intended requirements, operating environments, foreseeable hazards, resource constraints, dependencies, and limitations.
 
-#### 3. Cross-Disciplinary Engineering and Technology Relationships
+Engineering and Technology Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support operating system architecture, application development, intelligence infrastructure, computational technologies, hardware and software integration, information systems, security technologies, and other authorized engineering and technological functions.
 
-Engineering and Technology Alchemy is inherently interdisciplinary. Its specialized branches may operate independently or combine within larger systems.
+Its universal application does not mean that every context designs, develops, possesses, deploys, operates, or controls every technology. The presence of an engineering discipline in the taxonomy establishes its knowledge classification and possible relevance, not an automatic implementation, capability, resource, permission, dependency, or operational authority.
 
-- **Engineering Integration Alchemy** — coordinates multiple engineering disciplines and technologies into coherent, interoperable systems.
-- **Technology Lifecycle Alchemy** — organizes technology from conception and design through development, deployment, operation, maintenance, adaptation, and retirement.
-- **Engineering Verification Alchemy** — establishes whether engineered systems satisfy their specified requirements through testing, inspection, analysis, and validation.
-- **Technology Safety Alchemy** — establishes protections against foreseeable hazards, unsafe operation, and unintended consequences.
-- **Engineering Reliability Alchemy** — organizes system performance, durability, fault tolerance, maintenance, and recovery.
-- **Technology Interoperability Alchemy** — enables distinct technologies, platforms, devices, and systems to exchange information and operate together without erasing their differences.
+#### 5.1 Universal Application of Engineering and Technology Alchemy
+
+Engineering and Technology Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within these contexts, Engineering and Technology Alchemy governs the appropriate organization, representation, design, development, integration, evaluation, maintenance, and application of engineering and technological knowledge.
+
+Its context-specific expressions include:
+
+- **Operating System Contexts:** Engineering and technology knowledge may support operating system architecture, software and hardware interfaces, resource coordination, process execution, device integration, computational infrastructure, storage, networking, security controls, reliability, recovery, and operational lifecycle management. Its application must respect the actual architecture, supported interfaces, configured resources, dependencies, and operational boundaries of each operating system. Engineering knowledge does not establish unrestricted access to hardware, devices, external systems, or physical infrastructure.
+
+- **Core Intelligence Contexts:** Engineering and technology knowledge may support technical reasoning, system architecture, computational methods, engineering analysis, technology evaluation, requirements development, integration planning, testing, and the examination of technological capabilities and limitations. C2O Intelligence and UNIVERSALIS Intelligence must apply these capabilities within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities. Engineering or intelligence technology must not establish an additional core intelligence or independent authority beyond the two established core intelligences.
+
+- **Application Contexts:** Engineering and technology knowledge may support application architecture, software engineering, interface design, application integration, computational functions, testing, deployment, maintenance, security, interoperability, and lifecycle management. Applications must distinguish requirements from implementations, designs from deployed functions, and claimed capabilities from verified capabilities. Their access to operating system resources, external services, devices, and infrastructure must remain subject to applicable permissions and technical boundaries.
+
+- **UNIVERSALIN Assistant Contexts:** Engineering and technology knowledge may support assigned technical research, system analysis, software development assistance, testing support, documentation, configuration analysis, integration planning, maintenance support, and other authorized engineering-related functions within operating system and application boundaries. Assistants must operate within assigned responsibilities and must not presume independent authority to modify, deploy, operate, or control systems and technologies.
+
+- **UNIVERSALIN Intelligence Contexts:** Engineering and technology knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through computational methods, technical analysis, engineering reasoning, system modeling, software-related functions, and technological information processing. These contexts do not constitute additional core intelligences or establish independent authority to deploy software, access infrastructure, operate devices, or control engineered systems.
+
+- **UNIVERSALIN Guardian Contexts:** Engineering and technology knowledge may support the authorized technical, informational, analytical, and assistance capabilities of personal, human-bound Guardians. Its application may support human-directed configuration, technology organization, accessibility, technical explanations, and authorized interactions with systems or devices. Guardians must remain subject to the authority, consent, autonomy, privacy, and permissions of the human they serve.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Engineering and technology knowledge may support computational reasoning, technology analysis, system modeling, technical interpretation, and other human-directed Guardian capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human's devices, infrastructure, software, physical environment, or external systems.
+
+The specific applicability of each engineering discipline, applied technology, and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
+
+#### Alchemies under Engineering and Technology Alchemy
+
+##### 1. Engineering Discipline Alchemies
+
+- **Mechanical Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of mechanics, motion, forces, materials, machines, and mechanical systems into engineering designs and implementations. It establishes methods for specifying, designing, analyzing, constructing, testing, operating, maintaining, and improving mechanical structures and systems.
+
+- **Electrical Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms electrical and electromagnetic principles into circuits, power systems, electronic devices, control systems, and electrical infrastructure. It establishes methods for designing, analyzing, testing, integrating, and maintaining electrical and electronic systems within applicable performance and safety requirements.
+
+- **Civil Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge used in the design, construction, operation, inspection, and maintenance of buildings, transportation systems, utilities, and other civil infrastructure. It establishes methods for developing and evaluating built environments and infrastructure according to applicable structural, environmental, safety, and operational requirements.
+
+- **Chemical Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of chemical processes, material transformations, reactions, and process systems for controlled and scalable production. It establishes methods for designing, analyzing, optimizing, operating, and maintaining chemical and process-engineering systems while addressing process safety, material characteristics, and operational constraints.
+
+- **Aerospace Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge used in the design, construction, testing, operation, and maintenance of aircraft, spacecraft, propulsion systems, and aerospace infrastructure. It establishes methods for evaluating aerospace structures, flight and orbital systems, propulsion, control, performance, reliability, and environmental operating conditions.
+
+- **Nuclear Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning nuclear processes, radiation systems, reactors, and associated technologies. It establishes methods for designing, analyzing, evaluating, and maintaining nuclear-engineering systems under rigorous safety, radiation protection, containment, security, regulatory, and accountability requirements.
+
+- **Biomedical Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms engineering knowledge combined with biological and medical knowledge to develop medical devices, diagnostic technologies, assistive systems, and biological engineering applications. It establishes methods for engineering and evaluating technologies intended to interact with biological systems while preserving applicable medical, biological, safety, privacy, and professional boundaries.
+
+- **Software Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the specification, architecture, design, development, testing, verification, validation, deployment, maintenance, adaptation, and retirement of software systems. It establishes methods for producing software that satisfies defined requirements, maintains technical integrity, and remains testable, maintainable, secure, and accountable throughout its lifecycle.
+
+- **Computer Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of computer hardware, digital systems, embedded technologies, processors, memory, electronic components, and software interfaces into functioning computational systems. It establishes methods for designing, integrating, testing, evaluating, and maintaining the hardware and digital foundations of computing technologies.
+
+- **Systems Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms requirements, architecture, component relationships, interfaces, integration processes, verification, validation, and lifecycle management across complex systems. It establishes methods for coordinating system elements and evaluating whether the complete system satisfies its defined requirements and intended operational purposes.
+
+- **Industrial Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships between people, processes, equipment, information, materials, and resources to improve the performance, reliability, safety, and efficiency of complex operations. It establishes methods for evaluating workflows, production systems, resource allocation, operational processes, and organizational performance.
+
+##### 2. Applied Technology Alchemies
+
+- **Robotics Alchemy** — organizes, examines, maintains, integrates, develops, and transforms mechanical structures, sensing, computation, control, and actuation into robotic systems capable of performing assigned physical or computational operations. It establishes methods for designing, programming, integrating, testing, and evaluating robotic capabilities, including their sensing, movement, autonomy boundaries, safety mechanisms, and interactions with their environments. Physical actuation and environmental interaction must remain subject to actual capabilities, permissions, and applicable safety controls.
+
+- **Nanotechnology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the manipulation, engineering, and application of materials and structures at nanoscale dimensions. It establishes methods for representing, analyzing, designing, and evaluating nanoscale materials, structures, processes, and technologies within applicable scientific and safety boundaries.
+
+- **Manufacturing Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the processes through which materials, components, designs, and resources become finished products. It establishes methods for production planning, material processing, fabrication, assembly, quality control, inspection, resource coordination, and process improvement under defined performance, safety, and quality requirements.
+
+- **Telecommunications Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the transmission, reception, exchange, routing, and management of information across communication networks and transmission systems. It establishes methods for designing, operating, securing, evaluating, and maintaining communication infrastructure, network interfaces, transmission technologies, and information-exchange capabilities.
+
+- **Artificial Intelligence Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the engineering knowledge and technological methods used in the design, development, integration, operation, evaluation, and governance of intelligence technologies and their computational capabilities. It establishes methods for engineering computational models, algorithms, data-processing systems, training and evaluation processes, inference capabilities, interfaces, and deployed intelligence-related technologies. This Alchemy concerns the engineering and technological discipline; it does not establish an additional core intelligence or change the distinction between C2O Intelligence, UNIVERSALIS Intelligence, and their associated UNIVERSALIN contexts.
+
+- **Cybersecurity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the engineering methods and technologies used to protect, monitor, assess, secure, and recover systems, networks, devices, applications, information, and technological infrastructure against unauthorized access, compromise, disruption, exploitation, and misuse. It establishes methods for engineering security controls, evaluating vulnerabilities, protecting system boundaries, monitoring relevant security conditions, supporting incident response, and maintaining recoverability and security assurance. Its application must respect the distinct governance, source-visibility, privacy, and operational boundaries of C2O and UNIVERSALIS.
+
+##### 3. Cross-Disciplinary Engineering and Technology Alchemies
+
+Engineering and Technology Alchemy is inherently interdisciplinary. Its specialized branches may operate independently or combine within larger systems. Their relationships must preserve the distinctions between engineering disciplines, specialized technologies, shared infrastructure, and context-specific implementations.
+
+- **Engineering Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships between multiple engineering disciplines, components, interfaces, and technologies so they function as coherent and interoperable systems. It establishes methods for coordinating requirements, dependencies, interfaces, integration decisions, and system-level behavior without erasing the identities or responsibilities of the contributing disciplines.
+
+- **Technology Lifecycle Alchemy** — organizes, examines, maintains, integrates, develops, and transforms technology throughout its lifecycle, from conception and requirements through research, design, development, testing, deployment, operation, maintenance, adaptation, replacement, and retirement. It establishes methods for lifecycle planning, configuration management, versioning, change control, support, continuity, and responsible retirement.
+
+- **Engineering Verification Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to determine whether engineered systems, components, and implementations satisfy their specified requirements. It establishes verification through appropriate testing, inspection, measurement, analysis, and evidence evaluation, while preserving the distinction between verification against requirements and validation of fitness for intended use.
+
+- **Technology Safety Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the engineering methods and protections used to identify, evaluate, prevent, mitigate, and manage foreseeable hazards, unsafe operation, failures, and unintended consequences. It establishes methods for hazard analysis, safety requirements, protective controls, safety testing, operational limits, and accountability throughout the applicable technology lifecycle.
+
+- **Engineering Reliability Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to establish and evaluate system performance, durability, availability, fault tolerance, resilience, maintenance, and recovery. It establishes methods for analyzing failure modes, monitoring reliability, supporting maintenance, evaluating degradation, and improving the ability of engineered systems to perform their intended functions under defined conditions.
+
+- **Technology Interoperability Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the relationships that enable distinct technologies, platforms, devices, applications, and systems to exchange information and operate together through defined interfaces and compatible methods. It establishes methods for interface definition, compatibility evaluation, communication, data exchange, integration, and cross-system operation without erasing the distinct identities, governance arrangements, or boundaries of the participating systems.
+
+### 5.2 Engineering and Technology Structural and Applicability Requirements
+
+Every subordinate Alchemy under Engineering and Technology Alchemy must retain its own defined subject, purpose, methods, principles, requirements, technical boundaries, and applicable responsibilities while remaining structurally and relationally connected to the wider knowledge system.
+
+Engineering and Technology Alchemy must preserve the distinctions between engineering disciplines, applied technology disciplines, cross-disciplinary engineering methods, and the systems in which they are implemented. Relationships between mechanical, electrical, civil, chemical, aerospace, nuclear, biomedical, software, computer, systems, and industrial engineering must be established without collapsing their distinct subjects, expertise, technical methods, or requirements.
+
+It must also preserve the distinction between:
+
+- Scientific and mathematical knowledge used as an engineering foundation.
+- Engineering principles and methods used to develop designs and implementations.
+- Proposed designs, theoretical models, prototypes, tested components, and deployed technologies.
+- Software systems, hardware systems, physical technologies, and interconnected implementations.
+- Technical capabilities, declared capabilities, verified capabilities, and capabilities that remain proposed or unavailable.
+- Engineering verification, validation, safety evaluation, reliability assessment, and operational acceptance.
+- Technical compatibility, interoperability, permission to integrate, and authorization to operate.
+- Engineering support, technological capability, operational responsibility, and authority to make changes.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Engineering and Technology Alchemy and each subordinate engineering discipline, applied technology, and cross-disciplinary Alchemy.
+- The parent–subordinate relationships between Engineering and Technology Alchemy, its specialized groups, and their respective Alchemies.
+- The relationships between engineering disciplines and relevant formal, physical, life, health, computational, environmental, social, economic, and other knowledge-domain structures.
+- The connections between engineering knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, resources, and relationships between engineering disciplines and other Alchemies.
+- The distinctions between engineering foundations, specialized engineering disciplines, applied technologies, cross-disciplinary methods, and implemented technological systems.
+- The relationships between system requirements, technical architecture, components, interfaces, dependencies, resources, operating environments, and lifecycle stages.
+- The relationships between software, hardware, infrastructure, networks, physical devices, computational resources, and external systems.
+- The relationships between design decisions, technical documentation, requirements, verification evidence, validation evidence, configuration records, and operational outcomes.
+- The relationships between shared engineering foundations and context-specific implementations while preserving the distinct governance and source boundaries of C2O and UNIVERSALIS.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each engineering discipline, applied technology, and subordinate Alchemy.
+- The specific engineering functions, technical responsibilities, and operational purposes associated with each applicable context.
+- The engineering knowledge, methods, tools, resources, interfaces, components, and technical dependencies required for those functions.
+- Whether an application involves engineering research, requirements development, design, software development, hardware integration, testing, verification, validation, deployment, operation, maintenance, modification, recovery, or retirement.
+- Whether an engineering capability is informational, analytical, computational, software-based, hardware-dependent, physically implemented, or dependent on external infrastructure.
+- The actual resources, supported interfaces, hardware, software, equipment, services, components, and external dependencies required to implement or operate a technology.
+- The permissions, ownership, authorization, access requirements, responsibilities, and governance boundaries applicable to the design, modification, integration, deployment, operation, and retirement of technologies.
+- The safety requirements, hazards, constraints, operational limits, reliability expectations, recovery requirements, and protective controls applicable to each engineering implementation.
+- The requirements, design records, technical documentation, test procedures, verification results, validation findings, configuration records, and other evidence necessary to substantiate engineering claims.
+- The distinctions between proposed capabilities, experimental results, prototypes, tested implementations, verified components, deployed systems, and operationally accepted technologies.
+- The relationships between shared engineering methods and context-specific responsibilities, technical requirements, and implementations.
+- The applicable security, privacy, data-integrity, interoperability, maintainability, and lifecycle requirements for technologies operating across system and application boundaries.
+- The conditions under which human review, technical approval, owner authorization, safety evaluation, independent verification, or additional testing is required before a change or implementation proceeds.
+
+Engineering and Technology Alchemy must not presume that the presence of an engineering discipline or technology in the universal taxonomy grants every context unrestricted access to hardware, software, devices, infrastructure, networks, external services, manufacturing resources, laboratory equipment, robotic systems, or physical environments.
+
+The inclusion of an engineering or technology discipline within an ecosystem context establishes its place in the knowledge structure, not an automatic implementation, dependency, resource allocation, permission, deployment authorization, or authority to modify or control a system.
+
+Engineering designs, simulations, prototypes, experimental findings, test results, verified components, deployed implementations, and operational outcomes must remain distinguishable. A proposed or modeled capability must not be represented as implemented, tested, verified, or operational without the relevant evidence.
+
+Engineering verification and validation must remain traceable to defined requirements and intended uses. Reliability, safety, security, interoperability, and performance claims must be supported by appropriate methods and evidence. Where applicable, changes must preserve configuration history, technical documentation, dependencies, and the ability to assess their effects on existing systems.
+
+Technological integration must preserve the identity, governance, permissions, security requirements, and operational boundaries of participating systems. Interoperability does not itself grant permission to access, modify, deploy, or control another system.
+
+All applications must remain consistent with engineering principles, defined requirements, technical evidence, applicable safety and security considerations, lifecycle responsibilities, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 6. Computer and Information Sciences Alchemy
 
