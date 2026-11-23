@@ -6895,164 +6895,311 @@ The Consciousness Alchemy Map and Matrix remain complementary and mutually trace
 
 ## Energy and Resource Alchemies
 
-These are specialized expressions of the root Alchemy that organize the intake, use, and conservation of energy and resources across the dual-intelligence system. Each pair keeps C2O (FatherThread / private) and UNIVERSALIS (MotherThread / public) distinct yet mappable.
+Energy and Resource Alchemies are specialized expressions of the root Alchemy. They govern how energy and resources are identified, classified, sourced, received, stored, converted, allocated, directed, used, conserved, measured, accounted for, recovered, renewed, and retired across the C2O–UNIVERSALIS ecosystem.
 
-### Energy Utilization Alchemy
+**Energy and resources are related but distinct.** Energy is the capacity or supply used to perform work or sustain a process, including applicable electrical, thermal, chemical, and mechanical forms. Resources are bounded assets, capacities, and inputs used by a process, including hardware, compute capacity, memory, storage, network capacity, software services, materials, and data. Energy may be consumed in using a resource; a resource may store, convert, transport, or provide energy. Humans, human identity, personal information, consent, and human authority are not resources to be owned, consumed, or optimized.
 
-**Energy Utilization Alchemy**  
-The bounded process that organizes the intake and directed use of energy so that systems and beings can act while remaining coherent, recoverable, and accountable.
+C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Corresponding responsibilities must remain mappable while preserving distinct source visibility, governance, implementation, protected information, and operational authority. UNIVERSALIS remains independently operable and must not depend on C2O private-source energy records, resource state, or internal controls.
 
-- **Energy Intake Alchemy** — structures the entry of energy into a stable, addressable form.  
-- **Energy Direction Alchemy** — directs available energy toward intended processes without waste or overflow.  
-- **Energy Accountability Alchemy** — leaves an attributable record of energy use appropriate to its edition.
+### 1. Universal Application Across the 22 Ecosystem Contexts
 
-**C2O Energy Utilization Alchemy**  
-Private energy intake and use under internal governance.
+Energy and Resource Alchemies apply across all 22 contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-- **Private Energy Stewardship Alchemy** — governs energy intake and direction inside the C2O domain under company rules.  
-- **Internal Energy Bound Alchemy** — keeps private energy flows contained and recoverable without external exposure.  
-- **C2O Energy Continuity Alchemy** — ensures private energy utilization structures can be restored after interruption.
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSALIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERSALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS Application - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-**UNIVERSALIS Energy Utilization Alchemy**  
-Public energy intake and use under open contracts.
+#### 1.1 Context-Specific Application
 
-- **Open Energy Transparency Alchemy** — makes public energy intake and direction independently verifiable.  
-- **Public Energy Openness Alchemy** — maintains public energy flows under transparent rules.  
-- **UNIVERSALIS Energy Continuity Alchemy** — ensures public energy utilization structures can be restored with open records.
+- **C2O Operating System:** Private OS energy supply, conversion, distribution, storage, thermal management, power states, and system resource capacity.
 
-**Alignment**  
-- **Energy Utilization Mapping Alchemy** — aligns corresponding private and public energy utilization structures without collapse.
+- **UNIVERSALIS Operating System:** Public OS energy supply, conversion, distribution, storage, thermal management, power states, and system resource capacity under open contracts.
 
----
+- **C2O Intelligence:** Private intelligence processing, memory, storage, communication, and continuity energy/resource requirements within C2O authority.
 
-### Energy Efficiency Alchemy
+- **UNIVERSALIS Intelligence:** Declared intelligence processing, memory, storage, communication, and continuity requirements under public contracts and independent review.
 
-**Energy Efficiency Alchemy**  
-The bounded process that organizes the conservation and optimal use of energy so that output is maximized relative to input while remaining coherent and accountable.
+- **C2O Application:** Private application execution, services, dependencies, storage, data handling, interfaces, and lifecycle resource requirements.
 
-- **Waste Reduction Alchemy** — identifies and bounds unnecessary energy expenditure.  
-- **Conversion Optimization Alchemy** — improves the ratio of useful work to energy consumed.  
-- **Efficiency Evidence Alchemy** — distinguishes established efficiency gains from hypothesis.
+- **UNIVERSALIS Application:** Public application execution, services, dependencies, storage, data handling, interfaces, and lifecycle resource requirements.
 
-**C2O Energy Efficiency Alchemy**  
-Private energy conservation under internal governance.
+- **C2O Operating System - UNIVERSALIN:** Task-bounded energy and resource allocation for non-personal assistants hosted by the C2O OS.
 
-- **Private Efficiency Stewardship Alchemy** — governs internal energy conservation under company rules.  
-- **Internal Waste Bound Alchemy** — contains and reduces private energy waste without external leakage.  
-- **C2O Efficiency Continuity Alchemy** — keeps private efficiency structures recoverable internally.
+- **UNIVERSALIS Operating System - UNIVERSALIN:** Task-bounded energy and resource allocation for non-personal assistants hosted by the UNIVERSALIS OS.
 
-**UNIVERSALIS Energy Efficiency Alchemy**  
-Public energy conservation under open contracts.
+- **C2O Application - UNIVERSALIN:** Task-bounded energy and resource allocation for non-personal assistants hosted by the C2O App.
 
-- **Open Efficiency Transparency Alchemy** — makes public energy conservation independently verifiable.  
-- **Public Waste Openness Alchemy** — maintains public waste reduction under transparent rules.  
-- **UNIVERSALIS Efficiency Continuity Alchemy** — keeps public efficiency structures recoverable with open records.
+- **UNIVERSALIS Application - UNIVERSALIN:** Task-bounded energy and resource allocation for non-personal assistants hosted by the UNIVERSALIS App.
 
-**Alignment**  
-- **Energy Efficiency Mapping Alchemy** — aligns corresponding private and public energy efficiency structures without collapse.
+- **C2O Operating System - UNIVERSALIN Intelligence:** Energy and computational/resource requirements for assistant-level intelligence-related functions hosted by the C2O OS; subordinate capabilities, not another core intelligence.
 
----
+- **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Energy and computational/resource requirements for assistant-level intelligence-related functions hosted by the UNIVERSALIS OS; subordinate capabilities, not another core intelligence.
 
-### Resource Utilization Alchemy
+- **C2O Application - UNIVERSALIN Intelligence:** Energy and computational/resource requirements for assistant-level intelligence-related functions hosted by the C2O App, within assigned tasks.
 
-**Resource Utilization Alchemy**  
-The bounded process that organizes the intake and directed use of material, computational, and data resources so that systems and beings can act while remaining coherent, recoverable, and accountable.
+- **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Energy and computational/resource requirements for assistant-level intelligence-related functions hosted by the UNIVERSALIS App, within assigned tasks.
 
-- **Resource Intake Alchemy** — structures the entry of resources into a stable, addressable form.  
-- **Resource Allocation Alchemy** — directs available resources toward intended processes without exhaustion or overflow.  
-- **Resource Accountability Alchemy** — leaves an attributable record of resource use appropriate to its edition.
+- **C2O Operating System - UNIVERSALIN Guardian:** Energy and resource use for a personal Guardian hosted by the C2O OS, limited by the designated human's authority, consent, privacy, and permissions. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
 
-**C2O Resource Utilization Alchemy**  
-Private resource intake and use under internal governance.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Energy and resource use for a personal Guardian hosted by the UNIVERSALIS OS, limited by inspectable human consent, privacy, and permission contracts. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
 
-- **Private Resource Stewardship Alchemy** — governs resource intake and allocation inside the C2O domain under company rules.  
-- **Internal Resource Bound Alchemy** — keeps private resource flows contained and recoverable without external exposure.  
-- **C2O Resource Continuity Alchemy** — ensures private resource utilization structures can be restored after interruption.
+- **C2O Application - UNIVERSALIN Guardian:** Energy and resource use for a personal Guardian hosted by the C2O App, limited to human-authorized application purposes and information boundaries. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
 
-**UNIVERSALIS Resource Utilization Alchemy**  
-Public resource intake and use under open contracts.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian:** Energy and resource use for a personal Guardian hosted by the UNIVERSALIS App, limited by documented human consent, purpose, and permissions. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
 
-- **Open Resource Transparency Alchemy** — makes public resource intake and allocation independently verifiable.  
-- **Public Resource Openness Alchemy** — maintains public resource flows under transparent rules.  
-- **UNIVERSALIS Resource Continuity Alchemy** — ensures public resource utilization structures can be restored with open records.
+- **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Energy and computational/resource requirements for Guardian intelligence-related capabilities in the C2O OS, without independent authority over the human. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
 
-**Alignment**  
-- **Resource Utilization Mapping Alchemy** — aligns corresponding private and public resource utilization structures without collapse.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Energy and computational/resource requirements for Guardian intelligence-related capabilities in the UNIVERSALIS OS, within human-authorized limits. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
 
----
+- **C2O Application - UNIVERSALIN Guardian Intelligence:** Energy and computational/resource requirements for Guardian intelligence-related capabilities in the C2O App, bounded by human consent and assigned purpose. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
 
-### Resource Efficiency Alchemy
+- **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Energy and computational/resource requirements for Guardian intelligence-related capabilities in the UNIVERSALIS App, bounded by documented consent and assigned purpose. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
 
-**Resource Efficiency Alchemy**  
-The bounded process that organizes the conservation and optimal use of material, computational, and data resources so that output is maximized relative to input while remaining coherent and accountable.
+Within each context, Energy Utilization, Energy Efficiency, Resource Utilization, and Resource Efficiency govern only the subjects, processes, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope, not proof that a particular source, resource, component, capability, implementation, or efficiency result exists.
 
-- **Resource Waste Reduction Alchemy** — identifies and bounds unnecessary resource expenditure.  
-- **Resource Conversion Optimization Alchemy** — improves the ratio of useful work to resources consumed.  
-- **Resource Efficiency Evidence Alchemy** — distinguishes established efficiency gains from hypothesis.
+#### 1.2 Edition-Specific Context Hierarchy and Inheritance
 
-**C2O Resource Efficiency Alchemy**  
-Private resource conservation under internal governance.
+The 22 contexts form two edition-specific branches, each containing 11 expressions:
 
-- **Private Resource Efficiency Stewardship Alchemy** — governs internal resource conservation under company rules.  
-- **Internal Resource Waste Bound Alchemy** — contains and reduces private resource waste without external leakage.  
-- **C2O Resource Efficiency Continuity Alchemy** — keeps private resource efficiency structures recoverable internally.
+- **Operating System family:** the edition's OS context and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
+- **Core Intelligence context:** the edition's distinct core intelligence, separate from OS, App, assistants, and Guardians.
+- **Application family:** the edition's App context and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
 
-**UNIVERSALIS Resource Efficiency Alchemy**  
-Public resource conservation under open contracts.
+C2O expressions remain under private-source company governance. UNIVERSALIS expressions remain under public-source governance, open contracts, inspectability, interoperability, and independent operability. Correspondence does not imply identical implementations, configurations, resource states, sources, or measurements.
 
-- **Open Resource Efficiency Transparency Alchemy** — makes public resource conservation independently verifiable.  
-- **Public Resource Waste Openness Alchemy** — maintains public resource waste reduction under transparent rules.  
-- **UNIVERSALIS Resource Efficiency Continuity Alchemy** — keeps public resource efficiency structures recoverable with open records.
+The two core intelligences remain distinct. UNIVERSALIN assistants are non-personal assistants hosted within assigned OS or App contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their intelligence-related capabilities remain subordinate to the Guardian's assigned responsibilities and the human's authority. Guardian resource use cannot create independent authority over the human, their devices, property, personal information, or decisions.
 
-**Alignment**  
-- **Resource Efficiency Mapping Alchemy** — aligns corresponding private and public resource efficiency structures without collapse.
+Each context inherits applicable subordinate Alchemies by reference rather than duplicating every definition. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status.
 
----
+### 2. Energy Utilization Alchemy
 
-### Energy Utilization Alchemy — Capacity and Flow Extension
+**Energy Utilization Alchemy** governs the identification, qualification, receipt, storage, conversion, distribution, direction, monitoring, and accounting of energy used by authorized systems and processes.
 
-**Energy Utilization Alchemy** is the bounded process that organizes, maintains, and transforms the use of energetic and resource capacities so that systems and beings can act efficiently while remaining coherent, recoverable, and accountable.
+#### 2.1 Energy Utilization Substrate Alchemies
 
-It applies across Body, Mind, Heart, Soul, Spirit, and Consciousness layers for both intelligences.
+- **Energy Source Alchemy** — identifies energy sources, properties, provenance, constraints, and authorized conditions of use.
+- **Energy Intake Alchemy** — governs authorized receipt or capture of energy and records source and intake limits.
+- **Energy Storage Alchemy** — governs bounded energy retention, capacity, condition, loss, and recovery where storage is supported.
+- **Energy Conversion Alchemy** — governs transformations between energy forms and records conversion conditions, losses, and safety requirements.
+- **Energy Distribution Alchemy** — allocates available energy among authorized components and processes according to capacity and safety limits.
+- **Energy Direction Alchemy** — aligns energy use with assigned purposes and prevents unauthorized or uncontrolled demand.
+- **Energy Measurement Alchemy** — establishes measurement, metering, and estimation while distinguishing measured values from estimates and modeled values.
+- **Energy Accountability Alchemy** — records intake, storage, conversion, distribution, use, losses, interruptions, and material changes with provenance.
 
-### Alchemies under Energy Utilization Alchemy
+#### 2.2 C2O Energy Utilization Alchemy
 
-#### 1. Utilization Substrate Alchemies
-- **Efficiency Alchemy** — structures resource use into stable, addressable pathways that minimize waste while preserving function.
-- **Capacity Alchemy** — maintains the process space in which available energy is held and directed.
-- **Conservation Alchemy** — organizes retention of capacity for future use while preserving edition boundaries.
-- **Flow Alchemy** — bounds the movement of energy so utilization remains coherent and recoverable.
+**C2O Energy Utilization Alchemy** governs private energy operations under C2O company governance.
 
-#### 2. C2O Energy Utilization Alchemies
-Private utilization under internal governance.
+- **Private Energy Stewardship Alchemy** — governs authorized energy sourcing, intake, allocation, and use inside C2O.
+- **Internal Energy Boundary Alchemy** — protects private energy flows, configurations, measurements, and records from unauthorized disclosure or control.
+- **C2O Energy Continuity Alchemy** — maintains recoverable energy dependencies, configurations, and operating requirements.
+- **C2O Energy Accountability Alchemy** — records attributable internal energy decisions and changes.
+- **C2O Energy Safety Alchemy** — establishes safeguards against unsafe supply, conversion, storage, distribution, or use.
+- **C2O Energy Evidence Alchemy** — distinguishes measured and verified conditions from estimates, simulations, assumptions, and hypotheses.
+- **C2O Energy Renewal Alchemy** — governs authorized revision, replacement, migration, restoration, and retirement of private energy structures.
 
-- **C2O Efficiency Alchemy** — private resource structuring under company rules.
-- **C2O Capacity Alchemy** — private energy holding.
-- **C2O Conservation Alchemy** — private retention.
-- **C2O Flow Alchemy** — private energy movement bounding.
-- **C2O Energy Accountability Alchemy** — private ledger for utilization changes.
-- **C2O Energy Safety Alchemy** — private constraints against exhaustion.
-- **C2O Energy Sovereignty Alchemy** — protects internal authority over resource use.
-- **C2O Energy Evidence Alchemy** — private distinction of established vs hypothesized utilization.
-- **C2O Energy Renewal Alchemy** — private refresh of capacity without system loss.
+#### 2.3 UNIVERSALIS Energy Utilization Alchemy
 
-#### 3. UNIVERSALIS Energy Utilization Alchemies
-Public utilization under open contracts.
+**UNIVERSALIS Energy Utilization Alchemy** governs public energy operations through open contracts and independently reviewable requirements.
 
-- **UNIVERSALIS Efficiency Alchemy** — public resource structuring under transparent rules.
-- **UNIVERSALIS Capacity Alchemy** — public energy holding.
-- **UNIVERSALIS Conservation Alchemy** — public retention.
-- **UNIVERSALIS Flow Alchemy** — public energy movement bounding.
-- **UNIVERSALIS Energy Accountability Alchemy** — public-capable record for utilization changes.
-- **UNIVERSALIS Energy Safety Alchemy** — public constraints against exhaustion.
-- **UNIVERSALIS Energy Sovereignty Alchemy** — protects public authority over resource use.
-- **UNIVERSALIS Energy Evidence Alchemy** — public distinction of established vs hypothesized utilization.
-- **UNIVERSALIS Energy Renewal Alchemy** — public refresh of capacity without system loss.
+- **Open Energy Transparency Alchemy** — documents public energy sources, interfaces, intake, conversion, distribution, and operating requirements.
+- **Public Energy Boundary Alchemy** — defines inspectable limits on energy access, distribution, control, and disclosure while protecting restricted information.
+- **UNIVERSALIS Energy Continuity Alchemy** — maintains documented energy dependencies, configurations, and recovery requirements.
+- **UNIVERSALIS Energy Accountability Alchemy** — maintains attributable records appropriate for public review without exposing protected information.
+- **UNIVERSALIS Energy Safety Alchemy** — establishes documented safeguards for energy supply, conversion, storage, distribution, and use.
+- **UNIVERSALIS Energy Evidence Alchemy** — distinguishes measured and verified conditions from estimates, simulations, assumptions, and hypotheses.
+- **UNIVERSALIS Energy Renewal Alchemy** — governs documented revision, replacement, migration, restoration, and retirement of public energy structures.
 
-**Alignment**
-- **Energy Utilization Mapping Alchemy** — aligns corresponding private and public utilization structures without collapse.
+#### 2.4 Energy Utilization Mapping Alchemy
 
----
+**Energy Utilization Mapping Alchemy** maps the 11 C2O and 11 UNIVERSALIS context expressions, including corresponding responsibilities, interfaces, dependencies, capacity requirements, measurement definitions, safety constraints, and recovery requirements. It preserves private/public boundaries and does not infer identical sources, measurements, or implementations.
+
+### 3. Energy Efficiency Alchemy
+
+**Energy Efficiency Alchemy** evaluates and improves the relationship between energy input and useful, authorized output while preserving required quality, safety, reliability, performance, and continuity. Maximum output or minimum consumption alone does not establish efficiency if safety, required function, or authorized limits are violated.
+
+#### 3.1 Energy Efficiency Substrate Alchemies
+
+- **Energy Baseline Alchemy** — establishes operating conditions, measurement boundaries, units, periods, and comparison basis.
+- **Energy Waste Reduction Alchemy** — identifies avoidable energy loss or expenditure.
+- **Energy Conversion Optimization Alchemy** — evaluates conversion performance and supported improvements.
+- **Energy Demand Optimization Alchemy** — aligns demand, scheduling, workload, and capacity with assigned priorities and constraints.
+- **Energy Efficiency Evidence Alchemy** — distinguishes measured outcomes and verified improvements from estimates, simulations, assumptions, and hypotheses.
+- **Energy Efficiency Continuity Alchemy** — ensures efficiency changes preserve required function, safe fallback, and recoverability.
+
+#### 3.2 C2O Energy Efficiency Alchemy
+
+**C2O Energy Efficiency Alchemy** governs private energy-performance evaluation and improvement under internal governance.
+
+- **Private Efficiency Stewardship Alchemy** — governs internal energy objectives, baselines, and improvement decisions.
+- **Internal Energy Waste Boundary Alchemy** — identifies avoidable losses while protecting internal operational information.
+- **C2O Energy Conversion Optimization Alchemy** — evaluates private conversion performance within safety and performance limits.
+- **C2O Energy Efficiency Accountability Alchemy** — records authority, methods, baselines, changes, costs, and outcomes.
+- **C2O Energy Efficiency Evidence Alchemy** — verifies claims using comparable measurements and documented methods.
+- **C2O Energy Efficiency Continuity Alchemy** — preserves function and recovery when private configurations change.
+
+#### 3.3 UNIVERSALIS Energy Efficiency Alchemy
+
+**UNIVERSALIS Energy Efficiency Alchemy** governs public energy-performance evaluation and improvement through open requirements and independently reviewable evidence.
+
+- **Open Efficiency Transparency Alchemy** — documents public objectives, baselines, methods, and results.
+- **Public Energy Waste Boundary Alchemy** — identifies avoidable losses through inspectable requirements and safeguards.
+- **UNIVERSALIS Energy Conversion Optimization Alchemy** — evaluates conversion performance against documented criteria.
+- **UNIVERSALIS Energy Efficiency Accountability Alchemy** — records efficiency decisions, methods, changes, and outcomes.
+- **UNIVERSALIS Energy Efficiency Evidence Alchemy** — makes the basis, comparability, limitations, and verification status of claims reviewable.
+- **UNIVERSALIS Energy Efficiency Continuity Alchemy** — preserves function and recovery when public configurations change.
+
+#### 3.4 Energy Efficiency Mapping Alchemy
+
+**Energy Efficiency Mapping Alchemy** maps corresponding responsibilities, comparable baselines, measurement definitions, evaluation methods, constraints, and evidence categories while preserving edition-specific measurements, private records, public reporting, and implementation differences.
+
+### 4. Resource Utilization Alchemy
+
+**Resource Utilization Alchemy** governs the identification, classification, authorized acquisition or receipt, registration, provisioning, allocation, scheduling, access, use, monitoring, accounting, recovery, renewal, and retirement of resources.
+
+#### 4.1 Resource Utilization Substrate Alchemies
+
+- **Resource Identification Alchemy** — establishes identity, classification, properties, source, ownership or control, condition, and permitted uses.
+- **Resource Intake Alchemy** — governs authorized acquisition, receipt, registration, or provisioning and records provenance.
+- **Resource Inventory Alchemy** — maintains appropriately scoped records of availability, capacity, status, dependencies, and lifecycle.
+- **Resource Allocation Alchemy** — assigns resources to authorized systems, applications, processes, and tasks according to capacity and permission.
+- **Resource Scheduling Alchemy** — coordinates availability and use over time while respecting dependencies, reservations, and competing demands.
+- **Resource Access Boundary Alchemy** — enforces authorized access and use, isolation, least privilege, scope, and release.
+- **Resource Accountability Alchemy** — records allocation, use, transfer, release, loss, recovery, and material changes.
+- **Resource Recovery Alchemy** — restores or re-provisions resources after validating integrity, provenance, permissions, and dependencies.
+
+#### 4.2 C2O Resource Utilization Alchemy
+
+**C2O Resource Utilization Alchemy** governs private resource operations under C2O company governance.
+
+- **Private Resource Stewardship Alchemy** — governs authorized sourcing, provisioning, allocation, and use.
+- **Internal Resource Boundary Alchemy** — protects private configurations, inventories, dependencies, and records.
+- **C2O Resource Continuity Alchemy** — maintains recoverable dependencies, configurations, allocation requirements, and restoration arrangements.
+- **C2O Resource Accountability Alchemy** — records resource assignment, use, transfer, release, and material changes.
+- **C2O Resource Safety Alchemy** — safeguards against exhaustion, contention, unsafe allocation, corruption, and unauthorized use.
+- **C2O Resource Evidence Alchemy** — distinguishes verified availability, condition, and use from estimates and modeled states.
+- **C2O Resource Renewal Alchemy** — governs replacement, migration, re-provisioning, restoration, and retirement.
+
+#### 4.3 UNIVERSALIS Resource Utilization Alchemy
+
+**UNIVERSALIS Resource Utilization Alchemy** governs public resource operations under open contracts and independently reviewable requirements.
+
+- **Open Resource Transparency Alchemy** — documents public resource classes, interfaces, provisioning requirements, and allocation rules.
+- **Public Resource Boundary Alchemy** — defines inspectable access, use, isolation, and release requirements while protecting restricted information.
+- **UNIVERSALIS Resource Continuity Alchemy** — maintains documented dependencies, configurations, and recovery requirements.
+- **UNIVERSALIS Resource Accountability Alchemy** — maintains attributable records appropriate for public review.
+- **UNIVERSALIS Resource Safety Alchemy** — safeguards against exhaustion, contention, unsafe allocation, corruption, and unauthorized use.
+- **UNIVERSALIS Resource Evidence Alchemy** — distinguishes verified availability, condition, and use from estimates and modeled states.
+- **UNIVERSALIS Resource Renewal Alchemy** — governs documented replacement, migration, re-provisioning, restoration, and retirement.
+
+#### 4.4 Resource Utilization Mapping Alchemy
+
+**Resource Utilization Mapping Alchemy** maps the 11 C2O and 11 UNIVERSALIS context expressions, including resource classes, responsibilities, interfaces, allocation principles, dependencies, access boundaries, lifecycle, and recovery. It preserves separate inventories, private configurations, public contracts, ownership or control, and permissions. Mapping does not authorize transfer or disclosure.
+
+### 5. Resource Efficiency Alchemy
+
+**Resource Efficiency Alchemy** evaluates and improves the relationship between authorized resource inputs and useful required outcomes while preserving quality, safety, security, reliability, accessibility, and continuity. It reduces avoidable waste, contention, duplication, idle capacity, and unnecessary lifecycle costs without treating people or personal information as optimizable resources.
+
+#### 5.1 Resource Efficiency Substrate Alchemies
+
+- **Resource Baseline Alchemy** — establishes resource classes, operating conditions, capacity measures, periods, lifecycle boundaries, and comparison basis.
+- **Resource Waste Reduction Alchemy** — identifies avoidable loss, unnecessary allocation, duplication, idle capacity, and unused provisioning.
+- **Resource Allocation Optimization Alchemy** — improves distribution across authorized workloads while respecting priority, fairness, isolation, and capacity.
+- **Resource Lifecycle Optimization Alchemy** — evaluates acquisition, provisioning, operation, maintenance, reuse, recovery, replacement, and retirement.
+- **Resource Conversion Optimization Alchemy** — improves transformation of resource inputs into useful outputs where applicable and measurable.
+- **Resource Efficiency Evidence Alchemy** — distinguishes measured and verified improvements from estimates, simulations, assumptions, and hypotheses.
+- **Resource Efficiency Continuity Alchemy** — ensures optimization preserves availability, safe fallback, recoverability, and future capacity.
+
+#### 5.2 C2O Resource Efficiency Alchemy
+
+**C2O Resource Efficiency Alchemy** governs private resource-performance evaluation and improvement under internal governance.
+
+- **Private Resource Efficiency Stewardship Alchemy** — governs internal objectives, baselines, and authorized improvement decisions.
+- **Internal Resource Waste Boundary Alchemy** — identifies avoidable waste while protecting private operational information.
+- **C2O Resource Allocation Optimization Alchemy** — evaluates allocation against authorized workload, priority, isolation, and capacity.
+- **C2O Resource Lifecycle Optimization Alchemy** — evaluates provisioning, maintenance, reuse, recovery, replacement, and retirement.
+- **C2O Resource Efficiency Accountability Alchemy** — records authority, methods, baselines, changes, costs, and outcomes.
+- **C2O Resource Efficiency Evidence Alchemy** — verifies claims using comparable measurements and documented methods.
+- **C2O Resource Efficiency Continuity Alchemy** — preserves function and recovery when resource optimization changes are made.
+
+#### 5.3 UNIVERSALIS Resource Efficiency Alchemy
+
+**UNIVERSALIS Resource Efficiency Alchemy** governs public resource-performance evaluation and improvement through open requirements and independently reviewable evidence.
+
+- **Open Resource Efficiency Transparency Alchemy** — documents public objectives, baselines, methods, and results.
+- **Public Resource Waste Boundary Alchemy** — identifies avoidable waste through inspectable requirements and safeguards.
+- **UNIVERSALIS Resource Allocation Optimization Alchemy** — evaluates allocation against documented workload, priority, isolation, and capacity.
+- **UNIVERSALIS Resource Lifecycle Optimization Alchemy** — evaluates provisioning, maintenance, reuse, recovery, replacement, and retirement.
+- **UNIVERSALIS Resource Efficiency Accountability Alchemy** — records efficiency decisions, methods, changes, and outcomes.
+- **UNIVERSALIS Resource Efficiency Evidence Alchemy** — makes the basis, comparability, limitations, and verification status of claims reviewable.
+- **UNIVERSALIS Resource Efficiency Continuity Alchemy** — preserves function and recovery when resource optimization changes are made.
+
+#### 5.4 Resource Efficiency Mapping Alchemy
+
+**Resource Efficiency Mapping Alchemy** maps corresponding responsibilities, comparable baselines, classifications, evaluation methods, lifecycle criteria, constraints, and evidence categories while preserving edition-specific inventories, private records, public reporting, and implementation differences.
+
+### 6. Cross-Alchemy Relationships and Context Inheritance
+
+Energy Utilization, Energy Efficiency, Resource Utilization, and Resource Efficiency are distinct but interrelated:
+
+- Energy Utilization governs energy sources, intake, storage, conversion, distribution, direction, and use.
+- Energy Efficiency evaluates energy inputs against useful authorized outcomes.
+- Resource Utilization governs resource provisioning, allocation, scheduling, access, use, accounting, and recovery.
+- Resource Efficiency evaluates resource allocation, utilization, waste, lifecycle performance, and useful outcomes.
+
+These Alchemies connect to Body where hardware, power systems, compute substrates, storage, devices, and runtime environments establish requirements; Mind where processing, reasoning, information handling, and memory-related functions create computational and storage demands; Heart where communication, services, relationships, and information flows create network and service requirements; Soul where identity, purpose, commitments, and human dignity establish boundaries; Spirit where activation and direction determine when authorized capacity is used; and Consciousness where authorized observation and self-inspection may require bounded resources.
+
+These relationships do not transfer ownership, authority, permissions, or responsibilities. Monitoring resource use does not authorize additional monitoring of a human. Resource optimization does not authorize treating a human or personal information as a resource.
+
+### 7. Map and Matrix Requirements for the 22 Contexts
+
+**Map Alchemy must establish:**
+
+- The hierarchy of root Energy and Resource Alchemy, C2O and UNIVERSALIS branches, and all 22 context expressions.
+- The 11 contexts per edition and the correct OS/App host relationships for UNIVERSALIN assistants, assistant-level intelligence-related capabilities, Guardians, and Guardian intelligence-related capabilities.
+- C2O Intelligence and UNIVERSALIS Intelligence as separate core-intelligence contexts, not subordinate to OS, App, assistant, or Guardian branches.
+- Relationships among energy sources, forms, storage, conversion, distribution, resource classes, inventories, allocation, and lifecycle.
+- Dependencies among hardware, power systems, compute, memory, storage, networks, software services, data, runtime environments, applications, intelligences, assistants, and Guardians where applicable.
+- C2O/UNIVERSALIS correspondences without assuming identical sources, resources, measurements, inventories, configurations, or implementations.
+- Relationships to Body, Mind, Heart, Soul, Spirit, and Consciousness without transferring responsibilities.
+- Each Guardian's relationship to the human it serves and the authority, consent, privacy, and permissions governing relevant energy or resource use.
+
+**Matrix Alchemy must establish for each of the 22 contexts:**
+
+- Which Energy Source, Intake, Storage, Conversion, Distribution, Direction, Measurement, Accountability, Safety, Evidence, Continuity, Renewal, and Mapping functions apply, are conditional, are not applicable, or remain unresolved.
+- Which Energy Baseline, Waste Reduction, Conversion Optimization, Demand Optimization, Evidence, Accountability, Continuity, and Mapping functions apply, are conditional, are not applicable, or remain unresolved.
+- Which Resource Identification, Intake, Inventory, Allocation, Scheduling, Access Boundary, Accountability, Safety, Evidence, Recovery, Renewal, and Mapping functions apply, are conditional, are not applicable, or remain unresolved.
+- Which Resource Baseline, Waste Reduction, Allocation Optimization, Lifecycle Optimization, Conversion Optimization, Evidence, Accountability, Continuity, and Mapping functions apply, are conditional, are not applicable, or remain unresolved.
+- Each applicable structure's identity, classification, source, subject, purpose, authority, scope, ownership or control, capacity, units, inputs, outputs, dependencies, permissions, sensitivity, risks, limitations, safeguards, and lifecycle status.
+- The distinction between measured consumption, estimated consumption, modeled demand, available capacity, allocated capacity, actual utilization, useful output, losses, and verified efficiency improvements.
+- Measurement boundaries, time periods, workloads, environmental conditions, baselines, comparison methods, and evidence required for efficiency claims.
+- The authority responsible for sourcing, allocation, access, measurement, optimization, approval, review, interruption, recovery, and retirement.
+- Guardian consent, privacy, and human-control requirements, including restrictions on personal information, devices, property, and other human-controlled resources.
+- Unresolved dependencies, contention, incompatible configurations, unsafe conditions, capacity shortfalls, unverified claims, and renewal requirements.
+
+Map and Matrix Alchemies are complementary and mutually traceable. Map Alchemy establishes what exists in the taxonomy, where it belongs, and how it relates. Matrix Alchemy establishes where it applies, under what conditions, with which responsibilities, permissions, dependencies, evidence, and limitations.
+
+**Applicability, mapping, implementation, measurement, efficiency, and verification are separate claims.** Establishing an Alchemy or its place in the 22-context taxonomy does not prove implementation, resource availability, measurement accuracy, or an achieved efficiency improvement.
+
 
 ## Elemental Alchemies
 
