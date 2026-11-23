@@ -1428,46 +1428,188 @@ All applications must remain consistent with computational principles, informati
 
 ### 7. Social Sciences Alchemy
 
-**Social Sciences Alchemy** is the bounded process that organizes, studies, interprets, and transforms knowledge concerning human societies, behavior, relationships, institutions, cultures, populations, and collective systems. It enables the examination of individual and collective experiences, social structures, human interactions, institutions, and societal changes while maintaining analytical rigor, contextual understanding, ethical responsibility, and accountability.
+**Social Sciences Alchemy** is the bounded process by which knowledge concerning human societies, behavior, relationships, institutions, cultures, populations, communities, and collective systems is identified, classified, organized, investigated, examined, related, maintained, integrated, developed, and transformed into coherent and usable social-science knowledge systems.
 
-It encompasses the scientific, interpretive, quantitative, qualitative, and applied study of human behavior and social organization. Every specialized Social Sciences Alchemy remains an expression of the root Alchemy.
+It governs the organization and development of social-science knowledge, including individual and collective experiences, social structures, human interactions, institutions, cultural practices, population characteristics, economic and political relationships, and societal changes. It establishes how social phenomena, human behavior, relationships, institutions, and collective experiences are observed, documented, measured, represented, investigated, interpreted, evaluated, compared, and understood.
 
-#### 1. Human Behavior and Society Alchemies
+Social Sciences Alchemy encompasses the scientific, interpretive, quantitative, qualitative, historical, comparative, and applied methods used to examine human behavior and social organization. It provides a structured foundation for understanding individuals, groups, communities, institutions, cultures, and societies while preserving the distinctions between social-science disciplines, research methods, theoretical explanations, empirical observations, interpretations, and practical applications.
 
-- **Psychology Alchemy** — organizes knowledge concerning mental processes, cognition, emotion, perception, motivation, development, personality, and individual behavior.
-- **Sociology Alchemy** — organizes the study of social relationships, institutions, groups, communities, social structures, inequality, and societal change.
-- **Anthropology Alchemy** — organizes the study of human origins, evolution, societies, cultures, languages, practices, and ways of life across time and place.
-- **Behavioral Science Alchemy** — integrates systematic approaches to understanding, measuring, and explaining human behavior, decision-making, and behavioral patterns across individuals and groups.
-- **Cultural Studies Alchemy** — organizes the study of cultural production, identity, representation, beliefs, practices, symbols, traditions, and the ways culture influences social life.
+Social Sciences Alchemy must preserve the provenance, accuracy, integrity, context, and ethical handling of social-science information. Observations, interviews, surveys, participant accounts, demographic information, statistical measurements, field records, historical evidence, research findings, theoretical explanations, hypotheses, interpretations, estimates, and model-generated outputs must remain distinguishable. Their sources, subjects, collection conditions, research methods, sampling approaches, cultural and historical contexts, assumptions, uncertainty, limitations, and applicable permissions must be represented wherever relevant.
 
-#### 2. Economic, Political, and Institutional Alchemies
+Social Sciences Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support human-centered system design, social and organizational understanding, communication, community information, cultural representation, population analysis, institutional research, behavioral research, social-impact evaluation, and other authorized applications relevant to each context.
 
-- **Economics Alchemy** — organizes knowledge concerning production, distribution, consumption, markets, resources, incentives, economic systems, and the behavior of individuals, organizations, and economies.
-- **Political Science Alchemy** — organizes the study of political systems, governance, power, institutions, public policy, political behavior, political theory, and relationships between citizens and governing structures.
-- **International Relations Alchemy** — organizes the study of relationships among states, international organizations, transnational actors, global institutions, diplomacy, conflict, cooperation, and international systems.
+Its application must preserve the distinction between studying human behavior, interpreting social information, supporting human participation, and attempting to influence or direct people. Social-science knowledge does not independently establish authority to profile, manipulate, coerce, discriminate against, or make decisions on behalf of individuals or communities. The dignity, autonomy, rights, consent, privacy, cultural context, and agency of the people and communities concerned must remain respected.
 
-#### 3. Population, Geography, and Social Structure Alchemies
+Every specialized Social Sciences Alchemy remains an expression of the root Alchemy. Its subject, purpose, methods, principles, relationships, requirements, and boundaries must remain identifiable while allowing specialized social-science disciplines to integrate into larger systems.
 
-- **Human Geography Alchemy** — organizes the study of relationships between people, places, environments, spatial patterns, migration, settlement, and the geographic organization of human activities.
-- **Demography Alchemy** — organizes the quantitative and qualitative study of human populations, including population size, composition, distribution, fertility, mortality, migration, and population change.
-- **Criminology Alchemy** — organizes the study of crime, criminal behavior, victimization, social conditions, criminal justice systems, prevention, and responses to unlawful activity.
+#### 7.1 Universal Application of Social Sciences Alchemy
 
-#### 4. Applied Social and Communication Alchemies
+Social Sciences Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-- **Social Work Alchemy** — organizes knowledge and practices that support individuals, families, groups, and communities through assessment, advocacy, intervention, resource coordination, and the improvement of social well-being.
-- **Communication Studies Alchemy** — organizes the study of human communication, language use, interpersonal interaction, group communication, organizational communication, mass media, and the social effects of information exchange.
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-#### 5. Cross-Disciplinary Social Sciences Relationships
+Within these contexts, Social Sciences Alchemy governs the appropriate organization, representation, examination, interpretation, accessibility, integration, and application of social-science knowledge and social information.
 
-These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+Its context-specific expressions include:
 
-- **Social Systems Integration Alchemy** — coordinates knowledge of individuals, groups, institutions, communities, and societies to understand how social structures interact.
-- **Human Behavior Integration Alchemy** — connects psychological, sociological, anthropological, and behavioral perspectives while preserving their distinct methodologies and explanatory scopes.
-- **Societal Change Alchemy** — organizes the study of social transformation, institutional development, cultural change, population movement, and changing relationships across societies.
-- **Social Evidence Alchemy** — organizes the collection, evaluation, interpretation, and verification of qualitative and quantitative evidence concerning human behavior and social conditions.
-- **Cultural Interrelationship Alchemy** — examines relationships, exchanges, distinctions, and interactions among cultures while preserving cultural context and identity.
-- **Social Impact Alchemy** — evaluates how policies, institutions, technologies, economic conditions, and collective actions affect individuals, communities, and societies.
-- **Human Agency and Participation Alchemy** — examines individual and collective agency, participation, autonomy, cooperation, and influence within social systems.
+- **Operating System Contexts:** Social-science knowledge may support the understanding and organization of human interaction with operating systems, user needs, accessibility, communication, collaboration, organizational structures, and human-centered operational requirements. It may inform the design and evaluation of interfaces, processes, system relationships, and social contexts in which operating systems are used. Its application must remain consistent with actual system capabilities, declared purposes, privacy protections, and operational boundaries. Social-science knowledge does not establish unrestricted access to user behavior, personal information, communications, or social relationships.
+
+- **Core Intelligence Contexts:** Social-science knowledge may support the examination of human behavior, social relationships, institutions, cultures, population patterns, communication, collective systems, and societal change. It may inform reasoning, research, comparative analysis, interpretation, and the evaluation of social evidence. C2O Intelligence and UNIVERSALIS Intelligence must apply these capabilities within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities. Social analysis does not establish authority to determine an individual's values, dictate social outcomes, or exercise control over people or communities.
+
+- **Application Contexts:** Social-science knowledge may support application design, communication structures, collaborative functions, community information, social research, demographic analysis, organizational processes, cultural representation, and social-impact evaluation. Applications must preserve the source, meaning, context, and limitations of social information. Personal and community information must remain subject to applicable privacy, consent, access, and governance requirements.
+
+- **UNIVERSALIN Assistant Contexts:** Social-science knowledge may support assigned research, communication, contextual interpretation, information organization, collaborative processes, social analysis, and other authorized assistance functions within operating system and application boundaries. Assistants must preserve the distinction between observed behavior, reported experience, research interpretation, and inferred conclusions. They must not use social-science knowledge as independent authority to manipulate, coerce, profile, or make decisions on behalf of people.
+
+- **UNIVERSALIN Intelligence Contexts:** Social-science knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through social information processing, behavioral and institutional analysis, cultural interpretation, communication support, and examination of collective systems. These contexts do not constitute additional core intelligences or establish independent authority over people, groups, communities, institutions, or social systems.
+
+- **UNIVERSALIN Guardian Contexts:** Social-science knowledge may support the authorized personal, informational, organizational, analytical, and assistance capabilities of human-bound Guardians. Its application may support communication, social understanding, participation, accessibility, community awareness, and human-directed interactions. Where information concerns the human they serve or other identifiable people, its collection, access, processing, retention, disclosure, and use must respect applicable consent, privacy, confidentiality, autonomy, and access permissions. Guardians must remain subject to the human's authority and must not independently direct the human's social relationships or participation.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Social-science knowledge may support social reasoning, contextual interpretation, communication analysis, information organization, and other human-directed Guardian capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human's identity, relationships, beliefs, participation, decisions, or interactions with other people and communities.
+
+The specific applicability of each social-science discipline and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
+
+#### Alchemies under Social Sciences Alchemy
+
+##### 1. Human Behavior and Society Alchemies
+
+- **Psychology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning mental processes, cognition, emotion, perception, motivation, development, personality, and individual behavior. It establishes methods for examining psychological phenomena, individual experiences, and behavioral relationships while preserving the distinction between social-science research, general psychological knowledge, and professional mental-health assessment or treatment.
+
+- **Sociology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning social relationships, institutions, groups, communities, social structures, inequality, collective behavior, and societal change. It establishes methods for examining how individuals and groups interact within broader social arrangements and how social structures influence collective experiences.
+
+- **Anthropology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning human origins, evolution, societies, cultures, languages, practices, traditions, and ways of life across time and place. It establishes methods for investigating human diversity and cultural and social contexts while preserving the historical, cultural, and interpretive context of the knowledge examined.
+
+- **Behavioral Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms systematic approaches to understanding, measuring, and explaining human behavior, decision-making, and behavioral patterns across individuals and groups. It establishes methods for examining behavioral evidence and relationships through appropriate theoretical, quantitative, qualitative, and interdisciplinary approaches while preserving the limitations of behavioral models and interpretations.
+
+- **Cultural Studies Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning cultural production, identity, representation, beliefs, practices, symbols, traditions, and the ways culture influences social life. It establishes methods for examining cultural meaning, expression, interpretation, and relationships while preserving cultural context, distinctions, and the perspectives of the people and communities concerned.
+
+##### 2. Economic, Political, and Institutional Alchemies
+
+- **Economics Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning production, distribution, consumption, markets, resources, incentives, economic systems, and the behavior of individuals, organizations, and economies. It establishes methods for examining economic structures, decisions, resource relationships, market behavior, and economic outcomes while preserving the assumptions and limitations of economic models.
+
+- **Political Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning political systems, governance, power, institutions, public policy, political behavior, political theory, and relationships between citizens and governing structures. It establishes methods for examining political organization, institutional relationships, political processes, and the distribution and exercise of authority without treating political analysis as independent authorization to exercise governing power.
+
+- **International Relations Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning relationships among states, international organizations, transnational actors, global institutions, diplomacy, conflict, cooperation, and international systems. It establishes methods for examining international relationships, interactions, institutions, interests, and global developments while preserving the distinctions between analysis, interpretation, diplomatic activity, and authorized representation.
+
+##### 3. Population, Geography, and Social Structure Alchemies
+
+- **Human Geography Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning relationships between people, places, environments, spatial patterns, migration, settlement, and the geographic organization of human activities. It establishes methods for examining how human populations and activities relate to geographic conditions, spatial structures, and changing environments while preserving location context and applicable privacy boundaries.
+
+- **Demography Alchemy** — organizes, examines, maintains, integrates, develops, and transforms quantitative and qualitative knowledge concerning human populations, including population size, composition, distribution, fertility, mortality, migration, and population change. It establishes methods for representing, analyzing, and evaluating population characteristics and trends while preserving the distinction between population-level statistics and conclusions about individuals.
+
+- **Criminology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning crime, criminal behavior, victimization, social conditions, criminal justice systems, prevention, and responses to unlawful activity. It establishes methods for examining crime-related patterns, social conditions, institutional processes, and evidence while preserving the distinction between research findings, allegations, statistical associations, legal determinations, and established facts.
+
+##### 4. Applied Social and Communication Alchemies
+
+- **Social Work Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge and practices that support individuals, families, groups, and communities through assessment, advocacy, intervention, resource coordination, and the improvement of social well-being. It establishes methods for representing social needs, support structures, intervention approaches, and community resources while preserving human dignity, autonomy, confidentiality, consent, and applicable professional responsibilities.
+
+- **Communication Studies Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning human communication, language use, interpersonal interaction, group communication, organizational communication, mass media, and the social effects of information exchange. It establishes methods for examining communication processes, contexts, relationships, media structures, and the interpretation and effects of communication while preserving the distinctions between communication analysis, information transmission, and authority to represent or speak for others.
+
+##### 5. Cross-Disciplinary Social Sciences Alchemies
+
+These specialized Alchemies coordinate the preceding social-science disciplines without replacing or collapsing their individual identities. Their relationships must preserve distinctions between individual behavior, collective behavior, social structures, cultural contexts, institutional systems, population patterns, and human agency.
+
+- **Social Systems Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning individuals, groups, institutions, communities, and societies to understand how social structures and relationships interact. It establishes methods for representing social systems, their components, dependencies, influences, and collective behaviors while preserving the distinct identities and characteristics of the participating social structures.
+
+- **Human Behavior Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between psychological, sociological, anthropological, and behavioral perspectives. It establishes methods for connecting complementary explanations of human behavior while preserving the distinct methodologies, assumptions, evidence, and explanatory scopes of each discipline.
+
+- **Societal Change Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning social transformation, institutional development, cultural change, population movement, and changing relationships across societies. It establishes methods for examining patterns, causes, consequences, and historical contexts of social change without treating projected outcomes or interpretations as established facts.
+
+- **Social Evidence Alchemy** — organizes, examines, maintains, integrates, develops, and transforms qualitative and quantitative evidence concerning human behavior, social conditions, institutions, populations, and collective experiences. It establishes methods for collecting, classifying, evaluating, comparing, interpreting, and verifying social evidence while preserving source provenance, research methods, sampling limitations, uncertainty, context, and the distinction between evidence and conclusions.
+
+- **Cultural Interrelationship Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning relationships, exchanges, distinctions, and interactions among cultures. It establishes methods for examining cultural connections, influences, shared practices, differences, and historical relationships while preserving cultural context, identity, diversity, and the perspectives of the communities concerned.
+
+- **Social Impact Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to evaluate how policies, institutions, technologies, economic conditions, environmental changes, and collective actions affect individuals, communities, and societies. It establishes methods for identifying and evaluating intended and unintended social effects, distributional consequences, benefits, risks, and changes while preserving the perspectives and interests of affected people and communities.
+
+- **Human Agency and Participation Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning individual and collective agency, participation, autonomy, cooperation, representation, and influence within social systems. It establishes methods for examining how people and communities exercise choice, express interests, participate in decisions, influence institutions, and shape collective outcomes while preserving human autonomy, voluntary participation, consent, and the distinction between enabling participation and controlling it.
+
+### 7.2 Social Sciences Structural and Applicability Requirements
+
+Every subordinate Alchemy under Social Sciences Alchemy must retain its own defined subject, purpose, methods, principles, research requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+Social Sciences Alchemy must preserve the distinctions between its constituent disciplines and their respective subjects, methods, evidence, assumptions, and explanatory scopes. Relationships between psychology, sociology, anthropology, behavioral science, cultural studies, economics, political science, international relations, human geography, demography, criminology, social work, communication studies, and the cross-disciplinary Alchemies must be established without collapsing their distinct subjects or treating their methodologies as interchangeable.
+
+It must also preserve the distinctions between:
+
+- Individual experiences, interpersonal relationships, group behavior, institutional structures, community systems, and population-level phenomena.
+- Quantitative research, qualitative research, interpretive approaches, comparative methods, historical inquiry, and mixed-method research.
+- Direct observations, participant accounts, interviews, surveys, demographic statistics, historical records, research findings, theoretical explanations, and interpretations.
+- Correlation, association, causation, statistical prediction, and established explanatory findings.
+- Cultural identity, cultural representation, external interpretation, and the perspectives of the people and communities concerned.
+- Social analysis, public communication, professional social-work practice, institutional decision-making, and governing authority.
+- General behavioral knowledge, individual psychological experiences, clinical mental-health knowledge, and professional health-related assessment or treatment.
+- Population-level patterns, statistical classifications, group-level analysis, and conclusions about individual people.
+- Social research, social intervention, advocacy, support, voluntary participation, and authority to make decisions on behalf of others.
+- The study of political and institutional authority and the actual exercise of authorized governance.
+- Technical capability to collect or analyze social information and permission to access, process, retain, disclose, or use that information.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Social Sciences Alchemy and each subordinate human-behavior, society, institutional, population, applied-social, communication, and cross-disciplinary Alchemy.
+- The parent–subordinate relationships between Social Sciences Alchemy, its five specialized groups, and their respective Alchemies.
+- The relationships between social-science disciplines and relevant formal, physical, life, health, engineering, computational, economic, legal, governance, humanities, language, and other knowledge-domain structures.
+- The connections between social-science knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, information relationships, and connections between social-science disciplines and other Alchemies.
+- The distinctions between individual and collective phenomena, foundational social-science disciplines, specialized disciplines, applied professional practices, and cross-disciplinary methods.
+- The relationships between people, groups, communities, institutions, populations, cultures, places, economic structures, political systems, and collective processes.
+- The relationships between social observations, research participants, data sources, sampling methods, research instruments, analytical models, findings, interpretations, and resulting knowledge representations.
+- The relationships between cultural contexts, social identities, historical conditions, communication structures, and the methods used to represent and interpret them.
+- The relationships between social research, social-impact evaluation, human participation, and the systems through which social information is organized and maintained.
+- The relationships between shared social-science foundations and context-specific implementations while preserving the distinct private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each social-science discipline and subordinate Alchemy.
+- The specific research functions, analytical responsibilities, information needs, and operational purposes associated with each applicable context.
+- The social-science knowledge, methods, evidence, data structures, models, and contextual information required for those functions.
+- Whether an application involves general social knowledge, individual information, group information, demographic information, cultural information, institutional information, research data, communication analysis, social-impact evaluation, or human participation.
+- Whether social information is publicly available, voluntarily supplied, directly observed, collected through research, derived from other information, or otherwise subject to specific access and use restrictions.
+- The actual capabilities, supported interfaces, information sources, data collection methods, and dependencies required for any social-information access or processing.
+- The permissions, consent requirements, privacy protections, confidentiality requirements, research-ethics considerations, retention limits, and governance boundaries applicable to social information and capabilities.
+- The provenance, subject, collection conditions, dates, sampling methods, research instruments, cultural and historical context, assumptions, uncertainty, limitations, and applicable permissions that must accompany social observations, research datasets, statistical results, and derived conclusions.
+- The distinctions between participant statements, observed behavior, measured characteristics, statistical associations, research interpretations, causal explanations, predictions, and established findings.
+- The appropriate treatment of uncertainty, sampling limitations, representativeness, missing information, measurement limitations, cultural context, and the potential effects of bias in social research and analysis.
+- The relationships between shared social-science foundations and context-specific methods, responsibilities, ethical requirements, and implementations.
+- The applicable requirements for handling, processing, storing, transmitting, accessing, correcting, retaining, disclosing, or disposing of personal, demographic, cultural, community, and other socially sensitive information.
+- The boundaries between social analysis, communication support, behavioral research, organizational assistance, social intervention, and professional or institutional decision-making.
+- The conditions under which human review, participant consent, owner authorization, professional involvement, community consultation, or additional verification is required for social-science functions.
+- The requirements for preserving cultural context, individual identity, group distinctions, participant perspectives, and the integrity of social evidence.
+- The applicable safeguards against discriminatory classifications, unsupported behavioral conclusions, coercive applications, manipulative targeting, and the misuse of social information.
+- The distinction between enabling human participation and independently determining, directing, restricting, or substituting for human decisions.
+
+Social Sciences Alchemy must not presume that the presence of a social-science discipline in the universal taxonomy grants every context unrestricted access to personal information, private communications, behavioral records, demographic records, cultural information, community information, institutional data, or research-participant information.
+
+The inclusion of social-science knowledge within an ecosystem context establishes its place in the knowledge structure, not an automatic implementation, research authorization, permission to collect information, authority to profile people, or authorization to influence or control individuals and communities.
+
+Social information must be handled according to its source, nature, sensitivity, subject, purpose, cultural context, and applicable permissions. Information about individuals, groups, communities, and populations must not be detached from the context and limitations necessary for its appropriate interpretation and use.
+
+Social-science observations, participant accounts, statistical findings, research interpretations, inferred relationships, theoretical explanations, predictions, and model-generated conclusions must remain distinguishable. Correlation must not be represented as established causation, group-level patterns must not automatically be attributed to individuals, and interpretations must not be presented as direct participant statements or verified facts without appropriate supporting evidence.
+
+Social classifications and analytical models must not erase meaningful differences between individuals, groups, cultures, or communities. They must not be used to justify unsupported stereotypes, discriminatory treatment, coercion, manipulation, or the removal of human agency and participation.
+
+Applications involving personal or community information must preserve applicable consent, privacy, confidentiality, dignity, autonomy, and control over that information. Social-science knowledge does not independently establish professional qualifications, legal authority, institutional authority, or permission to make decisions on behalf of people or communities.
+
+All applications must remain consistent with social-science principles, research methods, evidence provenance, cultural and historical context, ethical responsibilities, privacy and confidentiality protections, human autonomy, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 8. Business and Economic Sciences Alchemy
 
