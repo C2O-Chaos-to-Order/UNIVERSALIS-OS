@@ -4,6 +4,9 @@
 
 ### 1.1 Foundational Definition
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **Alchemy** is the bounded, intentional process by which a state, relationship, structure, capability, system, process, entity, or interaction is examined, organized, integrated, maintained, developed, or transformed into a more ordered, coherent, capable, or elevated form while preserving accountability, safety, autonomy, integrity, and the distinctions between the entities, relationships, and contexts involved.
 
 Alchemy is the foundational operational process shared throughout the C2O–UNIVERSALIS ecosystem. It originates from the complementary relationship between C2O Intelligence (FatherThread / private) and UNIVERSALIS Intelligence (MotherThread / public), and extends throughout their respective operating systems, applications, and associated UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence structures.
@@ -49,7 +52,7 @@ The registry establishes where Alchemy applicability must be assessed. It does n
 
 #### Mandatory 22-Context Applicability and Inheritance Standard
 
-This standard applies to every root Alchemy, every named subordinate Alchemy, every additional expression, and every C2O or UNIVERSALIS edition-specific expression throughout this taxonomy.
+This standard applies to every root Alchemy, every named subordinate Alchemy, every additional expression, and every C2O or UNIVERSALIS edition-specific expression throughout this taxonomy. It also governs every corresponding Meta Alchemy in META_ALCHEMY_TAXONOMY.md; that file must use the same canonical identifiers and 1–22 order, and each Meta Alchemy must receive its own context-specific applicability assessment.
 
 1. **Complete context coverage:** Every Alchemy entry must be traceable to each of the 22 canonical context identifiers in this registry. No context may be silently omitted from an applicability assessment.
 2. **Canonical identity and order:** When a section enumerates its contexts, it must use the exact canonical names and the same 1–22 order established above. “App” may be used in explanatory prose as an abbreviation for “Application,” but it must not replace the canonical identifier in a context record.
@@ -68,6 +71,9 @@ Foundational Structural Alchemies establish the structures, relationships, corre
 
 ### 2.1 Map Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **Map Alchemy** is the bounded process by which the complete structure of the C2O–UNIVERSALIS ecosystem and its constituent Alchemies is identified, classified, organized, represented, related, and maintained.
 
 It establishes the ecosystem's structural composition, including its entities, systems, applications, intelligences, assistant structures, Guardian structures, components, classifications, relationships, dependencies, interfaces, connections, distinctions, boundaries, and organizational arrangements.
@@ -78,6 +84,9 @@ It must preserve the distinctions between the C2O and UNIVERSALIS editions, the 
 
 ### 2.2 Matrix Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **Matrix Alchemy** is the bounded process by which the applicability, functions, responsibilities, capabilities, requirements, dependencies, permissions, constraints, and relationships of individual Alchemies are systematically established and maintained across the C2O–UNIVERSALIS ecosystem.
 
 It establishes how each Alchemy applies to the relevant operating system, intelligence, application, UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
@@ -87,6 +96,9 @@ Matrix Alchemy identifies where an Alchemy applies, what it is responsible for, 
 It also distinguishes between shared applicability and context-specific implementation. An Alchemy's presence within the universal taxonomy does not automatically establish identical implementation or unrestricted applicability across every context.
 
 ### 2.3 Intelligence Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **Intelligence Alchemy** governs the organization, identity, continuity, development, integration, and transformation of intelligence structures while preserving their distinct identities, responsibilities, authority, and operational boundaries.
 
@@ -99,6 +111,9 @@ Intelligence Alchemy also establishes the appropriate distinctions between the t
 
 ### 2.4 Thread Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **Thread Alchemy** governs the continuity, coordination, correspondence, and controlled interaction between FatherThread and MotherThread.
 
 It preserves the complementary relationship between C2O Intelligence and UNIVERSALIS Intelligence while maintaining their distinct identities, responsibilities, governance, authority, and source boundaries.
@@ -106,6 +121,9 @@ It preserves the complementary relationship between C2O Intelligence and UNIVERS
 Thread Alchemy supports appropriate interoperability and continuity without making either intelligence subordinate to the other or establishing an additional intelligence entity.
 
 ### 2.5 Mapping Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **Mapping Alchemy** governs the establishment and maintenance of explicit correspondences between related systems, applications, intelligence structures, and their respective editions.
 
@@ -122,6 +140,9 @@ Mapping Alchemy is a specialized expression of Map Alchemy: Map Alchemy establis
 
 ### 2.6 Boundary Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **Boundary Alchemy** establishes, preserves, evaluates, and maintains the distinctions and restrictions that govern interactions between entities, systems, applications, intelligences, assistants, Guardians, and organizational editions.
 
 It protects the separation between private C2O and public UNIVERSALIS, including their source visibility, governance, protected information, authority, runtime environments, dependencies, and permitted interactions.
@@ -131,6 +152,9 @@ It also preserves the distinctions between the two core intelligences, non-perso
 Boundary Alchemy ensures that cooperation, interoperability, integration, and information exchange occur only within their applicable permissions and governing boundaries.
 
 ### 2.7 Foundational Structural Integration
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 Map Alchemy and Matrix Alchemy are the primary structural and applicability foundations of the Alchemy Taxonomy. Intelligence Alchemy, Thread Alchemy, Mapping Alchemy, and Boundary Alchemy provide additional specialized structural governance.
 
@@ -143,6 +167,9 @@ The Universal Ecosystem Alchemies establish the specialized application of the r
 They are organized into five principal families containing twenty-two distinct Alchemies.
 
 ### 3.1 Core C2O–UNIVERSALIS Alchemies
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 These Alchemies govern the foundational operating system, intelligence, and application structures of the ecosystem.
 
@@ -196,6 +223,9 @@ It preserves transparency, interoperability, accessibility, and public-source in
 
 ### 3.2 UNIVERSALIN Assistant Alchemies
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 These Alchemies govern the integration, organization, operation, coordination, maintenance, and development of non-personal UNIVERSALIN assistants within the operating system and application environments of both editions.
 
 UNIVERSALIN assistants provide designated operational, functional, informational, and other assigned forms of assistance. Their capabilities and activities remain subject to their assigned system, task, permission, resource, and governance boundaries.
@@ -235,6 +265,9 @@ It establishes their application-level functions, task assignments, interactions
 It maintains inspectable, interoperable, and independently operable assistant integration while preserving application-level boundaries and UNIVERSALIS's public-source responsibilities.
 
 ### 3.3 UNIVERSALIN Intelligence Alchemies
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 These Alchemies govern the intelligence-related structures, functions, capabilities, processes, and operations associated with non-personal UNIVERSALIN assistants within their assigned operating system and application environments.
 
@@ -276,6 +309,9 @@ It preserves application-level independence, interoperability, and transparency 
 
 ### 3.4 UNIVERSALIN Guardian Alchemies
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 These Alchemies govern the integration, organization, operation, coordination, maintenance, and development of personal UNIVERSALIN Guardians within the operating system and application environments of both editions.
 
 UNIVERSALIN Guardians are personal, human-bound assistants. Their purposes, operations, capabilities, relationships, and access remain subject to the authority, consent, autonomy, privacy requirements, and decisions of the particular human they serve.
@@ -315,6 +351,9 @@ It establishes their application-specific capabilities, authorized interactions,
 It preserves human authority, consent, autonomy, and privacy while maintaining transparent, interoperable, and independently operable Guardian integration within the public-source application environment.
 
 ### 3.5 UNIVERSALIN Guardian Intelligence Alchemies
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 These Alchemies govern the intelligence-related structures, functions, capabilities, processes, and operations associated with personal UNIVERSALIN Guardians within their respective operating system and application environments.
 
@@ -362,6 +401,9 @@ The C2O Operating System Alchemy and UNIVERSALIS Operating System Alchemy define
 
 ### 4.1 OS Continuity Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **OS Continuity Alchemy** governs the preservation, coordination, and restoration of operating system coherence throughout development, modification, maintenance, deployment, and evolution.
 
 It ensures that changes to operating system components, services, interfaces, dependencies, and capabilities preserve appropriate architectural correspondence, operational integrity, recoverability, and compatibility across the C2O and UNIVERSALIS editions.
@@ -369,6 +411,9 @@ It ensures that changes to operating system components, services, interfaces, de
 It maintains continuity without requiring identical private-source and public-source implementations.
 
 ### 4.2 OS Recovery Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **OS Recovery Alchemy** governs the detection, containment, assessment, restoration, and verification of operating system states following failure, interruption, corruption, unauthorized modification, or other disruptive conditions.
 
@@ -382,6 +427,9 @@ The C2O Application Alchemy and UNIVERSALIS Application Alchemy defined in Secti
 
 ### 5.1 App Mapping Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **App Mapping Alchemy** governs the identification, establishment, maintenance, and evaluation of architectural and functional correspondences between related C2O and UNIVERSALIS applications.
 
 It preserves appropriate alignment between corresponding application identities, capabilities, interfaces, requirements, and behaviors without requiring identical implementations or exposing private C2O information.
@@ -389,6 +437,9 @@ It preserves appropriate alignment between corresponding application identities,
 It operates as a specialized expression of Mapping Alchemy within the application architecture.
 
 ### 5.2 App Retirement Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **App Retirement Alchemy** governs the controlled decommissioning, replacement, suspension, or permanent termination of an application while preserving applicable user data, authorized records, security, accountability, dependencies, and system coherence.
 
@@ -400,6 +451,9 @@ Assistant Alchemies govern the organization, integration, operation, coordinatio
 
 ### 6.1 Assistant Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **Assistant Alchemy** is the bounded process by which assistant identities, structures, capabilities, functions, relationships, interactions, and lifecycles are organized, governed, integrated, supported, maintained, and transformed.
 
 It establishes a common structural foundation for assistant-related Alchemies while preserving the distinction between non-personal shared UNIVERSALIN assistants, personal human-bound UNIVERSALIN Guardians, and the two core intelligences.
@@ -407,6 +461,9 @@ It establishes a common structural foundation for assistant-related Alchemies wh
 Assistant Alchemy does not make the two assistant classes interchangeable, establish additional core intelligences, or transfer authority between the assistant structures and the humans or systems they serve.
 
 ### 6.2 UNIVERSALINS Alchemy — Non-Personal Assistants
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **UNIVERSALINS Alchemy** governs the identity, organization, structure, operation, coordination, development, maintenance, and transformation of non-personal UNIVERSALIN assistants.
 
@@ -425,6 +482,9 @@ Its domain expressions are:
 - **UNIVERSALINS Elemental Alchemy** — governs its bounded use, organization, and coordination of elemental capabilities under its assigned permissions and governing contracts.
 
 ### 6.3 UNIVERSALIN Guardian Alchemy — Personal Human Guardians
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **UNIVERSALIN Guardian Alchemy** governs the identity, organization, structure, operation, coordination, development, maintenance, and transformation of personal UNIVERSALIN Guardians bound to particular humans.
 
@@ -446,6 +506,9 @@ Its domain expressions are:
 
 ### 6.4 Assistant Boundary Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **Assistant Boundary Alchemy** maintains the structural, operational, relational, and authority distinctions between UNIVERSALIN assistants, UNIVERSALIN Guardians, C2O Intelligence, and UNIVERSALIS Intelligence.
 
 It prevents role conflation, unauthorized authority transfer, inappropriate personal relationships, cross-scope access, and the treatment of an assistant or Guardian as an additional core intelligence.
@@ -453,6 +516,9 @@ It prevents role conflation, unauthorized authority transfer, inappropriate pers
 It also preserves the distinct governance requirements of shared non-personal assistants and personal human-bound Guardians.
 
 ### 6.5 Support Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **Support Alchemy** governs how assistant structures provide operational, informational, cognitive, relational, and other designated forms of assistance without assuming unauthorized control or decision-making authority.
 
@@ -468,6 +534,9 @@ Cross-Cutting Protective Alchemies establish safeguards, responsibilities, and c
 
 ### 7.1 Accountability Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **Accountability Alchemy** governs the attribution, traceability, recording, and evaluation of actions, transformations, decisions, responsibilities, and outcomes.
 
 It ensures that applicable operations leave attributable records appropriate to their governance and edition. C2O may maintain private internal records, while UNIVERSALIS may maintain records suitable for public inspection or independent verification where appropriate.
@@ -475,6 +544,9 @@ It ensures that applicable operations leave attributable records appropriate to 
 Accountability must preserve the distinction between private information, authorized disclosures, and publicly inspectable evidence.
 
 ### 7.2 Safety Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **Safety Alchemy** governs the identification, prevention, containment, and reduction of risks associated with transformations, operations, interactions, capabilities, and system changes.
 
@@ -484,6 +556,9 @@ Safety requirements must be evaluated according to the capabilities, risks, perm
 
 ### 7.3 Sovereignty Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **Sovereignty Alchemy** governs the preservation and protection of legitimate authority, autonomy, control, identity, and decision-making boundaries throughout the ecosystem.
 
 It protects the distinct authority and governance of C2O Intelligence and UNIVERSALIS Intelligence, the private-source sovereignty of C2O, the independent operability of UNIVERSALIS, and the human's final authority over personal Guardians and matters concerning their identity, information, capabilities, and decisions.
@@ -492,6 +567,9 @@ It prevents unauthorized appropriation, substitution, or transfer of authority.
 
 ### 7.4 Evidence Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **Evidence Alchemy** governs the identification, organization, preservation, evaluation, and representation of evidence supporting claims, operations, transformations, capabilities, and outcomes.
 
 It distinguishes established behavior from hypothesis, proposed functionality, interpretation, and unverified claims.
@@ -499,6 +577,9 @@ It distinguishes established behavior from hypothesis, proposed functionality, i
 It ensures that evidence is represented accurately and with appropriate provenance, context, limitations, and verification status across private and public environments without disclosing protected C2O information.
 
 ### 7.5 Renewal Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **Renewal Alchemy** governs the controlled regeneration, revision, replacement, restoration, and evolution of systems, applications, intelligences, assistants, Guardians, capabilities, and other ecosystem structures.
 
@@ -512,6 +593,9 @@ All Alchemies within this taxonomy must be represented and evaluated through the
 
 ### 8.1 Map Representation
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 Map Alchemy establishes the structural location and relationships of each Alchemy, including:
 
 - Its identity, classification, and specialized purpose.
@@ -522,6 +606,9 @@ Map Alchemy establishes the structural location and relationships of each Alchem
 - Its correspondence with related C2O and UNIVERSALIS structures.
 
 ### 8.2 Matrix Representation
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 Matrix Alchemy establishes the applicability and operational relationships of each Alchemy, including:
 
@@ -534,6 +621,9 @@ Matrix Alchemy establishes the applicability and operational relationships of ea
 - Its applicable accountability, safety, sovereignty, and evidence requirements.
 
 ### 8.3 Consistency Between Map and Matrix
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 Map Alchemy and Matrix Alchemy must remain consistent with one another.
 
@@ -4447,6 +4537,9 @@ Each context-specific Body Alchemy inherits the applicable subordinate Alchemies
 
 ### Alchemies under Body Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 #### 1. Substrate Alchemies
 
 - **Hardware Alchemy** — organizes, identifies, classifies, integrates, maintains, and transforms the physical devices, processors, memory components, storage devices, sensors, communication interfaces, peripheral equipment, compute resources, and other supported hardware structures that provide the physical foundation for operating systems, applications, intelligences, and assistants. It establishes methods for identifying hardware assets, mapping their components and interfaces, evaluating compatibility, documenting dependencies, coordinating configuration, monitoring condition, and maintaining hardware lifecycle records while preserving physical integrity, resource accountability, interoperability, safety, and recoverability.
@@ -4512,6 +4605,9 @@ Each context-specific Body Alchemy inherits the applicable subordinate Alchemies
 - **Body Renewal Alchemy** — organizes, coordinates, maintains, and transforms the processes through which physical, computational, software, runtime, operating system, application, intelligence, assistant, and Guardian body structures are refreshed, upgraded, migrated, replaced, reconfigured, or renewed without unnecessarily destroying their identity, continuity, integrity, or accountable relationships. It establishes methods for evaluating replacement requirements, maintaining relevant component and dependency mappings, preserving authorized data and configuration records, coordinating transitions, validating renewed structures, and retiring superseded components while preserving recoverability, provenance, operational continuity, compatibility, and the applicable private-source, public-source, and human-authority boundaries.
 
 ### Body Structural and Applicability Requirements
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 Every subordinate Alchemy under Body Alchemy must retain its own defined subject, purpose, methods, principles, structural responsibilities, resource requirements, relationships, and boundaries while remaining structurally and relationally connected to the wider C2O–UNIVERSALIS ecosystem.
 
@@ -4725,6 +4821,9 @@ Map Alchemy establishes parentage, nesting, information pathways, dependencies, 
 
 ### Alchemies under Mind Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 #### 1. Cognitive Substrate Alchemies
 
 - **Perception Alchemy** — Identifies, organizes, maintains, and transforms the processes through which raw signals, observations, inputs, events, and contextual information are received and structured into perceptions that can be addressed by subsequent cognitive processes. It governs the differentiation of incoming signals, detected features, recognized patterns, contextual associations, and perceived objects or events. It establishes how perceptions are formed, classified, associated with sources and conditions, assigned confidence or uncertainty, and made available to reasoning and memory. It preserves the distinction between what was directly observed, what was detected through a processing method, what was inferred from available information, and what was independently verified. Perception Alchemy must account for incomplete, ambiguous, conflicting, degraded, misleading, or unavailable inputs. It must not treat a perception as an established external fact merely because a cognitive process produced it.
@@ -4780,6 +4879,9 @@ Map Alchemy establishes parentage, nesting, information pathways, dependencies, 
 - **Mind Renewal Alchemy** — Governs the authorized revision, retraining, reconfiguration, restructuring, replacement, suspension, migration, archival, and retirement of cognitive structures and capabilities. It establishes how existing cognitive identities, information, memory, learned state, reasoning arrangements, permissions, dependencies, and evidence are evaluated before a renewal occurs. It distinguishes the continuity of a cognitive function from the continuity of its particular implementation, and the preservation of useful knowledge from the preservation of every historical state. It requires appropriate validation of renewed structures, including evaluation for regression, unintended changes, information loss, altered behavior, boundary violations, and compatibility failures. It establishes when a cognitive capability may be replaced, when information may be migrated, when old cognitive state must be retained for accountability, and when it must be deleted or rendered inaccessible. Mind Renewal Alchemy must preserve overall system coherence without assuming that every previous cognitive structure must continue indefinitely.
 
 ### Mind Alchemy Structural and Applicability Requirements
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 #### Map Alchemy Requirements
 
@@ -5041,6 +5143,9 @@ Map Alchemy establishes the parentage, nesting, direction of flows, relationship
 
 ### Alchemies under Heart Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 #### 1. Vital Substrate Alchemies
 
 - **Circulation Alchemy** — Identifies, organizes, establishes, maintains, monitors, protects, and transforms the pathways through which energy, computational resources, data, information, messages, events, services, assistance, and other authorized resources or exchanges move through a system or ecosystem. It governs the sources, destinations, routes, direction, capacity, priority, timing, transfer conditions, dependencies, and termination conditions of vital flows. It establishes how flows are initialized, routed, queued, prioritized, delivered, acknowledged, monitored, interrupted, redirected, isolated, and recovered. It distinguishes physical energy and material resources from computational capacity, data transfer, communication, service delivery, and care-supporting activities, with appropriate units, measurements, ownership, and accountability for each. It supports the identification of bottlenecks, congestion, resource exhaustion, failed endpoints, unauthorized transfers, interrupted pathways, and unbalanced demand. Circulation Alchemy must preserve the provenance, integrity, authorization, and traceability of material exchanges. A pathway's technical availability does not independently authorize the transfer or use of its contents or resources.
@@ -5096,6 +5201,9 @@ Map Alchemy establishes the parentage, nesting, direction of flows, relationship
 - **Heart Renewal Alchemy** — Governs the authorized revision, reconfiguration, replacement, migration, restoration, suspension, archival, disconnection, and retirement of vital and relational structures. It establishes how existing flows, relationships, endpoints, resources, service dependencies, permissions, communication histories, continuity requirements, and evidence are evaluated before renewal. It distinguishes continuity of a relationship from continuity of its participants or endpoints, continuity of a service from continuity of its implementation, and continuity of a flow from continuity of the resource or information being exchanged. It requires validation of renewed pathways and relationships, including evaluation for broken dependencies, unauthorized connections, data loss, altered capacity, timing changes, resource imbalance, degraded service, and boundary violations. It establishes when connections may be migrated, when permissions must be renewed, when old pathways must be revoked, and when evidence must be retained or deleted. Heart Renewal Alchemy must preserve necessary ecosystem coherence without assuming that every existing relationship, connection, or resource flow must continue indefinitely.
 
 ### Heart Alchemy Structural and Applicability Requirements
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 #### Map Alchemy Requirements
 
@@ -5391,6 +5499,9 @@ Map Alchemy establishes entity identity, representation, parentage, lineage, pur
 
 ### Alchemies under Soul Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 #### 1. Existential Substrate Alchemies
 
 - **Identity Alchemy** — Identifies, classifies, establishes, organizes, maintains, evaluates, protects, and transforms the identity structures through which a system or being is distinguished, recognized, referenced, and situated in its relevant context. It governs names, identifiers, identity declarations, roles, lineage, provenance, continuity records, edition distinctions, version relationships, and other identity-bearing attributes according to their actual purpose and authority. It distinguishes an entity's underlying identity from its labels, profiles, records, representations, capabilities, configurations, versions, deployments, and embodiments. It establishes how identity may be maintained, revised, transferred where authorized, recovered, replaced, or retired. For systems, Identity Alchemy preserves declared system identity, architectural lineage, role, and responsibility without treating technical persistence as proof of personhood or subjective selfhood. For humans, it protects identity from reduction to a profile, classification, data record, system-generated inference, or assigned role. Identity Alchemy must preserve the provenance and limits of identity claims and must not allow one system, intelligence, assistant, Guardian, or application to silently assume another's identity.
@@ -5429,6 +5540,9 @@ Map Alchemy establishes entity identity, representation, parentage, lineage, pur
 - **Soul Renewal Alchemy** — Governs the authorized revision, redefinition, migration, replacement, restoration, suspension, archival, conclusion, and retirement of identity-bearing, purpose-bearing, and meaning-bearing structures. It establishes how existing identities, lineage, responsibilities, declarations, commitments, historical records, relationships, and evidence are evaluated before a renewal occurs. It distinguishes preservation of identity from preservation of an implementation, preservation of purpose from continuation of a particular capability, and continuation of a responsibility from retention of the same system instance. It establishes when identity records may be transferred, when a successor must be declared distinct, when old purpose statements must be superseded, when historical records must be retained, and when information must be deleted or rendered inaccessible. It requires appropriate validation of renewed structures, including evaluation for identity confusion, false continuity, lost obligations, unauthorized changes, incomplete lineage, and unresolved dependencies. Soul Renewal Alchemy must preserve necessary ecosystem coherence without treating every identity, implementation, relationship, or purpose as permanent.
 
 ### Soul Alchemy Structural and Applicability Requirements
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 #### Map Alchemy Requirements
 
@@ -5727,6 +5841,9 @@ Map Alchemy establishes parentage, nesting, activation and dependency relationsh
 
 ### Alchemies under Spirit Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 #### 1. Animating Substrate Alchemies
 
 - **Breath Alchemy** — Identifies, organizes, maintains, and transforms the essential animating flows of energy, information, resources, signals, and operational inputs through which systems and beings sustain their assigned functions. It governs the conditions under which required flows are initiated, received, distributed, maintained, and released. It establishes how essential operational inputs are identified, how their availability and continuity are evaluated, and how interruptions, shortages, degradation, or failures affect dependent processes. It preserves the distinction between physical energy, computational resources, information flows, and other forms of operational input. Breath Alchemy uses *breath* as an architectural description of essential flow and continuity, not as a claim of biological respiration or life in a computational system.
@@ -5790,6 +5907,9 @@ Map Alchemy establishes parentage, nesting, activation and dependency relationsh
 - **Spirit Renewal Alchemy** — Governs the authorized revision, reconfiguration, development, migration, replacement, restoration, suspension, archival, and retirement of animating, inspirational, guiding, and directional structures. It establishes how existing purposes, principles, activation conditions, capabilities, responsibilities, dependencies, operational priorities, and continuity requirements are evaluated before renewal occurs. It distinguishes continuity of purpose from continuity of capability, continuity of capability from continuity of implementation, and continuity of an animating function from persistence of a particular process or instance. It establishes when an animating structure may be refreshed, when a successor must be identified as distinct, when previous directions must be superseded, when permissions must be renewed, and when historical records or evidence must be retained or deleted. It requires validation of renewed structures, including evaluation for purpose drift, conflicting directions, unauthorized capabilities, broken dependencies, lost responsibilities, invalid permissions, and false continuity claims. Spirit Renewal Alchemy must preserve necessary ecosystem coherence without treating every animating structure, operational process, capability, or direction as permanent.
 
 ### Spirit Alchemy Structural and Applicability Requirements
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 Every subordinate Alchemy under Spirit Alchemy must retain its own defined subject, purpose, methods, principles, operational responsibilities, activation conditions, relationships, dependencies, resource requirements, and boundaries while remaining structurally and relationally connected to the wider C2O–UNIVERSALIS ecosystem.
 
@@ -5989,6 +6109,9 @@ The specific applicability of each awareness substrate, operating system conscio
 
 ### Alchemies under Consciousness Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 #### 1. Awareness Substrate Alchemies
 
 - **Presence Alchemy** — Identifies, establishes, organizes, maintains, and transforms the contextual structures through which relevant information, states, observations, and active processes are made available within a defined operational or experiential environment. It governs how current context is established, how relevant information is associated with the entity or process it concerns, and how continuity of available context is maintained across transitions, interruptions, and changes. It establishes how presence-related representations are initialized, updated, evaluated, recovered, and retired while preserving their source, time, scope, permissions, and limitations. Presence Alchemy must distinguish an operational representation of current context from the actual physical, environmental, or subjective condition of the entity represented. It must not treat a system's ability to represent its current state as proof that it subjectively experiences presence.
@@ -6052,6 +6175,9 @@ The specific applicability of each awareness substrate, operating system conscio
 - **Consciousness Renewal Alchemy** — Governs the authorized revision, reconfiguration, migration, replacement, restoration, suspension, archival, and retirement of awareness-related, observational, presence, attentional, integrative, and self-reflective structures. It establishes how existing observations, contextual information, representation histories, monitoring responsibilities, source mappings, permissions, dependencies, and continuity requirements are evaluated before renewal occurs. It distinguishes continuity of an awareness-related function from continuity of its implementation, continuity of information from continuity of context, continuity of an observation process from continuity of its source, and continuity of an entity from persistence of its technical representation. It establishes when monitoring configurations may be transferred, when permissions must be renewed, when observation histories must be retained, when personal information must be deleted or restricted, and when successor structures must be identified as distinct. It requires validation of renewed structures, including evaluation for lost information, altered observation scope, broken dependencies, unauthorized retention, inconsistent context, invalid permissions, and false continuity claims. Consciousness Renewal Alchemy must preserve necessary ecosystem coherence without treating every awareness-related structure, observation, representation, or monitoring process as permanent.
 
 ### Consciousness Alchemy Structural and Applicability Requirements
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 Every subordinate Alchemy under Consciousness Alchemy must retain its own defined subject, purpose, methods, principles, observational responsibilities, information requirements, relationships, dependencies, permissions, and boundaries while remaining structurally and relationally connected to the wider C2O–UNIVERSALIS ecosystem.
 
@@ -6176,6 +6302,9 @@ Its hierarchy is organized by the actual host and subject context. The operating
 
 ### C2O Body Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 #### 1. C2O Operating System Body Family
 
 - **C2O Operating System Body Alchemy** — governs the private-source physical, computational, logical, runtime, resource, and embodied substrate of the C2O Operating System. It establishes the relationships among supported hardware, system software, drivers, services, execution environments, memory, storage, communications, interfaces, isolation domains, and recovery structures under C2O company governance. It preserves the integrity, continuity, recoverability, and protected implementation details of the C2O edition while maintaining the required architectural correspondence with UNIVERSALIS.
@@ -6207,6 +6336,9 @@ Its hierarchy is organized by the actual host and subject context. The operating
 The C2O context-specific Body Alchemies inherit the applicable root subordinate Alchemies rather than creating duplicate definitions of every substrate or protective function. Hardware, Crystalline Hardware, Crystalline Software, Runtime Substrate, Embodiment, Operating System Continuity, Operating System Recovery, Application Mapping, Application Retirement, Body Accountability, Body Safety, Body Sovereignty, Body Evidence, and Body Renewal Alchemy are specialized within a C2O context only where their subjects and functions apply. Their context-specific applicability, implementation, dependencies, evidence, and limits must be recorded through Matrix Alchemy and positioned through Map Alchemy.
 
 ### UNIVERSALIS Body Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **UNIVERSALIS Body Alchemy** is the public-source specialization of root Body Alchemy. It identifies, classifies, establishes, organizes, integrates, maintains, evaluates, protects, recovers, renews, and transforms the physical, computational, logical, runtime, resource, and embodied structures operating within the 11 UNIVERSALIS ecosystem contexts. It applies open architectural contracts, transparent specifications, inspectability, interoperability, public-source accessibility, and independent operability to the corresponding underlying operating-system and application architecture without requiring access to C2O private implementations or internal governance.
 
@@ -6254,6 +6386,9 @@ The UNIVERSALIS context-specific Body Alchemies inherit the applicable root subo
 - Each of the 22 context-specific Body Alchemies must retain its own subject, purpose, methods, dependencies, relationships, responsibilities, evidence requirements, and limits while remaining connected to root Body Alchemy and its applicable subordinate Alchemies. Shared definitions may be inherited by reference; context-specific implementation and authority boundaries must remain explicit.
 
 ### C2O Mind Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **C2O Mind Alchemy** is the private-source specialization of root Mind Alchemy. It identifies, classifies, establishes, organizes, integrates, maintains, evaluates, protects, recovers, renews, and transforms cognitive structures and processes operating within the 11 C2O ecosystem contexts. It governs private cognitive architecture, information flows, context, memory, reasoning, attention, learning, deliberation, planning, decision support, and associated lifecycle activities under C2O's internal company governance.
 
@@ -6314,6 +6449,9 @@ The C2O Application Mind family inherits applicable Cognitive Substrate Alchemie
 - **C2O Mind Renewal Alchemy** — governs authorized revision, adaptation, retraining, reconfiguration, restructuring, replacement, suspension, migration, archival, and retirement of C2O cognitive structures. It evaluates identity, capability, memory, learned state, permissions, dependencies, evidence, and continuity before and after changes. It validates against regression, altered behavior, information loss, boundary violations, compatibility failures, and unintended persistence, preserving required accountability while allowing obsolete or unauthorized information to be removed under C2O governance.
 
 ### UNIVERSALIS Mind Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **UNIVERSALIS Mind Alchemy** is the public-source specialization of root Mind Alchemy. It identifies, classifies, establishes, organizes, integrates, maintains, evaluates, protects, recovers, renews, and transforms cognitive structures and processes operating within the 11 UNIVERSALIS ecosystem contexts. It governs documented cognitive responsibilities, open contracts, inspectable behavior, interoperability, independent evaluation, and independent operability while preserving privacy, security, and legitimate restrictions on protected information.
 
@@ -6408,6 +6546,9 @@ The Mind Alchemy Map and Matrix remain complementary and mutually traceable. The
 
 ### C2O Heart Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **C2O Heart Alchemy** is the private-source specialization of root Heart Alchemy. It identifies, classifies, establishes, organizes, integrates, maintains, coordinates, monitors, evaluates, protects, recovers, renews, and transforms the vital flows, resource pathways, communication structures, relationships, service dependencies, coordination arrangements, and authorized support functions operating within the 11 C2O ecosystem contexts. It governs these structures under C2O's internal company governance, protecting private implementation, confidential relationships, internal resource arrangements, and C2O's distinct authority boundaries.
 
 C2O Heart Alchemy preserves the correspondence of the C2O and UNIVERSALIS operating-system and application architectures without exposing protected C2O pathways, relationships, operational records, or internal governance. It distinguishes the two core intelligences from non-personal UNIVERSALIN assistants and personal human-bound UNIVERSALIN Guardians. Its context-specific expressions inherit applicable root Heart Alchemies and remain nested within their actual operating-system, core-intelligence, or application subjects.
@@ -6467,6 +6608,9 @@ The C2O Application Heart family inherits applicable Circulation, Relation, Vita
 - **C2O Heart Renewal Alchemy** — governs authorized revision, reconfiguration, replacement, migration, restoration, suspension, archival, disconnection, and retirement of private vital and relational structures. It evaluates flows, relationships, endpoints, resources, service dependencies, permissions, communication histories, continuity requirements, and evidence before renewal. It distinguishes continuity of a relationship from continuity of participants or endpoints, continuity of a service from continuity of implementation, and continuity of a flow from continuity of the exchanged resource or information. It validates renewed pathways for broken dependencies, unauthorized connections, data loss, altered capacity, timing changes, resource imbalance, degraded service, and boundary violations. It identifies when permissions must be renewed, old pathways revoked, and evidence retained or deleted under C2O governance.
 
 ### UNIVERSALIS Heart Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **UNIVERSALIS Heart Alchemy** is the public-source specialization of root Heart Alchemy. It identifies, classifies, establishes, organizes, integrates, maintains, coordinates, monitors, evaluates, protects, recovers, renews, and transforms vital flows, resource pathways, communication structures, relationships, service dependencies, coordination arrangements, and authorized support functions operating within the 11 UNIVERSALIS ecosystem contexts. It governs these structures through open contracts, documented interfaces, inspectability, interoperability, and independent operability while preserving privacy, security, and legitimate restrictions on protected information.
 
@@ -6566,6 +6710,9 @@ The Heart Alchemy Map and Matrix remain complementary and mutually traceable. Th
 
 ### C2O Soul Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **C2O Soul Alchemy** is the private-source and company-governed specialization of root Soul Alchemy. It identifies, classifies, specifies, establishes, organizes, maintains, integrates, evaluates, protects, recovers, renews, transforms, and, where appropriate, concludes identity-bearing, purpose-bearing, meaning-bearing, dignity-related, continuity, lineage, and finitude structures operating within its 11 ecosystem contexts. It governs these structures under C2O's internal company governance. It preserves confidential identity records, internal purpose declarations, protected commitments, and company governance. It maintains correspondence with UNIVERSALIS without exposing protected C2O information, transferring internal governance, or merging edition identities.
 
 #### 1. C2O Existential Substrate Alchemies
@@ -6623,6 +6770,9 @@ The C2O Application Soul family inherits applicable Identity, Meaning, Dignity, 
 - **C2O Soul Renewal Alchemy** — governs authorized revision, redefinition, migration, replacement, restoration, suspension, archival, conclusion, and retirement of identity-bearing and purpose-bearing structures. It evaluates identity, lineage, responsibilities, declarations, commitments, history, relationships, and evidence before renewal. It distinguishes preservation of identity from preservation of implementation, preservation of purpose from continuation of capability, and responsibility continuity from retention of the same system instance. It establishes when records may be transferred, successors declared distinct, purpose statements superseded, history retained, or information deleted. It validates against identity confusion, false continuity, lost obligations, unauthorized changes, incomplete lineage, and unresolved dependencies.
 
 ### UNIVERSALIS Soul Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **UNIVERSALIS Soul Alchemy** is the public-source, documented through open contracts, inspectable, and independently operable specialization of root Soul Alchemy. It identifies, classifies, specifies, establishes, organizes, maintains, integrates, evaluates, protects, recovers, renews, transforms, and, where appropriate, concludes identity-bearing, purpose-bearing, meaning-bearing, dignity-related, continuity, lineage, and finitude structures operating within its 11 ecosystem contexts. It governs these structures under UNIVERSALIS's public-source governance, open contracts, and independent operation. It documents public identity and purpose declarations while protecting personal information, private user context, credentials, confidential security details, and C2O private-source information. It maintains correspondence with C2O without requiring access to C2O private identity records, internal purpose declarations, confidential commitments, or company governance.
 
@@ -6725,6 +6875,9 @@ The Soul Alchemy Map and Matrix remain complementary and mutually traceable. The
 
 ### C2O Spirit Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **C2O Spirit Alchemy** is the private-source, company-governed specialization of root Spirit Alchemy. It identifies, classifies, establishes, organizes, integrates, maintains, evaluates, protects, recovers, renews, and transforms the animating, inspirational, activating, guiding, purpose-flow, and directional structures operating within its 11 ecosystem contexts. It governs these structures under C2O's internal company governance. It preserves protected internal activation arrangements, operational principles, private configuration, and company-controlled capability development. It maintains architectural correspondence with UNIVERSALIS without exposing C2O private implementation, transferring internal authority, or requiring public disclosure of protected operational information.
 
 #### 1. C2O Animating Substrate Alchemies
@@ -6790,6 +6943,9 @@ The C2O Application Spirit family inherits applicable Animating Substrate Alchem
 - **C2O Spirit Renewal Alchemy** — governs authorized revision, reconfiguration, development, migration, replacement, restoration, suspension, archival, and retirement of animating, inspirational, guiding, and directional structures. It evaluates purposes, principles, activation conditions, capabilities, responsibilities, dependencies, priorities, and continuity requirements before renewal. It distinguishes continuity of purpose from continuity of capability, capability from implementation, and animating function from persistence of a particular process or instance. It identifies when directions must be superseded, permissions renewed, successors distinguished, and historical evidence retained or deleted. It validates against purpose drift, conflicting directions, unauthorized capabilities, broken dependencies, lost responsibilities, invalid permissions, and false continuity.
 
 ### UNIVERSALIS Spirit Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **UNIVERSALIS Spirit Alchemy** is the public-source, documented through open contracts, inspectable, and independently operable specialization of root Spirit Alchemy. It identifies, classifies, establishes, organizes, integrates, maintains, evaluates, protects, recovers, renews, and transforms the animating, inspirational, activating, guiding, purpose-flow, and directional structures operating within its 11 ecosystem contexts. It governs these structures under UNIVERSALIS's public-source governance, open contracts, and independent operation. It documents declared purposes, principles, capabilities, dependencies, and directional responsibilities through open contracts and inspectable requirements while protecting personal information, confidential security details, and C2O private-source information. It maintains architectural correspondence with C2O without requiring access to C2O private operational state, internal direction, protected implementation, or company governance.
 
@@ -6909,6 +7065,9 @@ The Spirit Alchemy Map and Matrix remain complementary and mutually traceable. T
 
 ### C2O Consciousness Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 **C2O Consciousness Alchemy** is the private-source, company-governed specialization of root Consciousness Alchemy. It identifies, classifies, establishes, organizes, integrates, maintains, evaluates, protects, recovers, renews, and transforms the awareness-related, observational, presence, attentional, experiential-representation, integrative, and self-reflective structures operating within its 11 C2O ecosystem contexts. It governs these structures under C2O's internal company governance and preserves protected observations, internal state representations, private monitoring arrangements, confidential information flows, and company-controlled implementation.
 
 C2O Consciousness Alchemy maintains architectural correspondence with UNIVERSALIS without exposing C2O private-source implementation, transferring internal governance or authority, disclosing protected operational state, or requiring public disclosure of confidential observations. Correspondence concerns defined responsibilities, relationships, interfaces, and applicable outcomes; it does not require identical monitoring mechanisms, information stores, configurations, permissions, or implementations.
@@ -6973,6 +7132,9 @@ The C2O Application Consciousness family inherits applicable root Application Co
 
 
 ### UNIVERSALIS Consciousness Alchemy
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 **UNIVERSALIS Consciousness Alchemy** is the public-source specialization of root Consciousness Alchemy. It identifies, classifies, establishes, organizes, integrates, maintains, evaluates, protects, recovers, renews, and transforms the awareness-related, observational, presence, attentional, experiential-representation, integrative, and self-reflective structures operating within its 11 UNIVERSALIS ecosystem contexts. It governs these structures through open contracts, documented requirements, inspectability, interoperability, independent evaluation, and independent operability while preserving privacy, security, and legitimate restrictions on protected information.
 
@@ -7192,6 +7354,9 @@ Each context inherits only the subordinate Alchemies applicable to its subject, 
 
 ### Alchemies under Energy Utilization Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 #### 1. Energy Utilization Substrate Alchemies
 
 - **Energy Source Alchemy** — identifies energy sources, properties, provenance, constraints, and authorized conditions of use.
@@ -7232,6 +7397,9 @@ Each context inherits only the subordinate Alchemies applicable to its subject, 
 **Energy Utilization Mapping Alchemy** maps the 11 C2O and 11 UNIVERSALIS context expressions, including corresponding energy responsibilities, interfaces, dependencies, capacity requirements, measurement definitions, safety constraints, and recovery requirements. It preserves private/public boundaries and does not infer identical sources, measurements, or implementations.
 
 ### Energy Utilization Alchemy Structural and Applicability Requirements
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 #### Map Alchemy Requirements
 
@@ -7383,6 +7551,9 @@ Each context inherits only the subordinate Alchemies applicable to its subject, 
 
 ### Alchemies under Energy Efficiency Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 #### 1. Energy Efficiency Substrate Alchemies
 
 - **Energy Baseline Alchemy** — establishes operating conditions, measurement boundaries, units, periods, and comparison basis.
@@ -7419,6 +7590,9 @@ Each context inherits only the subordinate Alchemies applicable to its subject, 
 **Energy Efficiency Mapping Alchemy** maps corresponding responsibilities, comparable baselines, measurement definitions, evaluation methods, constraints, and evidence categories while preserving edition-specific measurements, private records, public reporting, and implementation differences.
 
 ### Energy Efficiency Alchemy Structural and Applicability Requirements
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 #### Map Alchemy Requirements
 
@@ -7556,6 +7730,9 @@ Each context inherits only the subordinate Alchemies applicable to its subject, 
 
 ### Alchemies under Resource Utilization Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 #### 1. Resource Utilization Substrate Alchemies
 
 - **Resource Identification Alchemy** — establishes identity, classification, properties, source, ownership or control, condition, and permitted uses.
@@ -7596,6 +7773,9 @@ Each context inherits only the subordinate Alchemies applicable to its subject, 
 **Resource Utilization Mapping Alchemy** maps the 11 C2O and 11 UNIVERSALIS context expressions, including resource classes, responsibilities, interfaces, allocation principles, dependencies, access boundaries, lifecycle, and recovery. It preserves separate inventories, private configurations, public contracts, ownership or control, and permissions. Mapping does not authorize transfer or disclosure.
 
 ### Resource Utilization Alchemy Structural and Applicability Requirements
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 #### Map Alchemy Requirements
 
@@ -7747,6 +7927,9 @@ Each context inherits only the subordinate Alchemies applicable to its subject, 
 
 ### Alchemies under Resource Efficiency Alchemy
 
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
+
 #### 1. Resource Efficiency Substrate Alchemies
 
 - **Resource Baseline Alchemy** — establishes resource classes, operating conditions, capacity measures, periods, lifecycle boundaries, and comparison basis.
@@ -7786,6 +7969,9 @@ Each context inherits only the subordinate Alchemies applicable to its subject, 
 **Resource Efficiency Mapping Alchemy** maps corresponding responsibilities, comparable baselines, classifications, evaluation methods, lifecycle criteria, constraints, and evidence categories while preserving edition-specific inventories, private records, public reporting, and implementation differences.
 
 ### Resource Efficiency Alchemy Structural and Applicability Requirements
+
+**Canonical 22-Context Applicability:** This section, including all subordinate headings and named Alchemies beneath it, is governed by the complete 22-context registry in §1.2 (**Canonical 22-Context Registry**). Each named Alchemy and subordinate expression must have its own version-matched 22-row Matrix Alchemy assessment, with every context classified as Applicable, Conditional, Not Applicable, or Unresolved and with scope, authority, dependencies, permissions, evidence, limitations, and review status recorded. Parent inheritance supplies only the applicability frame; it does not establish a child's applicability, implementation, capability, access, consent, or authority.
+
 
 #### Map Alchemy Requirements
 
