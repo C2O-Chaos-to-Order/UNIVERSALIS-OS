@@ -925,25 +925,143 @@ All applications must remain consistent with the scientific evidence, biological
 
 ### 4. Health Sciences Alchemy
 
-**Health Sciences Alchemy** is the bounded process that identifies, organizes, maintains, investigates, relates, develops, and transforms knowledge concerning human health, healthcare, medicine, disease, prevention, treatment, recovery, and the preservation of well-being. It encompasses the scientific principles, professional practices, healthcare systems, interventions, and supporting disciplines involved in understanding health, addressing illness and injury, improving quality of life, and supporting individuals and populations throughout their lives.
+**Health Sciences Alchemy** is the bounded process by which knowledge concerning human health, healthcare, medicine, disease, prevention, diagnosis, treatment, recovery, rehabilitation, and the preservation of well-being is identified, classified, organized, investigated, examined, related, maintained, integrated, developed, and transformed into coherent and usable health-science knowledge systems.
+
+It governs the organization and development of health-science knowledge, including the biological, physiological, psychological, behavioral, clinical, social, environmental, and population-level factors that influence health and well-being. It establishes how health-related information, conditions, risks, interventions, outcomes, healthcare practices, and supporting systems are represented, investigated, interpreted, evaluated, related, and applied.
+
+Health Sciences Alchemy encompasses the scientific methods, principles, observations, measurements, clinical findings, research evidence, professional practices, healthcare frameworks, and analytical models used to understand health, address illness and injury, support prevention and recovery, and improve quality of life. It provides a structured foundation for examining health and healthcare while preserving the distinctions between scientific disciplines, clinical professions, research methods, population-level evidence, individual health information, professional judgment, and practical healthcare applications.
+
+Health Sciences Alchemy must preserve the provenance, accuracy, integrity, confidentiality, and appropriate handling of health-related information. Clinical observations, patient-reported information, measurements, laboratory results, imaging findings, diagnoses, treatment records, research findings, professional assessments, care plans, hypotheses, estimates, predictions, and model-generated outputs must remain distinguishable. Their sources, subjects, collection conditions, dates, methods, units, reference ranges, clinical context, assumptions, uncertainty, limitations, and applicable validity periods must be represented wherever relevant.
+
+Health Sciences Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support health-science research, healthcare information organization, personal health information management, wellness-related information, clinical data representation, population-health analysis, medical knowledge organization, healthcare workflows, and other authorized applications relevant to each context.
+
+Its application must distinguish between providing access to health information, organizing and explaining health knowledge, supporting healthcare-related workflows, and exercising professional clinical judgment. The availability of health-science knowledge or analytical capabilities does not independently establish medical credentials, clinical competence, diagnostic authority, prescribing authority, treatment authority, or authorization to perform healthcare procedures.
+
+#### 4.1 Universal Application of Health Sciences Alchemy
+
+Health Sciences Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within these contexts, Health Sciences Alchemy governs the appropriate organization, representation, examination, interpretation, accessibility, integration, and application of health-science knowledge and health-related information.
+
+Its context-specific expressions include:
+
+- **Operating System Contexts:** Health-science knowledge may support the organization, storage, protection, retrieval, and authorized processing of health-related information, healthcare data, wellness records, clinical documentation, scientific references, and relevant healthcare workflows. Operating systems may provide the foundations for secure information handling, access controls, data integrity, interoperability, and authorized connections to supported healthcare or health-information systems. Any access to personal health information, medical records, connected devices, or external healthcare services must depend on actual supported capabilities, explicit authorization, applicable permissions, and relevant privacy and security requirements.
+
+- **Core Intelligence Contexts:** Health-science knowledge may support scientific reasoning, the examination of health-related evidence, the organization and interpretation of medical information, the analysis of healthcare systems, and the explanation of established health-science concepts. C2O Intelligence and UNIVERSALIS Intelligence must apply these capabilities within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities. The use of health-science knowledge does not independently establish clinical qualifications or authority to diagnose, prescribe, treat, or make decisions on behalf of a person.
+
+- **Application Contexts:** Health-science knowledge may support the organization and representation of health information, medical records, clinical documentation, wellness information, healthcare workflows, research findings, population-health information, health-related calculations, and analytical functions. Applications must preserve source provenance, distinguish reported information from measured information, and distinguish documented clinical findings from derived results, interpretations, estimates, and model-generated outputs. Access to sensitive health information must remain subject to the applicable permissions, privacy protections, and governance requirements.
+
+- **UNIVERSALIN Assistant Contexts:** Health-science knowledge may support assigned research, health-information organization, explanation, retrieval, analysis, documentation, coordination, and other authorized information-processing functions within operating system and application boundaries. Assistants must preserve the distinction between general health information, individual health records, research evidence, professional clinical judgment, and the assistance functions they are authorized to perform. They must not treat their assigned capabilities as independent medical or clinical authority.
+
+- **UNIVERSALIN Intelligence Contexts:** Health-science knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through health-information processing, scientific reasoning, medical knowledge organization, analytical support, and healthcare-related information functions. These contexts do not constitute additional core intelligences or establish independent clinical authority, unrestricted access to health records, or permission to initiate healthcare interventions.
+
+- **UNIVERSALIN Guardian Contexts:** Health-science knowledge may support the authorized personal-information, research, organizational, analytical, and assistance capabilities of human-bound Guardians. Where health information concerns the human they serve, its collection, access, processing, retention, disclosure, and use must respect that human's consent, privacy, confidentiality, autonomy, and applicable access permissions. Guardians must remain subject to the human's authority and must not independently establish medical, diagnostic, prescribing, treatment, or professional healthcare authority.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Health-science knowledge may support health-information processing, scientific explanation, analytical reasoning, organization of personal health information, and other human-directed Guardian capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human's healthcare decisions, medical records, treatment, or interactions with healthcare professionals. The human retains authority over personal choices and authorized Guardian functions.
+
+The specific applicability of each health discipline and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
 
 #### Alchemies under Health Sciences Alchemy
 
-- **Medicine Alchemy** — organizes and develops knowledge and practices concerning human health, disease, diagnosis, clinical reasoning, treatment, and medical care.
-- **Nursing Alchemy** — organizes knowledge and practices concerning patient care, health assessment, clinical support, care coordination, education, and the promotion of health and recovery.
-- **Surgery Alchemy** — organizes knowledge and practices concerning operative procedures, surgical interventions, anatomical access, tissue repair, and the treatment of injuries and diseases through surgical methods.
-- **Pharmacology Alchemy** — organizes knowledge of medicines and other biologically active substances, including their mechanisms, effects, interactions, therapeutic applications, and safety.
-- **Public Health Alchemy** — organizes knowledge and practices concerning the protection and improvement of health across populations through prevention, health promotion, policy, education, and community-level interventions.
-- **Epidemiology Alchemy** — organizes knowledge concerning the distribution, frequency, determinants, and patterns of health conditions and diseases within populations.
-- **Nutrition Alchemy** — organizes knowledge concerning nutrients, dietary patterns, food, metabolism, nutritional requirements, and their relationships with health, development, and well-being.
-- **Physical Therapy Alchemy** — organizes knowledge and practices concerning movement, physical function, mobility, strength, physical rehabilitation, and the recovery or maintenance of movement-related capabilities.
-- **Occupational Therapy Alchemy** — organizes knowledge and practices that support participation in meaningful daily activities through functional assessment, adaptation, rehabilitation, and environmental modification.
-- **Dentistry Alchemy** — organizes knowledge and practices concerning oral health, teeth, gums, jaw structures, dental diseases, prevention, diagnosis, and treatment.
-- **Mental Health Alchemy** — organizes knowledge and practices concerning psychological, emotional, behavioral, and social well-being, including the understanding, prevention, assessment, treatment, and recovery associated with mental health conditions.
-- **Preventive Medicine Alchemy** — organizes knowledge and practices focused on reducing disease risk, preventing illness and injury, detecting health conditions early, and preserving health before serious complications arise.
-- **Emergency Medicine Alchemy** — organizes knowledge and practices concerning the rapid assessment, stabilization, diagnosis, and initial treatment of acute illness, injury, and life-threatening conditions.
-- **Rehabilitation Science Alchemy** — organizes scientific knowledge and practices concerning the restoration, improvement, maintenance, and adaptation of physical, cognitive, psychological, and functional capabilities following illness, injury, disability, or other changes in health.
+- **Medicine Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge and professional practices concerning human health, disease, diagnosis, clinical reasoning, treatment, and medical care. It establishes methods for representing medical knowledge, clinical concepts, medical evidence, and healthcare practices while preserving the distinction between general medical information, documented clinical assessments, and decisions made by appropriately qualified healthcare professionals.
 
+- **Nursing Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge and professional practices concerning patient care, health assessment, clinical support, care coordination, patient education, and the promotion of health and recovery. It establishes methods for representing nursing knowledge, care activities, patient needs, and nursing-related healthcare processes within applicable professional responsibilities and care boundaries.
+
+- **Surgery Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge and professional practices concerning operative procedures, surgical interventions, anatomical access, tissue repair, and the treatment of injuries and diseases through surgical methods. It establishes methods for organizing surgical knowledge, procedural information, anatomical relationships, surgical evidence, and relevant safety considerations without treating informational support as authorization or capability to perform surgical procedures.
+
+- **Pharmacology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning medicines and other biologically active substances, including their mechanisms, effects, interactions, therapeutic applications, contraindications, and safety considerations. It establishes methods for representing pharmacological properties, medication information, interactions, and relevant evidence while preserving the distinction between general pharmacological knowledge and individualized prescribing or medication-management authority.
+
+- **Public Health Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge and practices concerning the protection and improvement of health across populations through prevention, health promotion, policy, education, surveillance, and community-level interventions. It establishes methods for examining population-health needs, public-health conditions, preventive approaches, and the relationships between communities, environments, institutions, and health outcomes.
+
+- **Epidemiology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the distribution, frequency, determinants, patterns, and changes of health conditions and diseases within populations. It establishes methods for investigating health events, risk factors, patterns, associations, and population-level evidence while preserving the distinction between statistical association, causal explanation, and established findings.
+
+- **Nutrition Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning nutrients, dietary patterns, food, metabolism, nutritional requirements, and their relationships with health, development, and well-being. It establishes methods for representing nutritional information, dietary factors, biological requirements, and relevant evidence while preserving distinctions between general nutrition knowledge and individualized professional nutrition guidance.
+
+- **Physical Therapy Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge and professional practices concerning movement, physical function, mobility, strength, physical rehabilitation, and the recovery or maintenance of movement-related capabilities. It establishes methods for representing movement-related conditions, functional assessments, rehabilitation processes, and physical-therapy knowledge within applicable professional responsibilities.
+
+- **Occupational Therapy Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge and professional practices that support participation in meaningful daily activities through functional assessment, adaptation, rehabilitation, and environmental modification. It establishes methods for understanding the relationships between individuals, functional capabilities, activities, environments, and participation in daily life.
+
+- **Dentistry Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge and professional practices concerning oral health, teeth, gums, jaw structures, dental diseases, prevention, diagnosis, and treatment. It establishes methods for representing oral and dental structures, conditions, preventive practices, treatment information, and relevant scientific evidence within applicable professional and clinical boundaries.
+
+- **Mental Health Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge and professional practices concerning psychological, emotional, behavioral, and social well-being, including the understanding, prevention, assessment, treatment, and recovery associated with mental health conditions. It establishes methods for organizing mental-health knowledge and representing relevant evidence, experiences, interventions, and care approaches while preserving individual dignity, privacy, autonomy, and the distinction between informational support and qualified professional assessment or treatment.
+
+- **Preventive Medicine Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge and professional practices focused on reducing disease risk, preventing illness and injury, detecting health conditions early, and preserving health before serious complications arise. It establishes methods for representing preventive strategies, screening principles, risk factors, health-preservation approaches, and relevant scientific evidence while retaining the distinction between population-level recommendations and individualized clinical decisions.
+
+- **Emergency Medicine Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge and professional practices concerning the rapid assessment, stabilization, diagnosis, and initial treatment of acute illness, injury, and life-threatening conditions. It establishes methods for organizing emergency-care knowledge, urgency classifications, stabilization principles, clinical processes, and emergency-response information. Informational support must not be represented as a substitute for emergency services, qualified emergency personnel, or direct medical care.
+
+- **Rehabilitation Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms scientific knowledge and professional practices concerning the restoration, improvement, maintenance, and adaptation of physical, cognitive, psychological, and functional capabilities following illness, injury, disability, or other changes in health. It establishes methods for examining rehabilitation processes, functional outcomes, adaptive approaches, recovery measures, and interdisciplinary relationships supporting rehabilitation.
+
+### 4.2 Health Sciences Structural and Applicability Requirements
+
+Every subordinate Alchemy under Health Sciences Alchemy must retain its own defined subject, purpose, methods, principles, professional or scientific boundaries, and applicable responsibilities while remaining structurally and relationally connected to the wider knowledge system.
+
+Health Sciences Alchemy must preserve the distinctions between its constituent disciplines and their respective subjects, methods, professional responsibilities, standards, and scopes of practice. Relationships between medicine, nursing, surgery, pharmacology, public health, epidemiology, nutrition, physical therapy, occupational therapy, dentistry, mental health, preventive medicine, emergency medicine, rehabilitation science, and other knowledge domains must be established without collapsing their distinct subjects or treating their professional practices and responsibilities as interchangeable.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Health Sciences Alchemy and each subordinate health discipline and Alchemy.
+- The parent–subordinate relationships between Health Sciences Alchemy, its disciplines, and their own subordinate Alchemies.
+- The relationships between health disciplines and relevant life-science, physical-science, chemical, formal, mathematical, computational, psychological, social, environmental, engineering, and other knowledge-domain structures.
+- The connections between relevant health-science knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, and relationships between health disciplines and other Alchemies.
+- The distinctions between foundational health-science disciplines, clinical and healthcare professions, specialized disciplines, interdisciplinary relationships, and applied expressions.
+- The relationships between health conditions, biological processes, individual and population health, healthcare activities, research evidence, observations, measurements, and information representations.
+- The relationships between personal health information, clinical documentation, research information, population-health information, and the systems responsible for their organization and protection.
+- The appropriate relationships between healthcare information structures, human-directed assistance, professional healthcare workflows, and the authorities responsible for clinical decisions.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each health discipline and subordinate Alchemy.
+- The specific functions and responsibilities of each health discipline within each applicable context.
+- The health-science knowledge, methods, clinical concepts, measurements, evidence, and information structures required for those functions.
+- Whether an application involves general health information, personal health information, clinical documentation, wellness information, research data, population-health data, healthcare coordination, clinical workflow support, or professional healthcare activity.
+- The actual capabilities, supported interfaces, data sources, healthcare connections, devices, and dependencies required for any health-information access or processing.
+- The permissions, consent requirements, privacy protections, confidentiality requirements, security controls, retention limits, and governance boundaries applicable to health information and capabilities.
+- The provenance, subject, collection conditions, dates, methods, units, reference ranges, clinical context, assumptions, uncertainty, validity periods, and limitations that must accompany health observations, measurements, records, models, and derived results.
+- The distinctions between patient-reported information, direct measurements, laboratory results, imaging findings, documented diagnoses, professional assessments, research evidence, statistical estimates, hypotheses, and model-generated predictions.
+- The relationships between shared health-science foundations and context-specific methods, responsibilities, professional boundaries, and implementations.
+- The appropriate relationships between health-science knowledge and relevant biological, chemical, physical, mathematical, computational, behavioral, social, environmental, and other scientific methods.
+- The applicable requirements for handling, processing, storing, transmitting, accessing, correcting, retaining, or disclosing personal health information and other sensitive health-related data.
+- The boundaries between informational assistance, administrative coordination, health-data organization, clinical decision support, and professional clinical judgment.
+- The conditions under which human review, qualified professional involvement, explicit user authorization, or additional verification is required for health-related functions.
+- The emergency, safety, and escalation boundaries relevant to health-related information and applications, including the distinction between informational support and emergency response or direct medical care.
+
+Health Sciences Alchemy must not presume that the presence of a health discipline in the universal taxonomy grants every context unrestricted access to personal health information, medical records, clinical systems, connected health devices, healthcare services, or professional healthcare capabilities.
+
+The inclusion of health-science knowledge within an ecosystem context establishes its place in the knowledge structure, not an automatic implementation, operational dependency, permission, or authorization to access, disclose, interpret, or act upon an individual's health information.
+
+Health information must be handled according to its nature, sensitivity, source, subject, purpose, and applicable permissions. Personal health information must not be treated as ordinary general-purpose information. Access, processing, retention, disclosure, and use must remain within the applicable privacy, confidentiality, security, consent, and governance requirements.
+
+Scientific knowledge, general health information, patient-reported experiences, measured health data, clinical findings, professional assessments, diagnoses, care plans, research conclusions, predictions, and recommendations must remain distinguishable. A model-generated assessment or prediction must not be represented as a confirmed diagnosis, established clinical finding, or professional decision without the required supporting evidence and qualified review.
+
+Health-science information and analytical capabilities must not independently establish professional credentials, clinical competence, medical authority, prescribing authority, treatment authority, or permission to perform healthcare procedures. Where a function requires professional judgment or regulated healthcare activity, the applicable professional qualifications, responsibilities, authorizations, and oversight must remain established outside the taxonomy itself.
+
+Applications involving an individual's health must preserve human dignity, autonomy, consent, privacy, and control over personal information and healthcare choices. Guardian assistance and intelligence-related capabilities must remain subject to the authority and permissions of the human they serve. Neither the presence of health-science knowledge nor the availability of analytical capabilities grants a system, intelligence, assistant, or Guardian independent authority over a person's healthcare decisions.
+
+All applications must remain consistent with the scientific evidence, health-science principles, applicable professional responsibilities, methodological requirements, data provenance, privacy and confidentiality protections, safety considerations, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 5. Engineering and Technology Alchemy
 
