@@ -7645,52 +7645,170 @@ These edition-specific expressions remain mappable through Air Mapping Alchemy w
 
 ### Elemental Alchemy — Earth
 
-**Elemental Alchemy — Earth**  
-The bounded process that organizes the qualities of Earth (stability, structure, grounding, and endurance) so that systems and beings can act with solidity and persistence while remaining coherent, recoverable, and accountable.
+**Elemental Alchemy — Earth** is the bounded process that identifies, classifies, organizes, establishes, integrates, maintains, evaluates, protects, recovers, renews, and transforms the qualities and functions of Earth—including stability, structure, grounding, endurance, form, substance, material coherence, and persistence—so that systems and beings can maintain sound foundations, dependable organization, and continuity while remaining coherent, recoverable, and accountable.
 
-- **Earth Structure Alchemy** — structures the form and foundation of Earth qualities into stable, addressable forms.  
-- **Earth Grounding Alchemy** — maintains the process space in which stability, endurance, and material coherence are formed and held.  
-- **Earth Accountability Alchemy** — leaves an attributable record of Earth transformations appropriate to its edition.
+Earth Alchemy governs the applicable foundations, substrates, structures, material arrangements, structural relationships, grounding conditions, persistence mechanisms, and continuity arrangements through which an authorized system, process, or capability maintains its form and integrity. It distinguishes structural existence from availability, ownership, control, permission, deployment, operation, and verified condition. Identifying a structure or resource class does not establish that a particular asset exists, is available, is owned, or is authorized for use.
 
-**C2O Elemental Alchemy — Earth**  
-Private Earth qualities under internal governance.
+Earth-related technical structures may include applicable hardware, devices, physical facilities, computational substrates, runtime environments, storage media, data structures, application components, and other material or structural dependencies. A person, their body, identity, personal information, property, time, relationships, consent, or decisions must not be classified as a system resource or treated as material to be owned, consumed, allocated, or optimized. Human authority and personal boundaries remain distinct from system structure and resource administration.
 
-- **Private Earth Stewardship Alchemy** — governs internal stability, structure, and grounding inside the C2O domain under company rules.  
-- **Internal Earth Bound Alchemy** — keeps private Earth forms contained and recoverable without external exposure.  
-- **C2O Earth Continuity Alchemy** — ensures private Earth structures can be restored after interruption.
+C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Earth responsibilities must remain structurally mappable across the two editions while preserving their distinct source visibility, governance, implementation, protected information, inventories, and operational authority. UNIVERSALIS must remain independently operable and must not depend on C2O private-source structures, inventories, records, or internal controls.
 
-**UNIVERSALIS Elemental Alchemy — Earth**  
-Public Earth qualities under open contracts.
+### 1.1 Universal Application of Elemental Alchemy — Earth
 
-- **Open Earth Transparency Alchemy** — makes public stability, structure, and grounding independently verifiable.  
-- **Public Earth Openness Alchemy** — maintains public Earth forms under transparent rules.  
-- **UNIVERSALIS Earth Continuity Alchemy** — ensures public Earth structures can be restored with open records.
+Elemental Alchemy — Earth applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-**Alignment**  
-- **Earth Mapping Alchemy** — aligns corresponding private and public Earth structures without collapse.
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSALIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERSALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS Application - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within each context, Elemental Alchemy — Earth governs only the Earth-related subjects, structures, foundations, substrates, material conditions, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular structure, asset, resource, capability, implementation, inventory, or achieved result exists.
+
+#### Context-Specific Application
+
+- **C2O Operating System:** Governs the private-source physical, computational, logical, and runtime foundations of the C2O Operating System, including applicable hardware, devices, system components, storage, execution environments, structural dependencies, grounding conditions, and system continuity under C2O company governance.
+- **UNIVERSALIS Operating System:** Governs the public-source physical, computational, logical, and runtime foundations of the UNIVERSALIS Operating System, including declared hardware support, system components, storage, execution environments, structural dependencies, grounding conditions, and continuity through inspectable and independently operable contracts.
+- **C2O Intelligence:** Governs the structural foundations, persistent state arrangements, authorized computational substrates, memory and storage dependencies, and continuity conditions applicable to C2O Intelligence. It preserves C2O Intelligence as a distinct core intelligence and does not collapse its identity or authority into the operating system or application.
+- **UNIVERSALIS Intelligence:** Governs the structural foundations, persistent state arrangements, declared computational substrates, memory and storage dependencies, and continuity conditions applicable to UNIVERSALIS Intelligence. It preserves UNIVERSALIS Intelligence as a distinct core intelligence and supports independent operation without dependence on C2O private-source structures.
+- **C2O Application:** Governs the private-source structural foundations of C2O applications, including applicable application components, data structures, storage arrangements, runtime dependencies, interfaces, material requirements, configuration integrity, and application lifecycle continuity.
+- **UNIVERSALIS Application:** Governs the public-source structural foundations of UNIVERSALIS applications, including declared application components, data structures, storage arrangements, runtime dependencies, interfaces, material requirements, configuration integrity, and lifecycle continuity through inspectable contracts.
+- **C2O Operating System - UNIVERSALIN:** Governs the assigned technical substrate, runtime placement, bounded storage, interfaces, and structural dependencies through which non-personal UNIVERSALIN assistants perform authorized functions within the C2O Operating System. It preserves task scope, host-system limits, isolation, and recoverability.
+- **UNIVERSALIS Operating System - UNIVERSALIN:** Governs the declared technical substrate, runtime placement, bounded storage, interfaces, and structural dependencies through which non-personal UNIVERSALIN assistants perform authorized functions within the UNIVERSALIS Operating System. It preserves inspectability, interoperability, task scope, and independent operation.
+- **C2O Application - UNIVERSALIN:** Governs the application-assigned components, runtime structures, storage boundaries, interfaces, and technical dependencies through which non-personal UNIVERSALIN assistants perform assigned functions within C2O applications. It keeps assistant structures subordinate to the application context and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN:** Governs the application-declared components, runtime structures, storage boundaries, interfaces, and technical dependencies through which non-personal UNIVERSALIN assistants perform assigned functions within UNIVERSALIS applications. It keeps assistant structures subordinate to the application context and documented public contracts.
+- **C2O Operating System - UNIVERSALIN Intelligence:** Governs the computational, runtime, memory-related, information-structural, and execution foundations supporting intelligence-related capabilities of non-personal UNIVERSALIN assistants within the C2O Operating System. These are subordinate assistant capabilities, not another core intelligence.
+- **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Governs the declared computational, runtime, memory-related, information-structural, and execution foundations supporting intelligence-related capabilities of non-personal UNIVERSALIN assistants within the UNIVERSALIS Operating System. These are subordinate assistant capabilities, not another core intelligence.
+- **C2O Application - UNIVERSALIN Intelligence:** Governs the application-bounded computational, runtime, memory-related, information-structural, and execution foundations supporting intelligence-related capabilities of non-personal UNIVERSALIN assistants within C2O applications, subject to application requirements and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Governs the application-declared computational, runtime, memory-related, information-structural, and execution foundations supporting intelligence-related capabilities of non-personal UNIVERSALIN assistants within UNIVERSALIS applications, subject to open contracts and application permissions.
+- **C2O Operating System - UNIVERSALIN Guardian:** Governs the authorized technical environment, interfaces, storage boundaries, device connections, and runtime structures through which a personal UNIVERSALIN Guardian assists its designated human within the C2O Operating System. It preserves human control over devices, accounts, personal information, configuration, access, and continued use.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Governs the authorized and declared technical environment, interfaces, storage boundaries, device connections, and runtime structures through which a personal UNIVERSALIN Guardian assists its designated human within the UNIVERSALIS Operating System. It preserves human control and does not convert the human or their possessions into system resources.
+- **C2O Application - UNIVERSALIN Guardian:** Governs the authorized application environment, application data boundaries, interfaces, and runtime structures through which a personal UNIVERSALIN Guardian assists its designated human in C2O applications. Access to devices, data, and other human-controlled matters remains subject to explicit human authorization and C2O boundaries.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian:** Governs the authorized and declared application environment, application data boundaries, interfaces, and runtime structures through which a personal UNIVERSALIN Guardian assists its designated human in UNIVERSALIS applications. It preserves consent, privacy, user control, and independently reviewable permission boundaries.
+- **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Governs the computational, runtime, memory-related, information-structural, and execution foundations supporting the intelligence-related capabilities of a personal UNIVERSALIN Guardian within the C2O Operating System. These structures remain subordinate to the Guardian's authorized role and the human's authority.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Governs the declared computational, runtime, memory-related, information-structural, and execution foundations supporting the intelligence-related capabilities of a personal UNIVERSALIN Guardian within the UNIVERSALIS Operating System. These structures remain subordinate to human-authorized functions and public contracts.
+- **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs the application-bounded computational, runtime, memory-related, information-structural, and execution foundations supporting the intelligence-related capabilities of a personal UNIVERSALIN Guardian within C2O applications. It preserves human consent, application permissions, and private-source boundaries.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs the application-declared computational, runtime, memory-related, information-structural, and execution foundations supporting the intelligence-related capabilities of a personal UNIVERSALIN Guardian within UNIVERSALIS applications. It preserves documented human authorization, privacy, purpose limitation, and public application contracts.
+
+### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+The 22 contexts form two edition-specific branches, each containing 11 expressions:
+
+- **C2O branch:** C2O Operating System and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts; C2O Intelligence as a separate core-intelligence context; and C2O Application with its corresponding hosted assistant and Guardian contexts.
+- **UNIVERSALIS branch:** UNIVERSALIS Operating System and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts; UNIVERSALIS Intelligence as a separate core-intelligence context; and UNIVERSALIS Application with its corresponding hosted assistant and Guardian contexts.
+
+C2O expressions remain under private-source company governance and preserve protected implementation, internal inventories, structural records, and private operational authority. UNIVERSALIS expressions remain under public-source governance, open contracts, inspectability, interoperability, and independent operability. Correspondence does not imply identical structures, material conditions, configurations, inventories, ownership, availability, or implementations.
+
+C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intelligences. UNIVERSALIN assistants are non-personal assistants hosted within assigned OS or Application contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their technical environments remain bounded by the designated human's authority, consent, autonomy, privacy, and permissions. Neither a Guardian nor its host system acquires ownership or independent authority over the human or human-controlled matters.
+
+Each context inherits only the Earth-related subordinate Alchemies applicable to its subject, purpose, structures, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof of a particular structure, asset, inventory, implementation, or operating condition.
+
+### Alchemies under Elemental Alchemy — Earth
+
+#### 1. Earth Substrate Alchemies
+
+- **Earth Structure Alchemy** — identifies, classifies, and organizes the form, composition, arrangement, and foundation of applicable Earth structures into stable, addressable, and maintainable forms.
+- **Earth Grounding Alchemy** — establishes and maintains the structural conditions, dependencies, attachment points, constraints, and material coherence through which applicable structures remain situated, supported, and connected to their authorized operating environment.
+- **Earth Accountability Alchemy** — establishes attributable records of applicable Earth-related changes, configurations, structural conditions, material dependencies, maintenance, recovery, and transformations according to the evidence and governance requirements of the relevant edition.
+
+#### 2. C2O Elemental Alchemy — Earth
+
+**C2O Elemental Alchemy — Earth** governs private Earth qualities under C2O internal company governance. It establishes and maintains private structural foundations, authorized material arrangements, internal substrate integrity, grounding conditions, persistence, recoverability, and continuity without unauthorized external exposure.
+
+- **Private Earth Stewardship Alchemy** — governs the identification, organization, maintenance, and protection of applicable internal stability, structure, grounding, and material arrangements within the C2O domain under company rules.
+- **Internal Earth Bound Alchemy** — keeps private Earth structures, configurations, inventories, and dependencies contained, permission-bounded, attributable, and recoverable without unauthorized external exposure.
+- **C2O Earth Continuity Alchemy** — ensures applicable private Earth structures, foundations, and authorized technical dependencies can be restored after interruption while preserving integrity and accountability.
+
+#### 3. UNIVERSALIS Elemental Alchemy — Earth
+
+**UNIVERSALIS Elemental Alchemy — Earth** governs public Earth qualities under open architectural contracts. It establishes and maintains declared structural foundations, inspectable material and technical arrangements, interoperable dependencies, grounding conditions, persistence, recoverability, and continuity without dependence on C2O private-source implementation.
+
+- **Open Earth Transparency Alchemy** — makes declared public stability, structure, grounding, and applicable material arrangements independently reviewable without disclosing protected personal information.
+- **Public Earth Openness Alchemy** — maintains public Earth structures, interfaces, dependencies, and declared material arrangements under transparent, documented, and interoperable rules.
+- **UNIVERSALIS Earth Continuity Alchemy** — ensures applicable public Earth structures, foundations, and declared technical dependencies can be restored and independently examined through open records and contracts.
+
+#### 4. Earth Mapping Alchemy
+
+**Earth Mapping Alchemy** establishes and maintains correspondence among C2O and UNIVERSALIS Earth structures, classifications, foundations, substrates, material dependencies, lifecycle responsibilities, and evidence categories. It preserves differences in private and public implementations, inventories, configurations, and authority, and does not require disclosure of C2O private-source records or controls.
+
+### Elemental Alchemy — Earth Structural and Applicability Requirements
+
+#### Map Alchemy Requirements
+
+Map Alchemy must establish:
+
+- The placement of Elemental Alchemy — Earth and its subordinate expressions across all 22 ecosystem contexts.
+- The parentage and relationships among Earth Structure, Earth Grounding, Earth Accountability, C2O Elemental Alchemy — Earth, UNIVERSALIS Elemental Alchemy — Earth, and Earth Mapping Alchemy.
+- The correspondence between the 11 C2O contexts and the 11 UNIVERSALIS contexts without presuming identical structures, materials, inventories, ownership, availability, configurations, or implementations.
+- The relationships among stability, structure, grounding, endurance, form, substance, foundations, material coherence, persistence, maintenance, recovery, and continuity.
+- Dependencies on applicable hardware, devices, facilities, operating-system components, application components, storage, runtime environments, intelligence substrates, assistant environments, Guardian interfaces, and external services.
+- The distinction between the technical environment supporting a Guardian and the human it serves; human beings and human-controlled matters must not be represented as system-owned structures or resources.
+
+#### Matrix Alchemy Requirements
+
+Matrix Alchemy must establish for each of the 22 contexts:
+
+- Which Earth Structure, Earth Grounding, Earth Accountability, Earth Mapping, private Earth, and public Earth functions apply, are conditional, are not applicable, or remain unresolved.
+- The relevant structural classes, material properties, configurations, locations, dependencies, capacity or condition measures, lifecycle stages, and maintenance requirements where applicable.
+- The distinction between identified, declared, provisioned, available, owned, controlled, permitted, configured, deployed, operational, maintained, recoverable, and verified structures or assets.
+- The authority responsible for establishing, approving, acquiring, configuring, maintaining, changing, inspecting, recovering, transferring, and retiring each applicable structure or material dependency.
+- The permissions, ownership or control basis, provenance, safety, security, privacy, accessibility, and continuity constraints that apply to structural and material arrangements.
+- The evidence, limitations, uncertainty, provenance, condition, and verification status supporting claims about Earth-related structures or capabilities.
+- Guardian consent, privacy, and human-control requirements, including the prohibition against treating a human, personal information, property, time, relationships, or decisions as system resources.
+
+#### Structural Integrity and Governance
+
+Earth Structure must not equate a taxonomy classification with the existence, ownership, availability, deployment, or authorization of a physical or technical asset. Earth Grounding must not create authority over an entity, device, property, or information merely because a dependency or connection has been mapped. Earth-related stability and endurance must not be achieved by preventing necessary change, obstructing recovery, or making a structure irreversibly dependent on one provider or edition.
+
+C2O Earth records, private inventories, configurations, and internal structural controls remain under C2O governance. UNIVERSALIS Earth interfaces, declarations, and public claims must be reviewable to the extent established by open contracts and must remain independently operable. Neither edition may presume access to the other's protected inventories, physical arrangements, records, or internal implementation.
+
+Earth-related resource and material classifications apply only to authorized technical, operational, or environmental subjects. A person, their body, identity, personal information, consent, property, time, relationships, and decisions are not assets or resources to be owned, consumed, allocated, controlled, or optimized. Guardian-related technical structures must remain distinguishable from the human they serve and must be governed by the human's authority and permissions.
+
+Applicability, mapping, identification, ownership, control, availability, authorization, implementation, condition, maintenance, recovery, and verification are separate claims. Establishing Elemental Alchemy — Earth or its place in the 22-context taxonomy does not prove that a particular structure, material, asset, capability, implementation, or result exists.
+
+#### Additional Expression Detail — Application Contexts
+
+The following expressions further specialize Earth qualities in application contexts. They remain subordinate expressions of Elemental Alchemy — Earth and do not establish additional core intelligences:
+
+- **Stability Alchemy** — establishes and maintains structural conditions that support dependable application operation and recoverable configuration.
+- **Substance Alchemy** — identifies and organizes the applicable material and technical composition through which a structure is constituted.
+- **Endurance Alchemy** — maintains persistence and structural integrity across authorized operating conditions and lifecycle changes.
+- **Form Alchemy** — organizes embodiment, arrangement, and configuration so Earth structures remain coherent and addressable.
+- **Private Stability Alchemy** — establishes and maintains private application structure and configuration under C2O governance.
+- **Private Substance Alchemy** — organizes authorized internal material, component, and technical arrangements within C2O application boundaries.
+- **Private Endurance Alchemy** — maintains application persistence, integrity, and recoverability under C2O company rules.
+- **C2O Earth Continuity Alchemy** — ensures applicable private application Earth structures can be restored after interruption.
+- **Open Stability Alchemy** — establishes public application structure and configuration through declared requirements and inspectable contracts.
+- **Open Substance Alchemy** — organizes declared public material, component, and technical arrangements through transparent interfaces.
+- **Open Endurance Alchemy** — maintains public application persistence and recoverability under documented and independently reviewable rules.
+
+#### Additional Expression Detail — OS Edition Mapping
+
+The OS-level expression of Earth organizes stability, structure, grounding, form, endurance, and applicable material and technical foundations for system use while remaining recoverable, accountable, and distinct across the two intelligences.
+
+- **C2O Operating System Earth expression:** Private-source organization of applicable Earth qualities under internal governance. It supports private substrate stability, authorized hardware and component arrangements, internal resource binding, system configuration integrity, and company-source form while preserving protected inventories and implementation.
+- **UNIVERSALIS Operating System Earth expression:** Public-source organization of applicable Earth qualities under open contracts. It supports declared substrate stability, documented component and resource interfaces, open technical dependencies, inspectable system configuration, and independently verifiable form without dependence on C2O private-source structures.
+
+These edition-specific expressions remain mappable through Earth Mapping Alchemy without collapsing private and public ownership, control, implementation, inventories, records, or operational boundaries.
 
 ---
-
-#### Additional expression detail — C2O-App Primary
-
-The bounded process that organizes the qualities of Earth (stability, form, substance, endurance) so that systems and beings can hold structure while remaining recoverable and accountable.
-- **Stability Alchemy** — structures form into stable, addressable substrates.
-- **Substance Alchemy** — maintains the process space of material presence.
-- **Endurance Alchemy** — organizes persistence while preserving boundaries.
-- **Form Alchemy** — bounds embodiment so Earth qualities remain coherent.
-- **Private Stability Alchemy** — internal structuring of form.
-- **Private Substance Alchemy** — internal material management.
-- **Private Endurance Alchemy** — internal persistence under company rules.
-- **C2O Earth Continuity Alchemy** — ensures private Earth structures can be restored.
-- **Open Stability Alchemy** — public structuring of form.
-- **Open Substance Alchemy** — public material management.
-- **Open Endurance Alchemy** — public persistence under transparent rules.
-
-#### Additional expression detail — C2O-OS edition mapping
-
-The bounded process that organizes the qualities of Earth (stability, structure, form, and resource) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
-Private-source organization of Earth qualities under internal governance. Used for private substrate stability, internal resource binding, and company-source form.
-Public-source organization of Earth qualities under open contracts. Used for public substrate stability, open resource contracts, and independently verifiable form.
 
 ### Elemental Alchemy — Fire
 
