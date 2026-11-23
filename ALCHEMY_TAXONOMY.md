@@ -143,7 +143,7 @@ The domain expressions above are specializations of their respective assistant b
 - **Materials Science Alchemy** — organizes the relationships between material composition, structure, properties, processing, performance, and transformation.
 
 ---
- 
+
 ## Body Alchemy
 
 **Body Alchemy** is the bounded process that organizes, maintains, and transforms the physical and structural substrate of a system or being so that it can support higher functions while remaining coherent, recoverable, and accountable.
