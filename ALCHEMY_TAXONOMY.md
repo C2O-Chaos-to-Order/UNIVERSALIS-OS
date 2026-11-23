@@ -359,6 +359,48 @@ These specializations coordinate the preceding disciplines without replacing or 
 - **Business Continuity Alchemy** — organizes the preparation, response, recovery, and adaptation processes required to maintain or restore essential organizational functions during disruption.
 - **Commercial Risk Integration Alchemy** — coordinates financial, operational, strategic, market, supply-chain, and organizational risk considerations in business decision-making.
 
+### 9. Law and Governance Alchemy
+
+**Law and Governance Alchemy** is the bounded process that organizes, interprets, establishes, applies, evaluates, and transforms the legal, constitutional, regulatory, institutional, and governance structures through which societies define rights, responsibilities, authority, obligations, justice, and collective decision-making. It enables individuals, institutions, organizations, and societies to establish legitimate rules, exercise authority, resolve disputes, protect rights, administer justice, and maintain accountable governance while preserving due process, institutional integrity, human dignity, and the rule of law.
+
+It encompasses legal theory, legal systems, public institutions, regulatory frameworks, governance principles, international legal relationships, and the administration and evaluation of public authority. Every specialized Law and Governance Alchemy remains an expression of the root Alchemy.
+
+#### 1. Legal Foundations and Jurisprudence Alchemies
+
+- **Jurisprudence Alchemy** — organizes the philosophical, theoretical, historical, and analytical study of law, legal authority, justice, legal interpretation, rights, obligations, and the foundations of legal systems.
+- **Constitutional Law Alchemy** — organizes the interpretation and application of constitutional principles, institutional powers, governmental structures, fundamental rights, and limitations on public authority.
+- **Criminal Law Alchemy** — organizes the legal principles, definitions, procedures, responsibilities, and consequences associated with criminal conduct, culpability, prosecution, defenses, and punishment.
+- **Civil Law Alchemy** — organizes legal relationships, rights, duties, disputes, remedies, and obligations among individuals, organizations, and other legal persons in non-criminal matters.
+- **International Law Alchemy** — organizes the legal principles, treaties, customary rules, institutions, and obligations governing relationships among states, international organizations, and other recognized international actors.
+
+#### 2. Public and Administrative Legal Alchemies
+
+- **Administrative Law Alchemy** — organizes the legal authority, procedures, responsibilities, limits, and accountability of administrative agencies and public institutions in implementing and enforcing laws.
+- **Public Policy Alchemy** — organizes the development, analysis, adoption, implementation, evaluation, and revision of public policies designed to address collective needs and societal conditions.
+- **Governance Alchemy** — organizes the principles, structures, authorities, processes, and accountability mechanisms through which institutions and collective systems are directed, supervised, coordinated, and governed.
+- **Regulatory Science Alchemy** — organizes the scientific methods, evidence, technical assessments, and analytical frameworks used to inform the development, evaluation, implementation, and review of regulations and regulatory decisions.
+
+#### 3. Rights, Justice, and Environmental Legal Alchemies
+
+- **Environmental Law Alchemy** — organizes the legal principles, obligations, protections, and enforcement frameworks governing environmental protection, natural resources, ecosystems, pollution, conservation, and sustainable environmental stewardship.
+- **Human Rights Alchemy** — organizes the principles, legal protections, international instruments, institutions, and accountability mechanisms concerning the inherent rights, freedoms, dignity, equality, and protections of human beings.
+
+#### 4. International Governance and Diplomatic Alchemies
+
+- **Diplomacy Alchemy** — organizes the practices, relationships, negotiations, communications, representation, and peaceful dispute-resolution processes through which states and other international actors manage their relationships and pursue shared or distinct interests.
+
+#### 5. Cross-Disciplinary Law and Governance Relationships
+
+These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+
+- **Legal Systems Integration Alchemy** — coordinates legal principles, institutions, procedures, jurisdictions, and enforcement structures into coherent and interoperable legal systems while preserving their distinct authority and scope.
+- **Legal Interpretation Alchemy** — organizes the interpretation, construction, comparison, and application of legal texts, principles, precedents, and other recognized sources of law.
+- **Justice and Due Process Alchemy** — coordinates procedural fairness, impartial adjudication, access to justice, legal protections, remedies, and accountable dispute resolution.
+- **Institutional Accountability Alchemy** — establishes mechanisms through which public authorities, institutions, officials, and governing bodies can be reviewed, challenged, and held accountable for their actions and decisions.
+- **Regulatory Governance Alchemy** — coordinates regulatory authority, scientific evidence, public participation, compliance, oversight, enforcement, and regulatory review.
+- **Rights Protection Alchemy** — coordinates the recognition, protection, exercise, enforcement, and restoration of legal and human rights across institutions and jurisdictions.
+- **International Governance Integration Alchemy** — coordinates international law, diplomacy, treaties, institutions, cooperation, and dispute-resolution structures while preserving state and institutional distinctions.
+
 ---
 
 ## Body Alchemy
