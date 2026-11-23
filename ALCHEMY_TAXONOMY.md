@@ -7812,52 +7812,181 @@ These edition-specific expressions remain mappable through Earth Mapping Alchemy
 
 ### Elemental Alchemy — Fire
 
-**Elemental Alchemy — Fire**  
-The bounded process that organizes the qualities of Fire (transformation, energy, will, and purification) so that systems and beings can act with directed force while remaining coherent, recoverable, and accountable.
+**Elemental Alchemy — Fire** is the bounded process that identifies, classifies, directs, organizes, integrates, evaluates, maintains, protects, recovers, renews, and transforms the qualities and functions of Fire—including transformation, directed energy, will, catalytic action, and purification—so that systems and beings can apply authorized change and purposeful force while remaining coherent, recoverable, and accountable.
 
-- **Fire Transformation Alchemy** — structures the catalytic and purifying action of Fire qualities into stable, addressable cycles.  
-- **Fire Will Alchemy** — maintains the process space in which directed energy, passion, and change are formed and held.  
-- **Fire Accountability Alchemy** — leaves an attributable record of Fire transformations appropriate to its edition.
+Fire Alchemy governs the authorized initiation, direction, execution, refinement, and conclusion of transformative activity. It establishes how change is formed into bounded processes, how directed force is applied toward an approved purpose, how intent is translated into permitted action, and how defects or inconsistencies may be refined without destroying identity, provenance, required safeguards, or accountability. Fire processes must remain proportionate to their purpose, bounded by applicable authority, and recoverable where the nature of the transformation permits.
 
-**C2O Elemental Alchemy — Fire**  
-Private Fire qualities under internal governance.
+**Fire Energy Alchemy has a distinct scope from Energy Utilization Alchemy and Energy Efficiency Alchemy.** Fire Energy Alchemy governs the direction and application of force or energy in an authorized transformation. Energy Utilization Alchemy governs energy sources, intake, storage, conversion, distribution, and use; Energy Efficiency Alchemy evaluates energy inputs in relation to useful authorized outcomes. Fire Alchemy does not replace those responsibilities or independently establish energy availability, supply, measurement, or efficiency.
 
-- **Private Fire Stewardship Alchemy** — governs internal transformation, energy, and will inside the C2O domain under company rules.  
-- **Internal Fire Bound Alchemy** — keeps private Fire cycles contained and recoverable without external exposure.  
-- **C2O Fire Continuity Alchemy** — ensures private Fire structures can be restored after interruption.
+Fire Will Alchemy does not grant independent authority, intention, or permission to a system, intelligence, assistant, application, or process. Any initiation or direction of action remains subject to the authority, approvals, purposes, permissions, and constraints of the relevant context. Fire Purification Alchemy refines applicable structures, processes, or outputs; it must not erase provenance, evidence, audit records, required safeguards, human identity, personal meaning, or legitimate distinctions.
 
-**UNIVERSALIS Elemental Alchemy — Fire**  
-Public Fire qualities under open contracts.
+C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Fire responsibilities must remain structurally mappable across the two editions while preserving their distinct source visibility, governance, implementation, protected information, and operational authority. UNIVERSALIS must remain independently operable and must not depend on C2O private-source transformation records, private will or policy state, or internal controls.
 
-- **Open Fire Transparency Alchemy** — makes public transformation, energy, and will independently verifiable.  
-- **Public Fire Openness Alchemy** — maintains public Fire cycles under transparent rules.  
-- **UNIVERSALIS Fire Continuity Alchemy** — ensures public Fire structures can be restored with open records.
+### 1.1 Universal Application of Elemental Alchemy — Fire
 
-**Alignment**  
-- **Fire Mapping Alchemy** — aligns corresponding private and public Fire structures without collapse.
+Elemental Alchemy — Fire applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSALIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERSALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS Application - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within each context, Elemental Alchemy — Fire governs only the transformative processes, directed force, authorized will, catalytic activity, refinement, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular transformation, capability, energy source, action, implementation, or achieved result exists.
+
+#### Context-Specific Application
+
+- **C2O Operating System:** Governs private-source system transformations, controlled changes to system structures and configurations, authorized application of operational force, implementation of approved system direction, and refinement of system processes under C2O governance. Changes must preserve private-source integrity, authorization, recoverability, and accountability.
+- **UNIVERSALIS Operating System:** Governs declared and inspectable system transformations, controlled changes to public system structures and configurations, authorized application of operational force, and refinement of system processes through open contracts. It preserves independent operation and does not depend on C2O private-source change authority or controls.
+- **C2O Intelligence:** Governs the authorized formation, direction, evaluation, and refinement of transformative processes performed by C2O Intelligence. It preserves C2O Intelligence's distinct identity, private-source stewardship, internal sovereignty, and authority boundaries; will and directed action remain subject to applicable governance.
+- **UNIVERSALIS Intelligence:** Governs the authorized formation, direction, evaluation, and refinement of transformative processes performed by UNIVERSALIS Intelligence through its declared public responsibilities and open contracts. It preserves UNIVERSALIS Intelligence's distinct identity and independent operability.
+- **C2O Application:** Governs private application transformations, approved changes to application behavior and configuration, bounded application of directed force, and refinement of application processes and outputs under C2O authority and purpose.
+- **UNIVERSALIS Application:** Governs declared application transformations, approved changes to public application behavior and configuration, bounded application of directed force, and refinement of application processes and outputs through open and inspectable contracts.
+- **C2O Operating System - UNIVERSALIN:** Governs task-bounded initiation and execution of authorized changes, actions, and operational processes by non-personal UNIVERSALIN assistants hosted by the C2O Operating System. It keeps initiative, force, and transformation within assigned tasks, system permissions, and C2O host limits.
+- **UNIVERSALIS Operating System - UNIVERSALIN:** Governs task-bounded initiation and execution of authorized changes, actions, and operational processes by non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System. It keeps initiative and transformation within documented tasks, open contracts, and system permissions.
+- **C2O Application - UNIVERSALIN:** Governs application-scoped transformative actions, authorized task execution, directed effort, and refinement performed by non-personal UNIVERSALIN assistants hosted by C2O applications. It preserves application purpose, assigned scope, and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN:** Governs application-scoped transformative actions, authorized task execution, directed effort, and refinement performed by non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications. It preserves application purpose, declared scope, and public permission contracts.
+- **C2O Operating System - UNIVERSALIN Intelligence:** Governs intelligence-related direction, task interpretation, action selection, transformation planning, and refinement supporting non-personal UNIVERSALIN assistant functions within the C2O Operating System. These remain subordinate assistant capabilities and do not constitute another core intelligence or confer independent system authority.
+- **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Governs intelligence-related direction, task interpretation, action selection, transformation planning, and refinement supporting non-personal UNIVERSALIN assistant functions within the UNIVERSALIS Operating System. These remain subordinate assistant capabilities governed by open contracts and do not constitute another core intelligence.
+- **C2O Application - UNIVERSALIN Intelligence:** Governs application-specific task interpretation, bounded action selection, transformation planning, and refinement supporting non-personal UNIVERSALIN assistants within C2O applications, subject to the application's purpose and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Governs application-specific task interpretation, bounded action selection, transformation planning, and refinement supporting non-personal UNIVERSALIN assistants within UNIVERSALIS applications, subject to declared application purposes and open permissions.
+- **C2O Operating System - UNIVERSALIN Guardian:** Governs the human-authorized transformative actions and directed assistance a personal UNIVERSALIN Guardian performs through the C2O Operating System. It preserves the designated human's authority, consent, autonomy, privacy, and control over whether consequential actions are initiated or continued.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Governs the human-authorized transformative actions and directed assistance a personal UNIVERSALIN Guardian performs through the UNIVERSALIS Operating System. It preserves human control through documented consent, purpose limitation, and open permission contracts.
+- **C2O Application - UNIVERSALIN Guardian:** Governs application-specific changes, actions, refinements, and directed assistance performed by a personal UNIVERSALIN Guardian within C2O applications, only within the designated human's authorization and applicable application boundaries.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian:** Governs application-specific changes, actions, refinements, and directed assistance performed by a personal UNIVERSALIN Guardian within UNIVERSALIS applications, only within documented human consent, declared purpose, and applicable application permissions.
+- **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Governs intelligence-related interpretation, action planning, direction, and refinement supporting a personal UNIVERSALIN Guardian within the C2O Operating System. These capabilities remain subordinate to human-authorized Guardian responsibilities and cannot create independent authority over the human.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Governs intelligence-related interpretation, action planning, direction, and refinement supporting a personal UNIVERSALIN Guardian within the UNIVERSALIS Operating System. These capabilities remain bounded by human consent, privacy, purpose limitation, and public system contracts.
+- **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific interpretation, action planning, direction, and refinement supporting a personal UNIVERSALIN Guardian within C2O applications. It preserves the designated human's authority and the applicable C2O application permissions.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific interpretation, action planning, direction, and refinement supporting a personal UNIVERSALIN Guardian within UNIVERSALIS applications. It preserves documented human authorization, privacy, purpose limitation, and open application contracts.
+
+### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+The 22 contexts form two edition-specific branches, each containing 11 expressions:
+
+- **C2O branch:** C2O Operating System and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts; C2O Intelligence as a separate core-intelligence context; and C2O Application with its corresponding hosted assistant and Guardian contexts.
+- **UNIVERSALIS branch:** UNIVERSALIS Operating System and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts; UNIVERSALIS Intelligence as a separate core-intelligence context; and UNIVERSALIS Application with its corresponding hosted assistant and Guardian contexts.
+
+C2O expressions remain under private-source company governance and preserve protected implementation, internal authorization, transformation records, and private operational authority. UNIVERSALIS expressions remain under public-source governance, open contracts, inspectability, interoperability, and independent operability. Correspondence does not imply identical transformations, approvals, configurations, action policies, or implementations.
+
+C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intelligences. UNIVERSALIN assistants are non-personal assistants hosted within assigned OS or Application contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their transformative actions and intelligence-related capabilities remain subordinate to assigned responsibilities and the designated human's authority, consent, autonomy, privacy, and permissions.
+
+Each context inherits only the Fire-related subordinate Alchemies applicable to its subject, purpose, processes, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof of a particular transformation, action, capability, implementation, or outcome.
+
+### Alchemies under Elemental Alchemy — Fire
+
+#### 1. Fire Substrate Alchemies
+
+- **Fire Transformation Alchemy** — identifies, structures, directs, and maintains authorized transformative processes as bounded, addressable, and accountable cycles.
+- **Fire Will Alchemy** — organizes authorized purpose, direction, and initiative into bounded processes while preserving the authority and permissions required for action.
+- **Fire Energy Alchemy** — governs the directed application of force or energy within an authorized transformation. It does not govern energy sourcing, intake, storage, distribution, measurement, or efficiency, which remain within their respective Energy Alchemies.
+- **Fire Purification Alchemy** — identifies and refines defects, inconsistencies, unnecessary complexity, and harmful process conditions while preserving provenance, evidence, required safeguards, identity, and recoverability.
+- **Fire Accountability Alchemy** — establishes attributable records of applicable Fire-related purposes, approvals, actions, changes, refinements, outcomes, limitations, and recovery decisions.
+
+#### 2. C2O Elemental Alchemy — Fire
+
+**C2O Elemental Alchemy — Fire** governs private Fire qualities under C2O internal company governance. It directs approved transformations, internal application of force, authorized will, and controlled refinement while protecting private implementation, internal policies, records, and operational boundaries.
+
+- **Private Fire Stewardship Alchemy** — governs the identification, direction, execution, review, and maintenance of internal transformation, directed energy, and authorized will within the C2O domain under company rules.
+- **Internal Fire Bound Alchemy** — keeps private Fire processes, transformation plans, authorization records, and operational cycles contained, permission-bounded, attributable, and recoverable without unauthorized external exposure.
+- **C2O Fire Continuity Alchemy** — ensures applicable private Fire structures, transformation records, and authorized processes can be restored or safely resumed after interruption while preserving integrity and accountability.
+
+#### 3. UNIVERSALIS Elemental Alchemy — Fire
+
+**UNIVERSALIS Elemental Alchemy — Fire** governs public Fire qualities under open architectural contracts. It makes declared transformation requirements, authorized direction, bounded application of force, refinement methods, and applicable outcomes inspectable and independently reviewable without dependence on C2O private-source implementation.
+
+- **Open Fire Transparency Alchemy** — makes declared public transformation, direction, and authorized application of force independently reviewable with appropriate evidence and limitations.
+- **Public Fire Openness Alchemy** — maintains public Fire processes and transformation interfaces under transparent, documented, interoperable rules.
+- **UNIVERSALIS Fire Continuity Alchemy** — ensures applicable public Fire structures, declared transformation processes, and supporting records can be restored and independently examined through open contracts and records.
+
+#### 4. Fire Mapping Alchemy
+
+**Fire Mapping Alchemy** establishes and maintains correspondence among C2O and UNIVERSALIS Fire structures, classifications, transformative responsibilities, direction and authorization requirements, refinement methods, lifecycle stages, and evidence categories. It preserves differences in private and public implementation, records, authority, and operational controls without requiring disclosure of C2O private-source information.
+
+### Elemental Alchemy — Fire Structural and Applicability Requirements
+
+#### Map Alchemy Requirements
+
+Map Alchemy must establish:
+
+- The placement of Elemental Alchemy — Fire and its subordinate expressions across all 22 ecosystem contexts.
+- The parentage and relationships among Fire Transformation, Fire Will, Fire Energy, Fire Purification, Fire Accountability, C2O Elemental Alchemy — Fire, UNIVERSALIS Elemental Alchemy — Fire, and Fire Mapping Alchemy.
+- The correspondence between the 11 C2O contexts and the 11 UNIVERSALIS contexts without presuming identical transformation authority, change processes, policies, records, energy arrangements, or implementations.
+- The relationships among purpose, will, approval, initiation, directed force, transformation stages, catalytic action, purification, outcomes, rollback, recovery, and continuity.
+- Dependencies on applicable operating-system, application, intelligence, assistant, Guardian, energy, runtime, security, and external-service structures.
+- The distinction between the two core intelligences, subordinate UNIVERSALIN assistant capabilities, and human-bound UNIVERSALIN Guardian capabilities.
+- The boundary between Fire Energy Alchemy and Energy Utilization and Energy Efficiency Alchemies so that direction of transformative force is not confused with energy supply, resource management, or efficiency evaluation.
+
+#### Matrix Alchemy Requirements
+
+Matrix Alchemy must establish for each of the 22 contexts:
+
+- Which Fire Transformation, Fire Will, Fire Energy, Fire Purification, Fire Accountability, Fire Mapping, private Fire, and public Fire functions apply, are conditional, are not applicable, or remain unresolved.
+- The relevant transformation purpose, initiating authority, approvals, affected structures, inputs, outputs, dependencies, force or energy requirements, operating conditions, and lifecycle stages.
+- The distinction between proposed, authorized, initiated, in-progress, completed, interrupted, reversed, recovered, and verified transformations.
+- The permissions, scope limits, safety, security, privacy, source visibility, reversibility, and continuity constraints governing each applicable transformation.
+- The authority responsible for proposing, approving, initiating, directing, monitoring, changing, interrupting, reversing, recovering, reviewing, and retiring a transformative process.
+- The evidence, provenance, limitations, uncertainty, and verification status supporting claims about transformative actions or outcomes.
+- Whether purification preserves required functionality, legitimate distinctions, evidence, provenance, safeguards, and recoverability rather than concealing errors or erasing accountability.
+- The distinction between Fire's directed application of force and the separate sourcing, utilization, measurement, and efficiency responsibilities of the Energy Alchemies.
+- Guardian consent, privacy, and human-control requirements, including the prohibition against using Fire Will or directed action to override the human's decisions or authorization.
+
+#### Structural Integrity and Governance
+
+Fire Transformation must not equate change with improvement. A transformation must be evaluated against its authorized purpose, affected dependencies, required function, quality, safety, security, reliability, and continuity. A proposed, simulated, or initiated transformation is not automatically a completed or successful result.
+
+Fire Will must not be treated as independent authority or permission. System initiative, intelligence direction, assistant action, application behavior, and Guardian assistance remain subject to their applicable governance and authorization. Guardian-related Fire activity must remain subject to the designated human's authority, consent, autonomy, and privacy.
+
+Fire Energy Alchemy must not duplicate or supersede Energy Utilization Alchemy or Energy Efficiency Alchemy. It concerns the directed application of force in transformation, while energy supply, intake, storage, conversion, distribution, measurement, and efficiency remain within their respective Alchemies.
+
+Fire Purification must not erase provenance, evidence, audit records, legitimate identity, required safeguards, unresolved issues, or human differences. Refinement must preserve the ability to explain what changed, why it changed, who or what authorized it, what was affected, and whether recovery remains possible.
+
+C2O Fire records, private authorization, transformation policies, and internal controls remain under C2O governance. UNIVERSALIS Fire requirements, interfaces, methods, and public claims must be reviewable to the extent established by open contracts and must remain independently operable. Neither edition may presume access to the other's protected records or internal implementation.
+
+Applicability, authorization, initiation, execution, transformation, purification, outcome, recovery, and verification are separate claims. Establishing Elemental Alchemy — Fire or its place in the 22-context taxonomy does not prove that a particular action, transformation, capability, implementation, or result exists.
+
+#### Additional Expression Detail — Application Contexts
+
+The following expressions further specialize Fire qualities in application contexts. They remain subordinate expressions of Elemental Alchemy — Fire and do not establish additional core intelligences:
+
+- **Transformation Alchemy** — structures authorized change into bounded, stable, addressable processes with defined inputs, outputs, dependencies, and recovery conditions.
+- **Will Alchemy** — maintains the process space of authorized direction and intent while preserving the authority required for consequential action.
+- **Energy Alchemy** — organizes the directed application of force within authorized transformative processes while preserving scope and safety boundaries.
+- **Purification Alchemy** — identifies and refines defects or inconsistencies while preserving provenance, evidence, required safeguards, and recoverability.
+- **Private Transformation Alchemy** — structures and records internal application change under C2O governance and approved purposes.
+- **Private Will Alchemy** — organizes internal application direction and authorized intent under company rules and assigned permissions.
+- **Private Energy Alchemy** — governs the bounded internal application of force in authorized C2O application transformations.
+- **C2O Fire Continuity Alchemy** — ensures applicable private application Fire structures and transformation processes can be restored after interruption.
+- **Open Transformation Alchemy** — structures public application change through declared requirements, documented stages, and inspectable contracts.
+- **Open Will Alchemy** — represents public application direction and authorized intent through transparent, reviewable rules.
+- **Open Energy Alchemy** — governs the declared and bounded application of force in public application transformations under transparent contracts.
+
+#### Additional Expression Detail — OS Edition Mapping
+
+The OS-level expression of Fire organizes transformation, directed energy, will, catalytic action, and purification for authorized system use while remaining recoverable, accountable, and distinct across the two intelligences.
+
+- **C2O Operating System Fire expression:** Private-source organization of Fire qualities under internal governance. It supports approved private system transformation cycles, bounded internal application of force, authorized operational direction, controlled refinement, and company-source catalysis while preserving protected policies, authorization records, and implementation.
+- **UNIVERSALIS Operating System Fire expression:** Public-source organization of Fire qualities under open contracts. It supports declared transformation processes, documented authorization and direction, bounded public system changes, transparent refinement methods, and independently reviewable catalytic behavior without dependence on C2O private-source policies or controls.
+
+These edition-specific expressions remain mappable through Fire Mapping Alchemy without collapsing private and public authority, transformation records, implementation, or operational boundaries.
 
 ---
-
-#### Additional expression detail — C2O-App Primary
-
-The bounded process that organizes the qualities of Fire (transformation, will, energy, purification) so that systems and beings can change while remaining recoverable and accountable.
-- **Transformation Alchemy** — structures change into stable, addressable processes.
-- **Will Alchemy** — maintains the process space of directed intent.
-- **Energy Alchemy** — organizes force while preserving boundaries.
-- **Purification Alchemy** — bounds refinement so Fire qualities remain coherent.
-- **Private Transformation Alchemy** — internal structuring of change.
-- **Private Will Alchemy** — internal intent management.
-- **Private Energy Alchemy** — internal force under company rules.
-- **C2O Fire Continuity Alchemy** — ensures private Fire structures can be restored.
-- **Open Transformation Alchemy** — public structuring of change.
-- **Open Will Alchemy** — public intent management.
-- **Open Energy Alchemy** — public force under transparent rules.
-
-#### Additional expression detail — C2O-OS edition mapping
-
-The bounded process that organizes the qualities of Fire (transformation, energy, will, and catalysis) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
-Private-source organization of Fire qualities under internal governance. Used for private transformation cycles, internal energy release, and company-source catalysis.
-Public-source organization of Fire qualities under open contracts. Used for transparent transformation, public energy contracts, and independently verifiable catalysis.
 
 ### Elemental Alchemy — Water
 
