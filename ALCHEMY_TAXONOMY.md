@@ -3424,42 +3424,232 @@ All applications must remain consistent with developmental principles, human dig
 
 ### 17. Security and Protection Sciences Alchemy
 
-**Security and Protection Sciences Alchemy** is the bounded process that organizes, studies, assesses, establishes, coordinates, and improves the structures, methods, technologies, and practices used to protect people, communities, institutions, information, infrastructure, and interconnected systems from threats, hazards, vulnerabilities, disruptions, and harmful events. It enables individuals and organizations to understand risks, prevent or reduce harm, prepare for emergencies, coordinate protective responses, maintain essential functions, and recover from disruption while preserving human safety, autonomy, privacy, proportionality, resilience, and accountability.
+**Security and Protection Sciences Alchemy** is the bounded process by which the structures, methods, technologies, responsibilities, and practices used to protect people, communities, institutions, information, infrastructure, and interconnected systems are identified, classified, organized, studied, assessed, established, coordinated, maintained, evaluated, and improved.
 
-It encompasses the scientific, analytical, engineering, organizational, operational, and strategic disciplines concerned with security, protection, preparedness, emergency response, risk, and resilience. Every specialized Security and Protection Sciences Alchemy remains an expression of the root Alchemy.
+It governs the scientific, analytical, engineering, organizational, operational, and strategic structures, methods, relationships, and processes through which threats, hazards, vulnerabilities, disruptions, and harmful events are understood, prevented, mitigated, prepared for, addressed, and recovered from. It enables individuals, groups, institutions, and organizations to understand risks, protect essential interests, prepare for emergencies, coordinate authorized protective responses, maintain essential functions, and recover from disruption while preserving human safety, autonomy, privacy, proportionality, resilience, lawful authority, and accountability.
 
-#### 1. Digital and Information Security Alchemies
+Security and Protection Sciences Alchemy encompasses the disciplines concerned with digital and information security, national and institutional security, intelligence analysis, emergency management, disaster response, safety engineering, risk analysis, resilience engineering, and the integration of protective systems. It establishes a structured foundation for identifying and evaluating threats and hazards, understanding vulnerabilities and exposure, establishing protective requirements, coordinating authorized responses, preserving evidence, maintaining continuity, and learning from incidents.
 
-- **Cybersecurity Alchemy** — organizes the assessment and protection of computational systems, networks, devices, applications, information, and digital infrastructure against unauthorized access, compromise, disruption, exploitation, and misuse, including the monitoring, response, and recovery of affected systems.
+It also establishes how security objectives, protective controls, technical safeguards, organizational responsibilities, operational procedures, emergency arrangements, and recovery processes are coordinated while preserving the distinctions between security, safety, risk, threat, hazard, vulnerability, incident, emergency, disaster, continuity, and recovery. These concepts may be related within an integrated protective system without treating their subjects, methods, responsibilities, or outcomes as interchangeable.
 
-#### 2. National and Institutional Security Alchemies
+Security and Protection Sciences Alchemy must preserve the accuracy, provenance, confidentiality, integrity, availability, context, and appropriate handling of security information and evidence. Threat assessments, vulnerability findings, incident records, intelligence products, risk evaluations, protective requirements, control configurations, monitoring records, response actions, forensic material, recovery documentation, and verification results must remain distinguishable wherever relevant. Their sources, authors, collectors, dates, collection methods, affected systems, classification or sensitivity, analytical methods, access permissions, assumptions, uncertainties, limitations, modifications, and applicable retention requirements must be represented accurately.
 
-- **National Security Alchemy** — organizes the assessment, coordination, and protection of a nation's people, institutions, territory, infrastructure, essential services, and constitutional systems against threats and disruptions while respecting lawful authority, civil liberties, and human rights.
-- **Intelligence Analysis Alchemy** — organizes the collection, evaluation, corroboration, interpretation, and synthesis of information from appropriate sources to produce assessed findings, identify uncertainties, understand potential threats, and support accountable decisions.
+It must preserve the distinction between an identified threat, a demonstrated capability, an observed event, an assessed vulnerability, an estimated risk, a confirmed incident, an inferred cause, a proposed response, an implemented protective measure, and a verified outcome. A suspected compromise must not be represented as a confirmed incident without supporting evidence. A security control's presence must not be represented as proof of its effectiveness without appropriate testing and verification. A successful recovery operation must not be represented as proof that every affected asset, service, or information record has been restored.
 
-#### 3. Emergency and Disaster Protection Alchemies
+Security and Protection Sciences Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support operating system protection, application security, information protection, access control, identity and authorization boundaries, secure communication, system integrity, defensive monitoring, threat and risk analysis, incident coordination, continuity planning, safety requirements, and other authorized protective activities relevant to each context.
 
-- **Emergency Management Alchemy** — organizes the planning, preparedness, coordination, mitigation, response, and recovery structures used to manage emergencies and protect people, communities, institutions, and essential services.
-- **Disaster Response Alchemy** — organizes the immediate and coordinated actions taken during and following disasters to protect life, reduce suffering, address urgent needs, stabilize affected environments, and support recovery.
+Its universal application does not mean that every context possesses independent security authority, conducts intelligence collection, monitors individuals, controls emergency services, makes national security decisions, or has permission to intervene in external systems. The presence of security and protection knowledge establishes its classification and possible relevance, not automatic authority to access protected information, monitor another person, investigate an individual, restrict access, operate protective infrastructure, conduct an intervention, or make decisions on behalf of another person or institution.
 
-#### 4. Safety, Risk, and Protective Engineering Alchemies
+Every specialized Security and Protection Sciences Alchemy remains an expression of the root Alchemy. Its subject, purpose, methods, principles, relationships, requirements, and boundaries must remain identifiable while allowing specialized digital, institutional, emergency, disaster, engineering, analytical, and cross-disciplinary protective methods to integrate into larger security and protection systems.
 
-- **Safety Engineering Alchemy** — organizes the identification, analysis, prevention, and control of hazards through engineering principles, safety requirements, protective design, verification, and lifecycle management.
-- **Risk Analysis Alchemy** — organizes the identification, characterization, estimation, comparison, and evaluation of risks, including their likelihood, consequences, uncertainty, exposure, and potential effects on people and systems.
-- **Resilience Engineering Alchemy** — organizes the design, assessment, and improvement of systems so they can anticipate, withstand, adapt to, recover from, and learn from disruptions while preserving essential functions.
+Security and Protection Sciences Alchemy must distinguish protective activity from unauthorized interference, defensive assessment from exploitation, security monitoring from intrusive surveillance, authorized intelligence analysis from unsupported speculation, and safety management from the exercise of coercive authority. Protective measures must be appropriate to their purpose, supported by relevant evidence, proportionate to the risks addressed, and subject to applicable human oversight and governance.
 
-#### 5. Cross-Disciplinary Security and Protection Relationships
+#### 17.1 Universal Application of Security and Protection Sciences Alchemy
 
-These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+Security and Protection Sciences Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-- **Protective Systems Integration Alchemy** — coordinates people, processes, technologies, policies, infrastructure, and resources into coherent protective systems with clearly defined responsibilities and boundaries.
-- **Threat and Hazard Assessment Alchemy** — coordinates the identification, classification, analysis, and evaluation of intentional threats, accidental hazards, natural events, and systemic vulnerabilities.
-- **Security Governance Alchemy** — organizes the authority, policies, oversight, responsibilities, constraints, and accountability mechanisms governing security and protective activities.
-- **Incident Coordination Alchemy** — coordinates communication, responsibilities, resources, decision-making, and information exchange among authorized participants during incidents and disruptions.
-- **Continuity and Recovery Alchemy** — organizes the maintenance, restoration, and verification of essential functions, services, information, and capabilities following disruption.
-- **Human Safety and Protection Alchemy** — coordinates protective measures that prioritize human life, physical safety, dignity, autonomy, privacy, and access to essential support.
-- **Security Evidence and Verification Alchemy** — organizes the collection, preservation, evaluation, and verification of evidence concerning threats, incidents, protective controls, and recovery outcomes.
-- **Adaptive Protection Alchemy** — organizes the improvement of protective systems through feedback, incident learning, changing conditions, revised assessments, and verified lessons.
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within these contexts, Security and Protection Sciences Alchemy governs the appropriate organization, assessment, implementation, coordination, verification, maintenance, and application of security and protective knowledge.
+
+Its context-specific expressions include:
+
+- **Operating System Contexts:** Security and protection knowledge may support operating system security architecture, identity and access management, authorization, isolation, secure configuration, system integrity, defensive monitoring, vulnerability management, protected information handling, incident containment, and recovery capabilities. Its application must preserve the security boundaries, permissions, integrity, availability, and operational requirements of the operating system while maintaining human control and applicable governance. Operating system security functions must not be treated as unrestricted authority to inspect personal information, monitor individuals, modify protected resources, or interfere with systems beyond their authorized scope.
+
+- **Core Intelligence Contexts:** Security and protection knowledge may support security reasoning, threat and hazard assessment, defensive analysis, vulnerability interpretation, risk evaluation, intelligence synthesis, incident understanding, protective planning, and continuity analysis. C2O Intelligence and UNIVERSALIS Intelligence must apply these capabilities within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities. Their assessments must distinguish source information, observed events, verified findings, analytical judgments, inferred possibilities, uncertainty, and recommendations. Intelligence analysis does not independently establish authority to collect restricted information, conduct investigations, monitor individuals, or initiate protective interventions.
+
+- **Application Contexts:** Security and protection knowledge may support application security, secure development, access permissions, data protection, authentication, authorization, integrity verification, defensive logging, vulnerability management, incident reporting, and continuity functions. Applications must preserve the confidentiality, integrity, availability, provenance, and appropriate handling of information and records. Their ability to implement security controls, evaluate risks, or generate alerts does not automatically grant authority to access unrelated information, change another person's permissions, disclose security findings, or operate external systems.
+
+- **UNIVERSALIN Assistant Contexts:** Security and protection knowledge may support authorized security explanations, defensive research, configuration assistance, vulnerability information organization, policy interpretation, incident documentation, risk communication, and other assigned protective functions within operating system and application boundaries. Assistants must distinguish verified security information from allegations, indicators, hypotheses, generated explanations, and unconfirmed findings. They must respect access restrictions, confidentiality, human authorization, and applicable incident-handling requirements. They must not presume authority to access protected systems, investigate individuals, initiate intrusive monitoring, disclose incident information, or perform security actions beyond their assigned permissions.
+
+- **UNIVERSALIN Intelligence Contexts:** Security and protection knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through defensive analysis, threat and hazard classification, source evaluation, risk interpretation, protective knowledge integration, and incident-related reasoning. These contexts do not constitute additional core intelligences or establish independent authority to collect restricted intelligence, conduct surveillance, investigate individuals, make national or institutional security decisions, or act beyond their authorized operating system and application boundaries.
+
+- **UNIVERSALIN Guardian Contexts:** Security and protection knowledge may support the authorized personal, protective, informational, and assistance capabilities of human-bound Guardians. Its application may support personal security awareness, privacy protection, authorized account and device protection, risk understanding, emergency information, continuity planning, and human-directed protective activities. Guardians must preserve the human's autonomy, privacy, consent, safety, and authority over personal security decisions. They must not independently monitor others, disclose personal or sensitive information, make commitments on behalf of the human, or exercise protective authority over other people beyond applicable authorization.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Security and protection knowledge may support contextual risk reasoning, defensive security analysis, protective information organization, incident understanding, and other human-directed capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human's security decisions, personal information, relationships, property, or access rights, nor over the rights and safety of other people. The human retains authority over personal protective choices and authorized Guardian activities.
+
+The specific applicability of each digital, information, national, institutional, emergency, disaster, safety, risk, resilience, and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
+
+#### Alchemies under Security and Protection Sciences Alchemy
+
+##### 1. Digital and Information Security Alchemies
+
+- **Cybersecurity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the assessment and protection of computational systems, networks, devices, applications, information, and digital infrastructure against unauthorized access, compromise, disruption, exploitation, and misuse, including the monitoring, response, and recovery of affected systems. It establishes methods for identifying digital assets, assessing vulnerabilities, evaluating threats, defining security requirements, implementing defensive controls, monitoring authorized environments, coordinating incident response, and verifying recovery while preserving confidentiality, integrity, availability, accountability, and the distinction between authorized defensive testing and unauthorized activity.
+
+##### 2. National and Institutional Security Alchemies
+
+- **National Security Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the assessment, coordination, and protection of a nation's people, institutions, territory, infrastructure, essential services, and constitutional systems against threats and disruptions while respecting lawful authority, civil liberties, and human rights. It establishes methods for understanding national security interests, evaluating strategic risks, coordinating protective responsibilities, maintaining essential functions, and supporting accountable institutional decisions while preserving constitutional boundaries, lawful authority, civilian protections, proportionality, transparency where appropriate, and the distinction between national security analysis and authorized state action.
+
+- **Intelligence Analysis Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the collection, evaluation, corroboration, interpretation, and synthesis of information from appropriate sources to produce assessed findings, identify uncertainties, understand potential threats, and support accountable decisions. It establishes methods for source evaluation, reliability assessment, information corroboration, analytical reasoning, evidence comparison, uncertainty characterization, and the communication of assessed findings while preserving provenance, appropriate access, analytical independence, confidentiality, and the distinction between verified information, reported claims, inference, and judgment. Information collection and use must remain within applicable legal, organizational, consent, and authorization boundaries.
+
+##### 3. Emergency and Disaster Protection Alchemies
+
+- **Emergency Management Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the planning, preparedness, coordination, mitigation, response, and recovery structures used to manage emergencies and protect people, communities, institutions, and essential services. It establishes methods for identifying emergency risks, preparing resources and responsibilities, coordinating authorized participants, maintaining emergency communication, supporting response operations, and evaluating recovery while preserving human safety, accessibility, operational clarity, continuity, and the distinction between preparedness, response, and recovery.
+
+- **Disaster Response Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the immediate and coordinated actions taken during and following disasters to protect life, reduce suffering, address urgent needs, stabilize affected environments, and support recovery. It establishes methods for assessing urgent conditions, coordinating authorized responders, identifying priority needs, managing relevant information, allocating available support within authorized responsibilities, and documenting outcomes while preserving human dignity, equitable access to essential support, responder safety, affected-community participation, and accountability for decisions and resources.
+
+##### 4. Safety, Risk, and Protective Engineering Alchemies
+
+- **Safety Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the identification, analysis, prevention, and control of hazards through engineering principles, safety requirements, protective design, verification, and lifecycle management. It establishes methods for identifying hazardous conditions, evaluating failure modes, defining safety requirements, designing protective measures, validating performance, and reviewing safety throughout a system's lifecycle while preserving human safety, technical integrity, documented assumptions, applicable standards, and the distinction between a designed safeguard and a verified safety outcome.
+
+- **Risk Analysis Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the identification, characterization, estimation, comparison, and evaluation of risks, including their likelihood, consequences, uncertainty, exposure, and potential effects on people and systems. It establishes methods for defining risk contexts, identifying threats and hazards, analyzing vulnerabilities and exposure, evaluating possible consequences, documenting uncertainty, comparing alternatives, and communicating assessments while preserving the distinction between risk estimates, observed outcomes, assumptions, and decisions made by authorized people or institutions.
+
+- **Resilience Engineering Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the design, assessment, and improvement of systems so they can anticipate, withstand, adapt to, recover from, and learn from disruptions while preserving essential functions. It establishes methods for examining system dependencies, identifying critical functions, evaluating failure conditions, developing adaptive capabilities, validating recovery arrangements, and incorporating verified lessons while preserving operational safety, graceful degradation, accountability, and the distinction between planned resilience and demonstrated performance under disruption.
+
+##### 5. Cross-Disciplinary Security and Protection Alchemies
+
+These specialized Alchemies coordinate the preceding digital, information, national, institutional, emergency, disaster, safety, risk, and resilience disciplines without replacing or collapsing their individual identities. Their relationships must preserve distinctions between protective objectives, security controls, risk evaluation, authorized responsibilities, incident coordination, continuity, evidence, human safety, and adaptive improvement.
+
+- **Protective Systems Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between people, processes, technologies, policies, infrastructure, and resources into coherent protective systems with clearly defined responsibilities and boundaries. It establishes methods for identifying protective components, coordinating security and safety requirements, representing dependencies, defining interfaces, and evaluating integrated protective performance while preserving the distinct authority, purpose, access requirements, and responsibilities of each contributing component.
+
+- **Threat and Hazard Assessment Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the identification, classification, analysis, and evaluation of intentional threats, accidental hazards, natural events, and systemic vulnerabilities. It establishes methods for distinguishing threat sources, hazardous conditions, exposure, vulnerabilities, potential consequences, likelihood, uncertainty, and relevant protective requirements while preserving the difference between a possible threat, a demonstrated capability, an observed event, an assessed hazard, and a confirmed incident.
+
+- **Security Governance Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the authority, policies, oversight, responsibilities, constraints, and accountability mechanisms governing security and protective activities. It establishes methods for defining security responsibilities, authorization boundaries, policy requirements, oversight arrangements, decision rights, review processes, and accountability while preserving lawful authority, proportionality, human rights, privacy, separation of responsibilities, and the distinction between policy, approval, execution, and independent verification.
+
+- **Incident Coordination Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the coordination of communication, responsibilities, resources, decision-making, and information exchange among authorized participants during incidents and disruptions. It establishes methods for documenting incident status, coordinating authorized roles, maintaining appropriate communication, tracking decisions and actions, managing relevant evidence, and supporting orderly resolution while preserving information accuracy, confidentiality, chain of custody where applicable, role clarity, and accountability.
+
+- **Continuity and Recovery Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the maintenance, restoration, and verification of essential functions, services, information, and capabilities following disruption. It establishes methods for identifying critical functions and dependencies, defining continuity requirements, planning recovery, restoring services and information, validating recovered capabilities, and documenting residual limitations while preserving data integrity, operational priorities, human safety, recovery accountability, and the distinction between restored availability and verified restoration of integrity.
+
+- **Human Safety and Protection Alchemy** — organizes, examines, maintains, integrates, develops, and transforms protective measures that prioritize human life, physical safety, dignity, autonomy, privacy, and access to essential support. It establishes methods for identifying human safety needs, evaluating exposure and vulnerabilities, coordinating proportionate safeguards, supporting accessible protective arrangements, and evaluating outcomes while preserving individual rights, informed participation, non-discrimination, privacy, and the distinction between protection and unjustified restriction or coercion.
+
+- **Security Evidence and Verification Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the collection, preservation, evaluation, and verification of evidence concerning threats, incidents, protective controls, and recovery outcomes. It establishes methods for documenting sources, preserving records, maintaining relevant chain of custody, evaluating evidence integrity, conducting appropriate verification, recording analytical limitations, and distinguishing findings from assumptions while preserving confidentiality, traceability, admissibility requirements where applicable, and accountability.
+
+- **Adaptive Protection Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the improvement of protective systems through feedback, incident learning, changing conditions, revised assessments, and verified lessons. It establishes methods for identifying emerging risks, evaluating control performance, reviewing incidents, updating protective requirements, testing improvements, and documenting changes while preserving change authorization, evidence-based decisions, version integrity, proportionality, and the distinction between a proposed improvement and a verified enhancement.
+
+### 17.2 Security and Protection Structural and Applicability Requirements
+
+Every subordinate Alchemy under Security and Protection Sciences Alchemy must retain its own defined subject, purpose, methods, principles, protective requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+Security and Protection Sciences Alchemy must preserve the distinctions between its constituent disciplines and their respective subjects, methods, protective foundations, risk responsibilities, operational functions, and governance requirements. Relationships between cybersecurity, national security, intelligence analysis, emergency management, disaster response, safety engineering, risk analysis, resilience engineering, and the cross-disciplinary Alchemies must be established without collapsing their distinct subjects or treating their methods as interchangeable.
+
+It must also preserve the distinctions between:
+
+- Security, safety, protection, risk, threat, hazard, vulnerability, exposure, disruption, incident, emergency, disaster, continuity, recovery, and resilience.
+- Intentional threats, accidental hazards, natural events, technical failures, human errors, malicious activity, and systemic vulnerabilities.
+- Asset identification, threat identification, vulnerability assessment, exposure analysis, consequence evaluation, risk estimation, and risk acceptance by an authorized decision-maker.
+- Digital and information security, physical safety, institutional security, national security, emergency management, and disaster response.
+- Confidentiality, integrity, availability, authenticity, authorization, accountability, privacy, and other applicable protection objectives.
+- Cybersecurity architecture, security configuration, defensive monitoring, vulnerability assessment, authorized testing, incident response, and recovery.
+- Defensive security activities, authorized security testing, security research, unauthorized access, exploitation, interference, and other activity outside permitted boundaries.
+- National security interests, institutional responsibilities, lawful governmental authority, constitutional systems, civil liberties, human rights, and accountable oversight.
+- Information collection, source evaluation, corroboration, intelligence analysis, inference, analytical judgment, and decisions made by authorized people or institutions.
+- Intelligence analysis, verified facts, reported claims, assessed judgments, hypotheses, uncertainty, and unsupported speculation.
+- Emergency preparedness, emergency mitigation, response coordination, immediate protective action, disaster stabilization, recovery, and long-term continuity.
+- Safety requirements, hazard identification, failure analysis, protective engineering, safety validation, and demonstrated operational safety.
+- Risk likelihood, consequences, exposure, vulnerability, uncertainty, risk tolerance, risk acceptance, and the authority to make risk-related decisions.
+- Resilience planning, system dependencies, essential functions, graceful degradation, adaptive response, service restoration, and demonstrated recovery.
+- Protective control design, control implementation, control operation, control testing, control effectiveness, and independent verification.
+- Incident indicators, suspected events, confirmed incidents, incident findings, causal analysis, response actions, and post-incident conclusions.
+- Incident coordination, command responsibilities, communication roles, decision authority, resource coordination, and accountability.
+- Evidence collection, source preservation, chain of custody, evidence integrity, analytical interpretation, verification, and documented conclusions.
+- Continuity planning, backup, restoration, service availability, data recovery, data integrity, validation, and confirmation of complete recovery.
+- Human protection, personal autonomy, privacy, consent, freedom of movement, dignity, proportionality, and the limits of protective intervention.
+- Security monitoring, legitimate operational logging, privacy-respecting oversight, intrusive surveillance, and unauthorized observation of individuals.
+- Security policy, governance requirements, authorization, operational execution, oversight, independent review, and owner acceptance.
+- Shared security foundations, context-specific implementations, C2O private-source governance boundaries, and UNIVERSALIS public-source governance and independent operability.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Security and Protection Sciences Alchemy and each subordinate digital, information, national, institutional, emergency, disaster, safety, risk, resilience, and cross-disciplinary Alchemy.
+- The parent–subordinate relationships between Security and Protection Sciences Alchemy, its five specialized groups, and their respective Alchemies.
+- The relationships between security and protection disciplines and relevant computer and information sciences, engineering and technology, law, governance, business, social sciences, physical sciences, environmental sciences, health sciences, and other knowledge-domain structures.
+- The connections between security and protection knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, assets, controls, information relationships, operational relationships, and connections between security disciplines and other Alchemies.
+- The distinctions between digital and information security, national and institutional security, emergency and disaster protection, safety and protective engineering, and cross-disciplinary security methods.
+- The relationships between assets, systems, people, information, infrastructure, threats, hazards, vulnerabilities, exposure, protective controls, and potential consequences.
+- The relationships between cybersecurity requirements, system architecture, application design, identity and access management, information protection, defensive monitoring, incident response, and continuity arrangements.
+- The relationships between intelligence sources, collection methods, source reliability, corroboration, analysis, assessed findings, uncertainty, and authorized decision-making.
+- The relationships between national and institutional security interests, constitutional and legal requirements, essential services, infrastructure, governance, civil liberties, and human rights.
+- The relationships between emergency preparedness, emergency management, disaster response, response coordination, essential services, affected communities, and recovery.
+- The relationships between safety engineering, hazard analysis, failure conditions, protective design, verification, lifecycle management, and human safety.
+- The relationships between risk analysis, threat and hazard assessment, exposure, vulnerability, consequence, risk tolerance, and protective decisions.
+- The relationships between resilience engineering, critical functions, system dependencies, protective controls, disruption response, continuity, and recovery.
+- The relationships between Protective Systems Integration Alchemy, Threat and Hazard Assessment Alchemy, Security Governance Alchemy, Incident Coordination Alchemy, Continuity and Recovery Alchemy, Human Safety and Protection Alchemy, Security Evidence and Verification Alchemy, and Adaptive Protection Alchemy.
+- The relationships between security controls, governance requirements, authorization boundaries, operational responsibilities, oversight arrangements, and verification evidence.
+- The relationships between incidents, incident records, evidence sources, response actions, recovery activities, verification results, and lessons incorporated into protective improvements.
+- The relationships between shared security and protection foundations and context-specific implementations while preserving the distinct private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each digital, information, national, institutional, emergency, disaster, safety, risk, resilience, and subordinate Alchemy.
+- The specific protective, analytical, technical, organizational, operational, emergency, risk-management, continuity, and recovery functions associated with each applicable context.
+- The security knowledge, protective objectives, assets, controls, policies, permissions, information sources, operational procedures, technical capabilities, contextual requirements, and dependencies required for those functions.
+- Whether an application involves cybersecurity, national security, intelligence analysis, emergency management, disaster response, safety engineering, risk analysis, resilience engineering, protective systems integration, threat and hazard assessment, security governance, incident coordination, continuity and recovery, human safety and protection, security evidence and verification, or adaptive protection.
+- Whether a security or protection function concerns digital systems, information, devices, applications, networks, institutions, essential services, physical infrastructure, people, communities, natural hazards, or interconnected systems.
+- Whether an application involves prevention, protection, identification, assessment, monitoring, preparedness, authorized testing, incident detection, response coordination, containment, stabilization, continuity, recovery, evidence preservation, verification, or improvement.
+- The actual capabilities, supported interfaces, protected assets, security controls, monitoring systems, information sources, incident procedures, safety requirements, infrastructure, and dependencies required to implement or operate a protective function.
+- The specific systems, assets, people, environments, information, services, processes, and organizational boundaries within the scope of each security assessment or protective activity.
+- The provenance, source, collector, author, date, collection method, affected asset, event context, information sensitivity, analytical method, confidence, uncertainty, modifications, retention requirements, and applicable permissions associated with security information and evidence.
+- The distinctions between observed events, reported threats, threat indicators, assessed vulnerabilities, risk estimates, suspected incidents, confirmed incidents, analytical conclusions, and verified recovery outcomes.
+- The relationships between security requirements, identified risks, selected controls, implementation evidence, testing results, control limitations, and residual risks.
+- The relationships between security architecture, identity and access management, authentication, authorization, isolation, data protection, system integrity, defensive monitoring, and incident response within each applicable context.
+- The responsibilities, approval requirements, separation of duties, oversight arrangements, escalation boundaries, and decision authority applicable to security operations, investigations, intelligence analysis, and protective interventions.
+- The conditions under which a security function may access, collect, monitor, process, disclose, or retain information and the applicable purpose limitations, consent, privacy protections, confidentiality requirements, and authorization boundaries.
+- The conditions under which defensive testing, vulnerability assessment, security research, incident investigation, or forensic examination must be authorized, scoped, documented, and restricted to permitted systems, assets, and information.
+- The conditions under which intelligence analysis requires source corroboration, reliability assessment, alternative explanations, uncertainty statements, analytical review, or independent validation.
+- The requirements for distinguishing security alerts, automated classifications, suspected threats, confirmed findings, and human-approved incident determinations.
+- The conditions under which emergency or disaster functions require human coordination, accessible communication, authorized response roles, responder safety, resource accountability, and participation by affected communities.
+- The conditions under which protective engineering requires hazard analysis, engineering validation, applicable safety review, lifecycle testing, or documented acceptance of residual risk by an authorized party.
+- The requirements for evaluating control effectiveness, identifying control gaps, documenting false positives and false negatives, assessing residual risk, and verifying corrective actions.
+- The conditions under which essential functions, information, services, and infrastructure must be maintained, degraded safely, restored, validated, or recovered following disruption.
+- The permissions, ownership, access rights, consent, privacy protections, confidentiality requirements, evidence-handling responsibilities, retention limits, and governance boundaries applicable to protected information, assets, systems, and incident records.
+- The requirements for maintaining evidence integrity, source traceability, appropriate chain of custody, controlled access, documented handling, reproducibility where applicable, and independent verification.
+- The conditions under which human review, accountable owner approval, institutional authorization, legal review, safety review, or other oversight is required before protective actions are implemented or consequences are imposed.
+- The applicable safeguards against unauthorized access, intrusive surveillance, unjustified restriction, retaliatory monitoring, misuse of security information, fabricated findings, unsupported threat attribution, and disproportionate protective measures.
+- The specific responsibilities and limitations associated with security and protection functions performed by C2O Intelligence, UNIVERSALIS Intelligence, UNIVERSALIN assistants, and personal Guardians.
+
+Security and Protection Sciences Alchemy must not presume that the presence of a security discipline in the universal taxonomy grants every context unrestricted access to protected systems, personal information, private communications, security logs, credentials, incident records, infrastructure, intelligence sources, emergency services, or external security platforms.
+
+The inclusion of security and protection knowledge within an ecosystem context establishes its place in the knowledge structure, not an automatic implementation, security capability, permission to monitor people, authority to investigate individuals, authorization to access or modify protected systems, or right to impose restrictions or protective interventions.
+
+Security information and evidence must be handled according to their source, nature, sensitivity, purpose, affected assets, collection conditions, and applicable permissions. Credentials, personal information, private communications, security logs, incident details, intelligence sources, vulnerability information, and other sensitive material must remain subject to applicable privacy, confidentiality, security, access, retention, disclosure, and governance requirements.
+
+Threat assessments, vulnerability findings, risk estimates, intelligence judgments, security alerts, incident reports, response actions, and verified findings must remain distinguishable. An automated alert or analytical estimate must not be represented as a confirmed incident or proven attribution without supporting evidence. Security conclusions must identify relevant uncertainty, source limitations, alternative explanations, and the scope of available evidence.
+
+The ability to identify a vulnerability, analyze a threat, or evaluate a security weakness does not itself establish authorization to exploit, access, test, modify, disrupt, or interfere with the affected system. Cybersecurity and information security functions must remain within authorized defensive, research, testing, and operational boundaries. Security knowledge must not be treated as unrestricted permission to conduct offensive activity, compromise systems, obtain credentials, or interfere with another person's information or services.
+
+Intelligence analysis must preserve the distinction between appropriate information collection, source reliability, corroborated evidence, analytical inference, assessed judgment, and authorized decisions. It must not turn unverified claims into established facts, presume guilt or threat status from association or identity, or justify intrusive collection or monitoring without applicable authority and safeguards.
+
+National and institutional security activities must remain subject to applicable law, constitutional requirements, civil liberties, human rights, oversight, proportionality, and defined authority. Security objectives do not automatically override individual rights, lawful process, institutional accountability, or the rights and interests of affected communities.
+
+Emergency management and disaster response must prioritize human life, safety, dignity, accessibility, and essential needs. Coordination and resource allocation must remain within assigned responsibilities and applicable authority. Protective measures must not unnecessarily exclude, discriminate against, or impose disproportionate burdens on affected individuals or communities.
+
+Risk analysis and safety engineering must preserve the distinction between identified hazards, estimated risk, accepted residual risk, implemented controls, and demonstrated safety. A protective measure must not be treated as effective solely because it has been designed, documented, or deployed. Its performance must be evaluated within appropriate conditions and limitations.
+
+Security monitoring must remain proportionate to its defined protective purpose and subject to appropriate authorization, access controls, oversight, and privacy safeguards. The presence of monitoring technology does not establish permission to observe private activity, collect unrelated personal information, track individuals, or disclose sensitive records. Protective monitoring must not be used as a pretext for unauthorized surveillance, coercion, or the removal of human autonomy.
+
+Incident handling must preserve the distinction between detection, triage, investigation, response, containment, eradication where applicable, restoration, and post-incident review. Incident records must remain accurate, appropriately restricted, and traceable. Evidence must not be altered, fabricated, selectively represented, or disclosed beyond authorized purposes.
+
+Continuity and recovery must preserve the integrity of essential functions, services, systems, and information. Restoration claims must identify what was recovered, what remains affected, what was independently verified, and what residual limitations remain. A recovered service must not be presumed secure or trustworthy until relevant integrity and operational requirements have been evaluated.
+
+Protective governance must distinguish policy authority, system ownership, operational responsibility, approval, execution, oversight, and independent verification. The existence of a security control or policy must not be treated as proof of effective enforcement or appropriate governance. Changes to protective systems and security responsibilities must remain traceable, authorized, and subject to applicable review.
+
+Adaptive protection must use documented evidence, incident learning, changing conditions, and verified findings to improve protective systems without concealing previous failures, erasing incident history, or treating proposed improvements as proven outcomes. Changes must preserve relevant version history, accountability, and the ability to evaluate their effects.
+
+Applications involving personal safety, private information, identity, family relationships, community interests, or protective decisions must preserve applicable consent, privacy, confidentiality, dignity, autonomy, and control. Guardian assistance must remain subject to the authority and permissions of the human they serve. Neither security knowledge nor protective capabilities grant a system, intelligence, assistant, or Guardian independent authority over another person's identity, communications, property, rights, movement, or security decisions.
+
+All applications must remain consistent with security and safety principles, authorized defensive boundaries, lawful authority, human rights, proportionality, privacy and confidentiality protections, evidence integrity, risk and uncertainty requirements, operational responsibilities, and governance boundaries relevant to their respective contexts.
 
 ### 18. Transportation and Infrastructure Alchemy
 
