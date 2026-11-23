@@ -2299,7 +2299,11 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 | Meta-Knowledge Sciences source definition | Recorded as supplied: Knowledge about knowledge itself. |
 | Meta-Knowledge Sciences hierarchy | Recorded — 13 positions: 12 new Alchemies and 1 shared existing Knowledge Management Alchemy |
 | Meta-Knowledge Sciences matrix | Recorded — 286 positions: 264 new mappings and 22 references to existing Knowledge Management mappings |
-| Cross-domain mapping — Pass 1 | Started — 8 confirmed shared-identity links recorded across 20 top-level subjects; related-but-distinct review queue established |\n| Cross-domain 20 × 20 matrix | Recorded — 190 unique off-diagonal pairs: 8 SH confirmed and 182 UA unassessed |\n| Related-but-distinct candidate relationships | 11 candidate records/sets preserved for subsequent assessment; not yet encoded as confirmed matrix relationships |\n| Subject-Alchemy-level relationship map | Pending — 264 unique subject nodes require finer-grained relationship assessment |\n| Cumulative unique subject Alchemy register | 264 distinct subject Alchemies |
+| Cross-domain mapping — Pass 1 | Started — 8 confirmed shared-identity links recorded across 20 top-level subjects; related-but-distinct review queue established |
+| Cross-domain 20 × 20 matrix | Recorded — 190 unique off-diagonal pairs: 8 SH confirmed and 182 UA unassessed |
+| Related-but-distinct candidate relationships | 11 candidate records/sets preserved for subsequent assessment; not yet encoded as confirmed matrix relationships |
+| Subject-Alchemy-level relationship map | Pending — 264 unique subject nodes require finer-grained relationship assessment |
+| Cumulative unique subject Alchemy register | 264 distinct subject Alchemies |
 | Cumulative unique mapped intersections | 264 × 22 = 5808 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
