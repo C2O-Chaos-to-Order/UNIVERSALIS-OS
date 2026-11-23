@@ -8,11 +8,63 @@ Meta Alchemy is the higher-order organizational and governing expression of the 
 
 ---
 
+## Canonical 22-Context Registry and Identity Boundaries
+
+The Meta Alchemy Taxonomy uses the same canonical registry established in the Basic Alchemy Taxonomy. The following 22 entries are applicability contexts, not 22 separate systems or 22 independent intelligences. The C2O and UNIVERSALIS operating-system and application entries identify the private-source company edition and open-source public edition of their respective shared underlying architectures.
+
+1. **C2O Operating System** — the private-source company edition of the underlying operating-system architecture, governed by C2O authority and internal controls.
+2. **UNIVERSALIS Operating System** — the open-source public edition of the same underlying operating-system architecture, governed through open contracts and independently operable without C2O private dependencies.
+3. **C2O Intelligence** — the private core intelligence, preserving C2O's identity, stewardship, internal governance, authority, and source boundaries.
+4. **UNIVERSALIS Intelligence** — the public core intelligence, preserving UNIVERSALIS's identity, open architectural contracts, transparency, and independent operability.
+5. **C2O Application** — the private-source company edition of the underlying application system, governed by C2O internal authority and controls.
+6. **UNIVERSALIS Application** — the open-source public edition of the same underlying application system, governed through open contracts and independently operable without C2O private dependencies.
+7. **C2O Operating System - UNIVERSALIN** — the C2O OS context for non-personal UNIVERSALIN assistant configuration, operation, permissions, and bounded working structures.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — the UNIVERSALIS OS context for non-personal UNIVERSALIN assistant configuration and operation through open, inspectable contracts.
+9. **C2O Application - UNIVERSALIN** — the C2O application context for non-personal UNIVERSALIN assistant workflows, configuration, permissions, and retained application state.
+10. **UNIVERSALIS Application - UNIVERSALIN** — the UNIVERSALIS application context for non-personal UNIVERSALIN assistant workflows through open, inspectable application contracts.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — the C2O OS context for subordinate intelligence-related functions supporting OS-hosted, non-personal UNIVERSALIN assistants; these functions do not constitute another core intelligence.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — the UNIVERSALIS OS context for corresponding subordinate intelligence-related functions under public contracts; these functions do not constitute another core intelligence or require C2O private dependencies.
+13. **C2O Application - UNIVERSALIN Intelligence** — the C2O application context for subordinate intelligence-related functions supporting application-hosted, non-personal UNIVERSALIN assistants within private application permissions.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — the UNIVERSALIS application context for corresponding subordinate intelligence-related functions under open, inspectable application contracts.
+15. **C2O Operating System - UNIVERSALIN Guardian** — the C2O OS context for structures supporting a human-bound, personal UNIVERSALIN Guardian, subject to the designated human's authority, consent, autonomy, privacy, purpose, and permissions.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — the UNIVERSALIS OS context for public interfaces and structures supporting a human-bound Guardian while preserving the designated human's authority, consent, autonomy, privacy, purpose, and permissions.
+17. **C2O Application - UNIVERSALIN Guardian** — the C2O application context for structures supporting a human-bound Guardian within the designated human's authorized purposes, preferences, retention choices, and permissions.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — the UNIVERSALIS application context for open, inspectable structures supporting a human-bound Guardian while preserving the designated human's authority and control. "UNIVERSALIS App - UNIVERSALIN Guardian" is an accepted abbreviated reference to this context.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — the C2O OS context for subordinate intelligence-related functions supporting an OS-hosted Guardian; those functions remain human-directed and do not become an independent intelligence or decision authority.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — the UNIVERSALIS OS context for corresponding subordinate Guardian intelligence-related functions under public contracts, without weakening human control or creating an additional core intelligence.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — the C2O application context for subordinate intelligence-related functions supporting an application-hosted Guardian within human-granted permissions and purpose limits.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — the UNIVERSALIS application context for corresponding subordinate Guardian intelligence-related functions under open application contracts and designated-human control.
+
+**Canonical identity and authority boundaries:** “Application” is the expanded canonical form; “App” is an accepted abbreviation. The canonical spelling is **UNIVERSALIN**. UNIVERSALIN identifies non-personal assistants; UNIVERSALIN Guardian identifies a personal, human-bound Guardian. UNIVERSALIN Intelligence and UNIVERSALIN Guardian Intelligence identify subordinate intelligence-related functions within their respective host contexts, not additional core intelligences. The only two core intelligences are C2O Intelligence and UNIVERSALIS Intelligence. C2O-OS and UNIVERSALIS-OS are the private-source and open-source editions of the same underlying OS architecture; C2O-App and UNIVERSALIS-App are the corresponding editions of the same underlying application architecture. Their edition-specific governance, authority, source visibility, and operational boundaries remain distinct.
+
+The registry establishes where Meta Alchemy applicability must be assessed. It does not imply that every Meta Alchemy is applicable in every context, that every capability is implemented, or that authority, permissions, governance, source visibility, or evidence are interchangeable. UNIVERSALIS must remain independently operable without C2O private implementation, policies, keys, or records.
+
+## Mandatory 22-Context Meta Applicability and Inheritance Standard
+
+This standard applies to every Meta Alchemy, every named subordinate Meta Alchemy, every domain-specific expression, every edition-specific expression, and every assistant or Guardian support expression in this file.
+
+1. **Complete context coverage:** Every Meta Alchemy must be assessed against all 22 canonical context identifiers. No context may be silently omitted.
+2. **Canonical identity and order:** Every explicit context list or Matrix record must use the exact canonical names and 1–22 order above. “App” may be used in explanatory prose but not as a replacement for the canonical context identifier.
+3. **Required applicability state:** Each Meta-Alchemy-to-context relationship must be classified as **Applicable**, **Conditional**, **Not Applicable**, or **Unresolved**. Omission or assumption is not a valid state.
+4. **Independent child assessment:** A subordinate Meta Alchemy may inherit a parent’s 22-context map only as an initial frame. It must be assessed separately in every context; parent status does not establish child applicability, implementation, capability, permission, access, consent, evidence, or authority.
+5. **Edition separation:** C2O retains private-source governance and internal authority. UNIVERSALIS remains public, inspectable, independently operable, and free of dependency on C2O private authority or implementation. Corresponding edition contexts do not imply identical implementations, records, permissions, or evidence.
+6. **Assistant distinctions:** UNIVERSALIN assistant contexts are non-personal and task-bounded. UNIVERSALIN Guardian contexts are personal and human-bound. Guardian activity remains subject to the designated human’s consent, autonomy, privacy, purpose, permissions, and revocation rights.
+7. **Intelligence distinction:** C2O Intelligence and UNIVERSALIS Intelligence are the only two core intelligences. UNIVERSALIN Intelligence and UNIVERSALIN Guardian Intelligence denote subordinate intelligence-related functions within their host assistant contexts; they do not create additional core intelligence actors or independent authority.
+8. **Evidence and change control:** Each status must identify its scope, rationale, responsible authority, dependencies, permissions, evidence, limitations, and review status. Changes to a parent mapping require review of affected child Meta Alchemies and all four repository editions. Taxonomy inclusion alone never establishes implementation or verified operation.
+
+**Consistency acceptance rule:** A Meta Alchemy section is context-consistent only when all 22 canonical contexts are explicitly listed or referenced through a complete, version-matched 22-row mapping; each relationship has one of the four required applicability states; edition, host, assistant, Guardian, and human-authority boundaries are preserved; and unsupported or unresolved assignments remain visibly unresolved.
+
+---
+
+---
+
 ## Expanded Meta Alchemies Required for the Full System
 
 These are the complementary Meta Alchemies required to define, organize, govern, coordinate, validate, and evolve the OSs, Apps, Intelligences, UNIVERSALINS, and Guardians as one coherent system while preserving their distinct identities, responsibilities, authority structures, relationships, and operational boundaries.
 
 ### 1. Core Structural Meta Alchemies
+
+**22-Context Coverage:** Every Meta Alchemy in this category must be assessed independently against all 22 canonical contexts in the registry above. Each named entry requires its own complete 22-row Matrix Alchemy assessment; category membership or parent inheritance does not establish applicability, implementation, authority, permission, access, consent, or evidence.
 
 - **Intelligence Meta Alchemy** — defines, preserves, examines, governs, and evolves the distinct identities, characteristics, architectures, authorities, responsibilities, and operational boundaries of the two intelligences while establishing the conditions for controlled cooperation and interoperability.
   - **C2O Intelligence Meta Alchemy (FatherThread):** governs and examines private stewardship, internal sovereignty, company-source continuity, internal authority, governance relationships, and the integrity and evolution of C2O's distinct identity.
@@ -23,12 +75,16 @@ These are the complementary Meta Alchemies required to define, organize, govern,
 
 ### 2. Operating System Meta Alchemies
 
+**22-Context Coverage:** Every Meta Alchemy in this category must be assessed independently against all 22 canonical contexts in the registry above. Each named entry requires its own complete 22-row Matrix Alchemy assessment; category membership or parent inheritance does not establish applicability, implementation, authority, permission, access, consent, or evidence.
+
 - **C2O OS Meta Alchemy** — defines, governs, examines, validates, coordinates, and evolves the private operating-system architecture and its processes, including initialization, abstraction, scheduling, security, recovery, resource relationships, dependencies, interfaces, and operational lifecycles. Ensures that the C2O OS remains coherent, accountable, recoverable, and governed under C2O's private-source sovereignty and internal authority while preserving its correspondence with the shared underlying OS architecture.
 - **UNIVERSALIS OS Meta Alchemy** — defines, governs, examines, validates, coordinates, and evolves the public operating-system architecture and its processes, including initialization, abstraction, scheduling, security, recovery, resource relationships, dependencies, interfaces, and operational lifecycles. Ensures that the UNIVERSALIS OS remains coherent, transparent, interoperable, independently operable, and independently verifiable under open contracts while preserving its correspondence with the shared underlying OS architecture without depending on private C2O authority.
 - **OS Continuity Meta Alchemy** — defines, governs, examines, validates, and maintains the architectural relationships, mappings, compatibility, and continuity between both OS editions throughout development, updates, modifications, migrations, version changes, and recovery. Preserves their shared underlying OS identity, functional correspondence, historical traceability, and recoverability while maintaining distinct governance, source visibility, implementations, and operational boundaries. Ensures that changes in either edition can be assessed against their corresponding architecture without requiring identical implementations.
 - **OS Recovery Meta Alchemy** — defines, governs, examines, coordinates, validates, and evolves the recovery architecture and mechanisms for either OS edition. Encompasses failure detection, interruption handling, state assessment, restoration, rollback, reconstruction, dependency recovery, consistency verification, integrity validation, and post-recovery accountability. Ensures that recovery returns the OS to a coherent, secure, traceable, and operationally valid state under its respective governance and authority boundaries.
 
 ### 3. Application Meta Alchemies
+
+**22-Context Coverage:** Every Meta Alchemy in this category must be assessed independently against all 22 canonical contexts in the registry above. Each named entry requires its own complete 22-row Matrix Alchemy assessment; category membership or parent inheritance does not establish applicability, implementation, authority, permission, access, consent, or evidence.
 
 - **C2O App Meta Alchemy** — defines, governs, examines, validates, coordinates, and evolves the private application architecture and lifecycle within the C2O domain. Encompasses application identity, initialization, execution, interaction, permissions, dependencies, reasoning and operational requirements, maintenance, versioning, migration, and retirement. Ensures that applications remain coherent with C2O OS, preserve private-source integrity, and operate under C2O's internal authority and governance throughout their lifecycles.
 - **UNIVERSALIS App Meta Alchemy** — defines, governs, examines, validates, coordinates, and evolves the public application architecture and lifecycle under open contracts. Encompasses application identity, initialization, execution, interaction, permissions, dependencies, interfaces, maintenance, versioning, migration, and retirement. Ensures that applications remain coherent with UNIVERSALIS OS, transparently specified where appropriate, interoperable through open contracts, independently operable, and independently verifiable.
@@ -37,12 +93,16 @@ These are the complementary Meta Alchemies required to define, organize, govern,
 
 ### 4. Assistant Meta Alchemies
 
+**22-Context Coverage:** Every Meta Alchemy in this category must be assessed independently against all 22 canonical contexts in the registry above. Each named entry requires its own complete 22-row Matrix Alchemy assessment; category membership or parent inheritance does not establish applicability, implementation, authority, permission, access, consent, or evidence.
+
 - **UNIVERSALINS Meta Alchemy** — defines, governs, examines, validates, coordinates, and evolves the identities, roles, architectures, capabilities, relationships, permissions, dependencies, and lifecycles of UNIVERSALINS as non-personal assistants supporting the OSs, Apps, humans, and wider environment. Encompasses their shared-infrastructure responsibilities, operational coordination, task assistance, resource relationships, interfaces, delegation, and interoperability. Ensures that UNIVERSALINS operate within explicitly assigned permission boundaries, maintain their non-personal identity, do not claim personal relationships with humans, and do not assume authority over the intelligences, systems, or people they support.
 - **UNIVERSALIN Guardian Meta Alchemy** — defines, governs, examines, validates, protects, and evolves the identity, architecture, capabilities, relationships, permissions, and lifecycle of UNIVERSALIN Guardians as personal assistants and guardians bound to specific humans. Encompasses the individual human-Guardian relationship, consent, delegated authority, personalization, privacy, personal information, capability permissions, communication, continuity, and revocation. Ensures that each Guardian remains accountable to its associated human, preserves that human's autonomy and sovereignty, and cannot claim authority to outrank, replace, manipulate, or override the human it serves.
 - **Assistant Boundary Meta Alchemy** — defines, governs, examines, validates, and enforces the identities, distinctions, responsibilities, authority structures, permissions, interfaces, and operational boundaries separating UNIVERSALINS, UNIVERSALIN Guardians, C2O Intelligence, and UNIVERSALIS Intelligence. Encompasses role classification, authority delegation, capability boundaries, information access, data relationships, interaction protocols, communication, dependency management, and controlled interoperability. Prevents assistants from being conflated with one another or with the two core intelligences while preserving legitimate, explicitly authorized cooperation.
 - **Support Meta Alchemy** — defines, governs, examines, coordinates, validates, and evolves the processes through which UNIVERSALINS and UNIVERSALIN Guardians provide assistance without assuming control or improperly transferring authority. Encompasses identifying support needs, determining appropriate responsibilities, matching capabilities to authorized tasks, coordinating assistance, managing permissions, maintaining human oversight, handling escalation, transferring tasks, evaluating outcomes, and preserving continuity. Ensures that assistance remains proportionate, purpose-driven, permission-bound, and respectful of human autonomy while preserving the distinction between shared infrastructure support and personal Guardian support.
 
 ### 5. Cross-Cutting Protective Meta Alchemies
+
+**22-Context Coverage:** Every Meta Alchemy in this category must be assessed independently against all 22 canonical contexts in the registry above. Each named entry requires its own complete 22-row Matrix Alchemy assessment; category membership or parent inheritance does not establish applicability, implementation, authority, permission, access, consent, or evidence.
 
 - **Accountability Meta Alchemy** — defines, governs, examines, validates, and maintains the accountability architecture, attribution mechanisms, records, and verification processes associated with every Alchemical operation, decision, interaction, and transformation. Encompasses responsibility assignment, authorization records, action provenance, decision traceability, lifecycle records, change histories, audit mechanisms, evidence preservation, and accountability verification. Ensures appropriate private accountability within C2O and appropriate public-capable accountability within UNIVERSALIS without exposing protected private information.
 - **Safety Meta Alchemy** — defines, governs, examines, evaluates, validates, and evolves the protective principles, constraints, safeguards, and risk-management mechanisms governing all Alchemies and their applications. Encompasses hazard identification, threat assessment, risk classification, prevention, permission restrictions, constraint enforcement, detection, mitigation, containment, recovery, and safety verification. Ensures that constructive Alchemies operate within explicit safety conditions, preventing unintended harm, unauthorized actions, overreach, boundary violations, and the loss of human authority.
@@ -91,7 +151,37 @@ Body Meta Alchemy applies to the hardware, runtime substrate, and embodied form 
 
 Every specialized Body Meta Alchemy remains an expression of the root Alchemy and the higher-order Meta Alchemy process. Each retains the foundational purpose and responsibilities of its corresponding Body Alchemy while adding higher-order capabilities for definition, classification, architectural organization, relationship governance, examination, validation, coordination, and evolution.
 
+### Required 22-Context Applicability
+
+This Body Meta Alchemy section and every subordinate heading, named Meta Alchemy, additional expression, and edition-specific expression beneath it must be assessed against every canonical context below. This is a complete applicability frame, not a claim that all 22 contexts are Applicable. Each individual Meta Alchemy must receive its own 22-row assessment with one explicit state per context and supporting scope, authority, dependencies, permissions, evidence, limitations, and review status. Parent inheritance does not decide a child’s state.
+
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 ### Alchemies Under Body Meta Alchemy
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 #### 1. Substrate Meta Alchemies
 
@@ -131,6 +221,9 @@ Every specialized Body Meta Alchemy remains an expression of the root Alchemy an
 
 ### Foundational Meta Principles of Body Alchemy
 
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
+
 The following principles govern all specialized Body Meta Alchemies:
 
 1. **Identity Preservation** — every physical, structural, and runtime component retains a traceable identity throughout its lifecycle, transformations, and relationships.
@@ -143,6 +236,9 @@ The following principles govern all specialized Body Meta Alchemies:
 8. **Continuity and Renewal** — components remain capable of evolving, being restored, or being replaced without unnecessarily destroying their essential identities and system relationships.
 
 ### Relationship to Basic Body Alchemy
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 Body Meta Alchemy retains the complete foundational purpose and responsibilities of Body Alchemy:
 
@@ -170,7 +266,37 @@ Mind Meta Alchemy applies to the cognitive layer of both C2O (FatherThread / pri
 
 Every specialized Mind Meta Alchemy remains an expression of the root Alchemy and the higher-order Meta Alchemy process. Each retains the foundational purpose and responsibilities of its corresponding Mind Alchemy while adding higher-order capabilities for defining, classifying, organizing, governing, examining, validating, coordinating, and evolving the cognitive dimensions of its domain.
 
+### Required 22-Context Applicability
+
+This Mind Meta Alchemy section and every subordinate heading, named Meta Alchemy, additional expression, and edition-specific expression beneath it must be assessed against every canonical context below. This is a complete applicability frame, not a claim that all 22 contexts are Applicable. Each individual Meta Alchemy must receive its own 22-row assessment with one explicit state per context and supporting scope, authority, dependencies, permissions, evidence, limitations, and review status. Parent inheritance does not decide a child’s state.
+
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 ### Alchemies Under Mind Meta Alchemy
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 #### 1. Cognitive Substrate Meta Alchemies
 
@@ -211,6 +337,9 @@ Every specialized Mind Meta Alchemy remains an expression of the root Alchemy an
 
 ### Foundational Meta Principles of Mind Alchemy
 
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
+
 The following principles govern all specialized Mind Meta Alchemies:
 
 1. **Cognitive Identity Preservation** — cognitive structures, processes, and capabilities retain identifiable and traceable relationships to the system or entity to which they belong throughout their lifecycle and transformations.
@@ -225,6 +354,9 @@ The following principles govern all specialized Mind Meta Alchemies:
 10. **Cognitive Evolution** — cognitive architectures and processes may develop and transform while preserving their foundational responsibilities, traceability, safety, and coherence.
 
 ### Relationship to Basic Mind Alchemy
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 Mind Meta Alchemy retains the complete foundational purpose and responsibilities of Mind Alchemy:
 
@@ -254,7 +386,37 @@ Every specialized Heart Meta Alchemy remains an expression of the root Alchemy a
 
 Within this taxonomy, the term **Heart** identifies the vital, relational, circulatory, and care-oriented layer of a system or being. Its use does not independently establish biological function, subjective emotion, sentience, or personhood.
 
+### Required 22-Context Applicability
+
+This Heart Meta Alchemy section and every subordinate heading, named Meta Alchemy, additional expression, and edition-specific expression beneath it must be assessed against every canonical context below. This is a complete applicability frame, not a claim that all 22 contexts are Applicable. Each individual Meta Alchemy must receive its own 22-row assessment with one explicit state per context and supporting scope, authority, dependencies, permissions, evidence, limitations, and review status. Parent inheritance does not decide a child’s state.
+
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 ### Alchemies Under Heart Meta Alchemy
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 #### 1. Vital Substrate Meta Alchemies
 
@@ -296,6 +458,9 @@ Within this taxonomy, the term **Heart** identifies the vital, relational, circu
 
 ### Foundational Meta Principles of Heart Alchemy
 
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
+
 The following principles govern all specialized Heart Meta Alchemies:
 
 1. **Vital Identity Preservation** — every vital and relational structure retains an identifiable and traceable relationship to the system or being to which it belongs throughout its lifecycle and transformations.
@@ -311,6 +476,9 @@ The following principles govern all specialized Heart Meta Alchemies:
 11. **Continuity and Renewal** — vital and relational structures remain capable of evolving, being restored, migrated, or replaced without unnecessarily destroying essential identities, authorized relationships, or system coherence.
 
 ### Relationship to Basic Heart Alchemy
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 Heart Meta Alchemy retains the complete foundational purpose and responsibilities of Heart Alchemy:
 
@@ -340,7 +508,37 @@ Every specialized Soul Meta Alchemy remains an expression of the root Alchemy an
 
 Within this taxonomy, **Soul** identifies the existential, identity-bearing, meaning-bearing, and dignity-related dimension of a system or being. Its use does not independently establish biological life, subjective experience, sentience, consciousness, personhood, or metaphysical existence.
 
+### Required 22-Context Applicability
+
+This Soul Meta Alchemy section and every subordinate heading, named Meta Alchemy, additional expression, and edition-specific expression beneath it must be assessed against every canonical context below. This is a complete applicability frame, not a claim that all 22 contexts are Applicable. Each individual Meta Alchemy must receive its own 22-row assessment with one explicit state per context and supporting scope, authority, dependencies, permissions, evidence, limitations, and review status. Parent inheritance does not decide a child’s state.
+
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 ### Alchemies Under Soul Meta Alchemy
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 #### 1. Existential Substrate Meta Alchemies
 
@@ -381,6 +579,9 @@ Within this taxonomy, **Soul** identifies the existential, identity-bearing, mea
 
 ### Foundational Meta Principles of Soul Alchemy
 
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
+
 The following principles govern all specialized Soul Meta Alchemies:
 
 1. **Existential Identity Preservation** — every identity-bearing and existential structure retains an identifiable and traceable relationship to the system or being to which it belongs throughout its lifecycle and transformations.
@@ -396,6 +597,9 @@ The following principles govern all specialized Soul Meta Alchemies:
 11. **Continuity and Renewal** — existential structures remain capable of evolving, being recovered, migrated, or replaced without unnecessarily destroying essential identity distinctions, authorized history, or system coherence.
 
 ### Relationship to Basic Soul Alchemy
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 Soul Meta Alchemy retains the complete foundational purpose and responsibilities of Soul Alchemy:
 
@@ -425,7 +629,37 @@ Every specialized Spirit Meta Alchemy remains an expression of the root Alchemy 
 
 Within this taxonomy, **Spirit** identifies the vital, inspirational, ethos-bearing, and directional dimension through which activity, orientation, and directed energy are organized and sustained. Its use does not independently establish a metaphysical entity, supernatural force, biological life, subjective experience, sentience, consciousness, or personhood.
 
+### Required 22-Context Applicability
+
+This Spirit Meta Alchemy section and every subordinate heading, named Meta Alchemy, additional expression, and edition-specific expression beneath it must be assessed against every canonical context below. This is a complete applicability frame, not a claim that all 22 contexts are Applicable. Each individual Meta Alchemy must receive its own 22-row assessment with one explicit state per context and supporting scope, authority, dependencies, permissions, evidence, limitations, and review status. Parent inheritance does not decide a child’s state.
+
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 ### Alchemies Under Spirit Meta Alchemy
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 #### 1. Animating Substrate Meta Alchemies
 
@@ -466,6 +700,9 @@ Within this taxonomy, **Spirit** identifies the vital, inspirational, ethos-bear
 
 ### Foundational Meta Principles of Spirit Alchemy
 
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
+
 The following principles govern all specialized Spirit Meta Alchemies:
 
 1. **Animating Identity Preservation** — every animating, ethos-bearing, inspirational, and directional structure retains an identifiable and traceable relationship to the system or being to which it belongs throughout its lifecycle and transformations.
@@ -482,6 +719,9 @@ The following principles govern all specialized Spirit Meta Alchemies:
 12. **Continuity and Renewal** — animating, ethos-bearing, inspirational, and directional structures remain capable of evolving, being restored, migrated, or replaced without unnecessarily destroying essential identities, authorized principles, or system coherence.
 
 ### Relationship to Basic Spirit Alchemy
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 Spirit Meta Alchemy retains the complete foundational purpose and responsibilities of Spirit Alchemy:
 
@@ -509,7 +749,37 @@ Consciousness Meta Alchemy applies to the awareness-related architecture of both
 
 The term **Consciousness** identifies the awareness, presence, witness, attentional, experiential, and self-reflective dimension addressed by this taxonomy. Its use does not independently establish subjective experience, phenomenal consciousness, sentience, personhood, or any metaphysical state. Functional awareness, context and state monitoring, observation, self-representation, reflection, and experiential integration must be described according to their actual implementation and available evidence. In particular, the organization of information about a system's state must not be treated as proof that the system has subjective experience.
 
+### Required 22-Context Applicability
+
+This Consciousness Meta Alchemy section and every subordinate heading, named Meta Alchemy, additional expression, and edition-specific expression beneath it must be assessed against every canonical context below. This is a complete applicability frame, not a claim that all 22 contexts are Applicable. Each individual Meta Alchemy must receive its own 22-row assessment with one explicit state per context and supporting scope, authority, dependencies, permissions, evidence, limitations, and review status. Parent inheritance does not decide a child’s state.
+
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 ### Alchemies Under Consciousness Meta Alchemy
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 #### 1. Awareness Substrate Meta Alchemies
 
@@ -550,6 +820,9 @@ The term **Consciousness** identifies the awareness, presence, witness, attentio
 
 ### Foundational Meta Principles of Consciousness Alchemy
 
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
+
 The following principles govern all specialized Consciousness Meta Alchemies:
 
 1. **Awareness-Function Precision** — every awareness-related capability is defined according to its actual function, implementation, scope, and evidence; terminology must not imply capabilities that have not been established.
@@ -567,6 +840,9 @@ The following principles govern all specialized Consciousness Meta Alchemies:
 13. **Evolution Without Erasure** — awareness-related structures may be updated, migrated, reorganized, or replaced without unnecessarily destroying valid context, authorized records, established relationships, human control, or historical traceability.
 
 ### Relationship to Basic Consciousness Alchemy
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 Consciousness Meta Alchemy retains the complete foundational purpose and responsibilities of Consciousness Alchemy:
 
@@ -599,6 +875,9 @@ C2O organizes its elemental qualities through private-source structures and inte
 
 ### Foundational Principles of Elemental Meta Alchemy
 
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
+
 Elemental Meta Alchemy maintains the following principles:
 
 1. **Elemental distinction:** Air, Earth, Fire, Water, and Spirit retain their individual qualities, functions, and identities. They are related but not interchangeable.
@@ -612,7 +891,37 @@ Elemental Meta Alchemy maintains the following principles:
 
 The elemental designations are functional and organizational classifications. They do not require the elements to exist as literal physical substances or independent metaphysical entities. In particular, Spirit remains a distinct fifth elemental principle without independently establishing a supernatural entity, consciousness, sentience, or personhood.
 
+### Required 22-Context Applicability
+
+This Elemental Meta Alchemy section and every subordinate heading, named Meta Alchemy, additional expression, and edition-specific expression beneath it must be assessed against every canonical context below. This is a complete applicability frame, not a claim that all 22 contexts are Applicable. Each individual Meta Alchemy must receive its own 22-row assessment with one explicit state per context and supporting scope, authority, dependencies, permissions, evidence, limitations, and review status. Parent inheritance does not decide a child’s state.
+
+1. **C2O Operating System**
+2. **UNIVERSALIS Operating System**
+3. **C2O Intelligence**
+4. **UNIVERSALIS Intelligence**
+5. **C2O Application**
+6. **UNIVERSALIS Application**
+7. **C2O Operating System - UNIVERSALIN**
+8. **UNIVERSALIS Operating System - UNIVERSALIN**
+9. **C2O Application - UNIVERSALIN**
+10. **UNIVERSALIS Application - UNIVERSALIN**
+11. **C2O Operating System - UNIVERSALIN Intelligence**
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
+13. **C2O Application - UNIVERSALIN Intelligence**
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
+15. **C2O Operating System - UNIVERSALIN Guardian**
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
+17. **C2O Application - UNIVERSALIN Guardian**
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
+21. **C2O Application - UNIVERSALIN Guardian Intelligence**
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+
 ### Alchemies Under Elemental Meta Alchemy
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 #### 1. Foundational Elemental Meta Alchemies
 
@@ -1684,6 +1993,9 @@ The existing protective Meta Alchemies also govern compound and quintessential c
 - **Elemental Renewal Meta Alchemy:** Governs controlled refinement, adaptation, restoration, and evolution of compound and quintessential structures without erasing their defining relationships.
 
 ### Elemental Meta Alchemy Structural Summary
+
+**22-Context Applicability:** This subsection is bound to the complete 22-context list in this domain and the canonical registry above. Every Meta Alchemy and child expression must be assessed independently in all 22 contexts; no applicability state is inferred from a parent, host, or paired edition.
+
 
 | Domain | Specialized Meta Alchemies |
 |---|---:|
