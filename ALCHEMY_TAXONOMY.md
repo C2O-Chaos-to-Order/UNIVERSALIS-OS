@@ -812,6 +812,49 @@ These specializations coordinate the preceding disciplines without replacing or 
 - **Food Quality and Safety Integration Alchemy** — coordinates food composition, nutritional characteristics, contamination prevention, processing controls, preservation, quality evaluation, and food safety throughout production and distribution.
 - **Biological Resource Production Alchemy** — coordinates the responsible cultivation, breeding, management, harvesting, and renewal of biological resources used for food, materials, and other productive purposes.
 
+### 20. Meta-Knowledge Sciences Alchemy
+
+**Meta-Knowledge Sciences Alchemy** is the bounded process that organizes, studies, examines, classifies, evaluates, models, and transforms knowledge concerning the nature, acquisition, structure, representation, validation, organization, transmission, and application of knowledge itself. It enables individuals, organizations, and systems to understand how knowledge is formed, distinguished, related, verified, maintained, and improved while preserving epistemic integrity, conceptual clarity, traceability, consistency, and accountability.
+
+It encompasses the philosophical, scientific, methodological, organizational, computational, and systems-oriented disciplines concerned with knowledge, information, classification, research, intelligence, and the structures through which understanding is developed. Every specialized Meta-Knowledge Sciences Alchemy remains an expression of the root Alchemy.
+
+#### 1. Knowledge Foundations and Epistemic Sciences Alchemies
+
+- **Epistemology Alchemy** — organizes the philosophical and analytical study of knowledge, including its nature, sources, justification, validity, limitations, certainty, and relationships with belief and understanding.
+- **Research Methodology Alchemy** — organizes the principles, frameworks, procedures, and methods used to formulate research questions, design investigations, collect evidence, analyze findings, and establish defensible conclusions.
+- **Scientific Methodology Alchemy** — organizes the systematic principles and practices through which scientific questions, hypotheses, observations, experiments, measurements, models, and evidence are developed, tested, challenged, and evaluated.
+
+#### 2. Knowledge Organization and Classification Sciences Alchemies
+
+- **Knowledge Management Alchemy** — organizes the creation, acquisition, validation, documentation, retention, retrieval, exchange, application, and development of knowledge within individuals, organizations, and interconnected systems.
+- **Classification Science Alchemy** — organizes the principles and methods used to classify, distinguish, group, arrange, and relate entities, concepts, information, and knowledge according to defined characteristics and criteria.
+- **Taxonomy Alchemy** — organizes the development and maintenance of hierarchical classifications, categories, parent-child relationships, and systematic naming structures used to arrange and distinguish knowledge domains and their subjects.
+- **Ontology Alchemy** — organizes the formal representation of entities, concepts, properties, relationships, constraints, and dependencies within a defined domain so that their meanings and connections can be consistently understood and interpreted.
+- **Library Science Alchemy** — organizes the acquisition, description, classification, cataloging, preservation, retrieval, accessibility, and stewardship of recorded knowledge and information resources.
+
+#### 3. Systems and Complexity Sciences Alchemies
+
+- **Systems Thinking Alchemy** — organizes the examination of entities, components, relationships, boundaries, dependencies, feedback, and interactions as parts of larger systems rather than as isolated elements.
+- **Complexity Science Alchemy** — organizes the study of complex systems, emergence, nonlinear interactions, adaptation, self-organization, interdependence, and behavior arising from multiple interacting components.
+- **Cybernetics Alchemy** — organizes the study and application of communication, control, regulation, feedback, coordination, and self-correcting processes in living, mechanical, computational, and organizational systems.
+
+#### 4. Intelligence and Knowledge Development Sciences Alchemies
+
+- **Intelligence Studies Alchemy** — organizes the interdisciplinary study of intelligence as a phenomenon and capability, including its forms, structures, development, measurement, application, limitations, and relationships with knowledge, reasoning, learning, and decision-making.
+
+#### 5. Cross-Disciplinary Meta-Knowledge Relationships
+
+These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+
+- **Knowledge Systems Integration Alchemy** — coordinates knowledge structures, methodologies, classifications, representations, evidence, and relationships into coherent knowledge systems.
+- **Epistemic Validation Alchemy** — organizes the evaluation of knowledge claims through evidence, justification, consistency, reproducibility, source assessment, and explicit acknowledgment of uncertainty and limitations.
+- **Knowledge Representation Alchemy** — organizes the expression of knowledge through concepts, models, schemas, formal representations, structured information, and other interpretable forms.
+- **Knowledge Discovery Alchemy** — organizes the identification, investigation, extraction, and development of previously unrecognized knowledge, patterns, relationships, and insights.
+- **Knowledge Interrelationship Alchemy** — organizes the identification, mapping, and interpretation of relationships, dependencies, distinctions, and connections among knowledge domains and concepts.
+- **Knowledge Provenance Alchemy** — maintains traceable records of the origins, sources, transformations, authorship, validation, and transfer history of knowledge and information.
+- **Knowledge Evolution Alchemy** — organizes how knowledge emerges, accumulates, changes, becomes refined, is challenged, and is replaced or extended through new evidence and understanding.
+- **Meta-Research Alchemy** — organizes the examination, evaluation, comparison, and improvement of research practices, research quality, methodological reliability, reproducibility, and the development of knowledge-producing processes.
+
 ---
 
 ## Body Alchemy
