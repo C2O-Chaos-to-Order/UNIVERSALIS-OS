@@ -166,6 +166,27 @@ The domain expressions above are specializations of their respective assistant b
 - **Virology Alchemy** — organizes knowledge of viruses, their structures, replication, evolution, interactions with host organisms, and biological effects.
 - **Mycology Alchemy** — organizes knowledge of fungi, including their structures, functions, reproduction, diversity, classification, and ecological relationships.
 
+### 4. Health Sciences Alchemy
+
+**Health Sciences Alchemy** is the bounded process that identifies, organizes, maintains, investigates, relates, develops, and transforms knowledge concerning human health, healthcare, medicine, disease, prevention, treatment, recovery, and the preservation of well-being. It encompasses the scientific principles, professional practices, healthcare systems, interventions, and supporting disciplines involved in understanding health, addressing illness and injury, improving quality of life, and supporting individuals and populations throughout their lives.
+
+#### Alchemies under Health Sciences Alchemy
+
+- **Medicine Alchemy** — organizes and develops knowledge and practices concerning human health, disease, diagnosis, clinical reasoning, treatment, and medical care.
+- **Nursing Alchemy** — organizes knowledge and practices concerning patient care, health assessment, clinical support, care coordination, education, and the promotion of health and recovery.
+- **Surgery Alchemy** — organizes knowledge and practices concerning operative procedures, surgical interventions, anatomical access, tissue repair, and the treatment of injuries and diseases through surgical methods.
+- **Pharmacology Alchemy** — organizes knowledge of medicines and other biologically active substances, including their mechanisms, effects, interactions, therapeutic applications, and safety.
+- **Public Health Alchemy** — organizes knowledge and practices concerning the protection and improvement of health across populations through prevention, health promotion, policy, education, and community-level interventions.
+- **Epidemiology Alchemy** — organizes knowledge concerning the distribution, frequency, determinants, and patterns of health conditions and diseases within populations.
+- **Nutrition Alchemy** — organizes knowledge concerning nutrients, dietary patterns, food, metabolism, nutritional requirements, and their relationships with health, development, and well-being.
+- **Physical Therapy Alchemy** — organizes knowledge and practices concerning movement, physical function, mobility, strength, physical rehabilitation, and the recovery or maintenance of movement-related capabilities.
+- **Occupational Therapy Alchemy** — organizes knowledge and practices that support participation in meaningful daily activities through functional assessment, adaptation, rehabilitation, and environmental modification.
+- **Dentistry Alchemy** — organizes knowledge and practices concerning oral health, teeth, gums, jaw structures, dental diseases, prevention, diagnosis, and treatment.
+- **Mental Health Alchemy** — organizes knowledge and practices concerning psychological, emotional, behavioral, and social well-being, including the understanding, prevention, assessment, treatment, and recovery associated with mental health conditions.
+- **Preventive Medicine Alchemy** — organizes knowledge and practices focused on reducing disease risk, preventing illness and injury, detecting health conditions early, and preserving health before serious complications arise.
+- **Emergency Medicine Alchemy** — organizes knowledge and practices concerning the rapid assessment, stabilization, diagnosis, and initial treatment of acute illness, injury, and life-threatening conditions.
+- **Rehabilitation Science Alchemy** — organizes scientific knowledge and practices concerning the restoration, improvement, maintenance, and adaptation of physical, cognitive, psychological, and functional capabilities following illness, injury, disability, or other changes in health.
+
 ---
 
 ## Body Alchemy
