@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 0.6.0  
-**Status:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, and Engineering and Technology subject hierarchies recorded; 93 subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 0.7.0  
+**Status:** Six supplied Universal Subject hierarchies recorded; 107 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -680,7 +680,7 @@ The following hierarchy preserves the supplied subject structure. The source pro
 | USA-ET-014 | Manufacturing | Manufacturing Alchemy | Engineering and Technology |
 | USA-ET-015 | Industrial Engineering | Industrial Engineering Alchemy | Engineering and Technology |
 | USA-ET-016 | Telecommunications | Telecommunications Alchemy | Engineering and Technology |
-| USA-ET-017 | Artificial Intelligence | Artificial Intelligence Alchemy | Engineering and Technology |
+| USA-ET-017 | Artificial Intelligence | Artificial Intelligence Alchemy | Engineering and Technology; Computer and Information Sciences (shared canonical subject) |
 | USA-ET-018 | Cybersecurity | Cybersecurity Alchemy | Engineering and Technology |
 
 **Engineering and Technology total: 18 distinct subject Alchemies.** This count includes Engineering and Technology Alchemy itself and the 17 directly subordinate subject Alchemies.
@@ -734,24 +734,122 @@ Each of the 396 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 26. Cumulative Universal Subject Alchemy register and mapping totals
+## 29. Universal Subject of Knowledge hierarchy: Computer and Information Sciences
 
-The taxonomy now contains five supplied Universal Subjects of Knowledge hierarchies.
+### 29.1 Canonical subject definition
 
-| Universal Subject of Knowledge | Subject Alchemies | Contexts | Required mapped intersections |
-|---|---:|---:|---:|
-| Formal Sciences | 19 | 22 | 418 |
-| Physical Sciences | 23 | 22 | 506 |
-| Life Sciences | 18 | 22 | 396 |
-| Health Sciences | 15 | 22 | 330 |
-| Engineering and Technology | 18 | 22 | 396 |
-| **Cumulative total** | **93** | **22** | **2046** |
+**Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
-The cumulative total represents 93 distinct subject Alchemies mapped across 22 contexts. It does not create 2046 new subject classifications. Each of the 2046 matrix positions requires a context-specific expression.
+The canonical subject name is retained as supplied. No definition is inferred or added without an owner-provided definition.
 
-## 27. Taxonomy status and release register
+### 29.2 Computer and Information Sciences Alchemy hierarchy
 
-| Item | State in version 0.6.0 |
+The following hierarchy preserves the supplied subject structure. The source lists 14 subordinate subjects under Computer and Information Sciences and does not supply further subdivisions. Accordingly, each listed subject is represented as a direct child. Artificial Intelligence already exists as a canonical Alchemy under Engineering and Technology; it is cross-listed here using its existing identifier rather than duplicated as a new Alchemy.
+
+- **Computer and Information Sciences Alchemy**
+  - **Computer Science Alchemy**
+  - **Software Development Alchemy**
+  - **Data Science Alchemy**
+  - **Machine Learning Alchemy**
+  - **Artificial Intelligence Alchemy** *(shared canonical Alchemy: USA-ET-017)*
+  - **Information Systems Alchemy**
+  - **Database Systems Alchemy**
+  - **Human-Computer Interaction Alchemy**
+  - **Networking Alchemy**
+  - **Cloud Computing Alchemy**
+  - **Distributed Systems Alchemy**
+  - **Knowledge Engineering Alchemy**
+  - **Digital Preservation Alchemy**
+  - **Information Architecture Alchemy**
+
+### 29.3 Computer and Information Sciences Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
+|---|---|---|---|
+| USA-CIS-001 | Computer and Information Sciences | Computer and Information Sciences Alchemy | Root subject |
+| USA-CIS-002 | Computer Science | Computer Science Alchemy | Computer and Information Sciences |
+| USA-CIS-003 | Software Development | Software Development Alchemy | Computer and Information Sciences |
+| USA-CIS-004 | Data Science | Data Science Alchemy | Computer and Information Sciences |
+| USA-CIS-005 | Machine Learning | Machine Learning Alchemy | Computer and Information Sciences |
+| USA-ET-017 | Artificial Intelligence | Artificial Intelligence Alchemy | Engineering and Technology; Computer and Information Sciences (shared canonical subject) |
+| USA-CIS-006 | Information Systems | Information Systems Alchemy | Computer and Information Sciences |
+| USA-CIS-007 | Database Systems | Database Systems Alchemy | Computer and Information Sciences |
+| USA-CIS-008 | Human-Computer Interaction | Human-Computer Interaction Alchemy | Computer and Information Sciences |
+| USA-CIS-009 | Networking | Networking Alchemy | Computer and Information Sciences |
+| USA-CIS-010 | Cloud Computing | Cloud Computing Alchemy | Computer and Information Sciences |
+| USA-CIS-011 | Distributed Systems | Distributed Systems Alchemy | Computer and Information Sciences |
+| USA-CIS-012 | Knowledge Engineering | Knowledge Engineering Alchemy | Computer and Information Sciences |
+| USA-CIS-013 | Digital Preservation | Digital Preservation Alchemy | Computer and Information Sciences |
+| USA-CIS-014 | Information Architecture | Information Architecture Alchemy | Computer and Information Sciences |
+
+**Computer and Information Sciences total: 15 hierarchy positions comprising 14 new distinct subject Alchemies and 1 shared existing subject Alchemy.**
+
+Artificial Intelligence remains one canonical subject Alchemy, identified as **USA-ET-017**. Its parent relationships include both Engineering and Technology and Computer and Information Sciences. Its existing 22 context mappings are referenced rather than counted or created a second time.
+
+The source supplied the subject name and its 14 subordinate subject names, but no definition for Computer and Information Sciences. No subject definition, additional subdivision, or description has been invented.
+## 30. Computer and Information Sciences Alchemy — 15 × 22 context matrix
+
+The matrix below records all 15 subject-hierarchy positions across the 22 canonical contexts. Fourteen rows represent new subject Alchemies and contribute 14 × 22 = **308 new mapped intersections**. The Artificial Intelligence row references the existing canonical Alchemy USA-ET-017 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-CIS-001 · Computer and Information Sciences Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-CIS-002 · Computer Science Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-CIS-003 · Software Development Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-CIS-004 · Data Science Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-CIS-005 · Machine Learning Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ET-017 · Artificial Intelligence Alchemy [shared canonical Alchemy] | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-CIS-006 · Information Systems Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-CIS-007 · Database Systems Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-CIS-008 · Human-Computer Interaction Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-CIS-009 · Networking Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-CIS-010 · Cloud Computing Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-CIS-011 · Distributed Systems Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-CIS-012 · Knowledge Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-CIS-013 · Digital Preservation Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-CIS-014 · Information Architecture Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Computer and Information Sciences matrix coverage:** 15 hierarchy positions × 22 contexts = **330 section mapping positions**, comprising **308 new mapped intersections and 22 references to the existing Artificial Intelligence mappings**.
+
+The 22 Artificial Intelligence cells in this section point to the same subject-Alchemy/context intersections already represented by USA-ET-017 in the Engineering and Technology matrix. They must not be counted twice in the cumulative unique-mapping total.
+## 31. Computer and Information Sciences contextual expression requirements
+
+Each of the 308 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+The 22 Artificial Intelligence contextual expressions are not duplicated here. They remain associated with the shared canonical subject-Alchemy identity USA-ET-017 and must be understood through that existing record and its additional parent relationship.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+## 32. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains six supplied Universal Subjects of Knowledge hierarchies.
+
+| Universal Subject of Knowledge | Alchemy hierarchy positions | New unique subject Alchemies | Contexts | New unique mapped intersections |
+|---|---:|---:|---:|---:|
+| Formal Sciences | 19 | 19 | 22 | 418 |
+| Physical Sciences | 23 | 23 | 22 | 506 |
+| Life Sciences | 18 | 18 | 22 | 396 |
+| Health Sciences | 15 | 15 | 22 | 330 |
+| Engineering and Technology | 18 | 18 | 22 | 396 |
+| Computer and Information Sciences | 15 (14 new + 1 shared) | 14 | 22 | 308 (22 shared, not added) |
+| **Cumulative unique total** | **108 hierarchy positions** | **107** | **22** | **2354** |
+
+The cumulative total represents 107 distinct subject Alchemies mapped across 22 contexts, producing 2354 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. The full Computer and Information Sciences section matrix therefore shows 330 positions, of which 308 are new and 22 reference existing mappings.
+
+## 33. Taxonomy status and release register
+
+| Item | State in version 0.7.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -767,15 +865,18 @@ The cumulative total represents 93 distinct subject Alchemies mapped across 22 c
 | Health Sciences matrix | Recorded — 15 × 22 = 330 mapped intersections |
 | Engineering and Technology source definition and hierarchy | Recorded as supplied — 18 distinct subject Alchemies |
 | Engineering and Technology matrix | Recorded — 18 × 22 = 396 mapped intersections |
-| Cumulative subject Alchemy register | 93 distinct subject Alchemies |
-| Cumulative mapped intersections | 93 × 22 = 2046 required mappings |
+| Computer and Information Sciences source definition | Not supplied; no definition inferred |
+| Computer and Information Sciences hierarchy | Recorded — 15 positions: 14 new Alchemies and 1 shared existing Artificial Intelligence Alchemy |
+| Computer and Information Sciences matrix | Recorded — 330 positions: 308 new mappings and 22 references to existing Artificial Intelligence mappings |
+| Cumulative unique subject Alchemy register | 107 distinct subject Alchemies |
+| Cumulative unique mapped intersections | 107 × 22 = 2354 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, and Engineering and Technology subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, and Computer and Information Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 28. Change control
+## 34. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
