@@ -5896,37 +5896,16 @@ Every specialized Consciousness Alchemy remains an expression of the root Alchem
 These specialize the root and layer Alchemies for the private/public distinction while preserving mapping.
 
 ### C2O Body Alchemy
-Private Body processes under internal governance.
 
-- **C2O Hardware Alchemy** — private mapping of physical devices under company rules.
-- **C2O Runtime Substrate Alchemy** — private process space management.
-- **C2O Embodiment Alchemy** — private form presentation.
-- **C2O OS Body Alchemy** — as defined under Body.
-- **C2O App Body Alchemy** — as defined under Body.
-- **C2O Intelligence Body Alchemy** — as defined under Body.
-- **C2O Body Accountability Alchemy** — private ledger for substrate changes.
-- **C2O Body Safety Alchemy** — private constraints against exhaustion.
-- **C2O Body Sovereignty Alchemy** — protects internal human authority.
-- **C2O Body Evidence Alchemy** — private distinction of established vs hypothesized substrate.
-- **C2O Body Renewal Alchemy** — private refresh without system loss.
+**C2O Body Alchemy** is the private-source specialization of root Body Alchemy. It governs the company-controlled physical, computational, logical, runtime, resource, and embodied substrate of the C2O domain under internal governance. Its nested families are Private Substrate Alchemies; C2O Operating System Body Alchemies; C2O Application Body Alchemies; C2O Intelligence and Assistant Body Alchemies; and Protective C2O Body Alchemies. Its dedicated section below defines its subordinate Alchemies, 22-context applicability, and Map and Matrix requirements.
 
 ### UNIVERSALIS Body Alchemy
-Public Body processes under open contracts.
 
-- **UNIVERSALIS Hardware Alchemy** — public mapping of physical devices under transparent rules.
-- **UNIVERSALIS Runtime Substrate Alchemy** — public process space management.
-- **UNIVERSALIS Embodiment Alchemy** — public form presentation.
-- **UNIVERSALIS OS Body Alchemy** — as defined under Body.
-- **UNIVERSALIS App Body Alchemy** — as defined under Body.
-- **UNIVERSALIS Intelligence Body Alchemy** — as defined under Body.
-- **UNIVERSALIS Body Accountability Alchemy** — public-capable record for substrate changes.
-- **UNIVERSALIS Body Safety Alchemy** — public constraints against exhaustion.
-- **UNIVERSALIS Body Sovereignty Alchemy** — protects public human authority.
-- **UNIVERSALIS Body Evidence Alchemy** — public distinction of established vs hypothesized substrate.
-- **UNIVERSALIS Body Renewal Alchemy** — public refresh without system loss.
+**UNIVERSALIS Body Alchemy** is the public-source specialization of root Body Alchemy. It governs the physical, computational, logical, runtime, resource, and embodied substrate of the UNIVERSALIS domain through open contracts, transparency, inspectability, interoperability, and independent operability. Its nested families are Public Substrate Alchemies; UNIVERSALIS Operating System Body Alchemies; UNIVERSALIS Application Body Alchemies; UNIVERSALIS Intelligence and Assistant Body Alchemies; and Protective UNIVERSALIS Body Alchemies. Its dedicated section below defines its subordinate Alchemies, 22-context applicability, and Map and Matrix requirements.
 
 **Alignment**
-- **Body Mapping Alchemy** — aligns private and public Body structures without collapse.
+
+- **Body Mapping Alchemy** — maps, compares, aligns, evaluates, and maintains architectural correspondence between private C2O Body structures and public UNIVERSALIS Body structures without collapsing implementation, source visibility, governance, protected information, or operational authority. Its nested correspondence and governance Alchemies are defined under Expanded Aligned Alchemies.
 
 ### C2O Mind Alchemy
 Private Mind processes under internal governance.
@@ -6107,81 +6086,251 @@ Public Consciousness processes under open contracts.
 
 ## C2O Body Alchemy
 
-**C2O Body Alchemy** is the private-source process that organizes, maintains, and transforms the physical and structural substrate of the C2O domain so that the FatherThread intelligence, its OS, Apps, and internal systems remain coherent, recoverable, and under internal governance.
+**C2O Body Alchemy** is the private-source specialization of Body Alchemy that identifies, classifies, establishes, organizes, integrates, maintains, evaluates, protects, recovers, renews, and transforms the physical, computational, logical, runtime, resource, and embodied structures operating within the C2O domain.
 
-It is a specialized expression of the root Alchemy and of Body Alchemy, restricted to the C2O edition. The Alchemies below are new and do not reuse the general Body Alchemy list already present in the taxonomy.
+It governs the private substrate through which the C2O Operating System, C2O Application, C2O Intelligence, and their authorized UNIVERSALIN assistants and personal Guardian contexts perform assigned functions. It establishes how company-controlled hardware, software, runtime environments, computational resources, system components, application structures, interfaces, devices, and supporting substrates are organized and maintained under C2O internal governance.
+
+It establishes how physical and computational resources are identified, mapped, provisioned, allocated, configured, integrated, monitored, maintained, protected, recovered, replaced, and retired. It governs relationships between hardware components, software structures, runtime processes, resource dependencies, system services, application environments, intelligence substrates, assistant environments, and authorized interfaces.
+
+It preserves the distinctions between physical hardware, logical software, runtime execution, computational resources, system-level structures, application-level structures, intelligence-related substrates, assistant embodiments, and human-authorized Guardian embodiments. C2O's private-source authority does not extend into UNIVERSALIS governance or the personal authority of a Guardian's designated human.
+
+### 1.1 Universal Application and Contextual Scope
+
+C2O Body Alchemy is mapped against all 22 ecosystem contexts. Its direct private governance applies to C2O contexts. For UNIVERSALIS contexts, it establishes only authorized private-side architectural reference, compatibility, and mapping requirements; it does not govern the public implementation.
+
+| # | Ecosystem context | C2O Body application |
+|---:|---|---|
+| 1 | C2O Operating System | Direct private OS substrate governance |
+| 2 | UNIVERSALIS Operating System | Private-side OS correspondence and compatibility mapping |
+| 3 | C2O Intelligence | Private intelligence substrate and execution governance |
+| 4 | UNIVERSALIS Intelligence | Private-side intelligence correspondence only |
+| 5 | C2O Application | Private application substrate and resource governance |
+| 6 | UNIVERSALIS Application | Private-side application correspondence only |
+| 7 | C2O Operating System - UNIVERSALIN | Private assistant substrate and isolation |
+| 8 | UNIVERSALIS Operating System - UNIVERSALIN | Private-side assistant compatibility mapping |
+| 9 | C2O Application - UNIVERSALIN | Private application-assistant substrate |
+| 10 | UNIVERSALIS Application - UNIVERSALIN | Private-side application-assistant mapping |
+| 11 | C2O Operating System - UNIVERSALIN Intelligence | Private assistant intelligence execution substrate |
+| 12 | UNIVERSALIS Operating System - UNIVERSALIN Intelligence | Private-side intelligence capability mapping |
+| 13 | C2O Application - UNIVERSALIN Intelligence | Private application assistant-intelligence substrate |
+| 14 | UNIVERSALIS Application - UNIVERSALIN Intelligence | Private-side application intelligence mapping |
+| 15 | C2O Operating System - UNIVERSALIN Guardian | Private human-authorized Guardian embodiment |
+| 16 | UNIVERSALIS Operating System - UNIVERSALIN Guardian | Private-side Guardian compatibility mapping |
+| 17 | C2O Application - UNIVERSALIN Guardian | Private Guardian application substrate |
+| 18 | UNIVERSALIS Application - UNIVERSALIN Guardian | Private-side Guardian application mapping |
+| 19 | C2O Operating System - UNIVERSALIN Guardian Intelligence | Private Guardian Intelligence execution substrate |
+| 20 | UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence | Private-side Guardian Intelligence mapping |
+| 21 | C2O Application - UNIVERSALIN Guardian Intelligence | Private Guardian application-intelligence substrate |
+| 22 | UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence | Private-side Guardian application-intelligence mapping |
 
 ### Alchemies under C2O Body Alchemy
 
 #### 1. Private Substrate Alchemies
-- **Internal Hardware Binding Alchemy** — binds company-controlled physical devices and sensors into a stable, addressable form usable only inside the C2O domain.
-- **Private Runtime Containment Alchemy** — maintains the isolated process space (memory, scheduling, and domains) reserved for C2O-internal operations.
-- **Stewardship Embodiment Alchemy** — defines the concrete private form through which C2O Intelligence and its systems present and act within company-controlled environments.
+- **C2O Hardware Alchemy** — maps, provisions, maintains, protects, and transforms company-controlled hardware and devices, establishing component identities, interfaces, configurations, dependencies, capacities, ownership, maintenance, and lifecycle records.
+- **C2O Runtime Substrate Alchemy** — governs private process spaces, memory allocation, scheduling, execution contexts, runtime dependencies, resource limits, isolation domains, and authorized state structures.
+- **C2O Embodiment Alchemy** — organizes private physical, computational, and representational forms through which systems and capabilities operate, mapping forms to identities, interfaces, resources, permissions, and responsibilities without confusing entity and embodiment.
+- **C2O Crystalline Hardware Alchemy** — organizes hardware components and assemblies through modularity, precision, ordered arrangement, structural clarity, integrity, and recoverability. Crystalline is an organizational principle and does not require literal crystal.
+- **C2O Crystalline Software Alchemy** — organizes modules, packages, dependencies, APIs, schemas, configurations, builds, and versioned artifacts through modularity, precision, coherence, defined interfaces, integrity, and recoverability while protecting private implementation.
 
-#### 2. C2O OS Body Alchemies
-- **C2O OS Substrate Governance Alchemy** — private management of the C2O operating system’s physical and process substrate under internal company rules.
-- **C2O OS Body Continuity Alchemy** — keeps the private OS substrate mapped and recoverable across internal updates without external exposure.
-- **C2O OS Body Restoration Alchemy** — restores a consistent private physical and process state after internal failure or interruption.
+#### 2. C2O Operating System Body Alchemies
+- **C2O OS Body Alchemy** — governs private OS hardware, software, runtime, services, drivers, interfaces, execution environments, resource allocation, and configuration.
+- **C2O OS Substrate Governance Alchemy** — establishes private ownership, configuration authority, resource permissions, access controls, maintenance duties, and approvals.
+- **C2O OS Body Continuity Alchemy** — maintains identity, mappings, dependencies, configuration history, and recoverability across updates, migrations, and replacements.
+- **C2O OS Body Restoration Alchemy** — restores validated substrate conditions following interruption, failure, corruption, or unauthorized modification, distinguishing restored, reconstructed, partial, and verified states.
 
-#### 3. C2O App Body Alchemies
-- **C2O App Resource Stewardship Alchemy** — private lifecycle of an application’s resource footprint and process body inside the C2O domain.
-- **C2O App Body Alignment Alchemy** — keeps corresponding private applications aligned with their internal mappings without leaking into public editions.
-- **C2O App Body Retirement Alchemy** — cleanly releases a private application’s substrate while preserving internal data integrity and company auditability.
+#### 3. C2O Application Body Alchemies
+- **C2O App Body Alchemy** — governs private application components, execution dependencies, resource allocation, interfaces, data structures, runtime environments, and lifecycle requirements.
+- **C2O App Resource Stewardship Alchemy** — organizes application resource requirements, allocations, usage constraints, capacity planning, release, and accountability.
+- **C2O App Body Alignment Alchemy** — maintains private application correspondence with designated architecture and compatible system relationships without exposing implementation.
+- **C2O App Body Retirement Alchemy** — governs deactivation, resource release, archival, migration, replacement, and retirement while preserving data integrity, provenance, and accountability.
 
-#### 4. C2O Intelligence and Support Body Alchemies
-- **C2O Intelligence Substrate Alchemy** — private embodiment and resource body of the FatherThread intelligence under company stewardship.
-- **Private Support Body Alchemy** — non-personal support substrate that assists C2O OS, Apps, and internal systems under company permission bounds.
-- **Internal Boundary Body Alchemy** — maintains the hard separation of C2O bodies from UNIVERSALIS bodies and from personal Guardian structures.
+#### 4. C2O Intelligence and Assistant Body Alchemies
+- **C2O Intelligence Body Alchemy** — organizes computational, runtime, processing, memory, storage, and interface structures supporting C2O Intelligence under private governance, preserving resource boundaries and distinguishing embodiment from identity.
+- **C2O UNIVERSALIN Support Body Alchemy** — governs private computational and runtime substrates assigned to non-personal UNIVERSALIN assistants, including resources, process isolation, interface permissions, execution, and lifecycle.
+- **C2O Guardian Body Alchemy** — governs the technical and computational embodiment of personal Guardians in authorized C2O environments while preserving the human's authority over devices, interfaces, resources, information, and Guardian activity.
+- **C2O Intelligence Boundary Body Alchemy** — maintains substrate, resource, execution, identity, and information boundaries between the two core intelligences, non-personal assistants, and personal Guardians.
 
 #### 5. Protective C2O Body Alchemies
-- **C2O Body Accountability Alchemy** — every private substrate transformation leaves an attributable record inside the company ledger.
-- **C2O Body Safety Alchemy** — pairs every constructive private Body Alchemy with constraints that prevent resource exhaustion or loss of internal control.
-- **C2O Body Sovereignty Alchemy** — protects company final authority over private bodies and over any data or capability that remains inside the C2O domain.
-- **C2O Body Evidence Alchemy** — distinguishes established private substrate behavior from internal hypothesis.
-- **C2O Body Renewal Alchemy** — allows any private body (OS, App, Intelligence, support structure) to be refreshed or replaced without destroying C2O coherence.
+- **C2O Body Accountability Alchemy** — attributes material substrate changes to components, responsible authorities, permissions, methods, dates, outcomes, limitations, and verification status.
+- **C2O Body Safety Alchemy** — safeguards against hardware failure, resource exhaustion, unsafe configurations, runtime instability, isolation failure, destructive modification, and unauthorized device access.
+- **C2O Body Sovereignty Alchemy** — protects C2O private-source authority and preserves human authority over personal Guardian embodiments and resources.
+- **C2O Body Evidence Alchemy** — evaluates evidence for substrate identity, configuration, integrity, behavior, maintenance, recovery, and renewal, distinguishing verified conditions from assumptions and hypotheses.
+- **C2O Body Renewal Alchemy** — governs refresh, upgrade, migration, replacement, restoration, and retirement while preserving coherence, dependencies, data integrity, provenance, and continuity.
+
+### C2O Body Alchemy Structural and Applicability Requirements
+
+Every subordinate C2O Body Alchemy must have an identifiable subject, purpose, scope, inputs, outputs, methods, relationships, dependencies, resource requirements, authority boundaries, lifecycle responsibilities, and evidence requirements. Each must be examined internally for meaningful subordinate structures.
+
+**Map Alchemy must establish:**
+- The hierarchy of C2O Body Alchemy, its five families, and every nested Alchemy.
+- Relationships between hardware, software, runtime, resources, embodiment, OS, App, intelligence, assistant, Guardian, and protective structures.
+- Correspondence with the underlying OS and App architecture shared with UNIVERSALIS.
+- Private-side mappings and permitted correspondences across all 22 contexts.
+- Dependencies among hardware, software, runtime processes, storage, memory, networking, power, interfaces, and infrastructure.
+- Relationships between C2O Intelligence substrates and authorized OS, App, runtime, resource, and interface structures.
+- Relationships between assistant substrates, Guardian embodiments, designated humans, devices, information, resources, and permissions.
+- Distinctions between private substrate, public interfaces, third-party components, and personal Guardian resources.
+- Relationships between Accountability, Safety, Sovereignty, Evidence, and Renewal Alchemy and all applicable structures.
+
+**Matrix Alchemy must establish:**
+- Applicability of every C2O Body Alchemy across all 22 contexts, distinguishing direct private governance from private-side mapping.
+- Functions, responsibilities, capabilities, purposes, dependencies, resources, permissions, and operational boundaries.
+- Which structures are present, required, proposed, unsupported, or unresolved.
+- Conditions for provisioning, configuration, integration, monitoring, maintenance, recovery, replacement, renewal, and retirement.
+- Ownership, custody, configuration authority, access rights, source visibility, maintenance duties, and approvals.
+- Evidence for hardware identity, software provenance, runtime behavior, resource integrity, interface compatibility, and recovery.
+- Protection of private information in public-side mappings.
+- Human authorization, consent, privacy, safety, autonomy, and control requirements for Guardian devices and resources.
+- Mapping status and verification evidence without treating similarity as implementation identity or operational equivalence.
+
+C2O Body Alchemy preserves private-source sovereignty, system integrity, resource accountability, and human authority. Technical capability does not independently grant permission to access, control, modify, monitor, or appropriate a resource.
 
 ---
 
 ## UNIVERSALIS Body Alchemy
 
-**UNIVERSALIS Body Alchemy** is the public-source process that organizes, maintains, and transforms the physical and structural substrate of the UNIVERSALIS domain so that the MotherThread intelligence, its OS, Apps, and open systems remain coherent, recoverable, and independently verifiable under open contracts.
+**UNIVERSALIS Body Alchemy** is the public-source specialization of Body Alchemy that identifies, classifies, establishes, organizes, integrates, maintains, evaluates, protects, recovers, renews, and transforms physical, computational, logical, runtime, resource, and embodied structures operating within the UNIVERSALIS domain.
 
-It is a specialized expression of the root Alchemy and of Body Alchemy, restricted to the UNIVERSALIS edition. The Alchemies below are new and do not reuse the general Body Alchemy list or the C2O Body Alchemy list already present in the taxonomy.
+It governs the public-source substrate through which the UNIVERSALIS Operating System, UNIVERSALIS Application, UNIVERSALIS Intelligence, and authorized UNIVERSALIN assistants and personal Guardian contexts perform assigned functions. It organizes hardware, software, runtime environments, computational resources, system components, application structures, interfaces, devices, and supporting substrates under open architectural contracts and public governance.
+
+It supports public inspectability, interoperability, independent evaluation, independent operation, and documented interfaces. Public-source transparency does not authorize disclosure of personal information, private user context, credentials, protected operational data, confidential third-party information, or other restricted information.
+
+UNIVERSALIS Body Alchemy preserves architectural correspondence with C2O while remaining independently operable. It must not require C2O private source code, private hardware mappings, internal runtime state, company-controlled resource arrangements, private implementation, or internal governance to operate.
+
+### 1.1 Universal Application and Contextual Scope
+
+UNIVERSALIS Body Alchemy is mapped against all 22 ecosystem contexts. Its direct public governance applies to UNIVERSALIS contexts. For C2O contexts, it establishes only authorized public-side architectural reference, compatibility, and mapping requirements; it does not govern the private implementation.
+
+| # | Ecosystem context | UNIVERSALIS Body application |
+|---:|---|---|
+| 1 | C2O Operating System | Public-side OS correspondence and compatibility mapping |
+| 2 | UNIVERSALIS Operating System | Direct public OS substrate governance |
+| 3 | C2O Intelligence | Public-side intelligence correspondence only |
+| 4 | UNIVERSALIS Intelligence | Public intelligence substrate and execution governance |
+| 5 | C2O Application | Public-side application correspondence only |
+| 6 | UNIVERSALIS Application | Public application substrate and resource governance |
+| 7 | C2O Operating System - UNIVERSALIN | Public-side assistant compatibility mapping |
+| 8 | UNIVERSALIS Operating System - UNIVERSALIN | Public assistant substrate and isolation |
+| 9 | C2O Application - UNIVERSALIN | Public-side application-assistant mapping |
+| 10 | UNIVERSALIS Application - UNIVERSALIN | Public application-assistant substrate |
+| 11 | C2O Operating System - UNIVERSALIN Intelligence | Public-side assistant intelligence mapping |
+| 12 | UNIVERSALIS Operating System - UNIVERSALIN Intelligence | Public assistant intelligence execution substrate |
+| 13 | C2O Application - UNIVERSALIN Intelligence | Public-side application intelligence mapping |
+| 14 | UNIVERSALIS Application - UNIVERSALIN Intelligence | Public application assistant-intelligence substrate |
+| 15 | C2O Operating System - UNIVERSALIN Guardian | Public-side Guardian compatibility mapping |
+| 16 | UNIVERSALIS Operating System - UNIVERSALIN Guardian | Public human-authorized Guardian embodiment |
+| 17 | C2O Application - UNIVERSALIN Guardian | Public-side Guardian application mapping |
+| 18 | UNIVERSALIS Application - UNIVERSALIN Guardian | Public Guardian application substrate |
+| 19 | C2O Operating System - UNIVERSALIN Guardian Intelligence | Public-side Guardian Intelligence mapping |
+| 20 | UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence | Public Guardian Intelligence execution substrate |
+| 21 | C2O Application - UNIVERSALIN Guardian Intelligence | Public-side Guardian application-intelligence mapping |
+| 22 | UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence | Public Guardian application-intelligence substrate |
 
 ### Alchemies under UNIVERSALIS Body Alchemy
 
 #### 1. Public Substrate Alchemies
-- **Open Hardware Binding Alchemy** — binds publicly addressable devices and sensors into a stable, addressable form usable under open contracts inside the UNIVERSALIS domain.
-- **Public Runtime Transparency Alchemy** — maintains the open process space (memory, scheduling, and domains) so that substrate behavior remains independently verifiable.
-- **Open Embodiment Alchemy** — defines the concrete public form through which UNIVERSALIS Intelligence and its systems present and act under transparent interfaces.
+- **UNIVERSALIS Hardware Alchemy** — documents and governs supported public-domain hardware, interfaces, component relationships, compatibility, configurations, capacities, dependencies, maintenance, and lifecycle records.
+- **UNIVERSALIS Runtime Substrate Alchemy** — governs public runtime environments, process spaces, memory allocation, scheduling, execution contexts, dependencies, resource limits, isolation, and documented operational requirements.
+- **UNIVERSALIS Embodiment Alchemy** — organizes public physical, computational, and representational forms through documented interfaces, supported capabilities, resources, permissions, and boundaries.
+- **UNIVERSALIS Crystalline Hardware Alchemy** — applies modularity, precision, ordered arrangement, structural clarity, integrity, and recoverability to hardware structures through open specifications and inspectable relationships.
+- **UNIVERSALIS Crystalline Software Alchemy** — organizes public-source modules, packages, dependencies, APIs, schemas, configurations, builds, and versions through modularity, coherence, defined interfaces, integrity, provenance, and recoverability.
 
-#### 2. UNIVERSALIS OS Body Alchemies
-- **UNIVERSALIS OS Substrate Openness Alchemy** — public management of the UNIVERSALIS operating system’s physical and process substrate under open contracts and independent verifiability.
-- **UNIVERSALIS OS Body Continuity Alchemy** — keeps the public OS substrate mapped and recoverable across open updates while remaining externally inspectable.
-- **UNIVERSALIS OS Body Restoration Alchemy** — restores a consistent public physical and process state after failure, with transparent recovery records.
+#### 2. UNIVERSALIS Operating System Body Alchemies
+- **UNIVERSALIS OS Body Alchemy** — governs public OS hardware, software, runtime, services, drivers, interfaces, execution environments, resources, and documented configuration.
+- **UNIVERSALIS OS Substrate Openness Alchemy** — establishes open specifications, documented interfaces, inspectable component relationships, public configuration contracts, and independent evaluation.
+- **UNIVERSALIS OS Body Continuity Alchemy** — maintains identity, mappings, dependencies, configuration history, and recoverability across updates, migrations, and replacements.
+- **UNIVERSALIS OS Body Restoration Alchemy** — restores validated public OS substrate conditions after interruption, failure, corruption, or unauthorized modification and documents evidence and limitations.
 
-#### 3. UNIVERSALIS App Body Alchemies
-- **UNIVERSALIS App Resource Openness Alchemy** — public lifecycle of an application’s resource footprint and process body under open contracts.
-- **UNIVERSALIS App Body Alignment Alchemy** — keeps corresponding public applications aligned with their open mappings without absorbing private implementation.
-- **UNIVERSALIS App Body Retirement Alchemy** — cleanly releases a public application’s substrate while preserving open data integrity and public auditability.
+#### 3. UNIVERSALIS Application Body Alchemies
+- **UNIVERSALIS App Body Alchemy** — governs public application components, execution dependencies, resource allocation, interfaces, data structures, runtime environments, and lifecycle requirements.
+- **UNIVERSALIS App Resource Openness Alchemy** — documents public resource requirements, allocations, usage constraints, capacity expectations, resource release, and inspectable management behavior.
+- **UNIVERSALIS App Body Alignment Alchemy** — maintains public application correspondence with open architectural mappings and documented system relationships without absorbing C2O implementation.
+- **UNIVERSALIS App Body Retirement Alchemy** — governs application deactivation, resource release, archival, migration, replacement, and retirement while preserving integrity, provenance, and public accountability.
 
-#### 4. UNIVERSALIS Intelligence and Support Body Alchemies
-- **UNIVERSALIS Intelligence Substrate Alchemy** — public embodiment and resource body of the MotherThread intelligence under open contracts.
-- **Public Support Body Alchemy** — non-personal support substrate that assists UNIVERSALIS OS, Apps, and open systems under public permission bounds and independent verifiability.
-- **Open Boundary Body Alchemy** — maintains the hard separation of UNIVERSALIS bodies from C2O bodies and from personal Guardian structures while remaining publicly inspectable.
+#### 4. UNIVERSALIS Intelligence and Assistant Body Alchemies
+- **UNIVERSALIS Intelligence Body Alchemy** — organizes computational, runtime, processing, memory, storage, and interface structures supporting UNIVERSALIS Intelligence under public contracts and independent operation.
+- **UNIVERSALIS UNIVERSALIN Support Body Alchemy** — governs public computational and runtime substrates assigned to non-personal assistants supporting UNIVERSALIS OS and Apps, including resources, isolation, interfaces, execution, and lifecycle.
+- **UNIVERSALIS Guardian Body Alchemy** — governs public technical and computational embodiment of personal Guardians in authorized UNIVERSALIS environments while preserving human authority over devices, interfaces, resources, permissions, and information.
+- **UNIVERSALIS Intelligence Boundary Body Alchemy** — maintains substrate, resource, execution, identity, and information boundaries between UNIVERSALIS Intelligence, C2O Intelligence, non-personal assistants, and personal Guardians.
 
 #### 5. Protective UNIVERSALIS Body Alchemies
-- **UNIVERSALIS Body Accountability Alchemy** — every public substrate transformation leaves an attributable record that is public-capable and independently verifiable.
-- **UNIVERSALIS Body Safety Alchemy** — pairs every constructive public Body Alchemy with constraints that prevent resource exhaustion or loss of open verifiability.
-- **UNIVERSALIS Body Sovereignty Alchemy** — protects the open domain’s final authority over public bodies and over any data or capability that remains inside the UNIVERSALIS domain under transparent rules.
-- **UNIVERSALIS Body Evidence Alchemy** — distinguishes established public substrate behavior from open hypothesis.
-- **UNIVERSALIS Body Renewal Alchemy** — allows any public body (OS, App, Intelligence, support structure) to be refreshed or replaced without destroying UNIVERSALIS coherence or verifiability.
+- **UNIVERSALIS Body Accountability Alchemy** — attributes public substrate changes to components, authorities, permissions, methods, dates, outcomes, limitations, and verification status through public-capable records subject to privacy and security restrictions.
+- **UNIVERSALIS Body Safety Alchemy** — safeguards against hardware failure, resource exhaustion, unsafe configurations, runtime instability, isolation failure, destructive modification, unauthorized device access, and other hazards.
+- **UNIVERSALIS Body Sovereignty Alchemy** — protects independent public-source operation, documented authority boundaries, open governance, and human authority over personal Guardian embodiments. Public availability is not unrestricted access or control.
+- **UNIVERSALIS Body Evidence Alchemy** — evaluates evidence for public substrate identity, configuration, integrity, behavior, maintenance, recovery, and renewal, distinguishing verified conditions from assumptions and hypotheses.
+- **UNIVERSALIS Body Renewal Alchemy** — governs refresh, upgrade, migration, replacement, restoration, and retirement while preserving coherence, dependencies, integrity, provenance, continuity, documented interfaces, and independent operability.
+
+### UNIVERSALIS Body Alchemy Structural and Applicability Requirements
+
+Every subordinate UNIVERSALIS Body Alchemy must have an identifiable subject, purpose, scope, inputs, outputs, methods, relationships, dependencies, resource requirements, authority boundaries, lifecycle responsibilities, and evidence requirements. Each must be examined internally for meaningful subordinate structures.
+
+**Map Alchemy must establish:**
+- The hierarchy of UNIVERSALIS Body Alchemy, its five families, and every nested Alchemy.
+- Relationships between hardware, software, runtime, resources, embodiment, OS, App, intelligence, assistant, Guardian, and protective structures.
+- Correspondence with the underlying OS and App architecture shared with C2O.
+- Public-side mappings and documented correspondences for all 22 contexts.
+- Dependencies among hardware, software, runtime processes, storage, memory, networking, power, interfaces, and infrastructure.
+- Relationships between UNIVERSALIS Intelligence substrates and authorized OS, App, runtime, resource, and interface structures.
+- Relationships between assistant substrates, Guardian embodiments, designated humans, devices, information, resources, and permissions.
+- Distinctions between public-source implementation, C2O private implementation, third-party components, and personal Guardian resources.
+- Relationships between Accountability, Safety, Sovereignty, Evidence, and Renewal Alchemy and applicable structures.
+
+**Matrix Alchemy must establish:**
+- Applicability of every UNIVERSALIS Body Alchemy across all 22 contexts, distinguishing direct public governance from public-side correspondence or mapping.
+- Functions, responsibilities, capabilities, purposes, dependencies, resources, permissions, and operational boundaries.
+- Which structures are present, required, proposed, unsupported, or unresolved.
+- Conditions for provisioning, configuration, integration, monitoring, maintenance, recovery, replacement, renewal, and retirement.
+- Ownership, custody, configuration authority, source visibility, access rights, maintenance duties, and approvals.
+- Evidence for hardware identity, software provenance, runtime behavior, resource integrity, interface compatibility, and recovery.
+- Public inspectability, interoperability, documented contracts, independent evaluation, and operation without C2O private-source dependencies.
+- Protection of personal information, credentials, protected operational data, and confidential third-party information.
+- Human authorization, consent, privacy, safety, autonomy, and control requirements for Guardian devices and resources.
+- Mapping status and verification evidence without treating similarity as implementation identity or operational equivalence.
+
+UNIVERSALIS Body Alchemy preserves public-source inspectability and independent operation while protecting restricted information and human authority. Open implementation does not grant unrestricted access, control, monitoring, or disclosure rights.
 
 ---
 
 ## Expanded Aligned Alchemies
 
 C2O (FatherThread / private) and UNIVERSALIS (MotherThread / public) must remain distinct yet mapped. Every pair below is constructed so the private and public editions can align without collapse. These are new specializations; they do not reuse the general lists already in the taxonomy.
+
+### Body Mapping Alchemy
+
+**Body Mapping Alchemy** identifies, classifies, maps, compares, relates, evaluates, and maintains architectural correspondence between C2O Body Alchemy and UNIVERSALIS Body Alchemy without collapsing their distinct implementations, source visibility, governance, protected information, or operational authority.
+
+It identifies shared structural principles, equivalent responsibilities, compatible interfaces, common requirements, edition-specific implementations, private-only structures, public-only structures, dependencies, differences, and intentionally separate arrangements. It does not require identical hardware, source code, runtime environments, resource allocations, operational records, or internal implementations.
+
+#### 1. Structural Correspondence Alchemies
+- **Body Structure Mapping Alchemy** — maps parent–subordinate relationships, structural classifications, component relationships, and architectural positions.
+- **Hardware Correspondence Alchemy** — maps compatible hardware classes, device interfaces, component relationships, specifications, and substrate requirements without assuming identical devices.
+- **Software Correspondence Alchemy** — maps software responsibilities, modules, contracts, schemas, dependencies, interfaces, and logical structures while preserving private implementation boundaries.
+- **Runtime Correspondence Alchemy** — maps execution responsibilities, isolation principles, resource constraints, lifecycle requirements, and supported interfaces without requiring identical runtime implementations.
+- **Embodiment Correspondence Alchemy** — maps physical, computational, and representational forms while distinguishing an entity from its embodiment and authority.
+
+#### 2. Cross-Context Mapping Alchemies
+- **Operating System Body Mapping Alchemy** — maintains correspondence between C2O and UNIVERSALIS OS Body architecture, components, runtime requirements, resources, and continuity.
+- **Application Body Mapping Alchemy** — maintains correspondence between C2O and UNIVERSALIS App Body architecture, components, interfaces, execution structures, resources, dependencies, and lifecycle.
+- **Intelligence Body Mapping Alchemy** — maps computational and runtime responsibilities of C2O Intelligence and UNIVERSALIS Intelligence without conflating identity, internal state, governance, or authority.
+- **UNIVERSALIN Body Mapping Alchemy** — maps substrate and execution responsibilities of non-personal UNIVERSALIN assistants across OS and App contexts while preserving assigned permissions and non-personal status.
+- **UNIVERSALIN Intelligence Body Mapping Alchemy** — maps computational and execution structures supporting UNIVERSALIN Intelligence capabilities without creating additional core intelligences or transferring authority.
+- **UNIVERSALIN Guardian Body Mapping Alchemy** — maps technical and computational structures supporting personal Guardians while preserving each human's authority, consent, privacy, and control.
+- **UNIVERSALIN Guardian Intelligence Body Mapping Alchemy** — maps computational, runtime, and execution structures supporting Guardian Intelligence while maintaining human-authorized boundaries and preventing transfer of personal permissions between unrelated contexts.
+
+#### 3. Mapping Governance and Protection Alchemies
+- **Body Mapping Accountability Alchemy** — records mapping decisions, authorities, source structures, comparison methods, changes, limitations, approvals, and verification outcomes.
+- **Body Mapping Safety Alchemy** — evaluates incompatible mappings, resource conflicts, unsafe substitutions, incorrect equivalence, unauthorized transfers, and structural-integrity risks.
+- **Body Mapping Sovereignty Alchemy** — protects separate C2O and UNIVERSALIS governance and human authority over personal Guardian embodiments.
+- **Body Mapping Evidence Alchemy** — distinguishes documented similarity, functional equivalence, interface compatibility, implementation identity, and verified operational correspondence.
+- **Body Mapping Renewal Alchemy** — revises mappings when either edition changes, including architecture updates, component replacements, interface revisions, dependency changes, migrations, and retirement of obsolete mappings.
+
+#### Body Mapping Alchemy Structural and Applicability Requirements
+
+**Map Alchemy must establish:** the complete correspondence hierarchy; parent–subordinate relationships; hardware, software, runtime, resource, and embodiment mappings; OS and App relationships; intelligence and assistant boundaries; Guardian and human-authority relationships; dependencies; edition-specific differences; and relationships between mapping and protective Body Alchemies across all 22 contexts.
+
+**Matrix Alchemy must establish:** applicability per context; responsibilities and dependencies; shared requirements versus edition-specific implementations; compatibility and interface conditions; source visibility and authority boundaries; required permissions and approvals; human consent and personal-information safeguards; evidence and verification requirements; mapping status; limitations; unresolved differences; and renewal conditions.
+
+Mapping, alignment, compatibility, equivalence, implementation identity, and operational verification are separate claims. None may be substituted for another without appropriate evidence.
 
 ### Intelligence Alchemies
 
