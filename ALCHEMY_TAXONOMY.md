@@ -142,6 +142,30 @@ The domain expressions above are specializations of their respective assistant b
 - **Oceanography Alchemy** — organizes the physical, chemical, geological, and dynamic properties and processes of Earth's oceans.
 - **Materials Science Alchemy** — organizes the relationships between material composition, structure, properties, processing, performance, and transformation.
 
+### 3. Life Sciences Alchemy
+
+**Life Sciences Alchemy** is the bounded process that identifies, organizes, maintains, investigates, relates, develops, and transforms knowledge concerning living systems, their origins, structures, functions, organization, interactions, diversity, evolution, and relationships with their environments. It encompasses the biological principles and processes through which life exists, functions, reproduces, adapts, and changes across different scales.
+
+#### Alchemies under Life Sciences Alchemy
+
+- **Biology Alchemy** — organizes and develops knowledge of living organisms, life processes, biological structures, functions, diversity, and interactions.
+- **Genetics Alchemy** — organizes knowledge of heredity, genes, genetic variation, inheritance, and the transmission of biological information.
+- **Evolutionary Biology Alchemy** — organizes knowledge of the origins, mechanisms, patterns, and consequences of biological evolution and the diversification of life.
+- **Ecology Alchemy** — organizes knowledge of relationships between organisms and their environments, including populations, communities, ecosystems, and ecological processes.
+- **Microbiology Alchemy** — organizes knowledge of microorganisms, their structures, functions, diversity, interactions, and biological processes.
+- **Botany Alchemy** — organizes knowledge of plants, including their structures, functions, development, reproduction, diversity, and relationships with their environments.
+- **Zoology Alchemy** — organizes knowledge of animals, including their structures, functions, behavior, development, evolution, classification, and diversity.
+- **Marine Biology Alchemy** — organizes knowledge of marine organisms, their biological processes, diversity, adaptations, and relationships within marine ecosystems.
+- **Molecular Biology Alchemy** — organizes knowledge of biological processes and interactions at the molecular level, including DNA, RNA, proteins, and their functions.
+- **Cell Biology Alchemy** — organizes knowledge of cells, their structures, functions, organization, reproduction, communication, and internal processes.
+- **Biotechnology Alchemy** — organizes the application and transformation of biological systems, organisms, cells, and biological components for scientific, technological, and practical purposes.
+- **Neuroscience Alchemy** — organizes knowledge of nervous systems, neural structures, brain functions, neural activity, and the biological foundations of nervous-system processes.
+- **Physiology Alchemy** — organizes knowledge of the functions and mechanisms of living organisms and their organs, tissues, cells, and biological systems.
+- **Anatomy Alchemy** — organizes knowledge of the structures, organization, physical relationships, and composition of living organisms and their biological components.
+- **Immunology Alchemy** — organizes knowledge of immune systems, biological defense mechanisms, immune responses, and interactions between organisms and foreign or altered biological material.
+- **Virology Alchemy** — organizes knowledge of viruses, their structures, replication, evolution, interactions with host organisms, and biological effects.
+- **Mycology Alchemy** — organizes knowledge of fungi, including their structures, functions, reproduction, diversity, classification, and ecological relationships.
+
 ---
 
 ## Body Alchemy
