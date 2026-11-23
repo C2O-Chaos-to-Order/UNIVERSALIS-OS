@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.12.0  
-**Status:** Twenty supplied Universal Subject hierarchies recorded; 264 unique subject Alchemies mapped across 22 contexts; cross-domain map and matrix work initiated; detailed contextual expressions pending  
+**Version:** 1.13.0  
+**Status:** Twenty supplied Universal Subject hierarchies recorded; 264 unique subject Alchemies mapped across 22 contexts; cross-domain source screening and 264-node sparse relationship matrix initiated; 18 related-but-distinct proposals pending owner review; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -2090,35 +2090,43 @@ The 22 existing Knowledge Management mappings are not duplicated here. They rema
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 ## 104. Cross-domain mapping and matrix method
 
-This phase maps relationships among the twenty established top-level Universal Subjects of Knowledge and, in subsequent passes, among their canonical subject Alchemies. It is distinct from the existing 22-context matrix. The 22-context matrix answers where each Alchemy is mapped; the cross-domain map and matrix answer how distinct subject domains and subject Alchemies relate to one another.
+This phase maps relationships among the twenty established top-level Universal Subjects of Knowledge and their 264 unique canonical subject Alchemies. It is distinct from the existing 22-context matrix. The 22-context matrix answers where each Alchemy is mapped; the cross-domain map and matrix answer how distinct subject domains and subject Alchemies relate to one another.
 
-### 104.1 Mapping unit and direction
+### 104.1 Mapping units
 
-- **Domain-level node:** one of the twenty canonical top-level Universal Subjects of Knowledge listed in the cumulative register.
-- **Subject-Alchemy node:** one of the 264 unique canonical subject Alchemies in the current taxonomy.
-- **Relationship edge:** a recorded relationship between two nodes, with a defined type, direction where applicable, supporting source or rationale, and review status.
-- **Domain-level matrix:** a twenty-by-twenty comparison of the 190 possible unordered pairs of distinct top-level subject domains. Diagonal cells represent a domain compared with itself and are not relationship edges.
-- **Subject-Alchemy-level map and matrices:** subsequent finer-grained work that records the individual subject identities and their relationships. Domain-level links must not be treated as proof that every Alchemy within the two domains is related.
+- **Domain-level node:** one of the twenty canonical top-level Universal Subjects of Knowledge.
+- **Subject-Alchemy node:** one of the 264 unique canonical subject-Alchemy identities. A shared canonical identity remains one node with multiple top-level hierarchy memberships.
+- **Hierarchy edge:** an explicitly recorded parent-to-child relationship in a supplied subject hierarchy.
+- **Relationship edge:** a specifically described connection between two distinct canonical subject-Alchemy nodes, with a type, direction where applicable, rationale, evidence basis, and assessment state.
+- **Domain-level matrix:** a 20 × 20 view of the 190 unique unordered comparisons between top-level subject domains.
+- **Subject-Alchemy-level matrix:** a 264 × 264 sparse pairwise view covering 34,716 unique unordered pairs of distinct canonical subject-Alchemy nodes. The diagonal contains 264 self-comparisons and is excluded from relationship-pair totals.
 
-### 104.2 Relationship codes
+### 104.2 Relationship and matrix codes
 
 | Code | Meaning | Recording rule |
 |---|---|---|
-| SH | Shared canonical subject identity | The same stable subject-Alchemy ID is explicitly placed under two or more Universal Subject hierarchies. This is an identity-preserving cross-listing, not a similarity claim. |
-| RD | Related but distinct | Two different canonical subject-Alchemy IDs have a specifically described relationship while remaining separate identities. Requires an authored relationship statement and supporting rationale. |
-| DP | Dependency | One subject or Alchemy depends on another for a defined input, capability, condition, or operation. Requires evidence and direction. |
-| EN | Enables or supports | One subject or Alchemy provides a defined enabling or supporting function to another. Requires evidence and direction. |
-| UA | Unassessed | The pair has not yet been assessed sufficiently to assign a relationship code. UA does not mean unrelated, independent, or absent. |
+| SH | Shared canonical subject identity | Confirmed identity reuse: the same stable subject-Alchemy ID belongs to multiple top-level subject hierarchies. Used in the domain-level matrix; it is represented as multiple memberships of one node, not as two subject-Alchemy nodes. |
+| HI | Established hierarchy relationship | A direct parent-to-child edge explicitly recorded in the taxonomy. Direction is mandatory and is preserved in the hierarchy register. |
+| RD-P | Proposed related-but-distinct relationship | Two different canonical subject-Alchemy IDs are explicitly described as related while remaining distinct, or are identified by the taxonomy as related candidates. The relationship statement and boundaries are recorded, but the proposal remains pending owner review. |
+| DP | Dependency | One subject or Alchemy depends on another for a defined input, capability, condition, or operation. Requires evidence and direction. Reserved until supported. |
+| EN | Enables or supports | One subject or Alchemy provides a defined enabling or supporting function to another. Requires evidence and direction. Reserved until supported. |
+| NS | No direct relationship stated in the current taxonomy source | The source inventory and its explicit cross-reference notes were screened, but no direct relationship is stated for this pair. NS is not a finding that no relationship exists; further semantic research may identify one. |
+| UA | Unassessed | The pair has not yet received the defined source-screen or semantic assessment. UA does not mean unrelated, independent, or absent. |
 | — | Diagonal | A node compared with itself; excluded from pair counts. |
 
-Relationship codes are not interchangeable. SH is reserved for exact canonical identity reuse. RD, DP, and EN must not be assigned solely because names appear similar or because two subjects are grouped near one another. A pair may receive multiple codes only when each relationship is separately described and supported. Directed relationships such as DP and EN must also preserve direction in the relationship register; their matrix rendering may require an ordered matrix or a direction marker.
+Codes are not interchangeable. SH is exact identity reuse, HI is hierarchy, and RD-P is a proposed relationship between distinct subject identities. RD-P must not be treated as owner-accepted, fully defined, implemented, tested, or verified. DP and EN remain reserved until direction and supporting evidence are established. A pair may carry multiple relationship records only when each relationship is separately stated and supported.
 
-### 104.3 Evidence and status requirements
+### 104.3 Evidence, scope, and acceptance
 
-Each relationship record must preserve: source node IDs; target node IDs; relationship type; direction where applicable; canonical source wording or evidence reference; relationship rationale; known distinctions and boundaries; confidence or review status; reviewer/acceptance state; and change history. Relationship assessment status must remain distinct from source evidence status and owner acceptance.
+Each relationship record must preserve: source node IDs; target node IDs; relationship type and subtype; direction where applicable; canonical source wording or evidence reference; relationship rationale; scope and exclusions; distinctions that must remain intact; assessment status; owner-review/acceptance state; and change history.
 
-An unassessed pair must remain UA until it has been examined. A confirmed lack of a particular relationship may only be recorded after the relevant scope has been reviewed; it must not be inferred from a blank cell.
+Source-screen results, interpretive relationship proposals, external evidence, owner acceptance, and implementation status are separate fields. A proposed subtype is not a new subject definition. Where the taxonomy supplies no subject definition, no additional definition is inferred merely to justify a relationship.
 
+### 104.4 Matrix representation
+
+The domain matrix is a symmetric view for SH and RD-P because the current recorded links describe shared identity or related-but-distinct association. Directional relationships such as HI, DP, and EN belong in a directed edge register; the matrix uses direction markers where a directed edge is shown.
+
+The 264 × 264 subject-Alchemy matrix is maintained as a sparse matrix. The canonical node index below defines all rows and columns. Explicit HI and RD-P edges are stored as records. NS is the source-screen default for pairs not explicitly connected in the current taxonomy; it does not imply semantic independence or the absence of a possible relationship.
 ## 105. Cross-domain shared-identity map
 
 This is the initial confirmed map of exact shared canonical subject-Alchemy identities across the twenty top-level Universal Subjects. It records only identities already explicitly established in the taxonomy's hierarchy and inventory records.
@@ -2138,77 +2146,406 @@ This is the initial confirmed map of exact shared canonical subject-Alchemy iden
 
 These eight links do not mean that the connected domains are identical, that their entire subject inventories overlap, or that their contextual responsibilities are interchangeable. Each link establishes only the shared identity of the named subject Alchemy and its multiple parent relationships.
 
+
 ## 106. Universal Subject of Knowledge 20 × 20 cross-domain matrix
 
-The matrix covers all twenty top-level Universal Subjects. Each off-diagonal cell represents one comparison between two different subject domains. The matrix is symmetric for this first pass because SH represents an undirected shared-identity relationship. Future directional relationships such as dependency or enablement must be represented in a directed relationship register and, where needed, a separate directed matrix.
+This matrix covers all twenty top-level Universal Subjects. Each off-diagonal cell represents one unique comparison between two different subject domains. The matrix is symmetric for the currently recorded SH and RD-P relationships. It is a source-screen matrix, not a final semantic relationship matrix.
 
-**Matrix code key:** SH = shared canonical subject identity; UA = not yet assessed; — = diagonal. UA is not a negative finding.
+**Matrix code key:** SH = confirmed shared canonical identity; RD-P = proposed related-but-distinct relationship; NS = no direct relationship stated in the current taxonomy source (not a negative finding); — = diagonal.
 
 | Universal Subject of Knowledge | **FS** | **PS** | **LS** | **HS** | **ET** | **CIS** | **SS** | **BES** | **LG** | **HUM** | **LC** | **ACE** | **ELS** | **ENV** | **ESP** | **HDC** | **SP** | **TI** | **AFR** | **MKS** |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **FS** Formal Sciences | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA |
-| **PS** Physical Sciences | UA | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA |
-| **LS** Life Sciences | UA | UA | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | SH | UA | UA | UA | UA | UA | UA |
-| **HS** Health Sciences | UA | UA | UA | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA |
-| **ET** Engineering and Technology | UA | UA | UA | UA | — | SH | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | SH | UA | UA | UA |
-| **CIS** Computer and Information Sciences | UA | UA | UA | UA | SH | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA |
-| **SS** Social Sciences | UA | UA | UA | UA | UA | UA | — | SH | UA | UA | UA | UA | UA | UA | UA | SH | UA | UA | UA | UA |
-| **BES** Business and Economic Sciences | UA | UA | UA | UA | UA | UA | SH | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA |
-| **LG** Law and Governance | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA |
-| **HUM** Humanities | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | SH | UA | UA | UA | UA | UA | UA | UA | UA | UA |
-| **LC** Language and Communication | UA | UA | UA | UA | UA | UA | UA | UA | UA | SH | — | UA | UA | UA | UA | UA | UA | UA | UA | UA |
-| **ACE** Arts and Creative Expression | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA | UA | UA | UA | UA | UA |
-| **ELS** Education and Learning Sciences | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA | UA | UA | UA | SH |
-| **ENV** Environmental Sciences | UA | UA | SH | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA | UA | SH | UA |
-| **ESP** Earth, Space, and Planetary Sciences | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA | UA | UA |
-| **HDC** Human Development and Civilization | UA | UA | UA | UA | UA | UA | SH | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA | UA |
-| **SP** Security and Protection Sciences | UA | UA | UA | UA | SH | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA | UA |
-| **TI** Transportation and Infrastructure | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | — | UA | UA |
-| **AFR** Agriculture, Food, and Resource Sciences | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | SH | UA | UA | UA | UA | — | UA |
-| **MKS** Meta-Knowledge Sciences | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | UA | SH | UA | UA | UA | UA | UA | UA | — |
+| **FS** Formal Sciences | — | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | RD-P |
+| **PS** Physical Sciences | NS | — | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | RD-P | NS | NS | NS | NS | NS |
+| **LS** Life Sciences | NS | NS | — | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | SH | NS | NS | NS | NS | NS | NS |
+| **HS** Health Sciences | NS | NS | NS | — | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS |
+| **ET** Engineering and Technology | NS | NS | NS | NS | — | SH | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | SH | RD-P | NS | NS |
+| **CIS** Computer and Information Sciences | NS | NS | NS | NS | SH | — | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS |
+| **SS** Social Sciences | NS | NS | NS | NS | NS | NS | — | SH | NS | NS | NS | NS | NS | NS | NS | SH | NS | NS | NS | NS |
+| **BES** Business and Economic Sciences | NS | NS | NS | NS | NS | NS | SH | — | NS | NS | NS | NS | NS | NS | NS | NS | NS | RD-P | NS | NS |
+| **LG** Law and Governance | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS |
+| **HUM** Humanities | NS | NS | NS | NS | NS | NS | NS | NS | NS | — | SH | NS | NS | NS | NS | NS | NS | NS | NS | NS |
+| **LC** Language and Communication | NS | NS | NS | NS | NS | NS | NS | NS | NS | SH | — | NS | NS | NS | NS | NS | NS | NS | NS | NS |
+| **ACE** Arts and Creative Expression | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | NS | NS | NS | NS | NS | NS | NS |
+| **ELS** Education and Learning Sciences | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | NS | NS | NS | NS | NS | SH |
+| **ENV** Environmental Sciences | NS | NS | SH | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | NS | NS | NS | SH | NS |
+| **ESP** Earth, Space, and Planetary Sciences | NS | RD-P | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | NS | NS | NS | NS |
+| **HDC** Human Development and Civilization | NS | NS | NS | NS | NS | NS | SH | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | RD-P | NS | NS |
+| **SP** Security and Protection Sciences | NS | NS | NS | NS | SH | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | — | NS | NS | RD-P |
+| **TI** Transportation and Infrastructure | NS | NS | NS | NS | RD-P | NS | NS | RD-P | NS | NS | NS | NS | NS | NS | NS | RD-P | NS | — | NS | NS |
+| **AFR** Agriculture, Food, and Resource Sciences | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | SH | NS | NS | NS | NS | — | NS |
+| **MKS** Meta-Knowledge Sciences | RD-P | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | SH | NS | NS | NS | RD-P | NS | NS | — |
 
-### 106.1 Matrix coverage and current result
+### 106.1 Source-screen coverage
 
-| Measure | Pass 1 result |
+| Measure | Result |
 |---|---:|
 | Top-level Universal Subjects | 20 |
-| Possible unique off-diagonal domain pairs | 190 |
+| Unique off-diagonal domain pairs | 190 |
 | Confirmed shared-identity pairs (SH) | 8 |
-| Unassessed unique pairs (UA) | 182 |
+| Proposed related-but-distinct pairs (RD-P) | 7 |
+| Pairs with no direct relationship stated in the current taxonomy source (NS) | 175 |
 | Diagonal self-comparisons | 20 |
-| Symmetric SH cells displayed | 16 |
-| Symmetric UA cells displayed | 364 |
+| Displayed SH cells | 16 |
+| Displayed RD-P cells | 14 |
+| Displayed NS cells | 350 |
 
-**Assessment coverage:** 8 of 190 unique domain pairs (4.21%) have a confirmed shared-identity relationship recorded in this first pass. The remaining 182 unique pairs are explicitly unassessed, not classified as unrelated. The matrix is a first-pass identity matrix, not a completed semantic, functional, dependency, or influence map.
+All 190 unique domain pairs have now received a source-inventory and explicit-note screen. Eight have a confirmed shared canonical identity, seven have at least one proposed related-but-distinct edge, and 175 contain no direct cross-domain relationship statement in the current taxonomy source. The 175 NS pairs remain open to semantic research; they are not classified as unrelated.
 
-## 107. Related-but-distinct relationship review queue
+The seven RD-P domain pairs are Formal Sciences ↔ Meta-Knowledge Sciences; Security and Protection Sciences ↔ Meta-Knowledge Sciences; Transportation and Infrastructure ↔ Business and Economic Sciences; Transportation and Infrastructure ↔ Human Development and Civilization; Transportation and Infrastructure ↔ Engineering and Technology; Human Development and Civilization ↔ Social Sciences; and Earth, Space, and Planetary Sciences ↔ Physical Sciences.
 
-The source taxonomy explicitly identifies the following subject distinctions or related subject groupings. These are retained as review candidates for later subject-Alchemy mapping. They are not yet encoded as RD, DP, or EN relationships in the twenty-by-twenty matrix because the exact relationship definition, scope, direction, and evidence have not been assessed in this pass.
+The two Humanities candidate relationships are intra-domain subject-Alchemy relationships and therefore do not create an additional off-diagonal top-level domain pair.
+## 107. Related-but-distinct relationship proposals
 
-| Candidate | Subject Alchemy A | Subject Alchemy B or comparison set | Source-grounded reason for review | Current state |
-|---|---|---|---|---|
-| RD-CAND-001 | Systems Theory (USA-FS-014) | Systems Thinking (USA-MKS-009) | The taxonomy explicitly preserves them as distinct. | Candidate; relationship not yet typed. |
-| RD-CAND-002 | Complexity Theory (USA-FS-019) | Complexity Science (USA-MKS-010) | The taxonomy explicitly preserves them as distinct. | Candidate; relationship not yet typed. |
-| RD-CAND-003 | Intelligence Analysis (USA-SP-005) | Intelligence Studies (USA-MKS-012) | The taxonomy explicitly preserves them as distinct. | Candidate; relationship not yet typed. |
-| RD-CAND-004 | Logistics (USA-TI-003) | Supply Chain Management (USA-BES-010) | The Transportation and Infrastructure entry explicitly says Logistics is not collapsed into Supply Chain Management. | Candidate; relationship not yet typed. |
-| RD-CAND-005 | Urban Planning (USA-TI-005) | Urban Studies (USA-HDC-006) | The Transportation and Infrastructure entry explicitly says Urban Planning is not merged with Urban Studies. | Candidate; relationship not yet typed. |
-| RD-CAND-006 | Infrastructure Engineering (USA-TI-006) | Civil Engineering (USA-ET-004) | The Transportation and Infrastructure entry explicitly says Infrastructure Engineering is not merged with Civil Engineering. | Candidate; relationship not yet typed. |
-| RD-CAND-007 | Transportation and Infrastructure (USA-TI-001) | Aerospace Engineering (USA-ET-006) | Aerospace Engineering is named among related existing subjects that remain distinct; the source does not identify a one-to-one subject counterpart. | Parent-to-subject candidate; exact relation not yet typed. |
-| RD-CAND-008 | Human Development and Civilization (USA-HDC-001) | Cultural Studies (USA-SS-012); Demography (USA-SS-009); Sociology (USA-SS-003); Human Geography (USA-SS-008) | The Human Development and Civilization entry names these as related subjects that remain distinct; it does not specify individual relationship types. | Candidate set; individual edges not yet typed. |
-| RD-CAND-009 | Earth, Space, and Planetary Sciences (USA-ESP-001) | Astronomy (USA-PS-016); Cosmology (USA-PS-017); Planetary Science (USA-PS-018); Earth Science (USA-PS-019); Geophysics (USA-PS-020) | The Earth, Space, and Planetary Sciences entry explicitly identifies these existing subjects as related yet distinct from the supplied hierarchy. | Candidate set; individual edges not yet typed. |
-| RD-CAND-010 | Religious Studies (USA-HUM-008) | Comparative Religion (USA-HUM-009) | The Humanities entry identifies the names as closely related while preserving separate subject and Alchemy identities. | Candidate; relationship not yet typed. |
-| RD-CAND-011 | History (USA-HUM-004) | Historical Analysis (USA-HUM-012) | The Humanities entry identifies the names as closely related while preserving separate subject and Alchemy identities. | Candidate; relationship not yet typed. |
+The eleven candidate records/sets from version 1.12.0 have been resolved into eighteen subject-Alchemy relationship proposals. The original candidate IDs are retained for traceability. Each proposal preserves both canonical subject identities and explicitly avoids merging them.
 
-The review queue preserves the source taxonomy's explicit distinctions without prematurely turning every distinction into a confirmed semantic relationship. The candidate sets RD-CAND-008 and RD-CAND-009 require finer-grained pairing before any individual edges are accepted. These candidates do not change the shared-identity matrix counts.
+**Assessment boundary:** these records are source-grounded relationship proposals, not owner-accepted final relationship definitions. Their high-level related-but-distinct status is retained from the taxonomy's own source notes. The more specific relationship subtype is an interpretive proposal and remains pending review. In particular, the precise scope distinction between Complexity Theory and Complexity Science is unresolved because the supplied taxonomy does not provide definitions for either subject.
 
-### 107.1 Next mapping passes
+| Relationship ID | Canonical Alchemy A | Canonical Alchemy B | Domain pair | Proposed relationship subtype | Relationship rationale and boundary | Assessment state | Source candidate |
+|---|---|---|---|---|---|---|---|
+| RD-001 | USA-FS-014 Systems Theory | USA-MKS-009 Systems Thinking | FS ↔ MKS | theory–thinking complementarity | Systems Theory and Systems Thinking are retained as distinct canonical Alchemies. The proposed relationship is complementary: one concerns formal accounts or theories of systems, while the other denotes a systems-oriented mode of thought. This is not a parent-child or identity relationship. | Proposed subtype; owner review pending | RD-CAND-001 |
+| RD-002 | USA-FS-019 Complexity Theory | USA-MKS-010 Complexity Science | FS ↔ MKS | terminology-sensitive conceptual neighborhood | Complexity Theory and Complexity Science are explicitly preserved as distinct. The supplied taxonomy does not define either term, so this record establishes only their source-stated related-but-distinct status. Their precise scope relationship remains unresolved; no equivalence or containment is asserted. | Subtype unresolved; source definition required | RD-CAND-002 |
+| RD-003 | USA-SP-005 Intelligence Analysis | USA-MKS-012 Intelligence Studies | SP ↔ MKS | field–analytic practice relationship | Intelligence Studies and Intelligence Analysis are retained as separate identities. The proposed relationship is between a broad field of study and an analytic activity or practice; neither identity is subsumed into the other by this record. | Proposed subtype; owner review pending | RD-CAND-003 |
+| RD-004 | USA-TI-003 Logistics | USA-BES-010 Supply Chain Management | TI ↔ BES | functional-domain relationship | Logistics and Supply Chain Management are distinct. The proposed relationship records their operational interface: logistics concerns movement, storage, and flow functions that interact with wider supply-chain coordination and management. It does not merge the identities. | Proposed subtype; owner review pending | RD-CAND-004 |
+| RD-005 | USA-TI-005 Urban Planning | USA-HDC-006 Urban Studies | TI ↔ HDC | practice–interdisciplinary field relationship | Urban Planning and Urban Studies remain distinct. The proposed relationship connects planning practice and interventions with the broader interdisciplinary study of urban environments and processes; it does not establish a strict parent-child relation. | Proposed subtype; owner review pending | RD-CAND-005 |
+| RD-006 | USA-TI-006 Infrastructure Engineering | USA-ET-004 Civil Engineering | TI ↔ ET | technical-scope overlap | Infrastructure Engineering and Civil Engineering are distinct identities with an area of technical overlap. This record does not claim that either field is wholly contained by the other. | Proposed subtype; owner review pending | RD-CAND-006 |
+| RD-007 | USA-TI-001 Transportation and Infrastructure | USA-ET-006 Aerospace Engineering | TI ↔ ET | transport and infrastructure application interface | Transportation and Infrastructure and Aerospace Engineering are distinct. The proposed relationship is limited to their interface through aerospace transportation systems and associated infrastructure; it does not imply that all Aerospace Engineering is a branch of Transportation and Infrastructure. | Proposed subtype; owner review pending | RD-CAND-007 |
+| RD-008 | USA-HDC-001 Human Development and Civilization | USA-SS-012 Cultural Studies | HDC ↔ SS | cross-domain analytical contribution | Cultural Studies is named by the taxonomy as related to, but distinct from, Human Development and Civilization. It can contribute cultural perspectives to the analysis of human development and civilization; this is not a shared identity or a taxonomy parent-child assignment. | Proposed subtype; owner review pending | RD-CAND-008 |
+| RD-009 | USA-HDC-001 Human Development and Civilization | USA-SS-009 Demography | HDC ↔ SS | cross-domain analytical contribution | Demography is named by the taxonomy as related to, but distinct from, Human Development and Civilization. Population structure and change provide a relevant analytical perspective; this is not a shared identity or a taxonomy parent-child assignment. | Proposed subtype; owner review pending | RD-CAND-008 |
+| RD-010 | USA-HDC-001 Human Development and Civilization | USA-SS-003 Sociology | HDC ↔ SS | cross-domain analytical contribution | Sociology is named by the taxonomy as related to, but distinct from, Human Development and Civilization. Social structure and processes provide a relevant analytical perspective; this is not a shared identity or a taxonomy parent-child assignment. | Proposed subtype; owner review pending | RD-CAND-008 |
+| RD-011 | USA-HDC-001 Human Development and Civilization | USA-SS-008 Human Geography | HDC ↔ SS | cross-domain analytical contribution | Human Geography is named by the taxonomy as related to, but distinct from, Human Development and Civilization. Human-place and spatial relationships provide a relevant analytical perspective; this is not a shared identity or a taxonomy parent-child assignment. | Proposed subtype; owner review pending | RD-CAND-008 |
+| RD-012 | USA-ESP-001 Earth, Space, and Planetary Sciences | USA-PS-016 Astronomy | ESP ↔ PS | disciplinary scope intersection | Astronomy is identified as related to, but distinct from, Earth, Space, and Planetary Sciences. The relationship concerns an intersection in the study of celestial objects and space; it does not duplicate or reparent Astronomy. | Proposed subtype; owner review pending | RD-CAND-009 |
+| RD-013 | USA-ESP-001 Earth, Space, and Planetary Sciences | USA-PS-017 Cosmology | ESP ↔ PS | disciplinary scope intersection | Cosmology is identified as related to, but distinct from, Earth, Space, and Planetary Sciences. The relationship concerns an intersection in the study of the universe and its large-scale structure; no identity merge or hierarchy reassignment is made. | Proposed subtype; owner review pending | RD-CAND-009 |
+| RD-014 | USA-ESP-001 Earth, Space, and Planetary Sciences | USA-PS-018 Planetary Science | ESP ↔ PS | disciplinary scope intersection | Planetary Science is identified as related to, but distinct from, Earth, Space, and Planetary Sciences. The relationship concerns overlapping planetary subject matter; the two canonical identities remain separate. | Proposed subtype; owner review pending | RD-CAND-009 |
+| RD-015 | USA-ESP-001 Earth, Space, and Planetary Sciences | USA-PS-019 Earth Science | ESP ↔ PS | disciplinary scope intersection | Earth Science is identified as related to, but distinct from, Earth, Space, and Planetary Sciences. The relationship concerns overlapping Earth-system subject matter; the two canonical identities remain separate. | Proposed subtype; owner review pending | RD-CAND-009 |
+| RD-016 | USA-ESP-001 Earth, Space, and Planetary Sciences | USA-PS-020 Geophysics | ESP ↔ PS | disciplinary scope intersection | Geophysics is identified as related to, but distinct from, Earth, Space, and Planetary Sciences. The relationship concerns geophysical study of Earth and planetary processes; no identity merge or hierarchy reassignment is made. | Proposed subtype; owner review pending | RD-CAND-009 |
+| RD-017 | USA-HUM-008 Religious Studies | USA-HUM-009 Comparative Religion | HUM ↔ HUM | field–comparative approach relationship | Religious Studies and Comparative Religion are identified as closely related but separate. The proposed relationship recognizes comparative study as an approach or subfield associated with the study of religions, without asserting that the two canonical subjects are identical. | Proposed subtype; owner review pending | RD-CAND-010 |
+| RD-018 | USA-HUM-004 History | USA-HUM-012 Historical Analysis | HUM ↔ HUM | discipline–analytic method relationship | History and Historical Analysis are identified as closely related but separate. The proposed relationship connects the historical discipline with the analytical examination of historical evidence and processes, without merging the two canonical subjects. | Proposed subtype; owner review pending | RD-CAND-011 |
 
-1. Resolve the candidate related-but-distinct pairs and sets into precise subject-Alchemy relationship records, or retain them as unresolved where evidence is insufficient.
-2. Examine the remaining unassessed top-level domain pairs, using the canonical subject inventories rather than category names alone.
-3. Build the subject-Alchemy-level relationship map for all 264 unique subject Alchemies, distinguishing identity, relation, dependency, enablement, and explicit non-equivalence.
-4. Produce subject-Alchemy-level matrices and supporting relationship registers; validate symmetry, directionality, duplicate edges, missing nodes, and evidence traceability.
-5. Review the maps and matrices across the 22 C2O and UNIVERSALIS contexts without assuming that a relationship has identical responsibilities, authority, implementation, or visibility in every context.
-## 108. Cumulative Universal Subject Alchemy register and mapping totals
+### 107.1 Candidate resolution summary
+
+| Original candidate | Resolution |
+|---|---|
+| RD-CAND-001 | One proposed systems-theory / systems-thinking relationship (RD-001). |
+| RD-CAND-002 | One proposed complexity-theory / complexity-science relationship (RD-002); exact subtype unresolved. |
+| RD-CAND-003 | One proposed intelligence-analysis / intelligence-studies relationship (RD-003). |
+| RD-CAND-004 | One proposed logistics / supply-chain-management relationship (RD-004). |
+| RD-CAND-005 | One proposed urban-planning / urban-studies relationship (RD-005). |
+| RD-CAND-006 | One proposed infrastructure-engineering / civil-engineering relationship (RD-006). |
+| RD-CAND-007 | One proposed Transportation and Infrastructure / Aerospace Engineering interface (RD-007); no whole-domain containment asserted. |
+| RD-CAND-008 | Four individual proposals: RD-008 through RD-011. |
+| RD-CAND-009 | Five individual proposals: RD-012 through RD-016. |
+| RD-CAND-010 | One proposed Religious Studies / Comparative Religion relationship (RD-017). |
+| RD-CAND-011 | One proposed History / Historical Analysis relationship (RD-018). |
+
+**Pass 2 candidate result:** 11 source candidate records/sets expanded into 18 traceable subject-Alchemy edges. All 18 retain RD-P status pending owner review. No canonical subject identity, definition, or hierarchy placement has been merged or changed.
+## 108. Universal Subject Alchemy 264 × 264 sparse relationship matrix
+
+The subject-Alchemy relationship matrix now indexes all 264 unique canonical subject-Alchemy identities. It uses stable canonical identifiers as row and column keys. The matrix is sparse because most possible node pairs do not yet have a recorded relationship in the current source taxonomy.
+
+### 108.1 Complete canonical node index
+
+The following index establishes every canonical node included in the 264 × 264 matrix. Multi-domain entries are listed once and show all of their top-level hierarchy memberships. They are not duplicated as separate nodes.
+
+| Canonical ID | Universal Subject of Knowledge | Canonical Alchemy | Top-level hierarchy membership |
+|---|---|---|---|
+| USA-ACE-001 | Arts and Creative Expression | Arts and Creative Expression Alchemy | Arts and Creative Expression |
+| USA-ACE-002 | Visual Arts | Visual Arts Alchemy | Arts and Creative Expression |
+| USA-ACE-003 | Drawing | Drawing Alchemy | Arts and Creative Expression |
+| USA-ACE-004 | Painting | Painting Alchemy | Arts and Creative Expression |
+| USA-ACE-005 | Sculpture | Sculpture Alchemy | Arts and Creative Expression |
+| USA-ACE-006 | Photography | Photography Alchemy | Arts and Creative Expression |
+| USA-ACE-007 | Architecture | Architecture Alchemy | Arts and Creative Expression |
+| USA-ACE-008 | Design | Design Alchemy | Arts and Creative Expression |
+| USA-ACE-009 | Industrial Design | Industrial Design Alchemy | Arts and Creative Expression |
+| USA-ACE-010 | Music | Music Alchemy | Arts and Creative Expression |
+| USA-ACE-011 | Dance | Dance Alchemy | Arts and Creative Expression |
+| USA-ACE-012 | Theater | Theater Alchemy | Arts and Creative Expression |
+| USA-ACE-013 | Film | Film Alchemy | Arts and Creative Expression |
+| USA-ACE-014 | Creative Writing | Creative Writing Alchemy | Arts and Creative Expression |
+| USA-ACE-015 | Animation | Animation Alchemy | Arts and Creative Expression |
+| USA-ACE-016 | Game Design | Game Design Alchemy | Arts and Creative Expression |
+| USA-AFR-001 | Agriculture, Food, and Resource Sciences | Agriculture, Food, and Resource Sciences Alchemy | Agriculture, Food, and Resource Sciences |
+| USA-AFR-002 | Agronomy | Agronomy Alchemy | Agriculture, Food, and Resource Sciences |
+| USA-AFR-003 | Forestry | Forestry Alchemy | Agriculture, Food, and Resource Sciences |
+| USA-AFR-004 | Food Science | Food Science Alchemy | Agriculture, Food, and Resource Sciences |
+| USA-AFR-005 | Animal Science | Animal Science Alchemy | Agriculture, Food, and Resource Sciences |
+| USA-AFR-006 | Fisheries | Fisheries Alchemy | Agriculture, Food, and Resource Sciences |
+| USA-AFR-007 | Aquaculture | Aquaculture Alchemy | Agriculture, Food, and Resource Sciences |
+| USA-AFR-008 | Soil Science | Soil Science Alchemy | Agriculture, Food, and Resource Sciences |
+| USA-AFR-009 | Water Resource Management | Water Resource Management Alchemy | Agriculture, Food, and Resource Sciences |
+| USA-BES-001 | Business and Economic Sciences | Business and Economic Sciences Alchemy | Business and Economic Sciences |
+| USA-BES-002 | Accounting | Accounting Alchemy | Business and Economic Sciences |
+| USA-BES-003 | Finance | Finance Alchemy | Business and Economic Sciences |
+| USA-BES-004 | Investment | Investment Alchemy | Business and Economic Sciences |
+| USA-BES-005 | Banking | Banking Alchemy | Business and Economic Sciences |
+| USA-BES-006 | Marketing | Marketing Alchemy | Business and Economic Sciences |
+| USA-BES-007 | Sales | Sales Alchemy | Business and Economic Sciences |
+| USA-BES-008 | Entrepreneurship | Entrepreneurship Alchemy | Business and Economic Sciences |
+| USA-BES-009 | Operations Management | Operations Management Alchemy | Business and Economic Sciences |
+| USA-BES-010 | Supply Chain Management | Supply Chain Management Alchemy | Business and Economic Sciences |
+| USA-BES-011 | Human Resources | Human Resources Alchemy | Business and Economic Sciences |
+| USA-BES-012 | Organizational Behavior | Organizational Behavior Alchemy | Business and Economic Sciences |
+| USA-BES-013 | Strategic Management | Strategic Management Alchemy | Business and Economic Sciences |
+| USA-BES-014 | Project Management | Project Management Alchemy | Business and Economic Sciences |
+| USA-BES-015 | Risk Management | Risk Management Alchemy | Business and Economic Sciences |
+| USA-CIS-001 | Computer and Information Sciences | Computer and Information Sciences Alchemy | Computer and Information Sciences |
+| USA-CIS-002 | Computer Science | Computer Science Alchemy | Computer and Information Sciences |
+| USA-CIS-003 | Software Development | Software Development Alchemy | Computer and Information Sciences |
+| USA-CIS-004 | Data Science | Data Science Alchemy | Computer and Information Sciences |
+| USA-CIS-005 | Machine Learning | Machine Learning Alchemy | Computer and Information Sciences |
+| USA-CIS-006 | Information Systems | Information Systems Alchemy | Computer and Information Sciences |
+| USA-CIS-007 | Database Systems | Database Systems Alchemy | Computer and Information Sciences |
+| USA-CIS-008 | Human-Computer Interaction | Human-Computer Interaction Alchemy | Computer and Information Sciences |
+| USA-CIS-009 | Networking | Networking Alchemy | Computer and Information Sciences |
+| USA-CIS-010 | Cloud Computing | Cloud Computing Alchemy | Computer and Information Sciences |
+| USA-CIS-011 | Distributed Systems | Distributed Systems Alchemy | Computer and Information Sciences |
+| USA-CIS-012 | Knowledge Engineering | Knowledge Engineering Alchemy | Computer and Information Sciences |
+| USA-CIS-013 | Digital Preservation | Digital Preservation Alchemy | Computer and Information Sciences |
+| USA-CIS-014 | Information Architecture | Information Architecture Alchemy | Computer and Information Sciences |
+| USA-ELS-001 | Education and Learning Sciences | Education and Learning Sciences Alchemy | Education and Learning Sciences |
+| USA-ELS-002 | Pedagogy | Pedagogy Alchemy | Education and Learning Sciences |
+| USA-ELS-003 | Instructional Design | Instructional Design Alchemy | Education and Learning Sciences |
+| USA-ELS-004 | Learning Theory | Learning Theory Alchemy | Education and Learning Sciences |
+| USA-ELS-005 | Educational Psychology | Educational Psychology Alchemy | Education and Learning Sciences |
+| USA-ELS-006 | Assessment | Assessment Alchemy | Education and Learning Sciences |
+| USA-ELS-007 | Curriculum Design | Curriculum Design Alchemy | Education and Learning Sciences |
+| USA-ELS-008 | Knowledge Management | Knowledge Management Alchemy | Education and Learning Sciences; Meta-Knowledge Sciences |
+| USA-ELS-009 | Training Systems | Training Systems Alchemy | Education and Learning Sciences |
+| USA-ENV-001 | Environmental Sciences | Environmental Sciences Alchemy | Environmental Sciences |
+| USA-ENV-002 | Conservation | Conservation Alchemy | Environmental Sciences |
+| USA-ENV-003 | Sustainability | Sustainability Alchemy | Environmental Sciences |
+| USA-ENV-004 | Climate Science | Climate Science Alchemy | Environmental Sciences |
+| USA-ENV-005 | Environmental Engineering | Environmental Engineering Alchemy | Environmental Sciences |
+| USA-ENV-006 | Renewable Energy | Renewable Energy Alchemy | Environmental Sciences |
+| USA-ENV-007 | Resource Management | Resource Management Alchemy | Environmental Sciences |
+| USA-ENV-008 | Biodiversity Studies | Biodiversity Studies Alchemy | Environmental Sciences |
+| USA-ENV-009 | Restoration Science | Restoration Science Alchemy | Environmental Sciences |
+| USA-ENV-010 | Agriculture | Agriculture Alchemy | Environmental Sciences; Agriculture, Food, and Resource Sciences |
+| USA-ESP-001 | Earth, Space, and Planetary Sciences | Earth, Space, and Planetary Sciences Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-002 | Geology | Geology Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-003 | Hydrology | Hydrology Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-004 | Volcanology | Volcanology Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-005 | Seismology | Seismology Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-006 | Cartography | Cartography Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-007 | Remote Sensing | Remote Sensing Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-008 | Space Science | Space Science Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-009 | Planetary Exploration | Planetary Exploration Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ESP-010 | Astrobiology | Astrobiology Alchemy | Earth, Space, and Planetary Sciences |
+| USA-ET-001 | Engineering and Technology | Engineering and Technology Alchemy | Engineering and Technology |
+| USA-ET-002 | Mechanical Engineering | Mechanical Engineering Alchemy | Engineering and Technology |
+| USA-ET-003 | Electrical Engineering | Electrical Engineering Alchemy | Engineering and Technology |
+| USA-ET-004 | Civil Engineering | Civil Engineering Alchemy | Engineering and Technology |
+| USA-ET-005 | Chemical Engineering | Chemical Engineering Alchemy | Engineering and Technology |
+| USA-ET-006 | Aerospace Engineering | Aerospace Engineering Alchemy | Engineering and Technology |
+| USA-ET-007 | Nuclear Engineering | Nuclear Engineering Alchemy | Engineering and Technology |
+| USA-ET-008 | Biomedical Engineering | Biomedical Engineering Alchemy | Engineering and Technology |
+| USA-ET-009 | Software Engineering | Software Engineering Alchemy | Engineering and Technology |
+| USA-ET-010 | Computer Engineering | Computer Engineering Alchemy | Engineering and Technology |
+| USA-ET-011 | Systems Engineering | Systems Engineering Alchemy | Engineering and Technology |
+| USA-ET-012 | Robotics | Robotics Alchemy | Engineering and Technology |
+| USA-ET-013 | Nanotechnology | Nanotechnology Alchemy | Engineering and Technology |
+| USA-ET-014 | Manufacturing | Manufacturing Alchemy | Engineering and Technology |
+| USA-ET-015 | Industrial Engineering | Industrial Engineering Alchemy | Engineering and Technology |
+| USA-ET-016 | Telecommunications | Telecommunications Alchemy | Engineering and Technology |
+| USA-ET-017 | Artificial Intelligence | Artificial Intelligence Alchemy | Engineering and Technology; Computer and Information Sciences |
+| USA-ET-018 | Cybersecurity | Cybersecurity Alchemy | Engineering and Technology; Security and Protection Sciences |
+| USA-FS-001 | Formal Sciences | Formal Sciences Alchemy | Formal Sciences |
+| USA-FS-002 | Logic | Logic Alchemy | Formal Sciences |
+| USA-FS-003 | Mathematics | Mathematics Alchemy | Formal Sciences |
+| USA-FS-004 | Arithmetic | Arithmetic Alchemy | Formal Sciences |
+| USA-FS-005 | Algebra | Algebra Alchemy | Formal Sciences |
+| USA-FS-006 | Geometry | Geometry Alchemy | Formal Sciences |
+| USA-FS-007 | Trigonometry | Trigonometry Alchemy | Formal Sciences |
+| USA-FS-008 | Calculus | Calculus Alchemy | Formal Sciences |
+| USA-FS-009 | Statistics | Statistics Alchemy | Formal Sciences |
+| USA-FS-010 | Probability | Probability Alchemy | Formal Sciences |
+| USA-FS-011 | Number Theory | Number Theory Alchemy | Formal Sciences |
+| USA-FS-012 | Topology | Topology Alchemy | Formal Sciences |
+| USA-FS-013 | Discrete Mathematics | Discrete Mathematics Alchemy | Formal Sciences |
+| USA-FS-014 | Systems Theory | Systems Theory Alchemy | Formal Sciences |
+| USA-FS-015 | Information Theory | Information Theory Alchemy | Formal Sciences |
+| USA-FS-016 | Decision Theory | Decision Theory Alchemy | Formal Sciences |
+| USA-FS-017 | Game Theory | Game Theory Alchemy | Formal Sciences |
+| USA-FS-018 | Computation Theory | Computation Theory Alchemy | Formal Sciences |
+| USA-FS-019 | Complexity Theory | Complexity Theory Alchemy | Formal Sciences |
+| USA-HDC-001 | Human Development and Civilization | Human Development and Civilization Alchemy | Human Development and Civilization |
+| USA-HDC-002 | Human Development | Human Development Alchemy | Human Development and Civilization |
+| USA-HDC-003 | Family Studies | Family Studies Alchemy | Human Development and Civilization |
+| USA-HDC-004 | Childhood Development | Childhood Development Alchemy | Human Development and Civilization |
+| USA-HDC-005 | Gerontology | Gerontology Alchemy | Human Development and Civilization |
+| USA-HDC-006 | Urban Studies | Urban Studies Alchemy | Human Development and Civilization |
+| USA-HDC-007 | Civilization Studies | Civilization Studies Alchemy | Human Development and Civilization |
+| USA-HDC-008 | Cultural Evolution | Cultural Evolution Alchemy | Human Development and Civilization |
+| USA-HDC-009 | Migration Studies | Migration Studies Alchemy | Human Development and Civilization |
+| USA-HS-001 | Health Sciences | Health Sciences Alchemy | Health Sciences |
+| USA-HS-002 | Medicine | Medicine Alchemy | Health Sciences |
+| USA-HS-003 | Nursing | Nursing Alchemy | Health Sciences |
+| USA-HS-004 | Surgery | Surgery Alchemy | Health Sciences |
+| USA-HS-005 | Pharmacology | Pharmacology Alchemy | Health Sciences |
+| USA-HS-006 | Public Health | Public Health Alchemy | Health Sciences |
+| USA-HS-007 | Epidemiology | Epidemiology Alchemy | Health Sciences |
+| USA-HS-008 | Nutrition | Nutrition Alchemy | Health Sciences |
+| USA-HS-009 | Physical Therapy | Physical Therapy Alchemy | Health Sciences |
+| USA-HS-010 | Occupational Therapy | Occupational Therapy Alchemy | Health Sciences |
+| USA-HS-011 | Dentistry | Dentistry Alchemy | Health Sciences |
+| USA-HS-012 | Mental Health | Mental Health Alchemy | Health Sciences |
+| USA-HS-013 | Preventive Medicine | Preventive Medicine Alchemy | Health Sciences |
+| USA-HS-014 | Emergency Medicine | Emergency Medicine Alchemy | Health Sciences |
+| USA-HS-015 | Rehabilitation Science | Rehabilitation Science Alchemy | Health Sciences |
+| USA-HUM-001 | Humanities | Humanities Alchemy | Humanities |
+| USA-HUM-002 | Philosophy | Philosophy Alchemy | Humanities |
+| USA-HUM-003 | Ethics | Ethics Alchemy | Humanities |
+| USA-HUM-004 | History | History Alchemy | Humanities |
+| USA-HUM-005 | Archaeology | Archaeology Alchemy | Humanities |
+| USA-HUM-006 | Linguistics | Linguistics Alchemy | Humanities; Language and Communication |
+| USA-HUM-007 | Literature | Literature Alchemy | Humanities |
+| USA-HUM-008 | Religious Studies | Religious Studies Alchemy | Humanities |
+| USA-HUM-009 | Comparative Religion | Comparative Religion Alchemy | Humanities |
+| USA-HUM-010 | Classical Studies | Classical Studies Alchemy | Humanities |
+| USA-HUM-011 | Cultural Heritage | Cultural Heritage Alchemy | Humanities |
+| USA-HUM-012 | Historical Analysis | Historical Analysis Alchemy | Humanities |
+| USA-LC-001 | Language and Communication | Language and Communication Alchemy | Language and Communication |
+| USA-LC-002 | Semantics | Semantics Alchemy | Language and Communication |
+| USA-LC-003 | Syntax | Syntax Alchemy | Language and Communication |
+| USA-LC-004 | Pragmatics | Pragmatics Alchemy | Language and Communication |
+| USA-LC-005 | Translation | Translation Alchemy | Language and Communication |
+| USA-LC-006 | Rhetoric | Rhetoric Alchemy | Language and Communication |
+| USA-LC-007 | Journalism | Journalism Alchemy | Language and Communication |
+| USA-LC-008 | Storytelling | Storytelling Alchemy | Language and Communication |
+| USA-LC-009 | Public Speaking | Public Speaking Alchemy | Language and Communication |
+| USA-LC-010 | Media Studies | Media Studies Alchemy | Language and Communication |
+| USA-LC-011 | Information Communication | Information Communication Alchemy | Language and Communication |
+| USA-LG-001 | Law and Governance | Law and Governance Alchemy | Law and Governance |
+| USA-LG-002 | Jurisprudence | Jurisprudence Alchemy | Law and Governance |
+| USA-LG-003 | Constitutional Law | Constitutional Law Alchemy | Law and Governance |
+| USA-LG-004 | Criminal Law | Criminal Law Alchemy | Law and Governance |
+| USA-LG-005 | Civil Law | Civil Law Alchemy | Law and Governance |
+| USA-LG-006 | International Law | International Law Alchemy | Law and Governance |
+| USA-LG-007 | Administrative Law | Administrative Law Alchemy | Law and Governance |
+| USA-LG-008 | Environmental Law | Environmental Law Alchemy | Law and Governance |
+| USA-LG-009 | Human Rights | Human Rights Alchemy | Law and Governance |
+| USA-LG-010 | Public Policy | Public Policy Alchemy | Law and Governance |
+| USA-LG-011 | Governance | Governance Alchemy | Law and Governance |
+| USA-LG-012 | Regulatory Science | Regulatory Science Alchemy | Law and Governance |
+| USA-LG-013 | Diplomacy | Diplomacy Alchemy | Law and Governance |
+| USA-LS-001 | Life Sciences | Life Sciences Alchemy | Life Sciences |
+| USA-LS-002 | Biology | Biology Alchemy | Life Sciences |
+| USA-LS-003 | Genetics | Genetics Alchemy | Life Sciences |
+| USA-LS-004 | Evolutionary Biology | Evolutionary Biology Alchemy | Life Sciences |
+| USA-LS-005 | Ecology | Ecology Alchemy | Life Sciences; Environmental Sciences |
+| USA-LS-006 | Microbiology | Microbiology Alchemy | Life Sciences |
+| USA-LS-007 | Botany | Botany Alchemy | Life Sciences |
+| USA-LS-008 | Zoology | Zoology Alchemy | Life Sciences |
+| USA-LS-009 | Marine Biology | Marine Biology Alchemy | Life Sciences |
+| USA-LS-010 | Molecular Biology | Molecular Biology Alchemy | Life Sciences |
+| USA-LS-011 | Cell Biology | Cell Biology Alchemy | Life Sciences |
+| USA-LS-012 | Biotechnology | Biotechnology Alchemy | Life Sciences |
+| USA-LS-013 | Neuroscience | Neuroscience Alchemy | Life Sciences |
+| USA-LS-014 | Physiology | Physiology Alchemy | Life Sciences |
+| USA-LS-015 | Anatomy | Anatomy Alchemy | Life Sciences |
+| USA-LS-016 | Immunology | Immunology Alchemy | Life Sciences |
+| USA-LS-017 | Virology | Virology Alchemy | Life Sciences |
+| USA-LS-018 | Mycology | Mycology Alchemy | Life Sciences |
+| USA-MKS-001 | Meta-Knowledge Sciences | Meta-Knowledge Sciences Alchemy | Meta-Knowledge Sciences |
+| USA-MKS-002 | Epistemology | Epistemology Alchemy | Meta-Knowledge Sciences |
+| USA-MKS-003 | Classification Science | Classification Science Alchemy | Meta-Knowledge Sciences |
+| USA-MKS-004 | Taxonomy | Taxonomy Alchemy | Meta-Knowledge Sciences |
+| USA-MKS-005 | Ontology | Ontology Alchemy | Meta-Knowledge Sciences |
+| USA-MKS-006 | Library Science | Library Science Alchemy | Meta-Knowledge Sciences |
+| USA-MKS-007 | Research Methodology | Research Methodology Alchemy | Meta-Knowledge Sciences |
+| USA-MKS-008 | Scientific Methodology | Scientific Methodology Alchemy | Meta-Knowledge Sciences |
+| USA-MKS-009 | Systems Thinking | Systems Thinking Alchemy | Meta-Knowledge Sciences |
+| USA-MKS-010 | Complexity Science | Complexity Science Alchemy | Meta-Knowledge Sciences |
+| USA-MKS-011 | Cybernetics | Cybernetics Alchemy | Meta-Knowledge Sciences |
+| USA-MKS-012 | Intelligence Studies | Intelligence Studies Alchemy | Meta-Knowledge Sciences |
+| USA-PS-001 | Physical Sciences | Physical Sciences Alchemy | Physical Sciences |
+| USA-PS-002 | Physics | Physics Alchemy | Physical Sciences |
+| USA-PS-003 | Classical Mechanics | Classical Mechanics Alchemy | Physical Sciences |
+| USA-PS-004 | Quantum Mechanics | Quantum Mechanics Alchemy | Physical Sciences |
+| USA-PS-005 | Relativity | Relativity Alchemy | Physical Sciences |
+| USA-PS-006 | Thermodynamics | Thermodynamics Alchemy | Physical Sciences |
+| USA-PS-007 | Electromagnetism | Electromagnetism Alchemy | Physical Sciences |
+| USA-PS-008 | Optics | Optics Alchemy | Physical Sciences |
+| USA-PS-009 | Acoustics | Acoustics Alchemy | Physical Sciences |
+| USA-PS-010 | Chemistry | Chemistry Alchemy | Physical Sciences |
+| USA-PS-011 | Organic Chemistry | Organic Chemistry Alchemy | Physical Sciences |
+| USA-PS-012 | Inorganic Chemistry | Inorganic Chemistry Alchemy | Physical Sciences |
+| USA-PS-013 | Physical Chemistry | Physical Chemistry Alchemy | Physical Sciences |
+| USA-PS-014 | Analytical Chemistry | Analytical Chemistry Alchemy | Physical Sciences |
+| USA-PS-015 | Biochemistry | Biochemistry Alchemy | Physical Sciences |
+| USA-PS-016 | Astronomy | Astronomy Alchemy | Physical Sciences |
+| USA-PS-017 | Cosmology | Cosmology Alchemy | Physical Sciences |
+| USA-PS-018 | Planetary Science | Planetary Science Alchemy | Physical Sciences |
+| USA-PS-019 | Earth Science | Earth Science Alchemy | Physical Sciences |
+| USA-PS-020 | Geophysics | Geophysics Alchemy | Physical Sciences |
+| USA-PS-021 | Meteorology | Meteorology Alchemy | Physical Sciences |
+| USA-PS-022 | Oceanography | Oceanography Alchemy | Physical Sciences |
+| USA-PS-023 | Materials Science | Materials Science Alchemy | Physical Sciences |
+| USA-SP-001 | Security and Protection Sciences | Security and Protection Sciences Alchemy | Security and Protection Sciences |
+| USA-SP-002 | National Security | National Security Alchemy | Security and Protection Sciences |
+| USA-SP-003 | Emergency Management | Emergency Management Alchemy | Security and Protection Sciences |
+| USA-SP-004 | Disaster Response | Disaster Response Alchemy | Security and Protection Sciences |
+| USA-SP-005 | Intelligence Analysis | Intelligence Analysis Alchemy | Security and Protection Sciences |
+| USA-SP-006 | Safety Engineering | Safety Engineering Alchemy | Security and Protection Sciences |
+| USA-SP-007 | Risk Analysis | Risk Analysis Alchemy | Security and Protection Sciences |
+| USA-SP-008 | Resilience Engineering | Resilience Engineering Alchemy | Security and Protection Sciences |
+| USA-SS-001 | Social Sciences | Social Sciences Alchemy | Social Sciences |
+| USA-SS-002 | Psychology | Psychology Alchemy | Social Sciences |
+| USA-SS-003 | Sociology | Sociology Alchemy | Social Sciences |
+| USA-SS-004 | Anthropology | Anthropology Alchemy | Social Sciences; Human Development and Civilization |
+| USA-SS-005 | Economics | Economics Alchemy | Social Sciences; Business and Economic Sciences |
+| USA-SS-006 | Political Science | Political Science Alchemy | Social Sciences |
+| USA-SS-007 | International Relations | International Relations Alchemy | Social Sciences |
+| USA-SS-008 | Human Geography | Human Geography Alchemy | Social Sciences |
+| USA-SS-009 | Demography | Demography Alchemy | Social Sciences |
+| USA-SS-010 | Criminology | Criminology Alchemy | Social Sciences |
+| USA-SS-011 | Behavioral Science | Behavioral Science Alchemy | Social Sciences |
+| USA-SS-012 | Cultural Studies | Cultural Studies Alchemy | Social Sciences |
+| USA-SS-013 | Social Work | Social Work Alchemy | Social Sciences |
+| USA-SS-014 | Communication Studies | Communication Studies Alchemy | Social Sciences |
+| USA-TI-001 | Transportation and Infrastructure | Transportation and Infrastructure Alchemy | Transportation and Infrastructure |
+| USA-TI-002 | Transportation Systems | Transportation Systems Alchemy | Transportation and Infrastructure |
+| USA-TI-003 | Logistics | Logistics Alchemy | Transportation and Infrastructure |
+| USA-TI-004 | Supply Networks | Supply Networks Alchemy | Transportation and Infrastructure |
+| USA-TI-005 | Urban Planning | Urban Planning Alchemy | Transportation and Infrastructure |
+| USA-TI-006 | Infrastructure Engineering | Infrastructure Engineering Alchemy | Transportation and Infrastructure |
+| USA-TI-007 | Aviation | Aviation Alchemy | Transportation and Infrastructure |
+| USA-TI-008 | Maritime Systems | Maritime Systems Alchemy | Transportation and Infrastructure |
+| USA-TI-009 | Rail Systems | Rail Systems Alchemy | Transportation and Infrastructure |
+
+**Node-index validation:** 264 unique canonical IDs are present. Their hierarchy memberships account for 272 hierarchy positions across twenty Universal Subjects. Exactly eight canonical nodes have two top-level hierarchy memberships: USA-ET-017 Artificial Intelligence; USA-SS-005 Economics; USA-HUM-006 Linguistics; USA-LS-005 Ecology; USA-SS-004 Anthropology; USA-ET-018 Cybersecurity; USA-ENV-010 Agriculture; and USA-ELS-008 Knowledge Management.
+
+### 108.2 Sparse matrix coverage
+
+| Matrix measure | Count |
+|---|---:|
+| Canonical subject-Alchemy nodes | 264 |
+| Matrix dimensions | 264 × 264 |
+| Unique unordered pairs of distinct nodes | 34,716 |
+| Diagonal self-comparisons | 264 |
+| Established direct hierarchy pairs (HI) | 252 |
+| Proposed related-but-distinct pairs (RD-P) | 18 |
+| Remaining pairs with no direct relationship stated in the current taxonomy source (NS) | 34,446 |
+
+**Pair-count check:** 252 HI + 18 RD-P + 34,446 NS = 34,716 unique unordered pairs. The 264 diagonal cells are separate and excluded from this total.
+
+HI pairs are extracted from the canonical parent fields in the taxonomy inventories and preserve parent-to-child direction. RD-P pairs are the eighteen proposals in Section 107 and remain pending owner review. NS means only that the current taxonomy source does not state a direct relationship for that pair; it is not proof of no relationship. Future semantic research may reclassify NS pairs as RD, DP, EN, or another explicitly governed relationship type when supported.
+
+### 108.3 Interpretation and validation rules
+
+1. A canonical subject-Alchemy appears once in the node index, regardless of the number of hierarchy memberships it has.
+2. The eight shared identities are represented as multi-domain membership attributes, not as duplicate subject-Alchemy nodes or artificial edges between copies.
+3. Parent-child HI relationships preserve their direction and are not interchangeable with related-but-distinct edges.
+4. RD-P edges preserve distinct canonical identities and require owner review before being treated as accepted relationship definitions.
+5. NS is a source-screen result, not a negative relationship finding. It remains eligible for further research.
+6. No contextual expression, dependency, enabling relation, implementation, test result, or verification state is inferred from a matrix cell alone.
+7. Each new edge must be checked for canonical IDs, duplicate unordered pairs, relationship direction, source rationale, non-equivalence boundaries, and acceptance state.
+
+### 108.4 Next subject-Alchemy mapping pass
+
+Continue semantic assessment of NS pairs in bounded groups, prioritizing cross-domain pairs where the taxonomy inventories indicate a specific shared object, method, process, application, or operational interface. Record only relationships with an explicit rationale and preserve unresolved pairs as NS or UA. After the relationship register stabilizes, generate domain-filtered and full sparse matrix views from the same canonical edge data.
+## 109. Cumulative Universal Subject Alchemy register and mapping totals
 
 The taxonomy now contains twenty supplied Universal Subjects of Knowledge hierarchies.
 
@@ -2237,9 +2574,10 @@ The taxonomy now contains twenty supplied Universal Subjects of Knowledge hierar
 | **Cumulative unique total** | **272 hierarchy positions** | **264** | **22** | **5808** |
 
 The cumulative total represents 264 distinct subject Alchemies mapped across 22 contexts, producing 5808 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing Artificial Intelligence mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing Economics mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes nine new subject Alchemies and 198 new mapped intersections. Environmental Sciences contributes ten new subject Alchemies and 220 new mapped intersections; the existing Ecology Alchemy contributes 22 shared mapping references and is not counted twice. Earth, Space, and Planetary Sciences contributes ten new subject Alchemies and 220 new mapped intersections. Human Development and Civilization contributes nine new subject Alchemies and 198 new mapped intersections; the existing Anthropology Alchemy contributes 22 shared mapping references and is not counted twice. Security and Protection Sciences contributes eight new subject Alchemies and 176 new mapped intersections; the existing Cybersecurity Alchemy contributes 22 shared mapping references and is not counted twice. Transportation and Infrastructure contributes nine new distinct subject Alchemies and 198 new mapped intersections; no existing subject-Alchemy identities or context mappings are shared or counted again in that entry. Agriculture, Food, and Resource Sciences contributes nine new distinct subject Alchemies and 198 new mapped intersections; the existing Agriculture Alchemy USA-ENV-010 contributes 22 shared mapping references and is not counted a second time. Meta-Knowledge Sciences contributes twelve new distinct subject Alchemies and 264 new mapped intersections; the existing Knowledge Management Alchemy USA-ELS-008 contributes 22 shared mapping references and is not counted a second time.
-## 109. Taxonomy status and release register
 
-| Item | State in version 1.12.0 |
+## 110. Taxonomy status and release register
+
+| Item | State in version 1.13.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -2299,19 +2637,22 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 | Meta-Knowledge Sciences source definition | Recorded as supplied: Knowledge about knowledge itself. |
 | Meta-Knowledge Sciences hierarchy | Recorded — 13 positions: 12 new Alchemies and 1 shared existing Knowledge Management Alchemy |
 | Meta-Knowledge Sciences matrix | Recorded — 286 positions: 264 new mappings and 22 references to existing Knowledge Management mappings |
-| Cross-domain mapping — Pass 1 | Started — 8 confirmed shared-identity links recorded across 20 top-level subjects; related-but-distinct review queue established |
-| Cross-domain 20 × 20 matrix | Recorded — 190 unique off-diagonal pairs: 8 SH confirmed and 182 UA unassessed |
-| Related-but-distinct candidate relationships | 11 candidate records/sets preserved for subsequent assessment; not yet encoded as confirmed matrix relationships |
-| Subject-Alchemy-level relationship map | Pending — 264 unique subject nodes require finer-grained relationship assessment |
+| Cross-domain mapping — Pass 1 | Recorded — 8 confirmed shared-identity links across 20 top-level subjects |
+| Cross-domain mapping — Pass 2 | Source screen complete — 18 RD-P edges proposed from 11 source candidates/sets; owner review pending |
+| Cross-domain 20 × 20 matrix | Recorded — 190 unique pairs: 8 SH, 7 RD-P, 175 NS; NS is not a negative finding |
+| Related-but-distinct relationship proposals | 18 subject-Alchemy edges across 11 source candidate records/sets; all pending owner review |
+| Subject-Alchemy node index | Recorded — all 264 unique canonical subject-Alchemy IDs indexed once, including eight multi-domain identities |
+| Subject-Alchemy 264 × 264 sparse matrix | Initialized — 34,716 unique pairs: 252 HI, 18 RD-P, 34,446 NS; NS is not a negative finding |
 | Cumulative unique subject Alchemy register | 264 distinct subject Alchemies |
 | Cumulative unique mapped intersections | 264 × 22 = 5808 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, Environmental Sciences, Earth, Space, and Planetary Sciences, Human Development and Civilization, Security and Protection Sciences, Transportation and Infrastructure, and Agriculture, Food, and Resource Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Cross-domain relationship mapping has begun with the confirmed shared-identity pass; the initial 20 × 20 matrix leaves 182 of 190 unique domain pairs unassessed, and the subject-Alchemy-level map remains pending. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, Environmental Sciences, Earth, Space, and Planetary Sciences, Human Development and Civilization, Security and Protection Sciences, Transportation and Infrastructure, and Agriculture, Food, and Resource Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Cross-domain mapping includes eight confirmed shared-identity links and a source screen of all 190 unique top-level domain pairs; seven additional domain pairs have RD-P proposals, while 175 pairs have no direct relationship stated in the current taxonomy source (NS), which is not a negative finding. The 264-node subject-Alchemy index and sparse 264 × 264 matrix have been initialized with 252 established hierarchy pairs, eighteen RD-P proposals, and 34,446 NS pairs. Proposed relations remain pending owner review, and semantic assessment of NS pairs remains ongoing. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 110. Change control
+
+## 111. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
@@ -2324,3 +2665,5 @@ All four repositories must maintain the same shared taxonomy content and version
 **Version 1.11.0 change record:** Added the owner-supplied Meta-Knowledge Sciences hierarchy and source definition, twelve new canonical subject-Alchemy identities, 264 new required context mappings, and one shared Knowledge Management identity reference (USA-ELS-008); updated cumulative totals. Knowledge Management was not duplicated or counted a second time.
 
 **Version 1.12.0 change record:** Began the cross-domain mapping and matrix phase. Added the relationship codebook, eight confirmed shared-canonical-identity links, the 20 × 20 top-level Universal Subject matrix, and an eleven-record related-but-distinct review queue. Cumulative subject-Alchemy and 22-context mapping totals remain unchanged.
+
+**Version 1.13.0 change record:** Completed a source-based screen of all 190 unique top-level domain pairs; retained eight confirmed shared-identity pairs, added seven domain-pair views containing proposed related-but-distinct relationships, and recorded 175 NS pairs without treating them as negative findings. Resolved eleven source candidate records/sets into eighteen traceable RD-P subject-Alchemy proposals. Added a canonical index of all 264 unique subject Alchemies and initialized the 264 × 264 sparse relationship matrix with 252 established hierarchy pairs, eighteen proposed RD-P pairs, and 34,446 NS pairs. All proposals remain pending owner review. The original 272 hierarchy positions, 264 unique subject Alchemies, 22 contexts, and 5,808 unique context mappings remain unchanged.
