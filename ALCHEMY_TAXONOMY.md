@@ -228,6 +228,49 @@ Engineering and Technology Alchemy is inherently interdisciplinary. Its speciali
 - **Engineering Reliability Alchemy** — organizes system performance, durability, fault tolerance, maintenance, and recovery.
 - **Technology Interoperability Alchemy** — enables distinct technologies, platforms, devices, and systems to exchange information and operate together without erasing their differences.
 
+### 6. Computer and Information Sciences Alchemy
+
+**Computer and Information Sciences Alchemy** is the bounded process that organizes, maintains, develops, and transforms computational principles, information structures, data, knowledge representations, and digital systems. It enables systems and beings to represent, process, analyze, store, retrieve, communicate, understand, and preserve information while maintaining accuracy, integrity, security, accessibility, interoperability, and accountability.
+
+It encompasses the theoretical foundations of computing, computational methods, information systems, digital environments, and the organization and preservation of knowledge. Every specialized Computer and Information Sciences Alchemy remains an expression of the root Alchemy.
+
+#### 1. Computational Science Alchemies
+
+- **Computer Science Alchemy** — organizes the theoretical and practical foundations of computation, algorithms, data structures, programming languages, computational complexity, and computer architectures.
+- **Software Development Alchemy** — organizes the practical creation, implementation, testing, integration, deployment, maintenance, and improvement of software.
+- **Data Science Alchemy** — organizes the collection, preparation, processing, analysis, interpretation, visualization, and application of data to produce reliable insights and support decisions.
+- **Machine Learning Alchemy** — organizes the development, training, evaluation, and application of computational models that identify patterns, learn from data, and improve task performance through experience.
+- **Artificial Intelligence Alchemy** — organizes computational methods and architectures for systems capable of perception, reasoning, learning, planning, problem-solving, generation, and decision-making.
+
+#### 2. Information and Knowledge System Alchemies
+
+- **Information Systems Alchemy** — organizes the people, processes, technologies, and information structures involved in collecting, processing, storing, managing, and distributing information to support operations and decisions.
+- **Database Systems Alchemy** — organizes the modeling, structuring, storage, retrieval, querying, updating, and management of data while maintaining integrity, consistency, availability, and controlled access.
+- **Knowledge Engineering Alchemy** — organizes the acquisition, representation, formalization, integration, validation, and application of knowledge through structured models, ontologies, rules, and reasoning systems.
+- **Information Architecture Alchemy** — organizes information into coherent structures, classifications, relationships, labeling systems, and navigation pathways so information can be understood, located, accessed, and used effectively.
+
+#### 3. Human Interaction and Computing Infrastructure Alchemies
+
+- **Human-Computer Interaction Alchemy** — organizes the relationships between humans and computational systems through interface design, usability, accessibility, interaction models, human factors, and user experience evaluation.
+- **Networking Alchemy** — organizes the protocols, addressing, routing, connections, and communication structures that enable computers, devices, and computational systems to exchange information.
+- **Cloud Computing Alchemy** — organizes the provision, allocation, management, and use of remotely accessible computational resources, platforms, storage, and services.
+- **Distributed Systems Alchemy** — organizes computation and information processing across multiple connected nodes while maintaining coordination, communication, consistency, fault tolerance, and recoverability.
+
+#### 4. Digital Continuity Alchemies
+
+- **Digital Preservation Alchemy** — organizes the protection, maintenance, authentication, migration, and long-term accessibility of digital information, records, software, and other digital objects.
+
+#### 5. Cross-Disciplinary Computer and Information Sciences Relationships
+
+These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+
+- **Computational Integration Alchemy** — coordinates computational methods, software, data, and information systems into coherent and interoperable computational environments.
+- **Data Lifecycle Alchemy** — organizes data from creation and acquisition through validation, processing, storage, use, sharing, retention, and responsible disposal.
+- **Information Governance Alchemy** — establishes the structures, permissions, responsibilities, quality controls, and accountability requirements governing information.
+- **Knowledge Interoperability Alchemy** — enables distinct knowledge models, representations, databases, and information systems to exchange and interpret knowledge while preserving their respective structures.
+- **Human-Centered Computing Alchemy** — coordinates computational capabilities with human needs, autonomy, accessibility, comprehension, and meaningful interaction.
+- **Digital Continuity Alchemy** — maintains the integrity, recoverability, usability, and accessibility of computational and information environments across technological changes.
+
 ---
 
 ## Body Alchemy
