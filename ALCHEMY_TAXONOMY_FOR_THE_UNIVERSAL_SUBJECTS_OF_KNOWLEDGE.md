@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.1.0  
-**Status:** Ten supplied Universal Subject hierarchies recorded; 161 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 1.2.0  
+**Status:** Eleven supplied Universal Subject hierarchies recorded; 172 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -1155,7 +1155,7 @@ The closely related names **Religious Studies** and **Comparative Religion** rem
 | USA-HUM-003 | Ethics | Ethics Alchemy | Humanities |
 | USA-HUM-004 | History | History Alchemy | Humanities |
 | USA-HUM-005 | Archaeology | Archaeology Alchemy | Humanities |
-| USA-HUM-006 | Linguistics | Linguistics Alchemy | Humanities |
+| USA-HUM-006 | Linguistics | Linguistics Alchemy | Humanities; Language and Communication (shared canonical subject) |
 | USA-HUM-007 | Literature | Literature Alchemy | Humanities |
 | USA-HUM-008 | Religious Studies | Religious Studies Alchemy | Humanities |
 | USA-HUM-009 | Comparative Religion | Comparative Religion Alchemy | Humanities |
@@ -1210,9 +1210,100 @@ Each of the 264 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 47. Cumulative Universal Subject Alchemy register and mapping totals
+## 50. Universal Subject of Knowledge hierarchy: Language and Communication
 
-The taxonomy now contains ten supplied Universal Subjects of Knowledge hierarchies.
+### 50.1 Canonical subject definition
+
+**Source definition:** Not supplied in the Universal Subject material provided for this entry.
+
+The canonical subject name is retained as supplied. No definition is inferred or added without an owner-provided definition. The Language and Communication subject becomes **Language and Communication Alchemy**.
+
+### 50.2 Language and Communication Alchemy hierarchy
+
+The following hierarchy preserves the supplied subject list. The source lists 11 subordinate subjects without further subdivisions. Linguistics already exists as a canonical subject Alchemy under Humanities and is cross-listed here using its existing identifier. The remaining ten subordinate subjects are established as new distinct Alchemies.
+
+- **Language and Communication Alchemy**
+  - **Linguistics Alchemy** *(shared canonical Alchemy: USA-HUM-006; also parented under Humanities)*
+  - **Semantics Alchemy**
+  - **Syntax Alchemy**
+  - **Pragmatics Alchemy**
+  - **Translation Alchemy**
+  - **Rhetoric Alchemy**
+  - **Journalism Alchemy**
+  - **Storytelling Alchemy**
+  - **Public Speaking Alchemy**
+  - **Media Studies Alchemy**
+  - **Information Communication Alchemy**
+
+### 50.3 Language and Communication Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
+|---|---|---|---|
+| USA-LC-001 | Language and Communication | Language and Communication Alchemy | Root subject |
+| USA-HUM-006 | Linguistics | Linguistics Alchemy | Humanities; Language and Communication (shared canonical subject) |
+| USA-LC-002 | Semantics | Semantics Alchemy | Language and Communication |
+| USA-LC-003 | Syntax | Syntax Alchemy | Language and Communication |
+| USA-LC-004 | Pragmatics | Pragmatics Alchemy | Language and Communication |
+| USA-LC-005 | Translation | Translation Alchemy | Language and Communication |
+| USA-LC-006 | Rhetoric | Rhetoric Alchemy | Language and Communication |
+| USA-LC-007 | Journalism | Journalism Alchemy | Language and Communication |
+| USA-LC-008 | Storytelling | Storytelling Alchemy | Language and Communication |
+| USA-LC-009 | Public Speaking | Public Speaking Alchemy | Language and Communication |
+| USA-LC-010 | Media Studies | Media Studies Alchemy | Language and Communication |
+| USA-LC-011 | Information Communication | Information Communication Alchemy | Language and Communication |
+
+**Language and Communication total: 12 hierarchy positions comprising 11 new distinct subject Alchemies and 1 shared existing subject Alchemy.**
+
+**Linguistics remains one canonical subject Alchemy, identified as USA-HUM-006.** Its parent relationships are Humanities and Language and Communication. The existing 22 Linguistics context mappings are referenced rather than duplicated or counted a second time.
+
+The source supplied the subject name and its 11 subordinate subject names, but no definition for Language and Communication and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred. The supplied name **Information Communication** is retained exactly as provided. The existing Communication Studies subject remains a distinct canonical subject; it is not treated as an exact duplicate of Information Communication.
+
+## 51. Language and Communication Alchemy — 12 × 22 context matrix
+
+The matrix below records all 12 subject-hierarchy positions across the 22 canonical contexts. Eleven rows represent new subject Alchemies and contribute 11 × 22 = **242 new mapped intersections**. The Linguistics row references the existing canonical Alchemy USA-HUM-006 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-LC-001 · Language and Communication Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HUM-006 · Linguistics Alchemy [shared canonical Alchemy] | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LC-002 · Semantics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LC-003 · Syntax Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LC-004 · Pragmatics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LC-005 · Translation Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LC-006 · Rhetoric Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LC-007 · Journalism Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LC-008 · Storytelling Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LC-009 · Public Speaking Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LC-010 · Media Studies Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LC-011 · Information Communication Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Language and Communication matrix coverage:** 12 hierarchy positions × 22 contexts = **264 section mapping positions**, comprising **242 new mapped intersections and 22 references to the existing Linguistics mappings**.
+
+The 22 Linguistics cells in this section point to the same subject-Alchemy/context intersections already represented by USA-HUM-006 in the Humanities matrix. They must not be counted twice in the cumulative unique-mapping total. Linguistics retains its existing canonical identifier and is not assigned a second Alchemy identity.
+
+## 52. Language and Communication contextual expression requirements
+
+Each of the 242 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+The 22 existing Linguistics mappings are not duplicated here. They remain associated with the shared canonical subject-Alchemy identity USA-HUM-006 and its two parent relationships.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 53. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains eleven supplied Universal Subjects of Knowledge hierarchies.
 
 | Universal Subject of Knowledge | Alchemy hierarchy positions | New unique subject Alchemies | Contexts | New unique mapped intersections |
 |---|---:|---:|---:|---:|
@@ -1226,13 +1317,14 @@ The taxonomy now contains ten supplied Universal Subjects of Knowledge hierarchi
 | Business and Economic Sciences | 16 (15 new + 1 shared) | 15 | 22 | 330 (22 shared, not added) |
 | Law and Governance | 13 | 13 | 22 | 286 |
 | Humanities | 12 | 12 | 22 | 264 |
-| **Cumulative unique total** | **163 hierarchy positions** | **161** | **22** | **3542** |
+| Language and Communication | 12 (11 new + 1 shared) | 11 | 22 | 242 (22 shared, not added) |
+| **Cumulative unique total** | **175 hierarchy positions** | **172** | **22** | **3784** |
 
-The cumulative total represents 161 distinct subject Alchemies mapped across 22 contexts, producing 3542 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register.
+The cumulative total represents 172 distinct subject Alchemies mapped across 22 contexts, producing 3784 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice.
 
-## 48. Taxonomy status and release register
+## 54. Taxonomy status and release register
 
-| Item | State in version 1.1.0 |
+| Item | State in version 1.2.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -1262,15 +1354,18 @@ The cumulative total represents 161 distinct subject Alchemies mapped across 22 
 | Humanities source definition | Not supplied; no definition inferred |
 | Humanities hierarchy | Recorded — 12 distinct subject Alchemies: 1 parent and 11 supplied subordinate subjects |
 | Humanities matrix | Recorded — 12 × 22 = 264 new mapped intersections |
-| Cumulative unique subject Alchemy register | 161 distinct subject Alchemies |
-| Cumulative unique mapped intersections | 161 × 22 = 3542 required mappings |
+| Language and Communication source definition | Not supplied; no definition inferred |
+| Language and Communication hierarchy | Recorded — 12 positions: 11 new Alchemies and 1 shared existing Linguistics Alchemy |
+| Language and Communication matrix | Recorded — 264 positions: 242 new mappings and 22 references to existing Linguistics mappings |
+| Cumulative unique subject Alchemy register | 172 distinct subject Alchemies |
+| Cumulative unique mapped intersections | 172 × 22 = 3784 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, and Humanities subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, and Language and Communication subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 49. Change control
+## 55. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
