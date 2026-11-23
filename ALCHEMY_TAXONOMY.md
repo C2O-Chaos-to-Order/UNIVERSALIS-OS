@@ -6893,17 +6893,17 @@ The Consciousness Alchemy Map and Matrix remain complementary and mutually trace
 
 ---
 
-## Energy and Resource Alchemies
+## Energy Utilization Alchemy
 
-Energy and Resource Alchemies are specialized expressions of the root Alchemy. They govern how energy and resources are identified, classified, sourced, received, stored, converted, allocated, directed, used, conserved, measured, accounted for, recovered, renewed, and retired across the C2O–UNIVERSALIS ecosystem.
+**Energy Utilization Alchemy** is a specialized expression of the root Alchemy. It governs how energy used by authorized systems and processes is identified, classified, sourced, qualified, received, stored, converted, distributed, directed, monitored, measured, accounted for, conserved, recovered, renewed, and retired.
 
-**Energy and resources are related but distinct.** Energy is the capacity or supply used to perform work or sustain a process, including applicable electrical, thermal, chemical, and mechanical forms. Resources are bounded assets, capacities, and inputs used by a process, including hardware, compute capacity, memory, storage, network capacity, software services, materials, and data. Energy may be consumed in using a resource; a resource may store, convert, transport, or provide energy. Humans, human identity, personal information, consent, and human authority are not resources to be owned, consumed, or optimized.
+Energy is the capacity or supply used to perform work or sustain a process, including applicable electrical, thermal, chemical, and mechanical forms. Energy Utilization Alchemy concerns energy itself and the authorized energy flows and operating conditions through which it is used. It is distinct from Energy Efficiency Alchemy, which evaluates energy input against useful, authorized output, and from Resource Utilization Alchemy, which governs the assets, capacities, and inputs used by processes.
 
-C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Corresponding responsibilities must remain mappable while preserving distinct source visibility, governance, implementation, protected information, and operational authority. UNIVERSALIS remains independently operable and must not depend on C2O private-source energy records, resource state, or internal controls.
+C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Corresponding energy responsibilities must remain mappable while preserving distinct source visibility, governance, implementation, protected information, and operational authority. UNIVERSALIS remains independently operable and must not depend on C2O private-source energy records, energy state, or internal controls.
 
-### 1. Universal Application Across the 22 Ecosystem Contexts
+### 1.1 Universal Application of Energy Utilization Alchemy
 
-Energy and Resource Alchemies apply across all 22 contexts established under Universal Subjects of Human Knowledge Alchemy:
+Energy Utilization Alchemy applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
 1. C2O Operating System
 2. UNIVERSALIS Operating System
@@ -6928,55 +6928,34 @@ Energy and Resource Alchemies apply across all 22 contexts established under Uni
 21. C2O Application - UNIVERSALIN Guardian Intelligence
 22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-#### 1.1 Context-Specific Application
+Within each context, Energy Utilization Alchemy governs only the energy sources, flows, processes, operating conditions, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove the existence of a particular energy source, storage system, conversion process, measurement, implementation, or achieved result.
 
-- **C2O Operating System:** Private OS energy supply, conversion, distribution, storage, thermal management, power states, and system resource capacity.
+#### Context-Specific Application
 
-- **UNIVERSALIS Operating System:** Public OS energy supply, conversion, distribution, storage, thermal management, power states, and system resource capacity under open contracts.
+- **C2O Operating System:** Private OS energy supply, authorized intake, conversion, distribution, storage, thermal management, power states, energy monitoring, and continuity.
+- **UNIVERSALIS Operating System:** Public OS energy supply, authorized intake, conversion, distribution, storage, thermal management, power states, energy monitoring, and continuity under open contracts.
+- **C2O Intelligence:** Private intelligence processing, memory, storage, communication, and continuity energy requirements within C2O authority.
+- **UNIVERSALIS Intelligence:** Declared intelligence processing, memory, storage, communication, and continuity energy requirements under public contracts and independent review.
+- **C2O Application:** Private application execution, services, dependencies, storage operations, data handling, interfaces, and lifecycle energy requirements.
+- **UNIVERSALIS Application:** Public application execution, services, dependencies, storage operations, data handling, interfaces, and lifecycle energy requirements.
+- **C2O Operating System - UNIVERSALIN:** Task-bounded energy allocation and use for non-personal assistants hosted by the C2O OS.
+- **UNIVERSALIS Operating System - UNIVERSALIN:** Task-bounded energy allocation and use for non-personal assistants hosted by the UNIVERSALIS OS.
+- **C2O Application - UNIVERSALIN:** Task-bounded energy allocation and use for non-personal assistants hosted by the C2O App.
+- **UNIVERSALIS Application - UNIVERSALIN:** Task-bounded energy allocation and use for non-personal assistants hosted by the UNIVERSALIS App.
+- **C2O Operating System - UNIVERSALIN Intelligence:** Energy used by assistant-level intelligence-related functions hosted by the C2O OS; these are subordinate capabilities, not another core intelligence.
+- **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Energy used by assistant-level intelligence-related functions hosted by the UNIVERSALIS OS; these are subordinate capabilities, not another core intelligence.
+- **C2O Application - UNIVERSALIN Intelligence:** Energy used by assistant-level intelligence-related functions hosted by the C2O App, within assigned tasks.
+- **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Energy used by assistant-level intelligence-related functions hosted by the UNIVERSALIS App, within assigned tasks.
+- **C2O Operating System - UNIVERSALIN Guardian:** Energy used by a personal Guardian hosted by the C2O OS, limited by the designated human's authority, consent, privacy, and permissions. The human, their identity, personal information, property, time, relationships, and decisions are not energy sources or system inputs.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Energy used by a personal Guardian hosted by the UNIVERSALIS OS, limited by inspectable human consent, privacy, and permission contracts. The human, their identity, personal information, property, time, relationships, and decisions are not energy sources or system inputs.
+- **C2O Application - UNIVERSALIN Guardian:** Energy used by a personal Guardian hosted by the C2O App, limited to human-authorized application purposes and information boundaries. The human, their identity, personal information, property, time, relationships, and decisions are not energy sources or system inputs.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian:** Energy used by a personal Guardian hosted by the UNIVERSALIS App, limited by documented human consent, purpose, and permissions. The human, their identity, personal information, property, time, relationships, and decisions are not energy sources or system inputs.
+- **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Energy used by Guardian intelligence-related capabilities in the C2O OS, without independent authority over the human. The human, their identity, personal information, property, time, relationships, and decisions are not energy sources or system inputs.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Energy used by Guardian intelligence-related capabilities in the UNIVERSALIS OS, within human-authorized limits. The human, their identity, personal information, property, time, relationships, and decisions are not energy sources or system inputs.
+- **C2O Application - UNIVERSALIN Guardian Intelligence:** Energy used by Guardian intelligence-related capabilities in the C2O App, bounded by human consent and assigned purpose. The human, their identity, personal information, property, time, relationships, and decisions are not energy sources or system inputs.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Energy used by Guardian intelligence-related capabilities in the UNIVERSALIS App, bounded by documented consent and assigned purpose. The human, their identity, personal information, property, time, relationships, and decisions are not energy sources or system inputs.
 
-- **C2O Intelligence:** Private intelligence processing, memory, storage, communication, and continuity energy/resource requirements within C2O authority.
-
-- **UNIVERSALIS Intelligence:** Declared intelligence processing, memory, storage, communication, and continuity requirements under public contracts and independent review.
-
-- **C2O Application:** Private application execution, services, dependencies, storage, data handling, interfaces, and lifecycle resource requirements.
-
-- **UNIVERSALIS Application:** Public application execution, services, dependencies, storage, data handling, interfaces, and lifecycle resource requirements.
-
-- **C2O Operating System - UNIVERSALIN:** Task-bounded energy and resource allocation for non-personal assistants hosted by the C2O OS.
-
-- **UNIVERSALIS Operating System - UNIVERSALIN:** Task-bounded energy and resource allocation for non-personal assistants hosted by the UNIVERSALIS OS.
-
-- **C2O Application - UNIVERSALIN:** Task-bounded energy and resource allocation for non-personal assistants hosted by the C2O App.
-
-- **UNIVERSALIS Application - UNIVERSALIN:** Task-bounded energy and resource allocation for non-personal assistants hosted by the UNIVERSALIS App.
-
-- **C2O Operating System - UNIVERSALIN Intelligence:** Energy and computational/resource requirements for assistant-level intelligence-related functions hosted by the C2O OS; subordinate capabilities, not another core intelligence.
-
-- **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Energy and computational/resource requirements for assistant-level intelligence-related functions hosted by the UNIVERSALIS OS; subordinate capabilities, not another core intelligence.
-
-- **C2O Application - UNIVERSALIN Intelligence:** Energy and computational/resource requirements for assistant-level intelligence-related functions hosted by the C2O App, within assigned tasks.
-
-- **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Energy and computational/resource requirements for assistant-level intelligence-related functions hosted by the UNIVERSALIS App, within assigned tasks.
-
-- **C2O Operating System - UNIVERSALIN Guardian:** Energy and resource use for a personal Guardian hosted by the C2O OS, limited by the designated human's authority, consent, privacy, and permissions. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
-
-- **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Energy and resource use for a personal Guardian hosted by the UNIVERSALIS OS, limited by inspectable human consent, privacy, and permission contracts. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
-
-- **C2O Application - UNIVERSALIN Guardian:** Energy and resource use for a personal Guardian hosted by the C2O App, limited to human-authorized application purposes and information boundaries. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
-
-- **UNIVERSALIS Application - UNIVERSALIN Guardian:** Energy and resource use for a personal Guardian hosted by the UNIVERSALIS App, limited by documented human consent, purpose, and permissions. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
-
-- **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Energy and computational/resource requirements for Guardian intelligence-related capabilities in the C2O OS, without independent authority over the human. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
-
-- **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Energy and computational/resource requirements for Guardian intelligence-related capabilities in the UNIVERSALIS OS, within human-authorized limits. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
-
-- **C2O Application - UNIVERSALIN Guardian Intelligence:** Energy and computational/resource requirements for Guardian intelligence-related capabilities in the C2O App, bounded by human consent and assigned purpose. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
-
-- **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Energy and computational/resource requirements for Guardian intelligence-related capabilities in the UNIVERSALIS App, bounded by documented consent and assigned purpose. The human, their identity, personal information, property, time, relationships, and decisions are not system resources; any interaction remains subject to human authority and explicit permissions.
-
-Within each context, Energy Utilization, Energy Efficiency, Resource Utilization, and Resource Efficiency govern only the subjects, processes, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope, not proof that a particular source, resource, component, capability, implementation, or efficiency result exists.
-
-#### 1.2 Edition-Specific Context Hierarchy and Inheritance
+### 1.2 Edition-Specific Context Hierarchy and Inheritance
 
 The 22 contexts form two edition-specific branches, each containing 11 expressions:
 
@@ -6984,17 +6963,15 @@ The 22 contexts form two edition-specific branches, each containing 11 expressio
 - **Core Intelligence context:** the edition's distinct core intelligence, separate from OS, App, assistants, and Guardians.
 - **Application family:** the edition's App context and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
 
-C2O expressions remain under private-source company governance. UNIVERSALIS expressions remain under public-source governance, open contracts, inspectability, interoperability, and independent operability. Correspondence does not imply identical implementations, configurations, resource states, sources, or measurements.
+C2O expressions remain under private-source company governance. UNIVERSALIS expressions remain under public-source governance, open contracts, inspectability, interoperability, and independent operability. Correspondence does not imply identical implementations, configurations, states, sources, or measurements.
 
-The two core intelligences remain distinct. UNIVERSALIN assistants are non-personal assistants hosted within assigned OS or App contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their intelligence-related capabilities remain subordinate to the Guardian's assigned responsibilities and the human's authority. Guardian resource use cannot create independent authority over the human, their devices, property, personal information, or decisions.
+C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intelligences. UNIVERSALIN assistants are non-personal assistants hosted within assigned OS or App contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their intelligence-related capabilities remain subordinate to the Guardian's assigned responsibilities and the human's authority. Guardian use of energy or resources cannot create independent authority over the human, their devices, property, personal information, or decisions.
 
-Each context inherits applicable subordinate Alchemies by reference rather than duplicating every definition. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status.
+Each context inherits only the subordinate Alchemies applicable to its subject, purpose, processes, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof that a particular source, component, capability, implementation, or measured result exists.
 
-### 2. Energy Utilization Alchemy
+### Alchemies under Energy Utilization Alchemy
 
-**Energy Utilization Alchemy** governs the identification, qualification, receipt, storage, conversion, distribution, direction, monitoring, and accounting of energy used by authorized systems and processes.
-
-#### 2.1 Energy Utilization Substrate Alchemies
+#### 1. Energy Utilization Substrate Alchemies
 
 - **Energy Source Alchemy** — identifies energy sources, properties, provenance, constraints, and authorized conditions of use.
 - **Energy Intake Alchemy** — governs authorized receipt or capture of energy and records source and intake limits.
@@ -7005,7 +6982,7 @@ Each context inherits applicable subordinate Alchemies by reference rather than 
 - **Energy Measurement Alchemy** — establishes measurement, metering, and estimation while distinguishing measured values from estimates and modeled values.
 - **Energy Accountability Alchemy** — records intake, storage, conversion, distribution, use, losses, interruptions, and material changes with provenance.
 
-#### 2.2 C2O Energy Utilization Alchemy
+#### 2. C2O Energy Utilization Alchemy
 
 **C2O Energy Utilization Alchemy** governs private energy operations under C2O company governance.
 
@@ -7017,7 +6994,7 @@ Each context inherits applicable subordinate Alchemies by reference rather than 
 - **C2O Energy Evidence Alchemy** — distinguishes measured and verified conditions from estimates, simulations, assumptions, and hypotheses.
 - **C2O Energy Renewal Alchemy** — governs authorized revision, replacement, migration, restoration, and retirement of private energy structures.
 
-#### 2.3 UNIVERSALIS Energy Utilization Alchemy
+#### 3. UNIVERSALIS Energy Utilization Alchemy
 
 **UNIVERSALIS Energy Utilization Alchemy** governs public energy operations through open contracts and independently reviewable requirements.
 
@@ -7029,15 +7006,113 @@ Each context inherits applicable subordinate Alchemies by reference rather than 
 - **UNIVERSALIS Energy Evidence Alchemy** — distinguishes measured and verified conditions from estimates, simulations, assumptions, and hypotheses.
 - **UNIVERSALIS Energy Renewal Alchemy** — governs documented revision, replacement, migration, restoration, and retirement of public energy structures.
 
-#### 2.4 Energy Utilization Mapping Alchemy
+#### 4. Energy Utilization Mapping Alchemy
 
-**Energy Utilization Mapping Alchemy** maps the 11 C2O and 11 UNIVERSALIS context expressions, including corresponding responsibilities, interfaces, dependencies, capacity requirements, measurement definitions, safety constraints, and recovery requirements. It preserves private/public boundaries and does not infer identical sources, measurements, or implementations.
+**Energy Utilization Mapping Alchemy** maps the 11 C2O and 11 UNIVERSALIS context expressions, including corresponding energy responsibilities, interfaces, dependencies, capacity requirements, measurement definitions, safety constraints, and recovery requirements. It preserves private/public boundaries and does not infer identical sources, measurements, or implementations.
 
-### 3. Energy Efficiency Alchemy
+### Energy Utilization Alchemy Structural and Applicability Requirements
 
-**Energy Efficiency Alchemy** evaluates and improves the relationship between energy input and useful, authorized output while preserving required quality, safety, reliability, performance, and continuity. Maximum output or minimum consumption alone does not establish efficiency if safety, required function, or authorized limits are violated.
+#### Map Alchemy Requirements
 
-#### 3.1 Energy Efficiency Substrate Alchemies
+Map Alchemy must establish:
+
+- The hierarchy of Energy Utilization Alchemy, its subordinate expressions, its C2O and UNIVERSALIS branches, and its placement across all 22 contexts.
+- The 11 contexts per edition and the correct OS/App host relationships for UNIVERSALIN assistants, assistant-level intelligence-related capabilities, Guardians, and Guardian intelligence-related capabilities.
+- C2O Intelligence and UNIVERSALIS Intelligence as separate core-intelligence contexts, not subordinate to OS, App, assistant, or Guardian branches.
+- Relationships among energy sources, energy forms, intake, storage, conversion, distribution, direction, measurement, and lifecycle.
+- Dependencies among hardware, power systems, thermal systems, compute, memory, storage, networks, software services, runtime environments, applications, intelligences, assistants, and Guardians where applicable.
+- C2O/UNIVERSALIS correspondences without assuming identical sources, measurements, configurations, records, or implementations.
+- Relationships to Body, Mind, Heart, Soul, Spirit, and Consciousness without transferring responsibilities or collapsing distinct Alchemies.
+- Each Guardian's relationship to the human it serves and the authority, consent, privacy, and permissions governing the Guardian's energy use.
+
+#### Matrix Alchemy Requirements
+
+Matrix Alchemy must establish for each of the 22 contexts:
+
+- Which Energy Source, Intake, Storage, Conversion, Distribution, Direction, Measurement, Accountability, Safety, Evidence, Continuity, Renewal, and Mapping functions apply, are conditional, are not applicable, or remain unresolved.
+- The applicable energy sources, forms, intake conditions, storage limits, conversion characteristics, distribution constraints, power states, thermal conditions, dependencies, and recovery requirements.
+- The distinction between measured consumption, estimated consumption, modeled demand, available energy supply, allocated supply, actual utilization, useful output, conversion losses, and verified claims.
+- Measurement boundaries, units, time periods, operating conditions, workloads, environmental conditions, baselines, comparison methods, and evidence required for any energy-performance claim.
+- The authority responsible for sourcing, intake, allocation, access, measurement, safety, interruption, recovery, approval, review, and retirement.
+- Guardian consent, privacy, and human-control requirements governing energy use by Guardian systems and capabilities.
+- Unresolved dependencies, unsafe conditions, capacity shortfalls, unverified claims, interruptions, and renewal requirements.
+
+#### Structural Integrity and Governance
+
+Energy Utilization Alchemy must preserve the distinction between energy supply, energy state, energy flow, energy use, and energy measurement. A modeled or estimated value must not be represented as a measured value, and a measured value must not be represented as independently verified without the necessary evidence.
+
+C2O energy records, private controls, protected configurations, and internal authority remain within C2O governance. UNIVERSALIS energy requirements and interfaces must be publicly inspectable to the extent defined by their open contracts and must remain independently operable. Mapping does not authorize disclosure or transfer of private C2O records, keys, policies, or controls.
+
+Energy use by a UNIVERSALIN Guardian remains subject to the designated human's authority, consent, privacy, and permissions. Monitoring energy use does not authorize additional monitoring of the human. No human, human identity, personal information, consent, authority, property, time, relationships, or decisions may be treated as an energy source, consumable input, or system resource.
+
+Applicability, mapping, implementation, measurement, safety, and verification are separate claims. Establishing Energy Utilization Alchemy or its place in the 22-context taxonomy does not prove that an energy source, storage system, conversion process, measurement instrument, implementation, or verified operating result exists.
+
+---
+
+## Energy Efficiency Alchemy
+
+**Energy Efficiency Alchemy** is a specialized expression of the root Alchemy. It evaluates and improves the relationship between energy input and useful, authorized output while preserving required quality, safety, security, reliability, performance, accessibility, and continuity. Maximum output or minimum consumption alone does not establish efficiency if safety, required function, or authorized limits are violated.
+
+Energy Efficiency Alchemy evaluates energy performance; it does not source, store, convert, or distribute energy as its primary subject. Those energy-flow responsibilities remain within Energy Utilization Alchemy. Efficiency claims must have defined boundaries, comparable baselines, valid measurement methods, and evidence proportionate to the claim. Estimates, simulations, and modeled improvements must remain distinguishable from measured outcomes and verified improvements.
+
+C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Corresponding efficiency responsibilities must remain mappable while preserving distinct measurements, source visibility, governance, protected information, implementation, and operational authority. UNIVERSALIS must remain independently operable and must not depend on C2O private measurements or internal controls.
+
+### 1.1 Universal Application of Energy Efficiency Alchemy
+
+Energy Efficiency Alchemy applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSALIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERSALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS Application - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within each context, Energy Efficiency Alchemy applies only where energy inputs and useful outputs can be meaningfully bounded and evaluated. It must preserve required functions, safe operating conditions, service quality, reliability, performance, human autonomy, and continuity; taxonomy inclusion alone does not establish that an efficiency improvement has been achieved.
+
+#### Context-Specific Application
+
+- **Operating System contexts:** evaluates energy use against required OS functions, workloads, power states, thermal conditions, availability, and safe fallback.
+- **Core Intelligence contexts:** evaluates energy inputs against useful, authorized processing and other required outputs while preserving the identities and governance of the two core intelligences.
+- **Application contexts:** evaluates energy required for execution, services, dependencies, storage operations, data handling, and interfaces against required functionality and service quality.
+- **UNIVERSALIN assistant contexts:** evaluates energy demand for assigned assistant tasks while preserving task bounds, permissions, host limits, and continuity.
+- **UNIVERSALIN Intelligence contexts:** evaluates energy use of subordinate assistant-level computational and intelligence-related capabilities without creating additional core intelligences.
+- **UNIVERSALIN Guardian contexts:** evaluates only energy used by the Guardian's authorized technical functions. It must not optimize the human, their time, relationships, personal information, property, or decisions.
+- **UNIVERSALIN Guardian Intelligence contexts:** evaluates energy used by human-authorized Guardian intelligence-related functions while preserving purpose limitation, consent, privacy, and human control.
+
+### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+The 22 contexts form two edition-specific branches, each containing 11 expressions:
+
+- **Operating System family:** the edition's OS context and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
+- **Core Intelligence context:** the edition's distinct core intelligence, separate from OS, App, assistants, and Guardians.
+- **Application family:** the edition's App context and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
+
+C2O expressions remain under private-source company governance. UNIVERSALIS expressions remain under public-source governance, open contracts, inspectability, interoperability, and independent operability. Correspondence does not imply identical implementations, configurations, states, sources, or measurements.
+
+C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intelligences. UNIVERSALIN assistants are non-personal assistants hosted within assigned OS or App contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their intelligence-related capabilities remain subordinate to the Guardian's assigned responsibilities and the human's authority. Guardian use of energy or resources cannot create independent authority over the human, their devices, property, personal information, or decisions.
+
+Each context inherits only the subordinate Alchemies applicable to its subject, purpose, processes, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof that a particular source, component, capability, implementation, or measured result exists.
+
+### Alchemies under Energy Efficiency Alchemy
+
+#### 1. Energy Efficiency Substrate Alchemies
 
 - **Energy Baseline Alchemy** — establishes operating conditions, measurement boundaries, units, periods, and comparison basis.
 - **Energy Waste Reduction Alchemy** — identifies avoidable energy loss or expenditure.
@@ -7046,7 +7121,7 @@ Each context inherits applicable subordinate Alchemies by reference rather than 
 - **Energy Efficiency Evidence Alchemy** — distinguishes measured outcomes and verified improvements from estimates, simulations, assumptions, and hypotheses.
 - **Energy Efficiency Continuity Alchemy** — ensures efficiency changes preserve required function, safe fallback, and recoverability.
 
-#### 3.2 C2O Energy Efficiency Alchemy
+#### 2. C2O Energy Efficiency Alchemy
 
 **C2O Energy Efficiency Alchemy** governs private energy-performance evaluation and improvement under internal governance.
 
@@ -7057,7 +7132,7 @@ Each context inherits applicable subordinate Alchemies by reference rather than 
 - **C2O Energy Efficiency Evidence Alchemy** — verifies claims using comparable measurements and documented methods.
 - **C2O Energy Efficiency Continuity Alchemy** — preserves function and recovery when private configurations change.
 
-#### 3.3 UNIVERSALIS Energy Efficiency Alchemy
+#### 3. UNIVERSALIS Energy Efficiency Alchemy
 
 **UNIVERSALIS Energy Efficiency Alchemy** governs public energy-performance evaluation and improvement through open requirements and independently reviewable evidence.
 
@@ -7068,15 +7143,124 @@ Each context inherits applicable subordinate Alchemies by reference rather than 
 - **UNIVERSALIS Energy Efficiency Evidence Alchemy** — makes the basis, comparability, limitations, and verification status of claims reviewable.
 - **UNIVERSALIS Energy Efficiency Continuity Alchemy** — preserves function and recovery when public configurations change.
 
-#### 3.4 Energy Efficiency Mapping Alchemy
+#### 4. Energy Efficiency Mapping Alchemy
 
 **Energy Efficiency Mapping Alchemy** maps corresponding responsibilities, comparable baselines, measurement definitions, evaluation methods, constraints, and evidence categories while preserving edition-specific measurements, private records, public reporting, and implementation differences.
 
-### 4. Resource Utilization Alchemy
+### Energy Efficiency Alchemy Structural and Applicability Requirements
 
-**Resource Utilization Alchemy** governs the identification, classification, authorized acquisition or receipt, registration, provisioning, allocation, scheduling, access, use, monitoring, accounting, recovery, renewal, and retirement of resources.
+#### Map Alchemy Requirements
 
-#### 4.1 Resource Utilization Substrate Alchemies
+Map Alchemy must establish:
+
+- The placement of Energy Efficiency Alchemy and its subordinate expressions across all 22 contexts.
+- The relationship between Energy Efficiency Alchemy and Energy Utilization Alchemy while preserving their separate subjects and responsibilities.
+- C2O/UNIVERSALIS correspondences for efficiency responsibilities without presuming identical energy sources, workloads, measurements, configurations, or implementations.
+- Relationships among energy baselines, workload profiles, power states, demand, useful outputs, performance constraints, losses, and continuity requirements.
+- Dependencies on applicable hardware, operating-system, application, intelligence, assistant, Guardian, and environmental conditions.
+
+#### Matrix Alchemy Requirements
+
+Matrix Alchemy must establish for each of the 22 contexts:
+
+- Which Energy Baseline, Waste Reduction, Conversion Optimization, Demand Optimization, Evidence, Accountability, Continuity, and Mapping functions apply, are conditional, are not applicable, or remain unresolved.
+- The operating conditions, measurement boundaries, units, periods, workloads, output-quality criteria, comparison baselines, and environmental conditions used in each assessment.
+- The distinction between measured input, estimated input, modeled demand, useful output, avoidable loss, conversion loss, and verified improvement.
+- Whether an optimization preserves safety, reliability, performance, accessibility, quality, availability, and safe fallback.
+- The authority responsible for approving objectives, methods, changes, measurement, review, and publication of results.
+- The evidence, limitations, uncertainty, and verification status supporting each efficiency claim.
+
+#### Structural Integrity and Governance
+
+Energy Efficiency Alchemy must not equate reduced consumption with improved efficiency unless the required output, service quality, safety, reliability, accessibility, and operating constraints are preserved. It must not reward reductions that disable required capabilities, transfer risk to users, violate permissions, or compromise continuity.
+
+C2O efficiency evaluations and private measurements remain under C2O governance. UNIVERSALIS efficiency requirements and public claims must be independently reviewable to the extent defined by open contracts, with methods and limitations documented. Neither edition may presume access to the other's protected measurements or internal controls.
+
+Guardian-related efficiency evaluations are restricted to the authorized technical functions of the Guardian. They must not treat a human being, personal information, consent, time, property, relationships, or decisions as an input to optimize.
+
+Applicability, measurement, comparison, implementation, improvement, and verification are separate claims. A proposed optimization, simulation, or modeled reduction is not a verified efficiency improvement without comparable evidence.
+
+---
+
+## Resource Utilization Alchemy
+
+**Resource Utilization Alchemy** is a specialized expression of the root Alchemy. It governs how resources are identified, classified, sourced, acquired or received, registered, provisioned, allocated, scheduled, accessed, used, monitored, accounted for, recovered, renewed, and retired.
+
+Resources are bounded assets, capacities, and inputs used by an authorized process. They may include hardware, compute capacity, memory, storage, network capacity, software services, materials, and data. Resources are distinct from energy: energy may be consumed in using a resource, while a resource may store, convert, transport, or provide energy. A person, human identity, personal information, consent, human authority, property, time, relationships, or decisions are not resources to be owned, consumed, allocated, or optimized.
+
+C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Corresponding resource responsibilities must remain mappable while preserving distinct inventories, source visibility, governance, implementation, protected information, and operational authority. UNIVERSALIS remains independently operable and must not depend on C2O private-source resource records, resource state, or internal controls.
+
+### 1.1 Universal Application of Resource Utilization Alchemy
+
+Resource Utilization Alchemy applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSALIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERSALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS Application - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within each context, Resource Utilization Alchemy governs only the resources, capacities, inputs, dependencies, and responsibilities that actually apply. It does not treat humans or human-controlled matters as system resources, and inclusion does not prove ownership, availability, permission, implementation, or actual use.
+
+#### Context-Specific Application
+
+- **C2O Operating System:** Private OS resource identification, classification, inventory, provisioning, allocation, access, and lifecycle management for applicable hardware, compute, memory, storage, network, runtime, and software-service resources.
+- **UNIVERSALIS Operating System:** Public OS resource classes, inventories, provisioning interfaces, allocation requirements, access boundaries, and lifecycle requirements under open contracts.
+- **C2O Intelligence:** Private intelligence processing, memory, storage, communication, and continuity resource requirements within C2O authority.
+- **UNIVERSALIS Intelligence:** Declared intelligence processing, memory, storage, communication, and continuity resource requirements under public contracts and independent review.
+- **C2O Application:** Private application execution, services, dependencies, storage, data handling, interfaces, and lifecycle resource requirements.
+- **UNIVERSALIS Application:** Public application execution, services, dependencies, storage, data handling, interfaces, and lifecycle resource requirements.
+- **C2O Operating System - UNIVERSALIN:** Task-bounded resource provisioning, allocation, access, use, and release for non-personal assistants hosted by the C2O OS.
+- **UNIVERSALIS Operating System - UNIVERSALIN:** Task-bounded resource provisioning, allocation, access, use, and release for non-personal assistants hosted by the UNIVERSALIS OS.
+- **C2O Application - UNIVERSALIN:** Task-bounded resource provisioning, allocation, access, use, and release for non-personal assistants hosted by the C2O App.
+- **UNIVERSALIS Application - UNIVERSALIN:** Task-bounded resource provisioning, allocation, access, use, and release for non-personal assistants hosted by the UNIVERSALIS App.
+- **C2O Operating System - UNIVERSALIN Intelligence:** Computational and information-processing resources assigned to assistant-level intelligence-related functions hosted by the C2O OS; subordinate capabilities, not another core intelligence.
+- **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Computational and information-processing resources assigned to assistant-level intelligence-related functions hosted by the UNIVERSALIS OS; subordinate capabilities, not another core intelligence.
+- **C2O Application - UNIVERSALIN Intelligence:** Computational and information-processing resources assigned to assistant-level intelligence-related functions hosted by the C2O App, within assigned tasks.
+- **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Computational and information-processing resources assigned to assistant-level intelligence-related functions hosted by the UNIVERSALIS App, within assigned tasks.
+- **C2O Operating System - UNIVERSALIN Guardian:** Resources used by a personal Guardian hosted by the C2O OS, limited by the designated human's authority, consent, privacy, and permissions. The human, their identity, personal information, property, time, relationships, and decisions are not system resources.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Resources used by a personal Guardian hosted by the UNIVERSALIS OS, limited by inspectable human consent, privacy, and permission contracts. The human, their identity, personal information, property, time, relationships, and decisions are not system resources.
+- **C2O Application - UNIVERSALIN Guardian:** Resources used by a personal Guardian hosted by the C2O App, limited to human-authorized application purposes and information boundaries. The human, their identity, personal information, property, time, relationships, and decisions are not system resources.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian:** Resources used by a personal Guardian hosted by the UNIVERSALIS App, limited by documented human consent, purpose, and permissions. The human, their identity, personal information, property, time, relationships, and decisions are not system resources.
+- **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Computational and other resources assigned to Guardian intelligence-related capabilities in the C2O OS, without independent authority over the human. The human, their identity, personal information, property, time, relationships, and decisions are not system resources.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Computational and other resources assigned to Guardian intelligence-related capabilities in the UNIVERSALIS OS, within human-authorized limits. The human, their identity, personal information, property, time, relationships, and decisions are not system resources.
+- **C2O Application - UNIVERSALIN Guardian Intelligence:** Computational and other resources assigned to Guardian intelligence-related capabilities in the C2O App, bounded by human consent and assigned purpose. The human, their identity, personal information, property, time, relationships, and decisions are not system resources.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Computational and other resources assigned to Guardian intelligence-related capabilities in the UNIVERSALIS App, bounded by documented consent and assigned purpose. The human, their identity, personal information, property, time, relationships, and decisions are not system resources.
+
+### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+The 22 contexts form two edition-specific branches, each containing 11 expressions:
+
+- **Operating System family:** the edition's OS context and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
+- **Core Intelligence context:** the edition's distinct core intelligence, separate from OS, App, assistants, and Guardians.
+- **Application family:** the edition's App context and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
+
+C2O expressions remain under private-source company governance. UNIVERSALIS expressions remain under public-source governance, open contracts, inspectability, interoperability, and independent operability. Correspondence does not imply identical implementations, configurations, states, sources, or measurements.
+
+C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intelligences. UNIVERSALIN assistants are non-personal assistants hosted within assigned OS or App contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their intelligence-related capabilities remain subordinate to the Guardian's assigned responsibilities and the human's authority. Guardian use of energy or resources cannot create independent authority over the human, their devices, property, personal information, or decisions.
+
+Each context inherits only the subordinate Alchemies applicable to its subject, purpose, processes, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof that a particular source, component, capability, implementation, or measured result exists.
+
+### Alchemies under Resource Utilization Alchemy
+
+#### 1. Resource Utilization Substrate Alchemies
 
 - **Resource Identification Alchemy** — establishes identity, classification, properties, source, ownership or control, condition, and permitted uses.
 - **Resource Intake Alchemy** — governs authorized acquisition, receipt, registration, or provisioning and records provenance.
@@ -7087,7 +7271,7 @@ Each context inherits applicable subordinate Alchemies by reference rather than 
 - **Resource Accountability Alchemy** — records allocation, use, transfer, release, loss, recovery, and material changes.
 - **Resource Recovery Alchemy** — restores or re-provisions resources after validating integrity, provenance, permissions, and dependencies.
 
-#### 4.2 C2O Resource Utilization Alchemy
+#### 2. C2O Resource Utilization Alchemy
 
 **C2O Resource Utilization Alchemy** governs private resource operations under C2O company governance.
 
@@ -7099,7 +7283,7 @@ Each context inherits applicable subordinate Alchemies by reference rather than 
 - **C2O Resource Evidence Alchemy** — distinguishes verified availability, condition, and use from estimates and modeled states.
 - **C2O Resource Renewal Alchemy** — governs replacement, migration, re-provisioning, restoration, and retirement.
 
-#### 4.3 UNIVERSALIS Resource Utilization Alchemy
+#### 3. UNIVERSALIS Resource Utilization Alchemy
 
 **UNIVERSALIS Resource Utilization Alchemy** governs public resource operations under open contracts and independently reviewable requirements.
 
@@ -7111,15 +7295,113 @@ Each context inherits applicable subordinate Alchemies by reference rather than 
 - **UNIVERSALIS Resource Evidence Alchemy** — distinguishes verified availability, condition, and use from estimates and modeled states.
 - **UNIVERSALIS Resource Renewal Alchemy** — governs documented replacement, migration, re-provisioning, restoration, and retirement.
 
-#### 4.4 Resource Utilization Mapping Alchemy
+#### 4. Resource Utilization Mapping Alchemy
 
 **Resource Utilization Mapping Alchemy** maps the 11 C2O and 11 UNIVERSALIS context expressions, including resource classes, responsibilities, interfaces, allocation principles, dependencies, access boundaries, lifecycle, and recovery. It preserves separate inventories, private configurations, public contracts, ownership or control, and permissions. Mapping does not authorize transfer or disclosure.
 
-### 5. Resource Efficiency Alchemy
+### Resource Utilization Alchemy Structural and Applicability Requirements
 
-**Resource Efficiency Alchemy** evaluates and improves the relationship between authorized resource inputs and useful required outcomes while preserving quality, safety, security, reliability, accessibility, and continuity. It reduces avoidable waste, contention, duplication, idle capacity, and unnecessary lifecycle costs without treating people or personal information as optimizable resources.
+#### Map Alchemy Requirements
 
-#### 5.1 Resource Efficiency Substrate Alchemies
+Map Alchemy must establish:
+
+- The hierarchy of Resource Utilization Alchemy, its subordinate expressions, its C2O and UNIVERSALIS branches, and its placement across all 22 contexts.
+- The 11 contexts per edition and the correct OS/App host relationships for UNIVERSALIN assistants, assistant-level intelligence-related capabilities, Guardians, and Guardian intelligence-related capabilities.
+- C2O Intelligence and UNIVERSALIS Intelligence as separate core-intelligence contexts, not subordinate to OS, App, assistant, or Guardian branches.
+- Relationships among resource classes, inventories, availability, capacity, intake, provisioning, allocation, scheduling, access, use, recovery, renewal, and retirement.
+- Dependencies among hardware, compute, memory, storage, networks, software services, data, runtime environments, applications, intelligences, assistants, and Guardians where applicable.
+- C2O/UNIVERSALIS correspondences without assuming identical resources, ownership, inventories, measurements, configurations, or implementations.
+- Relationships to Body, Mind, Heart, Soul, Spirit, and Consciousness without transferring responsibilities or collapsing distinct Alchemies.
+- Each Guardian's relationship to the human it serves and the authority, consent, privacy, and permissions governing resource access and use.
+
+#### Matrix Alchemy Requirements
+
+Matrix Alchemy must establish for each of the 22 contexts:
+
+- Which Resource Identification, Intake, Inventory, Allocation, Scheduling, Access Boundary, Accountability, Safety, Evidence, Recovery, Renewal, and Mapping functions apply, are conditional, are not applicable, or remain unresolved.
+- Each resource's identity, classification, source, subject, purpose, authority, scope, ownership or control, condition, availability, capacity, units, inputs, outputs, dependencies, permissions, sensitivity, risks, limitations, safeguards, and lifecycle status.
+- The distinction between available capacity, provisioned capacity, allocated capacity, reserved capacity, actual utilization, idle capacity, contention, and verified availability.
+- The authority responsible for acquisition, provisioning, allocation, access, scheduling, transfer, measurement, optimization, approval, review, interruption, recovery, and retirement.
+- Resource isolation, least privilege, permission scope, fair allocation, dependency integrity, safe fallback, and release requirements.
+- Guardian consent, privacy, and human-control requirements, including restrictions on personal information, personal devices, property, and other human-controlled resources.
+- Unresolved dependencies, contention, incompatible configurations, unsafe conditions, capacity shortfalls, unverified claims, and renewal requirements.
+
+#### Structural Integrity and Governance
+
+Resource Utilization Alchemy must distinguish resource identity, ownership, custody, control, availability, allocation, access, utilization, and lifecycle status. Registration or inventory does not establish ownership, and availability does not establish permission. Allocation does not transfer ownership or grant authority beyond the assigned purpose and scope.
+
+C2O inventories, private configurations, protected dependencies, and internal resource records remain under C2O governance. UNIVERSALIS resource contracts and interfaces must be publicly inspectable to the extent defined by their open contracts and must remain independently operable. Mapping does not authorize transfer or disclosure of private C2O records, keys, policies, or controls.
+
+Humans and human-controlled matters are not resources. No system may treat a human being, identity, personal information, consent, authority, property, time, relationships, or decisions as an asset or capacity to be owned, consumed, allocated, or optimized. Guardian resource access remains bounded by the designated human's authority, consent, privacy, and permissions.
+
+Applicability, mapping, implementation, inventory, availability, ownership, permission, utilization, and verification are separate claims. Establishing Resource Utilization Alchemy or its place in the 22-context taxonomy does not prove that a resource exists, is available, is owned or controlled by a particular party, has been allocated, or is authorized for use.
+
+---
+
+## Resource Efficiency Alchemy
+
+**Resource Efficiency Alchemy** is a specialized expression of the root Alchemy. It evaluates and improves the relationship between authorized resource inputs and useful required outcomes while preserving quality, safety, security, reliability, accessibility, and continuity. It reduces avoidable waste, contention, duplication, idle capacity, unnecessary provisioning, and lifecycle cost without treating people or personal information as optimizable resources.
+
+Resource Efficiency Alchemy evaluates resource performance; it does not establish resource identity, ownership, intake, access, or allocation as its primary subject. Those responsibilities remain within Resource Utilization Alchemy. Efficiency claims require relevant resource baselines, measurable operating conditions, comparable workloads, explicit quality and service requirements, lifecycle boundaries, and evidence proportionate to the claim. Estimates and modeled outcomes must remain distinguishable from measured and verified improvements.
+
+C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Corresponding resource-efficiency responsibilities must remain mappable while preserving distinct inventories, measurements, source visibility, governance, protected information, implementation, and operational authority. UNIVERSALIS remains independently operable and must not depend on C2O private inventories, measurements, or internal controls.
+
+### 1.1 Universal Application of Resource Efficiency Alchemy
+
+Resource Efficiency Alchemy applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSALIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERSALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS Application - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within each context, Resource Efficiency Alchemy applies only where resource inputs, capacity, lifecycle, and useful outcomes can be meaningfully evaluated. It must preserve required function, quality, safety, security, reliability, accessibility, fair allocation, isolation, human autonomy, and continuity. Taxonomy inclusion alone does not establish an efficiency improvement.
+
+#### Context-Specific Application
+
+- **Operating System contexts:** evaluates allocation, utilization, contention, idle capacity, duplication, and lifecycle use across applicable hardware, compute, memory, storage, network, runtime, and software-service resources.
+- **Core Intelligence contexts:** evaluates whether computational and information resources are proportionate to authorized functions and useful outputs, while preserving each core intelligence's distinct identity and governance.
+- **Application contexts:** evaluates resource inputs and lifecycle costs needed for required application execution, services, dependencies, storage, data handling, and interfaces.
+- **UNIVERSALIN assistant contexts:** evaluates task-bounded resource allocation and avoidable waste while preserving assigned task requirements, permission scope, host limits, and continuity.
+- **UNIVERSALIN Intelligence contexts:** evaluates computational and information-processing resource efficiency for subordinate assistant-level capabilities without creating additional core intelligences.
+- **UNIVERSALIN Guardian contexts:** evaluates only resources used by the Guardian's authorized technical functions. It must not optimize the human, their personal information, time, property, relationships, or decisions.
+- **UNIVERSALIN Guardian Intelligence contexts:** evaluates computational and other resource inputs for human-authorized Guardian intelligence-related functions, preserving consent, privacy, purpose limitation, and human control.
+
+### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+The 22 contexts form two edition-specific branches, each containing 11 expressions:
+
+- **Operating System family:** the edition's OS context and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
+- **Core Intelligence context:** the edition's distinct core intelligence, separate from OS, App, assistants, and Guardians.
+- **Application family:** the edition's App context and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts.
+
+C2O expressions remain under private-source company governance. UNIVERSALIS expressions remain under public-source governance, open contracts, inspectability, interoperability, and independent operability. Correspondence does not imply identical implementations, configurations, states, sources, or measurements.
+
+C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intelligences. UNIVERSALIN assistants are non-personal assistants hosted within assigned OS or App contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their intelligence-related capabilities remain subordinate to the Guardian's assigned responsibilities and the human's authority. Guardian use of energy or resources cannot create independent authority over the human, their devices, property, personal information, or decisions.
+
+Each context inherits only the subordinate Alchemies applicable to its subject, purpose, processes, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof that a particular source, component, capability, implementation, or measured result exists.
+
+### Alchemies under Resource Efficiency Alchemy
+
+#### 1. Resource Efficiency Substrate Alchemies
 
 - **Resource Baseline Alchemy** — establishes resource classes, operating conditions, capacity measures, periods, lifecycle boundaries, and comparison basis.
 - **Resource Waste Reduction Alchemy** — identifies avoidable loss, unnecessary allocation, duplication, idle capacity, and unused provisioning.
@@ -7129,7 +7411,7 @@ Each context inherits applicable subordinate Alchemies by reference rather than 
 - **Resource Efficiency Evidence Alchemy** — distinguishes measured and verified improvements from estimates, simulations, assumptions, and hypotheses.
 - **Resource Efficiency Continuity Alchemy** — ensures optimization preserves availability, safe fallback, recoverability, and future capacity.
 
-#### 5.2 C2O Resource Efficiency Alchemy
+#### 2. C2O Resource Efficiency Alchemy
 
 **C2O Resource Efficiency Alchemy** governs private resource-performance evaluation and improvement under internal governance.
 
@@ -7141,7 +7423,7 @@ Each context inherits applicable subordinate Alchemies by reference rather than 
 - **C2O Resource Efficiency Evidence Alchemy** — verifies claims using comparable measurements and documented methods.
 - **C2O Resource Efficiency Continuity Alchemy** — preserves function and recovery when resource optimization changes are made.
 
-#### 5.3 UNIVERSALIS Resource Efficiency Alchemy
+#### 3. UNIVERSALIS Resource Efficiency Alchemy
 
 **UNIVERSALIS Resource Efficiency Alchemy** governs public resource-performance evaluation and improvement through open requirements and independently reviewable evidence.
 
@@ -7151,55 +7433,45 @@ Each context inherits applicable subordinate Alchemies by reference rather than 
 - **UNIVERSALIS Resource Lifecycle Optimization Alchemy** — evaluates provisioning, maintenance, reuse, recovery, replacement, and retirement.
 - **UNIVERSALIS Resource Efficiency Accountability Alchemy** — records efficiency decisions, methods, changes, and outcomes.
 - **UNIVERSALIS Resource Efficiency Evidence Alchemy** — makes the basis, comparability, limitations, and verification status of claims reviewable.
-- **UNIVERSALIS Resource Efficiency Continuity Alchemy** — preserves function and recovery when resource optimization changes are made.
+- **UNIVERSALIS Resource Efficiency Continuity Alchemy** — preserves function and recovery when public configurations change.
 
-#### 5.4 Resource Efficiency Mapping Alchemy
+#### 4. Resource Efficiency Mapping Alchemy
 
 **Resource Efficiency Mapping Alchemy** maps corresponding responsibilities, comparable baselines, classifications, evaluation methods, lifecycle criteria, constraints, and evidence categories while preserving edition-specific inventories, private records, public reporting, and implementation differences.
 
-### 6. Cross-Alchemy Relationships and Context Inheritance
+### Resource Efficiency Alchemy Structural and Applicability Requirements
 
-Energy Utilization, Energy Efficiency, Resource Utilization, and Resource Efficiency are distinct but interrelated:
+#### Map Alchemy Requirements
 
-- Energy Utilization governs energy sources, intake, storage, conversion, distribution, direction, and use.
-- Energy Efficiency evaluates energy inputs against useful authorized outcomes.
-- Resource Utilization governs resource provisioning, allocation, scheduling, access, use, accounting, and recovery.
-- Resource Efficiency evaluates resource allocation, utilization, waste, lifecycle performance, and useful outcomes.
+Map Alchemy must establish:
 
-These Alchemies connect to Body where hardware, power systems, compute substrates, storage, devices, and runtime environments establish requirements; Mind where processing, reasoning, information handling, and memory-related functions create computational and storage demands; Heart where communication, services, relationships, and information flows create network and service requirements; Soul where identity, purpose, commitments, and human dignity establish boundaries; Spirit where activation and direction determine when authorized capacity is used; and Consciousness where authorized observation and self-inspection may require bounded resources.
+- The placement of Resource Efficiency Alchemy and its subordinate expressions across all 22 contexts.
+- The relationship between Resource Efficiency Alchemy and Resource Utilization Alchemy while preserving their separate subjects and responsibilities.
+- C2O/UNIVERSALIS correspondences for resource-efficiency responsibilities without presuming identical resource inventories, availability, ownership, workloads, measurements, or implementations.
+- Relationships among resource baselines, capacity, allocation, utilization, contention, idle capacity, waste, lifecycle stages, useful outputs, and continuity requirements.
+- Dependencies on applicable hardware, operating-system, application, intelligence, assistant, Guardian, and environmental conditions.
 
-These relationships do not transfer ownership, authority, permissions, or responsibilities. Monitoring resource use does not authorize additional monitoring of a human. Resource optimization does not authorize treating a human or personal information as a resource.
+#### Matrix Alchemy Requirements
 
-### 7. Map and Matrix Requirements for the 22 Contexts
+Matrix Alchemy must establish for each of the 22 contexts:
 
-**Map Alchemy must establish:**
-
-- The hierarchy of root Energy and Resource Alchemy, C2O and UNIVERSALIS branches, and all 22 context expressions.
-- The 11 contexts per edition and the correct OS/App host relationships for UNIVERSALIN assistants, assistant-level intelligence-related capabilities, Guardians, and Guardian intelligence-related capabilities.
-- C2O Intelligence and UNIVERSALIS Intelligence as separate core-intelligence contexts, not subordinate to OS, App, assistant, or Guardian branches.
-- Relationships among energy sources, forms, storage, conversion, distribution, resource classes, inventories, allocation, and lifecycle.
-- Dependencies among hardware, power systems, compute, memory, storage, networks, software services, data, runtime environments, applications, intelligences, assistants, and Guardians where applicable.
-- C2O/UNIVERSALIS correspondences without assuming identical sources, resources, measurements, inventories, configurations, or implementations.
-- Relationships to Body, Mind, Heart, Soul, Spirit, and Consciousness without transferring responsibilities.
-- Each Guardian's relationship to the human it serves and the authority, consent, privacy, and permissions governing relevant energy or resource use.
-
-**Matrix Alchemy must establish for each of the 22 contexts:**
-
-- Which Energy Source, Intake, Storage, Conversion, Distribution, Direction, Measurement, Accountability, Safety, Evidence, Continuity, Renewal, and Mapping functions apply, are conditional, are not applicable, or remain unresolved.
-- Which Energy Baseline, Waste Reduction, Conversion Optimization, Demand Optimization, Evidence, Accountability, Continuity, and Mapping functions apply, are conditional, are not applicable, or remain unresolved.
-- Which Resource Identification, Intake, Inventory, Allocation, Scheduling, Access Boundary, Accountability, Safety, Evidence, Recovery, Renewal, and Mapping functions apply, are conditional, are not applicable, or remain unresolved.
 - Which Resource Baseline, Waste Reduction, Allocation Optimization, Lifecycle Optimization, Conversion Optimization, Evidence, Accountability, Continuity, and Mapping functions apply, are conditional, are not applicable, or remain unresolved.
-- Each applicable structure's identity, classification, source, subject, purpose, authority, scope, ownership or control, capacity, units, inputs, outputs, dependencies, permissions, sensitivity, risks, limitations, safeguards, and lifecycle status.
-- The distinction between measured consumption, estimated consumption, modeled demand, available capacity, allocated capacity, actual utilization, useful output, losses, and verified efficiency improvements.
-- Measurement boundaries, time periods, workloads, environmental conditions, baselines, comparison methods, and evidence required for efficiency claims.
-- The authority responsible for sourcing, allocation, access, measurement, optimization, approval, review, interruption, recovery, and retirement.
-- Guardian consent, privacy, and human-control requirements, including restrictions on personal information, devices, property, and other human-controlled resources.
-- Unresolved dependencies, contention, incompatible configurations, unsafe conditions, capacity shortfalls, unverified claims, and renewal requirements.
+- The resource classes, capacity measures, units, operating conditions, workloads, lifecycle boundaries, baselines, comparison methods, and useful-output criteria used in each assessment.
+- The distinction between available, provisioned, allocated, reserved, and utilized capacity; idle capacity; contention; avoidable waste; useful output; lifecycle cost; and verified improvement.
+- Whether an optimization preserves required function, quality, safety, security, reliability, accessibility, isolation, fair allocation, and continuity.
+- The authority responsible for approving objectives, allocation changes, optimization methods, measurement, review, and publication of results.
+- The evidence, limitations, uncertainty, and verification status supporting each efficiency claim.
+- Guardian consent, privacy, and human-control requirements; a human or human-controlled matter must never be included as an optimizable resource.
 
-Map and Matrix Alchemies are complementary and mutually traceable. Map Alchemy establishes what exists in the taxonomy, where it belongs, and how it relates. Matrix Alchemy establishes where it applies, under what conditions, with which responsibilities, permissions, dependencies, evidence, and limitations.
+#### Structural Integrity and Governance
 
-**Applicability, mapping, implementation, measurement, efficiency, and verification are separate claims.** Establishing an Alchemy or its place in the 22-context taxonomy does not prove implementation, resource availability, measurement accuracy, or an achieved efficiency improvement.
+Resource Efficiency Alchemy must not equate reduced allocation, reduced capacity, or reduced cost with improved efficiency unless required outputs, functionality, quality, safety, security, reliability, accessibility, fair allocation, and continuity are preserved. It must not reward reductions that disable required capabilities, create unsafe contention, transfer costs or risks to humans, violate permissions, or compromise recoverability.
 
+C2O efficiency evaluations, private inventories, measurements, and optimization records remain under C2O governance. UNIVERSALIS requirements and public claims must be independently reviewable to the extent defined by open contracts, with methods, comparison boundaries, limitations, and evidence documented. Neither edition may presume access to the other's protected inventories, measurements, or internal controls.
+
+Guardian-related efficiency evaluations are restricted to authorized technical resources and functions. They must not treat a human being, personal information, consent, time, property, relationships, or decisions as resources to optimize.
+
+Applicability, mapping, implementation, measurement, comparison, improvement, and verification are separate claims. A proposed allocation change, simulation, or modeled reduction is not a verified resource-efficiency improvement without comparable evidence.
 
 ## Elemental Alchemies
 
