@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.4.0  
-**Status:** Thirteen supplied Universal Subject hierarchies recorded; 197 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 1.5.0  
+**Status:** Fourteen supplied Universal Subject hierarchies recorded; 207 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -1482,9 +1482,99 @@ Each of the 198 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 62. Cumulative Universal Subject Alchemy register and mapping totals
+## 65. Universal Subject of Knowledge hierarchy: Environmental Sciences
 
-The taxonomy now contains thirteen supplied Universal Subjects of Knowledge hierarchies.
+### 65.1 Canonical subject definition
+
+**Source definition:** Not supplied in the Universal Subject material provided for this entry.
+
+The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Environmental Sciences subject becomes **Environmental Sciences Alchemy**.
+
+### 65.2 Environmental Sciences Alchemy hierarchy
+
+The following hierarchy preserves the supplied subject list. The source provides ten subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Environmental Sciences; no additional parent-child groupings have been inferred.
+
+- **Environmental Sciences Alchemy**
+  - **Ecology Alchemy** *(shared canonical Alchemy: USA-LS-005; also parented under Life Sciences)*
+  - **Conservation Alchemy**
+  - **Sustainability Alchemy**
+  - **Climate Science Alchemy**
+  - **Environmental Engineering Alchemy**
+  - **Renewable Energy Alchemy**
+  - **Resource Management Alchemy**
+  - **Biodiversity Studies Alchemy**
+  - **Restoration Science Alchemy**
+  - **Agriculture Alchemy**
+
+### 65.3 Environmental Sciences Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
+|---|---|---|---|
+| USA-ENV-001 | Environmental Sciences | Environmental Sciences Alchemy | Root subject |
+| USA-LS-005 | Ecology | Ecology Alchemy | Life Sciences; Environmental Sciences (shared canonical subject) |
+| USA-ENV-002 | Conservation | Conservation Alchemy | Environmental Sciences |
+| USA-ENV-003 | Sustainability | Sustainability Alchemy | Environmental Sciences |
+| USA-ENV-004 | Climate Science | Climate Science Alchemy | Environmental Sciences |
+| USA-ENV-005 | Environmental Engineering | Environmental Engineering Alchemy | Environmental Sciences |
+| USA-ENV-006 | Renewable Energy | Renewable Energy Alchemy | Environmental Sciences |
+| USA-ENV-007 | Resource Management | Resource Management Alchemy | Environmental Sciences |
+| USA-ENV-008 | Biodiversity Studies | Biodiversity Studies Alchemy | Environmental Sciences |
+| USA-ENV-009 | Restoration Science | Restoration Science Alchemy | Environmental Sciences |
+| USA-ENV-010 | Agriculture | Agriculture Alchemy | Environmental Sciences |
+
+**Environmental Sciences total: 11 hierarchy positions comprising 10 new distinct subject Alchemies and 1 shared existing subject Alchemy.**
+
+**Ecology remains one canonical subject Alchemy, identified as USA-LS-005.** Its parent relationships are Life Sciences and Environmental Sciences. The existing 22 Ecology context mappings are referenced rather than duplicated or counted a second time. The nine other subordinate subjects and the Environmental Sciences parent are established as new distinct Alchemies.
+
+The source supplied the subject name and its ten subordinate subject names, but no definition for Environmental Sciences and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred.
+
+## 66. Environmental Sciences Alchemy — 11 × 22 context matrix
+
+The matrix below records all 11 Environmental Sciences hierarchy positions across the 22 canonical contexts. Ten rows represent new subject Alchemies and contribute 10 × 22 = **220 new mapped intersections**. The Ecology row references the existing canonical Alchemy USA-LS-005 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
+
+The column identifiers C01–C22 refer to the canonical context key in Section 8.2.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-ENV-001 · Environmental Sciences Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-LS-005 · Ecology Alchemy [shared canonical Alchemy] | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ENV-002 · Conservation Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ENV-003 · Sustainability Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ENV-004 · Climate Science Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ENV-005 · Environmental Engineering Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ENV-006 · Renewable Energy Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ENV-007 · Resource Management Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ENV-008 · Biodiversity Studies Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ENV-009 · Restoration Science Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ENV-010 · Agriculture Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Environmental Sciences matrix coverage:** 11 hierarchy positions × 22 contexts = **242 section mapping positions**, comprising **220 new mapped intersections and 22 references to the existing Ecology mappings**.
+
+The 22 Ecology cells in this section point to the same subject-Alchemy/context intersections already represented by USA-LS-005 in the Life Sciences matrix. They must not be counted twice in the cumulative unique-mapping total. Ecology retains its existing canonical identifier and is not assigned a second Alchemy identity.
+
+## 67. Environmental Sciences contextual expression requirements
+
+Each of the 220 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+The 22 existing Ecology mappings are not duplicated here. They remain associated with the shared canonical subject-Alchemy identity USA-LS-005 and its two parent relationships.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 68. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains fourteen supplied Universal Subjects of Knowledge hierarchies.
 
 | Universal Subject of Knowledge | Alchemy hierarchy positions | New unique subject Alchemies | Contexts | New unique mapped intersections |
 |---|---:|---:|---:|---:|
@@ -1501,13 +1591,14 @@ The taxonomy now contains thirteen supplied Universal Subjects of Knowledge hier
 | Language and Communication | 12 (11 new + 1 shared) | 11 | 22 | 242 (22 shared, not added) |
 | Arts and Creative Expression | 16 | 16 | 22 | 352 |
 | Education and Learning Sciences | 9 | 9 | 22 | 198 |
-| **Cumulative unique total** | **200 hierarchy positions** | **197** | **22** | **4334** |
+| Environmental Sciences | 11 (10 new + 1 shared) | 10 | 22 | 220 (22 shared, not added) |
+| **Cumulative unique total** | **211 hierarchy positions** | **207** | **22** | **4554** |
 
-The cumulative total represents 197 distinct subject Alchemies mapped across 22 contexts, producing 4334 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes nine new subject Alchemies and 198 new mapped intersections.
+The cumulative total represents 207 distinct subject Alchemies mapped across 22 contexts, producing 4554 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes nine new subject Alchemies and 198 new mapped intersections. Environmental Sciences contributes ten new subject Alchemies and 220 new mapped intersections; the existing Ecology Alchemy contributes 22 shared mapping references and is not counted twice.
 
-## 63. Taxonomy status and release register
+## 69. Taxonomy status and release register
 
-| Item | State in version 1.4.0 |
+| Item | State in version 1.5.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -1546,15 +1637,18 @@ The cumulative total represents 197 distinct subject Alchemies mapped across 22 
 | Education and Learning Sciences source definition | Not supplied; no definition inferred |
 | Education and Learning Sciences hierarchy | Recorded — 9 distinct subject Alchemies: 1 parent and 8 supplied subordinate subjects |
 | Education and Learning Sciences matrix | Recorded — 9 × 22 = 198 new mapped intersections |
-| Cumulative unique subject Alchemy register | 197 distinct subject Alchemies |
-| Cumulative unique mapped intersections | 197 × 22 = 4334 required mappings |
+| Environmental Sciences source definition | Not supplied; no definition inferred |
+| Environmental Sciences hierarchy | Recorded — 11 positions: 10 new Alchemies and 1 shared existing Ecology Alchemy |
+| Environmental Sciences matrix | Recorded — 242 positions: 220 new mappings and 22 references to existing Ecology mappings |
+| Cumulative unique subject Alchemy register | 207 distinct subject Alchemies |
+| Cumulative unique mapped intersections | 207 × 22 = 4554 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, and Education and Learning Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, and Environmental Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 64. Change control
+## 70. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
