@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.0.0  
-**Status:** Nine supplied Universal Subject hierarchies recorded; 149 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
+**Version:** 1.1.0  
+**Status:** Ten supplied Universal Subject hierarchies recorded; 161 unique subject Alchemies mapped across 22 contexts; detailed contextual expressions pending  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -1119,9 +1119,100 @@ Each of the 286 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 41. Cumulative Universal Subject Alchemy register and mapping totals
+## 44. Universal Subject of Knowledge hierarchy: Humanities
 
-The taxonomy now contains nine supplied Universal Subjects of Knowledge hierarchies.
+### 44.1 Canonical subject definition
+
+**Source definition:** Not supplied in the Universal Subject material provided for this entry.
+
+The canonical subject name is retained as supplied. No definition is inferred or added without an owner-provided definition. The Humanities subject becomes **Humanities Alchemy**.
+
+### 44.2 Humanities Alchemy hierarchy
+
+The following hierarchy preserves the supplied subject list. The source lists 11 subordinate subjects without further subdivisions. Accordingly, the listed subjects are represented as direct children of Humanities. No additional subjects, subdivisions, or parent-child relationships have been invented.
+
+- **Humanities Alchemy**
+  - **Philosophy Alchemy**
+  - **Ethics Alchemy**
+  - **History Alchemy**
+  - **Archaeology Alchemy**
+  - **Linguistics Alchemy**
+  - **Literature Alchemy**
+  - **Religious Studies Alchemy**
+  - **Comparative Religion Alchemy**
+  - **Classical Studies Alchemy**
+  - **Cultural Heritage Alchemy**
+  - **Historical Analysis Alchemy**
+
+The closely related names **Religious Studies** and **Comparative Religion** remain separate supplied subjects and separate Alchemy identities. Likewise, **History** and **Historical Analysis** remain separate supplied subjects and separate Alchemy identities. Their relationships can be examined during the later mapping and relationship-analysis stages; the supplied distinctions are not collapsed.
+
+### 44.3 Humanities Alchemy inventory
+
+| Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
+|---|---|---|---|
+| USA-HUM-001 | Humanities | Humanities Alchemy | Root subject |
+| USA-HUM-002 | Philosophy | Philosophy Alchemy | Humanities |
+| USA-HUM-003 | Ethics | Ethics Alchemy | Humanities |
+| USA-HUM-004 | History | History Alchemy | Humanities |
+| USA-HUM-005 | Archaeology | Archaeology Alchemy | Humanities |
+| USA-HUM-006 | Linguistics | Linguistics Alchemy | Humanities |
+| USA-HUM-007 | Literature | Literature Alchemy | Humanities |
+| USA-HUM-008 | Religious Studies | Religious Studies Alchemy | Humanities |
+| USA-HUM-009 | Comparative Religion | Comparative Religion Alchemy | Humanities |
+| USA-HUM-010 | Classical Studies | Classical Studies Alchemy | Humanities |
+| USA-HUM-011 | Cultural Heritage | Cultural Heritage Alchemy | Humanities |
+| USA-HUM-012 | Historical Analysis | Historical Analysis Alchemy | Humanities |
+
+**Humanities total: 12 distinct subject Alchemies.** This count includes Humanities Alchemy itself and the 11 directly subordinate subject Alchemies.
+
+The source supplied the subject name and its 11 subordinate subject names, but no definition for Humanities and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred. The subordinate subject definitions and their contextual responsibilities must be developed without changing the supplied canonical names or parentage.
+
+## 45. Humanities Alchemy — 12 × 22 context matrix
+
+The matrix below maps every Humanities subject Alchemy to all 22 canonical contexts. The column identifiers C01–C22 refer to the canonical context key in Section 8.2. Each **M** is a required mapping position. It does not, by itself, claim that the detailed context-specific expression has been authored, reviewed, implemented, tested, or verified.
+
+| Subject Alchemy | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 | C19 | C20 | C21 | C22 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| USA-HUM-001 · Humanities Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HUM-002 · Philosophy Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HUM-003 · Ethics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HUM-004 · History Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HUM-005 · Archaeology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HUM-006 · Linguistics Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HUM-007 · Literature Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HUM-008 · Religious Studies Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HUM-009 · Comparative Religion Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HUM-010 · Classical Studies Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HUM-011 · Cultural Heritage Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-HUM-012 · Historical Analysis Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+
+**Humanities matrix total:** 12 subject Alchemies × 22 contexts = **264 mapped intersections**.
+
+All 12 Humanities subject Alchemies are new unique canonical identities in the current taxonomy. None duplicates an already-established subject Alchemy. The supplied distinctions between Religious Studies and Comparative Religion, and between History and Historical Analysis, are preserved. Relationships with other knowledge domains may be documented during the later mapping and relationship-analysis stages, but conceptual overlap does not create duplicate identities or silently change the supplied hierarchy.
+
+The 264 intersections are the contextual mappings of the 12 Humanities Alchemies. They are not 264 additional subject classifications.
+
+## 46. Humanities contextual expression requirements
+
+Each of the 264 mapped intersections must receive an individually authored and reviewed contextual expression containing:
+
+1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
+2. **Context identity:** the exact C01–C22 identifier and canonical context name.
+3. **Source subject and hierarchy:** the supplied Universal Subject name and its parent-child placement.
+4. **Contextual definition:** the meaning and scope of the subject Alchemy within the selected context.
+5. **Purpose and responsibilities:** what it establishes, organizes, examines, integrates, maintains, supports, or transforms in that context.
+6. **Scope and exclusions:** what it includes and what remains outside its responsibility.
+7. **Operations and processes:** subject-appropriate Alchemical operations in that context.
+8. **Relationships and dependencies:** its relationships with other Alchemies and relevant context structures.
+9. **Authority, permissions, and constraints:** the applicable contextual boundaries.
+10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
+11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
+
+A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
+
+## 47. Cumulative Universal Subject Alchemy register and mapping totals
+
+The taxonomy now contains ten supplied Universal Subjects of Knowledge hierarchies.
 
 | Universal Subject of Knowledge | Alchemy hierarchy positions | New unique subject Alchemies | Contexts | New unique mapped intersections |
 |---|---:|---:|---:|---:|
@@ -1134,13 +1225,14 @@ The taxonomy now contains nine supplied Universal Subjects of Knowledge hierarch
 | Social Sciences | 14 | 14 | 22 | 308 |
 | Business and Economic Sciences | 16 (15 new + 1 shared) | 15 | 22 | 330 (22 shared, not added) |
 | Law and Governance | 13 | 13 | 22 | 286 |
-| **Cumulative unique total** | **151 hierarchy positions** | **149** | **22** | **3278** |
+| Humanities | 12 | 12 | 22 | 264 |
+| **Cumulative unique total** | **163 hierarchy positions** | **161** | **22** | **3542** |
 
-The cumulative total represents 149 distinct subject Alchemies mapped across 22 contexts, producing 3278 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register.
+The cumulative total represents 161 distinct subject Alchemies mapped across 22 contexts, producing 3542 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register.
 
-## 42. Taxonomy status and release register
+## 48. Taxonomy status and release register
 
-| Item | State in version 1.0.0 |
+| Item | State in version 1.1.0 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -1167,15 +1259,18 @@ The cumulative total represents 149 distinct subject Alchemies mapped across 22 
 | Law and Governance source definition | Not supplied; no definition inferred |
 | Law and Governance hierarchy | Recorded — 13 distinct subject Alchemies: 1 parent and 12 supplied subordinate subjects |
 | Law and Governance matrix | Recorded — 13 × 22 = 286 new mapped intersections |
-| Cumulative unique subject Alchemy register | 149 distinct subject Alchemies |
-| Cumulative unique mapped intersections | 149 × 22 = 3278 required mappings |
+| Humanities source definition | Not supplied; no definition inferred |
+| Humanities hierarchy | Recorded — 12 distinct subject Alchemies: 1 parent and 11 supplied subordinate subjects |
+| Humanities matrix | Recorded — 12 × 22 = 264 new mapped intersections |
+| Cumulative unique subject Alchemy register | 161 distinct subject Alchemies |
+| Cumulative unique mapped intersections | 161 × 22 = 3542 required mappings |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
-**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, and Business and Economic Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
+**Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, and Humanities subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
-## 43. Change control
+## 49. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
