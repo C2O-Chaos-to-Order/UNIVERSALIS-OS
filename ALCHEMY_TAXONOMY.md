@@ -7479,52 +7479,169 @@ These are specialized expressions of the root Alchemy that organize the primary 
 
 ### Elemental Alchemy — Air
 
-**Elemental Alchemy — Air**  
-The bounded process that organizes the qualities of Air (movement, communication, lightness, and intelligence) so that systems and beings can act with clarity and adaptability while remaining coherent, recoverable, and accountable.
+**Elemental Alchemy — Air** is the bounded process that identifies, classifies, organizes, integrates, maintains, evaluates, protects, recovers, renews, and transforms the qualities and functions of Air—including movement, communication, lightness, clarity, perception, information exchange, and intelligence-related activity—so that systems and beings can act and interact with clarity and adaptability while remaining coherent, recoverable, and accountable.
 
-- **Air Flow Alchemy** — structures the movement and circulation of Air qualities into stable, addressable pathways.  
-- **Air Clarity Alchemy** — maintains the process space in which perception, communication, and lightness are formed and held.  
-- **Air Accountability Alchemy** — leaves an attributable record of Air transformations appropriate to its edition.
+Air Alchemy governs applicable movement and circulation, communication pathways, signal exchange, information transmission, perception-related structures, clarity of representation, and the reduction of unnecessary operational friction. It does not itself establish authority to access information, monitor a person, initiate communication, direct another entity, or override the permissions and responsibilities of the context in which an Air-related process occurs. Reasoning and intelligence-related functions remain subject to the identity and authority of the intelligence or subordinate capability performing them.
 
-**C2O Elemental Alchemy — Air**  
-Private Air qualities under internal governance.
+C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Air responsibilities must remain structurally mappable across the two editions while preserving their distinct source visibility, governance, implementation, protected information, and operational authority. UNIVERSALIS must remain independently operable and must not depend on C2O private-source Air records, communication pathways, intelligence state, or internal controls.
 
-- **Private Air Stewardship Alchemy** — governs internal movement, communication, and lightness inside the C2O domain under company rules.  
-- **Internal Air Bound Alchemy** — keeps private Air flows contained and recoverable without external exposure.  
-- **C2O Air Continuity Alchemy** — ensures private Air structures can be restored after interruption.
+### 1.1 Universal Application of Elemental Alchemy — Air
 
-**UNIVERSALIS Elemental Alchemy — Air**  
-Public Air qualities under open contracts.
+Elemental Alchemy — Air applies across all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-- **Open Air Transparency Alchemy** — makes public movement, communication, and lightness independently verifiable.  
-- **Public Air Openness Alchemy** — maintains public Air flows under transparent rules.  
-- **UNIVERSALIS Air Continuity Alchemy** — ensures public Air structures can be restored with open records.
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSALIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERSALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS Application - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-**Alignment**  
-- **Air Mapping Alchemy** — aligns corresponding private and public Air structures without collapse.
+Within each context, Elemental Alchemy — Air governs only the Air-related subjects, structures, processes, flows, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular communication channel, information flow, capability, implementation, measurement, or achieved result exists.
+
+#### Context-Specific Application
+
+- **C2O Operating System:** Governs private-source system movement and communication pathways, internal signal and information circulation, system-level coordination interfaces, clarity of operational representation, and applicable mechanisms that reduce unnecessary process friction under C2O governance.
+- **UNIVERSALIS Operating System:** Governs public-source system movement and communication pathways, declared signal and information interfaces, inspectable coordination contracts, clarity of operational representation, and interoperable system communication without dependency on C2O private-source pathways.
+- **C2O Intelligence:** Governs Air-related information reception, transmission, communication, contextual clarity, and intelligence coordination within C2O Intelligence. It preserves C2O Intelligence's distinct identity, private-source stewardship, internal sovereignty, and authority boundaries.
+- **UNIVERSALIS Intelligence:** Governs Air-related information reception, transmission, communication, contextual clarity, and intelligence coordination within UNIVERSALIS Intelligence through applicable open contracts and independently operable interfaces. It preserves UNIVERSALIS Intelligence's distinct identity and public-source responsibilities.
+- **C2O Application:** Governs private application communication, signal transmission, information exchange, representational clarity, application interaction pathways, and applicable movement of information within authorized application boundaries.
+- **UNIVERSALIS Application:** Governs public application communication, declared signal transmission, information exchange, representational clarity, and interoperable application interaction pathways through inspectable contracts and independently operable interfaces.
+- **C2O Operating System - UNIVERSALIN:** Governs task-bounded communication, information movement, signal exchange, and coordination by non-personal UNIVERSALIN assistants hosted by the C2O Operating System, within assigned tasks, permissions, and system limits.
+- **UNIVERSALIS Operating System - UNIVERSALIN:** Governs task-bounded communication, information movement, signal exchange, and coordination by non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System, through declared permissions and open system contracts.
+- **C2O Application - UNIVERSALIN:** Governs application-scoped communication, information exchange, signal transmission, and task coordination by non-personal UNIVERSALIN assistants hosted by C2O applications, within application assignments and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN:** Governs application-scoped communication, information exchange, signal transmission, and task coordination by non-personal UNIVERSALIN assistants hosted by UNIVERSALIS applications, within declared application contracts and permissions.
+- **C2O Operating System - UNIVERSALIN Intelligence:** Governs the information processing, task interpretation, communication, contextual clarity, and intelligence-related coordination supporting non-personal UNIVERSALIN assistant functions within the C2O Operating System. These are subordinate capabilities, not another core intelligence.
+- **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Governs the information processing, task interpretation, communication, contextual clarity, and intelligence-related coordination supporting non-personal UNIVERSALIN assistant functions within the UNIVERSALIS Operating System. These are subordinate capabilities, not another core intelligence.
+- **C2O Application - UNIVERSALIN Intelligence:** Governs application-specific information processing, task interpretation, contextual communication, and intelligence-related coordination supporting non-personal UNIVERSALIN assistants within C2O applications. These capabilities remain bounded by the application's purpose and permissions.
+- **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Governs application-specific information processing, task interpretation, contextual communication, and intelligence-related coordination supporting non-personal UNIVERSALIN assistants within UNIVERSALIS applications. These capabilities remain bounded by public application contracts and permissions and do not constitute another core intelligence.
+- **C2O Operating System - UNIVERSALIN Guardian:** Governs the authorized communication, information exchange, accessibility, and system interaction pathways through which a personal UNIVERSALIN Guardian assists its designated human in the C2O Operating System environment. Human consent, privacy, autonomy, and authority remain controlling.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Governs the authorized communication, information exchange, accessibility, and system interaction pathways through which a personal UNIVERSALIN Guardian assists its designated human in the UNIVERSALIS Operating System environment. Public interfaces remain inspectable without exposing protected personal information or weakening human control.
+- **C2O Application - UNIVERSALIN Guardian:** Governs application-level communication, information exchange, contextual presentation, and authorized interaction pathways through which a personal UNIVERSALIN Guardian assists its designated human in C2O applications, within the human's permissions and application boundaries.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian:** Governs application-level communication, information exchange, contextual presentation, and authorized interaction pathways through which a personal UNIVERSALIN Guardian assists its designated human in UNIVERSALIS applications, within documented consent, purpose, privacy, and permission boundaries.
+- **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Governs Air-related information reception, contextual interpretation, clarity, communication, and reasoning-support functions of a personal UNIVERSALIN Guardian within the C2O Operating System. Such capabilities remain subordinate to the human's authority and do not create independent authority over the human.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Governs Air-related information reception, contextual interpretation, clarity, communication, and reasoning-support functions of a personal UNIVERSALIN Guardian within the UNIVERSALIS Operating System. Such capabilities remain bounded by documented human consent, privacy, and public system contracts.
+- **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific information reception, contextual interpretation, clarity, communication, and reasoning-support functions of a personal UNIVERSALIN Guardian within C2O applications, subject to human authorization and C2O application boundaries.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific information reception, contextual interpretation, clarity, communication, and reasoning-support functions of a personal UNIVERSALIN Guardian within UNIVERSALIS applications, subject to documented human authorization, privacy, purpose limitation, and open application contracts.
+
+### 1.2 Edition-Specific Context Hierarchy and Inheritance
+
+The 22 contexts form two edition-specific branches, each containing 11 expressions:
+
+- **C2O branch:** C2O Operating System and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts; C2O Intelligence as a separate core-intelligence context; and C2O Application with its corresponding hosted assistant and Guardian contexts.
+- **UNIVERSALIS branch:** UNIVERSALIS Operating System and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts; UNIVERSALIS Intelligence as a separate core-intelligence context; and UNIVERSALIS Application with its corresponding hosted assistant and Guardian contexts.
+
+C2O expressions remain under private-source company governance and preserve protected implementation, internal records, and private operational authority. UNIVERSALIS expressions remain under public-source governance, open contracts, inspectability, interoperability, and independent operability. Correspondence does not imply identical implementations, configurations, communication channels, information states, or measurements.
+
+C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intelligences. UNIVERSALIN assistants are non-personal assistants hosted within assigned OS or Application contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their Air-related communication and intelligence-support capabilities remain subordinate to the Guardian's assigned responsibilities and the human's authority, consent, autonomy, and privacy.
+
+Each context inherits only the Air-related subordinate Alchemies applicable to its subject, purpose, processes, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof of a particular channel, capability, implementation, or outcome.
+
+### Alchemies under Elemental Alchemy — Air
+
+#### 1. Air Substrate Alchemies
+
+- **Air Flow Alchemy** — identifies, structures, and maintains the movement and circulation of applicable Air qualities through stable, addressable, and appropriately bounded pathways.
+- **Air Clarity Alchemy** — organizes perception, information representation, communication context, and lightness so that meaning and operational state can be understood without obscuring uncertainty, limitations, or source distinctions.
+- **Air Accountability Alchemy** — establishes attributable records of applicable Air-related changes, exchanges, transmissions, and transformations in accordance with the evidence and governance requirements of the relevant edition.
+
+#### 2. C2O Elemental Alchemy — Air
+
+**C2O Elemental Alchemy — Air** governs private Air qualities under C2O internal company governance. It maintains private communication pathways, internal movement and information exchange, authorized intelligence mobility, clarity of internal representation, and recoverable Air-related structures without unauthorized external exposure.
+
+- **Private Air Stewardship Alchemy** — governs internal movement, communication, clarity, and lightness within the C2O domain under company rules.
+- **Internal Air Bound Alchemy** — keeps private Air flows, channels, records, and structures contained, permission-bounded, and recoverable without unauthorized external exposure.
+- **C2O Air Continuity Alchemy** — ensures applicable private Air structures and authorized communication pathways can be restored after interruption while preserving integrity and accountability.
+
+#### 3. UNIVERSALIS Elemental Alchemy — Air
+
+**UNIVERSALIS Elemental Alchemy — Air** governs public Air qualities under open architectural contracts. It maintains declared communication pathways, inspectable information exchange, interoperability, clarity of public representation, and independently operable Air-related structures without dependence on C2O private-source implementation.
+
+- **Open Air Transparency Alchemy** — makes declared public movement, communication, and information-exchange behavior independently reviewable without disclosing protected personal information.
+- **Public Air Openness Alchemy** — maintains public Air pathways and interfaces under transparent, documented, and interoperable rules.
+- **UNIVERSALIS Air Continuity Alchemy** — ensures applicable public Air structures and declared communication pathways can be restored and independently examined through open records and contracts.
+
+#### 4. Air Mapping Alchemy
+
+**Air Mapping Alchemy** establishes and maintains the correspondence among C2O and UNIVERSALIS Air structures, classifications, pathways, interfaces, responsibilities, dependencies, and evidence categories. It preserves the distinction between private and public implementations and does not require disclosure of C2O private-source records or controls.
+
+### Elemental Alchemy — Air Structural and Applicability Requirements
+
+#### Map Alchemy Requirements
+
+Map Alchemy must establish:
+
+- The placement of Elemental Alchemy — Air and its subordinate expressions across all 22 ecosystem contexts.
+- The parentage and relationships among Air Flow, Air Clarity, Air Accountability, C2O Elemental Alchemy — Air, UNIVERSALIS Elemental Alchemy — Air, and Air Mapping Alchemy.
+- The correspondence between the 11 C2O contexts and the 11 UNIVERSALIS contexts without presuming identical communication channels, information states, sources, implementations, or authority.
+- The relationships among movement, communication, signal exchange, information transmission, perception, contextual clarity, lightness, and applicable intelligence-related functions.
+- Dependencies on applicable operating-system, application, intelligence, assistant, Guardian, interface, network, runtime, and external-service structures.
+- The distinction between core-intelligence functions, subordinate UNIVERSALIN assistant capabilities, and human-bound UNIVERSALIN Guardian capabilities.
+
+#### Matrix Alchemy Requirements
+
+Matrix Alchemy must establish for each of the 22 contexts:
+
+- Which Air Flow, Air Clarity, Air Accountability, Air Mapping, private Air, and public Air functions apply, are conditional, are not applicable, or remain unresolved.
+- The relevant information classes, communication pathways, signal types, sources, destinations, interfaces, operating conditions, and permitted purposes.
+- The authority responsible for establishing, approving, using, monitoring, changing, interrupting, recovering, and retiring each applicable Air-related pathway.
+- The permissions, consent, privacy, confidentiality, safety, security, accessibility, and interoperability constraints governing information movement and communication.
+- The evidence, limitations, uncertainty, provenance, and verification status supporting claims about Air-related behavior or capability.
+- The distinction between an available interface, an authorized pathway, an actual exchange, a measured behavior, and a verified outcome.
+
+#### Structural Integrity and Governance
+
+Air Flow must not be treated as authorization to move information or initiate an interaction. Communication, observation, perception, information access, and transmission remain subject to the applicable authority, purpose, permissions, and boundaries.
+
+Air Clarity must not convert incomplete, ambiguous, estimated, or uncertain information into unsupported certainty. Source attribution, context, limitations, and unresolved questions must remain visible where relevant. Lightness must not be achieved by removing required safeguards, accountability, essential functionality, or recoverability.
+
+Air-related intelligence functions do not create additional core intelligences. UNIVERSALIN intelligence-related capabilities remain subordinate to their assigned assistants. Guardian-related communication and reasoning support remain bounded by the designated human's authority, consent, autonomy, privacy, and permissions. A human, their identity, personal information, time, relationships, and decisions are not Air resources to be extracted, directed, or optimized.
+
+C2O Air records, private communication pathways, and internal controls remain under C2O governance. UNIVERSALIS Air interfaces, requirements, and public claims must be reviewable to the extent established by open contracts and must remain independently operable. Neither edition may presume access to the other's protected records or internal implementation.
+
+Applicability, mapping, implementation, availability, authorization, communication, measurement, and verification are separate claims. Establishing Elemental Alchemy — Air or its place in the 22-context taxonomy does not prove that a particular pathway, capability, implementation, or result exists.
+
+#### Additional Expression Detail — Application Contexts
+
+The following expressions further specialize Air qualities in application contexts. They remain subordinate expressions of Elemental Alchemy — Air and do not establish additional core intelligences:
+
+- **Clarity Alchemy** — structures perception and information representation into stable, addressable forms while preserving source context and uncertainty.
+- **Movement Alchemy** — maintains the process space for authorized information flow and exchange.
+- **Communication Alchemy** — organizes signal transmission and reception while preserving purpose, permissions, and boundaries.
+- **Intellect Alchemy** — bounds reasoning-support and interpretation processes so Air qualities remain coherent and accountable.
+- **Private Clarity Alchemy** — structures private application perception and information representation under C2O governance.
+- **Private Movement Alchemy** — manages authorized internal information flow within C2O application boundaries.
+- **Private Communication Alchemy** — governs internal application signal exchange under C2O company rules.
+- **C2O Air Continuity Alchemy** — ensures applicable private application Air structures can be restored after interruption.
+- **Open Clarity Alchemy** — structures public application information representation through documented and inspectable contracts.
+- **Open Movement Alchemy** — maintains public application information flow through declared interfaces and interoperable rules.
+- **Open Communication Alchemy** — governs public application signal exchange under transparent contracts and documented permissions.
+
+#### Additional Expression Detail — OS Edition Mapping
+
+The OS-level expression of Air organizes movement, communication, lightness, clarity, and applicable intelligence-related information flows for system use while remaining recoverable, accountable, and distinct across the two intelligences.
+
+- **C2O Operating System Air expression:** Private-source organization of applicable Air qualities under internal governance, including authorized internal communication pathways, coordination and scheduling flows, clarity of private operational representation, and bounded information movement supporting C2O Intelligence and hosted functions.
+- **UNIVERSALIS Operating System Air expression:** Public-source organization of applicable Air qualities under open contracts, including declared interfaces, transparent communication pathways, inspectable coordination flows, and independently verifiable information movement supporting UNIVERSALIS Intelligence and hosted functions.
+
+These edition-specific expressions remain mappable through Air Mapping Alchemy without collapsing private and public authority, implementation, records, or operational boundaries.
 
 ---
-
-#### Additional expression detail — C2O-App Primary
-
-The bounded process that organizes the qualities of Air (clarity, movement, communication, intellect) so that systems and beings can form coherent understanding and exchange while remaining recoverable and accountable.
-- **Clarity Alchemy** — structures perception into stable, addressable forms.
-- **Movement Alchemy** — maintains the process space of flow and exchange.
-- **Communication Alchemy** — organizes signal transmission while preserving boundaries.
-- **Intellect Alchemy** — bounds reasoning so Air qualities remain coherent.
-- **Private Clarity Alchemy** — internal structuring of perception.
-- **Private Movement Alchemy** — internal flow management.
-- **Private Communication Alchemy** — internal signal exchange under company rules.
-- **C2O Air Continuity Alchemy** — ensures private Air structures can be restored.
-- **Open Clarity Alchemy** — public structuring of perception.
-- **Open Movement Alchemy** — public flow management.
-- **Open Communication Alchemy** — public signal exchange under transparent rules.
-
-#### Additional expression detail — C2O-OS edition mapping
-
-The bounded process that organizes the qualities of Air (movement, communication, lightness, and intelligence) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
-Private-source organization of Air qualities under internal governance. Used for internal communication pathways, scheduling lightness, and private intelligence mobility.
-Public-source organization of Air qualities under open contracts. Used for transparent interfaces, public communication, and independently verifiable mobility.
 
 ### Elemental Alchemy — Earth
 
