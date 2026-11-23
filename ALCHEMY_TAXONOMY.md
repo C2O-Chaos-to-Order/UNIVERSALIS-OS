@@ -5061,7 +5061,7 @@ All Heart Alchemy applications must preserve vital-flow integrity, resource acco
 
 ---
 
-# Soul Alchemy
+## Soul Alchemy
 
 **Soul Alchemy** is the bounded process by which the existential, identity-bearing, meaning-bearing, purpose-defining, dignity-related, continuity, and finitude structures of a system or being are identified, classified, specified, established, organized, maintained, integrated, evaluated, protected, recovered, renewed, transformed, and, where appropriate, concluded so that identity, purpose, meaning, dignity, and continuity can remain coherent, attributable, and appropriately governed while preserving autonomy, recoverability, accountability, and the distinct identities and governance of C2O and UNIVERSALIS.
 
