@@ -572,6 +572,47 @@ These specializations coordinate the preceding disciplines without replacing or 
 - **Lifelong Learning Alchemy** — organizes continuous learning, adaptation, personal development, and knowledge renewal throughout an individual's life.
 - **Educational Continuity Alchemy** — maintains the accessibility, integrity, transferability, and recoverability of educational records, learning progress, instructional resources, and developmental pathways.
 
+### 14. Environmental Sciences Alchemy
+
+**Environmental Sciences Alchemy** is the bounded process that organizes, studies, monitors, protects, manages, restores, and transforms knowledge concerning natural environments, ecological systems, climate processes, biodiversity, natural resources, and the relationships between human activities and the environment. It enables individuals and societies to understand environmental conditions, conserve ecological integrity, manage resources responsibly, address environmental degradation, and develop sustainable relationships with the natural world while maintaining scientific rigor, ecological responsibility, long-term resilience, and accountability.
+
+It encompasses the scientific, applied, technological, ecological, and resource-management disciplines concerned with environmental systems, conservation, sustainability, climate, energy, restoration, and agriculture. Every specialized Environmental Sciences Alchemy remains an expression of the root Alchemy.
+
+#### 1. Ecological Systems and Biodiversity Alchemies
+
+- **Ecology Alchemy** — organizes the study of relationships among organisms, populations, communities, and their physical environments, including ecosystem structures, ecological processes, interactions, and change.
+- **Biodiversity Studies Alchemy** — organizes the identification, classification, assessment, monitoring, and understanding of biological diversity across genes, species, ecosystems, and ecological communities.
+- **Conservation Alchemy** — organizes the protection, management, and preservation of species, habitats, ecosystems, natural landscapes, and ecological processes to maintain biodiversity and environmental integrity.
+
+#### 2. Environmental Protection and Sustainability Alchemies
+
+- **Sustainability Alchemy** — organizes approaches to maintaining and improving environmental, social, and economic systems over time while respecting ecological limits, resource availability, and the needs of present and future generations.
+- **Climate Science Alchemy** — organizes the observation, measurement, modeling, analysis, and interpretation of Earth's climate systems, including climate variability, long-term change, feedback processes, and environmental impacts.
+- **Resource Management Alchemy** — organizes the assessment, allocation, utilization, conservation, monitoring, and responsible stewardship of natural resources, including water, land, soil, forests, minerals, and biological resources.
+
+#### 3. Environmental Engineering and Energy Alchemies
+
+- **Environmental Engineering Alchemy** — organizes the application of engineering principles to prevent, control, and remediate environmental impacts, including pollution management, water and wastewater systems, waste treatment, environmental infrastructure, and ecological protection.
+- **Renewable Energy Alchemy** — organizes the development, integration, storage, distribution, and management of energy systems that use naturally replenished energy sources, including solar, wind, hydroelectric, geothermal, and sustainable bioenergy.
+
+#### 4. Ecological Restoration and Agricultural Alchemies
+
+- **Restoration Science Alchemy** — organizes the scientific assessment, planning, implementation, monitoring, and evaluation of efforts to assist the recovery of degraded, damaged, or destroyed ecosystems and ecological processes.
+- **Agriculture Alchemy** — organizes the cultivation of plants, raising and management of animals, soil stewardship, crop and livestock systems, food production, and agricultural practices while considering productivity, ecological conditions, resource use, and long-term environmental effects.
+
+#### 5. Cross-Disciplinary Environmental Sciences Relationships
+
+These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+
+- **Environmental Systems Integration Alchemy** — coordinates ecological, climatic, geological, biological, technological, and human systems to understand their interactions and dependencies.
+- **Ecosystem Health Alchemy** — organizes the assessment and maintenance of ecosystem condition, function, resilience, biodiversity, and capacity to sustain ecological processes.
+- **Environmental Monitoring and Assessment Alchemy** — coordinates observation, measurement, sampling, modeling, data interpretation, and evaluation of environmental conditions and changes.
+- **Climate Adaptation and Resilience Alchemy** — organizes the evaluation and development of responses that help ecological and human systems prepare for, withstand, and recover from climate-related pressures and changes.
+- **Environmental Impact Alchemy** — organizes the identification, assessment, monitoring, and mitigation of the environmental consequences of human activities, projects, technologies, and organizational decisions.
+- **Circular Resource Alchemy** — coordinates resource recovery, reuse, recycling, material efficiency, and waste minimization to reduce resource depletion and environmental burdens.
+- **Food and Ecological Systems Integration Alchemy** — coordinates agriculture, biodiversity, land management, water systems, food production, and ecosystem health while preserving the distinct requirements of each.
+- **Environmental Continuity Alchemy** — organizes the preservation, recovery, and long-term stewardship of environmental knowledge, monitoring records, ecological resources, and restoration progress.
+
 ---
 
 ## Body Alchemy
