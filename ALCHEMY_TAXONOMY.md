@@ -1624,46 +1624,49 @@ Formal Sciences Alchemy must preserve mathematical and logical validity, methodo
 
 #### 1.1 Universal Application of Formal Sciences Alchemy
 
-Canonical 22-context coverage, using the normative registry order:
-1. **C2O Operating System**
-2. **UNIVERSALIS Operating System**
-3. **C2O Intelligence**
-4. **UNIVERSALIS Intelligence**
-5. **C2O Application**
-6. **UNIVERSALIS Application**
-7. **C2O Operating System - UNIVERSALIN**
-8. **UNIVERSALIS Operating System - UNIVERSALIN**
-9. **C2O Application - UNIVERSALIN**
-10. **UNIVERSALIS Application - UNIVERSALIN**
-11. **C2O Operating System - UNIVERSALIN Intelligence**
-12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence**
-13. **C2O Application - UNIVERSALIN Intelligence**
-14. **UNIVERSALIS Application - UNIVERSALIN Intelligence**
-15. **C2O Operating System - UNIVERSALIN Guardian**
-16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian**
-17. **C2O Application - UNIVERSALIN Guardian**
-18. **UNIVERSALIS Application - UNIVERSALIN Guardian**
-19. **C2O Operating System - UNIVERSALIN Guardian Intelligence**
-20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence**
-21. **C2O Application - UNIVERSALIN Guardian Intelligence**
-22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence**
+Formal Sciences Alchemy is established across all 22 canonical applicability contexts in Section 1.2 of the Root Definition. The following table identifies its formal-sciences role, contextual expression, and boundaries in each context. The parent Alchemy provides a shared domain of formal methods; this does not mean that every subordinate discipline, method, capability, or implementation is used in every context.
 
+| # | Canonical context | Established formal-sciences role and context-specific boundaries |
+|---:|---|---|
+| 1 | **C2O Operating System** | Establishes formal methods for the C2O private-source operating-system edition, including system architecture, component and interface specifications, state and transition models, scheduling, resource allocation, security properties, dependency analysis, and operational verification. Formal specifications and methods remain subject to C2O governance, protected implementation, internal authority, and authorized access. |
+| 2 | **UNIVERSALIS Operating System** | Establishes formal methods for the UNIVERSALIS public, open-source operating-system edition, including inspectable architecture, component contracts, state and transition models, scheduling, resource constraints, security properties, dependency analysis, and reproducible verification. Specifications and methods must use open contracts and support independent operation without C2O private implementation, policies, keys, or records. |
+| 3 | **C2O Intelligence** | Establishes formal reasoning and analytical foundations within C2O Intelligence's defined responsibilities, including logic, inference, mathematical modeling, uncertainty representation, decision structures, computational methods, and consistency evaluation. Formal methods support C2O Intelligence but do not replace its governance or authorize access beyond its assigned scope. |
+| 4 | **UNIVERSALIS Intelligence** | Establishes formal reasoning and analytical foundations within UNIVERSALIS Intelligence's defined responsibilities, including inspectable reasoning structures, inference, mathematical models, uncertainty representation, decision methods, computational models, and consistency evaluation. The methods must operate through public contracts and independently usable foundations without requiring C2O private knowledge, policies, or resources. |
+| 5 | **C2O Application** | Establishes formal methods for C2O Application architecture and behavior, including data and type models, schemas, workflow and state-transition logic, algorithm specifications, interface contracts, invariants, validation rules, and application-level verification. Formal application methods remain subject to C2O's private-source governance, data controls, and authorized implementation boundaries. |
+| 6 | **UNIVERSALIS Application** | Establishes formal methods for UNIVERSALIS Application architecture and behavior, including open data and type models, schemas, workflow logic, state transitions, algorithm specifications, public interface contracts, invariants, and reproducible validation. These methods must support inspectability and independent operation without introducing C2O private dependencies or exposing protected information. |
+| 7 | **C2O Operating System - UNIVERSALIN** | Establishes formal methods supporting non-personal UNIVERSALIN assistants hosted by C2O Operating System, including task decomposition, workflow and state models, scheduling, resource constraints, tool and interface contracts, deterministic or bounded operations, and operational limits. Their use remains confined to assigned assistant responsibilities, host capabilities, permissions, and C2O controls; formal models do not grant independent authority. |
+| 8 | **UNIVERSALIS Operating System - UNIVERSALIN** | Establishes corresponding formal methods for non-personal UNIVERSALIN assistants hosted by UNIVERSALIS Operating System, including task and state models, scheduling, resource bounds, tool contracts, workflow constraints, and inspectable operational behavior. Their definitions and interfaces must use open contracts, remain independently operable, and preserve the assistants' subordinate, non-personal status. |
+| 9 | **C2O Application - UNIVERSALIN** | Establishes formal methods for non-personal UNIVERSALIN assistant workflows within C2O Application, including application task logic, data and type constraints, workflow transitions, tool interfaces, validation rules, and application-state relationships. These methods remain application-scoped and bounded by the assistant's assignment, application permissions, and relevant OS controls. |
+| 10 | **UNIVERSALIS Application - UNIVERSALIN** | Establishes corresponding formal methods for non-personal UNIVERSALIN assistant workflows within UNIVERSALIS Application, including open task contracts, data and type constraints, workflow transitions, tool interfaces, validation rules, and application-state relationships. They must remain inspectable and independently operable, without C2O private dependencies or access beyond the assistant's authorized application scope. |
+| 11 | **C2O Operating System - UNIVERSALIN Intelligence** | Establishes subordinate formal reasoning and computational methods supporting non-personal UNIVERSALIN assistants in C2O Operating System, including inference structures, task interpretation, context models, constraint evaluation, uncertainty representation, and processing limits. These are functions within the assistant and host context, not an additional core intelligence or independent authority. |
+| 12 | **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** | Establishes corresponding subordinate reasoning and computational methods supporting non-personal UNIVERSALIN assistants in UNIVERSALIS Operating System, including inspectable inference structures, context models, constraint evaluation, uncertainty representation, and processing limits. The functions remain subordinate, public-contract based, and independently operable without C2O private dependencies. |
+| 13 | **C2O Application - UNIVERSALIN Intelligence** | Establishes application-scoped formal reasoning and computational methods supporting non-personal UNIVERSALIN assistants in C2O Application, including task inference, structured interpretation, application-state models, permitted data transformations, constraint evaluation, and bounded processing. Their scope is limited by the assistant's application task, data permissions, and host dependencies; they do not become an independent intelligence. |
+| 14 | **UNIVERSALIS Application - UNIVERSALIN Intelligence** | Establishes corresponding application-scoped formal reasoning and computational methods supporting non-personal UNIVERSALIN assistants in UNIVERSALIS Application, including open task and state models, permitted transformations, constraint evaluation, and inspectable processing contracts. They remain subordinate to the assistant and application context and must not introduce additional core-intelligence status or C2O private dependencies. |
+| 15 | **C2O Operating System - UNIVERSALIN Guardian** | Establishes formal methods supporting the operation of a personal, human-bound UNIVERSALIN Guardian within C2O Operating System, including authorized preference and constraint representations, permission models, resource and continuity models, and validation of Guardian-related system interactions. Formalization must preserve the designated human's authority, consent, autonomy, privacy, and ability to change or withdraw authorization; a formal model cannot convert preferences into authority over the human. |
+| 16 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian** | Establishes corresponding formal methods supporting a personal, human-bound UNIVERSALIN Guardian within UNIVERSALIS Operating System, including open permission contracts, authorized preference and constraint models, resource and continuity models, and validation of system interactions. The designated human remains the authority-bearing principal; open interfaces do not expose personal information or authorize C2O private dependencies. |
+| 17 | **C2O Application - UNIVERSALIN Guardian** | Establishes formal methods for human-authorized Guardian workflows within C2O Application, including personal application-state models, preference and configuration constraints, workflow rules, data structures, consent and permission checks, and retention-related logic. These methods must preserve human-approved purpose and scope and remain bounded by application permissions and C2O privacy controls. |
+| 18 | **UNIVERSALIS Application - UNIVERSALIN Guardian** | Establishes corresponding formal methods for human-authorized Guardian workflows within UNIVERSALIS Application, including open workflow and data contracts, authorized preference models, application-state constraints, consent and permission checks, and retention-related logic. The designated human controls personal scope and information; public source visibility does not make personal records public. |
+| 19 | **C2O Operating System - UNIVERSALIN Guardian Intelligence** | Establishes subordinate formal reasoning and computational methods supporting a human-bound Guardian in C2O Operating System, including authorized context models, constrained inference, information relationships, permission-aware processing, and validation of Guardian support functions. Such methods remain subordinate to the Guardian and designated human's authorization and cannot establish independent decision authority over the human. |
+| 20 | **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** | Establishes corresponding subordinate reasoning and computational methods supporting a human-bound Guardian in UNIVERSALIS Operating System, including open and inspectable processing contracts, authorized context models, constrained inference, and permission-aware validation. They remain human-directed and subordinate, protect personal information, and must not depend on C2O private resources. |
+| 21 | **C2O Application - UNIVERSALIN Guardian Intelligence** | Establishes application-scoped formal methods supporting Guardian-related intelligence functions in C2O Application, including authorized context and memory-related data models, constrained inference, application-state relationships, permission checks, and bounded information processing. These functions remain within human-approved purpose, application permissions, privacy requirements, and retention choices. |
+| 22 | **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** | Establishes corresponding application-scoped formal methods supporting Guardian-related intelligence functions in UNIVERSALIS Application, including open context and data contracts, authorized memory-related models, constrained inference, permission-aware processing, and application-level validation. They remain subordinate and human-directed, must preserve personal privacy and retention choices, and must not introduce C2O private dependencies. |
 
-Formal Sciences Alchemy applies across all 22 ecosystem contexts listed above.
+The 22 canonical names and their order must match the registry in Section 1.2 exactly. **UNIVERSALIN** is the canonical spelling. **Application** is the expanded canonical form; **App** is an accepted abbreviation only and must not replace a canonical context name in a context record.
 
+The contextual role of Formal Sciences Alchemy is established in all 22 contexts at the parent-domain level. This does not assign an **Applicable** state to every subordinate discipline in every context. Each subordinate Alchemy and each materially distinct formal method must receive its own context-specific assessment through Matrix Alchemy. In particular, Logic, Mathematics and its subordinate branches, Systems Theory, Information Theory, Decision Theory, Game Theory, Computation Theory, and Complexity Theory must not be presumed to have identical applicability or implementation across the 22 contexts.
 
+Formal Sciences Alchemy applies through different formal expressions according to the nature of the context:
 
-Its context-specific expressions include:
+- **Operating-system architecture and operation:** formal specification, system and state modeling, invariants, interfaces, dependency structures, scheduling, resource constraints, security properties, and verification.
+- **Core intelligence:** logic, inference, mathematical and computational models, uncertainty representation, decision structures, and analytical consistency within each core intelligence's own responsibilities and governance.
+- **Applications:** data and type systems, schemas, algorithms, workflow and state-transition models, interface contracts, validation rules, and application-level verification.
+- **Non-personal UNIVERSALIN assistants:** task decomposition, workflow models, resource bounds, tool contracts, operational constraints, and formal support for assigned processing and coordination.
+- **UNIVERSALIN Intelligence contexts:** subordinate inference, computational, context-processing, and constraint-evaluation methods supporting non-personal assistants; these functions do not create additional core intelligences or independent authority.
+- **UNIVERSALIN Guardian contexts:** human-authorized formal representations of preferences, permissions, constraints, continuity, personal workflows, and system or application interactions.
+- **UNIVERSALIN Guardian Intelligence contexts:** subordinate, human-directed reasoning, context modeling, information processing, and permission-aware methods within the designated human's authorized scope.
 
-- **Operating System Contexts:** Formal organization and application of logic, mathematics, computation, systems theory, information theory, and other formal methods in operating system architecture, processes, resource coordination, interfaces, dependencies, and operational behavior.
-- **Core Intelligence Contexts:** Formal reasoning, mathematical modeling, information representation, decision structures, computational methods, and analytical relationships within the distinct responsibilities and boundaries of C2O Intelligence and UNIVERSALIS Intelligence.
-- **Application Contexts:** Formal methods used to structure application behavior, represent information, define operations, validate functions, evaluate outcomes, and maintain logical and computational consistency.
-- **UNIVERSALIN Assistant Contexts:** Formal methods supporting assigned processing, reasoning, computation, information organization, coordination, and operational functions within authorized system and application boundaries.
-- **UNIVERSALIN Intelligence Contexts:** Formal structures and methods supporting the intelligence-related capabilities of non-personal UNIVERSALIN assistants without establishing additional core intelligences or independent authority.
-- **UNIVERSALIN Guardian Contexts:** Formal methods supporting the authorized capabilities, operations, information structures, and interactions of personal Guardians while preserving human authority, consent, autonomy, and privacy.
-- **UNIVERSALIN Guardian Intelligence Contexts:** Formal reasoning, computation, modeling, and information-processing methods supporting human-directed Guardian capabilities within the human's authorized scope and applicable system or application boundaries.
+The specific applicability of each formal discipline and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, interfaces, and placement throughout the ecosystem must be established through Map Alchemy.
 
-The specific applicability of each formal discipline and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, and placement throughout the ecosystem must be established through Map Alchemy.
 
 #### Alchemies under Formal Sciences Alchemy
 
@@ -1688,32 +1691,46 @@ The specific applicability of each formal discipline and subordinate Alchemy mus
 
 #### 1.2 Formal Sciences Structural and Applicability Requirements
 
-Every subordinate Alchemy under Formal Sciences Alchemy must retain its own defined subject, purpose, methods, principles, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+Every subordinate Alchemy under Formal Sciences Alchemy must retain its own defined subject, identity, purpose, methods, principles, assumptions, requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system. A subordinate discipline may use or depend on another discipline, but that relationship must be typed and justified; it must not erase the distinction between their subject matters or transfer authority, applicability, or responsibility by implication.
 
+**Map Alchemy must establish:**
 
+- The canonical identity, classification, definition, and structural position of Formal Sciences Alchemy and each subordinate formal discipline.
+- The parent, child, foundational, supporting, complementary, sequential, dependent, and applied relationships among the formal disciplines, where applicable.
+- Each discipline's relationships with other knowledge domains, including the distinction between formal foundations, empirical subject matter, interpretive methods, and practical applications.
+- Its connections to the relevant C2O or UNIVERSALIS operating-system, core-intelligence, application, non-personal assistant, and personal Guardian structures in each of the 22 canonical contexts.
+- Its interfaces, dependencies, inputs, outputs, assumptions, and relationships with other Alchemies, systems, and knowledge structures.
+- The distinction between a shared formal foundation and its edition-specific or context-specific expression, including private-source C2O boundaries and public, independently operable UNIVERSALIS contracts.
+- The provenance and status of mapped models, specifications, definitions, proofs, algorithms, and relationships, distinguishing established structures from proposed, conditional, unresolved, or unverified ones.
 
-Map Alchemy must establish:
+**Matrix Alchemy must establish:**
 
-- The classification and structural position of each formal discipline and subordinate Alchemy.
-- Its relationships with other formal disciplines and knowledge domains.
-- Its connections to relevant operating system, intelligence, application, assistant, and Guardian structures.
-- Its dependencies, interfaces, and relationships with other Alchemies.
-- Its distinctions between foundational disciplines, subordinate disciplines, and applied expressions.
+- A separate, complete 22-context applicability assessment for Formal Sciences Alchemy and for every subordinate Alchemy. Each context must receive exactly one state: **Applicable**, **Conditional**, **Not Applicable**, or **Unresolved**, with a reasoned context-specific basis.
+- The formal-sciences function and scope in each context, including the particular discipline, method, model, or formal capability that is relevant or the reason it is not applicable.
+- The functions, responsibilities, expected inputs and outputs, required capabilities, methods, and limitations associated with each context-specific application.
+- The mathematical, logical, computational, methodological, and domain assumptions on which each formal method or model depends.
+- The applicable permissions, responsible authority, constraints, safety requirements, dependencies, governance boundaries, and—where a personal UNIVERSALIN Guardian is involved—the designated human's consent and authorization.
+- The computational and operational requirements of relevant methods, including time and space complexity, resource consumption, precision, numerical stability, scalability, approximation, and known failure conditions where material.
+- The method by which a formal result is established, including the distinction between a definition, conjecture, model, derivation, proof, algorithm, simulation, test result, interpretation, and deployed implementation.
+- Verification and validation requirements appropriate to the claim: for example, proof obligations for formal propositions, correctness and complexity analysis for algorithms, model assumptions for mathematical representations, and testing or empirical validation for implementations and applied behavior.
+- The relationships between formal knowledge and system operation, core-intelligence functions, application behavior, assistant tasks, Guardian support, and other knowledge domains without conflating their respective responsibilities or authority.
+- The differences between shared formal foundations and context-specific implementations, including source visibility, independent operation, protected information, and evidence boundaries for C2O and UNIVERSALIS.
+- Traceable evidence, source provenance, version, review status, limitations, unresolved issues, and the rationale for every applicability decision.
 
-Matrix Alchemy must establish:
+**Independent assessment and inheritance rules:**
 
-- Which of the 22 contexts use or require each formal discipline.
-- The functions and responsibilities of each formal discipline within those contexts.
-- The capabilities, methods, and requirements associated with its application.
-- The applicable permissions, constraints, dependencies, and governance boundaries.
-- The relationships between formal knowledge, system operations, intelligence functions, application behavior, and assistant or Guardian capabilities.
-- The differences between shared formal foundations and context-specific implementations.
+1. The 22-context table in Section 1.1 establishes the parent Alchemy's contextual role. It does not determine the applicability state of any subordinate Alchemy or individual discipline.
+2. A subordinate Alchemy may use the parent's context map as an initial structural reference only. It must independently determine its applicability, scope, permissions, dependencies, responsibilities, and evidence in all 22 contexts.
+3. A formal discipline's presence in the taxonomy, a mapped relationship, an available library, an interface, or a computational capability does not itself establish that the discipline is used, authorized, implemented, or verified in a given context.
+4. A Not Applicable assignment must include a scope-based rationale. A Conditional assignment must identify the conditions. An Unresolved assignment must identify the missing information or decision. An Applicable assignment must identify the actual context-specific role and boundaries.
+5. No formal method may be used to imply certainty beyond its assumptions or evidence. Mathematical validity within a model does not by itself prove that the model accurately describes an external system; computational output does not by itself establish a proof; and a simulation or test does not automatically establish general correctness.
+6. Formal specifications and results must not be represented as implemented or operationally verified unless implementation and verification evidence supports that status.
+7. Formal models of a person's preferences, choices, behavior, or Guardian context remain representations with defined limitations. They do not replace the person's own decisions, consent, autonomy, or authority.
+8. C2O private formal specifications, protected models, internal records, and implementation details must remain subject to C2O governance. UNIVERSALIS formal contracts and methods must remain open and independently operable without requiring access to C2O private resources.
 
-Formal Sciences Alchemy must not presume that the presence of a discipline in the universal taxonomy grants every context unrestricted access to, or authority to apply, every capability associated with that discipline.
+Formal Sciences Alchemy must not presume that the presence of a discipline in the universal taxonomy grants every context unrestricted access to, or authority to apply, every capability associated with that discipline. Nor does a formal definition, model, specification, proof, algorithm, or taxonomy entry establish that an operational implementation exists.
 
-
-
-All applications must remain consistent with the mathematical, logical, methodological, operational, and governance requirements relevant to their respective contexts.
+All applications must remain consistent with the mathematical, logical, methodological, computational, operational, evidence, privacy, and governance requirements relevant to their respective contexts.
 
 ### 2. Physical Sciences Alchemy
 
