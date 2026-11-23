@@ -533,6 +533,45 @@ These specializations coordinate the preceding disciplines without replacing or 
 - **Creative Preservation Alchemy** — organizes the documentation, conservation, restoration, archiving, and continued accessibility of creative works, artistic techniques, and cultural expressions.
 - **Human Experience and Expression Alchemy** — coordinates artistic methods and expressive forms through which human experience, imagination, emotion, identity, and perspective can be explored and communicated.
 
+### 13. Education and Learning Sciences Alchemy
+
+**Education and Learning Sciences Alchemy** is the bounded process that organizes, develops, facilitates, evaluates, and transforms the structures, methods, environments, and experiences through which individuals and groups acquire, develop, integrate, apply, and transmit knowledge, skills, understanding, and capabilities. It enables learning across different ages, contexts, disciplines, abilities, and environments while maintaining educational integrity, accessibility, intellectual development, meaningful assessment, and accountability.
+
+It encompasses the theoretical, scientific, practical, instructional, developmental, and technological disciplines concerned with teaching, learning, educational design, knowledge development, and the transfer of capabilities. Every specialized Education and Learning Sciences Alchemy remains an expression of the root Alchemy.
+
+#### 1. Teaching and Instructional Alchemies
+
+- **Pedagogy Alchemy** — organizes the principles, methods, practices, and relationships involved in teaching and facilitating learning, including instructional approaches, learner engagement, differentiation, and educational interaction.
+- **Instructional Design Alchemy** — organizes the analysis, design, development, implementation, and evaluation of structured learning experiences, instructional materials, educational activities, and learning environments.
+
+#### 2. Learning and Developmental Science Alchemies
+
+- **Learning Theory Alchemy** — organizes the theoretical and scientific explanations of how individuals and groups acquire, process, retain, retrieve, integrate, and apply knowledge and skills.
+- **Educational Psychology Alchemy** — organizes the application of psychological knowledge to education, including cognition, motivation, development, memory, individual differences, learning behavior, and educational well-being.
+
+#### 3. Educational Assessment and Curriculum Alchemies
+
+- **Assessment Alchemy** — organizes the measurement, evaluation, interpretation, and documentation of learning progress, knowledge, skills, competencies, educational outcomes, and instructional effectiveness.
+- **Curriculum Design Alchemy** — organizes the selection, sequencing, integration, development, and evaluation of educational content, learning objectives, competencies, instructional pathways, and programme structures.
+
+#### 4. Knowledge and Capability Development Alchemies
+
+- **Knowledge Management Alchemy** — organizes the creation, acquisition, classification, retention, retrieval, distribution, application, and continued development of knowledge within educational and learning environments.
+- **Training Systems Alchemy** — organizes structured processes through which individuals and groups develop, practice, demonstrate, maintain, and improve specific skills, competencies, procedures, and operational capabilities.
+
+#### 5. Cross-Disciplinary Education and Learning Relationships
+
+These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+
+- **Learning Integration Alchemy** — coordinates knowledge, skills, understanding, experience, and different learning methods into coherent developmental processes.
+- **Educational Systems Integration Alchemy** — coordinates learners, educators, curricula, instructional resources, institutions, technologies, and assessment structures into coherent educational environments.
+- **Personalized Learning Alchemy** — organizes learning pathways according to individual capabilities, interests, prior knowledge, developmental needs, accessibility requirements, and learning objectives.
+- **Experiential Learning Alchemy** — organizes learning through direct experience, practice, experimentation, reflection, application, and feedback.
+- **Knowledge Transfer Alchemy** — organizes the transmission and application of knowledge between individuals, groups, disciplines, institutions, and generations while preserving meaning and context.
+- **Competency Development Alchemy** — organizes the progressive acquisition, integration, demonstration, and improvement of knowledge, skills, judgment, and practical capabilities.
+- **Lifelong Learning Alchemy** — organizes continuous learning, adaptation, personal development, and knowledge renewal throughout an individual's life.
+- **Educational Continuity Alchemy** — maintains the accessibility, integrity, transferability, and recoverability of educational records, learning progress, instructional resources, and developmental pathways.
+
 ---
 
 ## Body Alchemy
