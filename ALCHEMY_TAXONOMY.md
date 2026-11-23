@@ -1998,46 +1998,189 @@ All applications must remain consistent with applicable legal sources, jurisdict
 
 ### 10. Humanities Alchemy
 
-**Humanities Alchemy** is the bounded process that organizes, studies, interprets, preserves, and transforms knowledge concerning human thought, experience, values, expression, creativity, language, history, traditions, and cultural meaning. It enables individuals and societies to examine existence, understand human perspectives, interpret historical and cultural records, preserve intellectual and artistic achievements, and explore the meanings through which people understand themselves and the world while maintaining intellectual rigor, contextual integrity, cultural respect, and accountability.
+**Humanities Alchemy** is the bounded process by which knowledge concerning human thought, experience, values, expression, creativity, language, history, traditions, intellectual achievements, and cultural meaning is identified, classified, organized, examined, interpreted, maintained, integrated, developed, and transformed into coherent and usable systems of humanistic knowledge.
 
-It encompasses the philosophical, ethical, historical, linguistic, literary, religious, archaeological, and cultural study of human experience and expression. Every specialized Humanities Alchemy remains an expression of the root Alchemy.
+It governs the organization and development of knowledge through which individuals and societies examine existence, understand human perspectives, interpret historical and cultural records, preserve intellectual and artistic achievements, and explore the meanings through which people understand themselves, their experiences, and the world. It establishes how human ideas, values, expressions, traditions, records, and intellectual contributions are represented, investigated, interpreted, evaluated, related, communicated, and preserved.
 
-#### 1. Philosophical and Ethical Alchemies
+Humanities Alchemy encompasses the philosophical, ethical, historical, archaeological, linguistic, literary, religious, classical, and cultural study of human experience and expression. It provides a structured foundation for examining the ideas, narratives, values, beliefs, texts, artifacts, traditions, and cultural achievements through which human beings understand and interpret existence and their place within the world.
 
-- **Philosophy Alchemy** — organizes the study of existence, reality, knowledge, reason, consciousness, language, values, and the fundamental questions through which individuals and societies examine the world.
-- **Ethics Alchemy** — organizes the examination and application of moral principles, values, responsibilities, duties, rights, and frameworks for evaluating conduct, decisions, and consequences.
+Humanities Alchemy must preserve intellectual rigor, source provenance, historical accuracy, contextual integrity, cultural respect, interpretive transparency, and accountability. Primary sources, historical records, archaeological evidence, oral traditions, literary works, philosophical arguments, religious texts, cultural expressions, scholarly interpretations, contested accounts, hypotheses, and model-generated interpretations must remain distinguishable. Their origins, authorship, dates, historical periods, languages, cultural contexts, transmission histories, interpretive methods, assumptions, uncertainty, limitations, and applicable rights or permissions must be represented wherever relevant.
 
-#### 2. Historical and Archaeological Alchemies
+It must preserve the distinctions between historical evidence and historical interpretation, philosophical arguments and established facts, ethical frameworks and binding legal requirements, religious traditions and external descriptions of those traditions, cultural heritage and its interpretation, and original intellectual or artistic works and later representations or adaptations.
 
-- **History Alchemy** — organizes the study, interpretation, and understanding of human events, societies, institutions, experiences, and developments across time.
-- **Archaeology Alchemy** — organizes the discovery, excavation, documentation, analysis, interpretation, and preservation of material evidence concerning past human societies and their environments.
-- **Historical Analysis Alchemy** — organizes the critical examination of historical sources, evidence, contexts, causes, relationships, interpretations, and competing explanations to establish well-supported understandings of the past.
+Humanities Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support the organization of intellectual knowledge, historical research, philosophical and ethical reasoning, cultural understanding, literary interpretation, language-related knowledge, religious and classical studies, heritage preservation, and other authorized humanistic functions relevant to each context.
 
-#### 3. Language and Literary Alchemies
+Its universal application does not mean that every context adopts a particular philosophy, moral framework, religious belief, cultural identity, historical interpretation, or worldview. The presence of humanistic knowledge establishes its classification and possible relevance, not an obligation to adopt a belief, an authority to define another person's values, or permission to represent a culture, community, tradition, or individual without appropriate context and authorization.
 
-- **Linguistics Alchemy** — organizes the scientific and analytical study of language, including its structures, sounds, grammar, meaning, development, variation, acquisition, and use.
-- **Literature Alchemy** — organizes the creation, study, interpretation, criticism, and preservation of written and oral literary expression, including its forms, themes, narratives, styles, and cultural significance.
+Every specialized Humanities Alchemy remains an expression of the root Alchemy. Its subject, purpose, methods, principles, relationships, requirements, and boundaries must remain identifiable while allowing specialized humanistic disciplines to integrate into larger knowledge systems.
 
-#### 4. Religion and Classical Civilization Alchemies
+#### 10.1 Universal Application of Humanities Alchemy
 
-- **Religious Studies Alchemy** — organizes the academic and comparative study of religions, religious traditions, beliefs, practices, texts, institutions, experiences, and their historical and social contexts.
-- **Comparative Religion Alchemy** — organizes the systematic comparison of religious traditions, concepts, narratives, practices, institutions, and historical developments while preserving their individual contexts and distinctions.
-- **Classical Studies Alchemy** — organizes the interdisciplinary study of ancient Greek and Roman civilizations, including their languages, literature, philosophy, history, art, political systems, material cultures, and intellectual traditions.
+Humanities Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-#### 5. Cultural Preservation and Heritage Alchemies
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-- **Cultural Heritage Alchemy** — organizes the identification, documentation, interpretation, preservation, conservation, and responsible transmission of tangible and intangible cultural heritage, including monuments, artifacts, traditions, languages, practices, and collective memory.
+Within these contexts, Humanities Alchemy governs the appropriate organization, representation, examination, interpretation, accessibility, integration, development, and preservation of humanistic knowledge.
 
-#### 6. Cross-Disciplinary Humanities Relationships
+Its context-specific expressions include:
 
-These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+- **Operating System Contexts:** Humanistic knowledge may support the organization and preservation of philosophical, historical, literary, linguistic, cultural, ethical, and intellectual information within operating system environments. It may inform system documentation, knowledge structures, historical records, cultural representations, interface language, intellectual-property information, and human-centered system principles. Its application must preserve the distinct private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS. Humanistic knowledge does not establish an operating system's authority to determine human beliefs, values, cultural identities, or historical interpretations.
 
-- **Human Meaning Integration Alchemy** — coordinates philosophical, ethical, literary, historical, and cultural perspectives to examine how people create, interpret, communicate, and preserve meaning.
-- **Historical Knowledge Integration Alchemy** — coordinates historical research, archaeological evidence, source criticism, historical analysis, and contextual interpretation to develop coherent and evidence-supported understandings of the past.
-- **Cultural Interpretation Alchemy** — organizes the interpretation of cultural expressions, symbols, narratives, traditions, and practices while preserving their historical, linguistic, and social contexts.
-- **Intellectual Heritage Alchemy** — organizes the preservation, transmission, interpretation, and development of philosophical, scientific, literary, artistic, and other intellectual traditions.
-- **Language and Meaning Integration Alchemy** — coordinates linguistic structures, communication, interpretation, translation, and literary expression while preserving meaning and contextual distinctions.
-- **Historical and Cultural Continuity Alchemy** — organizes the preservation and responsible transmission of historical knowledge, cultural practices, collective memory, and heritage across generations.
+- **Core Intelligence Contexts:** Humanistic knowledge may support philosophical reasoning, examination of ethical frameworks, historical analysis, interpretation of literature and cultural records, comparative understanding of traditions, and the organization of intellectual knowledge. C2O Intelligence and UNIVERSALIS Intelligence must apply these capabilities within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities. Humanistic analysis must distinguish interpretation from fact, preserve competing perspectives where relevant, and avoid presenting one philosophical, ethical, religious, or cultural perspective as universally authoritative without an appropriate basis.
+
+- **Application Contexts:** Humanistic knowledge may support the organization and representation of philosophical works, historical records, literary materials, cultural collections, religious and classical sources, heritage documentation, and intellectual archives. Applications must preserve authorship, provenance, dates, original language where available, source context, interpretive history, applicable usage rights, and the distinction between original works and derivative representations.
+
+- **UNIVERSALIN Assistant Contexts:** Humanistic knowledge may support assigned research, historical and cultural information retrieval, philosophical and literary explanation, source organization, translation-related assistance, heritage documentation, contextual interpretation, and other authorized information-processing functions within operating system and application boundaries. Assistants must preserve the distinction between source material, established scholarship, contested interpretations, and their own generated explanations. They must not presume authority to speak on behalf of individuals, communities, religious traditions, or cultural groups.
+
+- **UNIVERSALIN Intelligence Contexts:** Humanistic knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through philosophical and historical reasoning, cultural interpretation, literary analysis, knowledge representation, and the examination of human intellectual traditions. These contexts do not constitute additional core intelligences or establish independent authority to determine human values, impose beliefs, redefine cultural identities, or declare contested interpretations authoritative.
+
+- **UNIVERSALIN Guardian Contexts:** Humanistic knowledge may support the authorized personal, informational, organizational, educational, and assistance capabilities of human-bound Guardians. Its application may support the human's exploration of philosophy, history, literature, languages, cultural traditions, ethical questions, and personal intellectual interests. Guardians must respect the human's beliefs, values, identity, intellectual freedom, cultural context, privacy, autonomy, and authority over personal choices. They must not independently impose a worldview or substitute their interpretations for the human's own understanding.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Humanistic knowledge may support philosophical reasoning, historical and cultural interpretation, intellectual exploration, literary analysis, and other human-directed Guardian capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human's beliefs, values, identity, religious or cultural affiliation, intellectual expression, or personal decisions. The human retains authority over personal meaning, interpretation, and choices.
+
+The specific applicability of each humanities discipline and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
+
+#### Alchemies under Humanities Alchemy
+
+##### 1. Philosophical and Ethical Alchemies
+
+- **Philosophy Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning existence, reality, knowledge, reason, consciousness, language, values, and the fundamental questions through which individuals and societies examine the world. It establishes methods for representing and examining philosophical concepts, arguments, schools of thought, assumptions, principles, and competing explanations while preserving the distinctions between philosophical positions and established empirical findings.
+
+- **Ethics Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning moral principles, values, responsibilities, duties, rights, and frameworks for evaluating conduct, decisions, and consequences. It establishes methods for examining ethical arguments, moral frameworks, competing values, obligations, and the implications of actions while preserving distinctions between ethical reasoning, personal values, institutional policies, professional standards, and binding legal requirements.
+
+##### 2. Historical and Archaeological Alchemies
+
+- **History Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning human events, societies, institutions, experiences, relationships, and developments across time. It establishes methods for identifying, documenting, contextualizing, comparing, and interpreting historical events and processes while preserving chronology, historical context, source provenance, and distinctions between evidence and interpretation.
+
+- **Archaeology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the knowledge and methods associated with the discovery, excavation, documentation, analysis, interpretation, and preservation of material evidence concerning past human societies and their environments. It establishes methods for examining artifacts, structures, sites, materials, and archaeological contexts while preserving the location, provenance, stratigraphic context where relevant, documentation, stewardship responsibilities, and applicable permissions associated with archaeological evidence.
+
+- **Historical Analysis Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the critical examination of historical sources, evidence, contexts, causes, relationships, interpretations, and competing explanations to establish well-supported understandings of the past. It establishes methods for source criticism, comparison, chronology, contextual evaluation, examination of conflicting accounts, and assessment of historical claims while preserving the distinction between primary evidence, secondary scholarship, inference, and established historical conclusions.
+
+##### 3. Language and Literary Alchemies
+
+- **Linguistics Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the scientific and analytical study of language, including its structures, sounds, grammar, meaning, development, variation, acquisition, and use. It establishes methods for examining linguistic systems, language relationships, linguistic change, meaning, and patterns of language use while preserving distinctions between linguistic analysis, literary interpretation, and practical communication.
+
+- **Literature Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the creation, study, interpretation, criticism, and preservation of written and oral literary expression, including its forms, themes, narratives, styles, and cultural significance. It establishes methods for examining literary works, authorship, genres, narrative structures, literary traditions, interpretive approaches, and cultural relationships while preserving the integrity, provenance, and context of original works and their adaptations.
+
+##### 4. Religion and Classical Civilization Alchemies
+
+- **Religious Studies Alchemy** — organizes, examines, maintains, integrates, develops, and transforms academic and comparative knowledge concerning religions, religious traditions, beliefs, practices, texts, institutions, experiences, and their historical and social contexts. It establishes methods for examining religious phenomena through historical, cultural, philosophical, textual, sociological, and other relevant academic approaches while preserving the distinction between the study of religion, personal religious belief, theological positions, and the perspectives of practitioners.
+
+- **Comparative Religion Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the systematic comparison of religious traditions, concepts, narratives, practices, institutions, and historical developments. It establishes methods for identifying similarities, differences, relationships, influences, and distinct characteristics across religious traditions while preserving their individual contexts, internal diversity, historical development, and the meanings attributed to them by their practitioners.
+
+- **Classical Studies Alchemy** — organizes, examines, maintains, integrates, develops, and transforms interdisciplinary knowledge concerning ancient Greek and Roman civilizations, including their languages, literature, philosophy, history, art, political systems, material cultures, and intellectual traditions. It establishes methods for examining classical sources, historical contexts, cultural relationships, artifacts, institutions, and intellectual contributions while preserving the distinctions between Greek and Roman societies, their respective periods, and later interpretations of classical civilization.
+
+##### 5. Cultural Preservation and Heritage Alchemies
+
+- **Cultural Heritage Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to identify, document, interpret, preserve, conserve, and responsibly transmit tangible and intangible cultural heritage, including monuments, artifacts, traditions, languages, practices, and collective memory. It establishes methods for representing heritage materials, documentation, historical significance, conservation requirements, custodianship, and transmission across generations while respecting the rights, knowledge, identities, permissions, and stewardship responsibilities of the individuals and communities associated with that heritage.
+
+##### 6. Cross-Disciplinary Humanities Alchemies
+
+These specialized Alchemies coordinate the preceding philosophical, ethical, historical, archaeological, linguistic, literary, religious, classical, and cultural disciplines without replacing or collapsing their individual identities. Their relationships must preserve distinctions between intellectual inquiry, historical evidence, cultural interpretation, language, literature, religious traditions, and heritage preservation.
+
+- **Human Meaning Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between philosophical, ethical, literary, historical, and cultural perspectives to examine how people create, interpret, communicate, and preserve meaning. It establishes methods for connecting different approaches to human meaning while preserving their distinct intellectual foundations, cultural contexts, and interpretations.
+
+- **Historical Knowledge Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between historical research, archaeological evidence, source criticism, historical analysis, and contextual interpretation to develop coherent and evidence-supported understandings of the past. It establishes methods for coordinating historical sources and evidence while preserving their provenance, chronology, methodological distinctions, and interpretive limitations.
+
+- **Cultural Interpretation Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the interpretation of cultural expressions, symbols, narratives, traditions, practices, and intellectual contributions. It establishes methods for examining cultural meaning and representation while preserving the historical, linguistic, social, and community contexts necessary for responsible interpretation.
+
+- **Intellectual Heritage Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the preservation, transmission, interpretation, and development of philosophical, scientific, literary, artistic, and other intellectual traditions. It establishes methods for representing intellectual contributions, authorship, transmission, historical influence, and later developments while preserving attribution, provenance, context, and distinctions between original works and subsequent interpretations.
+
+- **Language and Meaning Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between linguistic structures, communication, interpretation, translation, and literary expression. It establishes methods for examining how language conveys meaning across texts, expressions, and contexts while preserving semantic distinctions, linguistic context, cultural references, and the limitations of translation or interpretation.
+
+- **Historical and Cultural Continuity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the methods used to preserve and responsibly transmit historical knowledge, cultural practices, collective memory, and heritage across generations. It establishes methods for maintaining continuity of records, traditions, interpretations, documentation, and cultural knowledge while respecting changes in historical understanding, community stewardship, and the rights of those connected to the heritage concerned.
+
+### 10.2 Humanities Structural and Applicability Requirements
+
+Every subordinate Alchemy under Humanities Alchemy must retain its own defined subject, purpose, methods, principles, interpretive requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+Humanities Alchemy must preserve the distinctions between its constituent disciplines and their respective subjects, methods, evidence, intellectual traditions, historical periods, cultural contexts, and interpretive scopes. Relationships between philosophy, ethics, history, archaeology, historical analysis, linguistics, literature, religious studies, comparative religion, classical studies, cultural heritage, and the cross-disciplinary Alchemies must be established without collapsing their distinct subjects or treating their methodologies as interchangeable.
+
+It must also preserve the distinctions between:
+
+- Philosophical inquiry, empirical investigation, scientific findings, metaphysical arguments, and established knowledge claims.
+- Ethical reasoning, personal moral values, professional standards, institutional policies, and binding legal obligations.
+- Historical events, primary sources, secondary scholarship, historical interpretations, competing explanations, and later representations of the past.
+- Archaeological objects, archaeological contexts, material evidence, interpretations, cultural associations, and established historical conclusions.
+- Linguistic structures, language use, literary expression, textual interpretation, and practical communication.
+- Original literary works, oral traditions, translations, adaptations, critical interpretations, and later creative expressions.
+- Academic religious studies, comparative approaches, theological positions, religious beliefs, spiritual practices, and the perspectives of practitioners.
+- Classical Greek and Roman civilizations, their distinct historical contexts, their material and intellectual traditions, and later interpretations of their influence.
+- Tangible heritage, intangible heritage, cultural practices, collective memory, historical documentation, and the rights and responsibilities of associated communities.
+- Cultural identity, external representation, scholarly interpretation, community knowledge, and the authority to speak on behalf of cultural groups.
+- Intellectual heritage, attribution, authorship, ownership, access permissions, reproduction rights, preservation responsibilities, and derivative works.
+- Shared humanistic concepts, culturally specific meanings, historically situated interpretations, and context-dependent ethical or philosophical positions.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Humanities Alchemy and each subordinate philosophical, ethical, historical, archaeological, linguistic, literary, religious, classical, cultural-preservation, and cross-disciplinary Alchemy.
+- The parent–subordinate relationships between Humanities Alchemy, its six specialized groups, and their respective Alchemies.
+- The relationships between humanities disciplines and relevant social, legal, governance, language, communication, arts, education, historical, scientific, and other knowledge-domain structures.
+- The connections between humanistic knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, information relationships, and connections between humanities disciplines and other Alchemies.
+- The distinctions between foundational humanistic disciplines, specialized fields, interdisciplinary approaches, intellectual traditions, and applied expressions.
+- The relationships between philosophical concepts, ethical frameworks, historical sources, literary works, linguistic structures, religious traditions, classical records, cultural materials, and intellectual heritage.
+- The relationships between historical evidence, archaeological records, source documentation, scholarly interpretations, cultural memory, and preservation structures.
+- The relationships between original works, translations, adaptations, critical interpretations, authorship, attribution, and applicable usage rights.
+- The relationships between tangible and intangible heritage, cultural custodianship, community knowledge, documentation, conservation, and responsible transmission.
+- The relationships between shared humanistic foundations and context-specific implementations while preserving the distinct private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each humanities discipline and subordinate Alchemy.
+- The specific research, interpretation, information-organization, preservation, educational, and assistance functions associated with each applicable context.
+- The humanistic knowledge, sources, methods, records, cultural information, intellectual materials, and information structures required for those functions.
+- Whether an application involves philosophical inquiry, ethical analysis, historical research, archaeological documentation, linguistic analysis, literary interpretation, religious studies, comparative research, classical studies, cultural heritage, or intellectual preservation.
+- Whether information is a primary source, secondary source, scholarly interpretation, oral account, cultural record, artifact record, literary work, translation, archival object, or model-generated representation.
+- The actual capabilities, supported interfaces, information sources, archives, repositories, collections, databases, and dependencies required for any humanistic information access or processing.
+- The permissions, ownership, authorship, attribution, consent, confidentiality, cultural stewardship, reproduction rights, retention requirements, and governance boundaries applicable to intellectual works, cultural materials, historical records, and heritage information.
+- The provenance, authorship, date, original language, historical period, geographic and cultural context, source condition, transmission history, interpretive methods, assumptions, uncertainty, limitations, and applicable rights that must accompany humanistic sources and derived interpretations.
+- The distinctions between historical evidence, archaeological findings, participant or community accounts, scholarly research, philosophical argument, theological interpretation, cultural interpretation, and generated conclusions.
+- The applicable treatment of disputed historical accounts, incomplete records, conflicting interpretations, evolving scholarship, uncertain attribution, and gaps in historical or cultural evidence.
+- The relationships between shared humanistic foundations and context-specific methods, responsibilities, interpretive approaches, and implementations.
+- The applicable requirements for handling, processing, storing, transmitting, accessing, correcting, retaining, reproducing, preserving, or disclosing personal, cultural, religious, historical, and intellectual information.
+- The boundaries between academic or informational assistance, scholarly interpretation, professional heritage practice, community representation, religious authority, and decisions made by legitimate custodians or associated communities.
+- The conditions under which human review, source verification, expert involvement, community consultation, custodian consent, owner authorization, or additional contextual research is required.
+- The requirements for preserving original works, attribution, translations, adaptations, archaeological documentation, historical records, cultural materials, and intellectual heritage across technological changes.
+- The safeguards against cultural misrepresentation, decontextualization, unsupported historical claims, religious bias, discriminatory interpretation, appropriation of community knowledge, and unauthorized use of cultural or intellectual materials.
+- The distinctions between access to cultural or intellectual information, permission to reproduce it, authorization to modify it, authority to represent its associated community, and responsibility for its preservation.
+
+Humanities Alchemy must not presume that the presence of a humanities discipline in the universal taxonomy grants every context unrestricted access to intellectual works, personal writings, private communications, religious materials, cultural records, archaeological collections, historical archives, community-held knowledge, or protected heritage materials.
+
+The inclusion of humanistic knowledge within an ecosystem context establishes its place in the knowledge structure, not an automatic implementation, intellectual-property permission, cultural authority, religious authority, custodianship, or authorization to represent another person or community.
+
+Humanistic information must be handled according to its source, nature, authorship, historical and cultural context, sensitivity, ownership, custodianship, purpose, and applicable permissions. The context necessary to understand a work, historical record, cultural practice, religious tradition, or intellectual contribution must not be discarded in a way that distorts its meaning or misrepresents its origin.
+
+Historical sources, archaeological evidence, scholarly interpretations, philosophical positions, ethical arguments, religious accounts, cultural expressions, and model-generated explanations must remain distinguishable. Interpretive conclusions must not be represented as direct historical evidence, and contested or uncertain interpretations must not be presented as universally established without appropriate supporting sources.
+
+Humanities Alchemy must preserve intellectual freedom, cultural diversity, religious neutrality, and the right of individuals and communities to maintain, interpret, question, develop, or decline particular beliefs and traditions. No system, intelligence, assistant, or Guardian may treat a philosophical, ethical, religious, or cultural framework as universally binding solely because it is represented within the taxonomy.
+
+Cultural and intellectual heritage must be represented with appropriate attention to provenance, attribution, stewardship, community context, and applicable rights. The ability to access or analyze cultural material does not automatically grant permission to reproduce, alter, commercialize, disclose, or claim authority over it.
+
+Applications involving personal beliefs, religious affiliation, cultural identity, personal writings, or community-held knowledge must preserve applicable consent, privacy, confidentiality, dignity, autonomy, and control. Guardian assistance must remain subject to the authority and permissions of the human they serve. Neither humanistic knowledge nor interpretive capabilities grant a system, intelligence, assistant, or Guardian independent authority over another person's beliefs, identity, values, or cultural participation.
+
+All applications must remain consistent with humanistic principles, intellectual rigor, historical and cultural evidence, source provenance, contextual integrity, applicable rights and permissions, cultural respect, intellectual freedom, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 11. Language and Communication Alchemy
 
