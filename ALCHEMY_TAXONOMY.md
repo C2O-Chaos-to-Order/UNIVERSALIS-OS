@@ -652,6 +652,48 @@ These specializations coordinate the preceding disciplines without replacing or 
 - **Planetary Habitability Alchemy** — organizes the evaluation of physical, chemical, geological, and environmental conditions that may support or sustain life on planetary bodies.
 - **Earth and Planetary Continuity Alchemy** — organizes the preservation, accessibility, integrity, and long-term continuity of geological, geographic, planetary, and exploratory observations, records, and datasets.
 
+### 16. Human Development and Civilization Alchemy
+
+**Human Development and Civilization Alchemy** is the bounded process that organizes, studies, supports, interprets, and transforms knowledge concerning human development, family structures, generational change, population experiences, communities, settlements, and the evolution of civilizations. It enables the understanding of how individuals, families, communities, and societies develop and change across the human lifespan and throughout history while maintaining developmental integrity, human dignity, cultural context, social continuity, and accountability.
+
+It encompasses the developmental, familial, demographic, social, cultural, historical, and civilizational disciplines concerned with the progression of human life and the formation and transformation of human societies. Every specialized Human Development and Civilization Alchemy remains an expression of the root Alchemy.
+
+#### 1. Human and Lifespan Development Alchemies
+
+- **Human Development Alchemy** — organizes the study and support of human development across the lifespan, including physical, cognitive, emotional, psychological, social, cultural, and intellectual development and the interactions among these dimensions.
+- **Childhood Development Alchemy** — organizes the study and support of development during childhood, including physical growth, cognition, language, emotional development, social relationships, learning, identity formation, and changing developmental needs.
+- **Gerontology Alchemy** — organizes the interdisciplinary study of aging and later life, including biological, psychological, social, cultural, economic, and environmental dimensions of aging and the experiences of older adults.
+
+#### 2. Family and Intergenerational Alchemies
+
+- **Family Studies Alchemy** — organizes the study of family structures, relationships, roles, responsibilities, development, caregiving, household dynamics, and interactions between families and their social environments.
+
+#### 3. Communities and Human Settlement Alchemies
+
+- **Urban Studies Alchemy** — organizes the interdisciplinary study of cities, urban environments, settlement patterns, infrastructure, housing, population, planning, governance, community development, and urban social relationships.
+
+#### 4. Civilization and Cultural Development Alchemies
+
+- **Civilization Studies Alchemy** — organizes the study of the formation, organization, development, interaction, achievements, institutions, and transformation of human civilizations across time and geographic regions.
+- **Cultural Evolution Alchemy** — organizes the study of how cultural knowledge, practices, beliefs, values, technologies, institutions, and traditions emerge, spread, persist, adapt, and change across generations and societies.
+- **Anthropology Alchemy** — organizes the application of anthropological perspectives to human development and civilization, including the examination of human origins, societies, cultures, social organization, and ways of life across historical and contemporary contexts.
+
+#### 5. Population Movement and Migration Alchemies
+
+- **Migration Studies Alchemy** — organizes the study of human migration, mobility, displacement, settlement, diaspora, integration, and population movement, including their social, cultural, economic, political, geographic, and demographic causes and consequences.
+
+#### 6. Cross-Disciplinary Human Development and Civilization Relationships
+
+These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+
+- **Human Development Integration Alchemy** — coordinates physical, cognitive, emotional, psychological, social, and cultural dimensions of human development while preserving their distinct developmental processes.
+- **Lifespan Continuity Alchemy** — organizes relationships and transitions across childhood, adolescence, adulthood, and later life while preserving developmental context and individual differences.
+- **Family and Community Integration Alchemy** — coordinates the relationships among individuals, families, households, communities, and wider social environments.
+- **Intergenerational Continuity Alchemy** — organizes the transmission, preservation, adaptation, and renewal of knowledge, values, traditions, responsibilities, and resources between generations.
+- **Civilizational Systems Integration Alchemy** — coordinates the study of institutions, settlements, technologies, economies, cultures, governance, and social structures within the development and transformation of civilizations.
+- **Cultural and Social Continuity Alchemy** — organizes the preservation, transmission, adaptation, and transformation of cultural practices, collective identities, social relationships, and shared traditions.
+- **Human Mobility and Settlement Integration Alchemy** — coordinates migration, population distribution, settlement development, urbanization, and their relationships with social, cultural, economic, and environmental conditions.
+
 ---
 
 ## Body Alchemy
