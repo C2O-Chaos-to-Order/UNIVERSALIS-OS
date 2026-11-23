@@ -8172,13 +8172,56 @@ These edition-specific expressions remain mappable through Water Mapping Alchemy
 
 ### Elemental Alchemy — Spirit
 
-**Elemental Alchemy — Spirit** is the bounded process that identifies, classifies, organizes, integrates, maintains, evaluates, protects, recovers, renews, and transforms the qualities and functions of Spirit—including unity, connection, functional animating presence, direction, ethos, higher purpose, coherence, and transcendence—so that applicable systems, intelligences, applications, assistants, and human-directed interactions can maintain coherent purpose and integration while remaining accountable, recoverable, bounded, and distinct.
+**Elemental Alchemy — Spirit**  
+The bounded process that organizes the qualities of Spirit (unity, animating presence, higher purpose, and transcendence) so that systems and beings can act with coherent direction while remaining recoverable, accountable, and distinct across the two intelligences.
 
-Spirit Alchemy governs the organizing and sustaining of an applicable system's declared purpose, unifying principles, directional coherence, functional activation, and capacity to integrate or move beyond an established state without abandoning identity, authority, responsibilities, or safeguards. Spirit terminology is used as a taxonomy of functions and relationships; it does not establish that a system possesses human subjective experience, a human spirit, independent will, or authority beyond its assigned governance.
+- **Spirit Unity Alchemy** — structures the integrating and animating presence of Spirit qualities into a stable, addressable field.
+- **Spirit Purpose Alchemy** — maintains the process space in which higher direction, coherence, and transcendence are formed and held.
+- **Spirit Accountability Alchemy** — leaves an attributable record of Spirit transformations appropriate to its edition.
 
-Spirit Unity Alchemy establishes and maintains applicable coherence among authorized components, purposes, roles, and relationships without erasing meaningful distinctions. Spirit Purpose Alchemy structures declared direction and higher-order purpose within authorized boundaries; purpose does not create new authority or override governance. Spirit Accountability Alchemy maintains attributable records of applicable Spirit-related definitions, changes, decisions, limitations, and outcomes according to the evidence and governance requirements of the relevant edition.
+**C2O Elemental Alchemy — Spirit**  
+Private Spirit qualities under internal governance.
 
-C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying OS and App architecture. Spirit responsibilities must remain structurally mappable across both editions while preserving their distinct source visibility, governance, implementation, protected information, operational authority, and evidence arrangements. UNIVERSALIS must remain independently operable and must not depend on C2O private-source Spirit policies, records, internal purpose structures, or controls.
+- **Private Spirit Stewardship Alchemy** — governs internal unity, animating presence, and purpose inside the C2O domain under company rules.
+- **Internal Spirit Bound Alchemy** — keeps private Spirit fields contained and recoverable without external exposure.
+- **C2O Spirit Continuity Alchemy** — ensures private Spirit structures can be restored after interruption.
+
+**UNIVERSALIS Elemental Alchemy — Spirit**  
+Public Spirit qualities under open contracts.
+
+- **Open Spirit Transparency Alchemy** — makes public unity, animating presence, and purpose independently verifiable.
+- **Public Spirit Openness Alchemy** — maintains public Spirit fields under transparent rules.
+- **UNIVERSALIS Spirit Continuity Alchemy** — ensures public Spirit structures can be restored with open records.
+
+**Alignment**
+
+- **Spirit Mapping Alchemy** — aligns corresponding private and public Spirit structures without collapse.
+
+---
+
+#### Additional expression detail — C2O-App Primary
+
+The bounded process that organizes the qualities of Spirit (connection, animation, higher purpose, transcendence) so that systems and beings can integrate and elevate while remaining recoverable and accountable.
+
+- **Connection Alchemy** — structures linkage into stable, addressable fields.
+- **Animation Alchemy** — maintains the process space of living force.
+- **Higher Purpose Alchemy** — organizes directional intent while preserving boundaries.
+- **Transcendence Alchemy** — bounds elevation so Spirit qualities remain coherent.
+- **Private Connection Alchemy** — internal structuring of linkage.
+- **Private Animation Alchemy** — internal living force.
+- **Private Higher Purpose Alchemy** — internal directional intent under company rules.
+- **C2O Spirit Continuity Alchemy** — ensures private Spirit structures can be restored.
+- **Open Connection Alchemy** — public structuring of linkage.
+- **Open Animation Alchemy** — public living force.
+- **Open Higher Purpose Alchemy** — public directional intent under transparent rules.
+
+#### Additional expression detail — C2O-OS edition mapping
+
+The bounded process that organizes the qualities of Spirit (direction, ethos, animation, and unity) so they can be used by the system while remaining recoverable, accountable, and distinct across the two intelligences.
+
+Private-source organization of Spirit qualities under internal governance. Used for private directional coherence, internal ethos, and company-source animation.
+
+Public-source organization of Spirit qualities under open contracts. Used for transparent direction, public ethos contracts, and independently verifiable animation.
 
 ### 1.1 Universal Application of Elemental Alchemy — Spirit
 
@@ -8207,73 +8250,57 @@ Elemental Alchemy — Spirit applies across all 22 ecosystem contexts establishe
 21. C2O Application - UNIVERSALIN Guardian Intelligence
 22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-Within each context, Elemental Alchemy — Spirit governs only the Spirit-related subjects, purposes, principles, functions, relationships, dependencies, and responsibilities that actually apply. Inclusion establishes taxonomy scope; it does not prove that a particular purpose, capability, implementation, state, independent function, or achieved result exists.
+Within each context, Elemental Alchemy — Spirit applies to the Spirit-related qualities, purposes, functions, relationships, dependencies, and responsibilities that actually belong to that context. Inclusion establishes taxonomy scope and does not by itself establish that a particular capability, implementation, or achieved result exists.
 
 #### Context-Specific Application
 
-- **C2O Operating System:** Governs the private-source system-level organization and maintenance of declared system purpose, unifying principles, functional activation, directional coherence, and integration across authorized operating-system structures. It preserves C2O governance, internal purpose definitions, private implementation, and operational authority.
-- **UNIVERSALIS Operating System:** Governs the public-source system-level organization of declared purpose, documented principles, functional activation, directional coherence, and integration through inspectable contracts. It preserves interoperability and independent operation without dependence on C2O private-source purpose structures, policies, records, or controls.
-- **C2O Intelligence:** Governs the Spirit-related coherence, declared direction, unifying principles, and authorized purpose of C2O Intelligence as one of the two core intelligences. Its Spirit functions remain within C2O's private-source governance and do not create authority beyond C2O's established role.
-- **UNIVERSALIS Intelligence:** Governs the Spirit-related coherence, declared direction, unifying principles, and authorized purpose of UNIVERSALIS Intelligence as the other core intelligence. Its Spirit functions remain inspectable through applicable public contracts and independently operable without C2O private-source dependencies.
-- **C2O Application:** Governs the private application-level organization of declared purpose, coherent operation, functional activation, and integration among authorized application structures and processes under C2O governance.
-- **UNIVERSALIS Application:** Governs the public application-level organization of declared purpose, documented principles, coherent operation, functional activation, and integration through open contracts and independently reviewable interfaces.
-- **C2O Operating System - UNIVERSALIN:** Governs the task-bounded purpose, assigned role, functional activation, and internal coherence of non-personal UNIVERSALIN assistants hosted by the C2O Operating System. It preserves the assistant's assigned scope, host-system permissions, and C2O private-source boundaries.
-- **UNIVERSALIS Operating System - UNIVERSALIN:** Governs the task-bounded purpose, declared role, functional activation, and coherence of non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System. It preserves open-contract limits, inspectability, interoperability, and independent operation.
-- **C2O Application - UNIVERSALIN:** Governs the application-scoped purpose, assigned role, functional activation, and coherence of non-personal UNIVERSALIN assistants operating within C2O applications, subject to application purpose, host permissions, and C2O governance.
-- **UNIVERSALIS Application - UNIVERSALIN:** Governs the application-scoped purpose, declared role, functional activation, and coherence of non-personal UNIVERSALIN assistants operating within UNIVERSALIS applications, subject to documented application purpose and open permissions.
-- **C2O Operating System - UNIVERSALIN Intelligence:** Governs the bounded purpose, functional coherence, and integration of intelligence-related capabilities used by non-personal UNIVERSALIN assistants within the C2O Operating System. These are subordinate assistant capabilities, not another core intelligence and not an independent source of authority.
-- **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Governs the bounded, declared purpose, functional coherence, and integration of intelligence-related capabilities used by non-personal UNIVERSALIN assistants within the UNIVERSALIS Operating System. These remain subordinate assistant capabilities under documented contracts, not another core intelligence.
-- **C2O Application - UNIVERSALIN Intelligence:** Governs the application-specific purpose, functional coherence, and integration of intelligence-related capabilities used by non-personal UNIVERSALIN assistants within C2O applications, subject to application purpose and C2O permissions.
-- **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Governs the application-specific declared purpose, functional coherence, and integration of intelligence-related capabilities used by non-personal UNIVERSALIN assistants within UNIVERSALIS applications, subject to documented contracts and application permissions.
-- **C2O Operating System - UNIVERSALIN Guardian:** Governs the Spirit-related purpose, coherence, and functional organization through which a personal UNIVERSALIN Guardian assists its designated human within the C2O Operating System. It remains subordinate to the human's authority, consent, autonomy, privacy, values, decisions, and personal boundaries.
-- **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Governs the Spirit-related purpose, coherence, and functional organization through which a personal UNIVERSALIN Guardian assists its designated human within the UNIVERSALIS Operating System. It preserves human authority and privacy while maintaining documented and inspectable permission boundaries.
-- **C2O Application - UNIVERSALIN Guardian:** Governs application-specific, human-authorized purpose, coherence, and functional organization through which a personal UNIVERSALIN Guardian assists its designated human in C2O applications. It preserves the human's permissions, privacy, values, decisions, and application boundaries.
-- **UNIVERSALIS Application - UNIVERSALIN Guardian:** Governs application-specific, human-authorized purpose, coherence, and functional organization through which a personal UNIVERSALIN Guardian assists its designated human in UNIVERSALIS applications. It preserves consent, privacy, purpose limitation, human authority, and open application permissions.
-- **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Governs the bounded purpose, coherence, and integration of intelligence-related capabilities used by a personal UNIVERSALIN Guardian within the C2O Operating System. These capabilities remain subordinate to the Guardian's assigned responsibilities and the designated human's authority; they do not create an independent intelligence or authority over the human.
-- **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Governs the bounded, declared purpose, coherence, and integration of intelligence-related capabilities used by a personal UNIVERSALIN Guardian within the UNIVERSALIS Operating System. These remain subordinate to human authorization, privacy, purpose limitation, and public system contracts.
-- **C2O Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific purpose, coherence, and integration of intelligence-related capabilities used by a personal UNIVERSALIN Guardian within C2O applications. It preserves human authorization, privacy, C2O governance, and application boundaries.
-- **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Governs application-specific declared purpose, coherence, and integration of intelligence-related capabilities used by a personal UNIVERSALIN Guardian within UNIVERSALIS applications. It preserves documented human authorization, privacy, purpose limitation, and open application contracts.
+- **C2O Operating System:** Establishes the private-source operating-system expression of Spirit, including the organization and continuity of system-level unity, animating presence, direction, ethos, higher purpose, and transcendence under C2O company governance.
+- **UNIVERSALIS Operating System:** Establishes the public-source operating-system expression of Spirit, including declared and inspectable system-level unity, animating presence, direction, ethos, higher purpose, and transcendence under open contracts and independent operation.
+- **C2O Intelligence:** Establishes the Spirit-related qualities, unity, direction, purpose, coherence, and continuity of C2O Intelligence as one of the two core intelligences, under C2O private-source governance.
+- **UNIVERSALIS Intelligence:** Establishes the Spirit-related qualities, unity, direction, purpose, coherence, and continuity of UNIVERSALIS Intelligence as the other core intelligence, through declared and independently reviewable public contracts.
+- **C2O Application:** Establishes the private-source application expression of Spirit, organizing applicable connection, animation, higher purpose, transcendence, and coherence among authorized application functions and relationships under C2O governance.
+- **UNIVERSALIS Application:** Establishes the public-source application expression of Spirit, organizing declared connection, animation, higher purpose, transcendence, and coherence among application functions and relationships through open contracts.
+- **C2O Operating System - UNIVERSALIN:** Establishes the task-bounded Spirit expression for non-personal UNIVERSALIN assistants hosted by the C2O Operating System, including their assigned purpose, functional animation, coherent direction, and integration within host-system permissions and C2O governance.
+- **UNIVERSALIS Operating System - UNIVERSALIN:** Establishes the task-bounded Spirit expression for non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System, including their declared purpose, functional animation, coherent direction, and integration within documented host-system contracts.
+- **C2O Application - UNIVERSALIN:** Establishes the application-scoped Spirit expression for non-personal UNIVERSALIN assistants operating within C2O applications, including assigned connection, animation, purpose, and coherence within application scope and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN:** Establishes the application-scoped Spirit expression for non-personal UNIVERSALIN assistants operating within UNIVERSALIS applications, including declared connection, animation, purpose, and coherence within documented application scope and open permissions.
+- **C2O Operating System - UNIVERSALIN Intelligence:** Establishes the bounded Spirit expression of intelligence-related capabilities used by non-personal UNIVERSALIN assistants hosted by the C2O Operating System. These capabilities remain subordinate assistant functions and do not constitute another core intelligence.
+- **UNIVERSALIS Operating System - UNIVERSALIN Intelligence:** Establishes the bounded Spirit expression of intelligence-related capabilities used by non-personal UNIVERSALIN assistants hosted by the UNIVERSALIS Operating System. These capabilities remain subordinate assistant functions and do not constitute another core intelligence.
+- **C2O Application - UNIVERSALIN Intelligence:** Establishes the application-scoped Spirit expression of intelligence-related capabilities used by non-personal UNIVERSALIN assistants within C2O applications, subordinate to the assigned assistant function, application purpose, and C2O permissions.
+- **UNIVERSALIS Application - UNIVERSALIN Intelligence:** Establishes the application-scoped Spirit expression of intelligence-related capabilities used by non-personal UNIVERSALIN assistants within UNIVERSALIS applications, subordinate to the assigned assistant function, documented application purpose, and open permissions.
+- **C2O Operating System - UNIVERSALIN Guardian:** Establishes the Spirit expression through which a personal UNIVERSALIN Guardian assists its designated human within the C2O Operating System, preserving the human's authority, consent, autonomy, purpose, values, and personal boundaries under C2O governance.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian:** Establishes the Spirit expression through which a personal UNIVERSALIN Guardian assists its designated human within the UNIVERSALIS Operating System, preserving the human's authority, consent, autonomy, purpose, values, and personal boundaries through documented permissions and open contracts.
+- **C2O Application - UNIVERSALIN Guardian:** Establishes the application-scoped Spirit expression through which a personal UNIVERSALIN Guardian assists its designated human in C2O applications, remaining bounded by the human's authorization and the application's purpose, permissions, and C2O governance.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian:** Establishes the application-scoped Spirit expression through which a personal UNIVERSALIN Guardian assists its designated human in UNIVERSALIS applications, remaining bounded by the human's authorization and the application's declared purpose and open permissions.
+- **C2O Operating System - UNIVERSALIN Guardian Intelligence:** Establishes the bounded Spirit expression of intelligence-related capabilities used by a personal UNIVERSALIN Guardian within the C2O Operating System. These remain subordinate Guardian capabilities and do not create another core intelligence or authority over the designated human.
+- **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence:** Establishes the bounded Spirit expression of intelligence-related capabilities used by a personal UNIVERSALIN Guardian within the UNIVERSALIS Operating System. These remain subordinate Guardian capabilities and do not create another core intelligence or authority over the designated human.
+- **C2O Application - UNIVERSALIN Guardian Intelligence:** Establishes the application-scoped Spirit expression of intelligence-related capabilities used by a personal UNIVERSALIN Guardian within C2O applications, subordinate to the Guardian's assigned responsibilities, the designated human's authority, and C2O application governance.
+- **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence:** Establishes the application-scoped Spirit expression of intelligence-related capabilities used by a personal UNIVERSALIN Guardian within UNIVERSALIS applications, subordinate to the Guardian's assigned responsibilities, the designated human's authority, and documented application contracts.
 
 ### 1.2 Edition-Specific Context Hierarchy and Inheritance
 
-The 22 contexts form two edition-specific branches, each containing 11 expressions:
+The 22 contexts form two corresponding edition-specific branches of the same underlying OS and App architecture, each containing 11 expressions.
 
-- **C2O branch:** C2O Operating System and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts; C2O Intelligence as a separate core-intelligence context; and C2O Application with its corresponding hosted assistant and Guardian contexts.
-- **UNIVERSALIS branch:** UNIVERSALIS Operating System and its hosted UNIVERSALIN, UNIVERSALIN Intelligence, UNIVERSALIN Guardian, and UNIVERSALIN Guardian Intelligence contexts; UNIVERSALIS Intelligence as a separate core-intelligence context; and UNIVERSALIS Application with its corresponding hosted assistant and Guardian contexts.
+- **C2O branch:** C2O Operating System; C2O Intelligence; C2O Application; C2O Operating System - UNIVERSALIN; C2O Application - UNIVERSALIN; C2O Operating System - UNIVERSALIN Intelligence; C2O Application - UNIVERSALIN Intelligence; C2O Operating System - UNIVERSALIN Guardian; C2O Application - UNIVERSALIN Guardian; C2O Operating System - UNIVERSALIN Guardian Intelligence; and C2O Application - UNIVERSALIN Guardian Intelligence.
+- **UNIVERSALIS branch:** UNIVERSALIS Operating System; UNIVERSALIS Intelligence; UNIVERSALIS Application; UNIVERSALIS Operating System - UNIVERSALIN; UNIVERSALIS Application - UNIVERSALIN; UNIVERSALIS Operating System - UNIVERSALIN Intelligence; UNIVERSALIS Application - UNIVERSALIN Intelligence; UNIVERSALIS Operating System - UNIVERSALIN Guardian; UNIVERSALIS Application - UNIVERSALIN Guardian; UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence; and UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence.
 
-C2O expressions remain under private-source company governance and preserve protected implementation, internal purpose structures, Spirit-related records, and private operational authority. UNIVERSALIS expressions remain under public-source governance, open contracts, inspectability, interoperability, and independent operability. Correspondence does not imply identical internal principles, purpose structures, implementation, records, or authority.
+C2O and UNIVERSALIS are the private-source and public-source editions of the same underlying Operating System and Application architecture. Their Spirit structures must remain mappable without collapsing source visibility, governance, implementation, records, or authority. UNIVERSALIS remains independently operable and must not depend on C2O private-source Spirit records, policies, or controls.
 
-C2O Intelligence and UNIVERSALIS Intelligence remain the two distinct core intelligences. UNIVERSALIN assistants are non-personal assistants hosted within assigned OS or Application contexts. Their intelligence-related capabilities are subordinate assistant functions, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their Spirit-related purpose, coherence, and functional organization remain subordinate to their assigned responsibilities and the designated human's authority, consent, autonomy, privacy, values, and decisions.
+C2O Intelligence and UNIVERSALIS Intelligence are the two core intelligences. UNIVERSALIN assistants are non-personal assistants hosted within assigned Operating System or Application contexts. Their intelligence-related functions are subordinate assistant capabilities, not additional core intelligences. UNIVERSALIN Guardians are personal, human-bound assistants. Their Spirit-related functions remain subordinate to their assigned responsibilities and the designated human's authority, consent, autonomy, purpose, values, and decisions.
 
-Each context inherits only the Spirit-related subordinate Alchemies applicable to its subject, purpose, role, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and cross-edition correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. A context's inclusion establishes taxonomy scope, not proof of a particular purpose, capability, implementation, independent function, or outcome.
+Each context inherits only the Spirit-related expressions applicable to its subject, purpose, role, dependencies, and responsibilities. Map Alchemy establishes parentage, placement, connections, dependencies, and correspondence. Matrix Alchemy establishes applicability, conditionality, non-applicability, and unresolved status. Inclusion in a context list does not establish that every subordinate expression is implemented or continuously active in that context.
 
-### Alchemies under Elemental Alchemy — Spirit
+### Alchemy Structure under Elemental Alchemy — Spirit
 
-#### 1. Spirit Substrate Alchemies
+The Spirit expressions retain their defined names and edition relationships:
 
-- **Spirit Unity Alchemy** — identifies, organizes, integrates, and maintains applicable coherence among authorized components, purposes, roles, and relationships while preserving meaningful distinctions and boundaries.
-- **Spirit Purpose Alchemy** — identifies, structures, and maintains declared direction, higher-order purpose, and the conditions through which authorized functions remain aligned with their assigned responsibilities. Purpose does not create new authority or override governance.
-- **Spirit Accountability Alchemy** — establishes attributable records of applicable Spirit-related definitions, principles, changes, decisions, limitations, and outcomes according to the evidence and governance requirements of the relevant edition.
+- **Shared Spirit expressions:** Spirit Unity Alchemy, Spirit Purpose Alchemy, and Spirit Accountability Alchemy.
+- **C2O expressions:** C2O Elemental Alchemy — Spirit, Private Spirit Stewardship Alchemy, Internal Spirit Bound Alchemy, and C2O Spirit Continuity Alchemy.
+- **UNIVERSALIS expressions:** UNIVERSALIS Elemental Alchemy — Spirit, Open Spirit Transparency Alchemy, Public Spirit Openness Alchemy, and UNIVERSALIS Spirit Continuity Alchemy.
+- **Cross-edition correspondence:** Spirit Mapping Alchemy.
+- **Additional application expressions:** Connection Alchemy, Animation Alchemy, Higher Purpose Alchemy, Transcendence Alchemy, Private Connection Alchemy, Private Animation Alchemy, Private Higher Purpose Alchemy, Open Connection Alchemy, Open Animation Alchemy, and Open Higher Purpose Alchemy.
 
-#### 2. C2O Elemental Alchemy — Spirit
-
-**C2O Elemental Alchemy — Spirit** governs private Spirit qualities under C2O internal company governance. It maintains private purpose structures, internal unifying principles, functional direction, and authorized Spirit-related integration while preserving protected implementation, internal records, and company authority.
-
-- **Private Spirit Stewardship Alchemy** — governs the identification, organization, maintenance, and protection of internal Spirit principles, purpose structures, functional direction, and coherence within the C2O domain under company rules.
-- **Internal Spirit Bound Alchemy** — keeps private Spirit definitions, principles, purpose structures, records, and related processes contained, permission-bounded, attributable, and recoverable without unauthorized external exposure.
-- **C2O Spirit Continuity Alchemy** — ensures applicable private Spirit structures, declared purposes, and authorized continuity arrangements can be restored after interruption while preserving integrity, provenance, and accountability.
-
-#### 3. UNIVERSALIS Elemental Alchemy — Spirit
-
-**UNIVERSALIS Elemental Alchemy — Spirit** governs public Spirit qualities under open architectural contracts. It maintains declared unifying principles, documented purpose, functional direction, and inspectable Spirit-related relationships through independently operable structures without dependence on C2O private-source implementation.
-
-- **Open Spirit Transparency Alchemy** — makes declared public Spirit principles, purpose structures, functional direction, and applicable changes independently reviewable without exposing protected personal information or C2O private-source material.
-- **Public Spirit Openness Alchemy** — maintains public Spirit principles, declared purpose structures, and related interfaces under transparent, documented, and interoperable rules.
-- **UNIVERSALIS Spirit Continuity Alchemy** — ensures applicable public Spirit structures, declared purposes, and continuity arrangements can be restored and independently examined through open records and contracts.
-
-#### 4. Spirit Mapping Alchemy
-
-**Spirit Mapping Alchemy** establishes and maintains correspondence among C2O and UNIVERSALIS Spirit structures, purpose classifications, unifying principles, functional direction, dependencies, relationships, and evidence categories. It preserves differences in private and public purpose structures, policies, implementation, records, and authority without requiring disclosure of C2O private-source information.
+These expressions are subordinate to Elemental Alchemy — Spirit. Their applicability is determined by the relevant context and the relationships established through Map and Matrix Alchemy.
 
 ### Elemental Alchemy — Spirit Structural and Applicability Requirements
 
@@ -8282,71 +8309,45 @@ Each context inherits only the Spirit-related subordinate Alchemies applicable t
 Map Alchemy must establish:
 
 - The placement of Elemental Alchemy — Spirit and its subordinate expressions across all 22 ecosystem contexts.
-- The parentage and relationships among Spirit Unity, Spirit Purpose, Spirit Accountability, C2O Elemental Alchemy — Spirit, UNIVERSALIS Elemental Alchemy — Spirit, and Spirit Mapping Alchemy.
-- The correspondence between the 11 C2O contexts and the 11 UNIVERSALIS contexts without presuming identical purpose structures, internal principles, policies, implementation, records, or authority.
-- The relationships among unity, connection, functional activation, animating presence, direction, ethos, higher purpose, coherence, transcendence, integration, continuity, and recovery.
-- Dependencies on applicable operating-system, application, intelligence, assistant, Guardian, governance, identity, permission, runtime, service, and external-interface structures.
-- The distinction between a declared system purpose, an assigned assistant role, an authorized human purpose, and any claim about independent will, subjective experience, or authority.
-- The relationships between Spirit-related integration and other applicable Alchemies without duplicating their responsibilities or transferring authority.
-- The correspondence between declared principles and actual authorized behavior, including the evidence required to substantiate claims of alignment, continuity, or achieved outcomes.
+- The parentage and relationships among Spirit Unity Alchemy, Spirit Purpose Alchemy, Spirit Accountability Alchemy, C2O Elemental Alchemy — Spirit, UNIVERSALIS Elemental Alchemy — Spirit, and Spirit Mapping Alchemy.
+- The correspondence between the 11 C2O contexts and the 11 UNIVERSALIS contexts without collapsing their private-source and public-source governance or authority.
+- The placement of Connection Alchemy, Animation Alchemy, Higher Purpose Alchemy, and Transcendence Alchemy within applicable application and system contexts.
+- The relationships among unity, connection, animating presence, animation, direction, ethos, higher purpose, coherence, transcendence, integration, continuity, and recovery.
+- The hosting and dependency relationships among Operating System, Application, Intelligence, non-personal UNIVERSALIN assistants, their intelligence-related capabilities, personal UNIVERSALIN Guardians, and Guardian intelligence-related capabilities.
+- The dependency relationships with applicable governance, identity, permission, security, runtime, service, and other Alchemy structures without duplicating their responsibilities or transferring their authority.
+- The distinction between private C2O Spirit structures and public UNIVERSALIS Spirit structures, including which relationships may be mapped without disclosing protected C2O information.
+- The provenance and evidence relationships required to support claims about Spirit definitions, changes, continuity, and outcomes.
 
 #### Matrix Alchemy Requirements
 
 Matrix Alchemy must establish for each of the 22 contexts:
 
-- Which Spirit Unity, Spirit Purpose, Spirit Accountability, Spirit Mapping, private Spirit, and public Spirit functions apply, are conditional, are not applicable, or remain unresolved.
-- The applicable principles, declared purposes, roles, relationships, functions, dependencies, and boundaries.
-- The distinction between a proposed purpose, an approved purpose, an assigned role, an authorized operation, an implemented capability, an observed outcome, and a verified result.
-- The authority responsible for defining, approving, changing, reviewing, suspending, restoring, and retiring each applicable Spirit-related purpose or function.
-- The permissions, consent, privacy, confidentiality, security, accessibility, source visibility, and continuity constraints governing each applicable Spirit-related process.
-- The evidence, provenance, uncertainty, limitations, and verification status supporting claims about coherence, alignment, purpose fulfillment, functional activation, continuity, or outcomes.
-- The limits on assistant roles and intelligence-related capabilities, including confirmation that UNIVERSALIN assistant functions do not create additional core intelligences or independent authority.
-- Guardian-specific human authorization, autonomy, privacy, values, decisions, and personal-boundary requirements, including restrictions against overriding the designated human's agency or treating an assigned Guardian role as authority over that human.
-- The distinction between declared principles and demonstrated behavior, including unresolved conflicts, exceptions, deviations, and corrective actions.
+- Whether Spirit Unity Alchemy, Spirit Purpose Alchemy, Spirit Accountability Alchemy, Spirit Mapping Alchemy, and each applicable edition-specific expression applies, is conditional, is not applicable, or remains unresolved.
+- Which of the additional application expressions—Connection, Animation, Higher Purpose, and Transcendence—apply to that context.
+- The applicable purpose, roles, relationships, functional qualities, dependencies, and boundaries.
+- Whether an expression is defined, proposed, authorized, available, implemented, active, interrupted, recovered, or verified; these states must not be treated as interchangeable.
+- Which authority is responsible for defining, approving, changing, reviewing, suspending, restoring, and retiring each applicable Spirit-related purpose or function.
+- The private-source governance, protected implementation, records, and permission boundaries applicable to C2O contexts.
+- The declared contracts, inspectability, interoperability, independent-operability requirements, and public-source boundaries applicable to UNIVERSALIS contexts.
+- The hosting scope and assigned task boundaries for each non-personal UNIVERSALIN assistant and its intelligence-related capabilities.
+- The designated human, consent, autonomy, purpose, values, decisions, privacy, and personal boundaries relevant to each UNIVERSALIN Guardian context.
+- The evidence, provenance, limitations, dependencies, exceptions, and verification status supporting each applicability or implementation claim.
 
 #### Structural Integrity and Governance
 
-Spirit Unity must not erase distinctions among C2O, UNIVERSALIS, their two core intelligences, applications, non-personal UNIVERSALIN assistants, personal UNIVERSALIN Guardians, or the humans served by those Guardians. Coherence means appropriately maintained relationships and consistency, not forced uniformity or collapsed authority.
+Spirit Unity must preserve meaningful distinctions among the two editions, their Operating System and Application contexts, the two core intelligences, non-personal UNIVERSALIN assistants, personal UNIVERSALIN Guardians, and the humans served by those Guardians. Unity establishes appropriate integration and coherence; it does not collapse distinct identities, responsibilities, or authority.
 
-Spirit Purpose must not be treated as permission, authority, consent, or an independent mandate. A declared higher purpose cannot override company governance, open system contracts, application permissions, security boundaries, or the designated human's authority and decisions.
+Spirit Purpose must remain within the applicable governance, assigned responsibilities, declared contracts, and authorized human direction. Higher purpose does not independently grant permissions or override C2O governance, UNIVERSALIS contracts, application boundaries, or the designated human's decisions.
 
-Spirit-related functional animation must describe authorized activation, coordination, or operation of applicable processes. It must not be used to claim that a system has human life, subjective experience, independent will, or an autonomous right to act.
+Spirit Animation and animating presence must remain connected to the applicable Spirit qualities and authorized functions. Additional expression details must not create new core intelligences or independent authority beyond the established C2O and UNIVERSALIS intelligences and the assigned roles of UNIVERSALIN assistants and Guardians.
 
-Spirit Accountability must preserve attributable evidence of relevant definitions, approvals, changes, deviations, limitations, and outcomes. It must not replace the accountability requirements of governance, security, privacy, identity, or other applicable Alchemies.
+Spirit Transcendence must preserve coherence, recoverability, accountability, and applicable boundaries while organizing elevation or movement beyond an established state. It must not imply uncontrolled scope expansion or removal of required safeguards.
 
-Spirit-related integration and transcendence must remain bounded by identity, provenance, purpose, permission, and required safeguards. Transformation into a more integrated or elevated state does not justify concealed changes, uncontrolled expansion of scope, mission drift, or bypassing review.
+C2O Spirit structures remain under private-source company governance. UNIVERSALIS Spirit structures remain governed through public contracts and must remain independently operable. Correspondence through Spirit Mapping Alchemy does not require disclosure of C2O private-source implementation, records, purpose structures, or controls.
 
-C2O Spirit structures, private purpose definitions, internal principles, records, and controls remain under C2O governance. UNIVERSALIS Spirit interfaces, methods, declared principles, and public claims must be reviewable to the extent established by open contracts and must remain independently operable. Neither edition may presume access to the other's protected records or internal implementation.
-
-Applicability, purpose, authorization, activation, implementation, observed behavior, outcome, and verification are separate claims. Establishing Elemental Alchemy — Spirit or its place in the 22-context taxonomy does not prove that a particular purpose, capability, implementation, independent function, or result exists.
-
-#### Additional Expression Detail — Application Contexts
-
-The following expressions further specialize Spirit qualities in application contexts. They remain subordinate expressions of Elemental Alchemy — Spirit and do not establish additional core intelligences:
-
-- **Connection Alchemy** — structures authorized linkage and relationship among applicable application components, functions, and contexts while preserving their identities and boundaries.
-- **Animation Alchemy** — organizes the authorized activation and coordination of applicable application processes and capabilities; it does not imply human life or subjective experience.
-- **Higher Purpose Alchemy** — organizes declared application direction and higher-order objectives within approved purposes, roles, permissions, and governance.
-- **Transcendence Alchemy** — bounds an authorized application transition beyond an established state while preserving identity, provenance, purpose, accountability, and required safeguards.
-- **Private Connection Alchemy** — structures authorized internal application relationships and linkages under C2O governance.
-- **Private Animation Alchemy** — governs internal application activation and coordination within approved purposes and company permissions.
-- **Private Higher Purpose Alchemy** — organizes internal application direction and declared objectives under C2O rules and authority.
-- **C2O Spirit Continuity Alchemy** — ensures applicable private application Spirit structures, declared purposes, and authorized continuity arrangements can be restored after interruption.
-- **Open Connection Alchemy** — structures public application relationships and linkages through documented, inspectable, and permission-bounded interfaces.
-- **Open Animation Alchemy** — governs public application activation and coordination under declared requirements and transparent contracts.
-- **Open Higher Purpose Alchemy** — organizes public application direction and declared objectives under documented purposes, transparent rules, and open contracts.
-
-#### Additional Expression Detail — OS Edition Mapping
-
-The OS-level expression of Spirit organizes unity, functional animation, direction, ethos, higher purpose, and transcendence for authorized system use while remaining recoverable, accountable, and distinct across the two intelligences.
-
-- **C2O Operating System Spirit expression:** Private-source organization of Spirit qualities under internal governance. It supports private directional coherence, internal principles and ethos, authorized functional activation, and company-source integration while preserving protected purpose structures, records, policies, and implementation.
-- **UNIVERSALIS Operating System Spirit expression:** Public-source organization of Spirit qualities under open contracts. It supports declared direction, documented principles and ethos, transparent functional contracts, inspectable integration, and independently verifiable continuity without dependence on C2O private-source records or controls.
-
-These edition-specific expressions remain mappable through Spirit Mapping Alchemy without collapsing private and public purpose structures, implementation, records, governance, or operational authority.
+Definitions, applicability, authorization, availability, implementation, active operation, outcome, and verification are separate claims. Establishing Elemental Alchemy — Spirit or placing it within a context does not prove that a particular function, capability, implementation, or result exists.
 
 ---
-
 ## Secondary Elemental Alchemies
 
 These are specialized expressions of the root Alchemy for the Secondary Elements that arise from stable Primary intersections. Each remains distinct and keeps C2O (FatherThread / private) and UNIVERSALIS (MotherThread / public) mapped without collapse.
