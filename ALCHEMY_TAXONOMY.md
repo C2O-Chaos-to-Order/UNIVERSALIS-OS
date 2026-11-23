@@ -9053,6 +9053,76 @@ The bounded process that organizes the qualities of Clay/Mud (plasticity, bindin
 Private-source organization of Clay/Mud qualities under internal governance. Used for private formative binding and company-source plasticity.
 Public-source organization of Clay/Mud qualities under open contracts. Used for transparent formative contracts and independently verifiable plasticity.
 
+
+### 1.1 Universal Application of Elemental Alchemy — Clay / Mud
+
+Elemental Alchemy — Clay / Mud applies across the canonical 22 ecosystem contexts below. The context registry is authoritative; each entry describes the relevant scope without implying that a capability has been implemented or that the C2O and UNIVERSALIS editions share private governance, source visibility, or authority.
+
+#### Canonical 22-Context Applicability
+
+1. **C2O Operating System** — governs private OS-level plasticity, formative binding, retained state, and recovery under C2O internal governance.
+2. **UNIVERSALIS Operating System** — governs OS-level Clay / Mud structures through open contracts, inspectable formative rules, and independently verifiable retention and recovery.
+3. **C2O Intelligence** — organizes private intelligence-side formative models and adaptable structures while preserving provenance, internal boundaries, and accountable revision.
+4. **UNIVERSALIS Intelligence** — organizes intelligence-side formative models under public contracts, with inspectable transformation criteria and reproducible evidence where disclosure is appropriate.
+5. **C2O Application** — governs private application-level shaping of data, workflows, interfaces, and retained application state under company rules.
+6. **UNIVERSALIS Application** — governs public application-level shaping through open contracts, transparent state transitions, and independently reviewable recovery behavior.
+7. **C2O Operating System - UNIVERSALIN** — bounds OS-hosted, non-personal UNIVERSALIN assistant configuration and adaptive structures within the private OS authority and permission model.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — bounds OS-hosted, non-personal UNIVERSALIN assistant configuration through public interfaces and independently operable OS contracts.
+9. **C2O Application - UNIVERSALIN** — governs private application-hosted, non-personal UNIVERSALIN assistant structures, including application-specific configuration and recoverable working state.
+10. **UNIVERSALIS Application - UNIVERSALIN** — governs public application-hosted, non-personal UNIVERSALIN assistant structures through open, inspectable application contracts.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — bounds subordinate intelligence-related functions of OS-hosted UNIVERSALIN assistants; it does not create another core intelligence or grant authority beyond the C2O OS context.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — bounds subordinate intelligence-related functions of OS-hosted UNIVERSALIN assistants through public contracts, without creating another core intelligence or requiring C2O dependencies.
+13. **C2O Application - UNIVERSALIN Intelligence** — governs subordinate intelligence-related functions of application-hosted UNIVERSALIN assistants within private application permissions, provenance, and recovery controls.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — governs subordinate intelligence-related functions of application-hosted UNIVERSALIN assistants through independently inspectable public application contracts.
+15. **C2O Operating System - UNIVERSALIN Guardian** — supports private OS-level structures used by a human-bound Guardian only within the designated human's authority, consent, autonomy, privacy, and permissions.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — supports public OS-level Guardian interfaces and structures while keeping each Guardian bound to its designated human's authority, consent, autonomy, privacy, and permissions.
+17. **C2O Application - UNIVERSALIN Guardian** — governs private application-level structures used by a human-bound Guardian, with purpose limitation and the designated human's control over shaping, retention, and disclosure.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — governs public application-level Guardian structures through open contracts while preserving the designated human's authority, consent, autonomy, privacy, and boundaries.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — bounds subordinate intelligence-related functions supporting an OS-hosted Guardian; those functions remain subject to the designated human's authority and do not become an independent intelligence or decision authority.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — defines publicly inspectable OS contracts for subordinate Guardian intelligence-related functions, without weakening human control or introducing C2O private dependencies.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — bounds subordinate intelligence-related functions supporting an application-hosted Guardian within private permissions, purpose limits, and human-directed controls.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — defines open application contracts for subordinate Guardian intelligence-related functions while preserving human authority, consent, privacy, and independent operation.
+
+#### Additional Expression Applicability — C2O-App Secondary and C2O-OS Edition Mapping
+
+The C2O-App Secondary expression (Malleability Alchemy, Potential Form Alchemy, Receptivity Alchemy, and Foundation Alchemy) describes application-oriented shaping capacities. Its private expressions (Private Malleability Alchemy, Private Potential Form Alchemy, Private Receptivity Alchemy, and C2O Clay Continuity Alchemy) apply within C2O governance. Its public counterparts (Open Malleability Alchemy, Open Potential Form Alchemy, Open Receptivity Alchemy, and UNIVERSALIS Clay Continuity Alchemy) apply under UNIVERSALIS open contracts. Clay Mapping Alchemy aligns corresponding structures without merging their governance or disclosure boundaries.
+
+Across the 22 contexts, these additional expressions apply as follows:
+
+1. **C2O Operating System** — private OS foundation and formative constraints govern which structures may be shaped, retained, and restored.
+2. **UNIVERSALIS Operating System** — public OS foundation contracts define inspectable constraints for shaping, retention, and restoration.
+3. **C2O Intelligence** — private malleability and potential-form processes support bounded adaptation while retaining provenance and internal accountability.
+4. **UNIVERSALIS Intelligence** — open malleability and potential-form contracts support reviewable adaptation and reproducible transformation records.
+5. **C2O Application** — private application workflows use malleability, potential form, receptivity, and foundation to shape data and interfaces within authorized boundaries.
+6. **UNIVERSALIS Application** — public application workflows expose the relevant shaping contracts and state transitions for independent review.
+7. **C2O Operating System - UNIVERSALIN** — private OS configuration shapes non-personal assistant capabilities within explicit system limits.
+8. **UNIVERSALIS Operating System - UNIVERSALIN** — public OS contracts describe assistant configuration and its bounded formative capabilities.
+9. **C2O Application - UNIVERSALIN** — private application configuration shapes non-personal assistant workflows and recoverable state under application permissions.
+10. **UNIVERSALIS Application - UNIVERSALIN** — public application contracts describe assistant workflow shaping, retained state, and recovery.
+11. **C2O Operating System - UNIVERSALIN Intelligence** — private constraints bound subordinate assistant adaptation and prevent formative flexibility from expanding authority.
+12. **UNIVERSALIS Operating System - UNIVERSALIN Intelligence** — public constraints make subordinate assistant adaptation inspectable without elevating it to a core intelligence.
+13. **C2O Application - UNIVERSALIN Intelligence** — private application rules bound subordinate assistant adaptation, retained working structures, and revision.
+14. **UNIVERSALIS Application - UNIVERSALIN Intelligence** — open application contracts specify subordinate assistant adaptation and its reviewable limits.
+15. **C2O Operating System - UNIVERSALIN Guardian** — private OS structures may support human-directed Guardian personalization only within consented purposes and permissions.
+16. **UNIVERSALIS Operating System - UNIVERSALIN Guardian** — public OS interfaces support human-directed Guardian configuration with transparent boundaries and user control.
+17. **C2O Application - UNIVERSALIN Guardian** — private application shaping remains limited to the designated human's authorized purposes, preferences, and retention choices.
+18. **UNIVERSALIS Application - UNIVERSALIN Guardian** — public application shaping remains transparent and controlled by the designated human.
+19. **C2O Operating System - UNIVERSALIN Guardian Intelligence** — private subordinate adaptation remains assistive, bounded, and human-directed; it cannot independently redefine Guardian authority.
+20. **UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence** — public contracts make subordinate adaptation reviewable while preserving the designated human's control.
+21. **C2O Application - UNIVERSALIN Guardian Intelligence** — private application-level adaptation remains within explicit human-granted permissions and purpose limits.
+22. **UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence** — open application contracts expose subordinate adaptation boundaries and preserve human direction.
+
+### Elemental Alchemy — Clay / Mud Structural and Applicability Requirements
+
+- **Plasticity and Form Requirements:** Clay Plasticity Alchemy and Malleability Alchemy must produce bounded, addressable forms. Adaptability must not erase entity identity, provenance, ownership, authorization, or the distinction between a proposed form and an accepted form.
+- **Retention Requirements:** Mud Retention Alchemy and Potential Form Alchemy must distinguish retained state, provisional form, and unformed potential. Retention must have an explicit scope, lifecycle, and recovery behavior; retained moisture is a conceptual property, not an excuse for indefinite or unbounded data retention.
+- **Receptivity Requirements:** Receptivity Alchemy must permit authorized input without treating openness as universal access, consent, trust, or permission. Inputs remain subject to validation and source attribution.
+- **Foundation Requirements:** Foundation Alchemy must preserve the base constraints on which a form depends. A changed foundation requires impact assessment and an attributable record; dependent structures must not silently inherit invalid assumptions.
+- **Edition and Mapping Requirements:** Private C2O expressions remain governed by C2O internal rules and are not made public by mapping. UNIVERSALIS expressions remain governed by open contracts and must be independently operable without C2O private implementation, policies, keys, or records. Clay Mapping Alchemy aligns corresponding concepts and contracts without collapsing edition boundaries.
+- **Continuity and Accountability Requirements:** C2O Clay Continuity Alchemy and UNIVERSALIS Clay Continuity Alchemy must support restoration after interruption with edition-appropriate evidence. Records should identify the prior and resulting form, source, authority, transformation, retention scope, validation, interruption, recovery, limitations, and outcome.
+- **Human-Bound Guardian Requirements:** Guardian-related shaping and retention remain under the designated human's authority, consent, autonomy, privacy, purpose, permissions, and boundaries. No Guardian expression or subordinate Guardian intelligence-related function may convert malleability or receptivity into independent authority.
+- **Evidence and Status Requirements:** Taxonomy inclusion establishes a conceptual mapping only. It does not establish implementation, operational capability, successful recovery, authorization, or verified outcome. Proposed, documented, implemented, tested, verified, failed, and unresolved states must remain distinguishable.
+
 ### Elemental Alchemy — Smoke / Ash
 
 **Elemental Alchemy — Smoke / Ash**  
