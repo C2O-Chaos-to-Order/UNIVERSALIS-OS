@@ -2991,42 +2991,217 @@ All applications must remain consistent with environmental science principles, e
 
 ### 15. Earth, Space, and Planetary Sciences Alchemy
 
-**Earth, Space, and Planetary Sciences Alchemy** is the bounded process that organizes, studies, observes, models, explores, and transforms knowledge concerning Earth, planetary bodies, geological structures, hydrological systems, geophysical processes, and the wider space environment. It enables individuals and societies to understand the formation, composition, structure, behavior, and evolution of Earth and other celestial bodies while maintaining scientific rigor, observational integrity, spatial accuracy, and accountability.
+**Earth, Space, and Planetary Sciences Alchemy** is the bounded process by which knowledge concerning Earth, planetary bodies, geological structures, hydrological systems, geophysical processes, and the wider space environment is identified, classified, organized, studied, observed, measured, modeled, explored, interpreted, maintained, and transformed.
 
-It encompasses the geological, hydrological, geophysical, cartographic, observational, astronomical, planetary, and astrobiological disciplines concerned with Earth and the physical environments beyond it. Every specialized Earth, Space, and Planetary Sciences Alchemy remains an expression of the root Alchemy.
+It governs the scientific, observational, analytical, spatial, technological, and exploratory structures, methods, relationships, and processes through which Earth and other celestial bodies are investigated and understood. It enables individuals, groups, institutions, and scientific systems to examine the formation, composition, structure, behavior, interactions, and evolution of Earth and other celestial bodies while maintaining scientific rigor, observational integrity, spatial accuracy, methodological transparency, and accountability.
 
-#### 1. Geological and Geophysical Sciences Alchemies
+Earth, Space, and Planetary Sciences Alchemy encompasses the geological, hydrological, geophysical, cartographic, observational, astronomical, planetary, and astrobiological disciplines concerned with Earth and the physical environments beyond it. It establishes a structured foundation for understanding planetary materials, geological formations, physical processes, water systems, geographic features, remote observations, celestial phenomena, planetary environments, and the conditions relevant to the origin and possibility of life beyond Earth.
 
-- **Geology Alchemy** — organizes the study of Earth's materials, structure, composition, history, formation, and geological processes, including rocks, minerals, tectonics, landforms, and the evolution of the planet.
-- **Volcanology Alchemy** — organizes the study, observation, modeling, and interpretation of volcanoes, volcanic materials, magma systems, eruptions, and associated geological processes and hazards.
-- **Seismology Alchemy** — organizes the study, measurement, analysis, and interpretation of seismic waves, earthquakes, Earth's internal structure, tectonic activity, and related geophysical processes.
+It also establishes how observations, measurements, spatial representations, scientific models, exploratory activities, and derived findings are coordinated while preserving the distinctions between direct observation, instrument measurement, sample analysis, remote sensing, mathematical modeling, simulation, scientific interpretation, and established findings.
 
-#### 2. Hydrological Sciences Alchemies
+Earth, Space, and Planetary Sciences Alchemy must preserve the accuracy, provenance, spatial and temporal context, resolution, reliability, and appropriate interpretation of scientific information and evidence. Observations, samples, measurements, imagery, maps, geographic datasets, instrument readings, models, simulations, forecasts, mission records, geological interpretations, and scientific findings must remain distinguishable wherever relevant. Their sources, instruments, collection methods, locations, reference systems, observation times, measurement conditions, calibration information, analytical methods, assumptions, uncertainty, limitations, modifications, and applicable permissions must be represented accurately.
 
-- **Hydrology Alchemy** — organizes the study of the occurrence, distribution, movement, storage, and properties of water across Earth's surface, subsurface, atmosphere, and interconnected hydrological systems.
+It must preserve the distinction between observed physical conditions, measured properties, derived measurements, modeled estimates, inferred structures, projected scenarios, scientific hypotheses, proposed explanations, and independently supported conclusions. A modeled planetary structure must not be represented as directly observed when it is inferred from indirect evidence. A remotely sensed feature must not be represented as a fully characterized physical condition without appropriate validation. Scientific interpretations must remain traceable to their supporting observations, measurements, models, and methods.
 
-#### 3. Geographic Representation and Earth Observation Alchemies
+Earth, Space, and Planetary Sciences Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support geographic information, spatial representation, environmental and geological data organization, Earth observation, infrastructure awareness, scientific research, planetary information, astronomical data, simulation, exploratory knowledge, geospatial analysis, and other authorized scientific and informational activities relevant to each context.
 
-- **Cartography Alchemy** — organizes the design, creation, interpretation, and maintenance of maps and spatial representations of geographic features, environments, boundaries, and relationships.
-- **Remote Sensing Alchemy** — organizes the acquisition, processing, analysis, and interpretation of information about Earth and other objects or environments through satellite, aerial, electromagnetic, and other remotely operated observation systems.
+Its universal application does not mean that every context conducts geological research, operates observation instruments, explores space, controls spacecraft, collects physical samples, or possesses authority over land, celestial objects, scientific facilities, or space infrastructure. The presence of Earth, space, and planetary science knowledge establishes its classification and possible relevance, not automatic authority to access restricted scientific systems, operate instruments, conduct fieldwork, launch exploratory activities, modify physical environments, or claim scientific discoveries.
 
-#### 4. Space and Planetary Sciences Alchemies
+Every specialized Earth, Space, and Planetary Sciences Alchemy remains an expression of the root Alchemy. Its subject, purpose, methods, principles, relationships, requirements, and boundaries must remain identifiable while allowing specialized geological, hydrological, geophysical, cartographic, remote-sensing, astronomical, planetary, astrobiological, and cross-disciplinary methods to integrate into larger scientific systems.
 
-- **Space Science Alchemy** — organizes the study and observation of space environments, celestial phenomena, astronomical objects, radiation, fields, particles, and physical processes occurring beyond Earth's atmosphere.
-- **Planetary Exploration Alchemy** — organizes the observation, investigation, mapping, measurement, and exploration of planets, moons, asteroids, comets, and other planetary bodies through ground-based instruments, spacecraft, robotic missions, and other exploratory systems.
-- **Astrobiology Alchemy** — organizes the interdisciplinary study of the origin, evolution, distribution, conditions, and potential existence of life in the universe, including the relationship between life and planetary environments.
+#### 15.1 Universal Application of Earth, Space, and Planetary Sciences Alchemy
 
-#### 5. Cross-Disciplinary Earth, Space, and Planetary Relationships
+Earth, Space, and Planetary Sciences Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
 
-These specializations coordinate the preceding disciplines without replacing or collapsing their individual identities.
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
 
-- **Earth Systems Integration Alchemy** — coordinates geological, hydrological, atmospheric, geophysical, and other Earth processes to understand their interactions and dependencies.
-- **Geospatial Integration Alchemy** — coordinates cartographic information, geographic data, spatial measurements, and remotely sensed observations into coherent spatial representations and analytical systems.
-- **Geophysical Observation Alchemy** — coordinates measurement, sensing, modeling, and interpretation of physical processes and structures within Earth and other planetary bodies.
-- **Planetary Systems Integration Alchemy** — coordinates the study of planetary composition, geology, atmospheres, surfaces, interiors, orbital environments, and evolutionary processes.
-- **Celestial Observation and Mapping Alchemy** — organizes the observation, measurement, classification, and spatial representation of celestial objects and their environments.
-- **Planetary Habitability Alchemy** — organizes the evaluation of physical, chemical, geological, and environmental conditions that may support or sustain life on planetary bodies.
-- **Earth and Planetary Continuity Alchemy** — organizes the preservation, accessibility, integrity, and long-term continuity of geological, geographic, planetary, and exploratory observations, records, and datasets.
+Within these contexts, Earth, Space, and Planetary Sciences Alchemy governs the appropriate organization, representation, observation, measurement, analysis, interpretation, accessibility, preservation, and application of Earth, space, and planetary science knowledge.
+
+Its context-specific expressions include:
+
+- **Operating System Contexts:** Earth, space, and planetary science knowledge may support geographic and spatial information interfaces, location-related system functions, coordinate representation, mapping capabilities, scientific data presentation, instrument-data interfaces, and other authorized functions involving spatial or planetary information. Its application must preserve coordinate accuracy, measurement context, data provenance, temporal relevance, and the distinction between displaying scientific information and controlling physical or external observation systems. Operating system capabilities must not be represented as independent authority to access restricted location data, operate scientific instruments, or control external infrastructure.
+
+- **Core Intelligence Contexts:** Earth, space, and planetary science knowledge may support scientific reasoning, geological and geophysical analysis, hydrological interpretation, spatial reasoning, remote-sensing analysis, astronomical information, planetary science, and the integration of scientific observations and models. C2O Intelligence and UNIVERSALIS Intelligence must apply these capabilities within their distinct responsibilities, governance arrangements, source boundaries, and operational authorities. Their analyses must distinguish observed evidence, instrument measurements, source data, model outputs, scientific interpretations, hypotheses, and independently supported findings.
+
+- **Application Contexts:** Earth, space, and planetary science knowledge may support geographic information systems, mapping software, spatial analysis, scientific visualization, remote-sensing applications, geological databases, hydrological tools, astronomical resources, planetary datasets, mission information, and other authorized scientific workflows. Applications must preserve source attribution, coordinate systems, spatial and temporal reference information, measurement conditions, data integrity, version history, processing methods, and applicable permissions. Their ability to visualize or analyze spatial and scientific information does not automatically grant authority to access restricted datasets, operate instruments, control spacecraft, or conduct physical exploration.
+
+- **UNIVERSALIN Assistant Contexts:** Earth, space, and planetary science knowledge may support assigned scientific research, geographic information retrieval, mapping assistance, data organization, scientific explanation, observation analysis, technical documentation, spatial reasoning, and other authorized functions within operating system and application boundaries. Assistants must distinguish between observed measurements, remotely acquired information, source records, derived data, modeled estimates, scientific interpretations, hypotheses, and generated explanations. They must not presume authority to access restricted scientific data, operate physical instruments, conduct exploratory activities, or make commitments on behalf of research institutions.
+
+- **UNIVERSALIN Intelligence Contexts:** Earth, space, and planetary science knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through scientific analysis, geospatial reasoning, geological interpretation, astronomical information processing, planetary knowledge integration, and the analysis of exploratory records. These contexts do not constitute additional core intelligences or establish independent authority to represent scientific institutions, claim discoveries, operate spacecraft or observatories, access restricted scientific systems, or make decisions on behalf of research organizations.
+
+- **UNIVERSALIN Guardian Contexts:** Earth, space, and planetary science knowledge may support the authorized personal, informational, organizational, and assistance capabilities of human-bound Guardians. Its application may support geographic information, personal spatial organization, location-related knowledge, scientific learning, research assistance, and human-directed exploration planning. Guardians must preserve the human's autonomy, privacy, consent, location confidentiality, interests, and authority over personal information and activities. They must not independently disclose personal location information, access restricted spatial records, or make commitments involving land, facilities, scientific equipment, or exploratory activities beyond their authorized scope.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Earth, space, and planetary science knowledge may support spatial reasoning, geospatial interpretation, scientific research assistance, geological and planetary information analysis, and other human-directed capabilities within the human's authorized scope and applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human's location information, scientific activities, property, research decisions, or relationships with research institutions. The human retains authority over personal information, scientific interests, and authorized Guardian activities.
+
+The specific applicability of each geological, hydrological, geophysical, cartographic, remote-sensing, space-science, planetary-exploration, astrobiological, and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
+
+#### Alchemies under Earth, Space, and Planetary Sciences Alchemy
+
+##### 1. Geological and Geophysical Sciences Alchemies
+
+- **Geology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning Earth's materials, structure, composition, history, formation, and geological processes, including rocks, minerals, tectonics, landforms, and the evolution of the planet. It establishes methods for identifying and classifying geological materials, examining geological structures, interpreting formations, analyzing geological histories, and investigating processes that shape Earth while preserving the distinction between collected samples, direct observations, laboratory measurements, geological models, inferred structures, and scientific interpretations.
+
+- **Volcanology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the study, observation, modeling, and interpretation of volcanoes, volcanic materials, magma systems, eruptions, and associated geological processes and hazards. It establishes methods for examining volcanic structures, magma behavior, eruption characteristics, volcanic deposits, monitoring measurements, and associated hazards while preserving observation provenance, measurement conditions, model assumptions, uncertainty, and the distinction between observed volcanic activity, inferred processes, and projected hazards.
+
+- **Seismology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the study, measurement, analysis, and interpretation of seismic waves, earthquakes, Earth's internal structure, tectonic activity, and related geophysical processes. It establishes methods for examining seismic signals, earthquake characteristics, wave propagation, geological structures, monitoring networks, and geophysical interpretations while preserving instrument calibration, measurement context, location and timing accuracy, analytical assumptions, uncertainty, and the distinction between observed seismic events and inferred subsurface conditions.
+
+##### 2. Hydrological Sciences Alchemies
+
+- **Hydrology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the study of the occurrence, distribution, movement, storage, and properties of water across Earth's surface, subsurface, atmosphere, and interconnected hydrological systems. It establishes methods for examining precipitation, surface water, groundwater, drainage, infiltration, evaporation, water movement, storage, and hydrological interactions while preserving spatial and temporal context, measurement accuracy, water-system boundaries, and the distinctions between observed water conditions, modeled flows, estimated availability, and projected hydrological behavior.
+
+##### 3. Geographic Representation and Earth Observation Alchemies
+
+- **Cartography Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the design, creation, interpretation, and maintenance of maps and spatial representations of geographic features, environments, boundaries, and relationships. It establishes methods for representing geographic information, coordinate systems, map projections, scale, symbols, spatial relationships, boundaries, and mapped features while preserving positional accuracy, source provenance, reference systems, data resolution, and the distinctions between observed features, interpreted boundaries, generalized representations, and modeled geographic information.
+
+- **Remote Sensing Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the acquisition, processing, analysis, and interpretation of information about Earth and other objects or environments through satellite, aerial, electromagnetic, and other remotely operated observation systems. It establishes methods for coordinating sensor observations, electromagnetic measurements, image processing, feature classification, spatial analysis, and multi-temporal interpretation while preserving sensor characteristics, acquisition conditions, calibration, resolution, processing history, uncertainty, and the distinction between remotely acquired signals and independently verified physical conditions.
+
+##### 4. Space and Planetary Sciences Alchemies
+
+- **Space Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the study and observation of space environments, celestial phenomena, astronomical objects, radiation, fields, particles, and physical processes occurring beyond Earth's atmosphere. It establishes methods for examining astronomical observations, space environments, radiation, magnetic and gravitational fields, particles, celestial objects, and other physical phenomena while preserving observational provenance, instrument characteristics, reference frames, measurement conditions, and the distinction between observations, theoretical models, and scientific interpretations.
+
+- **Planetary Exploration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the observation, investigation, mapping, measurement, and exploration of planets, moons, asteroids, comets, and other planetary bodies through ground-based instruments, spacecraft, robotic missions, and other exploratory systems. It establishes methods for organizing mission objectives, exploratory observations, surface and subsurface measurements, planetary mapping, instrument data, sample investigations, and mission records while preserving mission provenance, instrument limitations, spatial and temporal context, operational constraints, and the distinction between direct measurements, remotely acquired information, inferred conditions, and exploratory hypotheses.
+
+- **Astrobiology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the interdisciplinary study of the origin, evolution, distribution, conditions, and potential existence of life in the universe, including the relationship between life and planetary environments. It establishes methods for examining biological origins, prebiotic chemistry, terrestrial life in extreme environments, planetary habitability, biosignature research, and the conditions that may be relevant to life beyond Earth while preserving the distinction between known terrestrial life, theoretical possibilities, potential biosignatures, ambiguous observations, and confirmed evidence of extraterrestrial life.
+
+##### 5. Cross-Disciplinary Earth, Space, and Planetary Sciences Alchemies
+
+These specialized Alchemies coordinate the preceding geological, hydrological, geophysical, cartographic, remote-sensing, space-science, planetary-exploration, and astrobiological disciplines without replacing or collapsing their individual identities. Their relationships must preserve distinctions between planetary structures, physical processes, spatial representation, observational methods, scientific interpretation, exploratory activities, and the continuity of scientific knowledge.
+
+- **Earth Systems Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between geological, hydrological, atmospheric, geophysical, and other Earth processes to understand their interactions and dependencies. It establishes methods for coordinating Earth-system observations, models, physical processes, material and energy exchanges, and relationships between interacting Earth systems while preserving the distinct characteristics, causal relationships, evidence, temporal scales, and boundaries of each contributing system.
+
+- **Geospatial Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between cartographic information, geographic data, spatial measurements, and remotely sensed observations into coherent spatial representations and analytical systems. It establishes methods for coordinating spatial reference systems, geographic datasets, map information, remote observations, coordinate transformations, spatial relationships, and geospatial analysis while preserving positional accuracy, source provenance, resolution, temporal context, and the distinctions between original observations and derived spatial representations.
+
+- **Geophysical Observation Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the measurement, sensing, modeling, and interpretation of physical processes and structures within Earth and other planetary bodies. It establishes methods for coordinating physical measurements, observational instruments, geophysical datasets, analytical methods, and model-based interpretations while preserving instrument characteristics, calibration, measurement conditions, reference systems, uncertainty, and the distinction between directly measured properties and inferred physical structures.
+
+- **Planetary Systems Integration Alchemy** — organizes, examines, maintains, integrates, develops, and transforms relationships between planetary composition, geology, atmospheres, surfaces, interiors, orbital environments, and evolutionary processes. It establishes methods for coordinating planetary observations, geological evidence, physical measurements, atmospheric information, orbital characteristics, planetary models, and comparative planetary analysis while preserving the distinct properties, evidence, assumptions, and limitations associated with each planetary system and its components.
+
+- **Celestial Observation and Mapping Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the observation, measurement, classification, and spatial representation of celestial objects and their environments. It establishes methods for organizing astronomical observations, object classification, celestial coordinate systems, reference frames, positional measurements, orbital information, and celestial mapping while preserving observational provenance, measurement precision, instrument characteristics, temporal context, and the distinctions between measured positions, calculated trajectories, and modeled celestial relationships.
+
+- **Planetary Habitability Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the evaluation of physical, chemical, geological, and environmental conditions that may support or sustain life on planetary bodies. It establishes methods for examining planetary environments, temperature conditions, liquid water potential, atmospheric characteristics, chemical availability, radiation exposure, geological activity, and other habitability factors while preserving the distinction between potentially life-supporting conditions, demonstrated habitability, evidence of past or present life, and confirmed detection of life.
+
+- **Earth and Planetary Continuity Alchemy** — organizes, examines, maintains, integrates, develops, and transforms the preservation, accessibility, integrity, and long-term continuity of geological, geographic, planetary, and exploratory observations, records, and datasets. It establishes methods for preserving observation histories, measurement records, scientific datasets, maps, mission documentation, instrument information, spatial and temporal reference data, and associated analytical records while preserving provenance, original observations, processing history, version integrity, uncertainty, appropriate access, and the distinction between original records and subsequently reconstructed or interpreted information.
+
+### 15.2 Earth, Space, and Planetary Sciences Structural and Applicability Requirements
+
+Every subordinate Alchemy under Earth, Space, and Planetary Sciences Alchemy must retain its own defined subject, purpose, methods, principles, scientific requirements, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+Earth, Space, and Planetary Sciences Alchemy must preserve the distinctions between its constituent disciplines and their respective subjects, methods, observational foundations, physical processes, spatial requirements, and scientific responsibilities. Relationships between geology, volcanology, seismology, hydrology, cartography, remote sensing, space science, planetary exploration, astrobiology, and the cross-disciplinary Alchemies must be established without collapsing their distinct subjects or treating their methods as interchangeable.
+
+It must also preserve the distinctions between:
+
+- Earth, planetary bodies, celestial objects, space environments, geological structures, hydrological systems, and other physical environments.
+- Geological materials, mineral composition, rock formations, tectonic structures, landforms, geological history, and geological processes.
+- Volcanic structures, magma systems, volcanic materials, eruption observations, volcanic models, and associated geological hazards.
+- Seismic waves, earthquake observations, seismic measurements, tectonic activity, wave propagation, and inferred internal structures.
+- Surface water, groundwater, precipitation, atmospheric water, water storage, hydrological movement, and interconnected hydrological processes.
+- Geographic features, spatial coordinates, coordinate reference systems, map projections, scales, boundaries, spatial relationships, and cartographic representations.
+- Direct observation, instrument measurement, physical sampling, remote sensing, derived data, model outputs, and scientific interpretation.
+- Satellite observations, aerial observations, electromagnetic measurements, remotely sensed imagery, processed imagery, classified features, and independently verified physical conditions.
+- Astronomical observations, celestial objects, space environments, radiation, fields, particles, orbital characteristics, and other space-related physical phenomena.
+- Planetary surfaces, interiors, atmospheres, geological conditions, orbital environments, planetary composition, and evolutionary processes.
+- Planetary observation, robotic exploration, spacecraft operations, ground-based instruments, remote investigations, physical sampling, and mission-derived information.
+- Known terrestrial life, prebiotic chemistry, potential biosignatures, habitability conditions, hypothetical biological possibilities, and confirmed evidence of extraterrestrial life.
+- Planetary habitability, environmental suitability, potential biological conditions, evidence of past or present life, and confirmed detection of life.
+- Observed physical properties, measured values, derived quantities, inferred structures, scientific hypotheses, model estimates, and established scientific findings.
+- Spatial accuracy, measurement precision, instrument calibration, reference frames, data resolution, temporal coverage, uncertainty, and methodological limitations.
+- Scientific models, simulations, forecasts, exploratory hypotheses, calculated trajectories, projected conditions, and directly observed results.
+- Original observations, processed measurements, transformed datasets, derived maps, reconstructed records, and subsequent interpretations.
+- Geological field observations, laboratory sample analysis, remote observations, instrument readings, scientific models, and independently supported conclusions.
+- Scientific discovery, evidence collection, hypothesis formation, theoretical explanation, model development, validation, and established findings.
+- Environmental and geographic information, restricted location records, private property information, sensitive spatial datasets, and authorized access.
+- Shared scientific foundations, context-specific implementations, C2O private-source governance boundaries, and UNIVERSALIS public-source governance and independent operability.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Earth, Space, and Planetary Sciences Alchemy and each subordinate geological, hydrological, geophysical, cartographic, remote-sensing, space-science, planetary-exploration, astrobiological, and cross-disciplinary Alchemy.
+- The parent–subordinate relationships between Earth, Space, and Planetary Sciences Alchemy, its five specialized groups, and their respective Alchemies.
+- The relationships between Earth, space, and planetary science disciplines and relevant physical sciences, environmental sciences, life sciences, engineering and technology, computer and information sciences, mathematics, astronomy-related knowledge structures, and other knowledge-domain structures.
+- The connections between Earth, space, and planetary science knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, instruments, scientific resources, spatial relationships, information relationships, and connections between Earth, space, and planetary science disciplines and other Alchemies.
+- The distinctions between geological and geophysical sciences, hydrological sciences, geographic representation and Earth observation, space and planetary sciences, and cross-disciplinary Earth, space, and planetary methods.
+- The relationships between Earth's materials, geological structures, tectonic processes, volcanic systems, seismic activity, landforms, and geological history.
+- The relationships between hydrological processes, precipitation, surface water, groundwater, atmospheric water, drainage, storage, and water movement.
+- The relationships between geographic features, coordinate systems, map projections, cartographic representations, spatial measurements, remote observations, and geospatial datasets.
+- The relationships between remote-sensing instruments, sensor characteristics, electromagnetic observations, image processing, feature classification, ground-based validation, and derived spatial information.
+- The relationships between space environments, celestial objects, astronomical measurements, radiation, magnetic and gravitational fields, particles, and associated physical processes.
+- The relationships between planetary composition, geological structures, surfaces, interiors, atmospheres, orbital environments, planetary evolution, and exploratory observations.
+- The relationships between planetary exploration objectives, spacecraft and robotic systems, ground-based instruments, mission operations, measurements, samples, scientific datasets, and mission records.
+- The relationships between astrobiology, planetary environments, prebiotic chemistry, biological processes, biosignature research, and planetary habitability assessments.
+- The relationships between Earth Systems Integration Alchemy, Geospatial Integration Alchemy, Geophysical Observation Alchemy, Planetary Systems Integration Alchemy, Celestial Observation and Mapping Alchemy, Planetary Habitability Alchemy, and Earth and Planetary Continuity Alchemy.
+- The relationships between scientific observations, physical measurements, models, simulations, spatial representations, interpretations, and verified findings.
+- The relationships between geographic and planetary reference systems, measurement standards, instrument calibration, spatial resolution, temporal coverage, and analytical methods.
+- The relationships between Earth and planetary science knowledge, environmental sciences, climate systems, ecological conditions, engineering systems, infrastructure, and other relevant scientific and applied domains.
+- The relationships between shared Earth, space, and planetary science foundations and context-specific implementations while preserving the distinct private-source governance and operational boundaries of C2O and the public-source governance and independent operability of UNIVERSALIS.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each geological, hydrological, geophysical, cartographic, remote-sensing, space-science, planetary-exploration, astrobiological, and subordinate Alchemy.
+- The specific scientific, observational, measurement, spatial, analytical, modeling, exploratory, interpretive, and continuity functions associated with each applicable context.
+- The scientific knowledge, observational requirements, instruments, sensors, samples, spatial data, coordinate systems, analytical methods, models, technical capabilities, contextual requirements, and dependencies required for those functions.
+- Whether an application involves geology, volcanology, seismology, hydrology, cartography, remote sensing, space science, planetary exploration, astrobiology, Earth systems integration, geospatial integration, geophysical observation, planetary systems integration, celestial observation and mapping, planetary habitability, or Earth and planetary continuity.
+- Whether an application concerns Earth materials, geological structures, volcanic systems, seismic processes, water systems, geographic features, remotely sensed observations, celestial objects, space environments, planetary bodies, planetary conditions, or astrobiological evidence.
+- Whether an application involves field observation, physical sampling, laboratory measurement, instrument monitoring, remote sensing, spatial mapping, data processing, scientific modeling, simulation, exploratory investigation, hypothesis evaluation, or long-term preservation.
+- The actual capabilities, supported interfaces, instruments, sensors, observation systems, scientific datasets, software, spatial resources, analytical tools, spacecraft or robotic systems, and dependencies required to implement or operate a scientific function.
+- The geographic, spatial, temporal, planetary, observational, instrument-related, and analytical boundaries applicable to each scientific investigation, dataset, model, or exploratory activity.
+- The provenance, source, collection method, instrument, calibration information, observation date, location, reference frame, coordinate system, spatial resolution, temporal resolution, sample characteristics, analytical method, uncertainty, limitations, modifications, and applicable permissions associated with scientific information.
+- The distinctions between direct physical observations, laboratory measurements, remote-sensing observations, derived measurements, modeled estimates, inferred structures, scientific hypotheses, and independently supported conclusions.
+- The dependencies between geological, hydrological, geophysical, atmospheric, planetary, astronomical, and other physical processes and their respective observation and analysis requirements.
+- The relationships between spatial datasets, map representations, coordinate reference systems, projections, remote-sensing data, geographic features, and derived spatial analyses.
+- The relationships between celestial observations, instrument measurements, reference frames, positional calculations, orbital models, and representations of celestial objects and their environments.
+- The relationships between planetary observations, exploration instruments, mission records, collected samples, surface and subsurface measurements, and planetary interpretations.
+- The conditions under which scientific observations, instrument measurements, physical samples, remote-sensing data, spatial representations, models, or analytical findings require calibration, validation, independent verification, additional measurement, or expert review.
+- The requirements for identifying observational uncertainty, instrument limitations, data gaps, geographic and temporal coverage, spatial resolution, sampling limitations, model assumptions, and other constraints affecting scientific conclusions.
+- The conditions under which remote-sensing results or inferred geological and planetary structures require independent observational or physical validation before being treated as established findings.
+- The requirements for preserving spatial accuracy, measurement integrity, coordinate reference information, instrument calibration, observational provenance, scientific reproducibility, and methodological transparency.
+- The conditions under which exploratory activities require mission authorization, instrument access permissions, operational safeguards, physical resource controls, scientific review, or other applicable approvals.
+- The conditions under which planetary habitability assessments or astrobiological analyses must distinguish potentially suitable conditions, theoretical possibilities, ambiguous evidence, potential biosignatures, and confirmed biological findings.
+- The relationships between scientific datasets, original observations, processed records, derived representations, model versions, exploratory histories, and long-term continuity requirements.
+- The permissions, ownership, access rights, privacy protections, location confidentiality, research responsibilities, instrument access requirements, and governance boundaries applicable to spatial information, scientific records, observational systems, and exploratory resources.
+- The applicable safeguards against fabricated observations, altered scientific records, false attribution, unsupported discovery claims, misleading spatial representations, misuse of restricted location information, and misrepresentation of scientific uncertainty.
+- The specific responsibilities and limitations associated with Earth, space, and planetary science functions performed by C2O Intelligence, UNIVERSALIS Intelligence, UNIVERSALIN assistants, and personal Guardians.
+
+Earth, Space, and Planetary Sciences Alchemy must not presume that the presence of a scientific discipline in the universal taxonomy grants every context unrestricted access to geographic information, private location records, geological databases, protected spatial datasets, observatory records, satellite data, instrument systems, spacecraft, exploratory infrastructure, physical samples, or external scientific platforms.
+
+The inclusion of Earth, space, and planetary science knowledge within an ecosystem context establishes its place in the knowledge structure, not an automatic implementation, observational capability, scientific discovery, permission to access restricted datasets, authority to operate scientific instruments, or authorization to conduct fieldwork, planetary exploration, or physical intervention.
+
+Scientific observations and information must be handled according to their source, nature, spatial and temporal context, sensitivity, collection conditions, intended purpose, and applicable permissions. Restricted geographic information, private property location data, sensitive observational records, protected scientific datasets, mission information, and other sensitive material must remain subject to applicable privacy, confidentiality, security, access, research, and governance requirements.
+
+Scientific observations, instrument readings, collected samples, remotely sensed signals, processed imagery, derived datasets, model outputs, simulations, hypotheses, interpretations, and established findings must remain distinguishable. Models and simulations must identify relevant assumptions and limitations. Spatial representations must identify appropriate reference systems and accuracy constraints. Scientific conclusions must not exceed the available evidence or conceal material uncertainty, missing observations, methodological limitations, or alternative explanations.
+
+The ability to process spatial information, interpret scientific datasets, or generate exploratory models does not itself establish scientific authority, authorization to conduct research, permission to access restricted instruments, or authority to operate spacecraft, observatories, or other physical systems. Scientific recommendations, exploratory plans, modeled trajectories, and proposed investigations must remain distinguishable from authorized operations, executed activities, and verified results.
+
+Geological, hydrological, geophysical, and planetary interpretations must preserve the distinction between direct observations, indirect evidence, derived measurements, theoretical models, and inferred physical structures. Remote sensing and spatial analysis must account for sensor characteristics, acquisition conditions, calibration, processing methods, coordinate reference systems, and limitations that may affect interpretation.
+
+Astrobiological and planetary habitability research must distinguish the scientific investigation of potentially life-supporting conditions from evidence of actual biological activity. Potential biosignatures, chemical indicators, environmental analogies, theoretical possibilities, and confirmed biological findings must not be conflated. Claims concerning life beyond Earth must remain bounded by the evidence and verification available.
+
+Planetary exploration and scientific observation must remain subject to applicable mission responsibilities, technical constraints, access permissions, safety requirements, and operational authorization. The presence of planetary knowledge or exploratory capabilities does not itself grant authority to control spacecraft, access mission systems, direct physical instruments, or conduct activities involving planetary bodies or space infrastructure.
+
+Scientific continuity must maintain the accuracy, provenance, accessibility, integrity, and appropriate preservation of observations, measurement histories, spatial datasets, scientific models, mission records, and exploratory documentation. Recovered, reconstructed, transferred, or modified scientific records must remain identifiable and must not silently replace original observations or obscure material changes in measurement, processing, or interpretation.
+
+Applications involving personal location information, geographic privacy, private property, research activities, scientific resources, or exploratory decisions must preserve applicable consent, privacy, confidentiality, scientific responsibility, human autonomy, and governance boundaries. Guardian assistance must remain subject to the authority and permissions of the human they serve. Neither scientific knowledge nor spatial or planetary analysis capabilities grant a system, intelligence, assistant, or Guardian independent authority over another person's location information, property, research decisions, scientific activities, or access rights.
+
+All applications must remain consistent with scientific principles, observational integrity, measurement accuracy, spatial and temporal reference requirements, data provenance, methodological transparency, scientific uncertainty, applicable permissions, privacy and confidentiality protections, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 16. Human Development and Civilization Alchemy
 
