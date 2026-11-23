@@ -661,32 +661,131 @@ All applications must remain consistent with the mathematical, logical, methodol
 
 ### 2. Physical Sciences Alchemy
 
-**Physical Sciences Alchemy** is the bounded process that identifies, organizes, maintains, investigates, relates, and transforms knowledge concerning matter, energy, space, physical phenomena, and the laws and principles governing the physical universe. It encompasses the structures, interactions, behaviors, properties, and transformations of physical systems across different scales.
+**Physical Sciences Alchemy** is the bounded process by which knowledge concerning matter, energy, space, physical phenomena, natural systems, and the laws and principles governing the physical universe is identified, classified, organized, investigated, examined, related, maintained, integrated, developed, and transformed into coherent and usable scientific knowledge systems.
+
+It governs the organization and development of physical-science knowledge, including the structures, properties, interactions, behaviors, processes, conditions, and transformations of physical systems across different scales. It establishes how physical phenomena and scientific knowledge about them are observed, measured, represented, investigated, modeled, interpreted, evaluated, related, and applied.
+
+Physical Sciences Alchemy encompasses the scientific methods, principles, theories, observations, measurements, experimental findings, mathematical representations, and computational models used to examine the physical universe. It provides a structured foundation for understanding physical systems and their relationships while preserving the distinctions between scientific disciplines, research methods, theoretical explanations, empirical observations, and practical applications.
+
+Physical Sciences Alchemy must preserve the provenance and integrity of scientific information. Observations, measurements, experimental results, established scientific findings, theoretical explanations, hypotheses, estimates, mathematical models, and simulation outputs must remain distinguishable. Their assumptions, units, reference frames, measurement conditions, uncertainty, limitations, and applicable ranges must be represented wherever relevant.
+
+Physical Sciences Alchemy applies throughout the C2O–UNIVERSALIS ecosystem. Its use may support scientific understanding, physical-system representation, hardware and material analysis, environmental interpretation, computational modeling, scientific research, and other authorized applications relevant to each context. Its application does not presume that a system, intelligence, application, assistant, or Guardian has physical sensing, experimentation, actuation, or control capabilities.
+
+#### 2.1 Universal Application of Physical Sciences Alchemy
+
+Physical Sciences Alchemy applies within all 22 ecosystem contexts established under Universal Subjects of Human Knowledge Alchemy:
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+7. C2O Operating System - UNIVERSALIN
+8. UNIVERSALIS Operating System - UNIVERSALIN
+9. C2O Application - UNIVERSALIN
+10. UNIVERSALIS Application - UNIVERSLIN
+11. C2O Operating System - UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System - UNIVERSALIN Intelligence
+13. C2O Application - UNIVERSALIN Intelligence
+14. UNIVERSALIS Application - UNIVERSALIN Intelligence
+15. C2O Operating System - UNIVERALIN Guardian
+16. UNIVERSALIS Operating System - UNIVERSALIN Guardian
+17. C2O Application - UNIVERSALIN Guardian
+18. UNIVERSALIS App - UNIVERSALIN Guardian
+19. C2O Operating System - UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System - UNIVERSALIN Guardian Intelligence
+21. C2O Application - UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application - UNIVERSALIN Guardian Intelligence
+
+Within these contexts, Physical Sciences Alchemy governs the appropriate organization, representation, examination, interpretation, accessibility, integration, and application of physical-science knowledge.
+
+Its context-specific expressions include:
+
+- **Operating System Contexts:** Physical-science knowledge may support the representation and understanding of relevant hardware, physical components, materials, energy requirements, thermal conditions, electromagnetic properties, acoustic behavior, sensors, physical interfaces, and environmental conditions. Its use must remain consistent with the actual capabilities, supported interfaces, declared configurations, and operational boundaries of each operating system. Physical-science knowledge does not establish an assumption of unrestricted device, sensor, hardware, or environmental access.
+
+- **Core Intelligence Contexts:** Physical-science knowledge may support scientific reasoning, examination of empirical evidence, interpretation of physical phenomena, mathematical and computational modeling, evaluation of scientific explanations, and analysis of relationships between physical systems. C2O Intelligence and UNIVERSALIS Intelligence must apply these methods within their respective responsibilities, governance arrangements, source boundaries, and operational authorities.
+
+- **Application Contexts:** Physical-science knowledge may support the organization and representation of scientific information, measurement data, physical-system models, scientific calculations, simulations, visualizations, research functions, and analytical operations. Applications must distinguish source measurements and observations from derived results, interpretations, and model-generated outputs.
+
+- **UNIVERSALIN Assistant Contexts:** Physical-science knowledge may support assigned research, information processing, scientific data organization, analysis, explanation, modeling, and coordination functions within authorized operating system and application boundaries. Assistants must preserve scientific provenance, uncertainty, methodological limitations, and the distinction between knowledge support and direct physical-world action.
+
+- **UNIVERSALIN Intelligence Contexts:** Physical-science knowledge may support the intelligence-related capabilities of non-personal UNIVERSALIN assistants through scientific reasoning, physical-system representation, modeling, analysis, and information processing. These contexts do not constitute additional core intelligences or establish independent authority to access physical systems, conduct experiments, or initiate physical actions.
+
+- **UNIVERSALIN Guardian Contexts:** Physical-science knowledge may support the authorized information, analytical, research, and assistance capabilities of personal, human-bound Guardians. Its use must preserve the human's authority, consent, autonomy, privacy, and control over the Guardian's activities and access to relevant information or physical systems.
+
+- **UNIVERSALIN Guardian Intelligence Contexts:** Physical-science knowledge may support scientific reasoning, physical-system modeling, interpretation, computation, and other human-directed Guardian capabilities within the human's authorized scope and the applicable operating system or application boundaries. Such capabilities must not establish independent authority over the human, physical devices, experiments, or external systems.
+
+The specific applicability of each physical discipline and subordinate Alchemy must be established through Matrix Alchemy. Its structural relationships, dependencies, classification, and placement throughout the ecosystem must be established through Map Alchemy.
 
 #### Alchemies under Physical Sciences Alchemy
 
-- **Physics Alchemy** — organizes and develops knowledge of matter, energy, motion, forces, fields, interactions, and the fundamental physical laws governing the universe.
-  - **Classical Mechanics Alchemy** — organizes the principles of motion, forces, equilibrium, and the behavior of macroscopic physical systems under classical mechanics.
-  - **Quantum Mechanics Alchemy** — organizes the principles governing physical systems at quantum scales, including states, measurements, probabilities, and quantum interactions.
-  - **Relativity Alchemy** — organizes the relationships between space, time, motion, gravity, and physical reference frames described by the theories of relativity.
-  - **Thermodynamics Alchemy** — organizes energy, heat, work, entropy, and the macroscopic laws governing energy transfer and transformation.
-  - **Electromagnetism Alchemy** — organizes electric and magnetic fields, charges, currents, electromagnetic waves, and their interactions.
-  - **Optics Alchemy** — organizes the behavior, propagation, interaction, and manipulation of light and other electromagnetic radiation.
-  - **Acoustics Alchemy** — organizes sound, vibration, wave propagation, and the interaction of acoustic energy with matter.
-- **Chemistry Alchemy** — organizes and develops knowledge of matter's composition, structure, properties, reactions, interactions, and transformations.
-  - **Organic Chemistry Alchemy** — organizes the structures, properties, reactions, and synthesis of carbon-based compounds.
-  - **Inorganic Chemistry Alchemy** — organizes the composition, structures, properties, and reactions of inorganic compounds and materials.
-  - **Physical Chemistry Alchemy** — organizes the physical principles, energetic relationships, rates, and mechanisms underlying chemical systems and reactions.
-  - **Analytical Chemistry Alchemy** — organizes the identification, separation, detection, quantification, and characterization of chemical substances.
-  - **Biochemistry Alchemy** — organizes the chemical substances, molecular structures, reactions, and processes associated with living systems.
-- **Astronomy Alchemy** — organizes the observation and study of celestial objects, astronomical phenomena, and the physical properties and behaviors of objects beyond Earth's atmosphere.
-- **Cosmology Alchemy** — organizes knowledge concerning the universe as a whole, including its origins, structure, evolution, large-scale composition, and possible physical futures.
-- **Planetary Science Alchemy** — organizes the formation, composition, structure, dynamics, evolution, and physical characteristics of planets, moons, and other planetary bodies.
-- **Earth Science Alchemy** — organizes knowledge of Earth's physical structure, composition, processes, systems, history, and changing environments.
-- **Geophysics Alchemy** — organizes the application of physical principles and measurement methods to Earth's internal structure, gravitational and magnetic fields, seismic activity, and physical processes.
-- **Meteorology Alchemy** — organizes atmospheric processes, weather systems, atmospheric composition, and the physical mechanisms governing weather and atmospheric behavior.
-- **Oceanography Alchemy** — organizes the physical, chemical, geological, and dynamic properties and processes of Earth's oceans.
-- **Materials Science Alchemy** — organizes the relationships between material composition, structure, properties, processing, performance, and transformation.
+- **Physics Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of matter, energy, motion, forces, fields, interactions, physical properties, and the fundamental physical laws governing the universe. It establishes the principles and methods through which physical phenomena and systems can be described, measured, modeled, tested, and understood.
+  - **Classical Mechanics Alchemy** — organizes the principles of motion, forces, equilibrium, momentum, and the behavior of macroscopic physical systems under classical mechanics. It establishes methods for examining physical movement and mechanical relationships within the applicable assumptions and limits of classical models.
+  - **Quantum Mechanics Alchemy** — organizes the principles governing physical systems at quantum scales, including quantum states, measurements, probabilities, superposition, and quantum interactions. It establishes methods for representing and examining physical phenomena governed by quantum mechanics.
+  - **Relativity Alchemy** — organizes the relationships between space, time, motion, gravity, and physical reference frames described by the theories of relativity. It establishes methods for examining relativistic physical systems and the relationships between observers, events, and spacetime.
+  - **Thermodynamics Alchemy** — organizes energy, heat, work, entropy, temperature, and the macroscopic laws governing energy transfer and transformation. It establishes methods for examining energetic relationships and the behavior and limits of physical processes.
+  - **Electromagnetism Alchemy** — organizes electric and magnetic fields, electric charges, currents, electromagnetic waves, and their interactions. It establishes methods for examining electromagnetic phenomena and their relationships with matter and energy.
+  - **Optics Alchemy** — organizes the behavior, propagation, interaction, measurement, and manipulation of light and other electromagnetic radiation. It establishes methods for examining optical phenomena and the relationships between radiation, materials, and physical systems.
+  - **Acoustics Alchemy** — organizes sound, vibration, wave propagation, acoustic energy, and the interaction of sound with matter and physical environments. It establishes methods for examining acoustic phenomena, transmission, resonance, and sound-related physical relationships.
+
+- **Chemistry Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of the composition, structure, properties, reactions, interactions, and transformations of matter. It establishes methods for understanding substances and materials through their chemical characteristics and behavior.
+  - **Organic Chemistry Alchemy** — organizes the structures, properties, reactions, and synthesis of carbon-based compounds. It establishes methods for examining the composition and chemical behavior of organic substances.
+  - **Inorganic Chemistry Alchemy** — organizes the composition, structures, properties, and reactions of inorganic compounds and materials. It establishes methods for examining inorganic substances and their chemical relationships and transformations.
+  - **Physical Chemistry Alchemy** — organizes the physical principles, energetic relationships, reaction rates, equilibria, and mechanisms underlying chemical systems and reactions. It establishes methods for examining the physical foundations and behavior of chemical processes.
+  - **Analytical Chemistry Alchemy** — organizes the identification, separation, detection, quantification, and characterization of chemical substances and mixtures. It establishes methods for determining chemical composition and evaluating analytical results.
+  - **Biochemistry Alchemy** — organizes the chemical substances, molecular structures, reactions, and processes associated with living systems. It establishes methods for examining the chemical foundations of biological structures and processes while retaining its relationships with relevant life-science disciplines.
+
+- **Astronomy Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge obtained through the observation and study of celestial objects, astronomical phenomena, and the physical properties, structures, interactions, and behaviors of objects beyond Earth's atmosphere. It establishes methods for representing and investigating astronomical systems and observations.
+
+- **Cosmology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge concerning the universe as a whole, including its origins, structure, evolution, large-scale composition, physical principles, and possible physical futures. It establishes methods for examining the universe and its large-scale characteristics through physical theories, observations, and models.
+
+- **Planetary Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of the formation, composition, structure, dynamics, evolution, and physical characteristics of planets, moons, and other planetary bodies. It establishes methods for examining planetary systems and their physical processes and relationships.
+
+- **Earth Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of Earth's physical structure, composition, processes, systems, history, and changing environments. It establishes methods for representing and investigating Earth as a complex physical system and the relationships between its components and processes.
+
+- **Geophysics Alchemy** — organizes the application of physical principles, measurements, observations, and modeling methods to Earth's internal structure, gravitational and magnetic fields, seismic activity, and other physical processes. It establishes methods for investigating Earth's physical properties and behavior through geophysical evidence and analysis.
+
+- **Meteorology Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of atmospheric processes, weather systems, atmospheric composition, and the physical mechanisms governing weather and atmospheric behavior. It establishes methods for observing, representing, analyzing, and modeling atmospheric conditions and processes.
+
+- **Oceanography Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of the physical, chemical, geological, and dynamic properties and processes of Earth's oceans. It establishes methods for investigating oceanic systems, their components, and their interactions with other physical systems.
+
+- **Materials Science Alchemy** — organizes, examines, maintains, integrates, develops, and transforms knowledge of the relationships between material composition, structure, properties, processing, performance, and transformation. It establishes methods for understanding and evaluating materials and their behavior under relevant physical and environmental conditions.
+
+### 2.2 Physical Sciences Structural and Applicability Requirements
+
+Every subordinate Alchemy under Physical Sciences Alchemy must retain its own defined subject, purpose, methods, principles, and boundaries while remaining structurally and relationally connected to the wider knowledge system.
+
+Physical Sciences Alchemy must preserve the distinctions between its constituent disciplines and their respective methods, scales of investigation, assumptions, and subject boundaries. Relationships between physics, chemistry, astronomy, cosmology, planetary science, Earth science, geophysics, meteorology, oceanography, materials science, and other knowledge domains must be established without collapsing their distinct subjects or treating their methods as interchangeable.
+
+Map Alchemy must establish:
+
+- The classification and structural position of Physical Sciences Alchemy and each subordinate physical discipline and Alchemy.
+- The parent–subordinate relationships between Physical Sciences Alchemy, its disciplines, and their own subordinate Alchemies.
+- The relationships between physical disciplines and other relevant formal, mathematical, computational, life-science, engineering, environmental, Earth-science, and knowledge-domain structures.
+- The connections between relevant physical-science knowledge and operating system, intelligence, application, UNIVERSALIN assistant, and UNIVERSALIN Guardian structures.
+- The dependencies, interfaces, and relationships between physical-science disciplines and other Alchemies.
+- The distinctions between foundational scientific disciplines, subordinate disciplines, interdisciplinary relationships, and applied expressions.
+- The relationships between physical phenomena, scientific observations, measurement structures, theoretical models, experimental methods, and computational representations.
+
+Matrix Alchemy must establish:
+
+- Which of the 22 ecosystem contexts use, require, support, or have no established applicability for each physical discipline and subordinate Alchemy.
+- The specific functions and responsibilities of each physical discipline within each applicable context.
+- The physical-science knowledge, methods, models, measurements, and information structures required for those functions.
+- Whether an application involves scientific information, observation, measurement, calculation, modeling, simulation, experimentation, physical sensing, or physical control.
+- The actual capabilities, supported interfaces, data sources, equipment, and dependencies required for any physical-world interaction.
+- The permissions, consent requirements, constraints, operational limits, and governance boundaries applicable to physical-science information and capabilities.
+- The provenance, measurement conditions, units, uncertainty, assumptions, validity ranges, and limitations that must accompany scientific observations, measurements, models, and derived results.
+- The distinctions between empirical evidence, theoretical explanations, hypotheses, estimates, interpretations, simulations, and practical implementations.
+- The relationships between shared physical-science foundations and context-specific methods, responsibilities, and implementations.
+- The appropriate relationships between physical-science knowledge and relevant formal methods, computational processes, engineering applications, and other knowledge disciplines.
+
+Physical Sciences Alchemy must not presume that the presence of a physical discipline in the universal taxonomy grants every context unrestricted access to scientific data, physical devices, sensors, experimental equipment, environmental systems, or physical-control capabilities.
+
+The inclusion of physical-science knowledge within an ecosystem context establishes its place in the knowledge structure, not an automatic implementation, operational dependency, permission, or authorization to act upon the physical world.
+
+All applications must remain consistent with the scientific evidence, physical principles, methodological requirements, measurement limitations, operational capabilities, and governance boundaries relevant to their respective contexts.
 
 ### 3. Life Sciences Alchemy
 
