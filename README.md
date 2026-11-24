@@ -25,7 +25,7 @@ The [Alchemy Taxonomies](./Alchemy%20Taxonomies/) collection contains 42 subject
 
 ## Meta Alchemy Taxonomies
 
-The [Meta Alchemy Taxonomies](./Meta%20Alchemy%20Taxonomies/) collection provides 33 corresponding workspaces for examining the source taxonomies as objects of study: scope, definitions, organization, distinctions, relationships, dependencies, methods, evidence, consistency, version history, and governance boundaries. Meta examination does not silently modify source taxonomies.
+The [Meta Alchemy Taxonomies](./Meta%20Alchemy%20Taxonomies/) collection provides 42 corresponding workspaces for examining the source taxonomies as objects of study: scope, definitions, organization, distinctions, relationships, dependencies, methods, evidence, consistency, version history, and governance boundaries. Meta examination does not silently modify source taxonomies.
 
 ## Super Alchemy Taxonomies
 

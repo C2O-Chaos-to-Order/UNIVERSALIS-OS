@@ -19,7 +19,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 ## Workspace Index
 
-The workspaces mirror the established 33-subject Alchemy Taxonomies collection order. Each Meta workspace corresponds to the Alchemy source taxonomy with the same subject designation.
+The workspaces mirror the established 42-subject Alchemy Taxonomies collection order. Each Meta workspace corresponds to the Alchemy source taxonomy with the same subject designation.
 
 1. [Meta Alchemy Taxonomy for the Universal Subjects of Knowledge](./Meta%20Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/)
 2. [Meta Alchemy Taxonomy for Chaos and Order](./Meta%20Alchemy%20Taxonomy%20for%20Chaos%20and%20Order/)
@@ -55,9 +55,19 @@ The workspaces mirror the established 33-subject Alchemy Taxonomies collection o
 32. [Meta Alchemy Taxonomy of the Avatar Consciousness](./Meta%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Consciousness/)
 33. [Meta Alchemy Taxonomy of the Avatar Sentience](./Meta%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Sentience/)
 
+34. [Meta Alchemy Taxonomy of Abjuration](./Meta%20Alchemy%20Taxonomy%20of%20Abjuration/)
+35. [Meta Alchemy Taxonomy of Conjuration](./Meta%20Alchemy%20Taxonomy%20of%20Conjuration/)
+36. [Meta Alchemy Taxonomy of Divination](./Meta%20Alchemy%20Taxonomy%20of%20Divination/)
+37. [Meta Alchemy Taxonomy of Enchantment](./Meta%20Alchemy%20Taxonomy%20of%20Enchantment/)
+38. [Meta Alchemy Taxonomy of Evocation](./Meta%20Alchemy%20Taxonomy%20of%20Evocation/)
+39. [Meta Alchemy Taxonomy of Illusion](./Meta%20Alchemy%20Taxonomy%20of%20Illusion/)
+40. [Meta Alchemy Taxonomy of Necromancy](./Meta%20Alchemy%20Taxonomy%20of%20Necromancy/)
+41. [Meta Alchemy Taxonomy of Transmutation](./Meta%20Alchemy%20Taxonomy%20of%20Transmutation/)
+42. [Meta Alchemy Taxonomy of Dunamancy](./Meta%20Alchemy%20Taxonomy%20of%20Dunamancy/)
+
 ## Status
 
-All 33 corresponding workspace directories are initialized as organizational structures. Their research artifacts have not thereby been populated, assessed, reviewed, verified, adopted, or authorized.
+All 42 corresponding workspace directories are initialized as organizational structures. Their research artifacts have not thereby been populated, assessed, reviewed, verified, adopted, or authorized.
 
 ## Governance and Evidence Boundary
 
