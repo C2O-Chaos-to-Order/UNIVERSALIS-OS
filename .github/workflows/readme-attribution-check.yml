@@ -1,0 +1,58 @@
+name: README originator attribution check
+
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+      - synchronize
+      - reopened
+
+permissions:
+  contents: read
+
+jobs:
+  readme-attribution:
+    name: Require originator attribution in changed README files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out pull request
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Verify changed README attribution
+        shell: bash
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          set -euo pipefail
+
+          mapfile -t readmes < <(
+            git diff --name-only --diff-filter=AMR "${BASE_SHA}...${HEAD_SHA}" |
+            awk -F/ '$NF == "README.md"'
+          )
+
+          if [ "${#readmes[@]}" -eq 0 ]; then
+            echo "No README files changed; attribution check is not applicable."
+            exit 0
+          fi
+
+          failed=0
+          for file in "${readmes[@]}"; do
+            if [ ! -f "$file" ]; then
+              continue
+            fi
+
+            if ! grep -Fq "Kyle Alexander Steen" "$file" ||
+               ! grep -Fq "Original Project Originator and Architect" "$file"; then
+              echo "::error file=$file::Add the required project attribution: Kyle Alexander Steen — Original Project Originator and Architect."
+              failed=1
+            else
+              echo "Attribution verified: $file"
+            fi
+          done
+
+          exit "$failed"
