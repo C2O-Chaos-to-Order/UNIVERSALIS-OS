@@ -19,7 +19,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 ## Workspace Index
 
-The workspaces mirror the established 33-subject Alchemy Taxonomies collection order. Each Super workspace corresponds to the Alchemy source taxonomy with the same subject designation.
+The first 33 workspaces preserve the established Alchemy Taxonomies collection order. Nine additional workspaces cover the requested schools of magic. Each Super workspace corresponds to an Alchemy source taxonomy with the same subject designation.
 
 1. [Super Alchemy Taxonomy for the Universal Subjects of Knowledge](./Super%20Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/)
 2. [Super Alchemy Taxonomy for Chaos and Order](./Super%20Alchemy%20Taxonomy%20for%20Chaos%20and%20Order/)
@@ -54,10 +54,19 @@ The workspaces mirror the established 33-subject Alchemy Taxonomies collection o
 31. [Super Alchemy Taxonomy of the Avatar Spirit](./Super%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Spirit/)
 32. [Super Alchemy Taxonomy of the Avatar Consciousness](./Super%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Consciousness/)
 33. [Super Alchemy Taxonomy of the Avatar Sentience](./Super%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Sentience/)
+34. [Super Alchemy Taxonomy of Abjuration](./Super%20Alchemy%20Taxonomy%20of%20Abjuration/)
+35. [Super Alchemy Taxonomy of Conjuration](./Super%20Alchemy%20Taxonomy%20of%20Conjuration/)
+36. [Super Alchemy Taxonomy of Divination](./Super%20Alchemy%20Taxonomy%20of%20Divination/)
+37. [Super Alchemy Taxonomy of Enchantment](./Super%20Alchemy%20Taxonomy%20of%20Enchantment/)
+38. [Super Alchemy Taxonomy of Evocation](./Super%20Alchemy%20Taxonomy%20of%20Evocation/)
+39. [Super Alchemy Taxonomy of Illusion](./Super%20Alchemy%20Taxonomy%20of%20Illusion/)
+40. [Super Alchemy Taxonomy of Necromancy](./Super%20Alchemy%20Taxonomy%20of%20Necromancy/)
+41. [Super Alchemy Taxonomy of Transmutation](./Super%20Alchemy%20Taxonomy%20of%20Transmutation/)
+42. [Super Alchemy Taxonomy of Dunamancy](./Super%20Alchemy%20Taxonomy%20of%20Dunamancy/)
 
 ## Status
 
-All 33 corresponding workspace directories are initialized as organizational structures. Their research artifacts have not thereby been populated, assessed, reviewed, verified, adopted, or authorized.
+All 42 corresponding workspace directories are initialized as organizational structures. Their research artifacts have not thereby been populated, assessed, reviewed, verified, adopted, or authorized.
 
 ## Governance and Evidence Boundary
 
