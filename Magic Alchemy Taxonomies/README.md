@@ -19,7 +19,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 ## Workspace Index
 
-The workspaces mirror the established 33-subject Alchemy Taxonomies collection order. Each Magic workspace corresponds to the Alchemy source taxonomy with the same subject designation.
+The first 33 workspaces preserve the established Alchemy Taxonomies collection order. Nine additional workspaces cover the requested schools of magic. Each Magic workspace corresponds to an Alchemy source taxonomy with the same subject designation.
 
 1. [Magic Alchemy Taxonomy for the Universal Subjects of Knowledge](./Magic%20Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/)
 2. [Magic Alchemy Taxonomy for Chaos and Order](./Magic%20Alchemy%20Taxonomy%20for%20Chaos%20and%20Order/)
@@ -54,10 +54,19 @@ The workspaces mirror the established 33-subject Alchemy Taxonomies collection o
 31. [Magic Alchemy Taxonomy of the Avatar Spirit](./Magic%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Spirit/)
 32. [Magic Alchemy Taxonomy of the Avatar Consciousness](./Magic%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Consciousness/)
 33. [Magic Alchemy Taxonomy of the Avatar Sentience](./Magic%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Sentience/)
+34. [Magic Alchemy Taxonomy of Abjuration](./Magic%20Alchemy%20Taxonomy%20of%20Abjuration/)
+35. [Magic Alchemy Taxonomy of Conjuration](./Magic%20Alchemy%20Taxonomy%20of%20Conjuration/)
+36. [Magic Alchemy Taxonomy of Divination](./Magic%20Alchemy%20Taxonomy%20of%20Divination/)
+37. [Magic Alchemy Taxonomy of Enchantment](./Magic%20Alchemy%20Taxonomy%20of%20Enchantment/)
+38. [Magic Alchemy Taxonomy of Evocation](./Magic%20Alchemy%20Taxonomy%20of%20Evocation/)
+39. [Magic Alchemy Taxonomy of Illusion](./Magic%20Alchemy%20Taxonomy%20of%20Illusion/)
+40. [Magic Alchemy Taxonomy of Necromancy](./Magic%20Alchemy%20Taxonomy%20of%20Necromancy/)
+41. [Magic Alchemy Taxonomy of Transmutation](./Magic%20Alchemy%20Taxonomy%20of%20Transmutation/)
+42. [Magic Alchemy Taxonomy of Dunamancy](./Magic%20Alchemy%20Taxonomy%20of%20Dunamancy/)
 
 ## Status
 
-All 33 corresponding workspace directories are initialized as organizational structures. Their research artifacts have not thereby been populated, assessed, reviewed, verified, adopted, or authorized.
+All 42 corresponding workspace directories are initialized as organizational structures. Their research artifacts have not thereby been populated, assessed, reviewed, verified, adopted, or authorized.
 
 ## Governance and Evidence Boundary
 
