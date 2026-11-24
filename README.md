@@ -34,6 +34,10 @@ The [Magic Alchemy Taxonomies](./Magic%20Alchemy%20Taxonomies/) directory provid
 
 The [Quantum Alchemy Taxonomies](./Quantum%20Alchemy%20Taxonomies/) directory provides separate workspaces for investigating foundational possibility, states, uncertainty, transitions, and interactions across Ultra-level refinements. The structure is initialized for future research and does not itself establish scientific or canonical conclusions.
 
+## Transformative Alchemy Taxonomies
+
+The [Transformative Alchemy Taxonomies](./Transformative%20Alchemy%20Taxonomies/) directory is the final collection in the required progression: Alchemy → Meta → Super → Hyper → Ultra → Quantum → Magic → Transformative. It provides 33 workspaces for evidence-governed transformation research and is initialized as a structure, not as completed or approved research.
+
 ## Related repositories
 
 - `UNIVERSALIS-App` — public, open-source application edition.

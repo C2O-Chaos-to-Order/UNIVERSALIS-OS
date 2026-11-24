@@ -2,27 +2,24 @@
 
 ## Purpose
 
-This collection provides workspaces for examining foundational possibility, states, uncertainty, transitions, interactions, and constraints across the 33 corresponding Ultra Alchemy Taxonomy workspaces. Its focus is the deeper structures and alternative configurations that may underlie or connect Ultra-level evaluations and refinements.
+This collection examines foundational possibility, states, uncertainty, transitions, interactions, and constraints across corresponding Ultra-level workspaces. Quantum is a conceptual and methodological label; it does not imply that taxonomy relationships are governed by quantum mechanics or establish scientific findings.
 
-The Quantum level is intended to investigate how possible states, conditions, transitions, interactions, and unresolved uncertainty affect the integrated taxonomy architecture. It should make assumptions explicit, compare alternative models, identify what is known and unknown, and preserve distinctions between theoretical possibility, formal model, empirical evidence, and verified result.
+## Required Taxonomy Order
 
-The term **Quantum** identifies this level's conceptual and methodological scope. Its use does not imply that a taxonomy relationship is governed by quantum mechanics or that a scientific quantum phenomenon has been demonstrated. Any such scientific claim would require its own appropriate evidence and verification.
+1. **Alchemy** — source taxonomies.
+2. **Meta** — examination of source structures.
+3. **Super** — higher-order synthesis.
+4. **Hyper** — system-wide coherence and integration.
+5. **Ultra** — evaluation and refinement.
+6. **Quantum** — possibility, states, uncertainty, and transitions.
+7. **Magic** — directed transformation and generative methods.
+8. **Transformative** — end-to-end transformation research and evaluated outcomes.
 
-## Relationship Between the Taxonomy Levels
+Quantum precedes Magic. Transformative follows Magic.
 
-- **Alchemy Taxonomies** provide the subject- and domain-focused source workspaces.
-- **Meta Alchemy Taxonomies** examine the corresponding source taxonomies as objects of study, including their scope, structure, definitions, relationships, methods, and evidence.
-- **Super Alchemy Taxonomies** develop and examine higher-order patterns and syntheses across source taxonomies.
-- **Hyper Alchemy Taxonomies** examine system-wide coherence, architecture, interactions, constraints, and integration across Super-level syntheses.
-- **Ultra Alchemy Taxonomies** evaluate and refine the integrated Hyper-level architecture, including resilience, adaptability, efficiency, robustness, and system-wide tradeoffs.
-- **Magic Alchemy Taxonomies** examine directed transformation, generative methods, and documented pathways from possibilities or designs to intended outcomes.
-- **Quantum Alchemy Taxonomies** investigate foundational possibility, states, uncertainty, transitions, and interactions after the Magic level and in relation to the preceding taxonomy levels.
+## Workspace Index
 
-These levels are complementary. Quantum-level models or hypotheses do not automatically supersede, validate, or authorize changes to any lower-level taxonomy or finding.
-
-## Quantum Alchemy Taxonomy Workspace Index
-
-The 33 workspaces below mirror the established Alchemy Taxonomies collection order. Each Quantum Alchemy Taxonomy workspace corresponds to the Alchemy Taxonomy with the same subject designation.
+The 33 workspaces mirror the established Alchemy Taxonomies collection order.
 
 1. [Quantum Alchemy Taxonomy for the Universal Subjects of Knowledge](./Quantum%20Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/)
 2. [Quantum Alchemy Taxonomy for Chaos and Order](./Quantum%20Alchemy%20Taxonomy%20for%20Chaos%20and%20Order/)
@@ -58,19 +55,17 @@ The 33 workspaces below mirror the established Alchemy Taxonomies collection ord
 32. [Quantum Alchemy Taxonomy of the Avatar Consciousness](./Quantum%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Consciousness/)
 33. [Quantum Alchemy Taxonomy of the Avatar Sentience](./Quantum%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Sentience/)
 
-## Status
+## Status and Boundary
 
-All 33 Quantum Alchemy Taxonomy workspace directories are initialized as organizational structures. Their Quantum-level research artifacts have not yet been populated, assessed, reviewed, or adopted. No foundational state model, possibility structure, transition, interaction, or scientific conclusion is established merely by creating this structure.
-
-## Boundary
-
-This structure does not itself create, alter, validate, approve, canonize, or authorize any source taxonomy entry, Meta-level finding, Super-level synthesis, Hyper-level integration, Ultra-level refinement, relationship, hierarchy, classification, governance rule, or owner decision. Quantum-level findings must preserve traceable provenance through all preceding levels, including Magic-level transformation work, distinguish possibility from actuality and hypothesis from evidence, state model assumptions and limits, document uncertainty and alternative explanations, and separate conceptual use of quantum terminology from claims about established physical phenomena. Owner acceptance and authorization are required before canonical changes.
+The 33 workspaces are organizational structures; their research has not thereby been completed, assessed, reviewed, or adopted. Proposed models and methods must remain distinguishable from implemented, tested, and verified outcomes. This collection does not alter or authorize changes to source taxonomies or canonical decisions.
 
 ## Related Collections
 
-- [Alchemy Taxonomies](../Alchemy%20Taxonomies/) — the subject- and domain-focused source collection.
-- [Meta Alchemy Taxonomies](../Meta%20Alchemy%20Taxonomies/) — the collection for examining the source taxonomies and their internal structures.
-- [Super Alchemy Taxonomies](../Super%20Alchemy%20Taxonomies/) — the collection for higher-order synthesis across source taxonomies.
-- [Hyper Alchemy Taxonomies](../Hyper%20Alchemy%20Taxonomies/) — the collection for system-wide coherence and integration across Super-level syntheses.
-- [Ultra Alchemy Taxonomies](../Ultra%20Alchemy%20Taxonomies/) — the collection for evaluating and refining the integrated Hyper-level architecture.
-- [Magic Alchemy Taxonomies](../Magic%20Alchemy%20Taxonomies/) — the collection for directed transformation and generative methods.
+- [Alchemy](../Alchemy%20Taxonomies/)
+- [Meta](../Meta%20Alchemy%20Taxonomies/)
+- [Super](../Super%20Alchemy%20Taxonomies/)
+- [Hyper](../Hyper%20Alchemy%20Taxonomies/)
+- [Ultra](../Ultra%20Alchemy%20Taxonomies/)
+- [Quantum](../Quantum%20Alchemy%20Taxonomies/)
+- [Magic](../Magic%20Alchemy%20Taxonomies/)
+- [Transformative](../Transformative%20Alchemy%20Taxonomies/)
