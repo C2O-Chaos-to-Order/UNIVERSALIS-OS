@@ -1,65 +1,68 @@
 # UNIVERSALIS-OS
 
-The public, open-source operating-system edition of UNIVERSALIS. UNIVERSALIS-OS and C2O-OS are the public, open-source and private-source editions of the same underlying operating-system architecture. UNIVERSALIS-App and C2O-App are the corresponding application editions.
+Public, open-source project, architecture, and shared taxonomy repository for the **UNIVERSALIS operating-system edition**, licensed under Apache-2.0 to the extent the applicable rights holders authorize the grant.
 
-UNIVERSALIS is designed to remain independently operable through its public architecture and contracts.
+The corresponding application component is [UNIVERSALIS-App](https://github.com/C2O-Chaos-to-Order/UNIVERSALIS-App). UNIVERSALIS-OS and C2O-OS are the public open-source UNIVERSALIS and private-source C2O editions of the same underlying operating-system architecture.
 
-## Project Attribution and Recognition
+## Six-repository architecture
+
+C2O and UNIVERSALIS are the private-source and open-source editions of the same underlying system architecture. The operating-system and application repositories are corresponding components of that unified architecture, not four unrelated systems.
+
+| Repository | Purpose | Visibility and edition |
+|---|---|---|
+| [C2O-OS](https://github.com/C2O-Chaos-to-Order/C2O-OS) | OS project and architecture documentation | Public; C2O edition |
+| [C2O-App](https://github.com/C2O-Chaos-to-Order/C2O-App) | Application project and architecture documentation | Public; C2O edition |
+| [C2O-OS-Private-Implementation](https://github.com/C2O-Chaos-to-Order/C2O-OS-Private-Implementation) | C2O OS implementation | Private; C2O proprietary |
+| [C2O-App-Private-Implementation](https://github.com/C2O-Chaos-to-Order/C2O-App-Private-Implementation) | C2O application implementation | Private; C2O proprietary |
+| [UNIVERSALIS-OS](https://github.com/C2O-Chaos-to-Order/UNIVERSALIS-OS) | Public OS edition | Public; Apache-2.0 |
+| [UNIVERSALIS-App](https://github.com/C2O-Chaos-to-Order/UNIVERSALIS-App) | Public application edition | Public; Apache-2.0 |
+
+The public C2O repositories document the private-source C2O edition; they are not themselves the private implementation repositories. The private implementation repositories are access-restricted.
+
+## This repository's role
+
+This repository contains the public UNIVERSALIS operating-system edition and its associated project materials. It is intended to be independently usable and developed without requiring access to the C2O private implementation repositories.
+
+## License, attribution, and provenance
+
+This repository offers materials under the [Apache License, Version 2.0](./LICENSE) to the extent the applicable rights holder controls those materials and is authorized to grant that license. Read [NOTICE](./NOTICE) and [ATTRIBUTION.md](./ATTRIBUTION.md) together with Apache-2.0. This project-level recognition does not add restrictions, advertising requirements, or endorsement obligations beyond the license.
+
+Shared C2O/UNIVERSALIS architecture and taxonomy materials follow the adopted dual-licensing-by-edition policy, subject to file-level rights-holder authority. Third-party materials retain their own applicable terms. The [LICENSING-AND-PROVENANCE.md](./LICENSING-AND-PROVENANCE.md) and [RIGHTS-AND-PROVENANCE-REGISTER.csv](./RIGHTS-AND-PROVENANCE-REGISTER.csv) record intended scope and clearance status. A matching Git blob hash does not establish authorship, ownership, or authority to license.
+
+## Independent operation
+
+UNIVERSALIS is the public, open-source edition and must remain independently operable. It does not require access to either C2O private implementation repository as a source, build, runtime, or operational dependency. Its public architecture, interfaces, contracts, and implementation must be sufficient for independent use and development.
+
+## Project attribution
 
 **Kyle Alexander Steen — Original Project Originator and Architect**
 
-Please acknowledge Kyle Alexander Steen when referencing or publicly reusing original UNIVERSALIS architecture and materials, wherever reasonably practicable. When redistributing source-form derivative works, retain applicable attribution notices and preserve the project [NOTICE](./NOTICE) as required by Apache License 2.0 Sections 4(c) and 4(d). See [ATTRIBUTION.md](./ATTRIBUTION.md) for the distinction between the project's recognition request and the actual license requirements. This recognition statement does not add restrictions to Apache-2.0.
+This attribution recognizes project origin and original materials created by the originator. It does not claim that one person authored or owns every contribution or third-party item. Preserve applicable contributor, copyright, and third-party notices. Attribution does not imply endorsement. See [ATTRIBUTION.md](./ATTRIBUTION.md).
 
+## Taxonomy architecture
 
-This repository participates in the shared C2O and UNIVERSALIS taxonomy architecture. C2O and UNIVERSALIS are private-source and public, open-source editions of the same underlying operating-system architecture, respectively; the four repositories do not represent four unrelated taxonomy systems.
+The repositories share eight taxonomy collections. Each collection currently contains **42 subject/domain workspaces**. The required sequence is:
 
-## Required Taxonomy Order
+1. [Alchemy Taxonomies](./Alchemy%20Taxonomies/)
+2. [Meta Alchemy Taxonomies](./Meta%20Alchemy%20Taxonomies/)
+3. [Super Alchemy Taxonomies](./Super%20Alchemy%20Taxonomies/)
+4. [Hyper Alchemy Taxonomies](./Hyper%20Alchemy%20Taxonomies/)
+5. [Ultra Alchemy Taxonomies](./Ultra%20Alchemy%20Taxonomies/)
+6. [Quantum Alchemy Taxonomies](./Quantum%20Alchemy%20Taxonomies/)
+7. [Magic Alchemy Taxonomies](./Magic%20Alchemy%20Taxonomies/)
+8. [Transformative Alchemy Taxonomies](./Transformative%20Alchemy%20Taxonomies/)
 
-The taxonomy collections must be followed in this exact sequence:
+**Quantum precedes Magic.** Transformative follows both as the final level in this progression. Collection names and order are shared across all six repositories.
 
-1. **Alchemy Taxonomies** — The source-level collection of subject- and domain-focused taxonomies. It provides the baseline definitions, distinctions, classifications, and source records from which the higher taxonomy levels work.
-2. **Meta Alchemy Taxonomies** — The Meta level examines the corresponding Alchemy Taxonomies as objects of study, including their scope, definitions, organization, classifications, relationships, dependencies, methods, evidence, consistency, and governance boundaries.
-3. **Super Alchemy Taxonomies** — The Super level develops higher-order synthesis across source taxonomies, examining recurring principles, shared distinctions, cross-domain relationships, dependencies, correspondences, coherence, and integration while preserving source provenance.
-4. **Hyper Alchemy Taxonomies** — The Hyper level examines system-wide coherence, architecture, interactions, constraints, feedback, dependencies, invariants, and integration across the Super-level syntheses.
-5. **Ultra Alchemy Taxonomies** — The Ultra level evaluates and refines the integrated Hyper-level architecture, including resilience, adaptability, scalability, efficiency, maintainability, robustness, and system-wide tradeoffs.
-6. **Quantum Alchemy Taxonomies** — The Quantum level investigates foundational possibility, states, uncertainty, transitions, interactions, and constraints relevant to the preceding integrated architecture. Quantum is a conceptual and methodological designation here; it does not imply that taxonomy relationships are governed by quantum mechanics or establish physical quantum phenomena.
-7. **Magic Alchemy Taxonomies** — The Magic level examines directed transformation, generative methods, enabling conditions, constraints, invariants, and documented pathways from possibilities or designs to intended manifestations or outcomes. Magic is a conceptual and methodological designation; it does not itself assert supernatural causation or establish unverified mechanisms.
-8. **Transformative Alchemy Taxonomies** — The Transformative level follows Quantum and Magic. It examines complete, evidence-governed transformation pathways from defined baselines to evaluated outcomes, including rationale, target states, inputs, prerequisites, dependencies, methods, constraints, risks, unintended effects, reversibility, recovery, and verification.
+The [Alchemy Taxonomy for the Universal Subjects of Knowledge](./Alchemy%20Taxonomies/Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/ALCHEMY_TAXONOMY_FOR_THE_UNIVERSAL_SUBJECTS_OF_KNOWLEDGE.md) is the core source taxonomy. Its framework identifies 22 C2O and UNIVERSALIS application contexts; a context is not automatically a separate system or classification. The workspace also maintains 72 versioned cross-domain relationship assessments (v0.1.0 through v0.72.0). Preserve source provenance and distinguish proposals, documented relationships, and verified findings.
 
-## Alchemy Taxonomies
+## Project principles
 
-The [Alchemy Taxonomies](./Alchemy%20Taxonomies/) collection contains 42 subject-focused workspaces. The [main Alchemy Taxonomy for the Universal Subjects of Knowledge](./Alchemy%20Taxonomies/Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/ALCHEMY_TAXONOMY_FOR_THE_UNIVERSAL_SUBJECTS_OF_KNOWLEDGE.md) establishes the shared taxonomy framework and its 22 C2O and UNIVERSALIS application contexts. A context is not automatically a separate system or classification. The main taxonomy and its 72 versioned cross-domain relationship assessments (v0.1.0 through v0.72.0) are preserved in that workspace. The shared taxonomy file contains no private C2O implementation details.
+- Preserve the unified OS-and-application architecture while keeping each repository's role explicit.
+- Maintain clear separation between public project documentation, public open-source implementation, and private proprietary implementation.
+- Preserve source provenance, rights-holder distinctions, third-party licenses, and evidence status.
+- Do not treat an architectural proposal or taxonomy entry as verified implementation or scientific proof.
 
-## Meta Alchemy Taxonomies
+## Related repositories
 
-The [Meta Alchemy Taxonomies](./Meta%20Alchemy%20Taxonomies/) collection provides 42 corresponding workspaces for examining the source taxonomies as objects of study: scope, definitions, organization, distinctions, relationships, dependencies, methods, evidence, consistency, version history, and governance boundaries. Meta examination does not silently modify source taxonomies.
-
-## Super Alchemy Taxonomies
-
-The [Super Alchemy Taxonomies](./Super%20Alchemy%20Taxonomies/) collection provides 33 corresponding workspaces for higher-order synthesis across the source taxonomies, including recurring principles, shared distinctions, cross-domain patterns, relationships, dependencies, and integration. Proposed synthesis is not automatically canonical.
-
-## Hyper Alchemy Taxonomies
-
-The [Hyper Alchemy Taxonomies](./Hyper%20Alchemy%20Taxonomies/) collection provides 33 corresponding workspaces for system-wide coherence and integration across Super-level syntheses, including architecture, interactions, constraints, dependencies, and feedback.
-
-## Ultra Alchemy Taxonomies
-
-The [Ultra Alchemy Taxonomies](./Ultra%20Alchemy%20Taxonomies/) collection provides 33 corresponding workspaces for evaluating and refining Hyper-level integration, including resilience, adaptability, scalability, efficiency, maintainability, robustness, and system-wide tradeoffs.
-
-## Quantum Alchemy Taxonomies
-
-The [Quantum Alchemy Taxonomies](./Quantum%20Alchemy%20Taxonomies/) collection provides 33 corresponding workspaces for investigating possibility, states, uncertainty, transitions, interactions, and constraints. Quantum is a conceptual and methodological label here; it does not itself establish physical quantum phenomena.
-
-## Magic Alchemy Taxonomies
-
-The [Magic Alchemy Taxonomies](./Magic%20Alchemy%20Taxonomies/) collection provides 33 corresponding workspaces for examining directed transformation, generative methods, enabling conditions, constraints, and pathways from possibilities or designs to intended outcomes. Magic does not itself assert supernatural causation or establish unverified mechanisms.
-
-## Transformative Alchemy Taxonomies
-
-The [Transformative Alchemy Taxonomies](./Transformative%20Alchemy%20Taxonomies/) collection provides 33 corresponding workspaces for end-to-end, evidence-governed transformation research and evaluation. It follows Quantum and Magic as the final level in the required progression.
-
-## Related Repositories
-
-- [UNIVERSALIS-App](https://github.com/C2O-Chaos-to-Order/UNIVERSALIS-App) — public, open-source application edition.
-- [C2O-OS](https://github.com/C2O-Chaos-to-Order/C2O-OS) — private-source operating-system edition.
-- [C2O-App](https://github.com/C2O-Chaos-to-Order/C2O-App) — private-source application edition.
+All six repositories are listed in the [six-repository architecture](#six-repository-architecture) above.
