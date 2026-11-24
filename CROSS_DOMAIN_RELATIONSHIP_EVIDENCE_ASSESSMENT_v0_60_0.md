@@ -161,4 +161,4 @@ The scope distinctions to preserve from this batch are:
 - Life Sciences ↔ Epidemiology concerns multi-level biological phenotyping and molecular data integrated into longitudinal population-cohort analysis; it does not convert associations into causal claims and must account for population representativeness and data harmonization.
 - Life Sciences ↔ Nutrition concerns dynamic, integrated multi-omics and metabolic-response phenotyping in precision nutrition; it does not establish that extensive molecular profiling improves outcomes beyond high-quality conventional nutritional care or that biomarkers alone demonstrate health benefit.
 
-Three candidate interfaces. Twelve sources registered. Four identical reports. Canonical taxonomy untouched.
+Three candidate interfaces. Thirteen sources registered. Four identical reports. Canonical taxonomy untouched.
