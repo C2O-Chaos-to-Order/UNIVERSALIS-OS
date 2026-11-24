@@ -4,7 +4,7 @@ The public, open-source operating-system edition of UNIVERSALIS. UNIVERSALIS-OS 
 
 UNIVERSALIS is designed to remain independently operable through its public architecture and contracts.
 
-This repository participates in the shared C2O and UNIVERSALIS taxonomy architecture. C2O and UNIVERSALIS are private-source and public, open-source editions of the same underlying operating-system system, respectively; the four repositories do not represent four unrelated taxonomy systems.
+This repository participates in the shared C2O and UNIVERSALIS taxonomy architecture. C2O and UNIVERSALIS are private-source and public, open-source editions of the same underlying operating-system architecture, respectively; the four repositories do not represent four unrelated taxonomy systems.
 
 ## Required Taxonomy Order
 
@@ -21,7 +21,7 @@ The taxonomy collections must be followed in this exact sequence:
 
 ## Alchemy Taxonomies
 
-The [Alchemy Taxonomies](./Alchemy%20Taxonomies/) collection contains 33 subject-focused workspaces. The [main Alchemy Taxonomy for the Universal Subjects of Knowledge](./Alchemy%20Taxonomies/Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/ALCHEMY_TAXONOMY_FOR_THE_UNIVERSAL_SUBJECTS_OF_KNOWLEDGE.md) establishes the shared taxonomy framework and its 22 C2O and UNIVERSALIS application contexts. A context is not automatically a separate system or classification. The main taxonomy and its 72 versioned cross-domain relationship assessments (v0.1.0 through v0.72.0) are preserved in that workspace. The shared taxonomy file contains no private C2O implementation details.
+The [Alchemy Taxonomies](./Alchemy%20Taxonomies/) collection contains 42 subject-focused workspaces. The [main Alchemy Taxonomy for the Universal Subjects of Knowledge](./Alchemy%20Taxonomies/Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/ALCHEMY_TAXONOMY_FOR_THE_UNIVERSAL_SUBJECTS_OF_KNOWLEDGE.md) establishes the shared taxonomy framework and its 22 C2O and UNIVERSALIS application contexts. A context is not automatically a separate system or classification. The main taxonomy and its 72 versioned cross-domain relationship assessments (v0.1.0 through v0.72.0) are preserved in that workspace. The shared taxonomy file contains no private C2O implementation details.
 
 ## Meta Alchemy Taxonomies
 

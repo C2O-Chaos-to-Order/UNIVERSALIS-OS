@@ -19,7 +19,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 ## Workspace Index
 
-The workspaces mirror the established 33-subject Alchemy Taxonomies collection order. Each Alchemy workspace corresponds to the Alchemy source taxonomy with the same subject designation.
+The workspaces mirror the established 42-subject Alchemy Taxonomies collection order. Each Alchemy workspace corresponds to the Alchemy source taxonomy with the same subject designation.
 
 1. [Alchemy Taxonomy for the Universal Subjects of Knowledge](./Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/)
 2. [Alchemy Taxonomy for Chaos and Order](./Alchemy%20Taxonomy%20for%20Chaos%20and%20Order/)
@@ -55,13 +55,23 @@ The workspaces mirror the established 33-subject Alchemy Taxonomies collection o
 32. [Alchemy Taxonomy of the Avatar Consciousness](./Alchemy%20Taxonomy%20of%20the%20Avatar%20Consciousness/)
 33. [Alchemy Taxonomy of the Avatar Sentience](./Alchemy%20Taxonomy%20of%20the%20Avatar%20Sentience/)
 
+34. [Alchemy Taxonomy of Abjuration](./Alchemy%20Taxonomy%20of%20Abjuration/)
+35. [Alchemy Taxonomy of Conjuration](./Alchemy%20Taxonomy%20of%20Conjuration/)
+36. [Alchemy Taxonomy of Divination](./Alchemy%20Taxonomy%20of%20Divination/)
+37. [Alchemy Taxonomy of Enchantment](./Alchemy%20Taxonomy%20of%20Enchantment/)
+38. [Alchemy Taxonomy of Evocation](./Alchemy%20Taxonomy%20of%20Evocation/)
+39. [Alchemy Taxonomy of Illusion](./Alchemy%20Taxonomy%20of%20Illusion/)
+40. [Alchemy Taxonomy of Necromancy](./Alchemy%20Taxonomy%20of%20Necromancy/)
+41. [Alchemy Taxonomy of Transmutation](./Alchemy%20Taxonomy%20of%20Transmutation/)
+42. [Alchemy Taxonomy of Dunamancy](./Alchemy%20Taxonomy%20of%20Dunamancy/)
+
 ## Universal Subjects of Knowledge Source Record
 
 The [main Alchemy Taxonomy for the Universal Subjects of Knowledge](./Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/ALCHEMY_TAXONOMY_FOR_THE_UNIVERSAL_SUBJECTS_OF_KNOWLEDGE.md) contains the shared taxonomy framework and its established context definitions. Its 72 versioned cross-domain relationship assessments (v0.1.0 through v0.72.0) remain part of that source workspace. The 22 C2O and UNIVERSALIS contexts are application settings for the shared taxonomy, not automatically separate systems or classifications.
 
 ## Status
 
-The index covers 33 subject workspaces. The Universal Subjects of Knowledge workspace contains the established main taxonomy document and versioned relationship-assessment records; the remaining subject placeholders do not by themselves imply populated, validated, or owner-approved content.
+The index covers 42 subject workspaces. The Universal Subjects of Knowledge workspace contains the established main taxonomy document and versioned relationship-assessment records; the remaining subject placeholders do not by themselves imply populated, validated, or owner-approved content.
 
 ## Governance and Evidence Boundary
 
