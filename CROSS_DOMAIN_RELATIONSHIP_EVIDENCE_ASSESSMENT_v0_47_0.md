@@ -1,0 +1,106 @@
+# Cross-Domain Relationship Evidence Assessment
+
+**Version:** 0.47.0  
+**Assessment date:** 2026-11-23  
+**Canonical taxonomy baseline:** v1.13.1  
+**Status:** Three additional unique Life Sciences ↔ Health Sciences subject pairs screened. All three are recommended as bounded candidate related-but-distinct (RD-P) relationships for owner review. No owner acceptance or canonical taxonomy amendment is claimed.
+
+## 1. Scope and safeguards
+
+This report continues the Life Sciences ↔ Health Sciences cross-domain screening programme. The selected subgroup examines cellular biomarkers in population exposure research, biotechnological sequencing platforms in epidemiological surveillance, and ecological effects of pharmaceutical products within ecopharmacovigilance.
+
+The assessment distinguishes three scopes:
+
+- **Cell Biology ↔ Epidemiology:** cellular morphology, chromosomal damage, micronuclei, and cellular effect biomarkers measured in human populations to investigate occupational and environmental exposures, compare exposure groups, and develop molecular-epidemiological evidence. The evidence includes micronucleus and cytome assays in buccal cells and lymphocytes. These are research and biomonitoring methods; they are not standalone diagnoses, universal screening procedures, or direct proof that a specific exposure caused an individual disease.
+- **Biotechnology ↔ Epidemiology:** biological sequencing and related biotechnological platforms used alongside epidemiological metadata to characterize antimicrobial-resistant organisms, assess genomic relatedness, identify resistance determinants, and investigate transmission or outbreaks. The relationship is bounded to the biotechnological generation and analysis of genomic data in epidemiological surveillance. Whole-genome sequencing does not replace sampling design, exposure histories, phenotypic susceptibility testing, or epidemiological interpretation.
+- **Ecology ↔ Pharmacology:** ecological effects and environmental fate of pharmaceutical substances, including impacts on wildlife, reproduction, ecosystem processes, and environmental antimicrobial resistance, considered alongside pharmaceutical safety, use, and lifecycle management. Ecopharmacovigilance is an emerging interdisciplinary field. Environmental monitoring and reporting systems remain incomplete, and the current evidence does not establish a standardized, comprehensive global surveillance system.
+
+A candidate RD-P recommendation is a proposal for owner review, not an accepted or registered canonical edge. A candidate does not establish hierarchy, dependency, enablement, implementation, testing, or verification. No canonical change is made by this report.
+
+## 2. New unique subject-pair screening
+
+| Assessment ID | Canonical subject pair | Evidence and scope boundary | Evidence assessment | Recommended disposition and direction |
+|---|---|---|---|---|
+| LSHS-195 | USA-LS-011 Cell Biology ↔ USA-HS-007 Epidemiology | A 2024 systematic review and meta-analysis examined buccal-cell micronucleus cytome assays in occupational groups exposed to metals. It identified 73 relevant studies; 97% reported increased micronuclei and/or other nuclear abnormalities in exposed groups. Only 35% of the studies contained quantitative information about exposure to metals or other toxicants, and the authors identify methodological limitations affecting comparability and interpretation. The OECD's 2025 guidance on effect biomarkers describes the lymphocyte cytokinesis-block micronucleus assay (L-CBMN), states that it is widely used in molecular epidemiology to assess chromosomal damage in human populations, and provides reporting guidance adapted from STROBE-ME. The OECD material also emphasizes the need to account for study design, sample collection and handling, confounding, assay execution, and biomarker interpretation. These sources directly support a cellular-measurement / epidemiological-study interface. They do not establish that micronucleus frequency is a stand-alone clinical diagnostic, an individual-level causal measure, or a standardized universal screening test. [S446, S447] | **High for the existence of a defined cellular-biomarker / molecular-epidemiology interface; moderate for individual-level or clinical actionability.** A systematic review/meta-analysis and OECD technical guidance directly document cellular and cytogenetic assays used in human population and occupational exposure studies. Exposure quantification, assay harmonization, confounding, and the distinction between a biomarker association and an adverse clinical outcome remain important limitations. | **Candidate RD-P:** cellular morphology, chromosomal instability, micronucleus formation, cytotoxicity, and cellular effect biomarkers / epidemiological investigation of occupational and environmental exposures, comparison of population subgroups, exposure-response analysis, and molecular-epidemiological study design interface. Cell Biology contributes cellular structures, processes, and mechanisms underlying the measured changes; Epidemiology contributes population sampling, study design, exposure characterization, statistical comparison, and interpretation of associations. The relationship is reciprocal for research. It does not equate a biomarker with a diagnosis or establish causation from a cross-sectional association. |
+| LSHS-196 | USA-LS-012 Biotechnology ↔ USA-HS-007 Epidemiology | A 2026 global systematic review of antimicrobial-resistant-bacteria surveillance screened 13,142 records and included 41 publications describing national or subnational systems that integrate whole-genome sequencing (WGS) with epidemiological data for selected resistant bacteria, including CRE, carbapenem-resistant Acinetobacter, MRSA, and VRE. WGS systems were reported across WHO regions, but coverage was uneven; national coverage ranged from 36% for MRSA to 56% for CRE. The review found gaps in collection and integration of epidemiological exposure information and variation in genomic-cluster thresholds. A 2026 biotechnology/genomics workflow review describes how WGS and bioinformatics can support pathogen identification, resistance-gene detection, virulence profiling, mobile genetic element analysis, and molecular epidemiology. It also notes constraints involving bioinformatics capacity, standardization, interpretability, and workflow implementation. These sources support a direct interface between biotechnological sequencing/analysis platforms and epidemiological surveillance. They do not establish that WGS alone proves transmission, replaces phenotypic testing, or produces complete surveillance without epidemiological metadata. [S448, S449] | **Moderate–high** for the bounded WGS / epidemiological-surveillance interface. A global systematic review documents operational surveillance systems combining WGS with epidemiological data, while a current review sets out the biotechnological sequencing and bioinformatics methods that support those workflows. Uneven coverage, inconsistent epidemiological metadata, variable cluster thresholds, and implementation capacity limit generalization. | **Candidate RD-P:** biotechnological sequencing platforms, library preparation, genomic analysis workflows, and bioinformatics-enabled pathogen characterization / epidemiological surveillance, outbreak investigation, transmission inference, and population monitoring of antimicrobial resistance interface. Biotechnology contributes the biological measurement and sequencing platform; Epidemiology contributes case definitions, population sampling, exposure and contact histories, transmission analysis, and surveillance interpretation. The relationship is reciprocal within genomic epidemiology. It does not make a genomic cluster alone proof of direct transmission or imply that sequencing replaces culture, susceptibility testing, or field epidemiology. |
+| LSHS-197 | USA-LS-005 Ecology ↔ USA-HS-005 Pharmacology | The United Nations Environment Programme's October 2026 report describes pharmaceutical residues detected worldwide and evidence of effects on wildlife, reproduction, ecosystem function, and antimicrobial resistance. It recommends action across the pharmaceutical lifecycle, including environmental risk assessment, sustainable design, responsible prescribing and use, procurement, take-back programmes, and improved waste and wastewater management. A 2026 review explicitly titled *Planetary health and pharmacology* examines the ecological consequences of pharmaceutical use, conserved pharmacological targets in non-target organisms, environmental antimicrobial resistance, and the need to prevent pollution across the drug lifecycle. A 2026 analysis of environment-related reporting in WHO VigiBase found 713 reports with environment-related terms among 38,141,125 reports overall and notes that there is no standard approach for identifying, collecting, and reporting suspected environment-related adverse effects of medicines. These sources support a bounded interface between ecological effects and pharmaceutical safety/lifecycle practice, while showing that ecopharmacovigilance is emerging and its reporting remains sparse. [S450–S452] | **Moderate–high** for the bounded pharmaceutical-ecology / ecopharmacovigilance interface. A current UNEP assessment, a dedicated pharmacology review, and a VigiBase reporting analysis directly connect pharmaceutical products and lifecycle decisions with ecosystem effects and environmental monitoring. The small number of environment-related reports and absence of standardized reporting limit completeness and global comparability. | **Candidate RD-P:** ecological communities, ecosystem processes, wildlife and non-target organism effects, and environmental fate of pharmaceutical residues / pharmacological safety, environmental risk evaluation, ecopharmacovigilance, and lifecycle management of medicinal substances interface. Ecology contributes knowledge of organism, population, community, and ecosystem responses; Pharmacology contributes knowledge of medicinal substances, mechanisms, use, safety, and pharmaceutical lifecycle decisions. The relationship is reciprocal for environmental risk assessment and responsible medicine stewardship. It does not imply that all ecological effects are pharmacological, that VigiBase reports measure environmental incidence, or that environmental risk management can be reduced to patient-level pharmacovigilance. |
+
+## 3. Duplicate, distinction, and scope cross-check
+
+The three selected pairs were checked as unordered subject pairs against all 46 preceding assessment snapshots, v0.1.0 through v0.46.0. The reconciled historical assessment IDs are LSHS-001 through LSHS-194. The prior inventory contains 194 unique screened pairs; repeated pilot rows and historical restatements are not counted again. None of the three selected pairs appears as an exact pair in the preceding ledger. Both early name-only rows and later stable-ID rows were included in the check. Canonical subject names and identifiers were checked against taxonomy v1.13.1.
+
+Previously assessed and related pairs remain distinct:
+
+- **Cell Biology:** Cell Biology ↔ Medicine (LSHS-019), Pharmacology (LSHS-021), Surgery (LSHS-016), Nursing (LSHS-095), Dentistry (LSHS-096), Nutrition (LSHS-125), Mental Health (LSHS-128), Physical Therapy (LSHS-134), Rehabilitation Science (LSHS-163), and Preventive Medicine (LSHS-188) concern other exact subject pairs. Molecular Biology ↔ Epidemiology (LSHS-093) addresses molecular methods and markers in epidemiological investigation, while LSHS-195 is specifically about cellular morphology, chromosomal damage, and cytogenetic effect biomarkers measured in exposed human populations. These interfaces are related but not interchangeable.
+- **Biotechnology:** Biotechnology ↔ Medicine (LSHS-024), Pharmacology (LSHS-025), Surgery (LSHS-026), Public Health (LSHS-027), Preventive Medicine (LSHS-028), Nursing (LSHS-099), Dentistry (LSHS-100), Nutrition (LSHS-170), Physical Therapy (LSHS-180), Rehabilitation Science (LSHS-181), and Occupational Therapy (LSHS-182) concern different applications. Molecular Biology ↔ Epidemiology (LSHS-093) addresses a different Life Sciences discipline. LSHS-196 specifically examines biotechnological sequencing platforms and genomic workflows integrated with epidemiological surveillance of antimicrobial resistance; it is not a duplicate of Biotechnology ↔ Public Health or Molecular Biology ↔ Epidemiology.
+- **Ecology:** Ecology ↔ Public Health (LSHS-007), Medicine (LSHS-058), Preventive Medicine (LSHS-059), Emergency Medicine (LSHS-073; not promoted), Nursing (LSHS-074), Occupational Therapy (LSHS-081; not promoted), Physical Therapy (LSHS-082; not promoted), Rehabilitation Science (LSHS-083; not promoted), Nutrition (LSHS-067), and Epidemiology (LSHS-117) address other exact pairs. Related pharmaceutical pairs include Botany ↔ Pharmacology (LSHS-120), Marine Biology ↔ Pharmacology (LSHS-121), and Zoology ↔ Pharmacology (LSHS-122). LSHS-197 is the exact Ecology ↔ Pharmacology pair, focused on pharmaceutical residues, ecosystem effects, and environmental pharmacovigilance.
+
+Direction and scope:
+
+- LSHS-195 is reciprocal within population research: cellular biology explains the structure and meaning of measured biomarkers, while epidemiological design determines how those measures are sampled, compared, and interpreted across exposed populations.
+- LSHS-196 is reciprocal within genomic epidemiology: biotechnology supplies sequencing and analytical platforms, while epidemiology defines the population and transmission questions that make genomic findings actionable.
+- LSHS-197 is reciprocal within ecopharmacovigilance: ecology identifies ecosystem-level effects and vulnerable organisms, while pharmacology informs the identity, intended use, mechanisms, and lifecycle controls for medicinal substances.
+
+None of these decisions creates a hierarchy edge, universal dependency, or enablement claim. This assessment does not treat cellular biomarkers as diagnoses, genomic similarity as proof of transmission, or sparse environment-related adverse-event reports as a complete measurement of pharmaceutical ecological harm.
+
+## 4. Evidence register
+
+Sources were accessed or rechecked on 2026-11-23. The register includes cytogenetic biomonitoring evidence and OECD guidance, global WGS-plus-epidemiology surveillance reviews, and current pharmaceutical environmental-risk and ecopharmacovigilance sources.
+
+| Ref | Source | Relevance |
+|---|---|---|
+| S446 | Wultsch G et al., [Use of micronucleus cytome assays with buccal cells for the detection of genotoxic effects: A systematic review and meta-analysis of occupational exposures to metals](https://pubmed.ncbi.nlm.nih.gov/39004337/), *Mutation Research/Reviews in Mutation Research* 794, 108510 (2024), DOI: 10.1016/j.mrrev.2024.108510 | Systematic review/meta-analysis of 73 occupational exposure studies; 97% reported increased micronuclei and/or nuclear anomalies in exposed groups. Only 35% included quantitative exposure information, highlighting important limits in exposure characterization and comparability. |
+| S447 | OECD, [Guiding principles for mixture threshold derivation from effect biomarkers](https://one.oecd.org/document/ENV/CBC/MONO%282025%2912/en/pdf), OECD Series on Testing and Assessment No. 414, ENV/CBC/MONO(2025)12 (2 October 2025) | Technical guidance includes the lymphocyte cytokinesis-block micronucleus assay, describes its use in molecular epidemiology and chromosomal-damage assessment in human populations, and provides STROBE-ME-adapted reporting guidance and methodological considerations. |
+| S448 | Reichert F et al., [Surveillance of antibiotic-resistant bacteria integrating whole genome sequencing and epidemiological information – a global, systematic review, 2012–2023](https://link.springer.com/article/10.1186/s13756-026-01821-9), *Antimicrobial Resistance & Infection Control* 15, 120 (24 September 2026), DOI: 10.1186/s13756-026-01821-9 | Systematic review screened 13,142 articles and included 41 surveillance-system publications integrating WGS and epidemiological information for selected resistant bacteria. Documents uneven coverage, incomplete epidemiological metadata, and variable genomic clustering thresholds. |
+| S449 | On Y, Yoon EJ, [Strategies for integrating whole-genome sequencing into antimicrobial resistance surveillance](https://link.springer.com/article/10.1186/s12864-026-13004-2), *BMC Genomics* 27, 658 (4 June 2026), DOI: 10.1186/s12864-026-13004-2 | Review of biotechnological sequencing and bioinformatics workflows for pathogen identification, molecular epidemiology, resistance-gene detection, virulence profiling, and mobile genetic element analysis; identifies capacity, standardization, and interpretability constraints. |
+| S450 | United Nations Environment Programme, [Pharmaceuticals in the environment: pathways, hotspots and priorities for action](https://wedocs.unep.org/items/fa181147-dec7-49e5-9c00-4ef98056db7b) (29 October 2026) | Global assessment of pharmaceutical pathways and ecosystem effects, including wildlife, reproduction, ecosystem function, and AMR; recommends lifecycle interventions, environmental risk assessment, responsible use, and wastewater management. |
+| S451 | Mitchell J et al., [Ecopharmacovigilance and pharmacovigilance: an analysis of environment-related reporting in VigiBase](https://pmc.ncbi.nlm.nih.gov/articles/PMC13124797/), *Environmental Science and Pollution Research* 33(14), 6816–6826 (15 April 2026), DOI: 10.1007/s11356-026-37744-6 | Analysis found 713 environment-related preferred-term reports among 38,141,125 total VigiBase reports. Authors describe sparse reporting and the absence of a standardized approach for collecting suspected environmental adverse effects of medicines. |
+| S452 | Fan Y et al., [Planetary health and pharmacology: Addressing the ecological impact and circular threat of pharmaceuticals](https://pubmed.ncbi.nlm.nih.gov/42727463/), *Ecotoxicology and Environmental Safety* 323, 120787 (15 September 2026), DOI: 10.1016/j.ecoenv.2026.120787 | Dedicated pharmacology review of pharmaceutical ecotoxicity, conserved biological targets in non-target organisms, environmental AMR, lifecycle source control, and gaps in monitoring and regulatory practice. |
+
+## 5. Updated Life Sciences ↔ Health Sciences accounting
+
+| Measure | Count |
+|---|---:|
+| Total possible cross-domain subject pairs | 270 |
+| Unique pairs screened through v0.46.0 | 194 |
+| New unique pairs screened in v0.47.0 | 3 |
+| **Cumulative unique pairs screened** | **197 of 270** |
+| Candidate recommendations before this batch | 173 |
+| New candidate recommendations in this batch | 3 |
+| **Cumulative candidate RD-P recommendations** | **176** |
+| Screened but not promoted / deferred before this batch | 21 |
+| New non-promotions in this batch | 0 |
+| **Cumulative screened but not promoted / deferred** | **21** |
+| **Pairs still individually unassessed** | **73** |
+
+Coverage: 197 / 270 = 72.96%.
+
+Accounting check: 270 = 176 candidate recommendations + 21 not promoted / deferred + 73 unassessed.
+
+Owner-accepted relationships: 0.
+
+## 6. Canonical status and governance
+
+The canonical taxonomy remains unchanged at v1.13.1. Its verified Git blob SHA remains f054a687bb649f8e67982a607b59a5156e8e9a46, and its four repository copies were byte-identical at the baseline check.
+
+No candidate from this assessment has been inserted into the canonical taxonomy. The existing 18 canonical RD-P proposals, 252 hierarchy edges, 18 RD-P links, and 34,446 source-unlinked sparse-matrix entries remain unchanged. No owner acceptance is claimed. The separate RD-013–RD-018 proposal-assessment workstream remains untouched.
+
+The v0.47.0 report is supplemental assessment evidence only. Publication of this report does not change canonical subject definitions, hierarchy, authority, or owner-acceptance status.
+
+## 7. Next work
+
+The programme now has 73 individually unassessed pairs remaining.
+
+197 screened. 176 candidate recommendations. 21 not promoted or deferred. 73 remaining. Zero unauthorized canonical changes.
+
+Coverage is 72.96%.
+
+The next subgroup will be selected from the reconciled remaining inventory and checked against all 47 preceding assessment snapshots, v0.1.0 through v0.47.0, with the same unordered-pair duplicate checks, source verification, evidence grading, scope distinctions, reporting, publication, and read-back requirements.
+
+The scope distinctions to preserve from this batch are:
+
+- Cellular biomarkers can support population exposure research, but they are not standalone diagnoses or universal screening tests.
+- Genomic sequencing adds resolution to epidemiological surveillance, but genomic relatedness alone does not prove direct transmission and depends on epidemiological metadata.
+- Pharmaceutical ecological effects belong to an emerging ecopharmacovigilance interface, but current environmental reporting systems remain sparse and non-standardized.
+
+Three candidate interfaces. Seven sources registered. Four identical reports. Canonical taxonomy untouched.
