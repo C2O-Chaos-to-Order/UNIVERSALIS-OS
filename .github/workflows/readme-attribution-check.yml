@@ -17,9 +17,10 @@ jobs:
     name: Require originator attribution in changed README files
     runs-on: ubuntu-latest
     steps:
-      - name: Check out pull request
+      - name: Check out pull request head
         uses: actions/checkout@v4
         with:
+          ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
 
       - name: Verify changed README attribution
