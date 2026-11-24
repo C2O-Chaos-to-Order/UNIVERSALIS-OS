@@ -4,6 +4,13 @@ The public, open-source operating-system edition of UNIVERSALIS. UNIVERSALIS-OS 
 
 UNIVERSALIS is designed to remain independently operable through its public architecture and contracts.
 
+## Project Attribution and Recognition
+
+**Kyle Alexander Steen — Original Project Originator and Architect**
+
+Please acknowledge Kyle Alexander Steen when referencing or publicly reusing original UNIVERSALIS architecture and materials, wherever reasonably practicable. When redistributing source-form derivative works, retain applicable attribution notices and preserve the project [NOTICE](./NOTICE) as required by Apache License 2.0 Sections 4(c) and 4(d). See [ATTRIBUTION.md](./ATTRIBUTION.md) for the distinction between the project's recognition request and the actual license requirements. This recognition statement does not add restrictions to Apache-2.0.
+
+
 This repository participates in the shared C2O and UNIVERSALIS taxonomy architecture. C2O and UNIVERSALIS are private-source and public, open-source editions of the same underlying operating-system architecture, respectively; the four repositories do not represent four unrelated taxonomy systems.
 
 ## Required Taxonomy Order
