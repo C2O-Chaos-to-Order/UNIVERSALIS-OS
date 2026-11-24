@@ -6,9 +6,9 @@
 
 ## 1. Canonical baseline and scope
 
-The canonical source is \`ALCHEMY_TAXONOMY_FOR_THE_UNIVERSAL_SUBJECTS_OF_KNOWLEDGE.md\`, version 1.13.1. It was checked in all four in-scope repositories and returned the same Git blob SHA:
+The canonical source is `ALCHEMY_TAXONOMY_FOR_THE_UNIVERSAL_SUBJECTS_OF_KNOWLEDGE.md`, version 1.13.1. It was checked in all four in-scope repositories and returned the same Git blob SHA:
 
-\`f054a687bb649f8e67982a607b59a5156e8e9a46\`
+`f054a687bb649f8e67982a607b59a5156e8e9a46`
 
 The canonical Life Sciences inventory contains 18 subject Alchemies and the Health Sciences inventory contains 15, yielding 270 possible cross-domain subject pairs.
 
@@ -123,7 +123,7 @@ Sources were accessed or rechecked on 2026-11-23. Peer-reviewed reviews and syst
 
 Accounting check:
 
-\`270 = 88 candidates + 12 not promoted/deferred + 170 unassessed\`
+`270 = 88 candidates + 12 not promoted/deferred + 170 unassessed`
 
 The ten previous non-promotions/deferred pairs remain unchanged. This report adds:
 - LSHS-098 — Molecular Biology ↔ Dentistry;
@@ -134,7 +134,7 @@ This batch adds four candidate recommendations and two non-promotions. LSHS-097 
 ## 7. Canonical status and governance
 
 - Canonical taxonomy remains **v1.13.1**.
-- The canonical taxonomy blob SHA remains \`f054a687bb649f8e67982a607b59a5156e8e9a46\`.
+- The canonical taxonomy blob SHA remains `f054a687bb649f8e67982a607b59a5156e8e9a46`.
 - The 18 canonical RD-P proposals remain unchanged.
 - Canonical hierarchy-edge, RD-P, and source-unlinked sparse-matrix counts remain **252 / 18 / 34,446**.
 - The four candidate recommendations in this report have **not** been inserted into the canonical taxonomy.
