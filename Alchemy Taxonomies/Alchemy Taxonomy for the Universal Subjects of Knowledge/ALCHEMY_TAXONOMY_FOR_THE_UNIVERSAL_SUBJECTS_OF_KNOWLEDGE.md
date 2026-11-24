@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.13.1  
-**Status:** Twenty supplied Universal Subject hierarchies recorded; 264 unique subject Alchemies mapped across 22 contexts; cross-domain source screening and 264-node sparse relationship matrix initiated; 18 related-but-distinct proposals pending owner review; detailed contextual expressions pending  
+**Version:** 1.13.2  
+**Status:** Twenty supplied Universal Subject hierarchies recorded; 264 unique subject Alchemies mapped across 22 contexts; 5,808 contextual-expression records established with expression authoring and review pending; cross-domain source screening and 264-node sparse relationship matrix initiated; 18 related-but-distinct proposals pending owner review  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -252,6 +252,8 @@ The following matrix maps every Formal Sciences subject Alchemy to all 22 canoni
 The 418 intersections are not 418 additional subject classifications. They are the context mappings of the 19 established Formal Sciences Alchemies. Each intersection receives a contextual expression under its corresponding Alchemy identity.
 
 ## 10. Contextual expression requirements
+
+**Execution register:** The companion [Contextual Expression Register](./CONTEXTUAL-EXPRESSION-REGISTER.md) and [CSV record set](./CONTEXTUAL-EXPRESSION-REGISTER.csv) track all 5,808 unique subject–context intersections. Each record begins as mapped, with detailed expression fields blank and expression, review, evidence, owner acceptance, implementation, and publication authorization kept as separate states.
 
 Each mapped intersection must be expanded through the same controlled record:
 
@@ -2646,6 +2648,7 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 | Subject-Alchemy 264 × 264 sparse matrix | Initialized — 34,716 unique pairs: 252 HI, 18 RD-P, 34,446 NS; NS is not a negative finding |
 | Cumulative unique subject Alchemy register | 264 distinct subject Alchemies |
 | Cumulative unique mapped intersections | 264 × 22 = 5808 required mappings |
+| Contextual-expression register | Established — 5,808 unique tracking records; detailed expressions remain not authored and not reviewed |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
 | Implementation and verification | Not asserted by this taxonomy entry |
@@ -2670,3 +2673,5 @@ All four repositories must maintain the same shared taxonomy content and version
 **Version 1.13.0 change record:** Completed a source-based screen of all 190 unique top-level domain pairs; retained eight confirmed shared-identity pairs, added seven domain-pair views containing proposed related-but-distinct relationships, and recorded 176 NS pairs without treating them as negative findings. Resolved eleven source candidate records/sets into eighteen traceable RD-P subject-Alchemy proposals. Added a canonical index of all 264 unique subject Alchemies and initialized the 264 × 264 sparse relationship matrix with 252 established hierarchy pairs, eighteen proposed RD-P pairs, and 34,446 NS pairs. All proposals remain pending owner review. The original 272 hierarchy positions, 264 unique subject Alchemies, 22 contexts, and 5,808 unique context mappings remain unchanged.
 
 **Version 1.13.1 change record:** Corrected the top-level domain matrix to allow multiple relationship codes for one domain pair. Human Development and Civilization ↔ Social Sciences contains both the shared Anthropology identity and separate proposed related-but-distinct subject relationships. The corrected source-screen result is 176 NS domain pairs; all underlying relationship records and cumulative taxonomy totals remain unchanged.
+
+**Version 1.13.2 change record:** Added the 5,808-record Contextual Expression Register derived from the existing 264 unique subject-Alchemy identifiers and 22 canonical context keys. The register preserves the eight shared multi-domain identities once each, tracks mapping separately from expression authoring, review, evidence, owner acceptance, implementation, and publication authorization, and leaves every detailed expression pending individual authorship and review. No subject, hierarchy, context mapping, implementation, or verification claim was added.
