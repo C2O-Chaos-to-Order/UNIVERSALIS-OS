@@ -73,3 +73,8 @@ This structure does not itself create, alter, validate, approve, canonize, or au
 ## Related Collection
 
 The [Quantum Alchemy Taxonomies](../Quantum%20Alchemy%20Taxonomies/) collection examines foundational possibility, states, uncertainty, transitions, and interactions across Ultra-level refinements. Ultra-level evaluation and refinement remain distinct from Quantum-level investigation.
+
+
+## Related Collection
+
+The [Magic Alchemy Taxonomies](../Magic%20Alchemy%20Taxonomies/) collection examines directed transformation and generative methods following Ultra-level evaluation and refinement.

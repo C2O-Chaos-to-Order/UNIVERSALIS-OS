@@ -69,3 +69,8 @@ The [Ultra Alchemy Taxonomies](../Ultra%20Alchemy%20Taxonomies/) collection is r
 ## Related Collection
 
 The [Quantum Alchemy Taxonomies](../Quantum%20Alchemy%20Taxonomies/) collection examines foundational possibility, states, uncertainty, transitions, and interactions across Ultra-level refinements. Meta-level examination remains distinct from Super-level synthesis, Hyper-level integration, Ultra-level refinement, and Quantum-level investigation.
+
+
+## Related Collection
+
+The [Magic Alchemy Taxonomies](../Magic%20Alchemy%20Taxonomies/) collection examines directed transformation and generative methods. Meta-level examination remains distinct from Magic-level transformation work.

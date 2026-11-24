@@ -15,7 +15,8 @@ The term **Quantum** identifies this level's conceptual and methodological scope
 - **Super Alchemy Taxonomies** develop and examine higher-order patterns and syntheses across source taxonomies.
 - **Hyper Alchemy Taxonomies** examine system-wide coherence, architecture, interactions, constraints, and integration across Super-level syntheses.
 - **Ultra Alchemy Taxonomies** evaluate and refine the integrated Hyper-level architecture, including resilience, adaptability, efficiency, robustness, and system-wide tradeoffs.
-- **Quantum Alchemy Taxonomies** investigate foundational possibility, states, uncertainty, transitions, and interactions in relation to Ultra-level refinements and the integrated architecture.
+- **Magic Alchemy Taxonomies** examine directed transformation, generative methods, and documented pathways from possibilities or designs to intended outcomes.
+- **Quantum Alchemy Taxonomies** investigate foundational possibility, states, uncertainty, transitions, and interactions after the Magic level and in relation to the preceding taxonomy levels.
 
 These levels are complementary. Quantum-level models or hypotheses do not automatically supersede, validate, or authorize changes to any lower-level taxonomy or finding.
 
@@ -63,7 +64,7 @@ All 33 Quantum Alchemy Taxonomy workspace directories are initialized as organiz
 
 ## Boundary
 
-This structure does not itself create, alter, validate, approve, canonize, or authorize any source taxonomy entry, Meta-level finding, Super-level synthesis, Hyper-level integration, Ultra-level refinement, relationship, hierarchy, classification, governance rule, or owner decision. Quantum-level findings must preserve traceable provenance through all preceding levels, distinguish possibility from actuality and hypothesis from evidence, state model assumptions and limits, document uncertainty and alternative explanations, and separate conceptual use of quantum terminology from claims about established physical phenomena. Owner acceptance and authorization are required before canonical changes.
+This structure does not itself create, alter, validate, approve, canonize, or authorize any source taxonomy entry, Meta-level finding, Super-level synthesis, Hyper-level integration, Ultra-level refinement, relationship, hierarchy, classification, governance rule, or owner decision. Quantum-level findings must preserve traceable provenance through all preceding levels, including Magic-level transformation work, distinguish possibility from actuality and hypothesis from evidence, state model assumptions and limits, document uncertainty and alternative explanations, and separate conceptual use of quantum terminology from claims about established physical phenomena. Owner acceptance and authorization are required before canonical changes.
 
 ## Related Collections
 
@@ -72,3 +73,4 @@ This structure does not itself create, alter, validate, approve, canonize, or au
 - [Super Alchemy Taxonomies](../Super%20Alchemy%20Taxonomies/) — the collection for higher-order synthesis across source taxonomies.
 - [Hyper Alchemy Taxonomies](../Hyper%20Alchemy%20Taxonomies/) — the collection for system-wide coherence and integration across Super-level syntheses.
 - [Ultra Alchemy Taxonomies](../Ultra%20Alchemy%20Taxonomies/) — the collection for evaluating and refining the integrated Hyper-level architecture.
+- [Magic Alchemy Taxonomies](../Magic%20Alchemy%20Taxonomies/) — the collection for directed transformation and generative methods.

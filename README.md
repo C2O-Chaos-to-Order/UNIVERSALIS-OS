@@ -26,6 +26,10 @@ The [Hyper Alchemy Taxonomies](./Hyper%20Alchemy%20Taxonomies/) directory provid
 
 The [Ultra Alchemy Taxonomies](./Ultra%20Alchemy%20Taxonomies/) directory provides separate workspaces for evaluating and refining the integrated Hyper-level architecture, including resilience, adaptability, efficiency, robustness, and system-wide tradeoffs. It is initialized for future research and does not itself establish or authorize any refinement.
 
+## Magic Alchemy Taxonomies
+
+The [Magic Alchemy Taxonomies](./Magic%20Alchemy%20Taxonomies/) directory provides separate workspaces for examining directed transformation, generative methods, and documented pathways from possibilities or designs to intended outcomes. It is initialized for future research and does not itself establish mechanisms or authorize changes.
+
 ## Quantum Alchemy Taxonomies
 
 The [Quantum Alchemy Taxonomies](./Quantum%20Alchemy%20Taxonomies/) directory provides separate workspaces for investigating foundational possibility, states, uncertainty, transitions, and interactions across Ultra-level refinements. The structure is initialized for future research and does not itself establish scientific or canonical conclusions.

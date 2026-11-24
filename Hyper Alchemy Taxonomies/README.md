@@ -76,3 +76,8 @@ The [Ultra Alchemy Taxonomies](../Ultra%20Alchemy%20Taxonomies/) collection is r
 ## Related Collection
 
 The [Quantum Alchemy Taxonomies](../Quantum%20Alchemy%20Taxonomies/) collection examines foundational possibility, states, uncertainty, transitions, and interactions across Ultra-level refinements. Hyper-level integration remains distinct from Ultra-level refinement and Quantum-level investigation.
+
+
+## Related Collection
+
+The [Magic Alchemy Taxonomies](../Magic%20Alchemy%20Taxonomies/) collection examines directed transformation methods in relation to the integrated Hyper-level architecture.

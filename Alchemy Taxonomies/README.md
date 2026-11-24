@@ -68,6 +68,8 @@ The [Ultra Alchemy Taxonomies](../Ultra%20Alchemy%20Taxonomies/) directory is re
 
 The [Quantum Alchemy Taxonomies](../Quantum%20Alchemy%20Taxonomies/) directory is reserved for examining foundational possibility, states, uncertainty, transitions, and interactions across Ultra-level refinements. It does not replace or silently modify the source taxonomies.
 
+The [Magic Alchemy Taxonomies](../Magic%20Alchemy%20Taxonomies/) directory is reserved for examining directed transformation and generative methods. It does not replace or silently modify the source taxonomies.
+
 ---
 
 **Collection status:** 33 workspaces indexed. The index is organizational; it does not confer approval, completion, or canonical status on the contents of any workspace.
