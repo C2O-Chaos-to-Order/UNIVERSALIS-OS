@@ -66,3 +66,8 @@ This structure does not itself create, alter, validate, approve, or canonize any
 - [Alchemy Taxonomies](../Alchemy%20Taxonomies/) — the subject- and domain-focused source collection.
 - [Meta Alchemy Taxonomies](../Meta%20Alchemy%20Taxonomies/) — the collection for examining the source taxonomies and their internal structures.
 - [Super Alchemy Taxonomies](../Super%20Alchemy%20Taxonomies/) — the collection for higher-order synthesis across source taxonomies.
+
+
+## Related Collection
+
+The [Ultra Alchemy Taxonomies](../Ultra%20Alchemy%20Taxonomies/) collection is reserved for evaluating and refining the integrated Hyper-level architecture. Hyper-level integration remains distinct from Ultra-level evaluation and refinement.

@@ -64,6 +64,8 @@ The [Super Alchemy Taxonomies](../Super%20Alchemy%20Taxonomies/) directory is a 
 
 The [Hyper Alchemy Taxonomies](../Hyper%20Alchemy%20Taxonomies/) directory is reserved for system-wide integration across Super-level syntheses. It does not replace or silently modify the source taxonomies.
 
+The [Ultra Alchemy Taxonomies](../Ultra%20Alchemy%20Taxonomies/) directory is reserved for evaluating and refining the integrated Hyper-level architecture. It does not replace or silently modify the source taxonomies.
+
 ---
 
 **Collection status:** 33 workspaces indexed. The index is organizational; it does not confer approval, completion, or canonical status on the contents of any workspace.

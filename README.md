@@ -22,6 +22,10 @@ The [Super Alchemy Taxonomies](./Super%20Alchemy%20Taxonomies/) directory provid
 
 The [Hyper Alchemy Taxonomies](./Hyper%20Alchemy%20Taxonomies/) directory provides separate workspaces for examining system-wide coherence, architecture, interactions, constraints, and integration across the Super-level syntheses. It is initialized for future research and does not itself establish or canonize an integrated conclusion.
 
+## Ultra Alchemy Taxonomies
+
+The [Ultra Alchemy Taxonomies](./Ultra%20Alchemy%20Taxonomies/) directory provides separate workspaces for evaluating and refining the integrated Hyper-level architecture, including resilience, adaptability, efficiency, robustness, and system-wide tradeoffs. It is initialized for future research and does not itself establish or authorize any refinement.
+
 ## Related repositories
 
 - `UNIVERSALIS-App` — public, open-source application edition.

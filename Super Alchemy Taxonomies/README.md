@@ -12,6 +12,7 @@ The Super level is intended to build carefully supported syntheses from source t
 - **Meta Alchemy Taxonomies** examine the corresponding source taxonomies as objects of study, including their scope, structure, definitions, relationships, methods, and evidence.
 - **Super Alchemy Taxonomies** examine higher-order patterns and syntheses across the source taxonomies, including how distinct subject areas may relate or integrate.
 - **Hyper Alchemy Taxonomies** examine system-wide coherence, architecture, interactions, constraints, and integration across the Super-level syntheses.
+- **Ultra Alchemy Taxonomies** evaluate and refine the integrated Hyper-level architecture, including resilience, adaptability, efficiency, robustness, and system-wide tradeoffs.
 
 These levels are complementary. A higher-level synthesis does not automatically supersede, validate, or alter a source taxonomy or a Meta-level finding.
 
@@ -68,3 +69,6 @@ This structure does not itself create, alter, validate, approve, or canonize any
 
 
 - [Hyper Alchemy Taxonomies](../Hyper%20Alchemy%20Taxonomies/) — the collection for system-wide integration across Super-level syntheses.
+
+
+- [Ultra Alchemy Taxonomies](../Ultra%20Alchemy%20Taxonomies/) — the collection for evaluating and refining the integrated Hyper-level architecture.
