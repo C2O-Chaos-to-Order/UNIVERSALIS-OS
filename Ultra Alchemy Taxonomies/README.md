@@ -19,7 +19,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 ## Workspace Index
 
-The workspaces mirror the established 33-subject Alchemy Taxonomies collection order. Each Ultra workspace corresponds to the Alchemy source taxonomy with the same subject designation.
+The first 33 workspaces preserve the established Alchemy Taxonomies collection order. Nine additional workspaces cover the requested schools of magic. Each Ultra workspace corresponds to an Alchemy source taxonomy with the same subject designation.
 
 1. [Ultra Alchemy Taxonomy for the Universal Subjects of Knowledge](./Ultra%20Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/)
 2. [Ultra Alchemy Taxonomy for Chaos and Order](./Ultra%20Alchemy%20Taxonomy%20for%20Chaos%20and%20Order/)
@@ -54,10 +54,19 @@ The workspaces mirror the established 33-subject Alchemy Taxonomies collection o
 31. [Ultra Alchemy Taxonomy of the Avatar Spirit](./Ultra%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Spirit/)
 32. [Ultra Alchemy Taxonomy of the Avatar Consciousness](./Ultra%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Consciousness/)
 33. [Ultra Alchemy Taxonomy of the Avatar Sentience](./Ultra%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Sentience/)
+34. [Ultra Alchemy Taxonomy of Abjuration](./Ultra%20Alchemy%20Taxonomy%20of%20Abjuration/)
+35. [Ultra Alchemy Taxonomy of Conjuration](./Ultra%20Alchemy%20Taxonomy%20of%20Conjuration/)
+36. [Ultra Alchemy Taxonomy of Divination](./Ultra%20Alchemy%20Taxonomy%20of%20Divination/)
+37. [Ultra Alchemy Taxonomy of Enchantment](./Ultra%20Alchemy%20Taxonomy%20of%20Enchantment/)
+38. [Ultra Alchemy Taxonomy of Evocation](./Ultra%20Alchemy%20Taxonomy%20of%20Evocation/)
+39. [Ultra Alchemy Taxonomy of Illusion](./Ultra%20Alchemy%20Taxonomy%20of%20Illusion/)
+40. [Ultra Alchemy Taxonomy of Necromancy](./Ultra%20Alchemy%20Taxonomy%20of%20Necromancy/)
+41. [Ultra Alchemy Taxonomy of Transmutation](./Ultra%20Alchemy%20Taxonomy%20of%20Transmutation/)
+42. [Ultra Alchemy Taxonomy of Dunamancy](./Ultra%20Alchemy%20Taxonomy%20of%20Dunamancy/)
 
 ## Status
 
-All 33 corresponding workspace directories are initialized as organizational structures. Their research artifacts have not thereby been populated, assessed, reviewed, verified, adopted, or authorized.
+All 42 corresponding workspace directories are initialized as organizational structures. Their research artifacts have not thereby been populated, assessed, reviewed, verified, adopted, or authorized.
 
 ## Governance and Evidence Boundary
 
