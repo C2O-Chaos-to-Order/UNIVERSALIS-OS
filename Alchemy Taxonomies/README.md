@@ -1,4 +1,4 @@
-# Alchemy Alchemy Taxonomies
+# Alchemy Taxonomies
 
 ## Purpose
 

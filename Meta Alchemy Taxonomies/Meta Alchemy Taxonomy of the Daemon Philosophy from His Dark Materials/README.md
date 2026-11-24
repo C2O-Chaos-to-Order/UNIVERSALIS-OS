@@ -25,7 +25,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-- [Alchemy Taxonomy of the Daemon Philosophy from His Dark Materials](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20the%20Daemon%20Philosophy%20from%20His%20Dark%20Materials/)
+- [Alchemy Taxonomy of the Daemon Philosophy from His Dark Materials](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20the%20Daemon%20Philosophy%20from%20His%20Dark%20Materials/)
 - [Super Alchemy Taxonomy of the Daemon Philosophy from His Dark Materials](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20the%20Daemon%20Philosophy%20from%20His%20Dark%20Materials/)
 - [Hyper Alchemy Taxonomy of the Daemon Philosophy from His Dark Materials](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20the%20Daemon%20Philosophy%20from%20His%20Dark%20Materials/)
 - [Ultra Alchemy Taxonomy of the Daemon Philosophy from His Dark Materials](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20the%20Daemon%20Philosophy%20from%20His%20Dark%20Materials/)

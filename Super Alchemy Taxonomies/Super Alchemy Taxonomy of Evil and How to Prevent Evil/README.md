@@ -25,7 +25,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-- [Alchemy Taxonomy of Evil and How to Prevent Evil](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Evil%20and%20How%20to%20Prevent%20Evil/)
+- [Alchemy Taxonomy of Evil and How to Prevent Evil](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Evil%20and%20How%20to%20Prevent%20Evil/)
 - [Meta Alchemy Taxonomy of Evil and How to Prevent Evil](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20Evil%20and%20How%20to%20Prevent%20Evil/)
 - [Hyper Alchemy Taxonomy of Evil and How to Prevent Evil](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20Evil%20and%20How%20to%20Prevent%20Evil/)
 - [Ultra Alchemy Taxonomy of Evil and How to Prevent Evil](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20Evil%20and%20How%20to%20Prevent%20Evil/)

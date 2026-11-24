@@ -35,7 +35,7 @@ The corresponding workspaces at the other taxonomy levels are listed below in th
 
 ## Collection Index
 
-Return to the [Alchemy Alchemy Taxonomies index](../README.md) for the complete 33-workspace directory.
+Return to the [Alchemy Taxonomies index](../README.md) for the complete 33-workspace directory.
 
 ## Status and Governance Boundary
 

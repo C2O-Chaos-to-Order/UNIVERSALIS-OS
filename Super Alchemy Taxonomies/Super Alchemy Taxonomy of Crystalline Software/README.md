@@ -25,7 +25,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-- [Alchemy Taxonomy of Crystalline Software](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Crystalline%20Software/)
+- [Alchemy Taxonomy of Crystalline Software](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Crystalline%20Software/)
 - [Meta Alchemy Taxonomy of Crystalline Software](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20Crystalline%20Software/)
 - [Hyper Alchemy Taxonomy of Crystalline Software](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20Crystalline%20Software/)
 - [Ultra Alchemy Taxonomy of Crystalline Software](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20Crystalline%20Software/)

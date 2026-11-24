@@ -25,7 +25,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-- [Alchemy Taxonomy of the Avatar Consciousness](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20the%20Avatar%20Consciousness/)
+- [Alchemy Taxonomy of the Avatar Consciousness](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20the%20Avatar%20Consciousness/)
 - [Meta Alchemy Taxonomy of the Avatar Consciousness](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Consciousness/)
 - [Super Alchemy Taxonomy of the Avatar Consciousness](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Consciousness/)
 - [Hyper Alchemy Taxonomy of the Avatar Consciousness](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Consciousness/)

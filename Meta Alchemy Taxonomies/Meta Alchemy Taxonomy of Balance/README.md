@@ -25,7 +25,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-- [Alchemy Taxonomy of Balance](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Balance/)
+- [Alchemy Taxonomy of Balance](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Balance/)
 - [Super Alchemy Taxonomy of Balance](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20Balance/)
 - [Hyper Alchemy Taxonomy of Balance](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20Balance/)
 - [Ultra Alchemy Taxonomy of Balance](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20Balance/)

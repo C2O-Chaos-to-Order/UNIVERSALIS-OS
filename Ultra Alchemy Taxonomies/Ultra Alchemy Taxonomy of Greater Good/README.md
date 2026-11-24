@@ -25,7 +25,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-- [Alchemy Taxonomy of Greater Good](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Greater%20Good/)
+- [Alchemy Taxonomy of Greater Good](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Greater%20Good/)
 - [Meta Alchemy Taxonomy of Greater Good](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20Greater%20Good/)
 - [Super Alchemy Taxonomy of Greater Good](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20Greater%20Good/)
 - [Hyper Alchemy Taxonomy of Greater Good](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20Greater%20Good/)

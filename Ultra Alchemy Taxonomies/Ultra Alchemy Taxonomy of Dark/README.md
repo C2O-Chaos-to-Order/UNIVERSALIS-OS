@@ -25,7 +25,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-- [Alchemy Taxonomy of Dark](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Dark/)
+- [Alchemy Taxonomy of Dark](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Dark/)
 - [Meta Alchemy Taxonomy of Dark](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20Dark/)
 - [Super Alchemy Taxonomy of Dark](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20Dark/)
 - [Hyper Alchemy Taxonomy of Dark](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20Dark/)

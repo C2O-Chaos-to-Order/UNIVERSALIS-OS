@@ -25,7 +25,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-- [Alchemy Taxonomy of the Avatar Heart](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20the%20Avatar%20Heart/)
+- [Alchemy Taxonomy of the Avatar Heart](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20the%20Avatar%20Heart/)
 - [Meta Alchemy Taxonomy of the Avatar Heart](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Heart/)
 - [Super Alchemy Taxonomy of the Avatar Heart](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Heart/)
 - [Ultra Alchemy Taxonomy of the Avatar Heart](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Heart/)

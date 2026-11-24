@@ -25,7 +25,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-- [Alchemy Taxonomy for the Universal Subjects of Knowledge](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/)
+- [Alchemy Taxonomy for the Universal Subjects of Knowledge](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/)
 - [Meta Alchemy Taxonomy for the Universal Subjects of Knowledge](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/)
 - [Super Alchemy Taxonomy for the Universal Subjects of Knowledge](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/)
 - [Ultra Alchemy Taxonomy for the Universal Subjects of Knowledge](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/)

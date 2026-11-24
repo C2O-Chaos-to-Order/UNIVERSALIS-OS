@@ -10,7 +10,7 @@ This repository participates in the shared C2O and UNIVERSALIS taxonomy architec
 
 The taxonomy collections must be followed in this exact sequence:
 
-1. **Alchemy Alchemy Taxonomies** — The source-level collection of subject- and domain-focused taxonomies. It provides the baseline definitions, distinctions, classifications, and source records from which the higher taxonomy levels work.
+1. **Alchemy Taxonomies** — The source-level collection of subject- and domain-focused taxonomies. It provides the baseline definitions, distinctions, classifications, and source records from which the higher taxonomy levels work.
 2. **Meta Alchemy Taxonomies** — The Meta level examines the corresponding Alchemy Taxonomies as objects of study, including their scope, definitions, organization, classifications, relationships, dependencies, methods, evidence, consistency, and governance boundaries.
 3. **Super Alchemy Taxonomies** — The Super level develops higher-order synthesis across source taxonomies, examining recurring principles, shared distinctions, cross-domain relationships, dependencies, correspondences, coherence, and integration while preserving source provenance.
 4. **Hyper Alchemy Taxonomies** — The Hyper level examines system-wide coherence, architecture, interactions, constraints, feedback, dependencies, invariants, and integration across the Super-level syntheses.

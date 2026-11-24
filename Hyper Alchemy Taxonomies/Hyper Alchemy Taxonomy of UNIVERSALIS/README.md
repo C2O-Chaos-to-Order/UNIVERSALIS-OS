@@ -25,7 +25,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-- [Alchemy Taxonomy of UNIVERSALIS](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20UNIVERSALIS/)
+- [Alchemy Taxonomy of UNIVERSALIS](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20UNIVERSALIS/)
 - [Meta Alchemy Taxonomy of UNIVERSALIS](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20UNIVERSALIS/)
 - [Super Alchemy Taxonomy of UNIVERSALIS](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20UNIVERSALIS/)
 - [Ultra Alchemy Taxonomy of UNIVERSALIS](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20UNIVERSALIS/)

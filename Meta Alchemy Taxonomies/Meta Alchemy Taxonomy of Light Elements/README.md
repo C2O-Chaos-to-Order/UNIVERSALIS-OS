@@ -25,7 +25,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-- [Alchemy Taxonomy of Light Elements](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Light%20Elements/)
+- [Alchemy Taxonomy of Light Elements](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Light%20Elements/)
 - [Super Alchemy Taxonomy of Light Elements](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20Light%20Elements/)
 - [Hyper Alchemy Taxonomy of Light Elements](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20Light%20Elements/)
 - [Ultra Alchemy Taxonomy of Light Elements](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20Light%20Elements/)

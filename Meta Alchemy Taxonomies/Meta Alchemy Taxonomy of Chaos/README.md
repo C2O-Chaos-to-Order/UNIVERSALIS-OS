@@ -25,7 +25,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-- [Alchemy Taxonomy of Chaos](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Chaos/)
+- [Alchemy Taxonomy of Chaos](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Chaos/)
 - [Super Alchemy Taxonomy of Chaos](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20Chaos/)
 - [Hyper Alchemy Taxonomy of Chaos](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20Chaos/)
 - [Ultra Alchemy Taxonomy of Chaos](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20Chaos/)
