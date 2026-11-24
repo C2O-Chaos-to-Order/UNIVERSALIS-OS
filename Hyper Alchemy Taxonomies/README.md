@@ -71,3 +71,8 @@ This structure does not itself create, alter, validate, approve, or canonize any
 ## Related Collection
 
 The [Ultra Alchemy Taxonomies](../Ultra%20Alchemy%20Taxonomies/) collection is reserved for evaluating and refining the integrated Hyper-level architecture. Hyper-level integration remains distinct from Ultra-level evaluation and refinement.
+
+
+## Related Collection
+
+The [Quantum Alchemy Taxonomies](../Quantum%20Alchemy%20Taxonomies/) collection examines foundational possibility, states, uncertainty, transitions, and interactions across Ultra-level refinements. Hyper-level integration remains distinct from Ultra-level refinement and Quantum-level investigation.

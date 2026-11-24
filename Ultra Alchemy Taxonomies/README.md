@@ -68,3 +68,8 @@ This structure does not itself create, alter, validate, approve, canonize, or au
 - [Meta Alchemy Taxonomies](../Meta%20Alchemy%20Taxonomies/) — the collection for examining the source taxonomies and their internal structures.
 - [Super Alchemy Taxonomies](../Super%20Alchemy%20Taxonomies/) — the collection for higher-order synthesis across source taxonomies.
 - [Hyper Alchemy Taxonomies](../Hyper%20Alchemy%20Taxonomies/) — the collection for system-wide coherence and integration across Super-level syntheses.
+
+
+## Related Collection
+
+The [Quantum Alchemy Taxonomies](../Quantum%20Alchemy%20Taxonomies/) collection examines foundational possibility, states, uncertainty, transitions, and interactions across Ultra-level refinements. Ultra-level evaluation and refinement remain distinct from Quantum-level investigation.

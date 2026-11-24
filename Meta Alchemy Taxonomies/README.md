@@ -64,3 +64,8 @@ The [Hyper Alchemy Taxonomies](../Hyper%20Alchemy%20Taxonomies/) collection is r
 ## Related Collection
 
 The [Ultra Alchemy Taxonomies](../Ultra%20Alchemy%20Taxonomies/) collection is reserved for evaluating and refining the integrated Hyper-level architecture. Meta-level examination remains distinct from Super-level synthesis, Hyper-level integration, and Ultra-level refinement.
+
+
+## Related Collection
+
+The [Quantum Alchemy Taxonomies](../Quantum%20Alchemy%20Taxonomies/) collection examines foundational possibility, states, uncertainty, transitions, and interactions across Ultra-level refinements. Meta-level examination remains distinct from Super-level synthesis, Hyper-level integration, Ultra-level refinement, and Quantum-level investigation.
