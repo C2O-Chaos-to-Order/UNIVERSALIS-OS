@@ -39,6 +39,51 @@ UNIVERSALIS is the public, open-source edition and must remain independently ope
 
 This attribution recognizes project origin and original materials created by the originator. It does not claim that one person authored or owns every contribution or third-party item. Preserve applicable contributor, copyright, and third-party notices. Attribution does not imply endorsement. See [ATTRIBUTION.md](./ATTRIBUTION.md).
 
+## 22 Application Contexts
+
+The shared Alchemy Taxonomies are mapped across the following **22 application contexts**. Every supplied subject Alchemy is mapped across all 22 contexts. Each matrix intersection requires its own context-specific expression; the mapping does not imply identical operations, authority, implementation, or source visibility.
+
+### I. Core C2O and UNIVERSALIS contexts — 6
+
+1. C2O Operating System
+2. UNIVERSALIS Operating System
+3. C2O Intelligence
+4. UNIVERSALIS Intelligence
+5. C2O Application
+6. UNIVERSALIS Application
+
+### II. UNIVERSALIN contexts — 4
+
+7. C2O Operating System — UNIVERSALIN
+8. UNIVERSALIS Operating System — UNIVERSALIN
+9. C2O Application — UNIVERSALIN
+10. UNIVERSALIS Application — UNIVERSALIN
+
+### III. UNIVERSALIN Intelligence contexts — 4
+
+11. C2O Operating System — UNIVERSALIN Intelligence
+12. UNIVERSALIS Operating System — UNIVERSALIN Intelligence
+13. C2O Application — UNIVERSALIN Intelligence
+14. UNIVERSALIS Application — UNIVERSALIN Intelligence
+
+### IV. UNIVERSALIN Guardian contexts — 4
+
+15. C2O Operating System — UNIVERSALIN Guardian
+16. UNIVERSALIS Operating System — UNIVERSALIN Guardian
+17. C2O Application — UNIVERSALIN Guardian
+18. UNIVERSALIS Application — UNIVERSALIN Guardian
+
+### V. UNIVERSALIN Guardian Intelligence contexts — 4
+
+19. C2O Operating System — UNIVERSALIN Guardian Intelligence
+20. UNIVERSALIS Operating System — UNIVERSALIN Guardian Intelligence
+21. C2O Application — UNIVERSALIN Guardian Intelligence
+22. UNIVERSALIS Application — UNIVERSALIN Guardian Intelligence
+
+**Register total: 22 contexts.**
+
+The context labels do not create additional operating systems, applications, or independent intelligence entities. They identify the specified context in which a capability, responsibility, or process is considered.
+
 ## Taxonomy architecture
 
 The repositories share eight taxonomy collections. Each collection currently contains **42 subject/domain workspaces**. The required sequence is:
