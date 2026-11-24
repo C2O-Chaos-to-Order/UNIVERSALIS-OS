@@ -1,0 +1,113 @@
+# Cross-Domain Relationship Evidence Assessment
+
+**Version:** 0.39.0  
+**Assessment date:** 2026-11-23  
+**Canonical taxonomy baseline:** v1.13.1  
+**Status:** Three additional unique Life Sciences ↔ Health Sciences subject pairs screened. Two are recommended as bounded candidate related-but-distinct (RD-P) relationships for owner review; one is not promoted. No owner acceptance or canonical taxonomy amendment is claimed.
+
+## 1. Scope and safeguards
+
+This report continues the Life Sciences ↔ Health Sciences cross-domain screening programme. It assesses three previously unassessed subject pairs around evolutionary, anatomical, and animal-biological foundations of nutrition:
+
+- Evolutionary Biology ↔ Nutrition: evolutionary explanations of human nutrient requirements, food selection and appetite, adaptive trade-offs, and evolutionary mismatch between evolved biology and modern food environments.
+- Anatomy ↔ Nutrition: digestive-tract regional structure relevant to nutrient absorption, and anatomical tissue compartments and landmarks used in body-composition assessment and nutritional-status evaluation.
+- Zoology ↔ Nutrition: assessed as a potential interface involving animal-source foods, animal species, and animal feeding. It is not promoted because the sources reviewed chiefly establish research in human nutrition, animal nutrition, veterinary or livestock science, and food systems; they do not establish a sufficiently distinct contribution from the full canonical discipline of Zoology to the Health Sciences subject of Nutrition.
+
+The first two pairs represent different forms of foundational contribution:
+
+- Evolutionary Biology ↔ Nutrition concerns historical and population-level explanations for biological traits, nutrient requirements, appetite, and susceptibility to nutrition-related disease. Evolutionary perspectives may inform nutrition research, but should not be used to infer a single ideal ancestral diet, deterministic dietary rules, or personalized clinical recommendations without appropriate evidence.
+- Anatomy ↔ Nutrition concerns the structural organization of the digestive tract and the location and distribution of body tissues relevant to nutrient absorption and nutritional assessment. This structural contribution is distinct from the previously assessed Physiology ↔ Nutrition interface (LSHS-006), which concerns functional and regulatory mechanisms. Anatomy does not by itself establish absorption rates, diagnose nutritional deficiency, or explain all nutritional outcomes.
+
+The Zoology non-promotion is deliberately narrow. Animal species, animal-derived foods, and livestock feeding are clearly relevant to nutrition-related research. However, animal-food composition and human nutritional outcomes are commonly studied within nutrition science, food science, animal science, veterinary nutrition, and livestock systems. The available sources do not demonstrate that zoological systematics, comparative zoological biology, or another sufficiently distinct body of Zoology knowledge is systematically integrated into human Nutrition as a broad disciplinary interface. This is not a claim that Zoology can never contribute to Nutrition; it is a finding that the general canonical pair is not sufficiently established by the reviewed evidence.
+
+The canonical taxonomy remains the authority for subject names, identifiers, and hierarchy. The inventory contains 18 Life Sciences subjects and 15 Health Sciences subjects, producing 270 possible cross-domain pairs. The preceding assessment snapshots v0.1.0 through v0.38.0 record 170 unique screened pairs, 154 candidate recommendations, and 16 screened but not promoted or deferred, leaving 100 individually unassessed pairs before this batch.
+
+Each selected pair was checked as an unordered subject pair against all 38 prior assessment snapshots, including early name-only rows and later stable-ID rows. Historical assessment IDs LSHS-001 through LSHS-170 were reconciled. None of the three selected pairs appears in the prior ledger.
+
+A candidate RD-P recommendation is a proposal for owner review, not an accepted or registered canonical edge. A candidate does not establish hierarchy, dependency, enablement, implementation, testing, or verification. A non-promotion is specific to the scope and evidence assessed in this pass; it does not establish that no narrower future relationship could ever be supported. No canonical change is made by this report.
+
+## 2. New unique subject-pair screening
+
+| Assessment ID | Canonical subject pair | Evidence and scope boundary | Evidence assessment | Recommended disposition and direction |
+|---|---|---|---|---|
+| LSHS-171 | USA-LS-004 Evolutionary Biology ↔ USA-HS-008 Nutrition | A 2025 review explicitly examines how evolutionary medicine can inform nutrition science. It explains that human evolutionary history is relevant to energy and nutrient requirements, food selection, nutrient-specific appetites, and biological vulnerabilities to nutrition-related disease. It emphasizes the need to distinguish ultimate evolutionary explanations from proximate mechanisms and warns that evolutionary perspectives are often misinterpreted in contemporary nutrition discourse. A 2026 review of proposed evolutionary mismatch between stomach capacity and modern diets considers how digestive architecture evolved under food scarcity and how modern high-energy food environments may interact with this biology. The latter is a narrative synthesis and a proposed explanatory framework; it does not establish stomach capacity as a sole or universally causal explanation of obesity. Together, the sources support an explicit research interface in which evolutionary explanations inform questions about human nutritional requirements, appetite, dietary patterns, trade-offs, and susceptibility to nutrition-related dysfunction. They do not establish a universal ancestral diet or allow evolutionary hypotheses to substitute for contemporary clinical trials, population-specific dietary guidance, or individual assessment. [S388–S389] | **High** for the bounded evolutionary-nutrition research interface. A dedicated review explicitly addresses integration of evolutionary medicine into nutrition science, with a contemporary application to nutrient-specific appetites and health. The evidence is strongest at the conceptual and research-framework level; evolutionary mismatch hypotheses require careful testing and must not be treated as simple causal explanations or prescriptive diets. | Candidate RD-P: evolutionary adaptation, selection, trade-offs, constraints, evolved energy and nutrient requirements, appetite-related traits, and mismatch hypotheses / nutrition science, dietary intake and nutrient adequacy assessment, research into nutrient-specific appetites and food selection, population-specific dietary patterns, and evaluation of nutrition-related disease risk interface. Evolutionary Biology contributes historical and comparative explanations for biological traits and vulnerabilities; Nutrition tests their relevance to dietary intake, requirements, nutritional status, and health outcomes. Contemporary nutritional evidence can in turn refine or challenge evolutionary hypotheses. Reciprocal research interface; no claim that an evolutionary account alone determines the best diet for an individual or population. |
+| LSHS-172 | USA-LS-015 Anatomy ↔ USA-HS-008 Nutrition | A 2026 review of small-intestinal regional organization describes how nutrient absorption is spatially organized along the proximal–distal length of the intestine and across crypt–villus axes. It integrates anatomical regionalization with cellular, molecular, and physiological evidence and discusses why local tissue environments and region-specific gastrointestinal diseases matter for nutrient absorption. A 2026 international expert-endorsed guide to body-composition assessment describes DXA, CT, ultrasound, and bioimpedance methods used in clinical and research settings to evaluate fat mass, lean tissue, skeletal muscle, and body compartments. It explains the use of anatomical landmarks and tissue segmentation in CT-based assessment, including applications to low muscle mass, malnutrition, sarcopenia, and cachexia. Together, these sources support a bounded interface between anatomical structure and nutritional assessment: the location and organization of digestive structures and tissue compartments are relevant to understanding nutrient absorption and evaluating body composition. Some evidence is molecular or physiological as well as anatomical, and should not be attributed exclusively to gross anatomy. Anatomical imaging or body-composition estimates alone do not establish dietary intake, nutrient bioavailability, a specific deficiency, or a treatment response. [S390–S391] | **Moderate–high** for the bounded structural-anatomy and nutritional-assessment interface. Contemporary reviews directly connect digestive regional structure with nutrient absorption and anatomical tissue mapping with clinical nutritional assessment. The evidence supports a foundational structural contribution, while the underlying mechanisms and clinical interpretations also depend on physiology, cell biology, imaging methodology, and clinical context. | Candidate RD-P: gross and regional digestive-tract anatomy, intestinal structural organization, anatomical landmarks, organ and tissue compartments, and structural distribution of skeletal muscle and adipose tissue / nutritional assessment, interpretation of body-composition data, evaluation of malnutrition and low muscle mass, and investigation of region-specific nutrient absorption and gastrointestinal conditions interface. Anatomy contributes structural maps and tissue organization; Nutrition applies these structures in interpreting absorption-related research and body-composition assessment. Nutritional research questions and clinically observed changes in tissue compartments can also guide anatomical and imaging investigations. Reciprocal, bounded foundational and assessment interface; distinct from the functional/regulatory Physiology ↔ Nutrition relationship already assessed in LSHS-006. |
+| LSHS-173 | USA-LS-008 Zoology ↔ USA-HS-008 Nutrition | A 2026 scoping review examined 247 studies on the nutritional and health impacts of alternative animal-source foods, including plant-based, fungi-based, insect-based, and other alternatives. It found mixed nutritional profiles and noted gaps in comparable substitutions, long-term outcomes, and underserved populations. A 2026 One Health review of balanced animal nutrition describes links among livestock feeding, animal health, animal-derived food quality and safety, and environmental and community outcomes. It also emphasizes that observed effects depend on livestock species, physiological stage, dietary composition, production systems, veterinary care, and food-chain management. These sources establish important intersections among animal biology, food production, animal nutrition, food safety, and human nutritional quality. They do not, however, establish a distinct general interface between the full canonical subject of Zoology and the Health Sciences subject of human Nutrition. The relevant work is more specifically framed within human nutrition, food science, animal science, veterinary nutrition, and livestock production. Species-level variation is a necessary consideration, but that alone does not demonstrate a distinct zoological knowledge contribution to human nutritional assessment or care. [S392–S393] | **Insufficient for a general Zoology ↔ Nutrition relationship in this pass.** The evidence confirms adjacent and important animal-food and animal-feeding research, but it does not establish a sufficiently distinct and sustained role for Zoology as a whole in the Health Sciences discipline of human Nutrition. | **Do not promote.** No RD-P candidate, direction, or subtype is recommended. The evidence supports animal-derived foods and animal feeding as relevant to nutrition and food-system research, but does not sufficiently establish a broad canonical Zoology ↔ Nutrition interface. Reconsider only if direct evidence demonstrates systematic use of zoological knowledge—beyond animal-food composition, livestock feeding, veterinary nutrition, or food science—in human nutritional assessment, intervention, or research. |
+
+## 3. Duplicate, distinction, and scope cross-check
+
+The three selected pairs were checked as unordered subject pairs against all 38 prior assessment snapshots, v0.1.0 through v0.38.0. The reconciled prior ledger contains 170 unique screened pairs with assessment IDs LSHS-001 through LSHS-170. The exact normalized-pair checks found no prior occurrence of Evolutionary Biology ↔ Nutrition, Anatomy ↔ Nutrition, or Zoology ↔ Nutrition. Checks covered both name-only historical rows and stable-ID rows. Canonical subject names and identifiers were checked against taxonomy v1.13.1.
+
+Previously assessed and related pairs remain distinct:
+
+- Evolutionary Biology ↔ Epidemiology (LSHS-089), Evolutionary Biology ↔ Public Health (LSHS-090), and Evolutionary Biology ↔ Medicine (LSHS-138) address other health-science interfaces. Evolutionary Biology ↔ Nutrition (LSHS-171) specifically concerns evolved traits, nutrient requirements, appetite, dietary behavior, and nutrition-related vulnerabilities.
+- Physiology ↔ Nutrition (LSHS-006) concerns physiological function and regulation relevant to nutritional processes. Anatomy ↔ Nutrition (LSHS-172) is narrower and structural: digestive-region organization, anatomical landmarks, and tissue compartments relevant to nutrient absorption research and nutritional assessment. The two pairs overlap in subject matter but are not synonymous.
+- Anatomy ↔ Dentistry (LSHS-149), Anatomy ↔ Surgery (LSHS-103), Anatomy ↔ Physical Therapy (LSHS-087), Anatomy ↔ Rehabilitation Science (LSHS-088), and Anatomy ↔ Occupational Therapy (LSHS-086) concern other clinical and functional applications. None is an exact duplicate of the digestive-structure and body-composition interface assessed in LSHS-172.
+- Zoology ↔ Medicine (LSHS-055), Zoology ↔ Public Health (LSHS-056), Zoology ↔ Preventive Medicine (LSHS-057), Zoology ↔ Emergency Medicine (LSHS-068), Zoology ↔ Nursing (LSHS-069), Zoology ↔ Occupational Therapy (LSHS-075), Zoology ↔ Physical Therapy (LSHS-076), Zoology ↔ Rehabilitation Science (LSHS-077), Zoology ↔ Epidemiology (LSHS-118), and Zoology ↔ Pharmacology (LSHS-122) concern other subject interfaces. None is a prior Zoology ↔ Nutrition assessment.
+- Nutrition relationships already assessed include Physiology (LSHS-006), Botany (LSHS-063), Marine Biology (LSHS-066), Ecology (LSHS-067), Immunology (LSHS-106), Genetics (LSHS-123), Molecular Biology (LSHS-124), Cell Biology (LSHS-125), Neuroscience (LSHS-137), Virology (LSHS-152), Microbiology (LSHS-168), Mycology (LSHS-169), and Biotechnology (LSHS-170). These do not duplicate the three subject pairs in this report.
+- Animal-source food composition and livestock nutrition are not by themselves proof of a broad Zoology ↔ human Nutrition relationship. LSHS-173 is not a rejection of animal-derived foods as nutritionally relevant; it is a boundary on disciplinary attribution and the breadth of the proposed canonical pair.
+
+Direction and scope:
+
+- LSHS-171 is reciprocal at the research level: Evolutionary Biology contributes evolutionary explanations and testable hypotheses; Nutrition evaluates their relevance to dietary intake, nutrient requirements, and health outcomes. Contemporary nutrition evidence can refine or challenge evolutionary interpretations.
+- LSHS-172 is reciprocal within a bounded structural interface: Anatomy contributes structural and regional maps; Nutrition uses them to interpret nutritional assessment and absorption-related research. Clinical nutrition questions can motivate further anatomical and imaging research.
+- LSHS-173 has no promoted direction or subtype. The sources do not justify a general zoological-to-human-nutrition or nutrition-to-zoology recommendation.
+
+None of these decisions creates a hierarchy edge, universal dependency, or enablement claim. The assessment does not equate evolutionary plausibility with clinical efficacy, anatomical structure with physiological function, or animal-food relevance with a complete Zoology ↔ Nutrition relationship.
+
+## 4. Evidence register
+
+Sources were accessed or rechecked on 2026-11-23. The register includes an explicit review of evolutionary medicine in nutrition science, a 2026 evolutionary-mismatch review, two contemporary reviews relevant to digestive structure and nutritional assessment, and two reviews documenting the adjacent animal-food and animal-nutrition research area used to assess the Zoology non-promotion.
+
+| Ref | Source | Relevance |
+|---|---|---|
+| S388 | Dolan et al., [Integrating Evolutionary Medicine into Nutrition Science: Principles, Pitfalls, and Applications](https://pubmed.ncbi.nlm.nih.gov/41460198/), *Nutrition Reviews* (29 December 2025, ahead of print), DOI: 10.1093/nutrit/nuaf275 | Direct review of how evolutionary medicine can inform nutrition research, including energy and nutrient requirements, food selection, nutrient-specific appetites, evolved vulnerabilities, and common interpretive pitfalls. |
+| S389 | Allouch et al., [Evolutionary mismatch between stomach capacity and modern diets: Implications for obesity and metabolic disease](https://pubmed.ncbi.nlm.nih.gov/42819019/), *Evolution, Medicine, and Public Health* 14(1), 1–12 (10 September 2026), DOI: 10.1093/emph/eoag020 | Narrative review examining human digestive anatomy, historical food environments, gastric accommodation, and proposed interactions with modern diets. Used as an evolutionary research framework, not proof of a single causal mechanism for obesity. |
+| S390 | Zwick et al., [Regional organization of nutrient absorption across the small intestine](https://pubmed.ncbi.nlm.nih.gov/42393305/), *Nature Reviews Gastroenterology & Hepatology* 23(10), 741–759 (2 July 2026), DOI: 10.1038/s41575-026-01225-5 | Review of anatomical and cellular regionalization along the small intestine and crypt–villus axes, with implications for nutrient absorption, local tissue environments, and gastrointestinal disease. |
+| S391 | Prado et al., [Methodological standards for body composition assessment—an expert-endorsed guide for research and clinical applications: bioimpedance, dual-energy X-ray absorptiometry, computerized tomography, and ultrasound methods](https://pubmed.ncbi.nlm.nih.gov/41864542/), *American Journal of Clinical Nutrition* 123(5), 101283 (May 2026), DOI: 10.1016/j.ajcnut.2026.101283 | International expert review of body-composition methods, anatomical landmarks and tissue segmentation, and clinical use in evaluating low muscle mass, malnutrition, sarcopenia, and related conditions. |
+| S392 | Beal et al., [Nutritional and health impacts of alternative animal source foods: a scoping review](https://pubmed.ncbi.nlm.nih.gov/41679326/), *The Lancet Planetary Health* 10(2), 101423 (February 2026), DOI: 10.1016/j.lanplh.2025.101423 | Scoping review of 247 studies on nutritional quality and health impacts of alternative animal-source foods. Documents a nutrition and food-system research area while identifying heterogeneous evidence and gaps in long-term outcomes and populations. |
+| S393 | Ponnampalam et al., [Balanced Animal Nutrition for Better Feeds, Healthy Animals, Safe Food, and a Healthy Planet: A One Health Perspective—An Invited Review](https://pubmed.ncbi.nlm.nih.gov/42883107/), *Animals* 16(19), 3138 (7 October 2026), DOI: 10.3390/ani16193138 | Review of livestock feeding, animal health, food quality and safety, and One Health pathways. Used to distinguish animal nutrition and livestock science from a general zoological contribution to human Nutrition. |
+
+## 5. Updated Life Sciences ↔ Health Sciences accounting
+
+| Measure | Count |
+|---|---:|
+| Total possible cross-domain subject pairs | 270 |
+| Unique pairs screened through v0.38.0 | 170 |
+| New unique pairs screened in v0.39.0 | 3 |
+| **Cumulative unique pairs screened** | **173 of 270** |
+| Candidate recommendations before this batch | 154 |
+| New candidate recommendations in this batch | 2 |
+| **Cumulative candidate RD-P recommendations** | **156** |
+| Screened but not promoted / deferred before this batch | 16 |
+| New non-promotions in this batch | 1 |
+| **Cumulative screened but not promoted / deferred** | **17** |
+| **Pairs still individually unassessed** | **97** |
+| **Screening coverage** | **64.07%** |
+
+Accounting check:
+
+270 = 156 candidates + 17 not promoted/deferred + 97 unassessed
+
+This batch adds two candidate recommendations and one non-promotion. The prior 16 non-promotions and deferrals remain unchanged. Candidate status does not imply owner acceptance or canonical registration.
+
+## 6. Canonical status and governance
+
+- Canonical taxonomy remains **v1.13.1**.
+- The canonical taxonomy blob SHA remains **f054a687bb649f8e67982a607b59a5156e8e9a46**.
+- The 18 canonical RD-P proposals remain unchanged.
+- Canonical hierarchy-edge, RD-P, and source-unlinked sparse-matrix counts remain **252 / 18 / 34,446**.
+- The two candidate recommendations in this report have **not** been inserted into the canonical taxonomy.
+- The Zoology ↔ Nutrition non-promotion is a supplemental assessment outcome, not a canonical deletion or reclassification.
+- Owner-accepted relationships remain **zero**.
+- No dependency, enablement, hierarchy reassignment, implementation, testing, or verification is inferred from these relationship assessments.
+- The six existing proposals **RD-013 through RD-018** remain a separate workstream and are not assessed or altered by this report.
+- Candidate recommendations remain supplemental evidence-review records pending explicit owner review.
+
+## 7. Next work
+
+Continue with another topic-focused group from the **97 remaining** Life Sciences ↔ Health Sciences pairs. Select the next subgroup only after checking every proposed unordered pair against all **39 preceding assessment snapshots**, v0.1.0 through v0.39.0, and confirming canonical subject identifiers.
+
+The separate RD-013–RD-018 proposal-assessment workstream remains open and is not folded into the 270-pair Life Sciences ↔ Health Sciences screening count.
+
+**Review condition before any canonical insertion:** verify unordered-pair uniqueness, stable identifiers, relationship subtype, direction, evidence provenance, scope boundary, sparse-matrix effect, and explicit owner acceptance.
