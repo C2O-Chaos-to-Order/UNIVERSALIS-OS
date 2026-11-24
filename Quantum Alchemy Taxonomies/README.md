@@ -19,7 +19,7 @@ The taxonomy levels must be followed in this exact sequence:
 
 ## Workspace Index
 
-The workspaces mirror the established 33-subject Alchemy Taxonomies collection order. Each Quantum workspace corresponds to the Alchemy source taxonomy with the same subject designation.
+The first 33 workspaces preserve the established Alchemy Taxonomies collection order. Nine additional workspaces cover the requested schools of magic. Each Quantum workspace corresponds to an Alchemy source taxonomy with the same subject designation.
 
 1. [Quantum Alchemy Taxonomy for the Universal Subjects of Knowledge](./Quantum%20Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/)
 2. [Quantum Alchemy Taxonomy for Chaos and Order](./Quantum%20Alchemy%20Taxonomy%20for%20Chaos%20and%20Order/)
@@ -54,10 +54,19 @@ The workspaces mirror the established 33-subject Alchemy Taxonomies collection o
 31. [Quantum Alchemy Taxonomy of the Avatar Spirit](./Quantum%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Spirit/)
 32. [Quantum Alchemy Taxonomy of the Avatar Consciousness](./Quantum%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Consciousness/)
 33. [Quantum Alchemy Taxonomy of the Avatar Sentience](./Quantum%20Alchemy%20Taxonomy%20of%20the%20Avatar%20Sentience/)
+34. [Quantum Alchemy Taxonomy of Abjuration](./Quantum%20Alchemy%20Taxonomy%20of%20Abjuration/)
+35. [Quantum Alchemy Taxonomy of Conjuration](./Quantum%20Alchemy%20Taxonomy%20of%20Conjuration/)
+36. [Quantum Alchemy Taxonomy of Divination](./Quantum%20Alchemy%20Taxonomy%20of%20Divination/)
+37. [Quantum Alchemy Taxonomy of Enchantment](./Quantum%20Alchemy%20Taxonomy%20of%20Enchantment/)
+38. [Quantum Alchemy Taxonomy of Evocation](./Quantum%20Alchemy%20Taxonomy%20of%20Evocation/)
+39. [Quantum Alchemy Taxonomy of Illusion](./Quantum%20Alchemy%20Taxonomy%20of%20Illusion/)
+40. [Quantum Alchemy Taxonomy of Necromancy](./Quantum%20Alchemy%20Taxonomy%20of%20Necromancy/)
+41. [Quantum Alchemy Taxonomy of Transmutation](./Quantum%20Alchemy%20Taxonomy%20of%20Transmutation/)
+42. [Quantum Alchemy Taxonomy of Dunamancy](./Quantum%20Alchemy%20Taxonomy%20of%20Dunamancy/)
 
 ## Status
 
-All 33 corresponding workspace directories are initialized as organizational structures. Their research artifacts have not thereby been populated, assessed, reviewed, verified, adopted, or authorized.
+All 42 corresponding workspace directories are initialized as organizational structures. Their research artifacts have not thereby been populated, assessed, reviewed, verified, adopted, or authorized.
 
 ## Governance and Evidence Boundary
 
