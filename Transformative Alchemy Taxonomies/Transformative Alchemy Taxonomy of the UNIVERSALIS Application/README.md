@@ -2,49 +2,41 @@
 
 ## Purpose
 
-This workspace is the Transformative-level counterpart to the source Alchemy Taxonomy of the UNIVERSALIS Application. It is reserved for research into deliberate, traceable transformation within this subject scope.
+This directory is the Transformative-level workspace corresponding to the source Alchemy Taxonomy of the UNIVERSALIS Application. It is reserved for the transformative level follows quantum and magic. it examines complete, evidence-governed transformation pathways from defined baselines to evaluated outcomes, including rationale, target states, inputs, prerequisites, dependencies, methods, constraints, risks, unintended effects, reversibility, recovery, and verification.
 
-## Transformative Scope
+## Transformative Research Scope
 
-Examine initial conditions and context; intended and alternative end states; rationale and governing principles; required inputs and prerequisites; dependencies and constraints; proposed transformation pathways; implementation conditions; measurable outputs; evaluation criteria; risks and unintended effects; reversibility or recovery; and evidence supporting conclusions.
+Evaluate end-to-end change within this subject area: baseline and context, intended and alternative end states, rationale, governing principles, inputs, prerequisites, dependencies, methods, constraints, risks, observable outputs, success criteria, unintended effects, reversibility or recovery, and evidence. Quantum-level possibility analysis precedes Magic-level directed transformation; Transformative follows both.
 
 ## Required Taxonomy Order
 
-1. **Alchemy Alchemy Taxonomies**
-2. **Meta Alchemy Taxonomies**
-3. **Super Alchemy Taxonomies**
-4. **Hyper Alchemy Taxonomies**
-5. **Ultra Alchemy Taxonomies**
-6. **Quantum Alchemy Taxonomies**
-7. **Magic Alchemy Taxonomies**
-8. **Transformative Alchemy Taxonomies**
+The taxonomy levels must be followed in this exact sequence:
 
-Quantum precedes Magic. Transformative follows Magic.
+1. **Alchemy** — The source-level collection of subject- and domain-focused taxonomies.
+2. **Meta** — The Meta level examines the corresponding Alchemy Taxonomies as objects of study, including their scope, definitions, organization, classifications, relationships, dependencies, methods, evidence, consistency, and governance boundaries.
+3. **Super** — The Super level develops higher-order synthesis across source taxonomies, examining recurring principles, shared distinctions, cross-domain relationships, dependencies, correspondences, coherence, and integration while preserving source provenance.
+4. **Hyper** — The Hyper level examines system-wide coherence, architecture, interactions, constraints, feedback, dependencies, invariants, and integration across the Super-level syntheses.
+5. **Ultra** — The Ultra level evaluates and refines the integrated Hyper-level architecture, including resilience, adaptability, scalability, efficiency, maintainability, robustness, and system-wide tradeoffs.
+6. **Quantum** — The Quantum level investigates foundational possibility, states, uncertainty, transitions, interactions, and constraints relevant to the preceding integrated architecture.
+7. **Magic** — The Magic level examines directed transformation, generative methods, enabling conditions, constraints, invariants, and documented pathways from possibilities or designs to intended manifestations or outcomes.
+8. **Transformative** — The Transformative level follows Quantum and Magic.
 
-Quantum-level possibility analysis precedes Magic-level directed transformation. This Transformative workspace follows both and evaluates the complete change pathway and its outcomes.
+## Related Taxonomy Workspaces
 
-## Research Record
+The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-For each investigation, preserve:
-- Research question, scope, owner, version, and date.
-- Source taxonomy and all relevant upstream workspace references.
-- Baseline state, target state, assumptions, and success criteria.
-- Methods, inputs, tools, dependencies, constraints, and risk controls.
-- Proposed pathway, execution record, outputs, and observed effects.
-- Test design, results, limitations, uncertainty, and unresolved issues.
-- Evidence status, review status, owner acceptance, programme credit, and authorization as separate fields.
-
-## Related Workspaces
-
-- [Source Alchemy Taxonomy of the UNIVERSALIS Application](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
+- [Alchemy Taxonomy of the UNIVERSALIS Application](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
 - [Meta Alchemy Taxonomy of the UNIVERSALIS Application](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
 - [Super Alchemy Taxonomy of the UNIVERSALIS Application](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
 - [Hyper Alchemy Taxonomy of the UNIVERSALIS Application](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
 - [Ultra Alchemy Taxonomy of the UNIVERSALIS Application](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
 - [Quantum Alchemy Taxonomy of the UNIVERSALIS Application](../../Quantum%20Alchemy%20Taxonomies/Quantum%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
 - [Magic Alchemy Taxonomy of the UNIVERSALIS Application](../../Magic%20Alchemy%20Taxonomies/Magic%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
-- [Transformative Alchemy Taxonomy of the UNIVERSALIS Application](../../Transformative%20Alchemy%20Taxonomies/Transformative%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
 
-## Status and Boundary
+## Collection Index
 
-This directory is an initialized research workspace, not evidence that research is complete or that any proposed transformation is valid. No source taxonomy, system, policy, or canonical classification is changed by this scaffold. Distinguish conceptual proposals, documented designs, implemented changes, tested outcomes, and independently verified results. Explicit owner acceptance and authorization are required before canonical changes or publication.
+Return to the [Transformative Alchemy Taxonomies index](../README.md) for the complete 33-workspace directory.
+
+## Status and Governance Boundary
+
+This directory is an initialized research workspace. Its presence does not establish that its research is complete, assessed, reviewed, verified, adopted, or owner-approved. A proposed definition, relationship, synthesis, model, method, transformation, or outcome is not automatically canonical. Preserve sources, methods, inputs, outputs, assumptions, limitations, and unresolved questions. Keep execution outcome, evidence status, review status, owner acceptance, programme credit, and authorization distinct. Explicit owner acceptance and authorization are required before canonical changes or publication.

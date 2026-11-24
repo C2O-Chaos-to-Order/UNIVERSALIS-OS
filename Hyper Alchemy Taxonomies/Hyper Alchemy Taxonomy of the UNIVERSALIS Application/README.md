@@ -1,22 +1,42 @@
-# Hyper Alchemy Taxonomy Workspace
+# Hyper Alchemy Taxonomy of the UNIVERSALIS Application
 
 ## Purpose
 
-This directory is the Hyper-level workspace corresponding to the source Alchemy Taxonomy of the UNIVERSALIS Application. It is reserved for examining system-wide coherence and integration involving this subject area and its corresponding Super-level synthesis. Potential work may examine architecture, shared structures, cross-domain invariants, interacting dependencies, boundary conditions, feedback relationships, emergent patterns, tensions, and integration.
+This directory is the Hyper-level workspace corresponding to the source Alchemy Taxonomy of the UNIVERSALIS Application. It is reserved for the hyper level examines system-wide coherence, architecture, interactions, constraints, feedback, dependencies, invariants, and integration across the super-level syntheses.
 
-Hyper-level conclusions should be traceable through the source Alchemy Taxonomy, the corresponding Meta-level examination, and the corresponding Super-level synthesis. They must distinguish supported integration from analogy, hypothesis, unresolved similarity, and contradiction.
+## Hyper Research Scope
 
-## Related Workspaces
+Examine system-wide architecture and coherence involving the corresponding Super-level synthesis. Map interactions, cross-domain dependencies, boundary conditions, feedback, invariants, emergent patterns, contradictions, and integration constraints.
 
-- [Source Alchemy Taxonomy of the UNIVERSALIS Application](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
-- [Corresponding Meta Alchemy Taxonomy of the UNIVERSALIS Application](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
-- [Corresponding Super Alchemy Taxonomy of the UNIVERSALIS Application](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
-- [Hyper Alchemy Taxonomies index](../README.md)
+## Required Taxonomy Order
 
-## Status
+The taxonomy levels must be followed in this exact sequence:
 
-Workspace initialized. Hyper-level research artifacts have not yet been populated, assessed, reviewed, or adopted. No system-wide principle or integrated conclusion is implied by this workspace's creation.
+1. **Alchemy** — The source-level collection of subject- and domain-focused taxonomies.
+2. **Meta** — The Meta level examines the corresponding Alchemy Taxonomies as objects of study, including their scope, definitions, organization, classifications, relationships, dependencies, methods, evidence, consistency, and governance boundaries.
+3. **Super** — The Super level develops higher-order synthesis across source taxonomies, examining recurring principles, shared distinctions, cross-domain relationships, dependencies, correspondences, coherence, and integration while preserving source provenance.
+4. **Hyper** — The Hyper level examines system-wide coherence, architecture, interactions, constraints, feedback, dependencies, invariants, and integration across the Super-level syntheses.
+5. **Ultra** — The Ultra level evaluates and refines the integrated Hyper-level architecture, including resilience, adaptability, scalability, efficiency, maintainability, robustness, and system-wide tradeoffs.
+6. **Quantum** — The Quantum level investigates foundational possibility, states, uncertainty, transitions, interactions, and constraints relevant to the preceding integrated architecture.
+7. **Magic** — The Magic level examines directed transformation, generative methods, enabling conditions, constraints, invariants, and documented pathways from possibilities or designs to intended manifestations or outcomes.
+8. **Transformative** — The Transformative level follows Quantum and Magic.
 
-## Boundary
+## Related Taxonomy Workspaces
 
-Creating this directory does not establish any system-wide invariant, architecture, relationship, synthesis, or classification. It does not change, validate, approve, or canonize source Alchemy entries, Meta-level findings, or Super-level syntheses. Future work must preserve provenance across all preceding levels, record methods and limitations, keep contradictions and uncertainty visible, distinguish evidence status from review status and owner acceptance, and obtain authorization before canonical changes.
+The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
+
+- [Alchemy Taxonomy of the UNIVERSALIS Application](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
+- [Meta Alchemy Taxonomy of the UNIVERSALIS Application](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
+- [Super Alchemy Taxonomy of the UNIVERSALIS Application](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
+- [Ultra Alchemy Taxonomy of the UNIVERSALIS Application](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
+- [Quantum Alchemy Taxonomy of the UNIVERSALIS Application](../../Quantum%20Alchemy%20Taxonomies/Quantum%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
+- [Magic Alchemy Taxonomy of the UNIVERSALIS Application](../../Magic%20Alchemy%20Taxonomies/Magic%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
+- [Transformative Alchemy Taxonomy of the UNIVERSALIS Application](../../Transformative%20Alchemy%20Taxonomies/Transformative%20Alchemy%20Taxonomy%20of%20the%20UNIVERSALIS%20Application/)
+
+## Collection Index
+
+Return to the [Hyper Alchemy Taxonomies index](../README.md) for the complete 33-workspace directory.
+
+## Status and Governance Boundary
+
+This directory is an initialized research workspace. Its presence does not establish that its research is complete, assessed, reviewed, verified, adopted, or owner-approved. A proposed definition, relationship, synthesis, model, method, transformation, or outcome is not automatically canonical. Preserve sources, methods, inputs, outputs, assumptions, limitations, and unresolved questions. Keep execution outcome, evidence status, review status, owner acceptance, programme credit, and authorization distinct. Explicit owner acceptance and authorization are required before canonical changes or publication.

@@ -2,11 +2,24 @@
 
 ## Purpose
 
-This collection provides meta-level workspaces for examining the 33 corresponding Alchemy Taxonomy workspaces as objects of study, individually and as an integrated collection. Potential areas of examination include purpose, scope, definitions, organization, classifications, relationships, dependencies, methods, evidence, consistency, version history, governance boundaries, and integration.
+The Meta level examines the corresponding Alchemy Taxonomies as objects of study, including their scope, definitions, organization, classifications, relationships, dependencies, methods, evidence, consistency, and governance boundaries.
 
-## Structure
+## Required Taxonomy Order
 
-The 33 workspaces below mirror the source collection's established order. Each Meta Alchemy Taxonomy workspace corresponds to the Alchemy Taxonomy with the same subject designation.
+The taxonomy levels must be followed in this exact sequence:
+
+1. **Alchemy** — The source-level collection of subject- and domain-focused taxonomies.
+2. **Meta** — The Meta level examines the corresponding Alchemy Taxonomies as objects of study, including their scope, definitions, organization, classifications, relationships, dependencies, methods, evidence, consistency, and governance boundaries.
+3. **Super** — The Super level develops higher-order synthesis across source taxonomies, examining recurring principles, shared distinctions, cross-domain relationships, dependencies, correspondences, coherence, and integration while preserving source provenance.
+4. **Hyper** — The Hyper level examines system-wide coherence, architecture, interactions, constraints, feedback, dependencies, invariants, and integration across the Super-level syntheses.
+5. **Ultra** — The Ultra level evaluates and refines the integrated Hyper-level architecture, including resilience, adaptability, scalability, efficiency, maintainability, robustness, and system-wide tradeoffs.
+6. **Quantum** — The Quantum level investigates foundational possibility, states, uncertainty, transitions, interactions, and constraints relevant to the preceding integrated architecture.
+7. **Magic** — The Magic level examines directed transformation, generative methods, enabling conditions, constraints, invariants, and documented pathways from possibilities or designs to intended manifestations or outcomes.
+8. **Transformative** — The Transformative level follows Quantum and Magic.
+
+## Workspace Index
+
+The workspaces mirror the established 33-subject Alchemy Taxonomies collection order. Each Meta workspace corresponds to the Alchemy source taxonomy with the same subject designation.
 
 1. [Meta Alchemy Taxonomy for the Universal Subjects of Knowledge](./Meta%20Alchemy%20Taxonomy%20for%20the%20Universal%20Subjects%20of%20Knowledge/)
 2. [Meta Alchemy Taxonomy for Chaos and Order](./Meta%20Alchemy%20Taxonomy%20for%20Chaos%20and%20Order/)
@@ -44,33 +57,20 @@ The 33 workspaces below mirror the source collection's established order. Each M
 
 ## Status
 
-All 33 Meta Alchemy Taxonomy workspace directories have been initialized. Their meta-level research artifacts have not yet been populated, assessed, reviewed, or adopted. The source Alchemy Taxonomies remain the reference collection; their content has not been copied into these workspaces.
+All 33 corresponding workspace directories are initialized as organizational structures. Their research artifacts have not thereby been populated, assessed, reviewed, verified, adopted, or authorized.
 
-## Boundary
+## Governance and Evidence Boundary
 
-This structure does not itself create, alter, validate, approve, or canonize any taxonomy entry, definition, relationship, hierarchy, classification, governance rule, or owner decision. Meta-level findings must retain source provenance and distinguish research proposals, evidence status, review status, owner acceptance, and authorization.
+This collection index is organizational navigation. It does not itself create, alter, validate, approve, or canonize any taxonomy entry, definition, relationship, hierarchy, classification, synthesis, model, method, governance rule, or owner decision. Preserve source provenance and distinguish proposals, documented claims, tested findings, verified conclusions, review status, owner acceptance, programme credit, and authorization. Do not present conceptual, philosophical, literary, illustrative, or hypothetical relationships as established scientific findings without appropriate evidence.
 
+## Related Taxonomy Collections
 
-## Related Collection
+The other collections are listed in the required order:
 
-The [Super Alchemy Taxonomies](../Super%20Alchemy%20Taxonomies/) collection is reserved for higher-order synthesis across the source taxonomies. Meta-level examination remains distinct from Super-level synthesis.
-
-
-## Related Collection
-
-The [Hyper Alchemy Taxonomies](../Hyper%20Alchemy%20Taxonomies/) collection is reserved for system-wide integration across Super-level syntheses. Meta-level examination remains distinct from Super-level synthesis and Hyper-level integration.
-
-
-## Related Collection
-
-The [Ultra Alchemy Taxonomies](../Ultra%20Alchemy%20Taxonomies/) collection is reserved for evaluating and refining the integrated Hyper-level architecture. Meta-level examination remains distinct from Super-level synthesis, Hyper-level integration, and Ultra-level refinement.
-
-
-## Related Collection
-
-The [Quantum Alchemy Taxonomies](../Quantum%20Alchemy%20Taxonomies/) collection examines foundational possibility, states, uncertainty, transitions, and interactions across Ultra-level refinements. Meta-level examination remains distinct from Super-level synthesis, Hyper-level integration, Ultra-level refinement, and Quantum-level investigation.
-
-
-## Related Collection
-
-The [Magic Alchemy Taxonomies](../Magic%20Alchemy%20Taxonomies/) collection examines directed transformation and generative methods. Meta-level examination remains distinct from Magic-level transformation work.
+- [Alchemy Alchemy Taxonomies](../Alchemy%20Alchemy%20Taxonomies/) — The source-level collection of subject- and domain-focused taxonomies. It provides the baseline definitions, distinctions, classifications, and source records from which the higher taxonomy levels work.
+- [Super Alchemy Taxonomies](../Super%20Alchemy%20Taxonomies/) — The Super level develops higher-order synthesis across source taxonomies, examining recurring principles, shared distinctions, cross-domain relationships, dependencies, correspondences, coherence, and integration while preserving source provenance.
+- [Hyper Alchemy Taxonomies](../Hyper%20Alchemy%20Taxonomies/) — The Hyper level examines system-wide coherence, architecture, interactions, constraints, feedback, dependencies, invariants, and integration across the Super-level syntheses.
+- [Ultra Alchemy Taxonomies](../Ultra%20Alchemy%20Taxonomies/) — The Ultra level evaluates and refines the integrated Hyper-level architecture, including resilience, adaptability, scalability, efficiency, maintainability, robustness, and system-wide tradeoffs.
+- [Quantum Alchemy Taxonomies](../Quantum%20Alchemy%20Taxonomies/) — The Quantum level investigates foundational possibility, states, uncertainty, transitions, interactions, and constraints relevant to the preceding integrated architecture. Quantum is a conceptual and methodological designation here; it does not imply that taxonomy relationships are governed by quantum mechanics or establish physical quantum phenomena.
+- [Magic Alchemy Taxonomies](../Magic%20Alchemy%20Taxonomies/) — The Magic level examines directed transformation, generative methods, enabling conditions, constraints, invariants, and documented pathways from possibilities or designs to intended manifestations or outcomes. Magic is a conceptual and methodological designation; it does not itself assert supernatural causation or establish unverified mechanisms.
+- [Transformative Alchemy Taxonomies](../Transformative%20Alchemy%20Taxonomies/) — The Transformative level follows Quantum and Magic. It examines complete, evidence-governed transformation pathways from defined baselines to evaluated outcomes, including rationale, target states, inputs, prerequisites, dependencies, methods, constraints, risks, unintended effects, reversibility, recovery, and verification.

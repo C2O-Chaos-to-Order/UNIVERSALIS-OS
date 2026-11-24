@@ -1,37 +1,42 @@
-# Magic Alchemy Taxonomy Workspace
+# Magic Alchemy Taxonomy of Greater Good
 
 ## Purpose
 
-This is the Magic-level workspace corresponding to the source Alchemy Taxonomy of Greater Good. It examines directed transformation and generative methods relevant to this subject area, including how possibilities or designs may be translated into intended manifestations or outcomes.
+This directory is the Magic-level workspace corresponding to the source Alchemy Taxonomy of Greater Good. It is reserved for the magic level examines directed transformation, generative methods, enabling conditions, constraints, invariants, and documented pathways from possibilities or designs to intended manifestations or outcomes. magic is a conceptual and methodological designation; it does not itself assert supernatural causation or establish unverified mechanisms.
 
-Potential work may identify transformation inputs, intended changes, enabling conditions, methods, constraints, invariants, risks, outputs, and evaluation criteria. Distinguish conceptual or symbolic transformation from a specified process, implemented method, and observed or verified outcome. The word "Magic" describes this taxonomy level's conceptual and methodological scope; it does not establish supernatural causation or demonstrate that a proposed effect is real.
+## Magic Research Scope
+
+Study purposeful transformation and generative methods within this subject area. Identify what is transformed, initial conditions, inputs, intended changes, enabling conditions, methods, constraints, invariants, risks, outputs, and evaluation criteria. Distinguish conceptual or symbolic transformation from specified, implemented, tested, and verified processes.
 
 ## Required Taxonomy Order
 
-1. **Alchemy Alchemy Taxonomies**
-2. **Meta Alchemy Taxonomies**
-3. **Super Alchemy Taxonomies**
-4. **Hyper Alchemy Taxonomies**
-5. **Ultra Alchemy Taxonomies**
-6. **Quantum Alchemy Taxonomies**
-7. **Magic Alchemy Taxonomies**
-8. **Transformative Alchemy Taxonomies**
+The taxonomy levels must be followed in this exact sequence:
 
-Quantum precedes Magic. Transformative follows Magic.
+1. **Alchemy** — The source-level collection of subject- and domain-focused taxonomies.
+2. **Meta** — The Meta level examines the corresponding Alchemy Taxonomies as objects of study, including their scope, definitions, organization, classifications, relationships, dependencies, methods, evidence, consistency, and governance boundaries.
+3. **Super** — The Super level develops higher-order synthesis across source taxonomies, examining recurring principles, shared distinctions, cross-domain relationships, dependencies, correspondences, coherence, and integration while preserving source provenance.
+4. **Hyper** — The Hyper level examines system-wide coherence, architecture, interactions, constraints, feedback, dependencies, invariants, and integration across the Super-level syntheses.
+5. **Ultra** — The Ultra level evaluates and refines the integrated Hyper-level architecture, including resilience, adaptability, scalability, efficiency, maintainability, robustness, and system-wide tradeoffs.
+6. **Quantum** — The Quantum level investigates foundational possibility, states, uncertainty, transitions, interactions, and constraints relevant to the preceding integrated architecture.
+7. **Magic** — The Magic level examines directed transformation, generative methods, enabling conditions, constraints, invariants, and documented pathways from possibilities or designs to intended manifestations or outcomes.
+8. **Transformative** — The Transformative level follows Quantum and Magic.
 
-Magic-level conclusions should be traceable through the source Alchemy Taxonomy and corresponding Meta, Super, Hyper, Ultra, and Quantum work. Quantum precedes Magic; Transformative follows Magic and evaluates the complete change pathway and its outcomes.
+## Related Taxonomy Workspaces
 
-## Related Workspaces
+The corresponding workspaces at the other taxonomy levels are listed below in the required progression order, with this workspace omitted from its own related-workspace list.
 
-- [Source Alchemy Taxonomy of Greater Good](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Greater%20Good/)
+- [Alchemy Taxonomy of Greater Good](../../Alchemy%20Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Greater%20Good/)
 - [Meta Alchemy Taxonomy of Greater Good](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20Greater%20Good/)
 - [Super Alchemy Taxonomy of Greater Good](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20Greater%20Good/)
 - [Hyper Alchemy Taxonomy of Greater Good](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20Greater%20Good/)
 - [Ultra Alchemy Taxonomy of Greater Good](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20Greater%20Good/)
 - [Quantum Alchemy Taxonomy of Greater Good](../../Quantum%20Alchemy%20Taxonomies/Quantum%20Alchemy%20Taxonomy%20of%20Greater%20Good/)
-- [Magic Alchemy Taxonomy of Greater Good](../../Magic%20Alchemy%20Taxonomies/Magic%20Alchemy%20Taxonomy%20of%20Greater%20Good/)
 - [Transformative Alchemy Taxonomy of Greater Good](../../Transformative%20Alchemy%20Taxonomies/Transformative%20Alchemy%20Taxonomy%20of%20Greater%20Good/)
 
-## Status and Boundary
+## Collection Index
 
-Workspace initialized. Research artifacts have not thereby been populated, assessed, reviewed, or adopted. Creating this workspace does not establish a transformation mechanism, supernatural effect, relationship, synthesis, or classification, and does not authorize changes to source taxonomies. Preserve provenance, inputs, methods, constraints, risks, results, limitations, and distinct evidence, review, owner-acceptance, and authorization statuses.
+Return to the [Magic Alchemy Taxonomies index](../README.md) for the complete 33-workspace directory.
+
+## Status and Governance Boundary
+
+This directory is an initialized research workspace. Its presence does not establish that its research is complete, assessed, reviewed, verified, adopted, or owner-approved. A proposed definition, relationship, synthesis, model, method, transformation, or outcome is not automatically canonical. Preserve sources, methods, inputs, outputs, assumptions, limitations, and unresolved questions. Keep execution outcome, evidence status, review status, owner acceptance, programme credit, and authorization distinct. Explicit owner acceptance and authorization are required before canonical changes or publication.
