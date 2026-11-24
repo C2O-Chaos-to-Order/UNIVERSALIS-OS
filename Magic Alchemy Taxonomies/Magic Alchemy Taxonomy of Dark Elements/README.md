@@ -2,26 +2,36 @@
 
 ## Purpose
 
-This directory is the Magic-level workspace corresponding to the source Alchemy Taxonomy of Dark Elements. It is reserved for examining directed transformation and generative methods relevant to this subject area, including how possibilities or designs may be translated into intended manifestations or outcomes.
+This is the Magic-level workspace corresponding to the source Alchemy Taxonomy of Dark Elements. It examines directed transformation and generative methods relevant to this subject area, including how possibilities or designs may be translated into intended manifestations or outcomes.
 
-Potential work may identify transformation inputs, intended changes, enabling conditions, methods, constraints, invariants, risks, outputs, and evaluation criteria. It should distinguish a conceptual or symbolic transformation from a specified process, an implemented method, and an observed or verified outcome. The word "Magic" describes this taxonomy level's conceptual and methodological scope; it does not itself establish supernatural causation or demonstrate that a proposed effect is real.
+Potential work may identify transformation inputs, intended changes, enabling conditions, methods, constraints, invariants, risks, outputs, and evaluation criteria. Distinguish conceptual or symbolic transformation from a specified process, implemented method, and observed or verified outcome. The word "Magic" describes this taxonomy level's conceptual and methodological scope; it does not establish supernatural causation or demonstrate that a proposed effect is real.
 
-Magic-level conclusions should be traceable through the source Alchemy Taxonomy, the corresponding Meta-level examination, Super-level synthesis, Hyper-level integration, and Ultra-level evaluation. The subsequent Quantum-level investigation is a related but distinct level.
+## Required Taxonomy Order
+
+1. **Alchemy Alchemy Taxonomies**
+2. **Meta Alchemy Taxonomies**
+3. **Super Alchemy Taxonomies**
+4. **Hyper Alchemy Taxonomies**
+5. **Ultra Alchemy Taxonomies**
+6. **Quantum Alchemy Taxonomies**
+7. **Magic Alchemy Taxonomies**
+8. **Transformative Alchemy Taxonomies**
+
+Quantum precedes Magic. Transformative follows Magic.
+
+Magic-level conclusions should be traceable through the source Alchemy Taxonomy and corresponding Meta, Super, Hyper, Ultra, and Quantum work. Quantum precedes Magic; Transformative follows Magic and evaluates the complete change pathway and its outcomes.
 
 ## Related Workspaces
 
 - [Source Alchemy Taxonomy of Dark Elements](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Dark%20Elements/)
-- [Corresponding Meta Alchemy Taxonomy of Dark Elements](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20Dark%20Elements/)
-- [Corresponding Super Alchemy Taxonomy of Dark Elements](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20Dark%20Elements/)
-- [Corresponding Hyper Alchemy Taxonomy of Dark Elements](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20Dark%20Elements/)
-- [Corresponding Ultra Alchemy Taxonomy of Dark Elements](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20Dark%20Elements/)
-- [Subsequent Quantum Alchemy Taxonomy of Dark Elements](../../Quantum%20Alchemy%20Taxonomies/Quantum%20Alchemy%20Taxonomy%20of%20Dark%20Elements/)
-- [Magic Alchemy Taxonomies index](../README.md)
+- [Meta Alchemy Taxonomy of Dark Elements](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20Dark%20Elements/)
+- [Super Alchemy Taxonomy of Dark Elements](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20Dark%20Elements/)
+- [Hyper Alchemy Taxonomy of Dark Elements](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20Dark%20Elements/)
+- [Ultra Alchemy Taxonomy of Dark Elements](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20Dark%20Elements/)
+- [Quantum Alchemy Taxonomy of Dark Elements](../../Quantum%20Alchemy%20Taxonomies/Quantum%20Alchemy%20Taxonomy%20of%20Dark%20Elements/)
+- [Magic Alchemy Taxonomy of Dark Elements](../../Magic%20Alchemy%20Taxonomies/Magic%20Alchemy%20Taxonomy%20of%20Dark%20Elements/)
+- [Transformative Alchemy Taxonomy of Dark Elements](../../Transformative%20Alchemy%20Taxonomies/Transformative%20Alchemy%20Taxonomy%20of%20Dark%20Elements/)
 
-## Status
+## Status and Boundary
 
-Workspace initialized. Magic-level research artifacts have not yet been populated, assessed, reviewed, or adopted. No transformation method, manifestation pathway, mechanism, or outcome is implied by this workspace's creation.
-
-## Boundary
-
-Creating this directory does not establish any transformation mechanism, supernatural effect, relationship, synthesis, or classification. It does not change or authorize changes to source Alchemy entries, Meta-level findings, Super-level syntheses, Hyper-level integrations, Ultra-level refinements, or Quantum-level models. Future work must preserve provenance across all preceding levels, identify inputs and methods, record constraints, risks, results, and limitations, distinguish evidence status from review status and owner acceptance, and obtain authorization before canonical changes.
+Workspace initialized. Research artifacts have not thereby been populated, assessed, reviewed, or adopted. Creating this workspace does not establish a transformation mechanism, supernatural effect, relationship, synthesis, or classification, and does not authorize changes to source taxonomies. Preserve provenance, inputs, methods, constraints, risks, results, limitations, and distinct evidence, review, owner-acceptance, and authorization statuses.

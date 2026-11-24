@@ -2,26 +2,36 @@
 
 ## Purpose
 
-This directory is the Quantum-level workspace corresponding to the source Alchemy Taxonomy of Balance. It is reserved for examining foundational possibility, states, uncertainty, transitions, interactions, and constraints relevant to this subject area and its corresponding Ultra-level refinement.
+This is the Quantum-level workspace corresponding to the source Alchemy Taxonomy of Balance. It examines foundational possibility, states, uncertainty, transitions, interactions, and constraints relevant to this subject area and its corresponding Ultra-level refinement.
 
 Potential work may compare alternative state models, investigate conditions and transitions, identify interactions and dependencies, expose unresolved uncertainty, and distinguish possible configurations from supported or observed outcomes. The word "Quantum" describes this taxonomy level's conceptual and methodological scope; it does not itself establish a connection to quantum mechanics or demonstrate a physical quantum phenomenon.
 
-Quantum-level conclusions should be traceable through the source Alchemy Taxonomy, the corresponding Meta-level examination, Super-level synthesis, Hyper-level integration, Ultra-level evaluation, and the preceding Magic-level investigation of directed transformation. They must distinguish formal models, conceptual hypotheses, empirical evidence, and verified outcomes.
+## Required Taxonomy Order
+
+1. **Alchemy Alchemy Taxonomies**
+2. **Meta Alchemy Taxonomies**
+3. **Super Alchemy Taxonomies**
+4. **Hyper Alchemy Taxonomies**
+5. **Ultra Alchemy Taxonomies**
+6. **Quantum Alchemy Taxonomies**
+7. **Magic Alchemy Taxonomies**
+8. **Transformative Alchemy Taxonomies**
+
+Quantum precedes Magic. Transformative follows Magic.
+
+Quantum-level conclusions should be traceable through the source Alchemy Taxonomy and corresponding Meta, Super, Hyper, and Ultra work, and should distinguish formal models, conceptual hypotheses, empirical evidence, and verified outcomes. Quantum-level investigation precedes Magic-level directed transformation and the final Transformative-level evaluation.
 
 ## Related Workspaces
 
 - [Source Alchemy Taxonomy of Balance](../../Alchemy%20Taxonomies/Alchemy%20Taxonomy%20of%20Balance/)
-- [Corresponding Meta Alchemy Taxonomy of Balance](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20Balance/)
-- [Corresponding Super Alchemy Taxonomy of Balance](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20Balance/)
-- [Corresponding Hyper Alchemy Taxonomy of Balance](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20Balance/)
-- [Corresponding Ultra Alchemy Taxonomy of Balance](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20Balance/)
-- [Preceding Magic Alchemy Taxonomy of Balance](../../Magic%20Alchemy%20Taxonomies/Magic%20Alchemy%20Taxonomy%20of%20Balance/)
-- [Quantum Alchemy Taxonomies index](../README.md)
+- [Meta Alchemy Taxonomy of Balance](../../Meta%20Alchemy%20Taxonomies/Meta%20Alchemy%20Taxonomy%20of%20Balance/)
+- [Super Alchemy Taxonomy of Balance](../../Super%20Alchemy%20Taxonomies/Super%20Alchemy%20Taxonomy%20of%20Balance/)
+- [Hyper Alchemy Taxonomy of Balance](../../Hyper%20Alchemy%20Taxonomies/Hyper%20Alchemy%20Taxonomy%20of%20Balance/)
+- [Ultra Alchemy Taxonomy of Balance](../../Ultra%20Alchemy%20Taxonomies/Ultra%20Alchemy%20Taxonomy%20of%20Balance/)
+- [Quantum Alchemy Taxonomy of Balance](../../Quantum%20Alchemy%20Taxonomies/Quantum%20Alchemy%20Taxonomy%20of%20Balance/)
+- [Magic Alchemy Taxonomy of Balance](../../Magic%20Alchemy%20Taxonomies/Magic%20Alchemy%20Taxonomy%20of%20Balance/)
+- [Transformative Alchemy Taxonomy of Balance](../../Transformative%20Alchemy%20Taxonomies/Transformative%20Alchemy%20Taxonomy%20of%20Balance/)
 
-## Status
+## Status and Boundary
 
-Workspace initialized. Quantum-level research artifacts have not yet been populated, assessed, reviewed, or adopted. No foundational state model, possibility structure, transition, interaction, or scientific conclusion is implied by this workspace's creation.
-
-## Boundary
-
-Creating this directory does not establish any state model, physical mechanism, relationship, synthesis, or classification. It does not change or authorize changes to source Alchemy entries, Meta-level findings, Super-level syntheses, Hyper-level integrations, Ultra-level refinements, or Magic-level proposals. Future work must preserve provenance across all preceding levels, state assumptions and model limits, document uncertainty and alternatives, distinguish evidence status from review status and owner acceptance, and obtain authorization before canonical changes.
+Workspace initialized. Research artifacts have not thereby been populated, assessed, reviewed, or adopted. Creating this workspace does not establish a state model, physical mechanism, relationship, synthesis, or classification, and does not authorize changes to source taxonomies. Preserve provenance, assumptions, model limits, uncertainty, alternative explanations, and distinct evidence, review, owner-acceptance, and authorization statuses.
