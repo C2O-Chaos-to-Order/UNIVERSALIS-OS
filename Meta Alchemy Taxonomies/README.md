@@ -49,3 +49,8 @@ All 33 Meta Alchemy Taxonomy workspace directories have been initialized. Their 
 ## Boundary
 
 This structure does not itself create, alter, validate, approve, or canonize any taxonomy entry, definition, relationship, hierarchy, classification, governance rule, or owner decision. Meta-level findings must retain source provenance and distinguish research proposals, evidence status, review status, owner acceptance, and authorization.
+
+
+## Related Collection
+
+The [Super Alchemy Taxonomies](../Super%20Alchemy%20Taxonomies/) collection is reserved for higher-order synthesis across the source taxonomies. Meta-level examination remains distinct from Super-level synthesis.

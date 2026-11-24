@@ -14,6 +14,10 @@ The [Alchemy Taxonomy for the Universal Subjects of Knowledge](./Alchemy%20Taxon
 
 The [Meta Alchemy Taxonomies](./Meta%20Alchemy%20Taxonomies/) directory is a separate workspace for future meta-level research into the structure, organization, distinctions, relationships, and integration of the Alchemy Taxonomies collection. It is initialized but not yet populated; its placeholder establishes no taxonomy entries, relationships, classifications, or canonical decisions.
 
+## Super Alchemy Taxonomies
+
+The [Super Alchemy Taxonomies](./Super%20Alchemy%20Taxonomies/) directory provides separate workspaces for higher-order synthesis across the Alchemy Taxonomies, including cross-taxonomy patterns, shared principles, relationships, dependencies, and integration. The structure is initialized for future research and does not itself establish or canonize any synthesis.
+
 ## Related repositories
 
 - `UNIVERSALIS-App` — public, open-source application edition.

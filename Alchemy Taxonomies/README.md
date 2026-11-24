@@ -60,6 +60,8 @@ The [Universal Subjects of Knowledge workspace](./Alchemy%20Taxonomy%20for%20the
 
 The [Meta Alchemy Taxonomies](../Meta%20Alchemy%20Taxonomies/) directory is a separate collection for examining the Alchemy Taxonomies as a whole. It does not replace or silently modify any subject-level taxonomy.
 
+The [Super Alchemy Taxonomies](../Super%20Alchemy%20Taxonomies/) directory is a separate collection for higher-order synthesis across subject taxonomies. It does not replace or silently modify their source contents.
+
 ---
 
 **Collection status:** 33 workspaces indexed. The index is organizational; it does not confer approval, completion, or canonical status on the contents of any workspace.
