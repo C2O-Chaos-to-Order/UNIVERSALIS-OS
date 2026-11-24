@@ -18,6 +18,10 @@ The [Meta Alchemy Taxonomies](./Meta%20Alchemy%20Taxonomies/) directory is a sep
 
 The [Super Alchemy Taxonomies](./Super%20Alchemy%20Taxonomies/) directory provides separate workspaces for higher-order synthesis across the Alchemy Taxonomies, including cross-taxonomy patterns, shared principles, relationships, dependencies, and integration. The structure is initialized for future research and does not itself establish or canonize any synthesis.
 
+## Hyper Alchemy Taxonomies
+
+The [Hyper Alchemy Taxonomies](./Hyper%20Alchemy%20Taxonomies/) directory provides separate workspaces for examining system-wide coherence, architecture, interactions, constraints, and integration across the Super-level syntheses. It is initialized for future research and does not itself establish or canonize an integrated conclusion.
+
 ## Related repositories
 
 - `UNIVERSALIS-App` — public, open-source application edition.

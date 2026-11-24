@@ -54,3 +54,8 @@ This structure does not itself create, alter, validate, approve, or canonize any
 ## Related Collection
 
 The [Super Alchemy Taxonomies](../Super%20Alchemy%20Taxonomies/) collection is reserved for higher-order synthesis across the source taxonomies. Meta-level examination remains distinct from Super-level synthesis.
+
+
+## Related Collection
+
+The [Hyper Alchemy Taxonomies](../Hyper%20Alchemy%20Taxonomies/) collection is reserved for system-wide integration across Super-level syntheses. Meta-level examination remains distinct from Super-level synthesis and Hyper-level integration.
