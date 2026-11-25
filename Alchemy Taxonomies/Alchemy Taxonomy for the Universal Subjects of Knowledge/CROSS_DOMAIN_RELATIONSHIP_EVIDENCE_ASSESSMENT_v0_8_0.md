@@ -166,8 +166,3 @@ This pass checks source relevance and source-to-claim mapping but is not a syste
 ### Additional source-date and currency correction — 2026-11-24
 
 The ONS *Immunotherapy Administration* source (S144) is a 2017 publication (DOI 10.1188/17.CJON.S2.5-7), not a 2026 publication. The source-register date and LSHS-054 wording have been corrected. Its recommendations are explicitly treated as historical professional guidance; the 2025 nursing practice guide (S145) is the more recent evidence-based practice source. The assessment and source recheck dates have also been updated to 2026-11-24. No candidate disposition or cumulative pair count changed.
-
-
-### Additional source-date and currency correction — 2026-11-24
-
-The ONS *Immunotherapy Administration* source (S144) is a 2017 publication (DOI 10.1188/17.CJON.S2.5-7), not a 2026 publication. The source-register date and LSHS-054 wording have been corrected. Its recommendations are explicitly treated as historical professional guidance; the 2025 nursing practice guide (S145) is the more recent evidence-based practice source. The assessment and source recheck dates have also been updated to 2026-11-24. No candidate disposition or cumulative pair count changed.
