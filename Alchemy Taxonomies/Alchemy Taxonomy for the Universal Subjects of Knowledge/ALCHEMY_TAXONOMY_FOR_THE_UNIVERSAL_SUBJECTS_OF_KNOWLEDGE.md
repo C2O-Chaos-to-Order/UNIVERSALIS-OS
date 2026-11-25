@@ -1,6 +1,6 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.13.8  
+**Version:** 1.13.9  
 **Status:** All twenty owner-supplied Universal Subject hierarchies recorded and source-audited; 264 unique subject Alchemies mapped across 22 contexts; 5,808 contextual-expression records established with expression authoring and review pending; cross-domain source screening and 264-node sparse relationship matrix initiated; 18 related-but-distinct proposals pending owner review; all 78 top-level section headings consecutively numbered 1–78, with subsection numbering and current section references reconciled; historical numbering migration preserved in change control  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
@@ -2582,7 +2582,7 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 
 ## 77. Taxonomy status and release register
 
-| Item | State in version 1.13.8 |
+| Item | State in version 1.13.9 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -2654,6 +2654,7 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 | Contextual-expression register | Established — 5,808 unique tracking records; detailed expressions remain not authored and not reviewed |
 | Detailed contextual expressions | Must be authored and reviewed for each mapped intersection |
 | Further Universal Subjects of Knowledge | Awaiting owner-supplied source material |
+| Repository synchronization scope | Established — identical canonical taxonomy content and version required across `C2O-Chaos-to-Order/C2O-OS`, `C2O-Chaos-to-Order/C2O-App`, `C2O-Chaos-to-Order/UNIVERSALIS-OS`, `C2O-Chaos-to-Order/UNIVERSALIS-App`, `C2O-Chaos-to-Order/C2O-OS-Private-Implementation`, and `C2O-Chaos-to-Order/C2O-App-Private-Implementation` |
 | Implementation and verification | Not asserted by this taxonomy entry |
 
 **Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, Environmental Sciences, Earth, Space, and Planetary Sciences, Human Development and Civilization, Security and Protection Sciences, Transportation and Infrastructure, Agriculture, Food, and Resource Sciences, and Meta-Knowledge Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Cross-domain mapping includes eight confirmed shared-identity links and a source screen of all 190 unique top-level domain pairs; seven additional domain pairs have RD-P proposals, while 176 pairs have no direct relationship stated in the current taxonomy source (NS), which is not a negative finding. The 264-node subject-Alchemy index and sparse 264 × 264 matrix have been initialized with 252 established hierarchy pairs, eighteen RD-P proposals, and 34,446 NS pairs. Proposed relations remain pending owner review, and semantic assessment of NS pairs remains ongoing. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
@@ -2663,7 +2664,7 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
-All four repositories must maintain the same shared taxonomy content and version. Repository-specific implementation details may be documented separately where appropriate, but they must not silently change the canonical Universal Subject names, hierarchy, or 22-context mapping rules.
+All six repositories must maintain the same shared taxonomy content and version: `C2O-Chaos-to-Order/C2O-OS`, `C2O-Chaos-to-Order/C2O-App`, `C2O-Chaos-to-Order/UNIVERSALIS-OS`, `C2O-Chaos-to-Order/UNIVERSALIS-App`, `C2O-Chaos-to-Order/C2O-OS-Private-Implementation`, and `C2O-Chaos-to-Order/C2O-App-Private-Implementation`. This requirement applies across the public and private-implementation repositories. Repository-specific implementation details may be documented separately where appropriate, but they must not silently change the canonical Universal Subject names, hierarchy, or 22-context mapping rules.
 
 ### Historical section-number reconciliation
 
@@ -2711,3 +2712,5 @@ The migration pattern is established by the commit history. The original reason 
 
 **Version 1.13.7 change record:** Completed the source-to-document audit of all twenty owner-supplied Universal Subjects of Knowledge hierarchies against their supplied subject names, definitions where provided, and hierarchy placement. Corrected the completion-distinction enumeration in the release register (then Section 110) to include Meta-Knowledge Sciences, which had been omitted despite its existing hierarchy, matrix, and contextual-expression requirements (then Sections 101–103), cumulative register entry, and release-register records. Revalidated the cumulative inventory: 272 hierarchy positions, 264 unique canonical subject Alchemies, 22 contexts, and 5,808 unique context mappings. Confirmed that all eight shared identities retain one canonical ID and one set of 22 context mappings; all eighteen RD-P proposals remain pending owner review; and detailed contextual expressions remain not authored and not reviewed. No hierarchy, canonical identity, context mapping, matrix value, or relationship status was changed.
 **Version 1.13.8 change record:** Eliminated the remaining gaps in current section numbering. Compact-renumbered all 78 active top-level section headings consecutively from 1 through 78; updated all 72 numbered subsection headings and current explicit internal section references; corrected the release-register status and historical numbering explanation; and retained the prior ranges and migration sequence as historical change evidence. Preserved document order and substantive content. No Universal Subject hierarchy, canonical Alchemy identity, 22-context mapping, matrix value, shared-identity relationship, cross-domain proposal, or cumulative total was changed.
+
+**Version 1.13.9 change record:** Expanded the repository synchronization requirement from four to six repositories and enumerated the exact repository set in Sections 77 and 78. The six default-branch copies were verified to have identical content before this update and are synchronized to this release. No Universal Subject hierarchy, canonical Alchemy identity, 22-context mapping, matrix value, contextual-expression record, cross-domain relationship classification, or cumulative taxonomy total was changed.
