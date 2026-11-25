@@ -89,7 +89,8 @@ Each record must be individually authored from the actual Universal Subject and 
 6. Relationships and dependencies.
 7. Authority, permissions, and constraints.
 8. Inputs, outputs, and effects.
-9. Supporting evidence, validation criteria, and limitations.
+9. Supporting evidence and validation criteria.
+10. Supporting sources, limitations, uncertainty, and unresolved points.
 
 Do not mechanically copy a generic paragraph across the 22 contexts. Shared subject identity does not imply identical responsibilities, operations, authority, implementation, or source visibility.
 
