@@ -1,9 +1,9 @@
 # Contextual Expression Register
 
-**Register release:** 1.0.0 (tracking baseline)  
+**Register release:** 1.0.1 (canonical provenance reconciliation; tracking records unchanged)  
 **Canonical source:** `Alchemy Taxonomies/Alchemy Taxonomy for the Universal Subjects of Knowledge/ALCHEMY_TAXONOMY_FOR_THE_UNIVERSAL_SUBJECTS_OF_KNOWLEDGE.md`  
-**Canonical source version:** 1.13.1  
-**Canonical source blob SHA:** `f054a687bb649f8e67982a607b59a5156e8e9a46`
+**Canonical source version:** 1.13.8  
+**Canonical source blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
 
 ## Purpose and scope
 
@@ -101,7 +101,7 @@ The register keeps these states separate:
 - Implementation (`NI`) is not asserted.
 - Publication authorization (`P`) remains pending.
 
-A change to one state must not silently change another. A record must not be marked authored, reviewed, evidenced, accepted, implemented, verified, or authorized without its own supporting record and appropriate approval.
+A change to one state must not silently change another. A record must not be marked authored, reviewed, evidenced, accepted, implemented, verified, or authorized without its own supporting record and appropriate approval. Testing and verification remain distinct from implementation and from one another; neither is represented by reusing an existing CSV status code. Until separately recorded in traceable supporting records, neither should be inferred as completed.
 
 ## Edition and visibility boundaries
 
@@ -122,4 +122,4 @@ The register does not authorize publication or distribution. Rights and licensin
 
 ## Source and completion boundary
 
-The source taxonomy version 1.13.1 already records all 5,808 mapping positions. This companion register operationalizes the outstanding detailed-expression requirement; it does not claim that any of the 5,808 contextual expressions are complete.
+The source taxonomy version 1.13.8 records the canonical subject and context structure used for this register. The register's 5,808 rows were checked against that source: all 264 subject-Alchemy identifiers are present, all 22 context identifiers are represented, and all 5,808 subject–context record identifiers are unique. This confirms the register's identity and context coverage; it does not claim that any detailed contextual expression has been authored, reviewed, evidenced, accepted, implemented, tested, verified, or authorized.
