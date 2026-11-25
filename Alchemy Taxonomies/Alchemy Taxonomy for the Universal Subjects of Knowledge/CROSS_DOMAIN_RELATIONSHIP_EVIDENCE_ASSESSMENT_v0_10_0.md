@@ -149,7 +149,7 @@ This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 ch
 |---|---|
 | LSHS-063 | S163, S164 |
 | LSHS-064 | S159–S162 |
-| LSHS-065 | S165–S167 |
+| LSHS-065 | S166–S168 |
 | LSHS-066 | S169, S170 |
 | LSHS-067 | S163, S171 |
 
