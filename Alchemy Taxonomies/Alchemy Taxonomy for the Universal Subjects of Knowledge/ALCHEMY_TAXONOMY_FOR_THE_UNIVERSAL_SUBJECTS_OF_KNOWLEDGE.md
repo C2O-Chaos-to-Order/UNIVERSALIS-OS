@@ -1,6 +1,6 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.13.4  
+**Version:** 1.13.5  
 **Status:** Twenty supplied Universal Subject hierarchies recorded; 264 unique subject Alchemies mapped across 22 contexts; 5,808 contextual-expression records established with expression authoring and review pending; cross-domain source screening and 264-node sparse relationship matrix initiated; 18 related-but-distinct proposals pending owner review  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
@@ -1440,13 +1440,13 @@ The following hierarchy preserves the supplied subject list. The source provides
 | USA-ELS-008 | Knowledge Management | Knowledge Management Alchemy | Education and Learning Sciences; Meta-Knowledge Sciences (shared canonical subject) |
 | USA-ELS-009 | Training Systems | Training Systems Alchemy | Education and Learning Sciences |
 
-**Education and Learning Sciences total: 9 hierarchy positions comprising eight new distinct subject Alchemies and one shared existing subject Alchemy.** The parent subject and seven subordinate subjects other than Knowledge Management establish eight new distinct Alchemies. **Knowledge Management remains one canonical subject Alchemy, identified as USA-ELS-008**, shared with Meta-Knowledge Sciences. Its existing 22 context mappings are referenced rather than duplicated or counted a second time.
+**Education and Learning Sciences total: 9 distinct subject Alchemies** — one parent subject and eight supplied subordinate subjects. **Knowledge Management (USA-ELS-008) is first established here as the canonical subject-Alchemy identity** and is also parented under Meta-Knowledge Sciences. Its 22 canonical context mappings are established in this section and referenced, not counted again, from the Meta-Knowledge Sciences hierarchy.
 
 The source supplied the subject name and its eight subordinate subject names, but no definition for Education and Learning Sciences and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred.
 
 ## 60. Education and Learning Sciences Alchemy — 9 × 22 context matrix
 
-The matrix below records all nine Education and Learning Sciences hierarchy positions across the 22 canonical contexts. Eight rows represent new subject Alchemies and contribute 8 × 22 = **176 new mapped intersections**. The Knowledge Management row references the existing canonical Alchemy USA-ELS-008 and its 22 canonical context mappings; it is shared coverage, not an additional set of mappings. Each **M** records a required mapping position; it does not by itself claim that the detailed contextual expression has been authored, reviewed, implemented, tested, or verified.
+The matrix below maps all nine Education and Learning Sciences subject Alchemies to the 22 canonical contexts. All nine rows are canonical first-occurrence entries in this domain and contribute 9 × 22 = **198 unique mapped intersections**. Knowledge Management (USA-ELS-008) is also parented under Meta-Knowledge Sciences; that hierarchy references this existing canonical row rather than creating another mapping set. Each **M** records a required mapping position; it does not by itself claim that the detailed contextual expression has been authored, reviewed, implemented, tested, or verified.
 
 The column identifiers C01–C22 refer to the canonical context key in Section 8.2.
 
@@ -1459,16 +1459,16 @@ The column identifiers C01–C22 refer to the canonical context key in Section 8
 | USA-ELS-005 · Educational Psychology Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
 | USA-ELS-006 · Assessment Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
 | USA-ELS-007 · Curriculum Design Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
-| USA-ELS-008 · Knowledge Management Alchemy [shared canonical Alchemy] | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
+| USA-ELS-008 · Knowledge Management Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
 | USA-ELS-009 · Training Systems Alchemy | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M | M |
 
-**Education and Learning Sciences matrix coverage:** 9 hierarchy positions × 22 contexts = **198 section mapping positions**, comprising **176 new mapped intersections and 22 references to the existing Knowledge Management mappings**.
+**Education and Learning Sciences matrix total:** 9 subject Alchemies × 22 contexts = **198 new unique mapped intersections**.
 
-The 22 Knowledge Management cells represent the existing canonical subject-Alchemy/context intersections for USA-ELS-008. Meta-Knowledge Sciences references these same intersections rather than creating a second set. Knowledge Management retains one canonical identifier and one set of 22 context mappings.
+These 198 intersections are the canonical context mappings of the nine subject Alchemies first established under Education and Learning Sciences. The 22 Knowledge Management mappings for USA-ELS-008 are included here once; Meta-Knowledge Sciences references the same canonical mappings and does not add them a second time.
 
 ## 61. Education and Learning Sciences contextual expression requirements
 
-Each of the 176 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
+Each of the 198 mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
 1. **Subject-Alchemy identity:** the exact canonical subject Alchemy and stable identifier.
 2. **Context identity:** the exact C01–C22 identifier and canonical context name.
@@ -1482,7 +1482,7 @@ Each of the 176 new mapped intersections must receive an individually authored a
 10. **Inputs, outputs, and effects:** relevant knowledge, information, resources, results, and changes.
 11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
 
-The 22 Knowledge Management contextual-expression records remain associated with the canonical identity USA-ELS-008 and must be authored and reviewed once, not duplicated for the Meta-Knowledge Sciences parent.
+The 22 Knowledge Management contextual expressions are authored and reviewed once under the canonical identity USA-ELS-008 and are shared by its two parent domains. Meta-Knowledge Sciences must reference these same expressions rather than creating duplicates.
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
@@ -2568,7 +2568,7 @@ The taxonomy now contains twenty supplied Universal Subjects of Knowledge hierar
 | Humanities | 12 | 12 | 22 | 264 |
 | Language and Communication | 12 (11 new + 1 shared) | 11 | 22 | 242 (22 shared, not added) |
 | Arts and Creative Expression | 16 | 16 | 22 | 352 |
-| Education and Learning Sciences | 9 (8 new + 1 shared) | 8 | 22 | 176 (22 shared, not added) |
+| Education and Learning Sciences | 9 | 9 | 22 | 198 |
 | Environmental Sciences | 11 (10 new + 1 shared) | 10 | 22 | 220 (22 shared, not added) |
 | Earth, Space, and Planetary Sciences | 10 | 10 | 22 | 220 |
 | Human Development and Civilization | 10 (9 new + 1 shared) | 9 | 22 | 198 (22 shared, not added) |
@@ -2578,11 +2578,11 @@ The taxonomy now contains twenty supplied Universal Subjects of Knowledge hierar
 | Meta-Knowledge Sciences | 13 (12 new + 1 shared) | 12 | 22 | 264 (22 shared, not added) |
 | **Cumulative unique total** | **272 hierarchy positions** | **264** | **22** | **5808** |
 
-The cumulative total represents 264 distinct subject Alchemies mapped across 22 contexts, producing 5808 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing Artificial Intelligence mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing Economics mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes eight new subject Alchemies and 176 new mapped intersections; the existing Knowledge Management Alchemy USA-ELS-008 contributes 22 shared mapping references and is not counted a second time. Environmental Sciences contributes ten new subject Alchemies and 220 new mapped intersections; the existing Ecology Alchemy contributes 22 shared mapping references and is not counted twice. Earth, Space, and Planetary Sciences contributes ten new subject Alchemies and 220 new mapped intersections. Human Development and Civilization contributes nine new subject Alchemies and 198 new mapped intersections; the existing Anthropology Alchemy contributes 22 shared mapping references and is not counted twice. Security and Protection Sciences contributes eight new subject Alchemies and 176 new mapped intersections; the existing Cybersecurity Alchemy contributes 22 shared mapping references and is not counted twice. Transportation and Infrastructure contributes nine new distinct subject Alchemies and 198 new mapped intersections; no existing subject-Alchemy identities or context mappings are shared or counted again in that entry. Agriculture, Food, and Resource Sciences contributes nine new distinct subject Alchemies and 198 new mapped intersections; the existing Agriculture Alchemy USA-ENV-010 contributes 22 shared mapping references and is not counted a second time. Meta-Knowledge Sciences contributes twelve new distinct subject Alchemies and 264 new mapped intersections; the existing Knowledge Management Alchemy USA-ELS-008 contributes 22 shared mapping references and is not counted a second time.
+The cumulative total represents 264 distinct subject Alchemies mapped across 22 contexts, producing 5808 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing Artificial Intelligence mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing Economics mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes nine new canonical subject Alchemies and 198 unique mapped intersections. Knowledge Management USA-ELS-008 is first established here and is referenced, without duplicate counting, by Meta-Knowledge Sciences. Environmental Sciences contributes ten new subject Alchemies and 220 new mapped intersections; the existing Ecology Alchemy contributes 22 shared mapping references and is not counted twice. Earth, Space, and Planetary Sciences contributes ten new subject Alchemies and 220 new mapped intersections. Human Development and Civilization contributes nine new subject Alchemies and 198 new mapped intersections; the existing Anthropology Alchemy contributes 22 shared mapping references and is not counted twice. Security and Protection Sciences contributes eight new subject Alchemies and 176 new mapped intersections; the existing Cybersecurity Alchemy contributes 22 shared mapping references and is not counted twice. Transportation and Infrastructure contributes nine new distinct subject Alchemies and 198 new mapped intersections; no existing subject-Alchemy identities or context mappings are shared or counted again in that entry. Agriculture, Food, and Resource Sciences contributes nine new distinct subject Alchemies and 198 new mapped intersections; the existing Agriculture Alchemy USA-ENV-010 contributes 22 shared mapping references and is not counted a second time. Meta-Knowledge Sciences contributes twelve new distinct subject Alchemies and 264 new mapped intersections; the existing Knowledge Management Alchemy USA-ELS-008 contributes 22 shared mapping references and is not counted a second time.
 
 ## 110. Taxonomy status and release register
 
-| Item | State in version 1.13.4 |
+| Item | State in version 1.13.5 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -2619,8 +2619,8 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 | Arts and Creative Expression hierarchy | Recorded — 16 distinct subject Alchemies: 1 parent and 15 supplied subordinate subjects |
 | Arts and Creative Expression matrix | Recorded — 16 × 22 = 352 new mapped intersections |
 | Education and Learning Sciences source definition | Not supplied; no definition inferred |
-| Education and Learning Sciences hierarchy | Recorded — 9 positions: 8 new Alchemies and 1 shared existing Knowledge Management Alchemy |
-| Education and Learning Sciences matrix | Recorded — 198 positions: 176 new mappings and 22 references to existing Knowledge Management mappings |
+| Education and Learning Sciences hierarchy | Recorded — 9 distinct subject Alchemies: 1 parent and 8 supplied subordinate subjects; Knowledge Management is the canonical identity shared with Meta-Knowledge Sciences |
+| Education and Learning Sciences matrix | Recorded — 9 × 22 = 198 unique mapped intersections; Meta-Knowledge Sciences references the 22 Knowledge Management mappings without recounting them |
 | Environmental Sciences source definition | Not supplied; no definition inferred |
 | Environmental Sciences hierarchy | Recorded — 11 positions: 10 new Alchemies and 1 shared existing Ecology Alchemy |
 | Environmental Sciences matrix | Recorded — 242 positions: 220 new mappings and 22 references to existing Ecology mappings |
@@ -2681,3 +2681,5 @@ All four repositories must maintain the same shared taxonomy content and version
 **Version 1.13.3 change record:** Completed reciprocal hierarchy annotations and parent metadata for the eight established shared canonical subject-Alchemy identities so both parent hierarchies consistently record each shared relationship. Corrected the release-register version heading to 1.13.3. No canonical subject identifiers, unique subject-Alchemy counts, context mappings, matrix values, or cross-domain relationship classifications changed.
 
 **Version 1.13.4 change record:** Corrected Education and Learning Sciences shared-identity accounting for Knowledge Management (USA-ELS-008). Its nine hierarchy positions comprise eight new subject Alchemies and one shared existing Alchemy; its 198 matrix positions comprise 176 new mapped intersections and 22 references to the existing Knowledge Management mappings. Updated the contextual-expression requirement, cumulative domain register, and release register accordingly. The 264 unique subject Alchemies and 5,808 unique context mappings remain unchanged.
+
+**Version 1.13.5 change record:** Corrected the Education and Learning Sciences accounting clarification from version 1.13.4. Education and Learning Sciences is the canonical first-occurrence domain for Knowledge Management (USA-ELS-008), as established by its canonical identifier and the explicit reference from Meta-Knowledge Sciences. Accordingly, Education retains nine new canonical subject Alchemies and 198 unique context mappings; Meta-Knowledge Sciences retains twelve new Alchemies and references the existing 22 Knowledge Management mappings without recounting them. The reciprocal parent annotations and shared-identity record remain unchanged. Global totals remain 264 unique subject Alchemies and 5,808 unique context mappings.
