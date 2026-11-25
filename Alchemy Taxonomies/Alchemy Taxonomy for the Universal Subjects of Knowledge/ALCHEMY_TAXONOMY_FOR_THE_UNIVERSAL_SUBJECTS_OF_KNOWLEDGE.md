@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.13.5  
-**Status:** Twenty supplied Universal Subject hierarchies recorded; 264 unique subject Alchemies mapped across 22 contexts; 5,808 contextual-expression records established with expression authoring and review pending; cross-domain source screening and 264-node sparse relationship matrix initiated; 18 related-but-distinct proposals pending owner review  
+**Version:** 1.13.6  
+**Status:** Twenty supplied Universal Subject hierarchies recorded; 264 unique subject Alchemies mapped across 22 contexts; 5,808 contextual-expression records established with expression authoring and review pending; cross-domain source screening and 264-node sparse relationship matrix initiated; 18 related-but-distinct proposals pending owner review; historical numbering reconciliation completed with eleven legacy vacant ranges documented  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -2582,7 +2582,7 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 
 ## 110. Taxonomy status and release register
 
-| Item | State in version 1.13.5 |
+| Item | State in version 1.13.6 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -2664,6 +2664,28 @@ Every change to this taxonomy must identify the affected Universal Subject, Alch
 
 All four repositories must maintain the same shared taxonomy content and version. Repository-specific implementation details may be documented separately where appropriate, but they must not silently change the canonical Universal Subject names, hierarchy, or 22-context mapping rules.
 
+### Historical section-number reconciliation
+
+A Git-history audit confirms that all eleven vacant ranges below were previously occupied by three end-matter sections: **Cumulative Universal Subject Alchemy register and mapping totals**, **Taxonomy status and release register**, and **Change control**. When a new Universal Subject block was appended, these closing sections were moved forward; their former section numbers were left vacant. The ranges therefore represent historical numbering vacancies, not omitted Universal Subject hierarchies, deleted domain matrices, or missing subject content.
+
+| Vacated range | Git-history transition |
+|---|---|
+| 26–28 | v0.6.0 → v0.7.0: Computer and Information Sciences was added at 29–31; the three closing sections moved to 32–34. |
+| 41–43 | v1.0.0 → v1.1.0: Humanities was added at 44–46; the three closing sections moved to 47–49. |
+| 47–49 | v1.1.0 → v1.2.0: Language and Communication was added at 50–52; the three closing sections moved to 53–55. |
+| 56–58 | v1.3.0 → v1.4.0: Education and Learning Sciences was added at 59–61; the three closing sections moved to 62–64. |
+| 62–64 | v1.4.0 → v1.5.0: Environmental Sciences was added at 65–67; the three closing sections moved to 68–70. |
+| 68–70 | v1.5.0 → v1.6.0: Earth, Space, and Planetary Sciences was added at 71–73; the three closing sections moved to 74–76. |
+| 74–76 | v1.6.0 → v1.7.0: Human Development and Civilization was added at 77–79; the three closing sections moved to 80–82. |
+| 80–82 | v1.7.0 → v1.8.0: Security and Protection Sciences was added at 83–85; the three closing sections moved to 86–88. |
+| 86–88 | v1.8.0 → v1.9.0: Transportation and Infrastructure was added at 89–91; the three closing sections moved to 92–94. |
+| 92–94 | v1.9.0 → v1.10.0: Agriculture, Food, and Resource Sciences was added at 95–97; the three closing sections moved to 98–100. |
+| 98–100 | v1.10.0 → v1.11.0: Meta-Knowledge Sciences was added at 101–103; the three closing sections moved to 104–106. |
+
+Version 1.12.0 then inserted the cross-domain sections at 104–108 and moved the closing sections to their current locations at 109–111. These current sections retain the active cumulative register, release register, and change-control functions.
+
+The migration pattern is established by the commit history. The original reason for leaving each former range vacant was not expressly recorded; this reconciliation documents the observed history and does not infer an undocumented reservation policy. The ranges remain unassigned in this release. They are not placeholders to be populated, and this audit does not renumber existing sections or alter any Universal Subject, canonical Alchemy identity, context mapping, matrix position, shared-identity relationship, or cumulative total.
+
 **Version 1.9.0 change record:** Added the owner-supplied Transportation and Infrastructure hierarchy, nine canonical subject-Alchemy identities, 198 required context mappings, and updated cumulative totals. No existing canonical subject identity was merged, removed, or duplicated.
 
 **Version 1.10.0 change record:** Added the owner-supplied Agriculture, Food, and Resource Sciences hierarchy, nine new canonical subject-Alchemy identities, 198 new required context mappings, and one shared Agriculture identity reference (USA-ENV-010); updated cumulative totals. Agriculture was not duplicated or counted a second time.
@@ -2683,3 +2705,5 @@ All four repositories must maintain the same shared taxonomy content and version
 **Version 1.13.4 change record:** Corrected Education and Learning Sciences shared-identity accounting for Knowledge Management (USA-ELS-008). Its nine hierarchy positions comprise eight new subject Alchemies and one shared existing Alchemy; its 198 matrix positions comprise 176 new mapped intersections and 22 references to the existing Knowledge Management mappings. Updated the contextual-expression requirement, cumulative domain register, and release register accordingly. The 264 unique subject Alchemies and 5,808 unique context mappings remain unchanged.
 
 **Version 1.13.5 change record:** Corrected the Education and Learning Sciences accounting clarification from version 1.13.4. Education and Learning Sciences is the canonical first-occurrence domain for Knowledge Management (USA-ELS-008), as established by its canonical identifier and the explicit reference from Meta-Knowledge Sciences. Accordingly, Education retains nine new canonical subject Alchemies and 198 unique context mappings; Meta-Knowledge Sciences retains twelve new Alchemies and references the existing 22 Knowledge Management mappings without recounting them. The reciprocal parent annotations and shared-identity record remain unchanged. Global totals remain 264 unique subject Alchemies and 5,808 unique context mappings.
+
+**Version 1.13.6 change record:** Completed a Git-history-based numbering and structural reconciliation. Confirmed that ranges 26–28, 41–43, 47–49, 56–58, 62–64, 68–70, 74–76, 80–82, 86–88, 92–94, and 98–100 are legacy vacant heading ranges left as the three closing sections moved forward to accommodate new Universal Subject blocks. Documented the transitions and current disposition in Section 111. No missing Universal Subject content was identified or restored; no existing section was renumbered; and hierarchy, canonical Alchemy identities, context mappings, matrix positions, shared-identity relationships, and cumulative totals remain unchanged.
