@@ -40,6 +40,7 @@ Within this boundary, assessments may investigate and develop:
 10. Evidence, sources, definitions, and supporting research.
 11. Missing or insufficiently developed taxonomy content.
 12. Evidence-supported additions, refinements, and corrections.
+13. Independent recording of mapping, expression authoring, review, evidence assessment, owner acceptance, implementation, testing, verification, and publication authorization, with canonical source provenance.
 
 Expansion must strengthen the taxonomy's coverage, accuracy, clarity, coherence, and practical usefulness while preserving the identity and integrity of its established subjects.
 
@@ -77,7 +78,7 @@ No assessment may silently:
 - Treat an unrecorded relationship as proof that no relationship exists.
 - Present an unsupported interpretation as an established finding.
 
-Any proposed canonical change must retain its original state, rationale, supporting evidence, and review disposition.
+Any proposed canonical change must retain its original state, rationale, supporting evidence, and review disposition. Where contextual records are maintained separately from the taxonomy, each record must retain the exact canonical source version and immutable source-file identifier (Git blob SHA), so its provenance remains traceable when the record is exported or separated from its companion documentation.
 
 ### 1.6 Evidence and Finding Distinctions
 
@@ -309,7 +310,7 @@ Every assessment must produce a traceable account of what was examined and what 
 
 Records must preserve, as applicable:
 
-- The governing taxonomy version and source identity.
+- The governing taxonomy version and exact source identity, including the source-file Git blob SHA where a register or other detached record is maintained.
 - The assessed subject and stable identifier.
 - The assessment question and scope.
 - The sources and evidence examined.
@@ -327,7 +328,7 @@ Repository-specific implementation details must remain within their appropriate 
 
 An assessment must not treat investigation, documentation, review, acceptance, implementation, testing, verification, and publication authorization as a single completion state.
 
-Each state must be recorded independently and supported by its own evidence or approval.
+Each state must be recorded independently and supported by its own evidence or approval. Where the Contextual Expression Register is used, testing and verification must also be recorded in their dedicated `testing_status` and `verification_status` fields. Their initial values, `Not yet tested` and `Not yet verified`, indicate that no outcome has been recorded; they do not imply that either activity has occurred. A testing outcome does not automatically establish verification, and neither state substitutes for implementation, review, evidence assessment, owner acceptance, or publication authorization.
 
 For example:
 
