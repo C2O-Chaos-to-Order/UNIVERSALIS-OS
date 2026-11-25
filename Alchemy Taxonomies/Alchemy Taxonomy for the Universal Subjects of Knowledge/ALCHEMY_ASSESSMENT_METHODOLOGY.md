@@ -16,9 +16,13 @@ The objective is not merely to determine whether the existing taxonomy is correc
 
 ### 1.2 Governing Alchemical Principle
 
-Every assessment must use the foundational definition of Alchemy established in the Alchemy Taxonomy for the Universal Subjects of Knowledge.
+Every assessment must use the working root definition of Alchemy stated in Section 2 of the governing Alchemy Taxonomy for the Universal Subjects of Knowledge, version 1.13.8. The taxonomy identifies this wording and its implications as subject to review; assessments must preserve that status and must not represent the wording as permanently settled.
 
-Alchemy is the bounded, purposeful process through which a specified subject is identified and understood; its relevant constituents and conditions are classified and organized; its relationships and constraints are examined; and defined operations are applied to develop, integrate, maintain, protect, recover, renew, or transform it toward a coherent and usable condition.
+**Canonical working root definition (verbatim):**
+
+> Alchemy is the bounded, purposeful process through which a specified subject, domain, system, process, capability, relationship, resource, or state is identified and understood; its relevant constituents and conditions are classified and organized; its relationships and constraints are examined; and defined operations are applied to develop, integrate, maintain, protect, recover, renew, or transform it toward a coherent and usable condition. The resulting state is evaluated against its stated purpose, boundaries, and available evidence.
+
+Assessments must apply this working definition as the current governing baseline while recording any evidence-supported ambiguity, limitation, or proposed refinement separately. No assessment may silently replace or permanently settle the canonical wording.
 
 Assessment must therefore investigate the actual subject rather than simply assign it a label, compare its name with other subjects, or assume that its existing description is complete.
 
@@ -110,7 +114,7 @@ The governing objective of every assessment is:
 
 ## 2. Alchemical Assessment Principles
 
-Every assessment conducted under this methodology must apply the foundational definition of Alchemy established in the governing taxonomy. These principles translate that definition into consistent requirements for investigating, evaluating, refining, and expanding the Universal Subjects of Knowledge.
+Every assessment conducted under this methodology must apply the working root definition of Alchemy stated in Section 2 of the governing taxonomy, version 1.13.8, while preserving the taxonomy's explicit statement that the wording and implications remain subject to review. These principles translate that working definition into consistent requirements for investigating, evaluating, refining, and expanding the Universal Subjects of Knowledge. Any challenge or proposed refinement must be recorded as a distinct finding; this methodology does not independently settle or amend the canonical definition.
 
 The principles govern the quality and conduct of assessment. They do not establish new Alchemical stages, independent classification systems, or higher-level methodological frameworks.
 
