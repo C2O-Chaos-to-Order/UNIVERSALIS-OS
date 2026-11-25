@@ -659,8 +659,8 @@ The following hierarchy preserves the supplied subject structure. The source pro
   - **Manufacturing Alchemy**
   - **Industrial Engineering Alchemy**
   - **Telecommunications Alchemy**
-  - **Artificial Intelligence Alchemy**
-  - **Cybersecurity Alchemy**
+  - **Artificial Intelligence Alchemy** *(shared canonical Alchemy: USA-ET-017; also parented under Computer and Information Sciences)*
+  - **Cybersecurity Alchemy** *(shared canonical Alchemy: USA-ET-018; also parented under Security and Protection Sciences)*
 
 ### 23.3 Engineering and Technology Alchemy inventory
 
@@ -683,7 +683,7 @@ The following hierarchy preserves the supplied subject structure. The source pro
 | USA-ET-015 | Industrial Engineering | Industrial Engineering Alchemy | Engineering and Technology |
 | USA-ET-016 | Telecommunications | Telecommunications Alchemy | Engineering and Technology |
 | USA-ET-017 | Artificial Intelligence | Artificial Intelligence Alchemy | Engineering and Technology; Computer and Information Sciences (shared canonical subject) |
-| USA-ET-018 | Cybersecurity | Cybersecurity Alchemy | Engineering and Technology |
+| USA-ET-018 | Cybersecurity | Cybersecurity Alchemy | Engineering and Technology; Security and Protection Sciences (shared canonical subject) |
 
 **Engineering and Technology total: 18 distinct subject Alchemies.** This count includes Engineering and Technology Alchemy itself and the 17 directly subordinate subject Alchemies.
 
