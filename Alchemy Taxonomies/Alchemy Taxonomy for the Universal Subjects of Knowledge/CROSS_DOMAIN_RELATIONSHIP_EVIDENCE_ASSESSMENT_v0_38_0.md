@@ -2,7 +2,7 @@
 
 **Version:** 0.38.0  
 **Assessment date:** 2026-11-23  
-**Canonical taxonomy baseline:** v1.13.1  
+**Canonical taxonomy baseline:** v1.13.8  
 **Status:** Three additional unique Life Sciences ↔ Health Sciences subject pairs screened. All three are recommended as bounded candidate related-but-distinct (RD-P) relationships for owner review. No owner acceptance or canonical taxonomy amendment is claimed.
 
 ## 1. Scope and safeguards
@@ -37,7 +37,7 @@ A candidate RD-P recommendation is a proposal for owner review, not an accepted 
 
 ## 3. Duplicate, distinction, and scope cross-check
 
-The three selected pairs were checked as unordered subject pairs against all 37 prior assessment snapshots, v0.1.0 through v0.37.0. The reconciled prior ledger contains 167 unique screened pairs with assessment IDs LSHS-001 through LSHS-167. Checks were insensitive to subject order and covered both name-only historical rows and stable-ID rows. No occurrence of Microbiology ↔ Nutrition, Mycology ↔ Nutrition, or Biotechnology ↔ Nutrition was found in the prior ledger. Canonical subject names and identifiers were checked against taxonomy v1.13.1.
+The three selected pairs were checked as unordered subject pairs against all 37 prior assessment snapshots, v0.1.0 through v0.37.0. The reconciled prior ledger contains 167 unique screened pairs with assessment IDs LSHS-001 through LSHS-167. Checks were insensitive to subject order and covered both name-only historical rows and stable-ID rows. No occurrence of Microbiology ↔ Nutrition, Mycology ↔ Nutrition, or Biotechnology ↔ Nutrition was found in the prior ledger. Canonical subject names and identifiers were checked against taxonomy v1.13.8.
 
 Previously assessed and related pairs remain distinct:
 
@@ -97,8 +97,8 @@ This batch adds three candidate recommendations and no non-promotions. All 16 ea
 
 ## 6. Canonical status and governance
 
-- Canonical taxonomy remains **v1.13.1**.
-- The canonical taxonomy blob SHA remains **f054a687bb649f8e67982a607b59a5156e8e9a46**.
+- Canonical taxonomy remains **v1.13.8**.
+- The canonical taxonomy blob SHA remains **3e7c570943b4e65307f01618ac81b031051ad1a9**.
 - The 18 canonical RD-P proposals remain unchanged.
 - Canonical hierarchy-edge, RD-P, and source-unlinked sparse-matrix counts remain **252 / 18 / 34,446**.
 - The three candidate recommendations in this report have **not** been inserted into the canonical taxonomy.
@@ -114,3 +114,11 @@ Continue with another topic-focused group from the **100 remaining** Life Scienc
 The separate RD-013–RD-018 proposal-assessment workstream remains open and is not folded into the 270-pair Life Sciences ↔ Health Sciences screening count.
 
 **Review condition before any canonical insertion:** verify unordered-pair uniqueness, stable identifiers, relationship subtype, direction, evidence provenance, scope boundary, sparse-matrix effect, and explicit owner acceptance.
+
+
+## Taxonomy alignment correction — 2026-11-24
+
+**Canonical taxonomy baseline:** v1.13.8  
+**Canonical taxonomy Git blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
+
+This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 change record confirms that Universal Subject hierarchies, canonical subject-Alchemy identities, 22-context mappings, relationship-matrix values, shared-identity relationships, cross-domain proposals, and cumulative totals were preserved. Life Sciences remains 18 subject Alchemies and Health Sciences remains 15, with their canonical identifiers unchanged; the 270-pair screening universe is unchanged. This report assesses relationships between subject Alchemies; it does not assess or complete the taxonomy's 22-context contextual expressions. Historical findings, evidence assessments, source records, and dispositions are retained. No owner acceptance or canonical taxonomy amendment is implied.

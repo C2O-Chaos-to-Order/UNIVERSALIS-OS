@@ -2,7 +2,7 @@
 
 **Version:** 0.69.0  
 **Assessment date:** 2026-11-23  
-**Canonical taxonomy baseline:** v1.13.1  
+**Canonical taxonomy baseline:** v1.13.8  
 **Historical assessment baseline:** v0.1.0 through v0.68.0  
 **Status:** Three additional unique subject pairs screened. All three are recommended as bounded candidate related-but-distinct (RD-P) relationships for owner review. No owner acceptance or canonical taxonomy amendment is claimed.
 
@@ -34,7 +34,7 @@ A candidate RD-P recommendation is a proposal for owner review, not an accepted 
 
 ## 3. Duplicate, distinction, and scope cross-check
 
-All 68 preceding assessment snapshots, v0.1.0 through v0.68.0, were fetched from the C2O-OS repository. The complete 68-file sequence was present on the default branch. Assessment table rows were inspected for the three canonical subjects and checked using exact unordered subject-pair matching against Health Sciences. The checks found no prior assessment row for Marine Biology ↔ Health Sciences, Molecular Biology ↔ Health Sciences or Cell Biology ↔ Health Sciences. The v0.68.0 report is the latest reconciled ledger: it records 260 unique screened pairs, assessment IDs through LSHS-260, and these three pairs as the first three entries in the ten-pair unassessed remainder. Canonical names and identifiers were checked against taxonomy v1.13.1:
+All 68 preceding assessment snapshots, v0.1.0 through v0.68.0, were fetched from the C2O-OS repository. The complete 68-file sequence was present on the default branch. Assessment table rows were inspected for the three canonical subjects and checked using exact unordered subject-pair matching against Health Sciences. The checks found no prior assessment row for Marine Biology ↔ Health Sciences, Molecular Biology ↔ Health Sciences or Cell Biology ↔ Health Sciences. The v0.68.0 report is the latest reconciled ledger: it records 260 unique screened pairs, assessment IDs through LSHS-260, and these three pairs as the first three entries in the ten-pair unassessed remainder. Canonical names and identifiers were checked against taxonomy v1.13.8:
 
 - Marine Biology — USA-LS-009
 - Molecular Biology — USA-LS-010
@@ -94,7 +94,7 @@ The remaining inventory, regenerated from the v0.68.0 list by removing the three
 
 ## 6. Canonical status and governance
 
-The canonical taxonomy remains unchanged at v1.13.1. Its verified baseline Git blob SHA remains `f054a687bb649f8e67982a607b59a5156e8e9a46`. No candidate from this assessment has been inserted into the canonical taxonomy. The three recommendations are supplemental assessment records only. No subject definition, hierarchy edge, RD-P link, sparse-matrix entry, owner-acceptance status or separate RD-013–RD-018 proposal-assessment record is modified by this report.
+The canonical taxonomy remains unchanged at v1.13.8. Its verified baseline Git blob SHA remains `3e7c570943b4e65307f01618ac81b031051ad1a9`. No candidate from this assessment has been inserted into the canonical taxonomy. The three recommendations are supplemental assessment records only. No subject definition, hierarchy edge, RD-P link, sparse-matrix entry, owner-acceptance status or separate RD-013–RD-018 proposal-assessment record is modified by this report.
 
 No owner acceptance is claimed. Publication of this report does not change canonical subject definitions, hierarchy, authority, owner-acceptance status, or the separate RD-013–RD-018 proposal-assessment workstream.
 
@@ -127,3 +127,10 @@ These are investigation targets, not pre-approved candidates. They require an ex
 The same safeguards continue: research relevance is not clinical validation; evidence of an interface is not proof of a new independent RD-P; candidate recommendations are not owner acceptances; and no canonical taxonomy change occurs without separate authorization.
 
 **Three unique pairs screened. Three candidate RD-P recommendations. Zero non-promotions. Nine new sources registered. Four-repository publication order preserved and read-back verified. Canonical taxonomy untouched.**
+
+## Taxonomy alignment correction — 2026-11-24
+
+**Canonical taxonomy baseline:** v1.13.8  
+**Canonical taxonomy Git blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
+
+This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 change record confirms that Universal Subject hierarchies, canonical subject-Alchemy identities, 22-context mappings, relationship-matrix values, shared-identity relationships, cross-domain proposals, and cumulative totals were preserved. Life Sciences remains 18 subject Alchemies and Health Sciences remains 15, with their canonical identifiers unchanged; the 270-pair screening universe is unchanged. This report assesses relationships between subject Alchemies; it does not assess or complete the taxonomy's 22-context contextual expressions. Historical findings, evidence assessments, source records, and dispositions are retained. No owner acceptance or canonical taxonomy amendment is implied.

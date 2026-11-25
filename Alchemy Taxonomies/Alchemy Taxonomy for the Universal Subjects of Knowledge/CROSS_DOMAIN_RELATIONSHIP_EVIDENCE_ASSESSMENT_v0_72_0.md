@@ -2,7 +2,7 @@
 
 **Version:** 0.72.0  
 **Assessment date:** 2026-11-23  
-**Canonical taxonomy baseline:** v1.13.1  
+**Canonical taxonomy baseline:** v1.13.8  
 **Historical assessment baseline:** v0.1.0 through v0.71.0  
 **Status:** The final unassessed subject pair was screened. Mycology ↔ Health Sciences is recommended as a bounded candidate related-but-distinct (RD-P) relationship for owner review. The 270-pair screening inventory is complete. No owner acceptance or canonical taxonomy amendment is claimed.
 
@@ -72,7 +72,7 @@ All **71 preceding assessment snapshots**, v0.1.0 through v0.71.0, were fetched 
 
 - USA-LS-018 Mycology ↔ USA-HS-001 Health Sciences
 
-Canonical names and identifiers were checked against taxonomy v1.13.1:
+Canonical names and identifiers were checked against taxonomy v1.13.8:
 
 - Mycology — USA-LS-018
 - Health Sciences — USA-HS-001
@@ -146,7 +146,7 @@ The Life Sciences ↔ Health Sciences pair-screening inventory is complete. Comp
 
 ## 6. Canonical status and governance
 
-The canonical taxonomy remains unchanged at v1.13.1. Its verified baseline Git blob SHA remains `f054a687bb649f8e67982a607b59a5156e8e9a46`. No candidate from this assessment has been inserted into the canonical taxonomy. The final recommendation is a supplemental assessment record only. No subject definition, hierarchy edge, RD-P link, sparse-matrix entry, owner-acceptance status, or separate RD-013–RD-018 proposal-assessment record is modified by this report.
+The canonical taxonomy remains unchanged at v1.13.8. Its verified baseline Git blob SHA remains `3e7c570943b4e65307f01618ac81b031051ad1a9`. No candidate from this assessment has been inserted into the canonical taxonomy. The final recommendation is a supplemental assessment record only. No subject definition, hierarchy edge, RD-P link, sparse-matrix entry, owner-acceptance status, or separate RD-013–RD-018 proposal-assessment record is modified by this report.
 
 No owner acceptance is claimed. Publication of this report does not change canonical subject definitions, hierarchy, authority, or owner-acceptance status. The historical narrative cross-reference discrepancy described in Section 3 remains recorded for separate controlled correction; this report does not amend any preceding assessment file.
 
@@ -166,3 +166,10 @@ The next appropriate work is a separate programme closeout audit covering all **
 The same safeguards continue: research relevance is not clinical validation; evidence of an interface is not proof of clinical effectiveness; candidate recommendations are not owner acceptances; historical narrative cross-references do not override the assessment-table ledger; and no canonical taxonomy change occurs without separate authorization.
 
 **One final unique pair screened. One final candidate RD-P recommendation. Zero new non-promotions. Nine new sources registered. Fourteen previous Mycology specialist-pair dispositions preserved. The 71-snapshot reconciliation completed. 270 / 270 pairs screened. Canonical taxonomy untouched.**
+
+## Taxonomy alignment correction — 2026-11-24
+
+**Canonical taxonomy baseline:** v1.13.8  
+**Canonical taxonomy Git blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
+
+This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 change record confirms that Universal Subject hierarchies, canonical subject-Alchemy identities, 22-context mappings, relationship-matrix values, shared-identity relationships, cross-domain proposals, and cumulative totals were preserved. Life Sciences remains 18 subject Alchemies and Health Sciences remains 15, with their canonical identifiers unchanged; the 270-pair screening universe is unchanged. This report assesses relationships between subject Alchemies; it does not assess or complete the taxonomy's 22-context contextual expressions. Historical findings, evidence assessments, source records, and dispositions are retained. No owner acceptance or canonical taxonomy amendment is implied.

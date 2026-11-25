@@ -2,7 +2,7 @@
 
 **Version:** 0.63.0  
 **Assessment date:** 2026-11-23  
-**Canonical taxonomy baseline:** v1.13.1  
+**Canonical taxonomy baseline:** v1.13.8  
 **Historical assessment baseline:** v0.1.0 through v0.62.0  
 **Status:** Three additional unique subject pairs screened. One is recommended as a bounded candidate related-but-distinct (RD-P) relationship for owner review; two are not promoted. No owner acceptance or canonical taxonomy amendment is claimed.
 
@@ -85,7 +85,7 @@ Owner-accepted relationships: 0.
 
 ## 6. Canonical status and governance
 
-The canonical taxonomy remains unchanged at v1.13.1. Its existing hierarchy, canonical RD-P proposals, and NS entries are not modified by this supplemental assessment. The three records in this report are not owner-accepted. The separate RD-013–RD-018 proposal-assessment workstream remains untouched.
+The canonical taxonomy remains unchanged at v1.13.8. Its existing hierarchy, canonical RD-P proposals, and NS entries are not modified by this supplemental assessment. The three records in this report are not owner-accepted. The separate RD-013–RD-018 proposal-assessment workstream remains untouched.
 
 This v0.63.0 report is supplemental assessment evidence only. Its publication does not change canonical subject definitions, hierarchy, authority, owner-acceptance status, or the separate RD-013–RD-018 proposal-assessment workstream. No canonical taxonomy entry, hierarchy edge, RD-P link, or sparse-matrix entry is changed by this report.
 
@@ -100,3 +100,10 @@ Coverage is **90.74%**.
 The next subgroup will be selected from the reconciled remaining inventory and checked against all 63 preceding assessment snapshots, v0.1.0 through v0.63.0, with the same unordered-pair duplicate checks, source verification, evidence grading, scope distinctions, reporting, publication, and read-back requirements.
 
 The next remaining inventory must be regenerated from the reconciled pair ledger rather than inferred from the old v0.62.0 count: remove the three newly screened pairs, preserve all 39 non-promotions/deferred and 206 candidate recommendations, and verify that the resulting remaining list contains exactly 25 unique unordered pairs.
+
+## Taxonomy alignment correction — 2026-11-24
+
+**Canonical taxonomy baseline:** v1.13.8  
+**Canonical taxonomy Git blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
+
+This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 change record confirms that Universal Subject hierarchies, canonical subject-Alchemy identities, 22-context mappings, relationship-matrix values, shared-identity relationships, cross-domain proposals, and cumulative totals were preserved. Life Sciences remains 18 subject Alchemies and Health Sciences remains 15, with their canonical identifiers unchanged; the 270-pair screening universe is unchanged. This report assesses relationships between subject Alchemies; it does not assess or complete the taxonomy's 22-context contextual expressions. Historical findings, evidence assessments, source records, and dispositions are retained. No owner acceptance or canonical taxonomy amendment is implied.

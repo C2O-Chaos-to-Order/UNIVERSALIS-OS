@@ -2,7 +2,7 @@
 
 **Version:** 0.3.0  
 **Assessment batches:** 1, 2, and 3  
-**Canonical taxonomy baseline:** v1.13.1  
+**Canonical taxonomy baseline:** v1.13.8  
 **Status:** Evidence assessed; owner review pending
 
 ## 1. Scope and safeguards
@@ -41,7 +41,7 @@ The Life Sciences inventory has 18 subjects and the Health Sciences inventory ha
 | LSHS-007 | Public Health ↔ Ecology | WHO One Health connects human, animal, plant, and ecosystem health, including ecological conditions influencing disease emergence and spread. | High for this bounded interface | Candidate RD-P: ecosystem-health/population-health interface, with scope restricted to ecological determinants and interconnected health. |
 | LSHS-008 | Pharmacology ↔ Molecular Biology | Both occur in an integrated medical-science curriculum, but co-inclusion alone does not prove a specific direct relationship between their canonical subject scopes. | Insufficient for a pair-specific edge | Do not promote in this pass. Defer pending direct evidence about molecular targets or pharmacological mechanisms. |
 
-**Pilot accounting:** 270 possible pairs = 7 candidate RD-P relationships + 1 screened but not promoted + 262 not yet individually assessed. The seven candidates are recommendations for a future controlled taxonomy update; they are not canonical RD-P rows in v1.13.1.
+**Pilot accounting:** 270 possible pairs = 7 candidate RD-P relationships + 1 screened but not promoted + 262 not yet individually assessed. The seven candidates are recommendations for a future controlled taxonomy update; they are not canonical RD-P rows in v1.13.8.
 
 ## 4. Evidence register
 
@@ -74,7 +74,7 @@ Batch 1 assessed RD-001 through RD-006 and screened eight prioritised Life Scien
 
 ## 6. Assessment of existing proposals RD-007–RD-012
 
-The six records below are already present in the canonical v1.13.1 proposal register. This assessment refines the evidentiary rationale, scope boundary, subtype, and direction note; it does not create six new relationship edges.
+The six records below are already present in the canonical v1.13.8 proposal register. This assessment refines the evidentiary rationale, scope boundary, subtype, and direction note; it does not create six new relationship edges.
 
 | ID | Canonical subject pair | Assessment and scope boundary | Evidence strength | Subtype / direction assessment | Disposition |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@ The six records below are already present in the canonical v1.13.1 proposal regi
 
 | Measure | Status at version 0.2.0 |
 |---|---:|
-| Canonical taxonomy baseline | v1.13.1 |
+| Canonical taxonomy baseline | v1.13.8 |
 | Existing canonical RD-P proposals | 18 |
 | Existing proposals assessed in Batch 1 (RD-001–RD-006) | 6 |
 | Existing proposals assessed in Batch 2 (RD-007–RD-012) | 6 |
@@ -164,7 +164,7 @@ The eight pairs below were selected from the exact canonical inventories. No sub
 3. Clinical laboratory support, clinical specialty, applied nursing knowledge, perioperative infection, and preventive intervention are distinct relationship subtypes. They must not be collapsed into a generic dependency category.
 4. Direction is recorded only where it describes a bounded knowledge contribution or workflow interface. It does not imply operational authority, exclusive reliance, or one field's subordination to another.
 5. None of these results establishes shared identity, a new hierarchy edge, a universal dependency, implementation, testing, verification, or owner acceptance.
-6. All canonical subject names and IDs remain as defined by taxonomy v1.13.1.
+6. All canonical subject names and IDs remain as defined by taxonomy v1.13.8.
 
 ## 10. Batch 3 evidence register
 
@@ -196,13 +196,13 @@ The eight pairs below were selected from the exact canonical inventories. No sub
 
 **Accounting check:** 270 possible pairs = 14 candidate relationship recommendations + 2 screened but not promoted + 254 not yet individually assessed.
 
-The 14 recommendations are not present in the canonical taxonomy v1.13.1 and do not change its 18 existing RD-P proposals. The canonical sparse matrix remains at 252 HI, 18 RD-P, and 34,446 NS pairs. Owner-accepted relationships remain zero.
+The 14 recommendations are not present in the canonical taxonomy v1.13.8 and do not change its 18 existing RD-P proposals. The canonical sparse matrix remains at 252 HI, 18 RD-P, and 34,446 NS pairs. Owner-accepted relationships remain zero.
 
 ## 12. Cumulative project status and next work
 
 | Measure | Current status at version 0.3.0 |
 |---|---:|
-| Canonical taxonomy baseline in all four repositories | v1.13.1 |
+| Canonical taxonomy baseline in all four repositories | v1.13.8 |
 | Existing canonical RD-P proposals | 18 |
 | Existing proposals assessed (RD-001–RD-012) | 12 of 18 |
 | Existing proposals not yet assessed (RD-013–RD-018) | 6 |
@@ -216,3 +216,11 @@ The 14 recommendations are not present in the canonical taxonomy v1.13.1 and do 
 **Next work:** continue with another topic-focused subgroup from the remaining 254 Life Sciences ↔ Health Sciences pairs. Keep the RD-013–RD-018 existing proposal assessments as a separate workstream. Before any candidate is added to the canonical taxonomy, check duplicate unordered pairs, stable IDs, relationship subtype, direction, evidence provenance, scope boundary, and owner acceptance.
 
 No canonical taxonomy amendment, owner acceptance, hierarchy reassignment, dependency, enablement, implementation, testing, or verification is claimed by this assessment report.
+
+
+## Taxonomy alignment correction — 2026-11-24
+
+**Canonical taxonomy baseline:** v1.13.8  
+**Canonical taxonomy Git blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
+
+This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 change record confirms that Universal Subject hierarchies, canonical subject-Alchemy identities, 22-context mappings, relationship-matrix values, shared-identity relationships, cross-domain proposals, and cumulative totals were preserved. Life Sciences remains 18 subject Alchemies and Health Sciences remains 15, with their canonical identifiers unchanged; the 270-pair screening universe is unchanged. This report assesses relationships between subject Alchemies; it does not assess or complete the taxonomy's 22-context contextual expressions. Historical findings, evidence assessments, source records, and dispositions are retained. No owner acceptance or canonical taxonomy amendment is implied.

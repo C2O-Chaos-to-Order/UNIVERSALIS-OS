@@ -2,7 +2,7 @@
 
 **Version:** 0.65.0  
 **Assessment date:** 2026-11-23  
-**Canonical taxonomy baseline:** v1.13.1  
+**Canonical taxonomy baseline:** v1.13.8  
 **Historical assessment baseline:** v0.1.0 through v0.64.0  
 **Status:** Three additional unique subject pairs screened. All three are not promoted. No owner acceptance or canonical taxonomy amendment is claimed.
 
@@ -16,7 +16,7 @@ This assessment continues the Life Sciences ↔ Health Sciences programme using 
 
 The exact unordered pair is the unit of assessment. The test is not whether Biology is relevant to the health discipline; biological relevance is evident in each case. The test is whether Biology contributes a distinct method, research object, decision boundary, or output that is not already represented by (a) the more precise biological specialist pairings and (b) the previously assessed Life Sciences-level or subject-specific relationships.
 
-The canonical taxonomy places Biology (USA-LS-002) under Life Sciences (USA-LS-001). Occupational Therapy (USA-HS-010), Dentistry (USA-HS-011), and Mental Health (USA-HS-012) are Health Sciences subjects. These identifiers and parent relationships were checked against taxonomy v1.13.1. The nested placement does not itself establish or prohibit an RD-P relationship; it is relevant to evaluating whether a proposed Biology-level edge adds a distinct scope beyond the broader Life Sciences interfaces already assessed.
+The canonical taxonomy places Biology (USA-LS-002) under Life Sciences (USA-LS-001). Occupational Therapy (USA-HS-010), Dentistry (USA-HS-011), and Mental Health (USA-HS-012) are Health Sciences subjects. These identifiers and parent relationships were checked against taxonomy v1.13.8. The nested placement does not itself establish or prohibit an RD-P relationship; it is relevant to evaluating whether a proposed Biology-level edge adds a distinct scope beyond the broader Life Sciences interfaces already assessed.
 
 A non-promotion is limited to the full subject pair and evidence boundary assessed here. It does not deny that biological science informs the discipline, invalidate a more specialist relationship, or prevent future reassessment if a new and distinct operational contribution is demonstrated. No recommendation in this report establishes hierarchy, dependency, enablement, implementation, testing, verification, owner acceptance, or authorization to alter canonical material.
 
@@ -85,7 +85,7 @@ Owner-accepted relationships: 0.
 
 ## 7. Canonical status and governance
 
-The canonical taxonomy remains unchanged at v1.13.1. Its verified baseline Git blob SHA is `f054a687bb649f8e67982a607b59a5156e8e9a46`. The four repository copies remain byte-identical at the v0.64.0 baseline check. No candidate from this assessment has been inserted into the canonical taxonomy. No subject definition, hierarchy edge, RD-P link, sparse-matrix entry, owner-acceptance status, or separate RD-013–RD-018 proposal-assessment record is modified by this report.
+The canonical taxonomy remains unchanged at v1.13.8. Its verified baseline Git blob SHA is `3e7c570943b4e65307f01618ac81b031051ad1a9`. The four repository copies remain byte-identical at the v0.64.0 baseline check. No candidate from this assessment has been inserted into the canonical taxonomy. No subject definition, hierarchy edge, RD-P link, sparse-matrix entry, owner-acceptance status, or separate RD-013–RD-018 proposal-assessment record is modified by this report.
 
 The three new LSHS IDs are supplemental assessment records only. All three dispositions are not promoted; none is an owner-accepted relationship. Publication of this report does not change canonical subject definitions, hierarchy, authority, owner-acceptance status, implementation, testing, or verification. No canonical taxonomy entry, hierarchy edge, RD-P link, or sparse-matrix entry is changed by this report.
 
@@ -135,3 +135,10 @@ These are investigation targets, not pre-approved candidates. They require an ex
 The same safeguards continue: research relevance is not clinical validation; biological relevance is not proof of a distinct RD-P; evidence of an interface is not proof of an additional relationship; candidate recommendations are not owner acceptances; and no canonical taxonomy change occurs without separate authorization.
 
 **Three unique pairs screened. Zero new candidates. Three non-promotions. Eight sources registered. Four repositories to receive identical copies. Canonical taxonomy untouched.**
+
+## Taxonomy alignment correction — 2026-11-24
+
+**Canonical taxonomy baseline:** v1.13.8  
+**Canonical taxonomy Git blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
+
+This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 change record confirms that Universal Subject hierarchies, canonical subject-Alchemy identities, 22-context mappings, relationship-matrix values, shared-identity relationships, cross-domain proposals, and cumulative totals were preserved. Life Sciences remains 18 subject Alchemies and Health Sciences remains 15, with their canonical identifiers unchanged; the 270-pair screening universe is unchanged. This report assesses relationships between subject Alchemies; it does not assess or complete the taxonomy's 22-context contextual expressions. Historical findings, evidence assessments, source records, and dispositions are retained. No owner acceptance or canonical taxonomy amendment is implied.

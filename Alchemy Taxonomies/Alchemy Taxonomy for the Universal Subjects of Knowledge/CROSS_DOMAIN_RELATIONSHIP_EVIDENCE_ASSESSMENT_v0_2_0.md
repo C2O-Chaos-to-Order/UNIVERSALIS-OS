@@ -2,7 +2,7 @@
 
 **Version:** 0.2.0  
 **Assessment batch:** 1 and 2  
-**Canonical taxonomy baseline:** v1.13.1  
+**Canonical taxonomy baseline:** v1.13.8  
 **Status:** Evidence assessed; owner review pending
 
 ## 1. Scope and safeguards
@@ -41,7 +41,7 @@ The Life Sciences inventory has 18 subjects and the Health Sciences inventory ha
 | LSHS-007 | Public Health ↔ Ecology | WHO One Health connects human, animal, plant, and ecosystem health, including ecological conditions influencing disease emergence and spread. | High for this bounded interface | Candidate RD-P: ecosystem-health/population-health interface, with scope restricted to ecological determinants and interconnected health. |
 | LSHS-008 | Pharmacology ↔ Molecular Biology | Both occur in an integrated medical-science curriculum, but co-inclusion alone does not prove a specific direct relationship between their canonical subject scopes. | Insufficient for a pair-specific edge | Do not promote in this pass. Defer pending direct evidence about molecular targets or pharmacological mechanisms. |
 
-**Pilot accounting:** 270 possible pairs = 7 candidate RD-P relationships + 1 screened but not promoted + 262 not yet individually assessed. The seven candidates are recommendations for a future controlled taxonomy update; they are not canonical RD-P rows in v1.13.1.
+**Pilot accounting:** 270 possible pairs = 7 candidate RD-P relationships + 1 screened but not promoted + 262 not yet individually assessed. The seven candidates are recommendations for a future controlled taxonomy update; they are not canonical RD-P rows in v1.13.8.
 
 ## 4. Evidence register
 
@@ -74,7 +74,7 @@ Batch 1 assessed RD-001 through RD-006 and screened eight prioritised Life Scien
 
 ## 6. Assessment of existing proposals RD-007–RD-012
 
-The six records below are already present in the canonical v1.13.1 proposal register. This assessment refines the evidentiary rationale, scope boundary, subtype, and direction note; it does not create six new relationship edges.
+The six records below are already present in the canonical v1.13.8 proposal register. This assessment refines the evidentiary rationale, scope boundary, subtype, and direction note; it does not create six new relationship edges.
 
 | ID | Canonical subject pair | Assessment and scope boundary | Evidence strength | Subtype / direction assessment | Disposition |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@ The six records below are already present in the canonical v1.13.1 proposal regi
 
 | Measure | Status at version 0.2.0 |
 |---|---:|
-| Canonical taxonomy baseline | v1.13.1 |
+| Canonical taxonomy baseline | v1.13.8 |
 | Existing canonical RD-P proposals | 18 |
 | Existing proposals assessed in Batch 1 (RD-001–RD-006) | 6 |
 | Existing proposals assessed in Batch 2 (RD-007–RD-012) | 6 |
@@ -134,3 +134,11 @@ The 34,446 NS pairs remain source-unlinked, not confirmed unrelated. The seven L
 **Next work:** continue the Life Sciences ↔ Health Sciences block in smaller, topic-focused groups as planned. RD-013 through RD-018 (including Cosmology and Planetary Science proposals) remain a separate unassessed portion of the existing proposal queue and must be assessed before all 18 proposals can be described as evidence-assessed.
 
 No canonical taxonomy amendment, owner acceptance, hierarchy reassignment, dependency, enablement, implementation, or verification is claimed by this report.
+
+
+## Taxonomy alignment correction — 2026-11-24
+
+**Canonical taxonomy baseline:** v1.13.8  
+**Canonical taxonomy Git blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
+
+This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 change record confirms that Universal Subject hierarchies, canonical subject-Alchemy identities, 22-context mappings, relationship-matrix values, shared-identity relationships, cross-domain proposals, and cumulative totals were preserved. Life Sciences remains 18 subject Alchemies and Health Sciences remains 15, with their canonical identifiers unchanged; the 270-pair screening universe is unchanged. This report assesses relationships between subject Alchemies; it does not assess or complete the taxonomy's 22-context contextual expressions. Historical findings, evidence assessments, source records, and dispositions are retained. No owner acceptance or canonical taxonomy amendment is implied.

@@ -2,7 +2,7 @@
 
 **Version:** 0.70.0  
 **Assessment date:** 2026-11-23  
-**Canonical taxonomy baseline:** v1.13.1  
+**Canonical taxonomy baseline:** v1.13.8  
 **Historical assessment baseline:** v0.1.0 through v0.69.0  
 **Status:** Three additional unique subject pairs screened. All three are recommended as bounded candidate related-but-distinct (RD-P) relationships for owner review. No owner acceptance or canonical taxonomy amendment is claimed.
 
@@ -70,7 +70,7 @@ All **69 preceding assessment snapshots**, v0.1.0 through v0.69.0, were fetched 
 - USA-LS-013 Neuroscience ↔ USA-HS-001 Health Sciences
 - USA-LS-014 Physiology ↔ USA-HS-001 Health Sciences
 
-Canonical names and identifiers were checked against taxonomy v1.13.1:
+Canonical names and identifiers were checked against taxonomy v1.13.8:
 
 - Biotechnology — USA-LS-012
 - Neuroscience — USA-LS-013
@@ -129,7 +129,7 @@ The remaining inventory, regenerated from the v0.69.0 list by removing the three
 
 ## 6. Canonical status and governance
 
-The canonical taxonomy remains unchanged at v1.13.1. Its verified baseline Git blob SHA remains `f054a687bb649f8e67982a607b59a5156e8e9a46`. No candidate from this assessment has been inserted into the canonical taxonomy. The three recommendations are supplemental assessment records only. No subject definition, hierarchy edge, RD-P link, sparse-matrix entry, owner-acceptance status, or separate RD-013–RD-018 proposal-assessment record is modified by this report.
+The canonical taxonomy remains unchanged at v1.13.8. Its verified baseline Git blob SHA remains `3e7c570943b4e65307f01618ac81b031051ad1a9`. No candidate from this assessment has been inserted into the canonical taxonomy. The three recommendations are supplemental assessment records only. No subject definition, hierarchy edge, RD-P link, sparse-matrix entry, owner-acceptance status, or separate RD-013–RD-018 proposal-assessment record is modified by this report.
 
 No owner acceptance is claimed. Publication of this report does not change canonical subject definitions, hierarchy, authority, owner-acceptance status, or the separate RD-013–RD-018 proposal-assessment workstream. The historical narrative cross-reference discrepancy described in Section 3 remains recorded for separate controlled correction; this report does not amend any preceding assessment file.
 
@@ -157,3 +157,10 @@ These are investigation targets, not pre-approved candidates. They require exact
 The same safeguards continue: research relevance is not clinical validation; evidence of an interface is not proof of an independent RD-P; candidate recommendations are not owner acceptances; historical narrative cross-references do not override the assessment-table ledger; and no canonical taxonomy change occurs without separate authorization.
 
 **Three unique pairs screened. Three candidate RD-P recommendations. Zero new non-promotions. Nine new sources registered. The 69-snapshot reconciliation completed. Canonical taxonomy untouched.**
+
+## Taxonomy alignment correction — 2026-11-24
+
+**Canonical taxonomy baseline:** v1.13.8  
+**Canonical taxonomy Git blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
+
+This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 change record confirms that Universal Subject hierarchies, canonical subject-Alchemy identities, 22-context mappings, relationship-matrix values, shared-identity relationships, cross-domain proposals, and cumulative totals were preserved. Life Sciences remains 18 subject Alchemies and Health Sciences remains 15, with their canonical identifiers unchanged; the 270-pair screening universe is unchanged. This report assesses relationships between subject Alchemies; it does not assess or complete the taxonomy's 22-context contextual expressions. Historical findings, evidence assessments, source records, and dispositions are retained. No owner acceptance or canonical taxonomy amendment is implied.

@@ -2,7 +2,7 @@
 
 **Version:** 0.66.0  
 **Assessment date:** 2026-11-23  
-**Canonical taxonomy baseline:** v1.13.1  
+**Canonical taxonomy baseline:** v1.13.8  
 **Historical assessment baseline:** v0.1.0 through v0.65.0  
 **Status:** Three additional unique subject pairs screened. No new candidate RD-P recommendation is made; all three pairs are not promoted. No owner acceptance or canonical taxonomy amendment is claimed.
 
@@ -16,7 +16,7 @@ This assessment continues the Life Sciences ↔ Health Sciences screening progra
 
 The assessment tests whether Biology, as a specific Life Sciences subject, contributes a distinct and independently testable method, research question, decision boundary, or output to each Health Sciences subject beyond (a) the already assessed broader Life Sciences relationship and (b) the existing specialist scientific pairings.
 
-The canonical taxonomy identifies Biology as **USA-LS-002**, a subject under Life Sciences. It identifies Preventive Medicine as **USA-HS-013**, Emergency Medicine as **USA-HS-014**, and Rehabilitation Science as **USA-HS-015**, all under Health Sciences. These names and identifiers were checked against taxonomy v1.13.1.
+The canonical taxonomy identifies Biology as **USA-LS-002**, a subject under Life Sciences. It identifies Preventive Medicine as **USA-HS-013**, Emergency Medicine as **USA-HS-014**, and Rehabilitation Science as **USA-HS-015**, all under Health Sciences. These names and identifiers were checked against taxonomy v1.13.8.
 
 A biological contribution can be substantial without establishing a new Biology-level RD-P. Biology is a broad subject, while several of the relevant research methods and clinical interfaces are already represented by named specialist subjects such as Genetics, Physiology, Immunology, Microbiology, Neuroscience, Anatomy, and Cell Biology. The parent-level Life Sciences relationships also already capture integrated biological evidence across multiple levels. The assessment therefore distinguishes evidence of scientific relevance from evidence of a new, independently bounded relationship.
 
@@ -124,7 +124,7 @@ Owner-accepted relationships: **0**.
 
 ## 7. Canonical status and governance
 
-The canonical taxonomy remains unchanged at v1.13.1. The verified baseline Git blob SHA remains `f054a687bb649f8e67982a607b59a5156e8e9a46`. The prior v0.65.0 assessment blob SHA remains `e1a15052fc4e66d032ffd20beff644291adecbb7` at the publication baseline.
+The canonical taxonomy remains unchanged at v1.13.8. The verified baseline Git blob SHA remains `3e7c570943b4e65307f01618ac81b031051ad1a9`. The prior v0.65.0 assessment blob SHA remains `e1a15052fc4e66d032ffd20beff644291adecbb7` at the publication baseline.
 
 No candidate from this assessment has been inserted into the canonical taxonomy. No subject definition, hierarchy edge, canonical RD-P proposal, RD-P link, sparse-matrix entry, owner-acceptance status, or separate RD-013–RD-018 proposal-assessment record is modified by this report.
 
@@ -170,3 +170,10 @@ These are investigation targets, not pre-approved candidates. They require an ex
 The same safeguards continue: research relevance is not clinical validation; biological relevance is not proof of a distinct RD-P; evidence of an interface is not proof of an additional relationship; candidate recommendations are not owner acceptances; and no canonical taxonomy change occurs without separate authorization.
 
 **Three unique pairs screened. Zero new candidates. Three non-promotions. Seven new sources registered. Four identical repository copies. Canonical taxonomy untouched.**
+
+## Taxonomy alignment correction — 2026-11-24
+
+**Canonical taxonomy baseline:** v1.13.8  
+**Canonical taxonomy Git blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
+
+This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 change record confirms that Universal Subject hierarchies, canonical subject-Alchemy identities, 22-context mappings, relationship-matrix values, shared-identity relationships, cross-domain proposals, and cumulative totals were preserved. Life Sciences remains 18 subject Alchemies and Health Sciences remains 15, with their canonical identifiers unchanged; the 270-pair screening universe is unchanged. This report assesses relationships between subject Alchemies; it does not assess or complete the taxonomy's 22-context contextual expressions. Historical findings, evidence assessments, source records, and dispositions are retained. No owner acceptance or canonical taxonomy amendment is implied.

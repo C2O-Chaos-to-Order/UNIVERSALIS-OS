@@ -2,7 +2,7 @@
 
 **Version:** 0.64.0  
 **Assessment date:** 2026-11-23  
-**Canonical taxonomy baseline:** v1.13.1  
+**Canonical taxonomy baseline:** v1.13.8  
 **Historical assessment baseline:** v0.1.0 through v0.63.0  
 **Status:** Three additional unique subject pairs screened. None is promoted as a new candidate RD-P relationship in this pass; all three are recorded as not promoted because their broad Biology-level scope does not add an independently bounded contribution beyond existing integrated Life Sciences relationships and specialist pairings. No owner acceptance or canonical taxonomy amendment is claimed.
 
@@ -14,7 +14,7 @@ This assessment continues the Life Sciences ↔ Health Sciences programme using 
 - Biology ↔ Nutrition
 - Biology ↔ Physical Therapy
 
-The canonical subject identities were checked against taxonomy v1.13.1:
+The canonical subject identities were checked against taxonomy v1.13.8:
 
 - **USA-LS-002 — Biology**, a child subject under **USA-LS-001 — Life Sciences**.
 - **USA-HS-007 — Epidemiology**, a child subject under Health Sciences.
@@ -109,7 +109,7 @@ Owner-accepted relationships: 0.
 
 ## 7. Canonical status and governance
 
-The canonical taxonomy remains unchanged at v1.13.1. The canonical taxonomy file's verified baseline Git blob SHA is `f054a687bb649f8e67982a607b59a5156e8e9a46`. The four repository copies remain byte-identical at the v0.63.0 baseline check. No candidate from this assessment has been inserted into the canonical taxonomy. No subject definition, hierarchy edge, RD-P link, sparse-matrix entry, owner-acceptance status, or separate RD-013–RD-018 proposal-assessment record is modified by this report.
+The canonical taxonomy remains unchanged at v1.13.8. The canonical taxonomy file's verified baseline Git blob SHA is `3e7c570943b4e65307f01618ac81b031051ad1a9`. The four repository copies remain byte-identical at the v0.63.0 baseline check. No candidate from this assessment has been inserted into the canonical taxonomy. No subject definition, hierarchy edge, RD-P link, sparse-matrix entry, owner-acceptance status, or separate RD-013–RD-018 proposal-assessment record is modified by this report.
 
 The three new LSHS IDs are supplemental assessment records only. All three dispositions are not promoted; none is an owner-accepted relationship. This report does not imply implementation, testing, verification, dependency, or authorization to alter canonical material.
 
@@ -160,3 +160,10 @@ The next focused subgroup, **provisionally for v0.65.0**, follows the order of t
 These are proposed investigation targets, not pre-approved candidates. They require a fresh exact-pair duplicate check against all 64 preceding snapshots, v0.1.0 through v0.64.0, source verification, evidence grading, specialist-pair and broader-relationship comparisons, and scope decisions before the next IDs are assigned. If all three pass the duplicate check, the next sequential IDs would be LSHS-249 through LSHS-251.
 
 The same safeguards continue: research relevance is not clinical validation; evidence of an interface is not proof of a new independent RD-P; candidate recommendations are not owner acceptances; and no canonical taxonomy change occurs without separate authorization.
+
+## Taxonomy alignment correction — 2026-11-24
+
+**Canonical taxonomy baseline:** v1.13.8  
+**Canonical taxonomy Git blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
+
+This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 change record confirms that Universal Subject hierarchies, canonical subject-Alchemy identities, 22-context mappings, relationship-matrix values, shared-identity relationships, cross-domain proposals, and cumulative totals were preserved. Life Sciences remains 18 subject Alchemies and Health Sciences remains 15, with their canonical identifiers unchanged; the 270-pair screening universe is unchanged. This report assesses relationships between subject Alchemies; it does not assess or complete the taxonomy's 22-context contextual expressions. Historical findings, evidence assessments, source records, and dispositions are retained. No owner acceptance or canonical taxonomy amendment is implied.

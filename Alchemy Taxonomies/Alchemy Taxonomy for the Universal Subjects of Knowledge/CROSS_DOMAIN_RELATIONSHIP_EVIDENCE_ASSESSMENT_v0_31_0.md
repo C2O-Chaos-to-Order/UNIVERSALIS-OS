@@ -2,7 +2,7 @@
 
 **Version:** 0.31.0  
 **Assessment date:** 2026-11-23  
-**Canonical taxonomy baseline:** v1.13.1  
+**Canonical taxonomy baseline:** v1.13.8  
 **Status:** Three additional unique Life Sciences ↔ Health Sciences subject pairs screened; all three are recommended as bounded candidate related-but-distinct (RD-P) relationships for owner review. No owner acceptance or canonical taxonomy amendment is claimed.
 
 ## 1. Scope and safeguards
@@ -19,7 +19,7 @@ The evidence is strongest for the acute trauma and dental interfaces. The nursin
 
 The recently assessed Physiology ↔ Nursing relationship (LSHS-144) is not duplicated. Physiology ↔ Nursing concerns normal and abnormal function, homeostasis, and interpretation of physiological measures. Anatomy ↔ Nursing concerns structures, spatial relationships, body regions, landmarks, and the structural basis for examination. The two bodies of knowledge complement each other but are not interchangeable.
 
-The canonical taxonomy remains the authority for subject names, identifiers, and hierarchy. The inventory was checked against the v1.13.1 canonical subject lists (18 Life Sciences subjects × 15 Health Sciences subjects = 270 possible pairs) and assessment snapshots v0.1.0 through v0.30.0. The prior ledger contains 146 unique screened pairs with assessment IDs LSHS-001 through LSHS-146. Each selected pair was checked as an unordered subject pair against all 30 snapshots, including early name-only rows and later stable-ID rows. None appears in the prior ledger.
+The canonical taxonomy remains the authority for subject names, identifiers, and hierarchy. The inventory was checked against the v1.13.8 canonical subject lists (18 Life Sciences subjects × 15 Health Sciences subjects = 270 possible pairs) and assessment snapshots v0.1.0 through v0.30.0. The prior ledger contains 146 unique screened pairs with assessment IDs LSHS-001 through LSHS-146. Each selected pair was checked as an unordered subject pair against all 30 snapshots, including early name-only rows and later stable-ID rows. None appears in the prior ledger.
 
 A candidate RD-P recommendation is a proposal for owner review, not an accepted or registered canonical edge. A candidate does not establish hierarchy, dependency, enablement, implementation, testing, or verification. No canonical change is made by this report.
 
@@ -33,7 +33,7 @@ A candidate RD-P recommendation is a proposal for owner review, not an accepted 
 
 ## 3. Duplicate, distinction, and scope cross-check
 
-The three selected pairs were checked as unordered subject pairs against all assessment tables in v0.1.0 through v0.30.0. The prior ledger contains 146 unique screened pairs with sequential identifiers LSHS-001 through LSHS-146. Exact normalized-pair checks found no occurrence of Anatomy ↔ Nursing, Anatomy ↔ Emergency Medicine, or Anatomy ↔ Dentistry in any of the 30 prior snapshots. Canonical names and identifiers were checked against the v1.13.1 taxonomy.
+The three selected pairs were checked as unordered subject pairs against all assessment tables in v0.1.0 through v0.30.0. The prior ledger contains 146 unique screened pairs with sequential identifiers LSHS-001 through LSHS-146. Exact normalized-pair checks found no occurrence of Anatomy ↔ Nursing, Anatomy ↔ Emergency Medicine, or Anatomy ↔ Dentistry in any of the 30 prior snapshots. Canonical names and identifiers were checked against the v1.13.8 taxonomy.
 
 Previously assessed and related pairs remain distinct:
 
@@ -91,8 +91,8 @@ The 14 previous non-promotions/deferred remain unchanged. This batch adds three 
 
 ## 6. Canonical status and governance
 
-- Canonical taxonomy remains **v1.13.1**.
-- The canonical taxonomy blob SHA remains **f054a687bb649f8e67982a607b59a5156e8e9a46**.
+- Canonical taxonomy remains **v1.13.8**.
+- The canonical taxonomy blob SHA remains **3e7c570943b4e65307f01618ac81b031051ad1a9**.
 - The 18 canonical RD-P proposals remain unchanged.
 - Canonical hierarchy-edge, RD-P, and source-unlinked sparse-matrix counts remain **252 / 18 / 34,446**.
 - The three recommendations in this report have **not** been inserted into the canonical taxonomy.
@@ -108,3 +108,11 @@ Continue with another topic-focused group from the 121 remaining Life Sciences �
 The separate RD-013–RD-018 proposal-assessment workstream remains open and is not folded into the 270-pair Life Sciences ↔ Health Sciences screening count.
 
 **Review condition before any canonical insertion:** verify unordered-pair uniqueness, stable identifiers, relationship subtype, direction, evidence provenance, scope boundary, sparse-matrix effect, and explicit owner acceptance.
+
+
+## Taxonomy alignment correction — 2026-11-24
+
+**Canonical taxonomy baseline:** v1.13.8  
+**Canonical taxonomy Git blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
+
+This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 change record confirms that Universal Subject hierarchies, canonical subject-Alchemy identities, 22-context mappings, relationship-matrix values, shared-identity relationships, cross-domain proposals, and cumulative totals were preserved. Life Sciences remains 18 subject Alchemies and Health Sciences remains 15, with their canonical identifiers unchanged; the 270-pair screening universe is unchanged. This report assesses relationships between subject Alchemies; it does not assess or complete the taxonomy's 22-context contextual expressions. Historical findings, evidence assessments, source records, and dispositions are retained. No owner acceptance or canonical taxonomy amendment is implied.

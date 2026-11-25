@@ -6,9 +6,9 @@
 
 ## 1. Canonical baseline and scope
 
-The canonical source is `ALCHEMY_TAXONOMY_FOR_THE_UNIVERSAL_SUBJECTS_OF_KNOWLEDGE.md`, version 1.13.1. It was fetched from all four in-scope repositories and returned the same Git blob SHA:
+The canonical source is `ALCHEMY_TAXONOMY_FOR_THE_UNIVERSAL_SUBJECTS_OF_KNOWLEDGE.md`, version 1.13.8. It was fetched from all four in-scope repositories and returned the same Git blob SHA:
 
-`f054a687bb649f8e67982a607b59a5156e8e9a46`
+`3e7c570943b4e65307f01618ac81b031051ad1a9`
 
 The canonical Life Sciences inventory contains 18 subject Alchemies; the Health Sciences inventory contains 15, giving 270 possible cross-domain subject pairs. The previous v0.5.0 assessment records 31 unique pairs screened: 29 candidates and two not promoted/deferred. This report screens eight additional, previously unassessed pairs, LSHS-032 through LSHS-039.
 
@@ -82,7 +82,7 @@ No pair from earlier assessment batches is recounted. All eight pairs in this re
 
 ## 6. Canonical status and governance
 
-- Canonical taxonomy remains **v1.13.1**.
+- Canonical taxonomy remains **v1.13.8**.
 - The 18 canonical RD-P proposals remain unchanged.
 - Canonical hierarchy-edge, RD-P, and source-unlinked sparse-matrix counts remain **252 / 18 / 34,446**.
 - The eight recommendations in this report have not been inserted into the canonical taxonomy.
@@ -97,3 +97,11 @@ The six remaining canonical proposals **RD-013 through RD-018** remain a separat
 **Next work:** continue with a new, non-duplicative subgroup from the 231 remaining Life Sciences ↔ Health Sciences pairs. RD-013–RD-018 should remain separately tracked until their own evidence assessments are completed.
 
 **Review condition before any canonical insertion:** check unordered-pair duplication, stable identifiers, relationship subtype, direction, evidence provenance, scope boundary, canonical matrix effect, and explicit owner acceptance.
+
+
+## Taxonomy alignment correction — 2026-11-24
+
+**Canonical taxonomy baseline:** v1.13.8  
+**Canonical taxonomy Git blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
+
+This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 change record confirms that Universal Subject hierarchies, canonical subject-Alchemy identities, 22-context mappings, relationship-matrix values, shared-identity relationships, cross-domain proposals, and cumulative totals were preserved. Life Sciences remains 18 subject Alchemies and Health Sciences remains 15, with their canonical identifiers unchanged; the 270-pair screening universe is unchanged. This report assesses relationships between subject Alchemies; it does not assess or complete the taxonomy's 22-context contextual expressions. Historical findings, evidence assessments, source records, and dispositions are retained. No owner acceptance or canonical taxonomy amendment is implied.
