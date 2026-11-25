@@ -1,6 +1,6 @@
 # Contextual Expression Register
 
-**Register release:** 1.0.1 (canonical provenance reconciliation; tracking records unchanged)  
+**Register release:** 1.0.2 (testing, verification, and row-level canonical provenance fields added)  
 **Canonical source:** `Alchemy Taxonomies/Alchemy Taxonomy for the Universal Subjects of Knowledge/ALCHEMY_TAXONOMY_FOR_THE_UNIVERSAL_SUBJECTS_OF_KNOWLEDGE.md`  
 **Canonical source version:** 1.13.8  
 **Canonical source blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
@@ -62,6 +62,10 @@ This is a tracking identifier only. It does not create a new Universal Subject, 
 | `owner_acceptance` | `P`: owner acceptance pending |
 | `implementation_status` | `NI`: implementation is not asserted by this register |
 | `publication_authorization` | `P`: publication authorization pending |
+| `testing_status` | `Not yet tested`: no testing outcome has been recorded |
+| `verification_status` | `Not yet verified`: no verification outcome has been recorded |
+| `canonical_source_version` | Exact version of the canonical taxonomy used for this record |
+| `canonical_source_blob_sha` | Git blob SHA identifying the exact canonical taxonomy file used for this record |
 | `contextual_definition` | Context-specific definition; blank until authored |
 | `purpose_and_responsibilities` | Context-specific purpose and responsibilities; blank until authored |
 | `scope_and_exclusions` | Contextual scope and explicit exclusions; blank until authored |
@@ -101,7 +105,23 @@ The register keeps these states separate:
 - Implementation (`NI`) is not asserted.
 - Publication authorization (`P`) remains pending.
 
-A change to one state must not silently change another. A record must not be marked authored, reviewed, evidenced, accepted, implemented, verified, or authorized without its own supporting record and appropriate approval. Testing and verification remain distinct from implementation and from one another; neither is represented by reusing an existing CSV status code. Until separately recorded in traceable supporting records, neither should be inferred as completed.
+A change to one state must not silently change another.
+
+Testing and verification are recorded in their own fields and use separate controlled values. The permitted testing values are:
+- `Not yet tested`: no test has been performed or recorded.
+- `Testing in progress`: testing has begun but has no completed outcome.
+- `Tested — passed`: the defined test criteria were met; the supporting test record must be traceable.
+- `Tested — failed`: the defined test criteria were not met; the failure and evidence must be retained.
+- `Testing blocked`: testing could not proceed; the blocking condition must be recorded.
+
+The permitted verification values are:
+- `Not yet verified`: no verification outcome has been recorded.
+- `Verification in progress`: verification has begun but has no completed outcome.
+- `Verified`: the defined verification criteria were met; the supporting verification record must be traceable.
+- `Verification failed`: the defined verification criteria were not met; the failure and evidence must be retained.
+- `Verification blocked`: verification could not proceed; the blocking condition must be recorded.
+
+Testing values describe test execution and its outcome. Verification values describe the independent confirmation against specified requirements or evidence. A passed test does not automatically mean verified, and verification does not imply implementation, owner acceptance, or publication authorization. The initial values in all 5,808 rows are `Not yet tested` and `Not yet verified`; these record the absence of recorded outcomes and do not claim that testing or verification has occurred. A value may change only when its own traceable record supports the change. A record must not be marked authored, reviewed, evidenced, accepted, implemented, verified, or authorized without its own supporting record and appropriate approval. Testing and verification remain distinct from implementation and from one another; neither is represented by reusing an existing CSV status code. Until separately recorded in traceable supporting records, neither should be inferred as completed.
 
 ## Edition and visibility boundaries
 
@@ -122,4 +142,4 @@ The register does not authorize publication or distribution. Rights and licensin
 
 ## Source and completion boundary
 
-The source taxonomy version 1.13.8 records the canonical subject and context structure used for this register. The register's 5,808 rows were checked against that source: all 264 subject-Alchemy identifiers are present, all 22 context identifiers are represented, and all 5,808 subject–context record identifiers are unique. This confirms the register's identity and context coverage; it does not claim that any detailed contextual expression has been authored, reviewed, evidenced, accepted, implemented, tested, verified, or authorized.
+Each CSV row carries the canonical source version and exact source-file Git blob SHA so that the record remains provenance-identifiable when separated from this Markdown companion. All rows currently identify version `1.13.8` and blob `3e7c570943b4e65307f01618ac81b031051ad1a9`. The source taxonomy version 1.13.8 records the canonical subject and context structure used for this register. The register's 5,808 rows were checked against that source: all 264 subject-Alchemy identifiers are present, all 22 context identifiers are represented, and all 5,808 subject–context record identifiers are unique. This confirms the register's identity and context coverage; it does not claim that any detailed contextual expression has been authored, reviewed, evidenced, accepted, implemented, tested, verified, or authorized.
