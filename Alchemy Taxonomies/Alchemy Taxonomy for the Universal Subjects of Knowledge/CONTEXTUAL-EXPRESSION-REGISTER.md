@@ -1,6 +1,6 @@
 # Contextual Expression Register
 
-**Register release:** 1.0.2 (testing, verification, and row-level canonical provenance fields added)  
+**Register release:** 1.0.3 (baseline status-code boundaries clarified)  
 **Canonical source:** `Alchemy Taxonomies/Alchemy Taxonomy for the Universal Subjects of Knowledge/ALCHEMY_TAXONOMY_FOR_THE_UNIVERSAL_SUBJECTS_OF_KNOWLEDGE.md`  
 **Canonical source version:** 1.13.8  
 **Canonical source blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
@@ -106,6 +106,8 @@ The register keeps these states separate:
 - Publication authorization (`P`) remains pending.
 
 A change to one state must not silently change another.
+
+**Codebook release boundary.** This release defines `M` as the only permitted `mapping_status` value. For `expression_status`, `review_status`, `evidence_status`, `owner_acceptance`, `implementation_status`, and `publication_authorization`, the values listed above are the baseline values currently assigned in this register; this release does not define a complete lifecycle or authorize additional values or transitions. Until a subsequent controlled codebook revision defines permitted values, transition conditions, required supporting records, decision authority where applicable, and change-history requirements—and that revision has been reviewed and explicitly accepted—retain these baseline values. Do not invent codes, infer a state change from the presence of another record, or advance a field to imply progress. Substantive work or decisions may be recorded in linked records without changing these register fields until the codebook is extended and accepted. The testing and verification fields are separate: their permitted values are explicitly enumerated below, and every change still requires its own traceable test or verification record.
 
 Testing and verification are recorded in their own fields and use separate controlled values. The permitted testing values are:
 - `Not yet tested`: no test has been performed or recorded.
