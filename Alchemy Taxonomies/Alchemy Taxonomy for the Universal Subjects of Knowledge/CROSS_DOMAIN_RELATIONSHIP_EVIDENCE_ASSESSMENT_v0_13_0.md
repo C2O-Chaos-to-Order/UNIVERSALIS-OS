@@ -138,3 +138,61 @@ The six existing proposals RD-013–RD-018 remain separately tracked for their o
 **Canonical taxonomy Git blob SHA:** `3e7c570943b4e65307f01618ac81b031051ad1a9`
 
 This correction supersedes the former v1.13.1 baseline reference. The v1.13.8 change record confirms that Universal Subject hierarchies, canonical subject-Alchemy identities, 22-context mappings, relationship-matrix values, shared-identity relationships, cross-domain proposals, and cumulative totals were preserved. Life Sciences remains 18 subject Alchemies and Health Sciences remains 15, with their canonical identifiers unchanged; the 270-pair screening universe is unchanged. This report assesses relationships between subject Alchemies; it does not assess or complete the taxonomy's 22-context contextual expressions. Historical findings, evidence assessments, source records, and dispositions are retained. No owner acceptance or canonical taxonomy amendment is implied.
+
+
+## First-pass audit and source-register correction — 2026-11-24
+
+**Review status:** First-pass substantive and citation-integrity review completed for LSHS-084–LSHS-088. Independent verification, owner review and acceptance, canonical registration, implementation, testing, programme credit, and publication authorization remain pending.
+
+### Corrections applied
+
+1. **Global source-identifier collision resolved.** The corrected v0.8.0–v0.12.0 source registers occupy S130–S145, S146–S158, S159–S171, S172–S182, and S183–S194. The original v0.13.0 register reused S181–S193. All 13 v0.13.0 source entries and every corresponding in-text citation have therefore been renumbered consecutively to S195–S207.
+2. **Source-to-claim mappings preserved.** LSHS-084–LSHS-088 retain their original evidence claims, scope boundaries, evidence assessments, and candidate dispositions. Only source identifiers changed; no source was added, removed, or substituted.
+3. **Pair screening and accounting preserved.** The five findings remain LSHS-084–LSHS-088. The four previously screened pairs remain excluded and are not counted again. Cumulative accounting remains 88 screened = 78 candidate recommendations + 10 not promoted/deferred, with 182 unassessed.
+4. **Provisional evidence status preserved.** LSHS-088 remains a provisional, lower-confidence candidate. The source-ID correction does not validate ultrasound thresholds, establish routine clinical use, or imply treatment efficacy.
+5. **No canonical promotion.** All five findings remain candidate RD-P proposals for owner review. No canonical taxonomy relationship, hierarchy, sparse-matrix value, owner-acceptance state, or implementation status was changed.
+
+### Corrected Batch 13 source-to-claim index
+
+| Assessment | Source references after correction |
+|---|---|
+| LSHS-084 | S195–S197, S207 |
+| LSHS-085 | S195, S198, S199 |
+| LSHS-086 | S195, S200–S202 |
+| LSHS-087 | S203, S204 |
+| LSHS-088 | S205, S206 |
+
+### Source identifier migration
+
+| Original identifier | Corrected identifier |
+|---|---|
+| S181 | S195 |
+| S182 | S196 |
+| S183 | S197 |
+| S184 | S198 |
+| S185 | S199 |
+| S186 | S200 |
+| S187 | S201 |
+| S188 | S202 |
+| S189 | S203 |
+| S190 | S204 |
+| S191 | S205 |
+| S192 | S206 |
+| S193 | S207 |
+
+### Evidence and review limitations
+
+This correction resolves the identified cross-assessment source-ID collision; it does not constitute a systematic review, formal risk-of-bias assessment, complete bibliographic/provenance audit, or independent replication. The qualitative evidence labels and bounded candidate dispositions are unchanged. Source identity and relevance remain subject to independent verification and owner review.
+
+### Updated disposition
+
+- Five additional unique Life Sciences ↔ Health Sciences pairs screened.
+- Five bounded candidate RD-P recommendations retained for owner review.
+- Cumulative unique pairs screened: 88 of 270.
+- Cumulative candidate recommendations: 78.
+- Screened but not promoted/deferred: 10.
+- Individually unassessed: 182.
+- Accounting: 270 = 78 + 10 + 182.
+- Screening coverage: 32.59%.
+- Canonical taxonomy remains v1.13.8; no canonical relationship or matrix value is changed.
+- No owner acceptance, implementation, testing, independent verification, or programme credit is claimed.
