@@ -1,7 +1,7 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.13.7  
-**Status:** All twenty owner-supplied Universal Subject hierarchies recorded and source-audited; 264 unique subject Alchemies mapped across 22 contexts; 5,808 contextual-expression records established with expression authoring and review pending; cross-domain source screening and 264-node sparse relationship matrix initiated; 18 related-but-distinct proposals pending owner review; historical numbering reconciliation completed with eleven legacy vacant ranges documented  
+**Version:** 1.13.8  
+**Status:** All twenty owner-supplied Universal Subject hierarchies recorded and source-audited; 264 unique subject Alchemies mapped across 22 contexts; 5,808 contextual-expression records established with expression authoring and review pending; cross-domain source screening and 264-node sparse relationship matrix initiated; 18 related-but-distinct proposals pending owner review; all 78 top-level section headings consecutively numbered 1–78, with subsection numbering and current section references reconciled; historical numbering migration preserved in change control  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
 ## 1. Purpose
@@ -736,15 +736,15 @@ Each of the 396 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 29. Universal Subject of Knowledge hierarchy: Computer and Information Sciences
+## 26. Universal Subject of Knowledge hierarchy: Computer and Information Sciences
 
-### 29.1 Canonical subject definition
+### 26.1 Canonical subject definition
 
 **Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
 The canonical subject name is retained as supplied. No definition is inferred or added without an owner-provided definition.
 
-### 29.2 Computer and Information Sciences Alchemy hierarchy
+### 26.2 Computer and Information Sciences Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject structure. The source lists 14 subordinate subjects under Computer and Information Sciences and does not supply further subdivisions. Accordingly, each listed subject is represented as a direct child. Artificial Intelligence already exists as a canonical Alchemy under Engineering and Technology; it is cross-listed here using its existing identifier rather than duplicated as a new Alchemy.
 
@@ -764,7 +764,7 @@ The following hierarchy preserves the supplied subject structure. The source lis
   - **Digital Preservation Alchemy**
   - **Information Architecture Alchemy**
 
-### 29.3 Computer and Information Sciences Alchemy inventory
+### 26.3 Computer and Information Sciences Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
 |---|---|---|---|
@@ -789,7 +789,7 @@ The following hierarchy preserves the supplied subject structure. The source lis
 Artificial Intelligence remains one canonical subject Alchemy, identified as **USA-ET-017**. Its parent relationships include both Engineering and Technology and Computer and Information Sciences. Its existing 22 context mappings are referenced rather than counted or created a second time.
 
 The source supplied the subject name and its 14 subordinate subject names, but no definition for Computer and Information Sciences. No subject definition, additional subdivision, or description has been invented.
-## 30. Computer and Information Sciences Alchemy — 15 × 22 context matrix
+## 27. Computer and Information Sciences Alchemy — 15 × 22 context matrix
 
 The matrix below records all 15 subject-hierarchy positions across the 22 canonical contexts. Fourteen rows represent new subject Alchemies and contribute 14 × 22 = **308 new mapped intersections**. The Artificial Intelligence row references the existing canonical Alchemy USA-ET-017 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
 
@@ -814,7 +814,7 @@ The matrix below records all 15 subject-hierarchy positions across the 22 canoni
 **Computer and Information Sciences matrix coverage:** 15 hierarchy positions × 22 contexts = **330 section mapping positions**, comprising **308 new mapped intersections and 22 references to the existing Artificial Intelligence mappings**.
 
 The 22 Artificial Intelligence cells in this section point to the same subject-Alchemy/context intersections already represented by USA-ET-017 in the Engineering and Technology matrix. They must not be counted twice in the cumulative unique-mapping total.
-## 31. Computer and Information Sciences contextual expression requirements
+## 28. Computer and Information Sciences contextual expression requirements
 
 Each of the 308 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -833,15 +833,15 @@ Each of the 308 new mapped intersections must receive an individually authored a
 The 22 Artificial Intelligence contextual expressions are not duplicated here. They remain associated with the shared canonical subject-Alchemy identity USA-ET-017 and must be understood through that existing record and its additional parent relationship.
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
-## 32. Universal Subject of Knowledge hierarchy: Social Sciences
+## 29. Universal Subject of Knowledge hierarchy: Social Sciences
 
-### 32.1 Canonical subject definition
+### 29.1 Canonical subject definition
 
 **Social Sciences** — Knowledge of human societies and behavior.
 
 This definition is retained as supplied. The Social Sciences subject becomes **Social Sciences Alchemy**.
 
-### 32.2 Social Sciences Alchemy hierarchy
+### 29.2 Social Sciences Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject structure. The source provides Social Sciences as the parent subject and lists 13 subordinate subjects without further subdivisions. Accordingly, each of the 13 listed subjects is recorded as a direct child of Social Sciences; no additional parent-child relationships are inferred.
 
@@ -860,7 +860,7 @@ The following hierarchy preserves the supplied subject structure. The source pro
   - **Social Work Alchemy**
   - **Communication Studies Alchemy**
 
-### 32.3 Social Sciences Alchemy inventory
+### 29.3 Social Sciences Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
 |---|---|---|---|
@@ -883,7 +883,7 @@ The following hierarchy preserves the supplied subject structure. The source pro
 
 The source supplied the definition for Social Sciences and the names of its 13 subordinate subjects. It did not supply further subdivisions or individual definitions for those subjects. No additional parent-child relationships, subdivisions, or subject descriptions have been invented. Individual subordinate subject definitions must be developed without changing the supplied canonical names or parentage.
 
-## 33. Social Sciences Alchemy — 14 × 22 context matrix
+## 30. Social Sciences Alchemy — 14 × 22 context matrix
 
 The matrix below maps every Social Sciences subject Alchemy to all 22 canonical contexts. The column identifiers C01–C22 refer to the canonical context key in Section 8.2. Each **M** is a required mapping position. It does not, by itself, claim that the detailed context-specific expression has been authored, reviewed, implemented, tested, or verified.
 
@@ -908,7 +908,7 @@ The matrix below maps every Social Sciences subject Alchemy to all 22 canonical 
 
 The 308 intersections are the contextual mappings of the 14 Social Sciences Alchemies. They are not 308 additional subject classifications.
 
-## 34. Social Sciences contextual expression requirements
+## 31. Social Sciences contextual expression requirements
 
 Each of the 308 mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -926,15 +926,15 @@ Each of the 308 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 35. Universal Subject of Knowledge hierarchy: Business and Economic Sciences
+## 32. Universal Subject of Knowledge hierarchy: Business and Economic Sciences
 
-### 35.1 Canonical subject definition
+### 32.1 Canonical subject definition
 
 **Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
 The canonical subject name is retained as supplied. No definition is inferred or added without an owner-provided definition. The Business and Economic Sciences subject becomes **Business and Economic Sciences Alchemy**.
 
-### 35.2 Business and Economic Sciences Alchemy hierarchy
+### 32.2 Business and Economic Sciences Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject list. The source lists 15 subordinate subjects without further subdivisions. Accordingly, the listed subjects are represented as direct children of Business and Economic Sciences. Economics already exists as a canonical subject Alchemy under Social Sciences; it is cross-listed here using its existing identifier rather than duplicated as a new Alchemy.
 
@@ -955,7 +955,7 @@ The following hierarchy preserves the supplied subject list. The source lists 15
   - **Project Management Alchemy**
   - **Risk Management Alchemy**
 
-### 35.3 Business and Economic Sciences Alchemy inventory
+### 32.3 Business and Economic Sciences Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
 |---|---|---|---|
@@ -982,7 +982,7 @@ Economics remains one canonical subject Alchemy, identified as **USA-SS-005**. I
 
 The source supplied the subject name and its 15 subordinate subject names, but no definition for Business and Economic Sciences. No subject definition, additional subdivision, or description has been invented. Fourteen of the subordinate subjects are new distinct subject Alchemies; Economics is represented by its existing shared canonical identity.
 
-## 36. Business and Economic Sciences Alchemy — 16 × 22 context matrix
+## 33. Business and Economic Sciences Alchemy — 16 × 22 context matrix
 
 The matrix below records all 16 subject-hierarchy positions across the 22 canonical contexts. Fifteen rows represent new subject Alchemies and contribute 15 × 22 = **330 new mapped intersections**. The Economics row references the existing canonical Alchemy USA-SS-005 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
 
@@ -1009,7 +1009,7 @@ The matrix below records all 16 subject-hierarchy positions across the 22 canoni
 
 The 22 Economics cells in this section point to the same subject-Alchemy/context intersections already represented by USA-SS-005 in the Social Sciences matrix. They must not be counted twice in the cumulative unique-mapping total.
 
-## 37. Business and Economic Sciences contextual expression requirements
+## 34. Business and Economic Sciences contextual expression requirements
 
 Each of the 330 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -1029,15 +1029,15 @@ The 22 Economics contextual expressions are not duplicated here. They remain ass
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 38. Universal Subject of Knowledge hierarchy: Law and Governance
+## 35. Universal Subject of Knowledge hierarchy: Law and Governance
 
-### 38.1 Canonical subject definition
+### 35.1 Canonical subject definition
 
 **Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
 The canonical subject name is retained as supplied. No definition is inferred or added without an owner-provided definition. The Law and Governance subject becomes **Law and Governance Alchemy**.
 
-### 38.2 Law and Governance Alchemy hierarchy
+### 35.2 Law and Governance Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject list. The source lists 12 subordinate subjects without further subdivisions. Accordingly, the listed subjects are represented as direct children of Law and Governance. No additional subjects, subdivisions, or parent-child relationships have been invented.
 
@@ -1055,7 +1055,7 @@ The following hierarchy preserves the supplied subject list. The source lists 12
   - **Regulatory Science Alchemy**
   - **Diplomacy Alchemy**
 
-### 38.3 Law and Governance Alchemy inventory
+### 35.3 Law and Governance Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
 |---|---|---|---|
@@ -1077,7 +1077,7 @@ The following hierarchy preserves the supplied subject list. The source lists 12
 
 The source supplied the subject name and its 12 subordinate subject names, but no definition for Law and Governance and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred. The subordinate subject definitions and their contextual responsibilities must be developed without changing the supplied canonical names or parentage.
 
-## 39. Law and Governance Alchemy — 13 × 22 context matrix
+## 36. Law and Governance Alchemy — 13 × 22 context matrix
 
 The matrix below maps every Law and Governance subject Alchemy to all 22 canonical contexts. The column identifiers C01–C22 refer to the canonical context key in Section 8.2. Each **M** is a required mapping position. It does not, by itself, claim that the detailed context-specific expression has been authored, reviewed, implemented, tested, or verified.
 
@@ -1103,7 +1103,7 @@ All 13 Law and Governance subject Alchemies are new unique canonical identities 
 
 The 286 intersections are the contextual mappings of the 13 Law and Governance Alchemies. They are not 286 additional subject classifications.
 
-## 40. Law and Governance contextual expression requirements
+## 37. Law and Governance contextual expression requirements
 
 Each of the 286 mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -1121,15 +1121,15 @@ Each of the 286 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 44. Universal Subject of Knowledge hierarchy: Humanities
+## 38. Universal Subject of Knowledge hierarchy: Humanities
 
-### 44.1 Canonical subject definition
+### 38.1 Canonical subject definition
 
 **Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
 The canonical subject name is retained as supplied. No definition is inferred or added without an owner-provided definition. The Humanities subject becomes **Humanities Alchemy**.
 
-### 44.2 Humanities Alchemy hierarchy
+### 38.2 Humanities Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject list. The source lists 11 subordinate subjects without further subdivisions. Accordingly, the listed subjects are represented as direct children of Humanities. No additional subjects, subdivisions, or parent-child relationships have been invented.
 
@@ -1148,7 +1148,7 @@ The following hierarchy preserves the supplied subject list. The source lists 11
 
 The closely related names **Religious Studies** and **Comparative Religion** remain separate supplied subjects and separate Alchemy identities. Likewise, **History** and **Historical Analysis** remain separate supplied subjects and separate Alchemy identities. Their relationships can be examined during the later mapping and relationship-analysis stages; the supplied distinctions are not collapsed.
 
-### 44.3 Humanities Alchemy inventory
+### 38.3 Humanities Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
 |---|---|---|---|
@@ -1169,7 +1169,7 @@ The closely related names **Religious Studies** and **Comparative Religion** rem
 
 The source supplied the subject name and its 11 subordinate subject names, but no definition for Humanities and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred. The subordinate subject definitions and their contextual responsibilities must be developed without changing the supplied canonical names or parentage.
 
-## 45. Humanities Alchemy — 12 × 22 context matrix
+## 39. Humanities Alchemy — 12 × 22 context matrix
 
 The matrix below maps every Humanities subject Alchemy to all 22 canonical contexts. The column identifiers C01–C22 refer to the canonical context key in Section 8.2. Each **M** is a required mapping position. It does not, by itself, claim that the detailed context-specific expression has been authored, reviewed, implemented, tested, or verified.
 
@@ -1194,7 +1194,7 @@ All 12 Humanities subject Alchemies are new unique canonical identities in the c
 
 The 264 intersections are the contextual mappings of the 12 Humanities Alchemies. They are not 264 additional subject classifications.
 
-## 46. Humanities contextual expression requirements
+## 40. Humanities contextual expression requirements
 
 Each of the 264 mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -1212,15 +1212,15 @@ Each of the 264 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 50. Universal Subject of Knowledge hierarchy: Language and Communication
+## 41. Universal Subject of Knowledge hierarchy: Language and Communication
 
-### 50.1 Canonical subject definition
+### 41.1 Canonical subject definition
 
 **Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
 The canonical subject name is retained as supplied. No definition is inferred or added without an owner-provided definition. The Language and Communication subject becomes **Language and Communication Alchemy**.
 
-### 50.2 Language and Communication Alchemy hierarchy
+### 41.2 Language and Communication Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject list. The source lists 11 subordinate subjects without further subdivisions. Linguistics already exists as a canonical subject Alchemy under Humanities and is cross-listed here using its existing identifier. The remaining ten subordinate subjects are established as new distinct Alchemies.
 
@@ -1237,7 +1237,7 @@ The following hierarchy preserves the supplied subject list. The source lists 11
   - **Media Studies Alchemy**
   - **Information Communication Alchemy**
 
-### 50.3 Language and Communication Alchemy inventory
+### 41.3 Language and Communication Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
 |---|---|---|---|
@@ -1260,7 +1260,7 @@ The following hierarchy preserves the supplied subject list. The source lists 11
 
 The source supplied the subject name and its 11 subordinate subject names, but no definition for Language and Communication and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred. The supplied name **Information Communication** is retained exactly as provided. The existing Communication Studies subject remains a distinct canonical subject; it is not treated as an exact duplicate of Information Communication.
 
-## 51. Language and Communication Alchemy — 12 × 22 context matrix
+## 42. Language and Communication Alchemy — 12 × 22 context matrix
 
 The matrix below records all 12 subject-hierarchy positions across the 22 canonical contexts. Eleven rows represent new subject Alchemies and contribute 11 × 22 = **242 new mapped intersections**. The Linguistics row references the existing canonical Alchemy USA-HUM-006 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
 
@@ -1283,7 +1283,7 @@ The matrix below records all 12 subject-hierarchy positions across the 22 canoni
 
 The 22 Linguistics cells in this section point to the same subject-Alchemy/context intersections already represented by USA-HUM-006 in the Humanities matrix. They must not be counted twice in the cumulative unique-mapping total. Linguistics retains its existing canonical identifier and is not assigned a second Alchemy identity.
 
-## 52. Language and Communication contextual expression requirements
+## 43. Language and Communication contextual expression requirements
 
 Each of the 242 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -1303,15 +1303,15 @@ The 22 existing Linguistics mappings are not duplicated here. They remain associ
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 53. Universal Subject of Knowledge hierarchy: Arts and Creative Expression
+## 44. Universal Subject of Knowledge hierarchy: Arts and Creative Expression
 
-### 53.1 Canonical subject definition
+### 44.1 Canonical subject definition
 
 **Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
 The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Arts and Creative Expression subject becomes **Arts and Creative Expression Alchemy**.
 
-### 53.2 Arts and Creative Expression Alchemy hierarchy
+### 44.2 Arts and Creative Expression Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject list. The source provides 15 subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Arts and Creative Expression; no additional parent-child groupings have been inferred.
 
@@ -1332,7 +1332,7 @@ The following hierarchy preserves the supplied subject list. The source provides
   - **Animation Alchemy**
   - **Game Design Alchemy**
 
-### 53.3 Arts and Creative Expression Alchemy inventory
+### 44.3 Arts and Creative Expression Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
 |---|---|---|---|
@@ -1357,7 +1357,7 @@ The following hierarchy preserves the supplied subject list. The source provides
 
 The source supplied the subject name and its 15 subordinate subject names, but no definition for Arts and Creative Expression and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred.
 
-## 54. Arts and Creative Expression Alchemy — 16 × 22 context matrix
+## 45. Arts and Creative Expression Alchemy — 16 × 22 context matrix
 
 The matrix below maps all 16 Arts and Creative Expression subject Alchemies to the 22 canonical contexts. Every row is a new subject Alchemy and contributes 16 × 22 = **352 new mapped intersections**. Each **M** records a required mapping position; it does not by itself claim that the detailed contextual expression has been authored, reviewed, implemented, tested, or verified.
 
@@ -1386,7 +1386,7 @@ The column identifiers C01–C22 refer to the canonical context key in Section 8
 
 The 352 intersections are the context mappings of the 16 established Arts and Creative Expression Alchemies. They are not 352 additional subject classifications. Each intersection must receive its own context-specific expression under its corresponding canonical Alchemy identity.
 
-## 55. Arts and Creative Expression contextual expression requirements
+## 46. Arts and Creative Expression contextual expression requirements
 
 Each of the 352 mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -1404,15 +1404,15 @@ Each of the 352 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 59. Universal Subject of Knowledge hierarchy: Education and Learning Sciences
+## 47. Universal Subject of Knowledge hierarchy: Education and Learning Sciences
 
-### 59.1 Canonical subject definition
+### 47.1 Canonical subject definition
 
 **Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
 The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Education and Learning Sciences subject becomes **Education and Learning Sciences Alchemy**.
 
-### 59.2 Education and Learning Sciences Alchemy hierarchy
+### 47.2 Education and Learning Sciences Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject list. The source provides eight subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Education and Learning Sciences; no additional parent-child groupings have been inferred.
 
@@ -1426,7 +1426,7 @@ The following hierarchy preserves the supplied subject list. The source provides
   - **Knowledge Management Alchemy** *(shared canonical Alchemy: USA-ELS-008; also parented under Meta-Knowledge Sciences)*
   - **Training Systems Alchemy**
 
-### 59.3 Education and Learning Sciences Alchemy inventory
+### 47.3 Education and Learning Sciences Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
 |---|---|---|---|
@@ -1444,7 +1444,7 @@ The following hierarchy preserves the supplied subject list. The source provides
 
 The source supplied the subject name and its eight subordinate subject names, but no definition for Education and Learning Sciences and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred.
 
-## 60. Education and Learning Sciences Alchemy — 9 × 22 context matrix
+## 48. Education and Learning Sciences Alchemy — 9 × 22 context matrix
 
 The matrix below maps all nine Education and Learning Sciences subject Alchemies to the 22 canonical contexts. All nine rows are canonical first-occurrence entries in this domain and contribute 9 × 22 = **198 unique mapped intersections**. Knowledge Management (USA-ELS-008) is also parented under Meta-Knowledge Sciences; that hierarchy references this existing canonical row rather than creating another mapping set. Each **M** records a required mapping position; it does not by itself claim that the detailed contextual expression has been authored, reviewed, implemented, tested, or verified.
 
@@ -1466,7 +1466,7 @@ The column identifiers C01–C22 refer to the canonical context key in Section 8
 
 These 198 intersections are the canonical context mappings of the nine subject Alchemies first established under Education and Learning Sciences. The 22 Knowledge Management mappings for USA-ELS-008 are included here once; Meta-Knowledge Sciences references the same canonical mappings and does not add them a second time.
 
-## 61. Education and Learning Sciences contextual expression requirements
+## 49. Education and Learning Sciences contextual expression requirements
 
 Each of the 198 mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -1486,15 +1486,15 @@ The 22 Knowledge Management contextual expressions are authored and reviewed onc
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 65. Universal Subject of Knowledge hierarchy: Environmental Sciences
+## 50. Universal Subject of Knowledge hierarchy: Environmental Sciences
 
-### 65.1 Canonical subject definition
+### 50.1 Canonical subject definition
 
 **Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
 The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Environmental Sciences subject becomes **Environmental Sciences Alchemy**.
 
-### 65.2 Environmental Sciences Alchemy hierarchy
+### 50.2 Environmental Sciences Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject list. The source provides ten subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Environmental Sciences; no additional parent-child groupings have been inferred.
 
@@ -1510,7 +1510,7 @@ The following hierarchy preserves the supplied subject list. The source provides
   - **Restoration Science Alchemy**
   - **Agriculture Alchemy** *(shared canonical Alchemy: USA-ENV-010; also parented under Agriculture, Food, and Resource Sciences)*
 
-### 65.3 Environmental Sciences Alchemy inventory
+### 50.3 Environmental Sciences Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
 |---|---|---|---|
@@ -1532,7 +1532,7 @@ The following hierarchy preserves the supplied subject list. The source provides
 
 The source supplied the subject name and its ten subordinate subject names, but no definition for Environmental Sciences and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred.
 
-## 66. Environmental Sciences Alchemy — 11 × 22 context matrix
+## 51. Environmental Sciences Alchemy — 11 × 22 context matrix
 
 The matrix below records all 11 Environmental Sciences hierarchy positions across the 22 canonical contexts. Ten rows represent new subject Alchemies and contribute 10 × 22 = **220 new mapped intersections**. The Ecology row references the existing canonical Alchemy USA-LS-005 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
 
@@ -1556,7 +1556,7 @@ The column identifiers C01–C22 refer to the canonical context key in Section 8
 
 The 22 Ecology cells in this section point to the same subject-Alchemy/context intersections already represented by USA-LS-005 in the Life Sciences matrix. They must not be counted twice in the cumulative unique-mapping total. Ecology retains its existing canonical identifier and is not assigned a second Alchemy identity.
 
-## 67. Environmental Sciences contextual expression requirements
+## 52. Environmental Sciences contextual expression requirements
 
 Each of the 220 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -1576,15 +1576,15 @@ The 22 existing Ecology mappings are not duplicated here. They remain associated
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 71. Universal Subject of Knowledge hierarchy: Earth, Space, and Planetary Sciences
+## 53. Universal Subject of Knowledge hierarchy: Earth, Space, and Planetary Sciences
 
-### 71.1 Canonical subject definition
+### 53.1 Canonical subject definition
 
 **Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
 The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Earth, Space, and Planetary Sciences subject becomes **Earth, Space, and Planetary Sciences Alchemy**.
 
-### 71.2 Earth, Space, and Planetary Sciences Alchemy hierarchy
+### 53.2 Earth, Space, and Planetary Sciences Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject list. The source provides nine subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Earth, Space, and Planetary Sciences; no additional parent-child groupings have been inferred.
 
@@ -1599,7 +1599,7 @@ The following hierarchy preserves the supplied subject list. The source provides
   - **Planetary Exploration Alchemy**
   - **Astrobiology Alchemy**
 
-### 71.3 Earth, Space, and Planetary Sciences Alchemy inventory
+### 53.3 Earth, Space, and Planetary Sciences Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent |
 |---|---|---|---|
@@ -1618,7 +1618,7 @@ The following hierarchy preserves the supplied subject list. The source provides
 
 The source supplied the subject name and its nine subordinate subject names, but no definition for Earth, Space, and Planetary Sciences and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred.
 
-## 72. Earth, Space, and Planetary Sciences Alchemy — 10 × 22 context matrix
+## 54. Earth, Space, and Planetary Sciences Alchemy — 10 × 22 context matrix
 
 The matrix below maps all ten Earth, Space, and Planetary Sciences subject Alchemies to the 22 canonical contexts. Every row is a new subject Alchemy and contributes 10 × 22 = **220 new mapped intersections**. Each **M** records a required mapping position; it does not by itself claim that the detailed contextual expression has been authored, reviewed, implemented, tested, or verified.
 
@@ -1641,7 +1641,7 @@ The column identifiers C01–C22 refer to the canonical context key in Section 8
 
 The 220 intersections are the context mappings of the ten established Earth, Space, and Planetary Sciences Alchemies. They are not 220 additional subject classifications. Each intersection must receive its own context-specific expression under its corresponding canonical Alchemy identity.
 
-## 73. Earth, Space, and Planetary Sciences contextual expression requirements
+## 55. Earth, Space, and Planetary Sciences contextual expression requirements
 
 Each of the 220 mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -1659,15 +1659,15 @@ Each of the 220 mapped intersections must receive an individually authored and r
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 77. Universal Subject of Knowledge hierarchy: Human Development and Civilization
+## 56. Universal Subject of Knowledge hierarchy: Human Development and Civilization
 
-### 77.1 Canonical subject definition
+### 56.1 Canonical subject definition
 
 **Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
 The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Human Development and Civilization subject becomes **Human Development and Civilization Alchemy**.
 
-### 77.2 Human Development and Civilization Alchemy hierarchy
+### 56.2 Human Development and Civilization Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject list. The source provides nine subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Human Development and Civilization; no additional parent-child groupings have been inferred.
 
@@ -1682,7 +1682,7 @@ The following hierarchy preserves the supplied subject list. The source provides
   - **Cultural Evolution Alchemy**
   - **Migration Studies Alchemy**
 
-### 77.3 Human Development and Civilization Alchemy inventory
+### 56.3 Human Development and Civilization Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
 |---|---|---|---|
@@ -1703,7 +1703,7 @@ The following hierarchy preserves the supplied subject list. The source provides
 
 The source supplied the subject name and its nine subordinate subject names, but no definition for Human Development and Civilization and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred. Related subjects such as Cultural Studies, Demography, Sociology, and Human Geography remain distinct unless an exact shared subject identity is established; conceptual association alone does not justify merging subject identities.
 
-## 78. Human Development and Civilization Alchemy — 10 × 22 context matrix
+## 57. Human Development and Civilization Alchemy — 10 × 22 context matrix
 
 The matrix below records all ten Human Development and Civilization hierarchy positions across the 22 canonical contexts. Nine rows represent new subject Alchemies and contribute 9 × 22 = **198 new mapped intersections**. The Anthropology row references the existing canonical Alchemy USA-SS-004 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
 
@@ -1726,7 +1726,7 @@ The column identifiers C01–C22 refer to the canonical context key in Section 8
 
 The 22 Anthropology cells in this section point to the same subject-Alchemy/context intersections already represented by USA-SS-004 in the Social Sciences matrix. They must not be counted twice in the cumulative unique-mapping total. Anthropology retains its existing canonical identifier and is not assigned a second Alchemy identity.
 
-## 79. Human Development and Civilization contextual expression requirements
+## 58. Human Development and Civilization contextual expression requirements
 
 Each of the 198 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -1746,15 +1746,15 @@ The 22 existing Anthropology mappings are not duplicated here. They remain assoc
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 83. Universal Subject of Knowledge hierarchy: Security and Protection Sciences
+## 59. Universal Subject of Knowledge hierarchy: Security and Protection Sciences
 
-### 83.1 Canonical subject definition
+### 59.1 Canonical subject definition
 
 **Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
 The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Security and Protection Sciences subject becomes **Security and Protection Sciences Alchemy**.
 
-### 83.2 Security and Protection Sciences Alchemy hierarchy
+### 59.2 Security and Protection Sciences Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject list. The source provides eight subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Security and Protection Sciences; no additional parent-child groupings have been inferred.
 
@@ -1768,7 +1768,7 @@ The following hierarchy preserves the supplied subject list. The source provides
   - **Risk Analysis Alchemy**
   - **Resilience Engineering Alchemy**
 
-### 83.3 Security and Protection Sciences Alchemy inventory
+### 59.3 Security and Protection Sciences Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
 |---|---|---|---|
@@ -1788,7 +1788,7 @@ The following hierarchy preserves the supplied subject list. The source provides
 
 The source supplied the subject name and its eight subordinate subject names, but no definition for Security and Protection Sciences and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred. Related subjects and concepts remain distinct where their canonical identities differ; conceptual association alone does not justify merging subject identities.
 
-## 84. Security and Protection Sciences Alchemy — 9 × 22 context matrix
+## 60. Security and Protection Sciences Alchemy — 9 × 22 context matrix
 
 The matrix below records all nine Security and Protection Sciences hierarchy positions across the 22 canonical contexts. Eight rows represent new subject Alchemies and contribute 8 × 22 = **176 new mapped intersections**. The Cybersecurity row references the existing canonical Alchemy USA-ET-018 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
 
@@ -1810,7 +1810,7 @@ The column identifiers C01–C22 refer to the canonical context key in Section 8
 
 The 22 Cybersecurity cells in this section point to the same subject-Alchemy/context intersections already represented by USA-ET-018 in the Engineering and Technology matrix. They must not be counted twice in the cumulative unique-mapping total. Cybersecurity retains its existing canonical identifier and is not assigned a second Alchemy identity.
 
-## 85. Security and Protection Sciences contextual expression requirements
+## 61. Security and Protection Sciences contextual expression requirements
 
 Each of the 176 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -1830,15 +1830,15 @@ The 22 existing Cybersecurity mappings are not duplicated here. They remain asso
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
 
-## 89. Universal Subject of Knowledge hierarchy: Transportation and Infrastructure
+## 62. Universal Subject of Knowledge hierarchy: Transportation and Infrastructure
 
-### 89.1 Canonical subject definition
+### 62.1 Canonical subject definition
 
 **Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
 The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Transportation and Infrastructure subject becomes **Transportation and Infrastructure Alchemy**.
 
-### 89.2 Transportation and Infrastructure Alchemy hierarchy
+### 62.2 Transportation and Infrastructure Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject list. The source provides eight subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Transportation and Infrastructure; no additional parent-child groupings have been inferred.
 
@@ -1852,7 +1852,7 @@ The following hierarchy preserves the supplied subject list. The source provides
   - **Maritime Systems Alchemy**
   - **Rail Systems Alchemy**
 
-### 89.3 Transportation and Infrastructure Alchemy inventory
+### 62.3 Transportation and Infrastructure Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
 |---|---|---|---|
@@ -1872,7 +1872,7 @@ The related existing subjects Supply Chain Management, Urban Studies, Civil Engi
 
 The source supplied the subject name and its eight subordinate subject names, but no definition for Transportation and Infrastructure and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred.
 
-## 90. Transportation and Infrastructure Alchemy — 9 × 22 context matrix
+## 63. Transportation and Infrastructure Alchemy — 9 × 22 context matrix
 
 The matrix below maps all nine Transportation and Infrastructure subject Alchemies across the 22 canonical contexts. All nine rows represent new subject Alchemies and contribute 9 × 22 = **198 new unique mapped intersections**. No row refers to a previously established shared subject-Alchemy identity.
 
@@ -1894,7 +1894,7 @@ The column identifiers C01–C22 refer to the canonical context key in Section 8
 
 Every M records a required mapping position. It does not certify that a detailed contextual definition, implementation, testing, or verification is complete.
 
-## 91. Transportation and Infrastructure contextual expression requirements
+## 64. Transportation and Infrastructure contextual expression requirements
 
 Each of the 198 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -1911,15 +1911,15 @@ Each of the 198 new mapped intersections must receive an individually authored a
 11. **Evidence and validation:** supporting sources, limitations, and criteria for evaluating the contextual expression.
 
 The nine new subject-Alchemy identities and their 198 mapped intersections are distinct from related subject identities and mappings already in the taxonomy. Contextual expressions must be derived from each actual subject and its specific context; they must not be generated by mechanically repeating a generic description across all 22 contexts.
-## 95. Universal Subject of Knowledge hierarchy: Agriculture, Food, and Resource Sciences
+## 65. Universal Subject of Knowledge hierarchy: Agriculture, Food, and Resource Sciences
 
-### 95.1 Canonical subject definition
+### 65.1 Canonical subject definition
 
 **Source definition:** Not supplied in the Universal Subject material provided for this entry.
 
 The canonical subject name is retained exactly as supplied. No definition is inferred or added without an owner-provided definition. The Agriculture, Food, and Resource Sciences subject becomes **Agriculture, Food, and Resource Sciences Alchemy**.
 
-### 95.2 Agriculture, Food, and Resource Sciences Alchemy hierarchy
+### 65.2 Agriculture, Food, and Resource Sciences Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject list. The source provides nine subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Agriculture, Food, and Resource Sciences; no additional parent-child groupings have been inferred.
 
@@ -1934,7 +1934,7 @@ The following hierarchy preserves the supplied subject list. The source provides
   - **Soil Science Alchemy**
   - **Water Resource Management Alchemy**
 
-### 95.3 Agriculture, Food, and Resource Sciences Alchemy inventory
+### 65.3 Agriculture, Food, and Resource Sciences Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
 |---|---|---|---|
@@ -1955,7 +1955,7 @@ The following hierarchy preserves the supplied subject list. The source provides
 
 The source supplied the subject name and its nine subordinate subject names, but no definition for Agriculture, Food, and Resource Sciences and no further subdivisions or individual subject definitions. No definition, additional subject, or hierarchy detail has been inferred. Related subjects such as Agronomy, Forestry, Food Science, Animal Science, Fisheries, Aquaculture, Soil Science, and Water Resource Management remain separate canonical identities as supplied.
 
-## 96. Agriculture, Food, and Resource Sciences Alchemy — 10 × 22 context matrix
+## 66. Agriculture, Food, and Resource Sciences Alchemy — 10 × 22 context matrix
 
 The matrix below records all ten Agriculture, Food, and Resource Sciences hierarchy positions across the 22 canonical contexts. Nine rows represent new subject Alchemies and contribute 9 × 22 = **198 new unique mapped intersections**. The Agriculture row references the existing canonical Alchemy USA-ENV-010 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
 
@@ -1978,7 +1978,7 @@ The column identifiers C01–C22 refer to the canonical context key in Section 8
 
 The 22 Agriculture cells in this section point to the same subject-Alchemy/context intersections already represented by USA-ENV-010 in the Environmental Sciences matrix. They must not be counted twice. Agriculture retains its existing canonical identifier and is not assigned a second Alchemy identity.
 
-## 97. Agriculture, Food, and Resource Sciences contextual expression requirements
+## 67. Agriculture, Food, and Resource Sciences contextual expression requirements
 
 Each of the 198 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -1997,15 +1997,15 @@ Each of the 198 new mapped intersections must receive an individually authored a
 The 22 existing Agriculture mappings are not duplicated here. They remain associated with the shared canonical subject-Alchemy identity USA-ENV-010 and its two parent relationships. Detailed contextual expressions remain separate from the mapping references and must be evaluated according to the taxonomy's contextual-expression requirements.
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
-## 101. Universal Subject of Knowledge hierarchy: Meta-Knowledge Sciences
+## 68. Universal Subject of Knowledge hierarchy: Meta-Knowledge Sciences
 
-### 101.1 Canonical subject definition
+### 68.1 Canonical subject definition
 
 **Source definition:** Knowledge about knowledge itself.
 
 This definition is retained as supplied. No additional definition or interpretation is substituted for the source wording. The Meta-Knowledge Sciences subject becomes **Meta-Knowledge Sciences Alchemy**.
 
-### 101.2 Meta-Knowledge Sciences Alchemy hierarchy
+### 68.2 Meta-Knowledge Sciences Alchemy hierarchy
 
 The following hierarchy preserves the supplied subject list. The source provides twelve subordinate subjects as a flat list, without further indentation or subdivisions. Accordingly, each supplied subordinate subject is recorded directly under Meta-Knowledge Sciences; no additional parent-child groupings have been inferred.
 
@@ -2023,7 +2023,7 @@ The following hierarchy preserves the supplied subject list. The source provides
   - **Cybernetics Alchemy**
   - **Intelligence Studies Alchemy**
 
-### 101.3 Meta-Knowledge Sciences Alchemy inventory
+### 68.3 Meta-Knowledge Sciences Alchemy inventory
 
 | Identifier | Universal Subject of Knowledge | Alchemy identity | Parent / relationship |
 |---|---|---|---|
@@ -2047,7 +2047,7 @@ The following hierarchy preserves the supplied subject list. The source provides
 
 The source supplied the subject name, the definition “Knowledge about knowledge itself,” and twelve subordinate subject names, but no further subdivisions or individual subordinate-subject definitions. No additional definition, subject, or hierarchy detail has been inferred. Systems Thinking remains distinct from Systems Theory; Complexity Science remains distinct from Complexity Theory; and Intelligence Studies remains distinct from Intelligence Analysis. Classification Science, Taxonomy, and Ontology are preserved as separate supplied subject identities. The word Taxonomy in the name of this taxonomy document does not constitute a pre-existing Taxonomy Alchemy.
 
-## 102. Meta-Knowledge Sciences Alchemy — 13 × 22 context matrix
+## 69. Meta-Knowledge Sciences Alchemy — 13 × 22 context matrix
 
 The matrix below records all thirteen Meta-Knowledge Sciences hierarchy positions across the 22 canonical contexts. Twelve rows represent new subject Alchemies and contribute 12 × 22 = **264 new unique mapped intersections**. The Knowledge Management row references the existing canonical Alchemy USA-ELS-008 and its already-recorded 22 mappings; it is shared coverage, not an additional set of mappings.
 
@@ -2073,7 +2073,7 @@ The column identifiers C01–C22 refer to the canonical context key in Section 8
 
 The 22 Knowledge Management cells in this section point to the same subject-Alchemy/context intersections already represented by USA-ELS-008 in the Education and Learning Sciences matrix. They must not be counted twice. Knowledge Management retains its existing canonical identifier and is not assigned a second Alchemy identity.
 
-## 103. Meta-Knowledge Sciences contextual expression requirements
+## 70. Meta-Knowledge Sciences contextual expression requirements
 
 Each of the 264 new mapped intersections must receive an individually authored and reviewed contextual expression containing:
 
@@ -2092,11 +2092,11 @@ Each of the 264 new mapped intersections must receive an individually authored a
 The 22 existing Knowledge Management mappings are not duplicated here. They remain associated with the shared canonical subject-Alchemy identity USA-ELS-008 and its two parent relationships. Detailed contextual expressions remain separate from the mapping references and must be evaluated according to the taxonomy's contextual-expression requirements.
 
 A contextual expression must be derived from the actual Universal Subject and its specific context. It must not be created by mechanically repeating a generic description across all 22 contexts.
-## 104. Cross-domain mapping and matrix method
+## 71. Cross-domain mapping and matrix method
 
 This phase maps relationships among the twenty established top-level Universal Subjects of Knowledge and their 264 unique canonical subject Alchemies. It is distinct from the existing 22-context matrix. The 22-context matrix answers where each Alchemy is mapped; the cross-domain map and matrix answer how distinct subject domains and subject Alchemies relate to one another.
 
-### 104.1 Mapping units
+### 71.1 Mapping units
 
 - **Domain-level node:** one of the twenty canonical top-level Universal Subjects of Knowledge.
 - **Subject-Alchemy node:** one of the 264 unique canonical subject-Alchemy identities. A shared canonical identity remains one node with multiple top-level hierarchy memberships.
@@ -2105,7 +2105,7 @@ This phase maps relationships among the twenty established top-level Universal S
 - **Domain-level matrix:** a 20 × 20 view of the 190 unique unordered comparisons between top-level subject domains.
 - **Subject-Alchemy-level matrix:** a 264 × 264 sparse pairwise view covering 34,716 unique unordered pairs of distinct canonical subject-Alchemy nodes. The diagonal contains 264 self-comparisons and is excluded from relationship-pair totals.
 
-### 104.2 Relationship and matrix codes
+### 71.2 Relationship and matrix codes
 
 | Code | Meaning | Recording rule |
 |---|---|---|
@@ -2120,18 +2120,18 @@ This phase maps relationships among the twenty established top-level Universal S
 
 Codes are not interchangeable. SH is exact identity reuse, HI is hierarchy, and RD-P is a proposed relationship between distinct subject identities. RD-P must not be treated as owner-accepted, fully defined, implemented, tested, or verified. DP and EN remain reserved until direction and supporting evidence are established. A pair may carry multiple relationship records only when each relationship is separately stated and supported.
 
-### 104.3 Evidence, scope, and acceptance
+### 71.3 Evidence, scope, and acceptance
 
 Each relationship record must preserve: source node IDs; target node IDs; relationship type and subtype; direction where applicable; canonical source wording or evidence reference; relationship rationale; scope and exclusions; distinctions that must remain intact; assessment status; owner-review/acceptance state; and change history.
 
 Source-screen results, interpretive relationship proposals, external evidence, owner acceptance, and implementation status are separate fields. A proposed subtype is not a new subject definition. Where the taxonomy supplies no subject definition, no additional definition is inferred merely to justify a relationship.
 
-### 104.4 Matrix representation
+### 71.4 Matrix representation
 
 The domain matrix is a symmetric view for SH and RD-P because the current recorded links describe shared identity or related-but-distinct association. Directional relationships such as HI, DP, and EN belong in a directed edge register; the matrix uses direction markers where a directed edge is shown.
 
 The 264 × 264 subject-Alchemy matrix is maintained as a sparse matrix. The canonical node index below defines all rows and columns. Explicit HI and RD-P edges are stored as records. NS is the source-screen default for pairs not explicitly connected in the current taxonomy; it does not imply semantic independence or the absence of a possible relationship.
-## 105. Cross-domain shared-identity map
+## 72. Cross-domain shared-identity map
 
 This is the initial confirmed map of exact shared canonical subject-Alchemy identities across the twenty top-level Universal Subjects. It records only identities already explicitly established in the taxonomy's hierarchy and inventory records.
 
@@ -2151,7 +2151,7 @@ This is the initial confirmed map of exact shared canonical subject-Alchemy iden
 These eight links do not mean that the connected domains are identical, that their entire subject inventories overlap, or that their contextual responsibilities are interchangeable. Each link establishes only the shared identity of the named subject Alchemy and its multiple parent relationships.
 
 
-## 106. Universal Subject of Knowledge 20 × 20 cross-domain matrix
+## 73. Universal Subject of Knowledge 20 × 20 cross-domain matrix
 
 This matrix covers all twenty top-level Universal Subjects. Each off-diagonal cell represents one unique comparison between two different subject domains. The matrix supports multiple relationship codes in the same cell: Human Development and Civilization ↔ Social Sciences has both a shared Anthropology identity and separate related-but-distinct subject relationships. The matrix is a source-screen view, not a final semantic relationship matrix.
 
@@ -2180,7 +2180,7 @@ This matrix covers all twenty top-level Universal Subjects. Each off-diagonal ce
 | **AFR** Agriculture, Food, and Resource Sciences | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | SH | NS | NS | NS | NS | — | NS |
 | **MKS** Meta-Knowledge Sciences | RD-P | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | NS | SH | NS | NS | NS | RD-P | NS | NS | — |
 
-### 106.1 Source-screen coverage
+### 73.1 Source-screen coverage
 
 | Measure | Result |
 |---|---:|
@@ -2200,7 +2200,7 @@ All 190 unique domain pairs have received a source-inventory and explicit-note s
 The seven domain pairs containing RD-P proposals are Formal Sciences ↔ Meta-Knowledge Sciences; Security and Protection Sciences ↔ Meta-Knowledge Sciences; Transportation and Infrastructure ↔ Business and Economic Sciences; Transportation and Infrastructure ↔ Human Development and Civilization; Transportation and Infrastructure ↔ Engineering and Technology; Human Development and Civilization ↔ Social Sciences; and Earth, Space, and Planetary Sciences ↔ Physical Sciences.
 
 The two Humanities candidate relationships are intra-domain subject-Alchemy relationships and therefore do not create an additional off-diagonal top-level domain pair.
-## 107. Related-but-distinct relationship proposals
+## 74. Related-but-distinct relationship proposals
 
 The eleven candidate records/sets from version 1.12.0 have been resolved into eighteen subject-Alchemy relationship proposals. The original candidate IDs are retained for traceability. Each proposal preserves both canonical subject identities and explicitly avoids merging them.
 
@@ -2227,7 +2227,7 @@ The eleven candidate records/sets from version 1.12.0 have been resolved into ei
 | RD-017 | USA-HUM-008 Religious Studies | USA-HUM-009 Comparative Religion | HUM ↔ HUM | field–comparative approach relationship | Religious Studies and Comparative Religion are identified as closely related but separate. The proposed relationship recognizes comparative study as an approach or subfield associated with the study of religions, without asserting that the two canonical subjects are identical. | Proposed subtype; owner review pending | RD-CAND-010 |
 | RD-018 | USA-HUM-004 History | USA-HUM-012 Historical Analysis | HUM ↔ HUM | discipline–analytic method relationship | History and Historical Analysis are identified as closely related but separate. The proposed relationship connects the historical discipline with the analytical examination of historical evidence and processes, without merging the two canonical subjects. | Proposed subtype; owner review pending | RD-CAND-011 |
 
-### 107.1 Candidate resolution summary
+### 74.1 Candidate resolution summary
 
 | Original candidate | Resolution |
 |---|---|
@@ -2244,11 +2244,11 @@ The eleven candidate records/sets from version 1.12.0 have been resolved into ei
 | RD-CAND-011 | One proposed History / Historical Analysis relationship (RD-018). |
 
 **Pass 2 candidate result:** 11 source candidate records/sets expanded into 18 traceable subject-Alchemy edges. All 18 retain RD-P status pending owner review. No canonical subject identity, definition, or hierarchy placement has been merged or changed.
-## 108. Universal Subject Alchemy 264 × 264 sparse relationship matrix
+## 75. Universal Subject Alchemy 264 × 264 sparse relationship matrix
 
 The subject-Alchemy relationship matrix now indexes all 264 unique canonical subject-Alchemy identities. It uses stable canonical identifiers as row and column keys. The matrix is sparse because most possible node pairs do not yet have a recorded relationship in the current source taxonomy.
 
-### 108.1 Complete canonical node index
+### 75.1 Complete canonical node index
 
 The following index establishes every canonical node included in the 264 × 264 matrix. Multi-domain entries are listed once and show all of their top-level hierarchy memberships. They are not duplicated as separate nodes.
 
@@ -2521,7 +2521,7 @@ The following index establishes every canonical node included in the 264 × 264 
 
 **Node-index validation:** 264 unique canonical IDs are present. Their hierarchy memberships account for 272 hierarchy positions across twenty Universal Subjects. Exactly eight canonical nodes have two top-level hierarchy memberships: USA-ET-017 Artificial Intelligence; USA-SS-005 Economics; USA-HUM-006 Linguistics; USA-LS-005 Ecology; USA-SS-004 Anthropology; USA-ET-018 Cybersecurity; USA-ENV-010 Agriculture; and USA-ELS-008 Knowledge Management.
 
-### 108.2 Sparse matrix coverage
+### 75.2 Sparse matrix coverage
 
 | Matrix measure | Count |
 |---|---:|
@@ -2535,9 +2535,9 @@ The following index establishes every canonical node included in the 264 × 264 
 
 **Pair-count check:** 252 HI + 18 RD-P + 34,446 NS = 34,716 unique unordered pairs. The 264 diagonal cells are separate and excluded from this total.
 
-HI pairs are extracted from the canonical parent fields in the taxonomy inventories and preserve parent-to-child direction. RD-P pairs are the eighteen proposals in Section 107 and remain pending owner review. NS means only that the current taxonomy source does not state a direct relationship for that pair; it is not proof of no relationship. Future semantic research may reclassify NS pairs as RD, DP, EN, or another explicitly governed relationship type when supported.
+HI pairs are extracted from the canonical parent fields in the taxonomy inventories and preserve parent-to-child direction. RD-P pairs are the eighteen proposals in Section 44 and remain pending owner review. NS means only that the current taxonomy source does not state a direct relationship for that pair; it is not proof of no relationship. Future semantic research may reclassify NS pairs as RD, DP, EN, or another explicitly governed relationship type when supported.
 
-### 108.3 Interpretation and validation rules
+### 75.3 Interpretation and validation rules
 
 1. A canonical subject-Alchemy appears once in the node index, regardless of the number of hierarchy memberships it has.
 2. The eight shared identities are represented as multi-domain membership attributes, not as duplicate subject-Alchemy nodes or artificial edges between copies.
@@ -2547,10 +2547,10 @@ HI pairs are extracted from the canonical parent fields in the taxonomy inventor
 6. No contextual expression, dependency, enabling relation, implementation, test result, or verification state is inferred from a matrix cell alone.
 7. Each new edge must be checked for canonical IDs, duplicate unordered pairs, relationship direction, source rationale, non-equivalence boundaries, and acceptance state.
 
-### 108.4 Next subject-Alchemy mapping pass
+### 75.4 Next subject-Alchemy mapping pass
 
 Continue semantic assessment of NS pairs in bounded groups, prioritizing cross-domain pairs where the taxonomy inventories indicate a specific shared object, method, process, application, or operational interface. Record only relationships with an explicit rationale and preserve unresolved pairs as NS or UA. After the relationship register stabilizes, generate domain-filtered and full sparse matrix views from the same canonical edge data.
-## 109. Cumulative Universal Subject Alchemy register and mapping totals
+## 76. Cumulative Universal Subject Alchemy register and mapping totals
 
 The taxonomy now contains twenty supplied Universal Subjects of Knowledge hierarchies.
 
@@ -2580,9 +2580,9 @@ The taxonomy now contains twenty supplied Universal Subjects of Knowledge hierar
 
 The cumulative total represents 264 distinct subject Alchemies mapped across 22 contexts, producing 5808 unique Alchemy/context intersections. Computer and Information Sciences contains 15 hierarchy positions, but Artificial Intelligence is shared with Engineering and Technology; its 22 mappings are not counted a second time. Business and Economic Sciences contains 16 hierarchy positions, but Economics is shared with Social Sciences; its 22 mappings are not counted a second time. The Computer and Information Sciences section matrix shows 330 positions, of which 308 are new and 22 reference existing Artificial Intelligence mappings. The Business and Economic Sciences section matrix shows 352 positions, of which 330 are new and 22 reference existing Economics mappings. Social Sciences contributes 14 new subject Alchemies and 308 new mapped intersections. Law and Governance contributes 13 new subject Alchemies and 286 new mapped intersections; all 13 identities are unique within the existing register. Humanities contributes 12 new subject Alchemies and 264 new mapped intersections; all 12 identities are unique within the existing register. Language and Communication contributes 11 new subject Alchemies and 242 new mapped intersections; the existing Linguistics Alchemy contributes 22 shared mapping references and is not counted twice. Arts and Creative Expression contributes 16 new subject Alchemies and 352 new mapped intersections. Education and Learning Sciences contributes nine new canonical subject Alchemies and 198 unique mapped intersections. Knowledge Management USA-ELS-008 is first established here and is referenced, without duplicate counting, by Meta-Knowledge Sciences. Environmental Sciences contributes ten new subject Alchemies and 220 new mapped intersections; the existing Ecology Alchemy contributes 22 shared mapping references and is not counted twice. Earth, Space, and Planetary Sciences contributes ten new subject Alchemies and 220 new mapped intersections. Human Development and Civilization contributes nine new subject Alchemies and 198 new mapped intersections; the existing Anthropology Alchemy contributes 22 shared mapping references and is not counted twice. Security and Protection Sciences contributes eight new subject Alchemies and 176 new mapped intersections; the existing Cybersecurity Alchemy contributes 22 shared mapping references and is not counted twice. Transportation and Infrastructure contributes nine new distinct subject Alchemies and 198 new mapped intersections; no existing subject-Alchemy identities or context mappings are shared or counted again in that entry. Agriculture, Food, and Resource Sciences contributes nine new distinct subject Alchemies and 198 new mapped intersections; the existing Agriculture Alchemy USA-ENV-010 contributes 22 shared mapping references and is not counted a second time. Meta-Knowledge Sciences contributes twelve new distinct subject Alchemies and 264 new mapped intersections; the existing Knowledge Management Alchemy USA-ELS-008 contributes 22 shared mapping references and is not counted a second time.
 
-## 110. Taxonomy status and release register
+## 77. Taxonomy status and release register
 
-| Item | State in version 1.13.7 |
+| Item | State in version 1.13.8 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -2642,6 +2642,7 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 | Meta-Knowledge Sciences source definition | Recorded as supplied: Knowledge about knowledge itself. |
 | Meta-Knowledge Sciences hierarchy | Recorded — 13 positions: 12 new Alchemies and 1 shared existing Knowledge Management Alchemy |
 | Meta-Knowledge Sciences matrix | Recorded — 286 positions: 264 new mappings and 22 references to existing Knowledge Management mappings |
+| Current section numbering | Corrected in version 1.13.8 — 78 consecutive top-level sections (1–78); numbered subsections and current explicit section references updated; prior numbering retained as historical evidence |
 | Cross-domain mapping — Pass 1 | Recorded — 8 confirmed shared-identity links across 20 top-level subjects |
 | Cross-domain mapping — Pass 2 | Source screen complete — 18 RD-P edges proposed from 11 source candidates/sets; owner review pending |
 | Cross-domain 20 × 20 matrix | Recorded — 190 unique pairs: 8 SH, 7 RD-P, 176 NS; one pair carries both SH and RD-P; NS is not a negative finding |
@@ -2658,7 +2659,7 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 **Completion distinction:** Formal Sciences, Physical Sciences, Life Sciences, Health Sciences, Engineering and Technology, Computer and Information Sciences, Social Sciences, Business and Economic Sciences, Law and Governance, Humanities, Language and Communication, Arts and Creative Expression, Education and Learning Sciences, Environmental Sciences, Earth, Space, and Planetary Sciences, Human Development and Civilization, Security and Protection Sciences, Transportation and Infrastructure, Agriculture, Food, and Resource Sciences, and Meta-Knowledge Sciences subject names, source hierarchies, and matrix positions are recorded. The detailed context-specific definitions and operational expressions remain to be authored and reviewed for the mapped intersections. Cross-domain mapping includes eight confirmed shared-identity links and a source screen of all 190 unique top-level domain pairs; seven additional domain pairs have RD-P proposals, while 176 pairs have no direct relationship stated in the current taxonomy source (NS), which is not a negative finding. The 264-node subject-Alchemy index and sparse 264 × 264 matrix have been initialized with 252 established hierarchy pairs, eighteen RD-P proposals, and 34,446 NS pairs. Proposed relations remain pending owner review, and semantic assessment of NS pairs remains ongoing. Mapping, detailed definition, implementation, testing, and verification are distinct states and must not be conflated.
 
 
-## 111. Change control
+## 78. Change control
 
 Every change to this taxonomy must identify the affected Universal Subject, Alchemy identity, hierarchy relationship, context mapping, contextual expression, or governing rule. Changes must retain a traceable record of what changed and why.
 
@@ -2666,9 +2667,9 @@ All four repositories must maintain the same shared taxonomy content and version
 
 ### Historical section-number reconciliation
 
-A Git-history audit confirms that all eleven vacant ranges below were previously occupied by three end-matter sections: **Cumulative Universal Subject Alchemy register and mapping totals**, **Taxonomy status and release register**, and **Change control**. When a new Universal Subject block was appended, these closing sections were moved forward; their former section numbers were left vacant. The ranges therefore represent historical numbering vacancies, not omitted Universal Subject hierarchies, deleted domain matrices, or missing subject content.
+A Git-history audit confirms that the eleven ranges below were temporarily vacant in earlier releases when the three end-matter sections—**Cumulative Universal Subject Alchemy register and mapping totals**, **Taxonomy status and release register**, and **Change control**—were moved forward to make room for newly appended Universal Subject blocks. These ranges are retained here as historical numbering evidence only. They did not represent omitted Universal Subject hierarchies, deleted domain matrices, or missing subject content.
 
-| Vacated range | Git-history transition |
+| Historically vacant range | Git-history transition |
 |---|---|
 | 26–28 | v0.6.0 → v0.7.0: Computer and Information Sciences was added at 29–31; the three closing sections moved to 32–34. |
 | 41–43 | v1.0.0 → v1.1.0: Humanities was added at 44–46; the three closing sections moved to 47–49. |
@@ -2684,7 +2685,7 @@ A Git-history audit confirms that all eleven vacant ranges below were previously
 
 Version 1.12.0 then inserted the cross-domain sections at 104–108 and moved the closing sections to their current locations at 109–111. These current sections retain the active cumulative register, release register, and change-control functions.
 
-The migration pattern is established by the commit history. The original reason for leaving each former range vacant was not expressly recorded; this reconciliation documents the observed history and does not infer an undocumented reservation policy. The ranges remain unassigned in this release. They are not placeholders to be populated, and this audit does not renumber existing sections or alter any Universal Subject, canonical Alchemy identity, context mapping, matrix position, shared-identity relationship, or cumulative total.
+The migration pattern is established by the commit history. The original reason for leaving each former range vacant was not expressly recorded; this record documents the observed history without inferring an undocumented reservation policy. Version 1.13.8 resolves the current numbering gaps by compact-renumbering all 78 active top-level sections consecutively from 1 through 78, updating all 72 numbered subsection headings and all current explicit section references. The historical ranges in the table are no longer gaps in the current document; their former numbers are preserved only as migration-history evidence. Section order and substantive taxonomy content are preserved. No Universal Subject, canonical Alchemy identity, context mapping, matrix position, shared-identity relationship, or cumulative total has been changed.
 
 **Version 1.9.0 change record:** Added the owner-supplied Transportation and Infrastructure hierarchy, nine canonical subject-Alchemy identities, 198 required context mappings, and updated cumulative totals. No existing canonical subject identity was merged, removed, or duplicated.
 
@@ -2706,6 +2707,7 @@ The migration pattern is established by the commit history. The original reason 
 
 **Version 1.13.5 change record:** Corrected the Education and Learning Sciences accounting clarification from version 1.13.4. Education and Learning Sciences is the canonical first-occurrence domain for Knowledge Management (USA-ELS-008), as established by its canonical identifier and the explicit reference from Meta-Knowledge Sciences. Accordingly, Education retains nine new canonical subject Alchemies and 198 unique context mappings; Meta-Knowledge Sciences retains twelve new Alchemies and references the existing 22 Knowledge Management mappings without recounting them. The reciprocal parent annotations and shared-identity record remain unchanged. Global totals remain 264 unique subject Alchemies and 5,808 unique context mappings.
 
-**Version 1.13.6 change record:** Completed a Git-history-based numbering and structural reconciliation. Confirmed that ranges 26–28, 41–43, 47–49, 56–58, 62–64, 68–70, 74–76, 80–82, 86–88, 92–94, and 98–100 are legacy vacant heading ranges left as the three closing sections moved forward to accommodate new Universal Subject blocks. Documented the transitions and current disposition in Section 111. No missing Universal Subject content was identified or restored; no existing section was renumbered; and hierarchy, canonical Alchemy identities, context mappings, matrix positions, shared-identity relationships, and cumulative totals remain unchanged.
+**Version 1.13.6 change record:** Completed a Git-history-based numbering and structural reconciliation. Confirmed that ranges 26–28, 41–43, 47–49, 56–58, 62–64, 68–70, 74–76, 80–82, 86–88, 92–94, and 98–100 were historical vacant heading ranges left as the three closing sections moved forward to accommodate new Universal Subject blocks. Documented the transitions in the Change control section, then numbered Section 111. No missing Universal Subject content was identified or restored at that stage; no existing section had yet been renumbered; hierarchy, canonical Alchemy identities, context mappings, matrix positions, shared-identity relationships, and cumulative totals remained unchanged.
 
-**Version 1.13.7 change record:** Completed the source-to-document audit of all twenty owner-supplied Universal Subjects of Knowledge hierarchies against their supplied subject names, definitions where provided, and hierarchy placement. Corrected the Section 110 completion-distinction enumeration to include Meta-Knowledge Sciences, which was omitted from that summary despite its existing hierarchy in Section 101, matrix in Section 102, contextual-expression requirements in Section 103, cumulative register entry, and release-register records. Revalidated the cumulative inventory: 272 hierarchy positions, 264 unique canonical subject Alchemies, 22 contexts, and 5,808 unique context mappings. Confirmed that all eight shared identities retain one canonical ID and one set of 22 context mappings; all eighteen RD-P proposals remain pending owner review; and detailed contextual expressions remain not authored and not reviewed. No hierarchy, canonical identity, context mapping, matrix value, or relationship status was changed.
+**Version 1.13.7 change record:** Completed the source-to-document audit of all twenty owner-supplied Universal Subjects of Knowledge hierarchies against their supplied subject names, definitions where provided, and hierarchy placement. Corrected the completion-distinction enumeration in the release register (then Section 110) to include Meta-Knowledge Sciences, which had been omitted despite its existing hierarchy, matrix, and contextual-expression requirements (then Sections 101–103), cumulative register entry, and release-register records. Revalidated the cumulative inventory: 272 hierarchy positions, 264 unique canonical subject Alchemies, 22 contexts, and 5,808 unique context mappings. Confirmed that all eight shared identities retain one canonical ID and one set of 22 context mappings; all eighteen RD-P proposals remain pending owner review; and detailed contextual expressions remain not authored and not reviewed. No hierarchy, canonical identity, context mapping, matrix value, or relationship status was changed.
+**Version 1.13.8 change record:** Eliminated the remaining gaps in current section numbering. Compact-renumbered all 78 active top-level section headings consecutively from 1 through 78; updated all 72 numbered subsection headings and current explicit internal section references; corrected the release-register status and historical numbering explanation; and retained the prior ranges and migration sequence as historical change evidence. Preserved document order and substantive content. No Universal Subject hierarchy, canonical Alchemy identity, 22-context mapping, matrix value, shared-identity relationship, cross-domain proposal, or cumulative total was changed.
