@@ -1,6 +1,6 @@
 # Alchemy Taxonomy for the Universal Subjects of Knowledge
 
-**Version:** 1.13.2  
+**Version:** 1.13.3  
 **Status:** Twenty supplied Universal Subject hierarchies recorded; 264 unique subject Alchemies mapped across 22 contexts; 5,808 contextual-expression records established with expression authoring and review pending; cross-domain source screening and 264-node sparse relationship matrix initiated; 18 related-but-distinct proposals pending owner review  
 **Coverage:** 22 C2O and UNIVERSALIS contexts
 
@@ -446,7 +446,7 @@ The following hierarchy preserves the supplied subject structure. The source pro
   - **Biology Alchemy**
   - **Genetics Alchemy**
   - **Evolutionary Biology Alchemy**
-  - **Ecology Alchemy**
+  - **Ecology Alchemy** *(shared canonical Alchemy: USA-LS-005; also parented under Environmental Sciences)*
   - **Microbiology Alchemy**
   - **Botany Alchemy**
   - **Zoology Alchemy**
@@ -469,7 +469,7 @@ The following hierarchy preserves the supplied subject structure. The source pro
 | USA-LS-002 | Biology | Biology Alchemy | Life Sciences |
 | USA-LS-003 | Genetics | Genetics Alchemy | Life Sciences |
 | USA-LS-004 | Evolutionary Biology | Evolutionary Biology Alchemy | Life Sciences |
-| USA-LS-005 | Ecology | Ecology Alchemy | Life Sciences |
+| USA-LS-005 | Ecology | Ecology Alchemy | Life Sciences; Environmental Sciences (shared canonical subject) |
 | USA-LS-006 | Microbiology | Microbiology Alchemy | Life Sciences |
 | USA-LS-007 | Botany | Botany Alchemy | Life Sciences |
 | USA-LS-008 | Zoology | Zoology Alchemy | Life Sciences |
@@ -753,7 +753,7 @@ The following hierarchy preserves the supplied subject structure. The source lis
   - **Software Development Alchemy**
   - **Data Science Alchemy**
   - **Machine Learning Alchemy**
-  - **Artificial Intelligence Alchemy** *(shared canonical Alchemy: USA-ET-017)*
+  - **Artificial Intelligence Alchemy** *(shared canonical Alchemy: USA-ET-017; also parented under Engineering and Technology)*
   - **Information Systems Alchemy**
   - **Database Systems Alchemy**
   - **Human-Computer Interaction Alchemy**
@@ -1138,7 +1138,7 @@ The following hierarchy preserves the supplied subject list. The source lists 11
   - **Ethics Alchemy**
   - **History Alchemy**
   - **Archaeology Alchemy**
-  - **Linguistics Alchemy**
+  - **Linguistics Alchemy** *(shared canonical Alchemy: USA-HUM-006; also parented under Language and Communication)*
   - **Literature Alchemy**
   - **Religious Studies Alchemy**
   - **Comparative Religion Alchemy**
@@ -1423,7 +1423,7 @@ The following hierarchy preserves the supplied subject list. The source provides
   - **Educational Psychology Alchemy**
   - **Assessment Alchemy**
   - **Curriculum Design Alchemy**
-  - **Knowledge Management Alchemy**
+  - **Knowledge Management Alchemy** *(shared canonical Alchemy: USA-ELS-008; also parented under Meta-Knowledge Sciences)*
   - **Training Systems Alchemy**
 
 ### 59.3 Education and Learning Sciences Alchemy inventory
@@ -1437,7 +1437,7 @@ The following hierarchy preserves the supplied subject list. The source provides
 | USA-ELS-005 | Educational Psychology | Educational Psychology Alchemy | Education and Learning Sciences |
 | USA-ELS-006 | Assessment | Assessment Alchemy | Education and Learning Sciences |
 | USA-ELS-007 | Curriculum Design | Curriculum Design Alchemy | Education and Learning Sciences |
-| USA-ELS-008 | Knowledge Management | Knowledge Management Alchemy | Education and Learning Sciences |
+| USA-ELS-008 | Knowledge Management | Knowledge Management Alchemy | Education and Learning Sciences; Meta-Knowledge Sciences (shared canonical subject) |
 | USA-ELS-009 | Training Systems | Training Systems Alchemy | Education and Learning Sciences |
 
 **Education and Learning Sciences total: 9 distinct subject Alchemies** — one parent subject and eight supplied subordinate subjects. No exact canonical subject-Alchemy identity in the existing register is reused in this hierarchy. Related concepts in other knowledge domains remain distinct unless an exact shared subject identity is explicitly established; conceptual association alone does not justify merging subject identities.
@@ -1506,7 +1506,7 @@ The following hierarchy preserves the supplied subject list. The source provides
   - **Resource Management Alchemy**
   - **Biodiversity Studies Alchemy**
   - **Restoration Science Alchemy**
-  - **Agriculture Alchemy**
+  - **Agriculture Alchemy** *(shared canonical Alchemy: USA-ENV-010; also parented under Agriculture, Food, and Resource Sciences)*
 
 ### 65.3 Environmental Sciences Alchemy inventory
 
@@ -1522,7 +1522,7 @@ The following hierarchy preserves the supplied subject list. The source provides
 | USA-ENV-007 | Resource Management | Resource Management Alchemy | Environmental Sciences |
 | USA-ENV-008 | Biodiversity Studies | Biodiversity Studies Alchemy | Environmental Sciences |
 | USA-ENV-009 | Restoration Science | Restoration Science Alchemy | Environmental Sciences |
-| USA-ENV-010 | Agriculture | Agriculture Alchemy | Environmental Sciences |
+| USA-ENV-010 | Agriculture | Agriculture Alchemy | Environmental Sciences; Agriculture, Food, and Resource Sciences (shared canonical subject) |
 
 **Environmental Sciences total: 11 hierarchy positions comprising 10 new distinct subject Alchemies and 1 shared existing subject Alchemy.**
 
@@ -2580,7 +2580,7 @@ The cumulative total represents 264 distinct subject Alchemies mapped across 22 
 
 ## 110. Taxonomy status and release register
 
-| Item | State in version 1.13.1 |
+| Item | State in version 1.13.3 |
 |---|---|
 | Taxonomy subject | Alchemy Taxonomy for the Universal Subjects of Knowledge |
 | Governing subject rule | Established: every Universal Subject becomes an Alchemy |
@@ -2675,3 +2675,5 @@ All four repositories must maintain the same shared taxonomy content and version
 **Version 1.13.1 change record:** Corrected the top-level domain matrix to allow multiple relationship codes for one domain pair. Human Development and Civilization ↔ Social Sciences contains both the shared Anthropology identity and separate proposed related-but-distinct subject relationships. The corrected source-screen result is 176 NS domain pairs; all underlying relationship records and cumulative taxonomy totals remain unchanged.
 
 **Version 1.13.2 change record:** Added the 5,808-record Contextual Expression Register derived from the existing 264 unique subject-Alchemy identifiers and 22 canonical context keys. The register preserves the eight shared multi-domain identities once each, tracks mapping separately from expression authoring, review, evidence, owner acceptance, implementation, and publication authorization, and leaves every detailed expression pending individual authorship and review. No subject, hierarchy, context mapping, implementation, or verification claim was added.
+
+**Version 1.13.3 change record:** Completed reciprocal hierarchy annotations and parent metadata for the eight established shared canonical subject-Alchemy identities so both parent hierarchies consistently record each shared relationship. Corrected the release-register version heading to 1.13.3. No canonical subject identifiers, unique subject-Alchemy counts, context mappings, matrix values, or cross-domain relationship classifications changed.
