@@ -943,7 +943,7 @@ The following hierarchy preserves the supplied subject list. The source lists 15
   - **Finance Alchemy**
   - **Investment Alchemy**
   - **Banking Alchemy**
-  - **Economics Alchemy** *(shared canonical Alchemy: USA-SS-005)*
+  - **Economics Alchemy** *(shared canonical Alchemy: USA-SS-005; also parented under Social Sciences)*
   - **Marketing Alchemy**
   - **Sales Alchemy**
   - **Entrepreneurship Alchemy**
