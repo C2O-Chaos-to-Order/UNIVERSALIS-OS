@@ -848,8 +848,8 @@ The following hierarchy preserves the supplied subject structure. The source pro
 - **Social Sciences Alchemy**
   - **Psychology Alchemy**
   - **Sociology Alchemy**
-  - **Anthropology Alchemy**
-  - **Economics Alchemy**
+  - **Anthropology Alchemy** *(shared canonical Alchemy: USA-SS-004; also parented under Human Development and Civilization)*
+  - **Economics Alchemy** *(shared canonical Alchemy: USA-SS-005; also parented under Business and Economic Sciences)*
   - **Political Science Alchemy**
   - **International Relations Alchemy**
   - **Human Geography Alchemy**
@@ -867,8 +867,8 @@ The following hierarchy preserves the supplied subject structure. The source pro
 | USA-SS-001 | Social Sciences | Social Sciences Alchemy | Root subject |
 | USA-SS-002 | Psychology | Psychology Alchemy | Social Sciences |
 | USA-SS-003 | Sociology | Sociology Alchemy | Social Sciences |
-| USA-SS-004 | Anthropology | Anthropology Alchemy | Social Sciences |
-| USA-SS-005 | Economics | Economics Alchemy | Social Sciences |
+| USA-SS-004 | Anthropology | Anthropology Alchemy | Social Sciences; Human Development and Civilization (shared canonical subject) |
+| USA-SS-005 | Economics | Economics Alchemy | Social Sciences; Business and Economic Sciences (shared canonical subject) |
 | USA-SS-006 | Political Science | Political Science Alchemy | Social Sciences |
 | USA-SS-007 | International Relations | International Relations Alchemy | Social Sciences |
 | USA-SS-008 | Human Geography | Human Geography Alchemy | Social Sciences |
