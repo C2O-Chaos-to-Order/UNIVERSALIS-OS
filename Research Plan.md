@@ -130,7 +130,7 @@ The following Universal Foundational Rules govern this Research Plan and its app
 - All 12 Magnum Opus research stages.
 - All 12 Zodiac correspondences.
 - All 12 Disciple correspondences.
-- UNIVERSALIS Intelligence, the UNIVERSALIS system and application contexts relevant to this plan, and their associated worker UNIVERSIN and UNIVERSALIN Guardian relationships and activities.
+- UNIVERSALIS Intelligence, the UNIVERSALIS system and application contexts relevant to this plan, and their associated worker UNIVERSALIN and UNIVERSALIN Guardian relationships and activities.
 - Research, evidence handling, interpretation, decisions, design, implementation proposals, evaluation, and review undertaken within this plan.
 
 This Research Plan is maintained in the UNIVERSALIS-OS repository. Its scope is limited to the UNIVERSALIS contexts identified in this document. No context, stage, correspondence, intelligence, system, organization, or individual authority within that scope is exempt from these principles.
