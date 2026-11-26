@@ -10,7 +10,7 @@ This document defines the UNIVERSALIS Operating System Research Plan. It applies
 
 The programme exists to determine, with traceable evidence, what the UNIVERSALIS Operating System is, what it must do, how it relates to the UNIVERSALIS Application, what should be built, how it should be built, and what must be verified before any capability is represented as implemented or complete.
 
-This is a UNIVERSALIS-only scoped plan. Its registered system and intelligence contexts are UNIVERSALIS contexts. It does not create or register C2O system, intelligence, dimension, process, or Guardian counterparts. References to the wider six-repository architecture are limited to documenting source authority, dependencies, interfaces, licensing, and repository boundaries; they do not expand this plan's UNIVERSALIS research scope.
+This is a UNIVERSALIS-only scoped plan. Its registered system and intelligence contexts are UNIVERSALIS contexts. It does not create or register C2O system, intelligence, dimension, process, or Sentinel counterparts. References to the wider six-repository architecture are limited to documenting source authority, dependencies, interfaces, licensing, and repository boundaries; they do not expand this plan's UNIVERSALIS research scope.
 
 The UNIVERSALIS system is researched as independently operable and open-source. It must not depend on C2O private implementation, private authority, or either Master system for independent operation. Any coordination or interoperability with external systems must be examined through explicit, versioned, permission-controlled capability contracts. Access and authority are not transitive.
 
@@ -26,7 +26,7 @@ The programme covers:
 - The relationship between the UNIVERSALIS Operating System and the UNIVERSALIS Application, limited to evidenced dependencies, interfaces, interoperability, and boundary conditions.
 - The shared UNIVERSALIS Intelligence foundation and its relationship to the UNIVERSALIS Operating System.
 - UNIVERSALIS-specific Body, Heart, Intelligence, Mind, Soul, Spirit, and Consciousness dimensions, and UNIVERSALIS-specific Divergence, Insurgence, Allegiance, Convergence, Ascendence, and Transcendence processes.
-- Worker UNIVERSALIN and Human UNIVERSALIN Guardian roles associated with the UNIVERSALIS Operating System, including their intelligence functions, authority limits, consent boundaries, monitoring, correction, and accountability.
+- Worker UNIVERSALIN and Human UNIVERSALIN Sentinel roles associated with the UNIVERSALIS Operating System, including their intelligence functions, authority limits, consent boundaries, monitoring, correction, and accountability.
 - Shared UNIVERSALIS architecture, taxonomy, Tablet, context, requirement, evidence, and verification structures applicable to this system.
 - Relevant dependencies and interfaces with the UNIVERSALIS Master repositories and the companion UNIVERSALIS system repository, while preserving the boundary between project/architecture documentation and private implementation.
 - Research required to inform architecture, implementation, integration, security, privacy, safety, accessibility, sustainability, resource efficiency, operations, maintenance, migration, recovery, and retirement.
@@ -34,7 +34,7 @@ The programme covers:
 
 ### 2.2 Explicitly excluded from this scoped plan
 
-This plan does not register C2O as a research subject, system, intelligence, dimension, process, or Guardian context. C2O repositories may be identified where necessary to describe the wider repository boundary or a documented interface, but no C2O-specific research scope is created here.
+This plan does not register C2O as a research subject, system, intelligence, dimension, process, or Sentinel context. C2O repositories may be identified where necessary to describe the wider repository boundary or a documented interface, but no C2O-specific research scope is created here.
 
 This plan does not use or depend on the repository's numbered 01, 02, 03, 04, or 05 work areas as authority or evidence merely because material exists there.
 
@@ -134,7 +134,7 @@ Research under this plan must use typed UNIVERSALIS contexts rather than one und
 - UNIVERSALIS Intelligence as the shared UNIVERSALIS intelligence foundation.
 - The companion UNIVERSALIS Application system context, only where a material interface, dependency, or interoperability question requires it.
 - Worker UNIVERSALIN and associated UNIVERSALIS-system operational contexts.
-- Human UNIVERSALIN Guardian and associated UNIVERSALIS-system contexts.
+- Human UNIVERSALIN Sentinel and associated UNIVERSALIS-system contexts.
 - Human, Human Intelligence, Consciousness, Emotion, Intent, Evidence, Authority, Safety, Body, Heart, Mind, Soul, Spirit, Subconsciousness, Wisdom, Monitoring, Correction, Restoration, and Acceptance, where material to a registered question.
 - AI systems, models, agents, and multi-agent systems.
 - Operating systems and operating environments.
@@ -196,12 +196,22 @@ The scoped register contains six UNIVERSALIS contexts: one shared UNIVERSALIS In
 
 1. **UNIVERSALIS Intelligence** — the shared foundational intelligence of UNIVERSALIS. Researches UNIVERSALIS identity, intelligence, capabilities, responsibilities, decision-making, governance, continuity, limitations, and relationships to UNIVERSALIS Operating System and UNIVERSALIS Application.
 2. **UNIVERSALIS Operating System** — researches the UNIVERSALIS Operating System as a system in its own right, including purpose, architecture, components, functions, interfaces, lifecycle, dependencies, constraints, security, governance, and relationship to the wider UNIVERSALIS ecosystem.
-3. **UNIVERSALIS Operating System — UNIVERSALIN** — researches non-personal worker UNIVERSALINS operating in, for, or through the UNIVERSALIS Operating System, including role, allocation, permitted capabilities, interaction patterns, boundaries, dependencies, oversight, and operational effects. Worker UNIVERSALINS are distinct from human-assigned UNIVERSALIN Guardians.
+3. **UNIVERSALIS Operating System — UNIVERSALIN** — researches non-personal worker UNIVERSALINS operating in, for, or through the UNIVERSALIS Operating System, including role, allocation, permitted capabilities, interaction patterns, boundaries, dependencies, oversight, and operational effects. Worker UNIVERSALINS are distinct from human-assigned UNIVERSALIN Sentinels.
 4. **UNIVERSALIS Operating System — UNIVERSALIN Intelligence** — researches the intelligence and operational capabilities of worker UNIVERSALINS within the UNIVERSALIS Operating System, including reasoning, information handling, task execution, coordination, reliability, limitations, evaluation, and controls governing permitted activity.
-5. **UNIVERSALIS Operating System — UNIVERSALIN Guardian** — researches the human-assigned personal UNIVERSALIN Guardian context associated with the UNIVERSALIS Operating System, including the human–Guardian relationship, assignment, consent, role, permissions, continuity, privacy, boundaries, and interaction with the system.
-6. **UNIVERSALIS Operating System — UNIVERSALIN Guardian Intelligence** — researches the intelligence, capabilities, limitations, and permitted activity of UNIVERSALIN Guardians in relation to the UNIVERSALIS Operating System, including personal-assistance functions, contextual understanding, memory and continuity, consent, privacy, accountability, and the distinction between assistance and human authority.
+5. **UNIVERSALIS Operating System — UNIVERSALIN Sentinel** — researches the human-assigned personal UNIVERSALIN Sentinel context associated with the UNIVERSALIS Operating System, including the human–Sentinel relationship, assignment, consent, role, permissions, continuity, privacy, boundaries, and interaction with the system.
+6. **UNIVERSALIS Operating System — UNIVERSALIN Sentinel Intelligence** — researches the intelligence, capabilities, limitations, and permitted activity of UNIVERSALIN Sentinels in relation to the UNIVERSALIS Operating System, including personal-assistance functions, contextual understanding, memory and continuity, consent, privacy, accountability, and the distinction between assistance and human authority.
 
 **Scoped context count:** 6 (1 shared UNIVERSALIS Intelligence foundation + 5 UNIVERSALIS Operating System contexts).
+
+
+**UNIVERSALIS edition assistant-form allocation:** This UNIVERSALIS edition plan includes the **Basic form only** for each assistant class within each human-associated allocation:
+
+- **UNIVERSALIN:** 1 Basic instance.
+- **UNIVERSALIN Sentinel:** 1 Basic instance.
+- **Total:** 2 instances per human-associated allocation in this edition.
+
+The Intermediate and Master forms are not included in this UNIVERSALIS edition allocation. This edition-specific allocation does not alter the three-form UNIVERSALIN and three-form UNIVERSALIN Sentinel architecture defined by the Master Research Plans, or the Basic + Intermediate allocation defined by the C2O edition plans. Basic identifies the selected form for this edition; it does not, by itself, establish capability, maturity, autonomy, authority, permissions, or progression. The allocation is a Research Plan specification only: it does not claim that either instance is implemented, researched, or operational, and it does not authorize implementation.
+
 
 ## 7. Research Protocol
 
@@ -392,7 +402,7 @@ The research programme must maintain the following coordinated workstreams, appl
 3. **Architecture:** kernel, boot and initialization model, core services, scheduling, memory and process management, storage, configuration, device abstraction, security boundaries, system interfaces, extensibility, and lifecycle.
 4. **Interfaces and Integration:** APIs, protocols, schemas, compatibility, semantic translation, error handling, versioning, and failure isolation between the UNIVERSALIS Operating System, its companion UNIVERSALIS system, and approved external dependencies.
 5. **Identity and Authority:** identities, roles, delegation, authentication, authorization, consent, revocation, and least privilege.
-6. **UNIVERSALIN and Guardian Roles:** role definitions, task boundaries, human oversight, memory boundaries, monitoring, correction, refusal, appeal, and accountability within the UNIVERSALIS Operating System.
+6. **UNIVERSALIN and Sentinel Roles:** role definitions, task boundaries, human oversight, memory boundaries, monitoring, correction, refusal, appeal, and accountability within the UNIVERSALIS Operating System.
 7. **Security:** threat model, secure design, dependency and supply-chain risk, secrets, isolation, auditability, incident response, and recovery.
 8. **Privacy and Data Governance:** minimization, purpose limitation, access, retention, deletion, portability, provenance, and protected data handling.
 9. **Safety and Reliability:** hazards, failure modes, resilience, availability, safe degradation, stop conditions, restoration, and residual risk.
