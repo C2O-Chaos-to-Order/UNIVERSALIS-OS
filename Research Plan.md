@@ -1,9 +1,9 @@
-# C2O–UNIVERSALIS UNIVERSALIS Operating System Research Plan
+# C2O–UNIVERSALIS Operating System Research Plan — UNIVERSALIS-OS Edition
 
 **Document status:** Proposed replacement for repository review  
 **Repository:** C2O-UNIVERSALIS/UNIVERSALIS-OS  
 **Document role:** UNIVERSALIS-OS edition research-governance and execution plan  
-**Authority boundary:** This Plan governs research performed for the public/open-source UNIVERSALIS-OS edition within its defined scope. It does not grant a license, certify rights clearance, or authorize publication, distribution, implementation, deployment, synchronization, or release. It does not, by itself, approve implementation, release, publication, deployment, access, synchronization, repository conversion, deletion of historical material, or changes to another repository.
+**Authority boundary:** This Plan governs research performed for the public/open-source UNIVERSALIS-OS edition within its defined scope. It does not grant a license, certify rights clearance, or authorize publication, distribution, implementation, deployment, synchronization, or release. It does not, by itself, approve deployment, access, repository conversion, deletion of historical material, or changes to another repository.
 
 ## Master-source and edition relationship
 
@@ -35,7 +35,7 @@ The programme exists to determine, through traceable research and accountable de
 - What UNIVERSALIS-OS is and is not.
 - Which purposes, affected parties, operating environments, system boundaries, responsibilities, capabilities, limitations, and non-goals apply to it.
 - Which responsibilities belong to UNIVERSALIS-OS, which belong to UNIVERSALIS-App, which are inherited from their respective Master source domains, which are shared through explicit contracts, and which must remain independent.
-- How C2O-OS relates to the other five repositories in the six-repository architecture.
+- How UNIVERSALIS-OS relates to the other five repositories in the six-repository architecture.
 - How the UNIVERSALIS Operating Intelligence, paired dimensions, paired processes, UNIVERSALIN roles, and UNIVERSALIN Sentinel roles apply within the UNIVERSALIS-OS edition.
 - Which taxonomies, Tablets, contexts, evidence, requirements, architecture decisions, interfaces, safeguards, and verification activities are materially relevant.
 - What should be built, changed, maintained, deferred, rejected, retired, or left unbuilt.
@@ -395,7 +395,7 @@ The phrase “a human has” describes the human-associated allocation and avail
 
 The allocation is a plan-level structural requirement, not evidence that any instance has been researched, implemented, provisioned, activated, or verified. This update changes the Research Plans only. It does not perform the research, establish research findings, authorize implementation, or claim that the specified forms or instances currently exist.
 
-The Master Plans and edition Plans must represent this shared allocation consistently while defining its application to their respective domains: MOS-specific system responsibilities in the MOS Plan and C2O-OS-specific operating-system responsibilities in this Plan.
+The Master Plans and edition Plans must represent this shared allocation consistently while defining its application to their respective domains: MOS-specific system responsibilities in the MOS Plan and UNIVERSALIS-OS-specific operating-system responsibilities in this Plan.
 
 
 #### Dimensional and Process Coverage for UNIVERSALIN and UNIVERSALIN Sentinel
