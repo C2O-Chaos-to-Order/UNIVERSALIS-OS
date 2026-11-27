@@ -5,7 +5,7 @@
 **Operating Intelligence:** UNIVERSALIS  
 **Master source:** [C2O–UNIVERSALIS Master Operating System (MOS)](https://github.com/C2O-UNIVERSALIS/C2O-UNIVERSALIS-MOS)  
 **C2O edition reference:** [C2O-OS](https://github.com/C2O-UNIVERSALIS/C2O-OS)  
-**Research Plan:** [Research Plan.md](Research%20Plan.md)
+**Research Plan:** [Research Plan.md](C2O-UNIVERSALIS%20Research%20Plan/Research%20Plan.md)
 
 ## Purpose
 
@@ -48,7 +48,7 @@ The Application Applicability Register location required by the shared six-repos
 
 ## Research status
 
-The [UNIVERSALIS-OS Research Plan](Research%20Plan.md) adapts the shared research methodology to the public/open-source UNIVERSALIS Operating System edition. It preserves the distinction between Master-source research, edition-specific research, evidence status, review status, owner acceptance, and action authorization. It does not predetermine which OS capabilities should be built or certify that any artifact is cleared for public release.
+The [UNIVERSALIS-OS Research Plan](C2O-UNIVERSALIS%20Research%20Plan/Research%20Plan.md) adapts the shared research methodology to the public/open-source UNIVERSALIS Operating System edition. It preserves the distinction between Master-source research, edition-specific research, evidence status, review status, owner acceptance, and action authorization. It does not predetermine which OS capabilities should be built or certify that any artifact is cleared for public release.
 
 ## Licensing and provenance status
 
